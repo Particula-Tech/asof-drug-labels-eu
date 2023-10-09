@@ -114,9 +114,9 @@ No studies have been conducted to evaluate the drug interactions of ritonavir, t
 While the magnitudes of change on raltegravir exposure from raltegravir 400 mg twice daily by ritonavir, boceprevir or etravirine were small, the impact from tipranavir/ritonavir was greater (GMR Ctrough=0.45, GMR AUC=0.76).
 Co-administration of raltegravir 1,200 mg once daily and tipranavir/ritonavir is not recommended.
 
-Previous studies of raltegravir 400 mg twice daily showed that co-administration of tenofovir disoproxil fumarate (a component of emtricitabine/tenofovir disaproxil fumarate) increased raltegravir exposure.
-Emtricitabine/tenofovir disaproxil fumarate was identified to increase raltegravir 1,200 mg once daily bioavailability by 12%, however its impact is not clinically meaningful.
-Therefore, co-administration of emtricitabine/tenofovir disaproxil fumarate and raltegravir 1,200 mg once daily is permitted.
+Previous studies of raltegravir 400 mg twice daily showed that co-administration of tenofovir disoproxil fumarate (a component of emtricitabine/tenofovir disoproxil fumarate) increased raltegravir exposure.
+Emtricitabine/tenofovir disoproxil fumarate was identified to increase raltegravir 1,200 mg once daily bioavailability by 12%, however its impact is not clinically meaningful.
+Therefore, co-administration of emtricitabine/tenofovir disoproxil fumarate and raltegravir 1,200 mg once daily is permitted.
 
 Comprehensive drug interaction studies were performed with raltegravir 400 mg twice daily and a limited number of drug interaction studies were performed for raltegravir 1,200 mg once daily.
 
@@ -136,7 +136,7 @@ Table 1 displays all available interaction study data along with recommendations
 | etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 10% raltegravir C12hr ↓ 34% raltegravir Cmax ↓ 11% (UGT1A1 induction) etravirine AUC ↑ 10% etravirine C12hr ↑ 17% etravirine Cmax ↑ 4% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or etravirine. |
 | Nucleoside/tide reverse transcriptase inhibitors |  |  |
 | tenofovir disoproxil fumarate (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 49% raltegravir C12hr ↑ 3% raltegravir Cmax ↑ 64% (mechanism of interaction unknown) tenofovir AUC ↓ 10% tenofovir C24hr ↓ 13% tenofovir Cmax ↓ 23% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or tenofovir disoproxil fumarate. |
-| emtricitabine and tenofovir disoproxil fumarate (raltegravir 1,200 mg (2 x 600 mg) Once Daily) | Population PK analysis showed that the effect of emtricitabine/tenofovir disaproxil fumarate on raltegravir pharmacokinetics was minimal (12% increase in relative bioavailability), and was not statistically or clinically significant. (Mechanism of interaction unknown) |  |
+| emtricitabine and tenofovir disoproxil fumarate (raltegravir 1,200 mg (2 x 600 mg) Once Daily) | Population PK analysis showed that the effect of emtricitabine/tenofovir disoproxil fumarate on raltegravir pharmacokinetics was minimal (12% increase in relative bioavailability), and was not statistically or clinically significant. (Mechanism of interaction unknown) |  |
 | CCR5 inhibitors |  |  |
 | maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 37% raltegravir C12hr ↓ 28% raltegravir Cmax ↓ 33% (mechanism of interaction unknown) maraviroc AUC ↓ 14% maraviroc C12hr ↓ 10% maraviroc Cmax ↓ 21% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or maraviroc. |
 | HCV ANTIVIRALS |  |  |

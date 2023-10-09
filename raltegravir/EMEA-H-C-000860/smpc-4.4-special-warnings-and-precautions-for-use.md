@@ -3,8 +3,6 @@
 General
 
 Patients should be advised that current anti-retroviral therapy does not cure HIV and has not been proven to prevent the transmission of HIV to others through blood contact.
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Raltegravir has a relatively low genetic barrier to resistance.
 Therefore, whenever possible, raltegravir should be administered with two other active ARTs to minimise the potential for virological failure and the development of resistance (see section 5.1).
@@ -118,6 +116,7 @@ Sucrose
 This medicinal product contains up to 3.5 mg sucrose in each 25 mg chewable tablet.
 May be harmful to the teeth.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
 Chewable tablet 100 mg
 
 This medicinal product contains fructose up to 1.07 mg per tablet.

@@ -19,8 +19,7 @@ Available pharmacodynamics/toxicological data in animals have shown excretion of
 
 A risk to the newborns/infants cannot be excluded.
 
-Raltegravir should not be used during breast-feeding.
-As a general rule, it is recommended that mothers infected by HIV do not breast-feed their babies in order to avoid transmission of HIV.
+It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 Fertility
 
