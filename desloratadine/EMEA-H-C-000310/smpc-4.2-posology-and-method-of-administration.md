@@ -18,27 +18,6 @@ Method of administration
 Oral use.
 The dose can be taken with or without food.
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-The recommended dose of Azomyr is two 2.5 mg orodispersible tablets placed in the mouth once a day.
-
-Children 6 to 11 years of age: the recommended dose of Azomyr is one 2.5 mg orodispersible tablet placed in mouth once a day.
-
-The safety and efficacy of Azomyr 2.5 mg orodispersible tablets in children below the age of 6 years have not been established.
-
-There is limited clinical trial efficacy experience with the use of desloratadine in children 6 through 11 years of age (see section 5.2).
-
-Immediately before use, the blister must be carefully peeled open and the dose of orodispersible tablet removed without crushing it.
-The dose of orodispersible tablet is placed in the mouth where it will disperse immediately.
-Water or other liquid is not needed to swallow the dose.
-The dose must be taken as soon as the blister has been opened.
-
-[Azomyr 5 mg orodispersible tablets]
-
-The recommended dose of Azomyr is one 5 mg orodispersible tablet placed in the mouth once a day.
-
-The safety and efficacy of Azomyr 5 mg orodispersible tablets in children below the age of 12 years have not been established.
-
 [Azomyr 0.5 mg/ml oral solution]
 
 The recommended dose of Azomyr is 10 ml (5 mg) oral solution once a day.

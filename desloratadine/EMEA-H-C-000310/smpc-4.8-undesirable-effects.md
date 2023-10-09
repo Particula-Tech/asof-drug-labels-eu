@@ -38,18 +38,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-In clinical trials, desloratadine in the syrup formulation was administered to a paediatric population.
-The overall incidence of adverse reactions was similar between the desloratadine syrup and the placebo groups and did not differ significantly than the safety profile seen in adult patients.
-
-In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with Azomyr tablets were reported in 3 % of patients in excess of those treated with placebo.
-The most frequent of adverse events reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
-
-[Azomyr 5 mg orodispersible tablets]
-
-(all sentences already above)
-
 [Azomyr 0.5 mg/ml oral solution]
 
 In clinical trials in a paediatric population, the desloratadine syrup formulation was administered to a total of 246 children aged 6 months through 11 years.
@@ -59,6 +47,7 @@ In an additional study, no adverse events were seen in subjects between 6 and 11
 
 Adults and adolescents
 At the recommended dose, in clinical trials involving adults and adolescents in a range of indications including allergic rhinitis and chronic idiopathic urticaria, undesirable effects with Azomyr were reported in 3 % of patients in excess of those treated with placebo.
+The most frequent of adverse events reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |

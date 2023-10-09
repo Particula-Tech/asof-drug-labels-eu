@@ -46,25 +46,6 @@ As with other antihistamine trials in chronic idiopathic urticaria, the minority
 An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo.
 Treatment with Azomyr also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-In a multiple dose trial, Azomyr orodispersible tablets were well tolerated.
-
-At the recommended dose, Azomyr 5 mg orodispersible tablet was found to be bioequivalent to the Azomyr 5 mg conventional tablet formulation of desloratadine.
-Therefore, the efficacy of Azomyr orodispersible tablet is expected to be the same as with the Azomyr tablet formulation.
-
-No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose, ketoconazole and erythromycin interaction trials.
-
-In clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
-Azomyr tablets given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
-
-In patients with allergic rhinitis, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
-Azomyr tablets effectively controlled symptoms for 24 hours.
-
-[Azomyr 5 mg orodispersible tablets]
-
-In a multiple-dose clinical trial, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
-
 [Azomyr 0.5 mg/ml oral solution]
 
 Efficacy of Azomyr oral solution has not been investigated in separate paediatric trials.

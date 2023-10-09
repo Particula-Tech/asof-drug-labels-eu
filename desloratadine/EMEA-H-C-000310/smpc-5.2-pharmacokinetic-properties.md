@@ -29,29 +29,15 @@ In the single-dose study, the exposure to desloratadine was approximately 2 and 
 In the multiple-dose study, steady state was reached after Day 11, and compared to healthy subjects the exposure to desloratadine was ~1.5-fold greater in subjects with mild to moderate CRI and ~2.5-fold greater in subjects with severe CRI.
 In both studies, changes in exposure (AUC and Cmax) of desloratadine and 3-hydroxydesloratadine were not clinically relevant.
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine.
-The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations however the safety profile of these subjects was not different from that of the general population.
-
-In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine.
-These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
-
-In single-dose crossover studies of Azomyr 5 mg orodispersible tablets with Azomyr 5 mg conventional tablets, the formulations were bioequivalent.
-Azomyr 2.5 mg tablets has not been evaluated in paediatric patients however in conjunction with the dose finding studies in paediatrics, the pharmacokinetics data for Azomyr orodispersible tablets supports the use of the 2.5 mg dose in paediatric patients 6 to 11 years of age.
-The presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
-In a separate study, grapefruit juice had no effect on the disposition of desloratadine.
-Water had no effect on the bioavailability of Azomyr orodispersible tablets.
-
-[Azomyr 5 mg orodispersible tablets]
-
-The prevalence of this poor metaboliser phenotype was greater among Black adults than Caucasian adults (18 % vs. 2 %) however the safety profile of these subjects was not different from that of the general population.
-
 [Azomyr 0.5 mg/ml oral solution]
 
 Desloratadine plasma concentrations can be detected within 30 minutes of desloratadine administration in adults and adolescents.
 
+In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine.
 The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations.
+
+In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine.
+These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
 
 Similar pharmacokinetic parameters were observed in a multiple-dose pharmacokinetic study conducted with the syrup formulation in paediatric poor metaboliser subjects 2- to 11-year old diagnosed with allergic rhinitis.
 The exposure (AUC) to desloratadine was about 6-fold higher and the Cmax was about 3 to 4 fold higher at 3-6 hours with a terminal half-life of approximately 120 hours.

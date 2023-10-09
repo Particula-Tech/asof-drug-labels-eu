@@ -3,16 +3,7 @@
 Film-coated tablets
 
 Light blue, round and embossed film-coated tablets with elongated letters “S” and “P” on one side and plain on the other.
-
-[Azomyr 2.5 mg orodispersible tablets]
-
-Orodispersible tablet
-
-Light-red, flat-faced, round, speckled tablets, one side branded with “K”
-
-[Azomyr 5 mg orodispersible tablets]
-
-Light-red, flat-faced, round, speckled tablets, one side branded with “A”
+The diameter of the film-coated tablet is 6.5 mm.
 
 [Azomyr 0.5 mg/ml oral solution]
 

@@ -5,14 +5,6 @@ calcium hydrogen phosphate dihydrate microcrystalline cellulose maize starch tal
 Tablet coating:
 film coat (containing lactose monohydrate, hypromellose, titanium dioxide, macrogol 400, indigotin (E132)) clear coat (containing hypromellose, macrogol 400) carnauba wax white wax
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-microcrystalline cellulose pregelatinized starch sodium starch glycolate magnesium stearate butylated methacrylate copolymer crospovidone sodium hydrogen carbonate citric acid colloidal silicon dioxide ferric oxide mannitol aspartame (E951) flavour Tutti-Frutti
-
-[Azomyr 5 mg orodispersible tablets]
-
-(all sentences already above)
-
 [Azomyr 0.5 mg/ml oral solution]
 
 sorbitol (E420) propylene glycol (E1520) sucralose (E955) hypromellose 2910 sodium citrate dihydrate natural and artificial flavour (bubblegum, which contains propylene glycol (E1520) and benzyl alcohol) citric acid anhydrous disodium edetate purified water

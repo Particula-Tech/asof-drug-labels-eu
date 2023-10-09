@@ -5,18 +5,6 @@ The materials of the blister consist of a polychlorotrifluoroethylene (PCTFE)/Po
 Packs of 1, 2, 3, 5, 7, 10, 14, 15, 20, 21, 30, 50, 100 tablets.
 Not all pack sizes may be marketed.
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-Azomyr orodispersible tablets are supplied in unit dose blisters comprised of laminate blister film with foil lidding.
-
-The blister materials consist of a four layer aluminium foil laminate cold form blister film and a paper backed laminated aluminium foil lidding film.
-The cold form blister film is composed of polyvinyl chloride (PVC) film adhesively laminated to an oriented polyamide (OPA) film, adhesively laminated to aluminium foil, adhesively laminated to polyvinyl chloride (PVC) film.
-Packs of 5, 6, 10, 12, 15, 18, 20, 30, 50, 60, 90 and 100 orodispersible tablets.
-
-[Azomyr 5 mg orodispersible tablets]
-
-(all sentences already above)
-
 [Azomyr 0.5 mg/ml oral solution]
 
 Azomyr oral solution, is supplied in 30, 50, 60, 100, 120, 150, 225 and 300 ml size Type III amber glass bottles closed with a plastic child resistant (C/R) screw closure having a multi-ply polyethylene-faced liner.

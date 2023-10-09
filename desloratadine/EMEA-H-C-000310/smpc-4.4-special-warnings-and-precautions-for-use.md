@@ -10,21 +10,6 @@ Healthcare providers may consider discontinuing desloratadine in patients who ex
 Azomyr tablet contains lactose
 Patients with rare hereditary problems of galactose intolerance, the total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-[Azomyr 2.5 mg orodispersible tablets]
-
-Azomyr orodispersible tablet contains aspartame (E951)
-This medicinal product contains 2.55 mg aspartame (E951) per each dose of an Azomyr 2.5 mg orodispersible tablet.
-Aspartame (E951) is hydrolysed in the gastrointestinal tract when orally ingested.
-One of the major hydrolysis products is phenylalanine.
-It may be harmful if the patient has phenylketonuria (PKU).
-
-Azomyr orodispersible tablet contains sodium
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
-
-[Azomyr 5 mg orodispersible tablets]
-
-This medicinal product contains 5.10 mg aspartame (E951) per each dose of an Azomyr 5 mg orodispersible tablet.
-
 [Azomyr 0.5 mg/ml oral solution]
 
 Azomyr oral solution contains sorbitol (E420)
