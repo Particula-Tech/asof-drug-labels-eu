@@ -2,6 +2,7 @@
 
 The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in antiretroviral treatment-naïve HIV-1 infected patients 12 years of age and older.
 Exposure to rilpivirine was generally lower in HIV-1 infected patients than in healthy subjects.
+
 Absorption
 
 After oral administration, the maximum plasma concentration of rilpivirine is generally achieved within 4-5 hours.
@@ -46,6 +47,7 @@ EDURANT should be used with caution in this population (see section 4.2).
 
 Gender
 No clinically relevant differences in the pharmacokinetics of rilpivirine have been observed between men and women.
+
 Race
 Population pharmacokinetic analysis of rilpivirine in HIV infected patients indicated that race had no clinically relevant effect on the exposure to rilpivirine.
 
@@ -53,7 +55,6 @@ Hepatic impairment
 Rilpivirine is primarily metabolised and eliminated by the liver.
 In a study comparing 8 patients with mild hepatic impairment (Child-Pugh score A) to 8 matched controls, and 8 patients with moderate hepatic impairment (Child-Pugh score B) to 8 matched controls, the multiple dose exposure of rilpivirine was 47% higher in patients with mild hepatic impairment and 5% higher in patients with moderate hepatic impairment.
 However, it may not be excluded that the pharmacologically active, unbound, rilpivirine exposure is significantly increased in moderate hepatic impairment.
-
 No dose adjustment is suggested but caution is advised in patients with moderate hepatic impairment.
 EDURANT has not been studied in patients with severe hepatic impairment (Child-Pugh score C). Therefore, EDURANT is not recommended in patients with severe hepatic impairment (see section 4.2).
 

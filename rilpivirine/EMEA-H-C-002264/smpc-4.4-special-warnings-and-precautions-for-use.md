@@ -1,8 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
-
 Virologic failure and development of resistance
 
 EDURANT has not been evaluated in patients with previous virologic failure to any other antiretroviral therapy.
@@ -40,7 +37,6 @@ Edurant should be used during pregnancy only if the potential benefit justifies 
 Lower exposures of rilpivirine were observed when rilpivirine 25 mg once daily was taken during pregnancy.
 In the Phase III studies, lower rilpivirine exposure, similar to that seen during pregnancy, has been associated with an increased risk of virological failure, therefore viral load should be monitored closely (see sections 4.6, 5.1 and 5.2).
 Alternatively, switching to another ART regimen could be considered.
-
 Important information about some of the ingredients of EDURANT
 EDURANT contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

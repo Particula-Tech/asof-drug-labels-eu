@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use, non-nucleoside reverse transcriptase inhibitors, ATC code: J05AG05.
-
 Mechanism of action
 
 Rilpivirine is a diarylpyrimidine NNRTI of HIV-1.
@@ -36,6 +35,7 @@ In the week 96 pooled resistance analysis, lower rates of virologic failure were
 From the week 48 to the week 96 analysis, 24 (3.5%) and 14 (2.1%) additional virologic failures occurred in the rilpivirine and efavirenz arm, respectively.
 Of these virologic failures, 9 out of 24 and 4 out of 14 were in subjects with a baseline viral load
 < 100,000 copies/ml, respectively.
+
 In treatment-naïve adolescent subjects
 In the week 240 resistance analysis of the TMC278-C213 trial, rilpivirine resistance-associated mutations (RAMs) were observed in 46.7% (7/15) of subjects with virologic failure and post-baseline genotypic data.
 All subjects with rilpivirine RAMs also had at least 1 treatment-emergent NRTI RAM at the last post-baseline time point with genotypic data.
@@ -68,6 +68,7 @@ EDURANT at the recommended dose of 25 mg once daily is not associated with a cli
 
 When supratherapeutic doses of 75 mg once daily and 300 mg once daily of rilpivirine were studied in healthy adults, the maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction were 10.7 (15.3) and 23.3 (28.4) ms, respectively.
 Steady-state administration of rilpivirine 75 mg once daily and 300 mg once daily resulted in a mean Cmax approximately 2.6-fold and 6.7-fold, respectively, higher than the mean steady-state Cmax observed with the recommended 25 mg once daily dose of rilpivirine.
+
 Clinical efficacy and safety
 
 Treatment-naïve HIV-1 infected adult patients
@@ -76,7 +77,6 @@ The trials were identical in design, with the exception of the background regime
 In the week 96 efficacy analysis, the virologic response rate [confirmed undetectable viral load
 (< 50 HIV-1 RNA copies/ml)] was evaluated in patients receiving rilpivirine 25 mg once daily in addition to a BR versus patients receiving efavirenz 600 mg once daily in addition to a BR.
 Similar efficacy for rilpivirine was seen in each trial demonstrating non-inferiority to efavirenz.
-
 Antiretroviral treatment-naïve HIV-1 infected patients were enrolled who had a plasma
 HIV-1 RNA ≥5,000 copies/ml and were screened for susceptibility to N(t)RTIs and for absence of specific NNRTI resistance-associated mutations.
 In ECHO, the BR was fixed to the N(t)RTIs, tenofovir disoproxil fumarate plus emtricitabine.
@@ -145,6 +145,7 @@ BR=background regimen; CI=confidence interval; N=number of subjects per treatmen
 ¶ e.g. lost to follow-up, non-compliance, withdrew consent.
 
 At week 96, the mean change from baseline in CD4+ cell count was +228 × 106 cells/l in the rilpivirine arm and +219 × 106 cells/l in the efavirenz arm in the pooled analysis of the ECHO and THRIVE trials [estimated treatment difference (95% CI): 11.3 (-6.8; 29.4)].
+
 From the week 96 pooled resistance analysis, the resistance outcome for patients with protocol defined virological failure, and paired genotypes (baseline and failure) is shown in table 5.
 
 | Table 5: Resistance outcome by background NRTI regimen used (pooled data from the ECHO and THRIVE trials in the week 96 resistance analysis) |  |  |  |  |
@@ -179,6 +180,7 @@ Paediatric population
 
 The pharmacokinetics, safety, tolerability and efficacy of rilpivirine 25 mg once daily, in combination with an investigator-selected BR containing two NRTIs, was evaluated in trial TMC278-C213, a single-arm, open-label Phase II trial in antiretroviral treatment-naïve HIV-1 infected adolescent subjects weighing at least 32 kg.
 This analysis included 36 patients who had completed at least 48 weeks of treatment or discontinued earlier.
+
 The 36 subjects had a median age of 14.5 years (range: 12 to 17 years), and were 55.6% female, 88.9% Black and 11.1% Asian.
 The median baseline plasma HIV-1 RNA was 4.8 log10 copies per ml, and the median baseline CD4+ cell count was 414 × 106 cells/l (range: 25 to 983 × 106 cells/l).
 

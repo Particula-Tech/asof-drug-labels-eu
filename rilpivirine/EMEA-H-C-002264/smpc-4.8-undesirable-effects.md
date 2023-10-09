@@ -7,8 +7,8 @@ The most frequently reported adverse drug reactions (ADRs) (≥2%) that were at 
 The most frequent serious treatment-related ADRs were reported in 7 (1.0%) patients receiving rilpivirine.
 The median duration of exposure for patients in the rilpivirine arm and efavirenz arm was 104.3 and 104.1 weeks, respectively.
 Most ADRs occurred in the first 48 weeks of treatment.
-Selected treatment emergent clinical laboratory abnormalities (grade 3 or grade 4), considered as ADRs, reported in EDURANT treated patients were increased pancreatic amylase (3.8%), increased AST (2.3%), increased ALT (1.6%), increased LDL cholesterol (fasted, 1.5%), decreased white blood cell count (1.2%), increased lipase (0.9%), increased bilirubin (0.7%), increased triglycerides (fasted, 0.6%), decreased haemoglobin (0.1%), decreased platelet count (0.1%), and increased total cholesterol (fasted, 0.1%).
 
+Selected treatment emergent clinical laboratory abnormalities (grade 3 or grade 4), considered as ADRs, reported in EDURANT treated patients were increased pancreatic amylase (3.8%), increased AST (2.3%), increased ALT (1.6%), increased LDL cholesterol (fasted, 1.5%), decreased white blood cell count (1.2%), increased lipase (0.9%), increased bilirubin (0.7%), increased triglycerides (fasted, 0.6%), decreased haemoglobin (0.1%), decreased platelet count (0.1%), and increased total cholesterol (fasted, 0.1%).
 Tabulated summary of adverse reactions
 
 ADRs reported in adult patients treated with rilpivirine are summarised in Table 2.
@@ -39,12 +39,12 @@ N=number of subjects
 
 Laboratory abnormalities
 In the rilpivirine arm in the week 96 analysis of the Phase III ECHO and THRIVE trials, mean change from baseline in total cholesterol (fasted) was 5 mg/dl, in HDL cholesterol (fasted) 4 mg/dl, in LDL cholesterol (fasted) 1 mg/dl, and in triglycerides (fasted) -7 mg/dl.
+
 Description of selected adverse reactions
 
 Immune reactivation syndrome
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
-
 Paediatric population (12 to less than 18 years of age)
 
 The safety assessment is based on the week 48 analysis of the single-arm, open-label, Phase II trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1 infected adolescent patients weighing at least 32 kg received rilpivirine (25 mg once daily) in combination with other antiretroviral agents (see section 5.1).

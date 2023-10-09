@@ -10,7 +10,6 @@ Reproductive toxicology studies
 Studies in animals have shown no evidence of relevant embryonic or foetal toxicity or an effect on reproductive function.
 There was no teratogenicity with rilpivirine in rats and rabbits.
 The exposures at the embryo-foetal No Observed Adverse Effects Levels (NOAELs) in rats and rabbits were respectively 15 and 70 times higher than the exposure in humans at the recommended dose of 25 mg once daily.
-
 Carcinogenesis and mutagenesis
 
 Rilpivirine was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.

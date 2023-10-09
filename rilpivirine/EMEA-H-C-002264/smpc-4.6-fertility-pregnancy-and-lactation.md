@@ -13,7 +13,9 @@ Breast-feeding
 
 It is not known whether rilpivirine is excreted in human milk.
 Rilpivirine is excreted in the milk of rats.
-Because of both the potential for HIV transmission and the potential for adverse reactions in breastfed infants, mothers should be instructed not to breast-feed if they are receiving rilpivirine.
+Because of the potential for adverse reactions in breastfed infants, mothers should be instructed not to breast-feed if they are receiving rilpivirine.
+
+In order to avoid transmission of HIV to the infant it is recommended that women living with HIV do not breast-feed.
 
 Fertility
 

@@ -30,10 +30,10 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Antiretrovirals |  |  |
 | HIV NRTIs/N[t]RTIs |  |  |
 | Didanosine*# 400 mg once daily | didanosine AUC ↑ 12% didanosine Cmin NA didanosine Cmax ↔ rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. Didanosine should be administered at least two hours before or at least four hours after rilpivirine. |
+| Tenofovir disoproxil *# 245 mg once daily | tenofovir AUC ↑ 23% tenofovir Cmin ↑ 24% tenofovir Cmax ↑ 19% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. |
 
-| Tenofovir disoproxil *# 245 mg once daily | tenofovir AUC ↑ 23% tenofovir Cmin ↑ 24% tenofovir Cmax ↑ 19% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ |  | No dose adjustment is required. |  |
-| --- | --- | --- | --- | --- |
 | Other NRTIs (abacavir, emtricitabine, lamivudine, stavudine and zidovudine) | Not studied. No clinically relevant drug-drug interactions are expected. |  | No dose adjustment is required. |  |
+| --- | --- | --- | --- | --- |
 | HIV NNRTIs |  |  |  |  |
 | NNRTIs (delavirdine, efavirenz, etravirine, nevirapine) | Not studied. |  | It is not recommended to co-administer rilpivirine with other NNRTIs. |  |
 | HIV PIs – with co-administration of low dose ritonavir |  |  |  |  |
@@ -49,12 +49,12 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | Other Antiviral Agents |  |  |  |  |
 | Ribavirin |  | Not studied. No clinically relevant drug-drug interaction is expected. |  | No dose adjustment is required. |
 | Simeprevir* |  | simeprevir AUC ↔ simeprevir Cmin ↔ simeprevir Cmax ↑ 10% rilpivirine AUC ↔ rilpivirine Cmin ↑ 25% rilpivirine Cmax ↔ |  | No dose adjustment is required. |
+| OTHER AGENTS |  |  |  |  |
+| ANTICONVULSANTS |  |  |  |  |
+| Carbamazepine Oxcarbazepine Phenobarbital Phenytoin | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) |  | Rilpivirine must not be used in combination with these anticonvulsants as co-administration may result in loss of therapeutic effect of rilpivirine (see section 4.3). |  |
 
-| OTHER AGENTS |  |  |
-| --- | --- | --- |
-| ANTICONVULSANTS |  |  |
-| Carbamazepine Oxcarbazepine Phenobarbital Phenytoin | Not studied. Significant decreases in rilpivirine plasma concentrations are expected. (induction of CYP3A enzymes) | Rilpivirine must not be used in combination with these anticonvulsants as co-administration may result in loss of therapeutic effect of rilpivirine (see section 4.3). |
 | AZOLE ANTIFUNGAL AGENTS |  |  |
+| --- | --- | --- |
 | Ketoconazole*# 400 mg once daily | ketoconazole AUC ↓ 24% ketoconazole Cmin ↓ 66% ketoconazole Cmax ↔ (induction of CYP3A due to high rilpivirine dose in the study) rilpivirine AUC ↑ 49% rilpivirine Cmin ↑ 76% rilpivirine Cmax ↑ 30% (inhibition of CYP3A enzymes) | At the recommended dose of 25 mg once daily, no dose adjustment is required when rilpivirine is co-administered with ketoconazole. |
 | Fluconazole Itraconazole Posaconazole Voriconazole | Not studied. Concomitant use of EDURANT with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine. (inhibition of CYP3A enzymes) | No dose adjustment is required. |
 | ANTIMYCOBACTERIALS |  |  |
