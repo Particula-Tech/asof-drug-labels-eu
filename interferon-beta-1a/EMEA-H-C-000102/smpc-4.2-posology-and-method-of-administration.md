@@ -20,11 +20,12 @@ Each AVOSTARTCLIP should be used once and then discarded along with any remainin
 Prior to injection and for an additional 24 hours after each injection, an antipyretic analgesic is advised to decrease flu-like symptoms associated with AVONEX administration.
 These symptoms are usually present during the first few months of treatment.
 
-Paediatric population: The safety and efficacy of AVONEX in adolescents aged 12 to 16 years have not yet been established.
+Paediatric population:
+The safety and efficacy of AVONEX in children and adolescents aged 10 to 18 years have not yet been fully established.
 Currently available data are described in section 4.8 and 5.1 but no recommendation on a posology can be made.
 
-The safety and efficacy of AVONEX in children below 12 years of age have not yet been established.
-No data are available
+The safety and efficacy of AVONEX in children below 10 years of age have not yet been established.
+No data are available.
 
 Elderly: Clinical studies did not include a sufficient number of patients aged 65 and over to determine whether they respond differently than younger patients.
 However, based on the mode of clearance of the active substance there are no theoretical reasons for any requirement for dose adjustments in the elderly.

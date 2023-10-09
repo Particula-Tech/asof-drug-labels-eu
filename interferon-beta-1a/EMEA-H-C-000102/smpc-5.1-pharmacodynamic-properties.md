@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic Group: Interferons, ATC code: L03 AB07.
+
 Interferons are a family of naturally occurring proteins that are produced by eukaryotic cells in response to viral infection and other biological inducers.
 Interferons are cytokines that mediate antiviral, antiproliferative, and immunomodulatory activities.
 Three major forms of interferons have been distinguished: alpha, beta, and gamma.
@@ -21,7 +22,6 @@ These include MHC Class I, Mx protein,
 2’ / 5’-oligoadenylate synthetase, β2-microglobulin, and neopterin.
 Some of these products have been measured in the serum and cellular fractions of blood collected from patients treated with AVONEX.
 After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
-
 Whether the mechanism of action of AVONEX in MS is mediated by the same pathway as the biological effects described above is not known because the pathophysiology of MS is not well established.
 
 Clinical efficacy and safety
@@ -30,7 +30,7 @@ The effects of lyophilised AVONEX in the treatment of MS were demonstrated in a 
 Patients with an EDSS of 1.0 to 3.5 at entry were included in the clinical trial.
 Due to the design of the study, patients were followed for variable lengths of time.
 150 AVONEX-treated patients completed one year on study and 85 completed two years on study.
-In the study, the cumulative percentage of patients who developed disability progression (by Kaplan-Meier life table analysis) by the end of two years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
+In the study, the cumulative percentage of patients who developed disability progression (by KaplanMeier life table analysis) by the end of two years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
 Disability progression was measured as an increase in the Expanded Disability Status Scale (EDSS) of 1.0 point, sustained for at least six months.
 It was also shown that there was a one-third reduction in annual relapse rate.
 This latter clinical effect was observed after more than one year of treatment.
@@ -51,3 +51,20 @@ Paediatric population
 
 Limited data of the efficacy/safety of AVONEX 15 micrograms IM once per week (n=8) as compared to no treatment (n=8) with follow up for 4 years showed results in line to those seen in adults, although the EDSS scores increased in the treated group over the 4 year follow-up thus indicating disease progression.
 No direct comparison with the dose currently recommended in adults is available.
+
+AVONEX 30 micrograms/0.5 ml solution for injection was studied as an active comparator in 2 controlled clinical trials in paediatric patients aged 10 to less than 18 years with relapsing remitting multiple sclerosis (see section 4.2).
+
+In an open-label randomised active controlled trial, 150 participants were randomly assigned in a 1:1 ratio to treatment with dimethyl fumarate, administered orally at a dose of 240 mg twice a day, or AVONEX, administered at a dose of 30 μg once weekly by intramuscular (IM) injection, for 96 weeks.
+In the ITT population, treatment with dimethyl fumarate resulted in a higher proportion of patients with no new or newly enlarging T2 hyperintense lesions at Week 96 relative to baseline as compared with AVONEX [12.8% versus 2.8% respectively].
+
+In a double-blind, double-dummy, active-controlled study, 215 participants were randomly assigned to receive either oral fingolimod (0.5 mg once daily or 0.25 mg once daily for patients weighing ≤40 kg) or AVONEX 30 μg IM once weekly for up to 24 months.
+
+The primary endpoint, the adjusted annualized relapse rate (ARR) at week 96, was significantly lower in patients treated with fingolimod (0.122) compared to patients who received AVONEX (0.675), translating into an 81.9% relative reduction in ARR (p <0.001).
+
+Overall, the safety profile in patients receiving AVONEX in the two clinical trials was qualitatively consistent with that previously observed in adult patients.
+
+[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
+
+In the study, the cumulative percentage of patients who developed disability progression (by Kaplan-Meier life table analysis) by the end of two years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
+
+In an open-label randomised active controlled trial, 150 participants were randomly assigned in a 1:1 ratio to treatment with dimethyl fumarate, administered orally at a dose of 240 mg twice a day, or AVONEX, administered at a dose of 30 μg once weekly by intramuscular (IM) injection for 96 weeks.

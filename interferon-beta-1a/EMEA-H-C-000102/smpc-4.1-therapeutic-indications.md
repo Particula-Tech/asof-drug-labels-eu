@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-AVONEX is indicated for the treatment of
+AVONEX is indicated in adults for the treatment of
 
 - Patients diagnosed with relapsing multiple sclerosis (MS).
   In clinical trials, this was characterised by two or more acute exacerbations (relapses) in the previous three-years without evidence of continuous progression between relapses; AVONEX slows the progression of disability and decreases the frequency of relapses.

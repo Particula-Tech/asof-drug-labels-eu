@@ -11,5 +11,6 @@ Not all pack sizes may be marketed.
 
 A pre-filled syringe of AVONEX is contained within a single-use, disposable, spring-powered pen injector called AVONEX PEN.
 The syringe inside the pen is a 1 ml pre-filled syringe made of glass (Type I) with a tamper evident cap and plunger stopper (bromobutyl) containing 0.5 ml of solution.
+
 Pack size: Each single-use AVONEX PEN is packed in an individual carton, with one injection needle and a pen cover.
 AVONEX PEN is available in pack sizes of four or twelve.

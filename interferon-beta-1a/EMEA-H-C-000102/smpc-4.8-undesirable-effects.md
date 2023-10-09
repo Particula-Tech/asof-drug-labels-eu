@@ -31,8 +31,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | uncommon | platelet count decreased |
 | not known | weight decreased, weight increased, liver function tests abnormal |
 | Cardiac disorders not known | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia |
-| Blood and lymphatic system disorders not known | pancytopenia, thrombocytopenia |
-| rare | thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* |
+| Blood and lymphatic system disorders not known rare | pancytopenia, thrombocytopenia thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* |
 | Nervous system disorders very common | headache2 |
 | common | muscle spasticity, hypoesthesia |
 | not known | neurological symptoms, syncope3, hypertonia, dizziness, paraesthesia, seizures, migraine |
@@ -51,10 +50,10 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Infections and infestations not known | injection site abscess1 |
 | Vascular disorders common | flushing |
 | not known | vasodilatation |
-| General disorders and administration site conditions very common | flu-like symptoms, pyrexia2, chills2, sweating2 |
-| common | injection site pain, injection site erythema, injection site bruising, asthenia2, pain, fatigue2, malaise, night sweats |
-| uncommon | injection site burning |
-| not known | injection site reaction, injection site inflammation, injection site cellulitis1, injection site necrosis, injection site bleeding, chest pain |
+
+| General disorders and administration site conditions very common common | flu-like symptoms, pyrexia2, chills2, sweating2 injection site pain, injection site erythema, injection site bruising, asthenia2, pain, fatigue2, malaise, night sweats |
+| --- | --- |
+| uncommon not known | injection site burning injection site reaction, injection site inflammation, injection site cellulitis1, injection site necrosis, injection site bleeding, chest pain |
 | Immune system disorders not known | anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash, pruritic rash) |
 | Hepatobiliary disorders not known | hepatic failure (see section 4.4), hepatitis, autoimmune hepatitis |
 | Reproductive system and breast disorders uncommon | metrorrhagia, menorrhagia |
@@ -74,10 +73,11 @@ Pulmonary arterial hypertension
 
 Cases of pulmonary arterial hypertension (PAH) have been reported with interferon beta products.
 Events were reported at various time points including up to several years after starting treatment with interferon beta.
-
 Paediatric population
 
-Limited published data suggest that the safety profile in adolescents from 12 to 16 years of age receiving AVONEX 30 micrograms IM once per week is similar to that seen in adults.
+Limited data from literature, clinical trials and postmarketing experience suggest that the safety profile in children and adolescents from 10 to less than18 years of age receiving AVONEX 30 micrograms IM once per week is consistent with that seen in adults.
+
+The safety information obtained from the use of AVONEX as an active comparator in a 96 week open label, randomised trial in paediatric patients with relapsing remitting multiple sclerosis aged 10 to less than 18 years (with only 10% of the overall study population <13 years) shows that in the AVONEX group (n=72), the following adverse events which are common in adult population were reported as very common in paediatric population: myalgia, pain in extremity, fatigue, and arthralgia.
 
 Reporting of suspected adverse reactions
 
@@ -89,8 +89,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 | Investigations common | lymphocyte count decreased, white blood cell count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased |
 | --- | --- |
-| uncommon | platelet count decreased |
-| not known | weight decreased, weight increased, liver function tests abnormal |
+| uncommon not known | platelet count decreased weight decreased, weight increased, liver function tests abnormal |
 | Cardiac disorders not known | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia |
 | Blood and lymphatic system disorders not known | pancytopenia, thrombocytopenia |
 | rare | thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome* |
@@ -98,8 +97,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | common | muscle spasticity, hypoesthesia |
 | not known | neurological symptoms, syncope3, hypertonia, dizziness, paraesthesia, seizures, migraine |
 | Respiratory, thoracic and mediastinal disorders common | rhinorrhoea |
-| rare | dyspnoea |
-| not known | pulmonary arterial hypertension┼ |
+| rare not known | dyspnoea pulmonary arterial hypertension┼ |
 | Gastrointestinal disorders common | vomiting, diarrhoea, nausea2 |
 | Skin and subcutaneous tissue disorders common | rash, sweating increased, contusion |
 | uncommon | alopecia |
@@ -113,13 +111,4 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Vascular disorders common | flushing |
 | not known | vasodilatation |
 
-| General disorders and administration site conditions very common | flu-like symptoms, pyrexia2, chills2, sweating2 |
-| --- | --- |
-| common | injection site pain, injection site erythema, injection site bruising, asthenia2, pain, fatigue2, malaise, night sweats |
-| uncommon | injection site burning |
-| not known | injection site reaction, injection site inflammation, injection site cellulitis1, injection site necrosis, injection site bleeding, chest pain |
-| Immune system disorders not known | anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash, pruritic rash) |
-| Hepatobiliary disorders not known | hepatic failure (see section 4.4), hepatitis, autoimmune hepatitis |
-| Reproductive system and breast disorders uncommon | metrorrhagia, menorrhagia |
-| Psychiatric disorders common | depression (see section 4.4), insomnia |
-| not known | suicide, psychosis, anxiety, confusion, emotional lability |
+The safety information obtained from the use of AVONEX as an active comparator arm in a 96 week open label, randomised trial in paediatric patients with relapsing remitting multiple sclerosis aged 10 to less than 18 years (with only 10% of the overall study population <13 years) shows that in the AVONEX group (n=72), the following adverse events which are common in adult population were reported as very common in paediatric population: myalgia, pain in extremity, fatigue, and arthralgia.

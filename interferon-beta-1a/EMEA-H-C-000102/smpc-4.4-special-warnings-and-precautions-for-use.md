@@ -46,3 +46,12 @@ It is estimated that the plateau for the incidence of neutralising antibody form
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
 
 The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
+
+In post marketing experience, cases of injection site necrosis have been reported (see section 4.8).
+To minimise the risk of injection site reactions, patients should be advised to use an aseptic injection technique and rotate the injection sites with each dose.
+
+The procedure for the self-administration by the patient should be reviewed periodically especially if injection site reactions have occurred.
+If the patient experiences any break in the skin, which may be accompanied by swelling or drainage of fluid from the injection site, the patient should be advised to speak with their doctor.
+Whether to discontinue therapy following a single site of necrosis is dependent on the extent of necrosis.
+For patients who continue therapy with AVONEX after injection site necrosis has occurred, avoid administration of AVONEX into the affected area until it is fully healed.
+If multiple lesions occur, change injection site, or discontinue therapy until healing occurs.
