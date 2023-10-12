@@ -18,7 +18,8 @@ For use in combination, see the Summary of Product Characteristics (SmPC) for th
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity (and up to maximum duration of therapy if specified for an indication).
 Atypical responses (i.e. an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
-For the adjuvant treatment of melanoma or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
+
+For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
@@ -41,8 +42,8 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
 |  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
-| Hepatitis NOTE: for RCC patients treated with pembrolizumab in | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
-| combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
+| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
 |  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
 | Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
@@ -56,7 +57,6 @@ Note: toxicity grades are in accordance with National Cancer Institute Common Te
 * If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if
 
 corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
-
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-mediated myocarditis is not known.
 
 KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated adverse reactions, unless otherwise specified in
@@ -103,7 +103,6 @@ Method of administration
 KEYTRUDA is for intravenous use.
 It must be administered by infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
-
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.

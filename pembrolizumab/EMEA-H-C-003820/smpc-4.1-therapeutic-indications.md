@@ -6,6 +6,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of adults and adolescents
 KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults and adolescents aged 12 years and older with Stage IIB, IIC or III melanoma and who have undergone complete resection (see section 5.1).
 
 Non-small cell lung carcinoma (NSCLC)
+KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with non-small cell lung carcinoma who are at high risk of recurrence following complete resection and platinum-based chemotherapy (for selection criteria, see section 5.1).
+
 KEYTRUDA as monotherapy is indicated for the first-line treatment of metastatic non-small cell lung carcinoma in adults whose tumours express PD-L1 with a ≥ 50% tumour proportion score (TPS) with no EGFR or ALK positive tumour mutations.
 
 KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated for the first-line treatment of metastatic non-squamous non-small cell lung carcinoma in adults whose tumours have no EGFR or ALK positive mutations.
@@ -14,7 +16,6 @@ KEYTRUDA, in combination with carboplatin and either paclitaxel or nab-paclitaxe
 
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic non-small cell lung carcinoma in adults whose tumours express PD-L1 with a ≥ 1% TPS and who have received at least one prior chemotherapy regimen.
 Patients with EGFR or ALK positive tumour mutations should also have received targeted therapy before receiving KEYTRUDA.
-
 Classical Hodgkin lymphoma (cHL)
 KEYTRUDA as monotherapy is indicated for the treatment of adult and paediatric patients aged 3 years and older with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) or following at least two prior therapies when ASCT is not a treatment option.
 
@@ -33,7 +34,7 @@ KEYTRUDA, in combination with axitinib, is indicated for the first-line treatmen
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
-KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with renal cell carcinoma at increased risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions (for selection criteria, please see section 5.1).
+KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with renal cell carcinoma at increased risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions (for selection criteria, see section 5.1).
 
 Microsatellite instability high (MSI-H) or mismatch repair deficient (dMMR) cancers
 Colorectal cancer (CRC)
@@ -50,6 +51,7 @@ KEYTRUDA as monotherapy is indicated for the treatment of the following MSI-H or
 
 Oesophageal carcinoma
 KEYTRUDA, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic carcinoma of the oesophagus or HER-2 negative gastroesophageal junction adenocarcinoma, in adults whose tumours express PD-L1 with a CPS ≥ 10 (see section 5.1).
+
 Triple-negative breast cancer (TNBC)
 KEYTRUDA, in combination with chemotherapy as neoadjuvant treatment, and then continued as monotherapy as adjuvant treatment after surgery, is indicated for the treatment of adults with locally advanced, or early-stage triple-negative breast cancer at high risk of recurrence (see section 5.1).
 

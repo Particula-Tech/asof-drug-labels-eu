@@ -10,7 +10,7 @@ The safety of pembrolizumab as monotherapy has been evaluated in 7,631 patients 
 In this patient population, the median observation time was 8.5 months (range: 1 day to 39 months) and the most frequent adverse reactions with pembrolizumab were fatigue (31%), diarrhoea (22%), and nausea (20%).
 The majority of adverse reactions reported for monotherapy were of Grades 1 or 2 severity.
 The most serious adverse reactions were immune-mediated adverse reactions and severe infusion-related reactions (see section 4.4).
-The incidences of immune-mediated adverse reactions were 36.1% all Grades and 8.9% for Grades 3-5 for pembrolizumab monotherapy in the adjuvant setting (n=1,480) and 24.2% all Grades and 6.4% for Grades 3-5 in the metastatic setting (n=5,375).
+The incidences of immune-mediated adverse reactions were 37% all Grades and 9% for Grades 3-5 for pembrolizumab monotherapy in the adjuvant setting and 25% all Grades and 6% for Grades 3-5 in the metastatic setting.
 No new immune-mediated adverse reactions were identified in the adjuvant setting.
 
 Pembrolizumab in combination with chemotherapy (see section 4.2)
@@ -29,7 +29,6 @@ The safety of pembrolizumab in combination with axitinib or lenvatinib in advanc
 In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%).
 Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% for sunitinib alone.
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
-
 Tabulated summary of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
@@ -69,7 +68,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Common | insomnia |  | insomnia |
 | Nervous system disorders |  |  |  |
 | Very common | headache | neuropathy peripheral, headache, dizziness | headache, dysgeusia |
-| Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | Lethargy, dysgeusia | dizziness, neuropathy peripheral, lethargy |
+| Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | lethargy, dysgeusia | dizziness, neuropathy peripheral, lethargy |
 | Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, epilepsy | myasthenic syndrome⁎, encephalitis⁎ |
 | Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | Guillain-Barré syndrome⁎, myasthenic syndrome | optic neuritis |
 | Eye disorders |  |  |  |
@@ -171,8 +170,8 @@ Pneumonitis occurred more frequently in patients with a history of prior thoraci
 Pneumonitis led to discontinuation of pembrolizumab in 131 (1.7%) patients.
 Pneumonitis resolved in 196 patients, 6 with sequelae.
 
-In patients with NSCLC, pneumonitis occurred in 160 (5.7%), including Grade 2, 3, 4 or 5 cases in 62 (2.2%), 47 (1.7%), 14 (0.5%) and 10 (0.4%), respectively.
-In patients with NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
+In patients with NSCLC, pneumonitis occurred in 206 (6.1%), including Grade 2, 3, 4 or 5 cases in 92 (2.7%), 56 (1.7%), 16 (0.5%) and 9 (0.3%), respectively.
+In patients with locally advanced or metastatic NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
 In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
 
 Immune-mediated colitis
@@ -217,7 +216,7 @@ The median time to onset of hyperthyroidism was 1.4 months (range 1 day to 23.2 
 The median duration was 1.6 months (range 4 days to 43.1+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 4 (0.1%) patients.
 Hyperthyroidism resolved in 326 (82.7%) patients, 11 with sequelae.
-In patients with RCC and melanoma treated with pembrolizumab monotherapy in the adjuvant setting (n=1,480), the incidence of hyperthyroidism was 10.9%, the majority of which were Grade 1 or 2.
+In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2,060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
 
 Hypothyroidism occurred in 939 (12.3%) patients, including Grade 2 or 3 cases in 687 (9.0%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypothyroidism was 3.4 months (range 1 day to 25.9 months).
@@ -228,7 +227,7 @@ In patients with cHL (n=389) the incidence of hypothyroidism was 17%, all of whi
 In patients with HNSCC treated with pembrolizumab as monotherapy (n=909), the incidence of hypothyroidism was 16.1% (all Grades) with 0.3% Grade 3.
 In patients with HNSCC treated with pembrolizumab in combination with platinum and 5-FU chemotherapy (n=276), the incidence of hypothyroidism was 15.2%, all of which were Grade 1 or 2.
 In patients treated with pembrolizumab in combination with axitinib or lenvatinib (n=1,456), the incidence of hypothyroidism was 46.2% (all Grades) with 0.8% Grade 3 or 4.
-In patients with RCC and melanoma treated with pembrolizumab monotherapy in the adjuvant setting (n=1,480), the incidence of hypothyroidism was 17.7%, the majority of which were Grade 1 or 2.
+In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2,060), the incidence of hypothyroidism was 18.5%, the majority of which were Grade 1 or 2.
 
 Immune-mediated skin adverse reactions
 Immune-mediated severe skin reactions occurred in 130 (1.7%) patients, including Grade 2, 3, 4 or 5 cases in 11 (0.1%), 103 (1.3%), 1 (< 0.1%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.

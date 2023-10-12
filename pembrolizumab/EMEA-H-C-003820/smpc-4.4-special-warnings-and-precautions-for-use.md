@@ -33,7 +33,6 @@ Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 or recurrent Grade 3 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
-
 Immune-mediated hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -72,7 +71,6 @@ Thyroid function and hormone levels should be monitored to ensure appropriate ho
 
 For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed.
 Otherwise treatment should be discontinued (see sections 4.2 and 4.8).
-
 Immune-mediated skin adverse reactions
 Immune-mediated severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
@@ -88,6 +86,7 @@ Other immune-mediated adverse reactions
 The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective and hypoparathyroidism (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
+
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction.
@@ -106,7 +105,6 @@ Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 Allogeneic HSCT after treatment with pembrolizumab
 Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients with cHL undergoing allogeneic HSCT after previous exposure to pembrolizumab.
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
-
 Allogeneic HSCT prior to treatment with pembrolizumab
 In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with pembrolizumab.
 Patients who experienced GVHD after their transplant procedure may be at an increased risk for GVHD after treatment with pembrolizumab.
@@ -143,7 +141,6 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
-
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
@@ -162,6 +159,7 @@ When pembrolizumab is given with axitinib, higher than expected frequencies of G
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
+
 Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
 
@@ -174,7 +172,6 @@ Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (
 There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
-
 Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
