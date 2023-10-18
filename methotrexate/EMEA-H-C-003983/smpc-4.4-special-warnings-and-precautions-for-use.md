@@ -25,7 +25,7 @@ Teratogenicity – reproductive risk
 Methotrexate causes embryotoxicity, abortion and foetal defects in humans.
 Therefore, the possible risks of effects on reproduction, pregnancy loss and congenital malformations should be discussed with female patients of childbearing potential (see section 4.6).
 The absence of pregnancy must be confirmed before Nordimet is used.
-If women of a sexually mature age are treated, effective contraception must be performed during treatment and for at least six months after.
+If women of child bearing potential are treated, effective contraception must be used during treatment and for at least six months after.
 For contraception advice for men, see section 4.6.
 
 Recommended examinations and safety measures

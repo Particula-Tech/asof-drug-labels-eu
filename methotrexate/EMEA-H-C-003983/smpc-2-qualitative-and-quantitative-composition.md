@@ -40,6 +40,7 @@ Each pre-filled syringe contains 7.5 mg methotrexate in 0.3 mL.
 Nordimet 10 mg solution for injection in pre-filled syringe
 
 Each pre-filled syringe contains 10 mg methotrexate in 0.4 mL.
+
 Nordimet 12.5 mg solution for injection in pre-filled syringe
 
 Each pre-filled syringe contains 12.5 mg methotrexate in 0.5 mL.

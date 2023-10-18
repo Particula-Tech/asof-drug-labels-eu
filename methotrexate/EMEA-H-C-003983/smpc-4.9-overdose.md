@@ -15,5 +15,5 @@ In the event of accidental overdose, a dose of calcium folinate equal to or high
 In the event of a massive overdose, hydration and urinary alkalisation may be required to prevent precipitation of methotrexate and/or its metabolites within the renal tubules.
 Neither haemodialysis nor peritoneal dialysis has been shown to improve methotrexate elimination.
 Effective methotrexate clearance has been reported with acute, intermittent haemodialysis using a high-flux dialyser.
-In patients with rheumatoid arthritis, polyarticular juvenile idiopathic arthritis, psoriatic arthritis or psoriasis vulgaris, administration of folic or folinic acid may reduce methotrexate toxicity (gastrointestinal symptoms, inflammation of oral mucosa, hair loss and increase of liver enzymes) (see section 4.5).
+In patients with rheumatoid arthritis, polyarticular juvenile idiopathic arthritis, psoriatic arthritis or plaque psoriasis, administration of folic or folinic acid may reduce methotrexate toxicity (gastrointestinal symptoms, inflammation of oral mucosa, hair loss and increase of liver enzymes) (see section 4.5).
 Prior to using folic acid products, monitoring of vitamin B12 levels is recommended, since folic acid may mask an existing vitamin B12 deficiency, particularly in adults over 50 years of age.

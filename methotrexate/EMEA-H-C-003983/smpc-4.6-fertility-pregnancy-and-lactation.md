@@ -12,8 +12,8 @@ It is not known if methotrexate is present in semen.
 Methotrexate has been shown to be genotoxic in animal studies, such that the risk of genotoxic effects on sperm cells cannot completely be excluded.
 Limited clinical evidence does not indicate an increased risk of malformations or miscarriage following paternal exposure to low-dose methotrexate (less than 30 mg/week).
 For higher doses, there is insufficient data to estimate the risks of malformations or miscarriage following paternal exposure.
-As precautionary measures, sexually active male patients or their female partners are recommended to use reliable contraception during treatment of the male patient and for at least 6 months after cessation of methotrexate.
-Men should not donate semen during therapy or for 6 months following discontinuation of methotrexate.
+As precautionary measures, sexually active male patients or their female partners are recommended to use reliable contraception during treatment of the male patient and for at least 3 months after cessation of methotrexate.
+Men should not donate semen during therapy or for 3 months following discontinuation of methotrexate.
 
 Pregnancy
 

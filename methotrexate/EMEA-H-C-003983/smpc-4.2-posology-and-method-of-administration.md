@@ -31,7 +31,7 @@ Symptoms may return after treatment discontinuation.
 
 Methotrexate treatment of rheumatoid arthritis represents long-term treatment.
 
-Dosage in patients with psoriasis vulgaris and psoriatic arthritis
+Dosage in patients with plaque psoriasis and psoriatic arthritis
 It is recommended that a test dose of 5-10 mg be administered subcutaneously one week prior to initiation of therapy, in order to detect idiosyncratic adverse effects.
 The recommended initial dose is 7.5 mg methotrexate once weekly.
 The dose is to be increased gradually but should not, in general, exceed a weekly dose of 25 mg of methotrexate.
@@ -42,7 +42,7 @@ Depending on the clinical picture and the changes of laboratory parameters, the 
 Once the desired therapeutic result has been achieved, dose should be reduced gradually to the lowest possible effective maintenance dose.
 In a few exceptional cases a higher dose than 25 mg might be clinically justified, but should not exceed a maximum weekly dose of 30 mg of methotrexate as toxicity will markedly increase.
 
-Methotrexate treatment of severe psoriasis vulgaris and psoriatic arthritis represents long-term treatment.
+Methotrexate treatment of moderate to severe plaque psoriasis and severe psoriatic arthritis represents long-term treatment.
 
 Dosage in adult patients with Crohn's disease:
 
