@@ -4,6 +4,7 @@ Pharmacotherapeutic group: psychoanaleptics, anticholinesterases, ATC code: N06D
 
 Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease and Parkinson’s disease.
+
 Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes.
 In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration.
 Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved.
@@ -16,7 +17,6 @@ The efficacy of rivastigmine has been established through the use of three indep
 These include the ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus (Clinician’s Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10–24.
-
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 4 below.
 Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
@@ -57,9 +57,10 @@ Table 5
 1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate.
 A positive change indicates improvement.
 2 Mean data shown for convenience, categorical analysis performed using van Elteren test
-ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
-Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
+ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
 
+Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
+Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
 Table 6
 
 | Dementia associated with Parkinson’s Disease | ADAS-Cog Exelon | ADAS-Cog Placebo | ADAS-Cog Exelon | ADAS-Cog Placebo |

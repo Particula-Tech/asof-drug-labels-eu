@@ -34,8 +34,10 @@ In case of severe vomiting associated with rivastigmine treatment, appropriate d
 Some cases of severe vomiting were associated with oesophageal rupture (see section 4.8).
 Such events appeared to occur particularly after dose increments or high doses of rivastigmine.
 
+Electrocardiogram QT prolongation may occur in patients treated with certain cholinesterase inhibitor products including rivastigmine.
 Rivastigmine may cause bradycardia which constitutes a risk factor in the occurrence of torsade de pointes, predominantly in patients with risk factors.
-Caution is advised in patients at higher risk of developing torsade de pointes; for example, those with uncompensated heart failure, recent myocardial infarction, bradyarrhythmias, a predisposition to hypokalaemia or hypomagnesaemia, or concomitant use with medicinal products known to induce QT prolongation and/or torsade de pointes (see sections 4.5 and 4.8).
+Caution is advised in patients with pre-existing, or a family history of, QTc prolongation or at higher risk of developing torsade de pointes; for example, those with uncompensated heart failure, recent myocardial infarction, bradyarrhythmias, a predisposition to hypokalaemia or hypomagnesaemia, or concomitant use with medicinal products known to induce QT prolongation and/or torsade de pointes.
+Clinical monitoring (ECG) may also be required (see sections 4.5 and 4.8).
 
 Care must be taken when using rivastigmine in patients with sick sinus syndrome or conduction defects (sino-atrial block, atrio-ventricular block) (see section 4.8).
 
@@ -53,7 +55,6 @@ Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal
 Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson’s disease (see section 4.8).
 These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo).
 Clinical monitoring is recommended for these adverse reactions.
-
 Special populations
 
 Patients with clinically significant renal or hepatic impairment might experience more adverse reactions (see sections 4.2 and 5.2).

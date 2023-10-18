@@ -11,7 +11,6 @@ Adverse reactions in Table 1 and Table 2 are listed according to MedDRA system o
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 The following adverse reactions, listed below in Table 1, have been accumulated in patients with Alzheimer’s dementia treated with Exelon.
-
 Table 1
 
 Infections and infestations
@@ -162,7 +161,6 @@ Common Gait disturbance
 Common Parkinson gait
 
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson’s disease treated with Exelon transdermal patches: agitation (common).
-
 Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson’s disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
 
 Table 3

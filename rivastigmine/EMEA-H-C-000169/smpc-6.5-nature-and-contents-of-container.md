@@ -1,9 +1,7 @@
 # 6.5 Nature and contents of container
 
-- Blister of clear PVC tray with blue lidding foil with 14 capsules.
-  Each box contains 28, 56 or 112 capsules.
-- HDPE bottles with plastic closure with induction innerseal.
-  Each bottle contains 250 capsules.
+Blister of clear PVC tray with blue lidding foil with 14 capsules.
+Each box contains 28, 56 or 112 capsules.
 
 Not all pack sizes may be marketed.
 
