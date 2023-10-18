@@ -24,6 +24,7 @@ Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
 Steady-state is attained following 7 to 10 days of multiple-dose administration.
+
 Pharmacokinetics in special populations
 Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
@@ -46,7 +47,6 @@ Weight
 The population pharmacokinetic model of posaconazole concentrate for solution for infusion and tablets indicates that posaconazole clearance is related to weight.
 In patients > 120 kg, the Cav is decreased by 25 % and in patients < 50 kg, the Cav is increased by 19 %.
 It is, therefore, suggested to closely monitor for breakthrough fungal infections in patients weighing more than 120 kg.
-
 Renal impairment
 Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 mL/min/1.73 m2) on posaconazole pharmacokinetics; therefore, no dose adjustment is required.
 In subjects with severe renal impairment (n=6, Cl cr
@@ -83,6 +83,7 @@ Posaconazole after administration of the tablets, is slowly eliminated with a me
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
 
 Based on a population pharmacokinetic model evaluating posaconazole pharmacokinetics, steady state posaconazole concentrations were predicted in patients administered posaconazole concentrate for solution for infusion or tablets 300 mg once a day following BID dosing on Day 1 for the treatment of invasive aspergillosis and prophylaxis of invasive fungal infections.
+
 Table 9.
 Population predicted median (10th percentile, 90th percentile) posaconazole steady state plasma concentrations in patients following administration of posaconazole concentrate for solution for infusion or tablets 300 mg QD (BID on Day 1)
 
@@ -107,7 +108,6 @@ No overall differences in safety were observed between the geriatric patients an
 The population pharmacokinetic model of posaconazole concentrate for solution for infusion and tablets indicates that posaconazole clearance is related to age.
 Posaconazole Cav is generally comparable between young and elderly patients (≥ 65 years of age); however, the Cav is increased by 11 % in the very elderly (≥ 80 years).
 It is, therefore, suggested to closely monitor very elderly patients (≥ 80 years) for adverse events.
-
 The pharmacokinetics of posaconazole tablets are comparable in young and elderly subjects
 (≥ 65 years of age).
 
@@ -132,22 +132,24 @@ The excreted metabolites in urine and faeces account for approximately 17 % of t
 
 Posaconazole, after administration of 300 mg of posaconazole concentrate for solution for infusion, is slowly eliminated with a mean half-life (t½) of 27 hours and a mean clearance of 7.3 L/hr.
 After administration of 14C-posaconazole as oral suspension, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
-
 Posaconazole plasma concentrations following administration of posaconazole concentrate for solution for infusion single dose increased in a greater than dose proportional manner over the range of 50-200 mg; by comparison, dose-dependent increases were observed over a range of 200-300 mg.
 
 Table 8.
 
-There is limited (n=3) paediatric experience with posaconazole concentrate for solution for infusion (see sections 4.2 and 5.3).
+There is limited (n=3) paediatric experience with posaconazole concentrate for solution for infusion in the study of treatment of invasive aspergillosis (see sections 4.2 and 5.3).
+
 The mean pharmacokinetic parameters after multiple dose administration of posaconazole concentrate for solution for infusion and posaconazole gastro-resistant powder and solvent for oral suspension in neutropenic paediatric patients 2 to less than 18 years of age are shown in Table 9.
 Patients were enrolled into 2 age groups and received posaconazole concentrate for solution for infusion and posaconazole gastro-resistant powder and solvent for oral suspension doses at 6 mg/kg (maximum 300 mg) once daily (twice daily on Day 1) (see section 5.1).
 
 Summary of Steady-State Geometric Mean Pharmacokinetic Parameters (% Geometric CV) After Multiple Dosing with Posaconazole Concentrate for Solution for Infusion and Posaconazole Gastro-Resistant Powder and Solvent for Oral Suspension 6 mg/kg in Paediatric Patients with Neutropenia or Expected Neutropenia
 
-| Age Group | Dose Type | N | AUC0-24 hours (ng·hr/mL) | Cav* (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) | Tmax† (hr) | CL/F‡ (L/hr) |
+| Age Group | Dose Type | N | AUC0-24 hours (ng·hr/mL) | Cav* (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) | Tm ax† (hr) | CL/F ‡ (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 to <7 years | IV | 17 | 31,100 (48.9) | 1,300 (48.9) | 3,060 (54.1) | 626 (104.8) | 1.75 (1.57-1.83) | 3.27 (49.3) |
 |  | PFS | 7 | 23,000 (47.3) | 960 (47.3) | 1,510 (43.4) | 542 (68.8) | 4.00 (2.17-7.92) | 4.60 (35.2) |
-| 7 to 17 years | IV | 24 | 44,200 (41.5) | 1,840 (41.5) | 3,340 (39.4) | 1,160 (60.4) | 1.77 (1.33-6.00) | 4.76 (55.7) |
+| 7 to | IV | 24 | 44,200 | 1,840 | 3,340 | 1,160 | 1.77 (1.33- | 4.76 |
+| Age Group | Dose Type | N | AUC0-24 hours (ng·hr/mL) | Cav* (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) | Tmax † (hr) | CL/F ‡ (L/hr) |
+| 17 years |  |  | (41.5) | (41.5) | (39.4) | (60.4) | 6.00) | (55.7) |
 |  | PFS | 12 | 25,000 (184.3) | 1,040 (184.3) | 1,370 (178.5) | 713 (300.6) | 2.78 (0.00-4.00) | 8.39 (190.3) |
 | IV= posaconazole concentrate for solution for infusion; PFS=posaconazole gastro-resistant powder and solvent for oral suspension; AUC0-24 hours = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; CL /F = apparent total body clearance * Cav = time-averaged concentrations (i.e., AUC0-24 hours/24hr) † Median (minimum-maximum) ‡ Clearance (CL for IV and CL/F for PFS) |  |  |  |  |  |  |  |  |
 
@@ -177,9 +179,14 @@ Therefore, the gastro-resistant powder and solvent for oral suspension can be ad
 
 Concomitant administration of posaconazole gastro-resistant powder and solvent for oral suspension with medicinal products affecting gastric pH or gastric motility would not be expected to demonstrate any significant effects on posaconazole pharmacokinetic exposure based on similarity to the gastro-resistant tablets.
 
+An in vitro dissolution study was conducted to evaluate the impact of alcohol (5, 10, 20, and 40 %) on the dissolution of Noxafil gastro-resistant powder and solvent for oral suspension.
+Posaconazole was found to release faster from Noxafil gastro-resistant powder and solvent for oral suspension in the presence of alcohol in vitro, which may interfere with its delayed release characteristics.
+
 Posaconazole has a central volume of distribution of 112 L (5.2 % RSE) based on population PK modelling in paediatric subjects receiving IV or PFS formulations.
 
 Posaconazole is slowly eliminated with a mean clearance 4.7 L/h (3.9%RSE) and a corresponding to half-life (t½) of 24 hours based on population PK modelling in paediatric subjects receiving IV or PFS.
+After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces
+(77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Steady-state plasma concentrations are attained by Day 7 after once daily dosing (twice daily on Day 1) in paediatric subject receiving PFS.
 
 No dose adjustment is recommended in case of renal impairment (see section 4.2).

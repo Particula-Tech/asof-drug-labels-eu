@@ -127,6 +127,7 @@ Interaction studies have only been performed in adults.
 
 No clinically relevant effects were observed when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 No dose adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
+
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient.
 
 Therefore, trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.

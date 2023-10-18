@@ -38,6 +38,7 @@ The clinical significance of this finding is unknown.
 No effects on electrocardiograms, including QT and QTc intervals, were seen in a repeat dose safety pharmacology study in monkeys at maximal plasma concentrations 8.9-fold greater than the concentrations obtained at therapeutic doses in humans with 300 mg intravenous infusion administration.
 Echocardiography revealed no indication of cardiac decompensation in a repeat dose safety pharmacology study in rats at a systemic exposure 2.2-fold greater than that achieved therapeutically.
 Increased systolic and arterial blood pressures (up to 29 mm-Hg) were seen in rats and monkeys at systemic exposures 2.2-fold and 8.9-fold greater, respectively, than those achieved with the human therapeutic doses.
+
 A non-dose related incidence of thrombus/emboli in the lung was seen in the 1 month repeated dose study in the monkey.
 
 No difference in the incidence of brain ventricle enlargement between control and treated animals was observed following the subsequent 5-month treatment-free period.

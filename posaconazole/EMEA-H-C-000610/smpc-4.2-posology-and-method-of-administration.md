@@ -7,7 +7,7 @@ Non-interchangeability between Noxafil oral suspension and Noxafil tablets or No
 Noxafil oral suspension is indicated for the adult population (≥18 years old) only.
 Another formulation (Noxafil gastro-resistant powder and solvent for oral suspension) is available for paediatric patients from 2 years to less than 18 years of age.
 
-The oral suspension is not to be used interchangeably with either the tablet or gastro-resistant powder and solvent for oral suspension due to the differences between these two formulations in frequency of dosing, administration with food and plasma drug concentration achieved.
+The oral suspension is not to be used interchangeably with either the tablet or gastro-resistant powder and solvent for oral suspension due to the differences in frequency of dosing, administration with food and plasma drug concentration achieved.
 Therefore, follow the specific dose recommendations for each formulation.
 
 Posology
