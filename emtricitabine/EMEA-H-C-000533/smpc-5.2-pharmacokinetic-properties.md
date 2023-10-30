@@ -11,8 +11,8 @@ In a pilot study in children and a definitive bioequivalence study in adults, th
 The reason for this difference is unknown.
 Due to this difference in bioavailability, 240 mg emtricitabine administered as the oral solution should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule.
 Therefore, children who weigh at least 33 kg may take either one 200 mg hard capsule daily or the oral solution up to a maximum dose of 240 mg (24 mL), once daily.
-Administration of Emtriva 200 mg hard capsules with a high-fat meal or administration of Emtriva 10 mg/mL oral solution with a low-fat or high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules and Emtriva 10 mg/mL oral solution may be administered with or without food.
 
+Administration of Emtriva 200 mg hard capsules with a high-fat meal or administration of Emtriva 10 mg/mL oral solution with a low-fat or high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules and Emtriva 10 mg/mL oral solution may be administered with or without food.
 Distribution
 In vitro binding of emtricitabine to human plasma proteins was < 4% and independent of concentration over the range of 0.02-200 µg/mL.
 The mean plasma to blood concentration ratio was approximately 1.0 and the mean semen to plasma concentration ratio was approximately 4.0.
@@ -47,13 +47,13 @@ Subjects were grouped according to baseline creatinine clearance (> 80 mL/min as
 The systemic emtricitabine exposure (mean ± standard deviation) increased from 11.8 ± 2.9 µg·h/mL in subjects with normal renal function to 19.9 ± 1.1, 25.0 ± 5.7 and 34.0 ± 2.1 µg·h/mL, in patients with mild, moderate and severe renal impairment, respectively.
 
 In patients with ESRD on haemodialysis, approximately 30% of the emtricitabine dose was recovered in dialysate over a 3-hour dialysis period which had been started within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL/min and dialysate flow rate of approximately 600 mL/min).
+
 Hepatic insufficiency
 The pharmacokinetics of emtricitabine have not been studied in non-HBV infected subjects with varying degrees of hepatic insufficiency.
 In general, emtricitabine pharmacokinetics in HBV infected subjects were similar to those in healthy subjects and in HIV infected subjects.
 
 Age
 Pharmacokinetic data are not available in the elderly (over 65 years of age).
-
 Gender
 Although the mean Cmax and Cmin were approximately 20% higher and mean AUC was 16% higher in females compared to males, this difference was not considered clinically significant.
 

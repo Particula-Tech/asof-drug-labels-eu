@@ -19,10 +19,10 @@ When tested for activity against laboratory strains of HBV, the IC50 value for e
 
 Resistance: HIV-1 resistance to emtricitabine develops as the result of changes at codon 184 causing the methionine to be changed to a valine (an isoleucine intermediate has also been observed) of the HIV reverse transcriptase.
 This HIV-1 mutation was observed in vitro and in HIV-1 infected patients.
+
 Emtricitabine-resistant viruses were cross-resistant to lamivudine, but retained sensitivity to other nucleoside reverse transcriptase inhibitors (NRTIs) (zidovudine, stavudine, tenofovir, abacavir and didanosine), all non-nucleoside reverse transcriptase inhibitors (NNRTIs) and all PIs.
 Viruses resistant to zidovudine, didanosine and NNRTIs retained their sensitivity to emtricitabine
 (IC50 = 0.002 µmol/l to 0.08 µmol/l).
-
 Clinical efficacy and safety
 Emtricitabine in combination with other antiretroviral agents, including nucleoside analogues, non-nucleoside analogues and PIs, has been shown to be effective in the treatment of HIV infection in treatment-naïve patients and treatment-experienced patients with stable virological control.
 There is no experience of the use of emtricitabine in patients who are failing their current regimen or who have failed multiple regimens.

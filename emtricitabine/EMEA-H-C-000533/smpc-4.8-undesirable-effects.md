@@ -77,7 +77,6 @@ HIV/HBV co-infected patients: The adverse reaction profile in patients co-infect
 However, as would be expected in this patient population, elevations in AST and ALT occurred more frequently than in the general HIV infected population.
 
 Exacerbations of hepatitis after discontinuation of treatment: In HIV infected patients co-infected with HBV, exacerbations of hepatitis may occur after discontinuation of treatment (see section 4.4).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

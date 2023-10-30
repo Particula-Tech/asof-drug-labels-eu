@@ -11,10 +11,6 @@ Emtriva should not be taken with any other medicinal products containing emtrici
 Opportunistic infections
 Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
 
-Transmission of HIV
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
-
 Renal function
 Emtricitabine is principally eliminated by the kidney via glomerular filtration and active tubular secretion.
 Emtricitabine exposure may be markedly increased in patients with severe renal insufficiency (creatinine clearance < 30 mL/min) receiving daily doses of 200 mg emtricitabine as hard capsules or 240 mg as the oral solution.
@@ -30,6 +26,7 @@ Such changes may in part be linked to disease control and life style.
 For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
 For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
 Lipid disorders should be managed as clinically appropriate.
+
 Liver function
 Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy (CART) and should be monitored according to standard practice.
 Patients with chronic hepatitis B or C infection treated with CART are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
@@ -66,6 +63,7 @@ Relevant examples include cytomegalovirus retinitis, generalised and/or focal my
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+
 Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
@@ -83,4 +81,4 @@ The safety and efficacy of the reduced doses provided in section 4.2 are based o
 Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with a reduced dose of emtricitabine (see sections 4.2 and 5.2).
 
 Emtriva oral solution contains sunset yellow (E110) which may cause allergic reactions, methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed).
-This medicinal product contains 36 mg of sodium per 24 mL, equivalent to 1.8% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains 38 mg of sodium per 24 mL, equivalent to 1.8% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

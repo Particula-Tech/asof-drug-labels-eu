@@ -1,6 +1,10 @@
 # 6.3 Shelf life
 
-3 years.
+Bottle
+4 years
+
+Blister
+3 years
 
 [Emtriva 10 mg/mL oral solution]
 
