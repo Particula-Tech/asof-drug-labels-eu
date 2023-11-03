@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-The treatment with this medicinal product should be initiated by a physician experienced in the diagnosis and treatment of eosinophilic esophagitis.
+The treatment with this medicinal product should be initiated by a gastroenterologist or a physician experienced in the diagnosis and treatment of eosinophilic esophagitis.
 
 Posology
 
@@ -40,14 +40,14 @@ Oral use.
 The orodispersible tablet should be taken immediately once removed from the blister package.
 
 The orodispersible tablet should be taken after a meal.
-It should be placed on the tip of the tongue and gently pressed against the top of the mouth, where it will dissolve.
+It should be placed on the tip of the tongue and gently pressed against the top of the mouth, where it will disintegrate.
 This will usually take at least two minutes but can take up to 20 minutes.
 The effervescence process of the tablet starts after Joreveza comes into contact with saliva and stimulates the production of further saliva.
-The dissolved material should be swallowed with saliva little by little while the orodispersible tablet disintegrates.
+The budesonide-loaded saliva should be swallowed little by little while the orodispersible tablet disintegrates.
 The orodispersible tablet should not be taken with liquid or food.
 
 There should be at least 30 minutes before eating or drinking or performing oral hygiene.
 Any oral solutions, sprays or chewable tablets should be used at least 30 minutes before or after administration of Jorveza.
 
 The orodispersible tablet should not be chewed or swallowed undissolved.
-These measures ensure optimal exposure of the esophageal mucosa to the active substance.
+These measures ensure optimal exposure of the esophageal mucosa to the active substance by using the adhesive characteristics of mucins in the saliva.

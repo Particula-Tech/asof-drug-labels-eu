@@ -5,6 +5,7 @@ Summary of the safety profile
 Fungal infections in the mouth, pharynx and the oesophagus were the most frequently observed adverse reactions in clinical studies with Jorveza.
 In the clinical studies BUL-1/EEA and BUL-2/EER, a total of 44 out of 268 patients (16.4%) exposed to Jorveza experienced cases of suspected fungal infections associated with clinical symptoms, which were all of mild or moderate intensity.
 The total number of infections (including those diagnosed by endoscopy and histology without symptoms) was 92, occurring in 72 out of 268 patients (26.9%).
+Long-term treatment with Jorveza of up to 3 years (48-weeks in the BUL-2/EER followed by 96-week open-label treatment) did not increase the rate of side effects including local candidiasis.
 
 Tabulated list of adverse reactions
 
@@ -15,18 +16,25 @@ Frequencies are defined as very common (≥ 1/10), common
 
 | MedDRA system organ class | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
-| Infections and infestations | Esophageal candidiasis | Oral and/or oropharyngeal candidiasis |  |
+| Infections and infestations | Esophageal candidiasis, oral and/or oropharyngeal candidiasis |  | Nasopharyngitis, pharyngitis |
 | Immune system disorders |  |  | Angioedema |
-| Psychiatric disorders |  |  | Sleep disorder, anxiety |
-| Nervous system disorders |  | Headache | Dizziness, dysgeusia |
-| Eye disorders |  |  | Dry eye |
-| Vascular disorders |  |  | Hypertension |
-| Respiratory, thoracic and mediastinal disorders |  |  | Cough, dry throat, oropharyngeal pain |
-| Gastrointestinal disorders |  | Gastroesophageal reflux disease, nausea, oral paraesthesia, dyspepsia | Abdominal pain, upper abdominal pain, dry mouth, dysphagia, |
+| Psychiatric disorders |  | Sleep disorder | anxiety, agitation |
+| Nervous system disorders |  | Headache, dysgeusia | Dizziness |
+| Eye disorders |  | Dry eyes |  |
 
-erosive gastritis, gastric
-ulcer, glossodynia, lip
-edema
+Vascular Hypertension
+disorders
+Respiratory, Cough, dry throat,
+thoracic and oropharyngeal pain
+mediastinal
+disorders
+Gastrointestinal Gastroesophageal reflux Abdominal pain,
+disorders disease, nausea, oral abdominal distension,
+paraesthesia, dyspepsia, dysphagia, erosive
+upper abdominal pain, gastritis, gastric ulcer,
+dry mouth, glossodynia lip edema, gingival
+tongue disorder, oral pain,
+herpes
 Skin and Rash, urticaria
 subcutaneous
 tissue disorders
@@ -34,7 +42,8 @@ General Fatigue Sensation of foreign
 disorders and body
 administration
 site conditions
-Investigations Blood cortisol decreased
+Investigations Blood cortisol decreased Osteocalcin decreased,
+weight increased
 
 The following known adverse reactions of the therapeutic class (corticosteroids, budesonide) could also occur with Jorveza (frequency = not known).
 

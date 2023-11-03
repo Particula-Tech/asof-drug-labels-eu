@@ -7,6 +7,7 @@ There are few data of pregnancy outcomes after oral administration of budesonide
 Although data on the use of inhaled budesonide in a large number of exposed pregnancies indicate no adverse effect, the maximal concentration of budesonide in plasma has to be expected to be higher in the treatment with Jorveza compared to inhaled budesonide.
 In pregnant animals, budesonide, like other glucocorticosteroids, has been shown to cause abnormalities of fetal development (see section 5.3).
 The relevance of this to man has not been established.
+
 Breast-feeding
 
 Budesonide is excreted in human milk (data on excretion after inhalative use is available).

@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Preclinical data in acute, subchronic and chronic toxicological studies with budesonide showed atrophies of the thymus gland and adrenal cortex and a reduction especially of lymphocytes.
-
 Budesonide had no mutagenic effects in a number of in vitro and in vivo tests.
 
 A slightly increased number of basophilic hepatic foci were observed in chronic rat studies with budesonide, and in carcinogenicity studies, an increased incidence of primary hepatocellular neoplasms, astrocytomas (in male rats) and mammary tumours (female rats) were observed.

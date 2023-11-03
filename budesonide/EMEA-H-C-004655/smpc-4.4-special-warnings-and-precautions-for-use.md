@@ -30,17 +30,21 @@ Systemic effects of glucocorticosteroids
 Systemic effects of glucocorticosteroids (e.g., Cushing’s syndrome, adrenal suppression, growth retardation, cataract, glaucoma, decreased bone mineral density and a wide range of psychiatric effects) may occur (see also section 4.8).
 These adverse reactions depend on the duration of treatment, concomitant and previous glucocorticosteroid treatment and the individual sensitivity.
 
+Angioedema
+Angioedema has been reported with the use of Jorveza, mostly as part of allergic reactions which included rash and itching.
+If signs of angioedema are observed, the treatment should be stopped.
+
 Visual disturbance
 
 Visual disturbance may be reported with systemic and topical corticosteroid use.
 If a patient presents with symptoms such as blurred vision or other visual disturbances, the patient should be considered for referral to an ophthalmologist for evaluation of possible causes which may include cataract, glaucoma or rare diseases such as central serous chorioretinopathy (CSCR) which have been reported after use of systemic and topical corticosteroids.
-
 Others
 
 Glucocorticosteroids may cause suppression of the hypothalamic–pituitary–adrenal (HPA) axis and reduce the stress response.
 When patients are subject to surgery or other stresses, supplementary systemic glucocorticosteroid treatment is therefore recommended.
 
 Concomitant treatment with ketoconazole or other CYP3A4 inhibitors should be avoided (see section 4.5).
+
 Interference with serological testing
 
 Because adrenal function may be suppressed by treatment with budesonide, an ACTH stimulation test for diagnosing pituitary insufficiency might show false results (low values).

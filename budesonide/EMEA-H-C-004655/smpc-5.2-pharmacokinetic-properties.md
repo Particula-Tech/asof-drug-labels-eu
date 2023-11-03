@@ -11,6 +11,7 @@ Single dose pharmacokinetic data in fasted patients with EoE are available with 
 Patients showed a 35% increase in peak plasma concentrations and a 60% increase in AUC0-12 compared to healthy subjects.
 
 Dose proportionality of the systemic exposure (Cmax and AUC) from 0.5 mg orodispersible tablets to 1 mg orodispersible tablets has been demonstrated.
+
 Distribution
 
 The apparent volume of distribution following oral administration of 1 mg budesonide to healthy subjects was 35.52 ± 14.94 L/kg and 42.46 ± 23.90 L/kg following administration of 4 mg budesonide to patients with EoE.
