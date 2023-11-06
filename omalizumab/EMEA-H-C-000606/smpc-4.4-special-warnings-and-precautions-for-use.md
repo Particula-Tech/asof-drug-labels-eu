@@ -6,30 +6,30 @@ In order to improve the traceability of biological medicinal products, the name 
 
 General
 
-Xolair is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
+Omalizumab is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
 
-Xolair has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy, atopic dermatitis, or allergic rhinitis.
-Xolair is not indicated for the treatment of these conditions.
+Omalizumab has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy, atopic dermatitis, or allergic rhinitis.
+Omalizumab is not indicated for the treatment of these conditions.
 
-Xolair therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment (see section 4.2).
-Caution should be exercised when administering Xolair in these patient populations.
+Omalizumab therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment (see section 4.2).
+Caution should be exercised when administering omalizumab in these patient populations.
 
-Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of Xolair therapy in allergic asthma or CRSwNP is not recommended.
+Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of omalizumab therapy in allergic asthma or CRSwNP is not recommended.
 Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
-
 Immune system disorders
 
 Allergic reactions type I
 Type I local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, even after a long duration of treatment.
-However, most of these reactions occurred within 2 hours after the first and subsequent injections of Xolair but some started beyond 2 hours and even beyond 24 hours after the injection.
-The majority of anaphylactic reactions occurred within the first 3 doses of Xolair.
-A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following Xolair administration.
-Therefore medicinal products for the treatment of anaphylactic reactions should always be available for immediate use following administration of Xolair.
-If an anaphylactic or other serious allergic reaction occurs, administration of Xolair must be discontinued immediately, and appropriate therapy initiated.
+However, most of these reactions occurred within 2 hours after the first and subsequent injections of omalizumab but some started beyond 2 hours and even beyond 24 hours after the injection.
+The majority of anaphylactic reactions occurred within the first 3 doses of omalizumab.
+Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional.
+A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following omalizumab administration.
+Therefore for patients with a known history of anaphylaxis, omalizumab must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of omalizumab.
+If an anaphylactic or other serious allergic reaction occurs, administration of omalizumab must be discontinued immediately, and appropriate therapy initiated.
 Patients should be informed that such reactions are possible, and prompt medical attention should be sought if allergic reactions occur.
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8).
-The clinical relevance of anti-Xolair antibodies is not well understood.
+The clinical relevance of anti-omalizumab antibodies is not well understood.
 
 Serum sickness
 Serum sickness and serum sickness-like reactions, which are delayed allergic type III reactions, have been seen in patients treated with humanised monoclonal antibodies including omalizumab.
@@ -37,6 +37,7 @@ The suggested pathophysiologic mechanism includes immune-complex formation and d
 The onset has typically been 1-5 days after administration of the first or subsequent injections, also after long duration of treatment.
 Symptoms suggestive of serum sickness include arthritis/arthralgias, rash (urticaria or other forms), fever and lymphadenopathy.
 Antihistamines and corticosteroids may be useful for preventing or treating this disorder, and patients should be advised to report any suspected symptoms.
+
 Churg-Strauss syndrome and hypereosinophilic syndrome
 Patients with severe asthma may rarely present systemic hypereosinophilic syndrome or allergic eosinophilic granulomatous vasculitis (Churg-Strauss syndrome), both of which are usually treated with systemic corticosteroids.
 
@@ -51,25 +52,25 @@ Parasitic (helminth) infections
 
 IgE may be involved in the immunological response to some helminth infections.
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
-The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1,000 patients.
+The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1 000 patients.
 However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic.
-If patients do not respond to recommended anti-helminth treatment, discontinuation of Xolair should be considered.
+If patients do not respond to recommended anti-helminth treatment, discontinuation of omalizumab should be considered.
+Latex-sensitive individuals (pre-filled syringe)
 
-[Xolair 150 mg powder and solvent for solution for injection]
-
-In patients at chronic high risk of helminth infection, a placebo-controlled trial in allergic patients showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
-
-[Xolair 75 mg solution for injection in pre-filled syringe]
-
-Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional.
-Therefore for patients with a known history of anaphylaxis, Xolair must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of Xolair.
-
-Latex-sensitive individuals
-
-The removable needle cap of this pre-filled syringe contains a derivative of natural rubber latex.
+The removable needle cap of the pre-filled syringe contains a derivative of natural rubber latex.
 No natural rubber latex has to date been detected in the removable needle cap.
 Nevertheless, the use of Xolair solution for injection in pre-filled syringe in latex-sensitive individuals has not been studied and thus there is a potential risk for hypersensitivity reactions which cannot be completely ruled out.
 
 [Xolair 150 mg solution for injection in pre-filled syringe]
+
+In patients at chronic high risk of helminth infection, a placebo-controlled trial in allergic patients showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
+
+The removable needle cap of this pre-filled syringe contains a derivative of natural rubber latex.
+
+[Xolair 75 mg powder and solvent for solution for injection]
+
+Therefore medicinal products for the treatment of anaphylactic reactions should always be available for immediate use following administration of omalizumab.
+
+[Xolair 150 mg powder and solvent for solution for injection]
 
 (all sentences already above)

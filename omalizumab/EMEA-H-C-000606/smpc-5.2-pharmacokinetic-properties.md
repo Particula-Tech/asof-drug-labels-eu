@@ -11,12 +11,12 @@ The pharmacokinetics of omalizumab are linear at doses greater than 0.5 mg/kg.
 Following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
 
 Administration of Xolair manufactured as a lyophilised or liquid formulation resulted in similar serum concentration-time profiles of omalizumab.
+
 Distribution
 
 In vitro, omalizumab forms complexes of limited size with IgE.
 Precipitating complexes and complexes larger than one million Daltons in molecular weight are not observed in vitro or in vivo.
 The apparent volume of distribution in patients following subcutaneous administration was 78 ± 32 ml/kg.
-
 Elimination
 
 Clearance of omalizumab involves IgG clearance processes as well as clearance via specific binding and complex formation with its target ligand, IgE.
@@ -28,18 +28,19 @@ In addition, doubling of body weight approximately doubled apparent clearance.
 Characteristics in patient populations
 
 Age, Race/Ethnicity, Gender, Body Mass Index
-The population pharmacokinetics of Xolair were analysed to evaluate the effects of demographic characteristics.
+The population pharmacokinetics of omalizumab were analysed to evaluate the effects of demographic characteristics.
 Analyses of these limited data suggest that no dose adjustments are necessary for age (6-76 years for patients with allergic asthma; 18 to 75 years for patients with CRSwNP), race/ethnicity, gender or Body Mass Index (see section 4.2).
 
 Renal and hepatic impairment
 There are no pharmacokinetic or pharmacodynamic data in patients with renal or hepatic impairment (see sections 4.2 and 4.4).
 
-[Xolair 150 mg powder and solvent for solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 The pharmacokinetics of omalizumab have been studied in adult and adolescent patients with allergic asthma as well as in adult patients with CRSwNP, and adult and adolescent patients with CSU.
 
 Following a single subcutaneous dose in adult and adolescent patients with asthma or CSU, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 6-8 days.
 In patients with asthma, following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
+
 Following doses of 75 mg, 150 mg or 300 mg every 4 weeks in patients with CSU, trough serum concentrations of omalizumab increased proportionally with the dose level.
 
 Based on population pharmacokinetics, distribution of omalizumab was similar in patients with allergic asthma and patients with CSU.
@@ -49,7 +50,7 @@ Doubling of body weight approximately doubled apparent clearance.
 In CSU patients, based on population pharmacokinetic simulations, omalizumab serum elimination half-life at steady state averaged 24 days and apparent clearance at steady state for a patient of 80 kg weight was 3.0 ml/kg/day.
 
 Patients with allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
-The population pharmacokinetics of omalizumab were analysed to evaluate the effects of demographic characteristics.
+Analyses of these limited data suggest that no dose adjustments are necessary for age (6-76 years for patients with allergic asthma; 18 to 75 for patients with CRSwNP), race/ethnicity, gender or body mass index (see section 4.2).
 
 Patients with CSU
 The effects of demographic characteristics and other factors on omalizumab exposure were evaluated based on population pharmacokinetics.
@@ -58,10 +59,10 @@ These analyses suggest that no dose adjustments are necessary in patients with C
 
 There are no pharmacokinetic or pharmacodynamic data in allergic asthma or CSU patients with renal or hepatic impairment (see sections 4.2 and 4.4).
 
-[Xolair 75 mg solution for injection in pre-filled syringe]
+[Xolair 75 mg powder and solvent for solution for injection]
 
 (all sentences already above)
 
-[Xolair 150 mg solution for injection in pre-filled syringe]
+[Xolair 150 mg powder and solvent for solution for injection]
 
-Analyses of these limited data suggest that no dose adjustments are necessary for age (6-76 years for patients with allergic asthma; 18 to 75 for patients with CRSwNP), race/ethnicity, gender or body mass index (see section 4.2).
+(all sentences already above)
