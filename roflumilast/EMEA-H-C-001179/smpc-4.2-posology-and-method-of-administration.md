@@ -13,11 +13,11 @@ After 28 days of treatment with the 250 micrograms starting dose, patients must 
 
 Roflumilast 500 micrograms may need to be taken for several weeks to achieve its full effect (see sections 5.1 and 5.2).
 Roflumilast 500 micrograms has been studied in clinical trials for up to one year, and is intended for maintenance treatment.
+
 Special populations
 
 Elderly
 No dose adjustment is necessary.
-
 Renal impairment
 No dose adjustment is necessary.
 

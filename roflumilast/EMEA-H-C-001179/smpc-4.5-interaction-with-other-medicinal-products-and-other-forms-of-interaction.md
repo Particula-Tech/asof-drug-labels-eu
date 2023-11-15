@@ -9,7 +9,6 @@ Interaction studies with CYP1A2/3A4 inhibitor enoxacin and the CYP1A2/2C19/3A4 i
 The tested dose of fluvoxamine was 50 mg.
 A combination of roflumilast with these active substances might lead to an increase of exposure and persistent intolerability.
 In this case, roflumilast treatment should be reassessed (see section 4.4).
-
 Administration of the cytochrome P450 enzyme inducer rifampicin resulted in a reduction in total PDE4 inhibitory activity by about 60%.
 Therefore, the use of strong cytochrome P450 enzyme inducers (e.g. phenobarbital, carbamazepine, phenytoin) may reduce the therapeutic efficacy of roflumilast.
 Thus, roflumilast treatment is not recommended in patients receiving strong cytochrome P450 enzyme inducers.

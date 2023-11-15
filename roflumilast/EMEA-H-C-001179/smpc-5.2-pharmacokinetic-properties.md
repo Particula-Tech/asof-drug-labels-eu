@@ -31,7 +31,6 @@ In vitro studies and clinical interaction studies suggest that the metabolism of
 Based on further in vitro results in human hepatic microsomes, therapeutic plasma concentrations of roflumilast and roflumilast N-oxide do not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, or 4A9/11.
 Therefore, there is a low probability of relevant interactions with substances metabolised by these P450 enzymes.
 In addition, in vitro studies demonstrated no induction of the CYP1A2, 2A6, 2C9, 2C19, or 3A4/5 and only a weak induction of CYP2B6 by roflumilast.
-
 Elimination
 
 The plasma clearance after short-term intravenous infusion of roflumilast is about 9.6 l/h.

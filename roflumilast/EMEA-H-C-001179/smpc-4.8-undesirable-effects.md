@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 The most commonly reported adverse reactions are diarrhoea (5.9%), weight decreased (3.4%), nausea (2.9%), abdominal pain (1.9%) and headache (1.7%).
 These adverse reactions mainly occurred within the first weeks of therapy and mostly resolved on continued treatment.
 

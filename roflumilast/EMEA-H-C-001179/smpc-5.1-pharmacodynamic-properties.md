@@ -36,7 +36,6 @@ The rate (per patient per year) of moderate exacerbations (requiring interventio
 Effects were similar, independent of previous treatment with inhaled corticosteroids or underlying treatment with LABAs.
 In the subgroup of patients with history of frequent exacerbations (at least 2 exacerbations during the last year), the rate of exacerbations was 1.526 with roflumilast and 1.941 with placebo corresponding to a relative risk reduction of 21.3% (95% CI: 7.5% to 33.1%).
 Roflumilast did not significantly reduce the rate of exacerbations compared with placebo in the subgroup of patients with moderate COPD.
-
 The reduction of moderate or severe exacerbations with roflumilast and LABA compared to placebo and LABA was on average 21% (p=0.0011).
 The respective reduction in exacerbations seen in patients without concomitant LABAs was on average 15% (p=0.0387).
 The numbers of patients who died due to any reason were equal for those treated with placebo or roflumilast (42 deaths each group; 2.7% each group; pooled analysis).
@@ -68,41 +67,43 @@ Summary of COPD exacerbation endpoints in Study RO-2455-404-RD
 Roflumilast Placebo Ratio Roflumilast/Placebo 2-Sided
 Exacerbation Analysis (N=969) (N=966) Rate Change p-
 Category model Rate (n) Rate (n) Ratio (%) 95% CI value
-Moderate or Poisson 0.805 0.927 0.753,
+Moderate or Poisson 0.805 (380) 0.927 0.753,
 0.868 -13.2 0.0529
-severe regression (380) (432) 1.002
-Moderate Poisson 0.574 0.627 0.775,
+severe regression (432) 1.002
+Moderate Poisson 0.574 (287) 0.627 0.775,
 0.914 -8.6 0.2875
-regression (287) (333) 1.078
-Severe Negative 0.239 0.315
+regression (333) 1.078
+Severe Negative 0.239 (151) 0.315
 0.601,
-binomial (151) (192) 0.757 -24.3 0.0175
+binomial (192) 0.757 -24.3 0.0175
 0.952
 regression
 There was a trend towards a reduction in moderate or severe exacerbations in subjects treated with
 roflumilast compared with placebo over 52 weeks, which did not achieve statistical significance (Table
 2). A pre-specified sensitivity analysis using the negative binomial regression model treatment showed
 a statistically significant difference of -14.2% (rate ratio: 0.86; 95% CI: 0.74 to 0.99).
-
-The per-protocol Poisson regression analysis and the non-significant sensitivity to drop-out Poisson regression intention-to-treat analysis rate ratios were 0.81 (95% CI: 0.69 to 0.94) and 0.89 (95% CI: 0.77 to 1.02), respectively.
-
+The per-protocol Poisson regression analysis and the non-significant sensitivity to drop-out Poisson
+regression intention-to-treat analysis rate ratios were 0.81 (95% CI: 0.69 to 0.94) and 0.89 (95% CI:
+0.77 to 1.02), respectively.
 Reductions were achieved in the subgroup of patients concomitantly treated with LAMA (rate ratio:
 0.88; 95% CI: 0.75 to 1.04) and in the subgroup not treated with LAMA (rate ratio: 0.83; 95% CI: 0.62
 to 1.12).
+The rate of severe exacerbations was reduced in the overall patient group (rate ratio: 0.76; 95% CI:
+0.60 to 0.95) with a rate of 0.24 per patient/year compared to a rate of 0.32 per patient/year in patients
+treated with placebo. A similar reduction was achieved in the subgroup of patients concomitantly
+treated with LAMA (rate ratio: 0.77; 95% CI: 0.60 to 0.99) and in the subgroup not treated with
+LAMA (rate ratio: 0.71; 95% CI: 0.42 to 1.20).
 
-The rate of severe exacerbations was reduced in the overall patient group (rate ratio: 0.76; 95% CI: 0.60 to 0.95) with a rate of 0.24 per patient/year compared to a rate of 0.32 per patient/year in patients treated with placebo.
-A similar reduction was achieved in the subgroup of patients concomitantly treated with LAMA (rate ratio: 0.77; 95% CI: 0.60 to 0.99) and in the subgroup not treated with LAMA (rate ratio: 0.71; 95% CI: 0.42 to 1.20).
+| Roflumilast improved lung function after 4 weeks (sustained over 52 weeks). Post-bronchodilator | r |
+| --- | --- |
+| FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo |  |
+| group by 4 mL (95% CI: -16, 9 mL). Post-bronchodilator FEV1 showed a clinically significant |  |
+| improvement in favour of roflumilast by 56 mL over placebo (95% CI: 38, 73 mL). |  |
 
-Roflumilast improved lung function after 4 weeks (sustained over 52 weeks). Post-bronchodilator
-FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo
-group by 4 mL (95% CI: -16, 9 mL). Post-bronchodilator FEV1 showed a clinically significant
-improvement in favour of roflumilast by 56 mL over placebo (95% CI: 38, 73 mL).
-Seventeen (1.8%) patients in the roflumilast group and 18 (1.9%) patients in the placebo group died
-during the double-blind treatment period due to any reason and 7 (0.7%) patients in each group due to
-a COPD exacerbation. The proportion of patients who experienced at least 1 adverse event during the
-double-blind treatment period were 648 (66.9%) patients and 572 (59.2%) patients in the roflumilast
-and placebo groups, respectively. The observed adverse reactions for roflumilast in Study RO-2455-
-404-RD were in line with those already included in section 4.8.
+Seventeen (1.8%) patients in the roflumilast group and 18 (1.9%) patients in the placebo group died during the double-blind treatment period due to any reason and 7 (0.7%) patients in each group due to a COPD exacerbation.
+The proportion of patients who experienced at least 1 adverse event during the double-blind treatment period were 648 (66.9%) patients and 572 (59.2%) patients in the roflumilast and placebo groups, respectively.
+The observed adverse reactions for roflumilast in Study RO-2455-404-RD were in line with those already included in section 4.8.
+
 More patients in the roflumilast group (27.6%) than placebo (19.8%) withdrew study medication due
 to any reason (risk ratio: 1.40; 95% CI: 1.19 to 1.65). The major reasons for trial discontinuation were
 withdrawal of consent and reported adverse events.
