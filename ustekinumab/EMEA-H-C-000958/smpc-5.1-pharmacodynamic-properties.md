@@ -15,7 +15,7 @@ By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its 
 In patients with Crohn’s disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase.
 CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
-In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 92.
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
 
 Immunisation
 During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with STELARA for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group.
@@ -27,14 +27,14 @@ Crohn’s Disease
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index [CDAI] score of ≥220 and ≤450).
 The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
-The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients.
+The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients.
 The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥100 points) at week 6.
 Efficacy data were collected and analysed through week 8 for both studies.
 Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications.
 In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
 Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy.
-Approximately 48% of the patients had failed 1 prior anti-TNFαtherapy and 52% had failed 2 or 3 prior anti-TNFα therapies.
+Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies.
 In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
@@ -60,9 +60,10 @@ Clinical remission is defined as CDAI score < 150; Clinical response is defined 
 ** Conventional therapy failures a p < 0.001 b p < 0.01
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2.
-Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC).
+Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 4).
+
 Table 4: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
 |  | Placebo* N = 131† | 90 mg ustekinumab every 8 weeks N = 128† | 90 mg ustekinumab every 12 weeks N = 129† |
@@ -81,7 +82,6 @@ Clinical remission is defined as CDAI score < 150; Clinical response is defined 
 † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
 ‡ Patients who failed conventional therapy but not anti-TNFα therapy
 § Patients who are anti-TNFα refractory/intolerant a p < 0.01 b p < 0.05 c nominally significant (p < 0.05)
-
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks.
 Loss of response was defined as a CDAI score ≥220 points and a ≥100 point increase from the CDAI score at baseline.
 In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
@@ -94,9 +94,10 @@ The majority of patients who lost response and resumed ustekinumab did so within
 Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension.
-Among the 718 patients who entered and were treated in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
+Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn’s Disease.
+
 Endoscopy
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy.
 The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn’s Disease (SES-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures.
@@ -110,7 +111,6 @@ Health-related quality of life was assessed by Inflammatory Bowel Disease Questi
 At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo.
 These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo.
 Improvement in health-related quality of life was generally maintained during the extension through week 252.
-
 Ulcerative colitis
 The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥2).
 The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
@@ -130,6 +130,7 @@ Approximately 50% of the patients had failed at least 1 prior anti-TNFαtherapy 
 In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 5).
 As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients.
 Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
+
 Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 5: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
@@ -160,7 +161,7 @@ Table 5: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
 a p < 0.001 b Nominally significant (p < 0.001) c Nominally significant (p < 0.05)
 
 UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I.
-Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC).
+Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
 
 Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
 
@@ -203,16 +204,17 @@ Ustekinumab treated patients who were not in response at week 8 of UNIFI-I recei
 Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
 
 Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
+
 Study Extension
 In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension.
-Among the 588 patients who entered and were treated in the study extension, symptomatic remission was generally maintained through week 92 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab.
+Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab.
+Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
 
-No new safety concerns were identified in this study extension with up to 2 years of treatment in patients with ulcerative colitis.
+No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
 
 Endoscopic Normalisation
 Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I.
 At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
-
 Histologic & Histo-Endoscopic Mucosal Healing
 Histologic healing (defined as neutrophil infiltration in < 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M.
 At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%).
@@ -227,7 +229,7 @@ Health-related quality of life was assessed by Inflammatory Bowel Disease Questi
 
 At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo.
 These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44.
-Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 92.
+Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
 
 Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
 
@@ -274,6 +276,7 @@ Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) 
 Similar disease severity was also seen in Psoriasis Study 3.
 
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 4 and 5).
+
 Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
 |  | Week 12 2 doses (week 0 and week 4) |  |  | Week 28 3 doses (week 0, week 4 and week 16) |  |
@@ -413,7 +416,6 @@ There was significant improvement in DLQI scores in the ustekinumab groups as co
 In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24.
 The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo.
 Improvements in FACIT scores were maintained through week 52.
-
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
 
 Paediatric plaque psoriasis
@@ -472,6 +474,7 @@ Patients were treated with the recommended dose of ustekinumab (see section 4.2;
 
 Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy.
 Approximately 5% of the patients had prior exposure to biologics.
+
 Secondary endpoints included PASI 75, PASI 90, and change from baseline in Children’s Dermatology Life Quality Index (CDLQI) at week 12.
 At week 12, subjects treated with ustekinumab showed clinically meaningful improvements in their psoriasis and health-related quality of life (Table 8).
 
@@ -500,7 +503,10 @@ Table 8 Summary of primary and secondary endpoints at week 12 and week 52
 
 a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population.
 
+The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients.
 In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Approximately 48% of the patients had failed 1 prior anti-TNFαtherapy and 52% had failed 2 or 3 prior anti-TNFα therapies.
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 9).
 
@@ -562,3 +568,39 @@ At week 44, maintenance of this effect was observed with significantly more pati
 Hospitalisations and ulcerative colitis (UC) related surgeries
 
 The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn’s disease or ulcerative colitis where no reduced efficacy was observed.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 2 and 3).
+
+Table 2: Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+
+Table 3: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
+
+The key efficacy results are shown in Table 4 below.
+
+Table 4 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis.
+The pre-filled pen has not been studied in the paediatric psoriasis population and is not recommended for use by paediatric patients.
+
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5).
+
+Table 5: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
+Table 6: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+§ Patients who are anti-TNFα refractory/intolerant.
+a p < 0.01 b p < 0.05 c nominally significant (p < 0.05)
+
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 7).
+
+Table 7: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
+
+Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 8).
+
+Table 8: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn’s Disease and ulcerative colitis.
+The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.

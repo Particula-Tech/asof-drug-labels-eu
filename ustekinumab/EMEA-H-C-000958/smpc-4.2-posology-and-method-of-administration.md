@@ -20,7 +20,7 @@ dosing STELARA Vials
 a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose.
-For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC.
 
 Elderly (≥65 years)
 No dose adjustment is needed for elderly patients (see section 4.4).
@@ -156,3 +156,10 @@ Patients or their caregivers should be instructed to inject the prescribed amoun
 Comprehensive instructions for administration are given in the package leaflet.
 
 For further instructions on preparation and special precautions for handling, see section 6.6.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients.
+See section 4.2 of the pre-filled syringe SmPC for posology and method of adminstation in paediatic patients 6 years and older with psoriasis.
+
+STELARA 45 mg and 90 mg pre-filled pens are for subcutaneous injection only.

@@ -18,7 +18,18 @@ STELARA 45 mg solution for injection in pre-filled syringe
 STELARA 90 mg solution for injection in pre-filled syringe
 
 Individual pre-filled syringes may be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light.
-Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the spaces provided on the outer carton.
+Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton.
 The discard date must not exceed the original expiry date printed on the carton.
 Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator.
 Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+STELARA 45 mg solution for injection in pre-filled pen
+
+STELARA 90 mg solution for injection in pre-filled pen
+
+Individual pre-filled pens may be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light.
+Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton.
+Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator.
+Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.

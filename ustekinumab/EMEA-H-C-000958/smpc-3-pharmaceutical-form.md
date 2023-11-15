@@ -14,3 +14,9 @@ STELARA 45 mg solution for injection in pre-filled syringe
 STELARA 90 mg solution for injection in pre-filled syringe
 
 The solution is clear to slightly opalescent, colourless to light yellow.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+STELARA 45 mg solution for injection in pre-filled pen
+
+STELARA 90 mg solution for injection in pre-filled pen

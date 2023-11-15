@@ -5,7 +5,7 @@ In order to improve the traceability of biological medicinal products, the trade
 
 Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
-In clinical studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
+In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
 
 Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
 
@@ -22,7 +22,8 @@ If a patient develops a serious infection, the patient should be closely monitor
 
 Malignancies
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy.
-Some patients who received STELARA in clinical studies developed cutaneous and non-cutaneous malignancies (see section 4.8).
+Some patients who received STELARA in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8).
+The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA.
 Thus, caution should be exercised when considering the use of STELARA in these patients.
@@ -47,6 +48,10 @@ Serious outcomes have included respiratory failure and prolonged hospitalisation
 Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids.
 If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
+Cardiovascular events
+Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to STELARA in a post-marketing observational study.
+Risk factors for cardiovascular disease should be regularly assessed during treatment with STELARA.
+
 Vaccinations
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA.
 Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines.
@@ -54,9 +59,13 @@ No data are available on the secondary transmission of infection by live vaccine
 Before live viral or live bacterial vaccination, treatment with STELARA should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination.
 Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for six months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6).
+If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
 Patients receiving STELARA may receive concurrent inactivated or non-live vaccinations.
 
 Long term treatment with STELARA does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
+
 Concomitant immunosuppressive therapy
 In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated.
 In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA.
@@ -93,3 +102,7 @@ This should be taken into consideration for patients on a controlled sodium diet
 
 Latex sensitivity
 The needle cover on the syringe in the STELARA pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+The needle cover inside the bottom cap of the pre-filled pen is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.

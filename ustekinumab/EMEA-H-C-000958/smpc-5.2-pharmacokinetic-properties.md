@@ -69,12 +69,17 @@ In ulcerative colitis, population PK model based simulations demonstrated that a
 Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
 No specific studies have been conducted in elderly patients.
-
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
 
 The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
+The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable.
+
 Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose.
 Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.

@@ -7,7 +7,6 @@ The medicinal product should not be used if the solution is discoloured or cloud
 
 Dilution
 STELARA concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
-
 1.
 Calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1).
 Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
@@ -38,10 +37,16 @@ The solution is clear to slightly opalescent, colourless to light yellow and may
 This appearance is not unusual for proteinaceous solutions.
 Before administration, STELARA should be allowed to reach room temperature (approximately half an hour).
 Detailed instructions for use are provided in the package leaflet.
-
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used.
 STELARA is supplied as a sterile, single-use vial or single-use pre-filled syringe.
 The syringe, needle and vial must never be re-used.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch (13 mm) needle is recommended.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+The solution in the STELARA pre-filled pen should not be shaken.
+
+STELARA is supplied as a sterile, single-use pre-filled pen.
+The pre-filled pen must never be re-used.

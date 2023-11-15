@@ -56,6 +56,7 @@ administration site conditions Uncommon: Injection site reactions (including hae
 * See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
 Description of selected adverse reactions
+
 Infections
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo.
 In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients.
@@ -97,12 +98,15 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [STELARA 45 mg solution for injection]
 
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
-
 Table 3 List of adverse reactions
-
-Very rare: Bullous pemphigoid, cutaneous lupus erythematosus Musculoskeletal and connective Common: Back pain, myalgia, arthralgia
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 1.0 years for ulcerative colitis studies.
 
 Hypersensitivity reactions
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in < 1% of patients (see section 4.4).
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
+
+Table 1: List of adverse reactions

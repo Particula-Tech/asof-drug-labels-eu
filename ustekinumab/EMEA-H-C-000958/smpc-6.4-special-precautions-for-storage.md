@@ -10,3 +10,8 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 Keep the vial or pre-filled syringe in the outer carton in order to protect from light.
 If needed, individual pre-filled syringes may be stored at room temperature up to 30°C (see section 6.3).
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+If needed, individual pre-filled pens may be stored at room temperature up to 30°C (see section 6.3).

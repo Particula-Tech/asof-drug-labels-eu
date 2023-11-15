@@ -16,3 +16,11 @@ Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
 
 STELARA 90 mg solution for injection in pre-filled syringe
 Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+STELARA 45 mg solution for injection in pre-filled pen
+Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
+
+STELARA 90 mg solution for injection in pre-filled pen
+Each pre-filled pen contains 90 mg ustekinumab in 1 mL.

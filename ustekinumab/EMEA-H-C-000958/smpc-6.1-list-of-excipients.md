@@ -11,3 +11,7 @@ Water for injection
 [STELARA 45 mg solution for injection]
 
 Water for injections
+
+[STELARA 45 mg solution for injection in pre-filled pen]
+
+(all sentences already above)
