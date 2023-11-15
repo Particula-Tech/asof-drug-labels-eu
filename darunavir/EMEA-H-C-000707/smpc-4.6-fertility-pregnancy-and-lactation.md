@@ -13,8 +13,11 @@ Therapy with PREZISTA/cobicistat should not be initiated during pregnancy, and w
 
 Breast-feeding
 It is not known whether darunavir is excreted in human milk.
-Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1,000 mg/kg/day) resulted in toxicity.
-Because of both the potential for HIV transmission and the potential for adverse reactions in breast-fed infants, mothers should be instructed not to breast-feed under any circumstances if they are receiving PREZISTA.
+Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1,000 mg/kg/day) resulted in toxicity of the offspring.
+
+Because of the potential for adverse reactions in breast-fed infants, women should be instructed not to breast-feed if they are receiving PREZISTA.
+
+In order to avoid transmission of HIV to the infant it is recommended that women living with HIV do not breast-feed.
 
 Fertility
 No human data on the effect of darunavir on fertility are available.

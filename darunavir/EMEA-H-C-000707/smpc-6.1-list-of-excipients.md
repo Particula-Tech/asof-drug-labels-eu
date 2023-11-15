@@ -24,7 +24,6 @@ Poly(vinyl alcohol) – partially hydrolysed
 Macrogol 3350
 Titanium dioxide (E171)
 Talc
-
 PREZISTA 150 mg film-coated tablets
 
 PREZISTA 600 mg film-coated tablets

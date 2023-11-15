@@ -1,8 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
-
 Regular assessment of virological response is advised.
 In the setting of lack or loss of virological response, resistance testing should be performed.
 
@@ -20,7 +17,6 @@ ART-experienced patients – once daily dosing
 PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥100,000 copies/ml or CD4+ cell count < 100 cells x 106/L (see section 4.2).
 Combinations with optimised background regimen (OBRs) other than ≥2 NRTIs have not been studied in this population.
 Limited data are available in patients with HIV-1 clades other than B (see section 5.1).
-
 Paediatric population
 PREZISTA is not recommended for use in paediatric patients below 3 years of age or less than 15 kg body weight (see sections 4.2 and 5.3).
 
@@ -56,7 +52,6 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer to t
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with PREZISTA used in combination with cobicistat or low dose ritonavir and patients should be monitored during treatment.
 Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZISTA used in combination with cobicistat or low dose ritonavir treatment.
-
 If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients using PREZISTA used in combination with cobicistat or low dose ritonavir, interruption or discontinuation of treatment should be considered promptly.
 
 Patients with coexisting conditions
@@ -93,6 +88,7 @@ Lipid disorders should be managed as clinically appropriate.
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 Immune reconstitution inflammatory syndrome
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first weeks or months of initiation of CART.
@@ -130,7 +126,6 @@ PREZISTA oral suspension contains less than 1 mmol sodium (23 mg) per ml, that i
 
 PREZISTA must always be given orally with low dose ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products (see section 5.2).
 The Summary of Product Characteristics of ritonavir as appropriate, must therefore be consulted prior to initiation of therapy with PREZISTA.
-
 Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations It is not recommended to alter the dose of ritonavir.
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with PREZISTA/ritonavir and patients should be monitored during treatment.
