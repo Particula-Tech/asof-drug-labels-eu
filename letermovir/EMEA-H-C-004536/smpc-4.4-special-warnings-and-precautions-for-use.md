@@ -1,8 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
-Monitoring of CMV DNA
+Monitoring of CMV DNA in HSCT recipients
 
-The safety and efficacy of letermovir has been established in patients with a negative CMV DNA test result prior to initiation of prophylaxis.
+In a Phase 3 trial (P001), the safety and efficacy of letermovir has been established in HSCT patients with a negative CMV DNA test result prior to initiation of prophylaxis.
 CMV DNA was monitored on a weekly basis until post-transplant Week 14, and subsequently every two weeks until Week 24.
 In cases of clinically significant CMV DNAemia or disease, letermovir prophylaxis was stopped and standard-of-care pre-emptive therapy (PET) or treatment was initiated.
 In patients in whom letermovir prophylaxis was initiated and the baseline CMV DNA test was subsequently found to be positive, prophylaxis could be continued if PET criteria had not been met (see section 5.1).
@@ -29,6 +29,7 @@ Therapeutic drug monitoring (TDM) is therefore recommended for voriconazole.
 Concomitant use of dabigatran should be avoided due to risk of reduced dabigatran efficacy.
 
 Letermovir may increase the plasma concentrations of medicinal products transported by OATP1B1/3 such as many of the statins (see section 4.5 and Table 1).
+
 Excipients
 
 PREVYMIS contains lactose monohydrate.

@@ -3,7 +3,7 @@
 General toxicity
 
 Irreversible testicular toxicity was noted only in rats at systemic exposures (AUC) ≥3-fold the exposures in humans at the recommended human dose (RHD).
-This toxicity was characterized by seminiferous tubular degeneration, and oligospermia and cell debris in the epididymides, with decreased testicular and epididymides weights.
+This toxicity was characterised by seminiferous tubular degeneration, and oligospermia and cell debris in the epididymides, with decreased testicular and epididymides weights.
 There was no testicular toxicity in rats at exposures (AUC) similar to the exposures in humans at the RHD.
 Testicular toxicity was not observed in mice and monkeys at the highest doses tested at exposures up to 4-fold and 2-fold, respectively, the exposures in humans at the RHD.
 The relevance to humans is unknown.
@@ -13,7 +13,7 @@ Vacuolation was noted in the kidneys of rats administered intravenous letermovir
 
 Carcinogenesis
 
-Carcinogenicity studies with letermovir have not been conducted.
+A 6-month oral carcinogenicity study in RasH2 transgenic (Tg.RasH2) mice showed no evidence of human-relevant tumorigenesis up to the highest doses tested, 150 mg/kg/day and 300 mg/kg/day in males and females, respectively.
 
 Mutagenesis
 

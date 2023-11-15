@@ -1,22 +1,25 @@
 # 4.2 Posology and method of administration
 
-PREVYMIS should be initiated by a physician experienced in the management of patients who have had an allogeneic haematopoietic stem cell transplant.
-
+PREVYMIS should be initiated by a physician experienced in the management of patients who have had an allogeneic haematopoietic stem cell transplant or kidney transplant.
 Posology
 
 PREVYMIS is also available as concentrate for solution for infusion (240 mg and 480 mg).
+
 PREVYMIS tablets and concentrate for solution for infusion may be used interchangeably at the discretion of the physician, and no dose adjustment is necessary.
 
 The recommended dose of PREVYMIS is one 480 mg tablet once daily.
 
+HSCT
 PREVYMIS should be started after HSCT.
-PREVYMIS may be started on the day of transplant and no later than 28 days post-transplant.
+PREVYMIS may be started on the day of transplant and no later than 28 days post-HSCT.
 PREVYMIS may be started before or after engraftment.
-Prophylaxis with PREVYMIS should continue through 100 days post-transplant.
+Prophylaxis with PREVYMIS should continue through 100 days post-HSCT.
 
-The safety and efficacy of letermovir use for more than 100 days has not been studied in clinical trials.
-Prolonged letermovir prophylaxis beyond 100 days post-transplant may be of benefit in some patients at high risk for late CMV reactivation (see section 5.1).
-Use of letermovir prophylaxis for greater than 100 days requires a careful assessment of the benefit-risk balance.
+Prolonged PREVYMIS prophylaxis beyond 100 days post-HSCT may be of benefit in some patients at high risk for late CMV reactivation (see section 5.1).
+The safety and efficacy of PREVYMIS use for more than 200 days has not been studied in clinical trials.
+
+Kidney transplant
+PREVYMIS should be started on the day of transplant and no later than 7 days post-kidney transplant and continued through 200 days post-transplant.
 
 Dose adjustment
 If PREVYMIS is co-administered with cyclosporine, the dose of PREVYMIS should be decreased to 240 mg once daily (see sections 4.5 and 5.2).
@@ -46,7 +49,6 @@ Renal impairment
 No dose adjustment of PREVYMIS is recommended for patients with mild, moderate, or severe renal impairment.
 No dose recommendation can be made for patients with end stage renal disease (ESRD) with or without dialysis.
 Efficacy and safety has not been demonstrated for patients with ESRD.
-
 Paediatric population
 The safety and efficacy of PREVYMIS in patients below 18 years of age have not been established.
 No data are available (see section 5.1).

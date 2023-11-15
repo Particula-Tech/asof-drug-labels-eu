@@ -4,7 +4,7 @@
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
 
-Unopened vial: 30 months
+Unopened vial: 3 years
 After opening: Use immediately
 
 Storage of diluted solution

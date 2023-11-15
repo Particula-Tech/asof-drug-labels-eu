@@ -14,14 +14,13 @@ Both elimination pathways involve active uptake into the hepatocyte through the 
 After uptake, glucuronidation of letermovir is mediated by UGT1A1 and 3.
 Letermovir also appears to be subject to P-gp and BCRP mediated efflux in the liver and intestine (see section 5.2).
 
-Inducers of drug metabolizing enzymes or transporters
+Inducers of drug metabolising enzymes or transporters
 
 Co-administration of PREVYMIS (with or without cyclosporine) with strong and moderate inducers of transporters (e.g., P-gp) and/or enzymes (e.g., UGTs) is not recommended, as it may lead to subtherapeutic letermovir exposure (see Table 1).
 -Examples of strong inducers include rifampicin, phenytoin, carbamazepine, St. John’s wort (Hypericum perforatum), rifabutin and phenobarbital.
 -Examples of moderate inducers include thioridazine, modafinil, ritonavir, lopinavir, efavirenz and etravirine.
 
 Rifampicin co-administration resulted in an initial increase in letermovir plasma concentrations (due to OATP1B1/3 and/or P-gp inhibition) that is not clinically relevant, followed by clinically relevant decreases in letermovir plasma concentrations (due to induction of P-gp/UGT) with continued rifampicin co-administration (see Table 1).
-
 Additional effects of other products on letermovir relevant when combined with cyclosporine
 
 Inhibitors of OATP1B1 or 3
@@ -29,6 +28,7 @@ Co-administration of PREVYMIS with medicinal products that are inhibitors of OAT
 If PREVYMIS is co-administered with cyclosporine (a potent OATP1B1/3 inhibitor), the recommended dose of PREVYMIS is 240 mg once daily (see Table 1 and sections 4.2 and 5.2).
 Caution is advised if other OATP1B1/3 inhibitors are added to letermovir combined with cyclosporine.
 -Examples of OATP1B1 inhibitors include gemfibrozil, erythromycin, clarithromycin, and several protease inhibitors (atazanavir, simeprevir).
+
 Inhibitors of P-gp/BCRP
 In vitro results indicate that letermovir is a substrate of P-gp/BCRP.
 Changes in letermovir plasma concentrations due to inhibition of P-gp/BCRP by itraconazole were not clinically relevant.
@@ -63,12 +63,11 @@ Due to time dependent inhibition and simultaneous induction the net enzyme inhib
 The time needed to reach steady state of a specific affected medicinal product will also influence the time needed to reach full effect on the plasma concentrations.
 When ending treatment, it takes 10-14 days for the inhibitory effect to disappear.
 If monitoring is applied, this is recommended the first 2 weeks after initiating and ending letermovir (see section 4.4) as well as after changing route of letermovir administration.
-
 Medicinal products transported by OATP1B1/3
 Letermovir is an inhibitor of OATP1B1/3 transporters.
 Administration of PREVYMIS may result in a clinically relevant increase in plasma concentrations of co-administered medicinal products that are OATP1B1/3 substrates.
 -Examples of such medicinal products include HMG-CoA reductase inhibitors, fexofenadine, repaglinide and glyburide (see Table 1).
-Comparing letermovir regimen administered without cyclosporine, the effect is more marked after iv than oral letermovir.
+Comparing letermovir regimen administered without cyclosporine, the effect is more marked after intravenous than oral letermovir.
 The magnitude of the OATP1B1/3 inhibition on co-administered medicinal products is likely greater when PREVYMIS is co-administered with cyclosporine (a potent OATP1B1/3 inhibitor).
 This needs to be considered when the letermovir regimen is changed during treatment with an OATP1B1/3 substrate.
 
@@ -77,7 +76,7 @@ Co-administration of PREVYMIS with voriconazole (a CYP2C19 substrate) results in
 CYP2C9 is likely also induced.
 Letermovir has the potential to decrease the exposure of CYP2C9 and/or CYP2C19 substrates potentially resulting in subtherapeutic levels.
 -Examples of such medicinal products include warfarin, voriconazole, diazepam, lansoprazole, omeprazole, esomeprazole, pantoprazole, tilidine, tolbutamide (see Table 1).
-The effect is expected to be less pronounced for oral letermovir without cyclosporine, than IV letermovir with or without cyclosporine, or oral letermovir with cyclosporine.
+The effect is expected to be less pronounced for oral letermovir without cyclosporine, than intravenous letermovir with or without cyclosporine, or oral letermovir with cyclosporine.
 This needs to be considered when the letermovir regimen is changed during treatment with a CYP2C9 or CYP2C19 substrate.
 See also general information on induction above regarding time courses of the interaction.
 
@@ -105,7 +104,6 @@ Additional monitoring may be recommended; refer to the prescribing information f
 Medicinal products transported by the renal transporter OAT3
 In vitro data indicate that letermovir is an inhibitor of OAT3; therefore, letermovir may be an OAT3 inhibitor in vivo.
 Plasma concentrations of medicinal products transported by OAT3 may be increased. -Examples of medicinal products transported by OAT3 includes ciprofloxacin, tenofovir, imipenem, and cilastin.
-
 General information
 
 If dose adjustments of concomitant medicinal products are made due to treatment with PREVYMIS, doses should be readjusted after treatment with PREVYMIS is completed.
@@ -113,6 +111,7 @@ A dose adjustment may also be needed when changing route of administration or im
 
 Table 1 provides a listing of established or potentially clinically significant medicinal product interactions.
 The medicinal product interactions described are based on studies conducted with PREVYMIS or are predicted medicinal product interactions that may occur with PREVYMIS (see sections 4.3, 4.4, 5.1, and 5.2).
+
 Table 1: Interactions and dose recommendations with other medicinal products.
 Note that the table is not extensive but provides examples of clinically relevant interactions.
 See also the general text on DDIs above.
@@ -136,7 +135,7 @@ When changing the route of administration, or if changing immunosuppressant, the
 | (600 mg single dose PO)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 2.03 (1.84, 2.26) Cmax 1.59 (1.46, 1.74) C24 2.01 (1.59, 2.54) (OATP1B1/3 and/or P-gp inhibition) |  |
 | (600 mg single dose intravenous)/ letermovir (480 mg single dose PO) | ↔ letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
 | (600 mg once daily PO)/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.81 (0.67, 0.98) Cmax 1.01 (0.79, 1.28) C24 0.14 (0.11, 0.19) (Sum of OATP1B1/3 and/or P-gp inhibition and P-gp/UGT induction) |  |
-| (600 mg once daily PO (24 hours after rifampicin))§/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.15 (0.13, 0.17) Cmax 0.27 (0.22, 0.31) C24 0.09(0.06, 0.12) (P-gp/UGT induction) |  |
+| (600 mg once daily PO (24 hours after rifampicin))§/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.15 (0.13, 0.17) Cmax 0.27 (0.22, 0.31) C24 0.09 (0.06, 0.12) (P-gp/UGT induction) |  |
 | Antipsychotics |  |  |
 | thioridazine | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Thioridazine may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and thioridazine is not recommended. |
 | Endothelin antagonists |  |  |
@@ -188,8 +187,8 @@ When changing the route of administration, or if changing immunosuppressant, the
 | Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
 | --- | --- | --- |
 | Sedatives |  |  |
-| midazolam (1 mg single dose intravenous)/ letermovir (240 mg once daily PO) | ↑ midazolam intravenous: AUC 1.47 (1.37, 1.58) Cmax 1.05 (0.94, 1.17) | Close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised during co-administration of PREVYMIS with midazolam. Dose adjustment of midazolam |
-| midazolam (2 mg single dose PO) / letermovir (240 mg once daily PO) | PO: AUC 2.25 (2.04, 2.48) Cmax 1.72 (1.55, 1.92) (CYP3A inhibition) | should be considered#. The increase in midazolam plasma concentration may be greater when oral midazolam is administered with letermovir at the clinical dose than with the dose studied. |
+| midazolam (1 mg single dose intravenous)/ letermovir (240 mg once daily PO) | ↑ midazolam intravenous: AUC 1.47 (1.37, 1.58) Cmax 1.05 (0.94, 1.17) | Close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised during co-administration of PREVYMIS with midazolam. Dose adjustment of |
+| midazolam (2 mg single dose PO) / letermovir (240 mg once daily PO) | PO: AUC 2.25 (2.04, 2.48) Cmax 1.72 (1.55, 1.92) (CYP3A inhibition) | midazolam should be considered#. The increase in midazolam plasma concentration may be greater when oral midazolam is administered with letermovir at the clinical dose than with the dose studied. |
 | Opioid agonists |  |  |
 | Examples: alfentanil, fentanyl | Interaction not studied. Expected: ↑ CYP3A metabolised opioids (CYP3A inhibition) | Frequent monitoring for adverse reactions related to these medicinal products is recommended during co-administration. Dose adjustment of CYP3A metabolised opioids may be needed# (see section 4.4). Monitoring is also recommended if changing route of administration. When PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in plasma concentrations of CYP3A metabolised opioids may be greater. Close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised during co-administration of PREVYMIS in combination with cyclosporine and alfentanil or fentanyl. Refer to the respective prescribing information (see section 4.4). |
 | Anti-arrhythmic medicinal products |  |  |
@@ -213,13 +212,9 @@ Interaction studies have only been performed in adults.
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
 
-The effect is expected to be less pronounced for oral letermovir without cyclosporine, than intravenous letermovir with or without cyclosporine, or oral letermovir with cyclosporine.
-
--An example of a medicinal product which is mainly eliminated by CYP2C8 is repaglinide (see Table 1).
-
 -Examples of medicinal products that are metabolised by CYP2B6 include bupropion.
 -Examples of medicinal products metabolised by UGT1A1 are raltegravir and dolutegravir. -Examples of medicinal products transported by BCRP include rosuvastatin and sulfasalazine.
--An example of medicinal product transported by OATP2B1 is celiprolol.
+-An example of a medicinal product transported by OATP2B1 is celiprolol.
 
 | Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
 | --- | --- | --- |

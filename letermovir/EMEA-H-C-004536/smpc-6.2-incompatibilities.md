@@ -6,7 +6,7 @@ Not applicable.
 
 Incompatible medicinal products
 
-PREVYMIS concentrate for solution for infusion is physically incompatible with amiodarone hydrochloride, amphotericin B (liposomal), aztreonam, cefepime hydrochloride, ciprofloxacin, cyclosporine, diltiazem hydrochloride, filgrastim, gentamicin sulfate, levofloxacin, linezolid, lorazepam, midazolam HCl, mycophenolate mofetil hydrochloride, ondansetron, palonosetron.
+PREVYMIS concentrate for solution for infusion is physically incompatible with amiodarone hydrochloride, amphotericin B (liposomal), aztreonam, cefepime hydrochloride, ciprofloxacin, cyclosporine, diltiazem hydrochloride, filgrastim, gentamicin sulphate, levofloxacin, linezolid, lorazepam, midazolam HCl, mycophenolate mofetil hydrochloride, ondansetron, palonosetron.
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 

@@ -39,8 +39,8 @@ PREVYMIS diluted solution must be administered through a sterile 0.2 micron or 0
 Compatible intravenous solutions and other medicinal products
 
 PREVYMIS concentrate for solution for infusion is compatible with 0.9% sodium chloride and 5% dextrose solutions.
-
 PREVYMIS should not be co-administered through the same intravenous line (or cannula) with other medicinal products and diluent combinations except those listed below.
+
 List of compatible medicinal products when PREVYMIS and medicinal products* are prepared in 0.9% sodium chloride
 
 - Ampicillin sodium • Fluconazole

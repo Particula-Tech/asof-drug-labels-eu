@@ -1,16 +1,20 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of letermovir have been characterized following oral and intravenous administration in healthy subjects and HSCT recipients.
+In healthy subjects, the pharmacokinetics of letermovir have been characterised following oral and intravenous administration.
 Letermovir exposure increased in a greater than dose-proportional manner with both oral or intravenous administration.
 The mechanism is likely saturation/autoinhibition of OATP1B1/3.
+The pharmacokinetics of letermovir have also been characterised following oral and intravenous administration in HSCT recipients (Table 6) and following oral administration in kidney transplant recipients (Table 7).
 
-In healthy subjects, the geometric mean steady-state AUC and Cmax values were 71,500 ng•hr/mL and 13,000 ng/mL, respectively, with 480 mg once daily oral letermovir.
+Healthy subjects
+The geometric mean steady-state AUC and Cmax values were 71,500 ng•hr/mL and 13,000 ng/mL, respectively, with 480 mg once daily oral letermovir.
 
 Letermovir reached steady-state in 9 to 10 days with an accumulation ratio of 1.2 for AUC and 1 for Cmax.
 
-In HSCT recipients, letermovir AUC was estimated using population pharmacokinetic analyses using Phase 3 data (see Table 4).
+HSCT recipients
+Letermovir AUC was estimated using population pharmacokinetic analyses using P001 Phase 3 data (see Table 6).
 Differences in exposure across treatment regimens are not clinically relevant; efficacy was consistent across the range of exposures observed in P001.
-Table 4: Letermovir AUC (ng•hr/mL) values in HSCT Recipients
+
+Table 6: Letermovir AUC (ng•hr/mL) values in HSCT Recipients
 
 | Treatment Regimen | Median (90% Prediction Interval)* |
 | --- | --- |
@@ -20,11 +24,23 @@ Table 4: Letermovir AUC (ng•hr/mL) values in HSCT Recipients
 | 240 mg intravenous, with cyclosporine | 70,300 (46,200, 106,000) |
 | * Population post-hoc predictions from the population PK analysis using Phase 3 data |  |
 
+Kidney transplant recipients
+Letermovir AUC was estimated using population pharmacokinetic analysis using P002 Phase 3 data (see Table 7).
+Efficacy was consistent across the range of exposures observed in P002.
+Table 7: Letermovir AUC (ng•hr/mL) values in kidney transplant recipients
+
+| Treatment Regimen | Median (90% Prediction Interval)* |
+| --- | --- |
+| 480 mg Oral, no cyclosporine | 62,200 (28,900, 145,000) |
+| 240 mg Oral, with cyclosporine | 57,700 (26,900, 135,000) |
+| * Medians and 90% prediction intervals are based on simulations using the Phase 3 population PK model with inter-individual variability. Note: PK of letermovir was not studied following IV administration in kidney transplant recipients; however, the projected AUC following IV administration is similar to the model predicted AUC following IV administration in HSCT recipients (Table 6). |  |
+
 Absorption
 
 Letermovir was absorbed rapidly with a median time to maximum plasma concentration (Tmax) of 1.5 to 3.0 hours and declined in a biphasic manner.
 In HSCT recipients, bioavailability of letermovir was estimated to be approximately 35% with 480 mg once daily oral letermovir administered without cyclosporine.
 The inter-individual variability for bioavailability was estimated to be approximately 37%.
+In kidney transplant recipients, bioavailability of letermovir was estimated to be approximately 60% with 480 mg once daily oral letermovir administered without cyclosporine.
 
 Effect of cyclosporine
 In HSCT recipients, co-administration of cyclosporine increased plasma concentrations of letermovir due to inhibition of OATP1B.
@@ -75,18 +91,23 @@ The changes in letermovir exposure in subjects with moderate hepatic impairment 
 Marked increases in letermovir unbound exposure are anticipated in patients with moderate hepatic impairment combined with moderate or severe renal impairment (see section 4.2).
 
 Renal impairment
+Clinical study in a renally impaired population
 Letermovir unbound AUC was approximately 115- and 81% higher in subjects with moderate (eGFR of 31 to 56.8 mL/min/1.73m2) and severe (eGFR of 11.9 to 28.1 mL/min/1.73m2) renal impairment, respectively, compared to healthy subjects.
 The changes in letermovir exposure due to moderate or severe renal impairment are not considered to be clinically relevant.
 Subjects with ESRD have not been studied.
 
+Post-kidney transplant (P002)
+Based on population pharmacokinetic analysis, letermovir AUC was approximately 12%, 27% and 35% higher in subjects with mild (CrCl greater than or equal to 60 to less than 90 mL/min), moderate (CrCl greater than or equal to 30 to less than 60 mL/min) and severe (CrCl greater than or equal to 15 to less than 30 mL/min) renal impairment, respectively, compared to subjects with CrCl greater than or equal to 90 mL/min.
+These changes are not considered to be clinically relevant.
+
 Weight
-Based on population pharmacokinetic analyses, letermovir AUC is estimated to be 18.7% lower in subjects weighing 80-100 kg compared to subjects weighing 67 kg.
-This difference is not clinically relevant.
+Based on population pharmacokinetic analyses in healthy subjects, letermovir AUC is estimated to be 18.7% lower in subjects weighing 80-100 kg compared to subjects weighing 67 kg.
+Based on population pharmacokinetic analysis in kidney transplant recipients (P002), letermovir AUC is estimated to be 26% lower in subjects weighing greater than 80 kg compared to subjects weighing less than or equal to 80 kg.
+These differences are not clinically relevant.
 
 Race
-Based on population pharmacokinetic analyses, letermovir AUC is estimated to be 33.2% higher in Asians compared to Whites.
+Based on population pharmacokinetic analyses in healthy subjects, letermovir AUC is estimated to be 33.2% higher in Asians compared to Whites.
 This change is not clinically relevant.
-
 Gender
 Based on population pharmacokinetic analyses, there is no difference in letermovir pharmacokinetics in females compared to males.
 

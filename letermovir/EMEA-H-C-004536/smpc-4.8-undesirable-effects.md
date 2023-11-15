@@ -2,11 +2,18 @@
 
 Summary of the safety profile
 
-The safety assessment of PREVYMIS was based on a Phase 3 clinical trial (P001) in HSCT recipients who received PREVYMIS or placebo through Week 14 post-transplant and were followed for safety through Week 24 post-transplant (see section 5.1).
+The safety assessment of PREVYMIS was based on three Phase 3 clinical trials.
 
+HSCT
+In P001, 565 HSCT recipients received PREVYMIS or placebo through Week 14 post-transplant and were followed for safety through Week 24 post-transplant (see section 5.1).
 The most commonly reported adverse reactions occurring in at least 1% of subjects in the PREVYMIS group and at a frequency greater than placebo were: nausea (7.2%), diarrhoea (2.4%), and vomiting (1.9%).
+The most frequently reported adverse reactions that led to discontinuation of PREVYMIS were: nausea (1.6%), vomiting (0.8%), and abdominal pain (0.5%).
 
-The most frequently reported adverse reactions that led to discontinuation of PREVYMIS were nausea (1.6%), vomiting (0.8%), and abdominal pain (0.5%).
+In P040, 218 HSCT recipients received PREVYMIS or placebo from Week 14 (~100 days) through Week 28 (~200 days) post-HSCT and were followed for safety through Week 48 post-HSCT (see section 5.1).
+The adverse reactions reported were consistent with the safety profile of PREVYMIS as characterised in study P001.
+
+Kidney transplant
+In P002, 292 kidney transplant recipients received PREVYMIS through Week 28 (~200 days) post-transplant (see section 5.1).
 
 Tabulated summary of adverse reactions
 
