@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 The efgartigimod alfa solution diluted in sodium chloride 9 mg/mL (0.9%) solution for injection can be administered using polyethylene (PE), polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and ethylene/polypropylene copolymer bags (polyolefins bags), as well as with PE, PVC and polyurethane/polypropylene infusion lines, together with polyurethane (PUR) or PVC filters with polyethersulfone (PES) or polyvinylidene fluoride (PVDF) filter membrane.
-
 Using the formula in the table below, calculate the following:
 
 - The dose of Vyvgart required based on the patient’s bodyweight at the recommended dose of 10 mg/kg.
@@ -33,20 +32,14 @@ Dilution
   - Dilute the withdrawn product by adding the calculated amount of sodium chloride 9 mg/mL (0.9%) solution for injection to make a total volume of 125 mL.
   - Gently invert the infusion bag containing the diluted product without shaking to ensure thorough mixing of the product and the diluent.
 
-Administration
-
-- Inspect the solution visually for particulate matter prior to administration.
-- Infuse the total 125 mL of diluted medicinal product over 1 hour using a 0.2 µm filter.
-  Administer the full amount of solution, flushing the entire line with sodium chloride 9 mg/mL (0.9%) solution for injection at the end.
-- Vyvgart should be administered immediately after dilution and the infusion of diluted solution should be completed within 4 hours of dilution.
-- Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C to 8°C.
-  From a microbiological point of view, unless the method of dilution precludes the risks of microbial contamination, the product should be used immediately.
-  If not used immediately, in-use storage times and conditions are the responsibility of the user.
-  Do not freeze.
-  Allow the diluted medicinal product to reach room temperature before administration.
-  Complete the infusion within 4 hours of removal from the refrigerator.
-  The diluted medicinal product should not be heated in any other manner than via ambient air.
-- Should infusion reactions occur, the infusion should be administered at a slower rate, interrupted or discontinued (see section 4.4).
-- Other medicinal products should not be injected into infusion side ports or mixed with Vyvgart.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[Vyvgart 1 000 mg solution for injection]
+
+Vyvgart comes as a ready-to-use solution in single-use vial.
+The medicinal product does not need to be diluted.
+
+Visually inspect that the vial content is a yellowish, clear to opalescent solution, and devoid of particulate matter.
+If visible particles are observed the vial must not be used.
+
+After removing the vial from the refrigerator, wait for at least 15 minutes before injecting to allow the solution to reach room temperature (see section 6.3).

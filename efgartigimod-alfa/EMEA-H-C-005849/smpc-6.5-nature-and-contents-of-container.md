@@ -3,3 +3,7 @@
 Concentrate in single-dose 20 mL glass vials (Type I) with rubber stopper (butyl, siliconised), aluminium seal and polypropylene flip-off cap.
 
 Pack size of 1 vial.
+
+[Vyvgart 1 000 mg solution for injection]
+
+5.6 mL solution in a 6 mL Type I glass vial with rubber stopper, aluminium seal and polypropylene flip-off cap.

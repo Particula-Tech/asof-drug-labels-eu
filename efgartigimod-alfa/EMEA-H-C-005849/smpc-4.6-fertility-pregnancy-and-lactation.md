@@ -7,10 +7,9 @@ Antibodies including therapeutic monoclonal antibodies are known to be actively 
 
 Efgartigimod alfa may be transmitted from the mother to the developing foetus.
 As efgartigimod alfa is expected to reduce maternal antibody levels, and is also expected to inhibit the transfer of maternal antibodies to the foetus, reduction in passive protection to the newborn is anticipated.
-Therefore, risks and benefits of administering live / live-attenuated vaccines to infants exposed to efgartigimod alfa in utero should be considered (see section 4.4).
+Therefore, risks and benefits of administering live/live-attenuated vaccines to infants exposed to efgartigimod alfa in utero should be considered (see section 4.4).
 
 Treatment of pregnant women with Vyvgart should only be considered if the clinical benefit outweighs the risks.
-
 Breast-feeding
 
 There is no information regarding the presence of efgartigimod alfa in human milk, the effects on the breastfed child or the effects on milk production.
