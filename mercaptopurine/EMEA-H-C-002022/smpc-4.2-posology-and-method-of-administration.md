@@ -78,7 +78,7 @@ In any case, close monitoring of blood counts is necessary.
 Method of administration
 Xaluprine is for oral use and requires redispersing (by shaking vigorously at least for 30 seconds) prior to dosing.
 
-Two dosing syringes (a purple syringe graduated to 1 ml and a white syringe graduated to 5 ml) are provided for accurate measurement of the prescribed dose of the oral suspension.
+Two dosing syringes (a 1 ml and a 5 ml) are provided for accurate measurement of the prescribed dose of the oral suspension.
 It is recommended that the healthcare professional advises the patient or carer which syringe to use to ensure that the correct volume is administered.
 
 Xaluprine may be taken with food or on an empty stomach, but patients should standardise the method of administration.
