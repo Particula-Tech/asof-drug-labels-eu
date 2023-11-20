@@ -98,14 +98,12 @@ Opportunistic infections
 Patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
 
-Myocardial Infarction
+Cardiovascular events
 
-Observational studies have shown an association between myocardial infarction and the use of abacavir.
-Those studied were mainly antiretroviral experienced patients.
-Data from clinical trials showed limited numbers of myocardial infarction and could not exclude a small increase in risk.
-Overall the available data from observational cohorts and from randomised trials show some inconsistency so can neither confirm nor refute a causal relationship between abacavir treatment and the risk of myocardial infarction.
-To date, there is no established biological mechanism to explain a potential increase in risk.
-When prescribing Ziagen, action should be taken to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
+Although the available data from clinical and observational studies with abacavir show inconsistent results, several studies suggest an increased risk of cardiovascular events (notably myocardial infarction) in patients treated with abacavir.
+Therefore, when prescribing Ziagen, action should be taken to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
+
+In addition, alternative treatment options to the abacavir containing regimen should be considered when treating patients with a high cardiovascular risk.
 
 [Ziagen 20 mg/ml oral solution]
 
