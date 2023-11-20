@@ -12,6 +12,6 @@ Light blue, capsule-shaped film-coated tablets, printed with “V 150” in blac
 
 [Kalydeco 25 mg granules in sachet]
 
-Granules in sachet
+Granule in sachet (granule)
 
 White to off-white granules approximately 2 mm in diameter.

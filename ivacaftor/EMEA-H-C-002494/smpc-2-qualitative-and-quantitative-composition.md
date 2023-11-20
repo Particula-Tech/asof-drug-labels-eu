@@ -32,6 +32,12 @@ Each sachet contains 50 mg of ivacaftor.
 
 Each sachet contains 73.2 mg of lactose monohydrate.
 
+Kalydeco 59.5 mg granules in sachet
+
+Each sachet contains 59.5 mg of ivacaftor.
+
+Each sachet contains 87.3 mg of lactose monohydrate.
+
 Kalydeco 75 mg granules in sachet
 
 Each sachet contains 75 mg of ivacaftor.

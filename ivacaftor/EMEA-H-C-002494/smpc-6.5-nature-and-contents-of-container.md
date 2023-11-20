@@ -16,10 +16,16 @@ The following pack sizes are available:
 - Blister pack containing 56 film-coated tablets
 - Bottle containing 56 film-coated tablets
 
-Not all pack sizes may be marketed
+Not all pack sizes may be marketed.
 
 [Kalydeco 25 mg granules in sachet]
 
 Biaxially Oriented Polyethylene Terephthalate/Polyethylene/Foil/Polyethylene (BOPET/PE/Foil/PE) sachet.
 
+Kalydeco 25 mg granules in sachet, Kalydeco 50 mg granules in sachet, and Kalydeco 75 mg granules in sachet
+
 Pack size of 56 sachets (contains 4 individual wallets with 14 sachets per wallet).
+
+Kalydeco 59.5 mg granules in sachet
+
+Pack size of 28 sachets (contains 4 individual wallets with 7 sachets per wallet)
