@@ -3,12 +3,14 @@
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
 
 PD-L1 testing
+
 If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8 and 5.1).
 
 MSI/MMR testing
 If specified in the indication, patient selection for treatment with KEYTRUDA based on MSI-H/dMMR tumour status should be confirmed by a validated test (see sections 4.1 and 5.1).
 
 Posology
+
 The recommended dose of KEYTRUDA in adults is either 200 mg every 3 weeks or 400 mg every 6 weeks administered as an intravenous infusion over 30 minutes.
 
 The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL or patients aged 12 years and older with melanoma is 2 mg/kg bodyweight (bw) (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
@@ -100,6 +102,7 @@ The safety and efficacy of KEYTRUDA in children below 18 years of age have not b
 Currently available data are described in sections 4.8, 5.1 and 5.2.
 
 Method of administration
+
 KEYTRUDA is for intravenous use.
 It must be administered by infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.

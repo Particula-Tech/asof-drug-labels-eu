@@ -3,8 +3,8 @@
 Preparation and administration of the infusion
 
 - Do not shake the vial.
-- Equilibrate the vial to room temperature (at or below 25°C).
-- Prior to dilution, the vial of liquid can be out of refrigeration (temperatures at or below 25°C) for up to 24 hours.
+- Equilibrate the vial to room temperature (at or below 25 °C).
+- Prior to dilution, the vial of liquid can be out of refrigeration (temperatures at or below 25 °C) for up to 24 hours.
 - Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration.
   The concentrate is a clear to slightly opalescent, colourless to slightly yellow solution.
   Discard the vial if visible particles are observed.
@@ -13,8 +13,8 @@ Preparation and administration of the infusion
   Mix diluted solution by gentle inversion.
 - From a microbiological point of view, the product, once diluted, should be used immediately.
   The diluted solution must not be frozen.
-  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 96 hours at 2°C to 8°C.
-  This 96-hour hold may include up to 6 hours at room temperature (at or below 25°C).
+  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 96 hours at 2 °C to 8 °C.
+  This 96-hour hold may include up to 6 hours at room temperature (at or below 25 °C).
   If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
   Translucent to white proteinaceous particles may be seen in diluted solution.
   Administer the infusion solution intravenously over 30 minutes using a sterile, non-pyrogenic, low-protein binding 0.2 to 5 µm in-line or add-on filter.
