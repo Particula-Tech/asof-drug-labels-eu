@@ -478,10 +478,17 @@ Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
 
 1060 patients were randomised to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
 
-| Subgroups | TAC (n=539) | FAC (n=521) | Hazard ratio (TAC/FAC) (95% CI) |
-| --- | --- | --- | --- |
-| Meeting relative indication for chemotherapy a No | 18/214 (8.4%) | 26/227 (11.5%) | 0.796 (0.434 - 1.459) |
-| Yes | 48/325 (14.8%) | 69/294 (23.5%) | 0.606 (0.42 - 0.877) |
+Hazard ratio
+
+TAC FAC (TAC/FAC)
+Subgroups (n=539) (n=521) (95% CI) p-value
+
+Meeting relative indication for chemotherapy a
+
+No 18/214 26/227 0.796 (0.434 - 1.459) 0.4593
+(8.4%) (11.5%)
+Yes 48/325 69/294 0.606 (0.42 - 0.877) 0.0072
+(14.8%) (23.5%)
 
 One large randomised phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²)
 (AC arm).
@@ -489,6 +496,16 @@ One large randomised phase III study, involving 429 previously untreated patient
 Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours overexpress HER2, and who previously had not received chemotherapy for metastatic disease.
 
 There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medicinal products (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
+
+| Endpoint | Docetaxel +ADT | ADT alone |
+| --- | --- | --- |
+| Number of patients Median overall survival (months) All patients 95% CIAdjusted hazard ratio 95% CI | 397 57.6 49.1-72.8 0.61 (0.47-0.80) | 393 44.0 34.4-49.1 -- -- |
+| p-valuea | 0.0003 | -- |
+| Progression Free Survival Median (months) 95% CI Adjusted hazard ratio 95% CI p-value* | 19.8 16.7-22.8 0.60 0.51-0.72 P<0.0001 | 11.6 10.8-14.3 -- -- -- |
+| PSA response** at 6 months – N(%) p-valuea* | 127 (32.0) <0.0001 | 77 (19.6) -- |
+| PSA response** at 12 months – N(%) p-valuea* | 110 (27.7) <0.0001 | 66 (16.8) -- |
+| Time to castration-resistant prostate cancerb Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 20.2 (17.2-23.6) 0.61 (0.51-0.72) <0.0001 | 11.7 (10.8-14.7) -- -- -- |
+| Time to clinical progressionc Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 33.0 (27.3-41.2) 0.61 (0.50-0.75) <0.0001 | 19.8 (17.9-22.8) -- -- -- |
 
 | Endpoint | Docetaxel + Cis + 5-FU n = 255 | Cis + 5-FU n = 246 |
 | --- | --- | --- |

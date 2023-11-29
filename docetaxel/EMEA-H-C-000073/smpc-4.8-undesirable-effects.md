@@ -20,6 +20,7 @@ grade 3-4 = G3/4; grade 4 = G4), the COSTART and the MedDRA terms.
 Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare
 (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 The most commonly reported adverse reactions of docetaxel alone are: neutropenia (which was reversible and not cumulative; the median day to nadir was 7 days and the median duration of severe neutropenia (< 500 cells/mm3) was 7 days), anaemia, alopecia, nausea, vomiting, stomatitis, diarrhoea and asthenia.
 The severity of adverse events of docetaxel may be increased when docetaxel is given in combination with other chemotherapeutic agents.
 
@@ -58,6 +59,7 @@ Infusion site reactions were generally mild and consisted of hyper pigmentation,
 Fluid retention includes events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity (see section 4.4).
+
 Tabulated list of adverse reactions in breast cancer for TAXOTERE 100 mg/m² single agent
 
 | MedDRA system organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
@@ -74,8 +76,8 @@ Tabulated list of adverse reactions in breast cancer for TAXOTERE 100 mg/m² sin
 | Skin and subcutaneous tissue disorders | Alopecia; Skin reaction (G3/4: 5.9%); Nail disorders (severe: 2.6%) |  |  |
 | Musculoskeletal and connective tissue disorders | Myalgia (severe: 1.4%) | Arthralgia |  |
 | General disorders and administration site conditions | Fluid retention (severe: 6.5%); Asthenia (severe: 11.2%); Pain | Infusion site reaction; Non-cardiac chest pain (severe: 0.4%) |  |
-| Investigations |  | G3/4 Blood bilirubin increased (< 5%); G3/4 Blood alkaline phosphatase increased (< 4%); |  |
-|  |  | G3/4 AST increased (< 3%); G3/4 ALT increased (< 2%) |  |
+| Investigations |  | G3/4 Blood bilirubin increased (< 5%); |  |
+|  |  | G3/4 Blood alkaline phosphatase increased (< 4%); G3/4 AST increased (< 3%); G3/4 ALT increased (< 2%) |  |
 
 Description of selected adverse reactions in breast cancer for TAXOTERE 100 mg/m2 single agent
 
@@ -115,12 +117,12 @@ Vomiting (G3/4: 0.8%);
 Diarrhoea (G3/4: 1.7%)
 Skin and subcutaneous tissue Alopecia; Nail disorders (severe: 0.8%)
 disorders Skin reaction (G3/4: 0.8%)
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
 Musculoskeletal and connective Myalgia
 tissue disorders
 General disorders and Asthenia (severe: 12.4%);
 administration site conditions Fluid retention (severe: 0.8%);
-MedDRA system organ classes Very common adverse Common adverse reactions
-reactions
 Pain
 Investigations G3/4 Blood bilirubin increased
 (< 2%)
@@ -164,6 +166,8 @@ disorders
 General disorders and Asthenia (severe: Infusion site reaction
 administration site 8.1%);
 conditions Fluid retention (severe:
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 1.2%);
 Pain
 Investigations G3/4 Blood bilirubin G3/4 AST increased
@@ -595,6 +599,7 @@ Oedema (G3/4: 1.2%)
 Investigations Weight decreased Weight increased
 
 Post-marketing experience
+
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 Second primary malignancies (frequency not known), including non-Hodgkin lymphoma have been reported in association with docetaxel when used in combination with other anticancer treatments known to be associated with second primary malignancies.
 Acute myeloid leukaemia and myelodysplastic syndrome have been reported (frequency uncommon) in pivotal clinical studies in breast cancer with TAC regimen.
@@ -635,9 +640,9 @@ Gastrointestinal disorders
 Rare cases of enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, have been reported with a potential fatal outcome (frequency not known).
 Rare occurrences of dehydration have been reported as a consequence of gastrointestinal events including enterocolitis and gastrointestinal perforation.
 Rare cases of ileus and intestinal obstruction have been reported.
-
 Hepatobiliary disorders
 Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+
 Skin and subcutaneous tissue disorders
 Cases of cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions such as Stevens-Johnson Syndrome (SJS), Toxic Epidermal Necrolysis (TEN) and Acute Generalized Exanthematous Pustulosis (AGEP) have been reported with docetaxel.
 Scleroderma-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
@@ -775,14 +780,3 @@ listed in Appendix V.
 
 Description of selected adverse reactions in breast cancer for adjuvant therapy with TAXOTERE
 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
-
-Without primary With primary
-G-CSF prophylaxis G-CSF prophylaxis
-(n = 111) (n = 421)
-n (%) n (%)
-
-| Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
-| --- | --- | --- |
-| Febrile neutropenia | 28 (25.2) | 23 (5.5) |
-| Neutropenic infection | 14 (12.6) | 21 (5.0) |
-| Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |

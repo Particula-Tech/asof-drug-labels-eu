@@ -29,8 +29,8 @@ b) Preparation of the infusion solution
 More than one premix vial may be necessary to obtain the required dose for the patient.
 Based on the required dose for the patient expressed in mg, aseptically withdraw the corresponding premix volume containing 10 mg/ml docetaxel from the appropriate number of premix vials using graduated syringes fitted with a needle.
 For example, a dose of 140 mg docetaxel would require 14 ml docetaxel premix solution.
-
 Inject the required premix volume into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for infusion.
+
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 
 Mix the infusion bag or bottle manually using a rocking motion.

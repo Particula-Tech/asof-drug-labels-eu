@@ -105,7 +105,8 @@ Correction of dehydration and treatment of high uric acid levels are recommended
 
 Others
 
-Contraceptive measures must be taken by both men and women during treatment and for men at least 6 months after cessation of therapy (see section 4.6).
+Women of childbearing potential must use contraceptive measures during treatment and for 2 months after cessation of treatment with docetaxel.
+Men must use contraceptive measures during treatment and for 4 months after cessation of treatment with docetaxel (see section 4.6).
 
 The concomitant use of docetaxel with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole) should be avoided (see section 4.5).
 Additional cautions for use in adjuvant treatment of breast cancer
@@ -149,16 +150,12 @@ Older people treated with TCF should be closely monitored.
 Excipients
 
 This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 252 mg ethanol 95% v/v per solvent vial, equivalent to 6 ml of beer or 2.6 ml wine.
-
 Harmful for those suffering from alcoholism.
 To be taken into account in pregnant or breast-feeding women, in children and in high-risk groups such as patients with liver disease, or epilepsy.
 
 Consideration should be given to possible effects on the central nervous system.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
-
-Cautions for use in castration-resistant prostate cancerOf the 333 patients treated with docetaxel every three weeks in a prostate cancer study (TAX 327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
 
 This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 932 mg ethanol 95% v/v per solvent vial, equivalent to 23 ml of beer or 9.5 ml wine.
 

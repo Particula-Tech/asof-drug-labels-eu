@@ -1,3 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Mature IP, 54 rue La Boétie, 75008 Paris, France
+Sanofi Winthrop Industrie
+82 Avenue Raspail
+94250 Gentilly
+France

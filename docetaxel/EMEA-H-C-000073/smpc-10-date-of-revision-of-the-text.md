@@ -1,3 +1,21 @@
 # 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency http://www.ema.europa.eu.
+
+[TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+(all sentences already above)

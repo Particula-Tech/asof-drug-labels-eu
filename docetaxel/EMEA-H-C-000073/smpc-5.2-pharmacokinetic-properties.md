@@ -3,7 +3,8 @@
 Absorption
 
 The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20-115 mg/m2 in phase I studies.
-The kinetic profile of docetaxel is dose independent and consistent with a three-compartment pharmacokinetic model with half-lives for the α, β and γ phases of 4 min, 36 min and 11.1 h, respectively.
+The kinetic profile of docetaxel is dose independent and consistent with a three-compartment pharmacokinetic model with half-lives for the α, β and γ (terminal) phases of 4 min, 36 min and between 11.1 h and 17.5 h, respectively, when sampled up to 24 hours.
+An additional study assessing the pharmacokinetics of docetaxel at similar doses (75 – 100 mg/m2) in patients, but over a longer time interval (over 22 days) found a longer mean terminal elimination half-life between 91 and 120 hours.
 The late phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
 
 Distribution
@@ -12,6 +13,7 @@ Following the administration of a 100 mg/m2 dose given as a one-hour infusion a 
 Mean values for total body clearance and steady-state volume of distribution were 21 l/h/m2 and 113 l, respectively.
 Inter individual variation in total body clearance was approximately 50%.
 Docetaxel is more than 95% bound to plasma proteins.
+
 Elimination
 
 A study of 14C-docetaxel has been conducted in three cancer patients.

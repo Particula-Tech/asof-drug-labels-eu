@@ -138,13 +138,7 @@ Discontinue treatment if these toxicities persist (see section 4.4).
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-| Toxicity | Dose adjustment |
-| --- | --- |
-| Diarrhoea grade 3 | First episode: reduce 5-FU dose by 20%. |
-|  | Second episode: then reduce docetaxel dose by 20%. |
-| Diarrhoea grade 4 | First episode: reduce docetaxel and 5-FU doses by 20%. Second episode: discontinue treatment. |
-| Stomatitis/mucositis grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: stop 5-FU only, at all subsequent cycles. Third episode: reduce docetaxel dose by 20%. |
-| Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
+(all sentences already above)
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 

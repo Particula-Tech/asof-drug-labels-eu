@@ -8,7 +8,6 @@ Each blister pack contains:
 TAXOTERE 20 mg/0.5 ml concentrate for solution for infusion vial
 
 7 ml clear glass Type I vial with a green flip-off cap.
-
 This vial contains 0.5 ml of a 40 mg/ml solution of docetaxel in polysorbate 80 (fill volume:
 24.4 mg/0.61 ml).
 This fill volume has been established during the development of TAXOTERE to compensate for liquid loss during preparation of the premix due to foaming, adhesion to the walls of the vial and "dead-volume".
@@ -26,7 +25,6 @@ The addition of the entire contents of the solvent vial to the contents of the T
 TAXOTERE 80 mg/2 ml concentrate for solution for infusion vial
 
 15 ml clear glass Type I vial with a red flip-off cap.
-
 This vial contains 2 ml of a 40 mg/ml solution of docetaxel in polysorbate 80 (fill volume:
 94.4 mg/2.36 ml).
 This overfill ensures that after dilution with the entire contents of the accompanying solvent for TAXOTERE vial, there is a minimal extractable premix volume of 8 ml containing 10 mg/ml docetaxel which corresponds to the labelled amount of 80 mg/2 ml per vial.
