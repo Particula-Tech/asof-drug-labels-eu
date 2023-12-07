@@ -1,5 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Immedica Pharma AB
-SE-113 29 Stockholm
+SE-113 63 Stockholm
 Sweden
