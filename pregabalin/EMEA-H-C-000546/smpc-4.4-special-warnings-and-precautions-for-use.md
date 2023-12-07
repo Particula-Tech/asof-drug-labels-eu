@@ -75,7 +75,7 @@ Patients treated with pregabalin should be monitored for symptoms of pregabalin 
 
 Withdrawal symptoms
 After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed.
-The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness.
+The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, suicidal ideation, pain, convulsion, hyperhidrosis and dizziness.
 The occurrence of withdrawal symptoms following discontinuation of pregabalin may indicate drug dependence (see section 4.8).
 The patient should be informed about this at the start of the treatment.
 If pregabalin should be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.2).

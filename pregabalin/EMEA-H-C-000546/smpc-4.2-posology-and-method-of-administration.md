@@ -28,9 +28,9 @@ Renal impairment
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug.
 As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
 
-CLcr(ml/min) = 1.23×[140 - age (years)] × weight (kg) (× 0.85 for female patients)
+CLcr(ml/min) = 1.23×[140 - age (years)] × weight (kg) (× 0.85 for female patients)
 
- serum creatinine (μmol/l) 
+ serum creatinine (µmol/l) 
 
 Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4 hours).
 For patients receiving haemodialysis, the pregabalin daily dose should be adjusted based on renal function.
@@ -85,7 +85,7 @@ Following an additional week the dose may be increased to 450 mg (22.5 mL) per d
 
 In accordance with current clinical practice, if pregabalin has to be discontinued it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
 
-CLcr(ml/min) = 1.23×[140 - age (years)] x weight (kg) ( x 0.85 for female patients)
+CLcr(ml/min) = 1.23×[140 - age (years)] x weight (kg) (x 0.85 for female patients)
 
 | Creatinine clearance (CLcr) (mL/min) | Total pregabalin daily dose* |  | Dose regimen |
 | --- | --- | --- | --- |

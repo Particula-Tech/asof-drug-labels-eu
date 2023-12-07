@@ -26,7 +26,7 @@ Pregabalin Adverse Drug Reactions
 * Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
 After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed.
-The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
+The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain, hyperhidrosis and dizziness.
 These symptoms may indicate drug dependence.
 The patient should be informed about this at the start of the treatment.
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
