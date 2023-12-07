@@ -5,7 +5,6 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 In long term toxicity studies in rodents and dogs, signs of toxicity were observed at exposures greater than or equal to 10-times the clinical dose of empagliflozin.
 Most toxicity was consistent with secondary pharmacology related to urinary glucose loss and electrolyte imbalances including decreased body weight and body fat, increased food consumption, diarrhoea, dehydration, decreased serum glucose and increases in other serum parameters reflective of increased protein metabolism and gluconeogenesis, urinary changes such as polyuria and glucosuria, and microscopic changes including mineralisation in kidney and some soft and vascular tissues.
 Microscopic evidence of the effects of exaggerated pharmacology on the kidney observed in some species included tubular dilatation, and tubular and pelvic mineralisation at approximately 4-times the clinical AUC exposure of empagliflozin associated with the 25 mg dose.
-
 Empagliflozin is not genotoxic.
 
 In a 2 year carcinogenicity study, empagliflozin did not increase the incidence of tumours in female rats up to the highest dose of 700 mg/kg/day, which corresponds to approximately 72-times the maximal clinical AUC exposure to empagliflozin.
@@ -18,6 +17,7 @@ Empagliflozin did not increase the incidence of tumours in female mice at doses 
 Empagliflozin induced renal tumours in male mice at 1 000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin.
 The mode of action for these tumours is dependent on the natural predisposition of the male mouse to renal pathology and a metabolic pathway not reflective of humans.
 The male mouse renal tumours are considered not relevant to humans.
+
 At exposures sufficiently in excess of exposure in humans after therapeutic doses, empagliflozin had no adverse effects on fertility or early embryonic development.
 Empagliflozin administered during the period of organogenesis was not teratogenic.
 Only at maternally toxic doses, empagliflozin also caused bent limb bones in the rat and increased embryofetal loss in the rabbit.

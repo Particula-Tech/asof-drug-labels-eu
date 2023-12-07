@@ -1,5 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
+General
+
+Empagliflozin should not be used in patients with type 1 diabetes mellitus (see “Ketoacidosis” in section 4.4).
+
 Ketoacidosis
 
 Cases of ketoacidosis, including life-threatening and fatal cases, have been reported in patients with diabetes mellitus treated with SGLT2 inhibitors, including empagliflozin.
@@ -21,7 +25,6 @@ Before initiating empagliflozin, factors in the patient history that may predisp
 
 Patients who may be at higher risk of ketoacidosis include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
-
 Restarting SGLT2 inhibitor treatment in patients with previous ketoacidosis while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
 Jardiance should not be used in patients with type 1 diabetes.
@@ -30,6 +33,7 @@ Data from a clinical trial program in patients with type 1 diabetes showed incre
 Renal impairment
 
 Due to limited experience, it is not recommended to initiate treatment with empagliflozin in patients with an eGFR <20 ml/min/1.73 m2.
+
 In patients with an eGFR <60 ml/min/1.73 m2 the daily dose of empagliflozin is 10 mg (see section 4.2).
 
 The glucose lowering efficacy of empagliflozin is dependent on renal function, and is reduced in patients with an eGFR <45 ml/min/1.73 m2 and is likely absent in patients with an eGFR
@@ -60,7 +64,6 @@ Complicated urinary tract infections
 
 Cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with empagliflozin (see section 4.8).
 Temporary interruption of empagliflozin should be considered in patients with complicated urinary tract infections.
-
 Necrotising fasciitis of the perineum (Fournier’s gangrene)
 
 Cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients with diabetes mellitus taking SGLT2 inhibitors.
@@ -69,6 +72,7 @@ This is a rare but serious and potentially life-threatening event that requires 
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
 Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
 If Fournier´s gangrene is suspected, Jardiance should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
+
 Lower limb amputations
 
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term clinical studies with another SGLT2 inhibitor.

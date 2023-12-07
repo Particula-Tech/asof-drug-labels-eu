@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, Sodium-glucose co-transporter 2 (SGLT2) inhibitors, ATC code: A10BK03
-
 Mechanism of action
 
 Empagliflozin is a reversible, highly potent (IC50 of 1.3 nmol) and selective competitive inhibitor of sodium-glucose co-transporter 2 (SGLT2).
@@ -48,6 +47,7 @@ The efficacy and safety of empagliflozin as monotherapy was evaluated in a doubl
 Treatment with empagliflozin resulted in a statistically significant (p<0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
 In a pre-specified analysis of patients (N=201) with a baseline HbA1c ≥8.5%, treatment resulted in a reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
 In the double-blind placebo-controlled extension of this study, reductions of HbA1c, body weight and blood pressure were sustained up to Week 76.
+
 Table 2: Efficacy results of a 24 week placebo-controlled study of empagliflozin as monotherapya
 
 |  | Placebo | Jardiance |  | Sitagliptin |
@@ -76,13 +76,13 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure 3 95% CI
 4 LOCF, values after antihypertensive rescue censored
 *p-value <0.0001
-
 Combination therapy
 
 Empagliflozin as add-on to metformin, sulphonylurea, pioglitazone
 Empagliflozin as add-on to metformin, metformin and a sulphonylurea, or pioglitazone with or without metformin resulted in statistically significant (p<0.0001) reductions in HbA1c and body weight compared to placebo (Table 3).
 In addition it resulted in a clinically meaningful reduction in FPG, systolic and diastolic blood pressure compared to placebo.
 In the double-blind placebo-controlled extension of these studies, reduction of HbA1c, body weight and blood pressure were sustained up to Week 76.
+
 Table 3: Efficacy results of 24 week placebo-controlled studiesa
 
 | Add-on to metformin therapy |  |  |  |
@@ -600,8 +600,12 @@ Figure 5 Change in eGFR over time*
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Jardiance in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
+Type 2 diabetes mellitus
+The clinical efficacy and safety of empagliflozin (10 mg with a possible dose-increase to 25 mg) and linagliptin (5 mg) once daily has been studied in children and adolescents from 10 to 17 years of age with type 2 diabetes mellitus in a placebo-controlled study (DINAMO) over 26 weeks, with a safety extension period up to 52 weeks.
+Background therapies as adjunct to diet and exercise included metformin (51%), a combination of metformin and insulin (40.1%), insulin (3.2%), or none (5.7%).
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Jardiance in all subsets of the paediatric population in heart failure (see section 4.2 for information on paediatric use).
+The adjusted mean change in HbA1c at week 26 between empagliflozin (N=52) and placebo (N=53) of -0.84% was clinically meaningful and statistically significant (95% CI -1.50, -0.19; p=0.0116).
+In addition, treatment with empagliflozin versus placebo resulted in a clinically meaningful adjusted mean change in FPG of -35.2 mg/dl (95% CI -58.6, -11.7) [-1.95 mmol/l (-3.25, -0.65)].
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Jardiance in all subsets of the paediatric population in chronic kidney disease (see section 4.2 for information on paediatric use).
+Heart failure and chronic kidney disease
+The European Medicines Agency has waived the obligation to submit the results of studies with Jardiance in all subsets of the paediatric population in heart failure and in the treatment of chronic kidney disease (see section 4.2 for information on paediatric use).

@@ -4,7 +4,6 @@ Summary of the safety profile
 
 Type 2 diabetes mellitus
 A total of 15 582 patients with type 2 diabetes were included in clinical studies to evaluate the safety of empagliflozin, of which 10 004 patients received empagliflozin, either alone or in combination with metformin, a sulphonylurea, pioglitazone, DPP-4 inhibitors, or insulin.
-
 In 6 placebo-controlled trials of 18 to 24 weeks duration, 3 534 patients were included of which 1 183 were treated with placebo and 2 351 with empagliflozin.
 The overall incidence of adverse events in patients treated with empagliflozin was similar to placebo.
 The most frequently reported adverse reaction was hypoglycaemia when used with sulphonylurea or insulin (see description of selected adverse reactions).
@@ -28,7 +27,6 @@ Adverse reactions classified by system organ class and MedDRA preferred terms re
 
 The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), or very rare (<1/10 000), and not known (cannot be estimated from the available data).
-
 Table 1: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
 
 | System organ class | Very common | Common | Uncommon | Rare | Very Rare |
@@ -87,13 +85,20 @@ Consistently, in the EMPA-REG OUTCOME study, patients treated with empagliflozin
 Thereafter, eGFR was maintained during continued treatment.
 Mean eGFR returned to baseline after treatment discontinuation suggesting acute haemodynamic changes may play a role in these renal function changes.
 This phenomenon is also observed in the EMPEROR heart failure studies and the EMPA-KIDNEY study.
-
 Serum lipids increased
 Mean percent increases from baseline for empagliflozin 10 mg and 25 mg versus placebo, respectively, were total cholesterol 4.9% and 5.7% versus 3.5%; HDL-cholesterol 3.3% and 3.6% versus 0.4 %; LDL-cholesterol 9.5% and 10.0% versus 7.5%; triglycerides 9.2% and 9.9% versus 10.5%.
 
 Haematocrit increased
 Mean changes from baseline in haematocrit were 3.4% and 3.6% for empagliflozin 10 mg and 25 mg, respectively, compared to 0.1% for placebo.
 In the EMPA-REG Outcome study, haematocrit values returned towards baseline values after a follow-up period of 30 days after treatment stop.
+
+Paediatric population
+
+In the DINAMO trial 157 children aged 10 years and above with type 2 diabetes were treated, in which 52 patients received empagliflozin, 52 linagliptin and 53 placebo (see section 5.1).
+During the placebo-controlled phase, the most frequent adverse drug reaction was hypoglycaemia with higher overall rates for patients in the empagliflozin pooled group compared with placebo (empagliflozin 10 mg and 25 mg, pooled: 23.1%, placebo: 9.4%).
+None of these events was severe or required assistance.
+
+Overall, the safety profile in children was similar to the safety profile in adults with type 2 diabetes mellitus.
 
 Reporting of suspected adverse reactions
 

@@ -39,7 +39,6 @@ In patients with mild, moderate or severe renal impairment (eGFR <30 - <90 ml/mi
 Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESKD compared to patients with normal renal function.
 Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function.
 The population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
-
 Hepatic impairment
 In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased approximately by 23%, 47%, and 75% and Cmax by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
@@ -59,3 +58,8 @@ Age did not have a clinically meaningful impact on the pharmacokinetics of empag
 Paediatric population
 A paediatric Phase 1 study examined the pharmacokinetics and pharmacodynamics of empagliflozin (5 mg, 10 mg and 25 mg) in children and adolescents ≥10 to <18 years of age with type 2 diabetes mellitus.
 The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
+
+A paediatric Phase 3 study examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of empagliflozin 10 mg with a possible dose-increase to 25 mg in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus.
+The observed exposure-response relationship was overall comparable in adults and children and adolescents.
+Oral administration of empagliflozin resulted in an exposure within the range observed in adult patients.
+The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours post-administration at steady state were 26.6 nmol/l and 308 nmol/l with empagliflozin 10 mg once daily and 67.0 nmol/l and 525 nmol/l with empagliflozin 25 mg once daily.

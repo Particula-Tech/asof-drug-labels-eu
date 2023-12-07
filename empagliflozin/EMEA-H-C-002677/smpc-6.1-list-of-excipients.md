@@ -8,7 +8,6 @@ Hydroxypropylcellulose
 Croscarmellose sodium
 Colloidal anhydrous silica
 Magnesium stearate
-
 Film coating
 
 Hypromellose

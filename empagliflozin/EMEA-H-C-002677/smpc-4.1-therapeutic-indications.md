@@ -2,7 +2,7 @@
 
 Type 2 diabetes mellitus
 
-Jardiance is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
+Jardiance is indicated in adults and children aged 10 years and above for the treatment of insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
 - as monotherapy when metformin is considered inappropriate due to intolerance
 - in addition to other medicinal products for the treatment of diabetes

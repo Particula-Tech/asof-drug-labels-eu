@@ -37,7 +37,11 @@ Elderly
 No dose adjustment is recommended based on age.
 In patients 75 years and older, an increased risk for volume depletion should be taken into account (see sections 4.4 and 4.8).
 Paediatric population
-The safety and efficacy of empagliflozin in children and adolescents has not yet been established.
+The recommended starting dose is 10 mg empagliflozin once daily.
+In patients tolerating empagliflozin 10 mg once daily and requiring additional glycaemic control, the dose can be increased to 25 mg once daily (see sections 5.1 and 5.2).
+No data are available for children with eGFR <60 ml/min/1.73 m² and children below 10 years of age.
+
+The safety and efficacy of empagliflozin for the treatment of heart failure or for the treatment of chronic kidney disease in children under 18 years of age have not been established.
 No data are available.
 
 Method of administration
