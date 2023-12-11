@@ -31,6 +31,7 @@ Uncommon: Acute renal failure
 Investigations Very Common: Blood creatinine increased, Blood
 
 sodium decreased
+Skin and subcutaneous tissue disorders Not known: Acute generalised exanthematous pustulosis (AGEP)
 * see below
 
 In a clinical curative trial involving 175 preterm newborn infants less than 35 weeks of gestational age, the incidence of bronchopulmonary dysplasia at 36 weeks post-conceptional age was 13/81 (16%) for indomethacin versus 23/94 (24%) for ibuprofen.
