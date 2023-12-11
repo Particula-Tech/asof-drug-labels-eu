@@ -2,9 +2,8 @@
 
 Tirzepatide delays gastric emptying and thereby has the potential to impact the rate of absorption of concomitantly administered oral medicinal products.
 This effect, resulting in decreased Cmax and a delayed tmax, is most pronounced at the time of tirzepatide treatment initiation.
-
 Based on the results from a study with paracetamol, which was used as a model medicinal product to evaluate the effect of tirzepatide on gastric emptying, no dose adjustments are expected to be required for most concomitantly administered oral medicinal products.
-However, it is recommended to monitor patients on oral medicinal products with a narrow therapeutic index (e.g., warfarin, digoxin), especially at initiation of -tirzepatide treatment and following dose increase.
+However, it is recommended to monitor patients on oral medicinal products with a narrow therapeutic index (e.g., warfarin, digoxin), especially at initiation of tirzepatide treatment and following dose increase.
 The risk of delayed effect should also be considered for oral medicinal products for which a rapid onset of effect is of importance.
 
 Paracetamol

@@ -22,17 +22,14 @@ Tirzepatide has been associated with gastrointestinal adverse reactions, which i
 These adverse reactions may lead to dehydration, which could lead to a deterioration in renal function including acute renal failure.
 Patients treated with tirzepatide should be advised of the potential risk of dehydration, due to the gastrointestinal adverse reactions and take precautions to avoid fluid depletion and electrolyte disturbances.
 This should particularly be considered in the elderly, who may be more susceptible to such complications.
+
 Severe gastrointestinal disease
 
 Tirzepatide has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and should be used with caution in these patients.
 
 Diabetic retinopathy
 
-Tirzepatide has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy or diabetic macular oedema, and should be used with caution in these patients with appropriate monitoring
-
-Elderly
-
-Only very limited data are available from patients aged ≥ 85 years.
+Tirzepatide has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy or diabetic macular oedema, and should be used with caution in these patients with appropriate monitoring.
 
 Sodium content
 

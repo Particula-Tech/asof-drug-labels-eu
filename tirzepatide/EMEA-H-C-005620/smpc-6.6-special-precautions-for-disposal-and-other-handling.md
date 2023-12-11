@@ -2,11 +2,18 @@
 
 Instructions for use
 
+Inspect Mounjaro visually before use and discard for particulate matter or discolouration.
+Mounjaro that has been frozen must not be used.
+
+Pre-filled pen
 The pre-filled pen is for single-use only.
 
 The instructions for using the pen, included with the package leaflet, must be followed carefully.
-Inspect Mounjaro visually before use and discard for particulate matter or discolouration.
-Mounjaro that has been frozen must not be used.
+
+Vial
+The vial is for single-use only.
+
+The instructions in the package leaflet for how to inject Mounjaro from a vial must be followed carefully.
 
 Disposal
 

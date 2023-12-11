@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-Tirzepatide is a 39-amino acid peptide with a C20 fatty diacid moiety that enables albumin binding and prolongs half-life.
+Tirzepatide consists of 39-amino acids and has a C20 fatty diacid moiety attached, which enables albumin binding and prolongs half-life.
 
 Absorption
 
@@ -14,7 +14,7 @@ Absolute bioavailability of subcutaneous tirzepatide was 80 %.
 
 Distribution
 
-The mean apparent steady-state volume of distribution of tirzepatide following subcutaneous administration in patients with type 2 diabetes is approximately 10.3 L.
+The mean apparent steady-state volume of distribution of tirzepatide following subcutaneous administration in patients with type 2 diabetes is approximately 10.3 L, and 9.7 L in patients with obesity.
 
 Tirzepatide is highly bound to plasma albumin (99 %).
 
@@ -22,10 +22,10 @@ Biotransformation
 
 Tirzepatide is metabolised by proteolytic cleavage of the peptide backbone, beta-oxidation of the
 C20 fatty diacid moiety and amide hydrolysis.
-
 Elimination
 
-The apparent population mean clearance of tirzepatide is 0.06 L/h with an elimination half-life of approximately 5 days, enabling once weekly administration.
+The apparent population mean clearance of tirzepatide is approximately 0.06 L/h with an elimination half-life of approximately 5 days, enabling once weekly administration.
+
 Tirzepatide is eliminated by metabolism.
 The primary excretion routes of tirzepatide metabolites are via urine and faeces.
 Intact tirzepatide is not observed in urine or faeces.
@@ -34,7 +34,8 @@ Special populations
 
 Age, gender, race, ethnicity, body weight
 
-Age, gender, race, ethnicity or body weight, do not have a clinically relevant effect on the pharmacokinetics (PK) of tirzepatide.
+Age, gender, race, ethnicity, or body weight, do not have a clinically relevant effect on the pharmacokinetics (PK) of tirzepatide.
+Based on a population PK analysis, the exposure of tirzepatide increases with decreasing body weight; however, the effect of body weight on the PK of tirzepatide does not appear to be clinically relevant.
 
 Renal impairment
 
