@@ -163,15 +163,23 @@ Medical management guidelines for both medicines should be followed (see section
 Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
 
+Use of pembrolizumab for first-line treatment of patients with BTC
+Cholangitis and biliary tract infections are not uncommon in patients with BTC.
+Cholangitis events were reported in KEYNOTE-966 in both treatment groups (11.2% [n=59] of participants in the pembrolizumab plus chemotherapy arm and 10.3% [n=55] of participants in the placebo plus chemotherapy arm).
+Patients with biliary stents and drains (n=74) were at increased risk of cholangitis and biliary tract infections in KEYNOTE-966 (39.4% [n=13] of participants in the pembrolizumab plus chemotherapy arm vs. 29.3% [n=12] of participants in the placebo plus chemotherapy arm).
+Patients with BTC (especially those with biliary stents) should be closely monitored for development of cholangitis or biliary tract infections before initiation of treatment and, regularly, thereafter.
+
 Patients excluded from clinical studies
-Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥ 2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-mediated adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
+Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥ 2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection (except for BTC); active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-mediated adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical studies and were required to have their infection treated prior to receiving pembrolizumab.
 Patients with active infections occurring during treatment with pembrolizumab were managed with appropriate medical therapy.
-Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST > 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical studies, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
+Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST
+> 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical studies, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
 
 There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
+
 Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.

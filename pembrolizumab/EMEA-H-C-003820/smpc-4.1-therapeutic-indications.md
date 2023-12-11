@@ -80,3 +80,7 @@ Gastric or gastro-oesophageal junction (GEJ) adenocarcinoma
 KEYTRUDA, in combination with trastuzumab, fluoropyrimidine and platinum-containing chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic HER2-positive gastric or gastro-oesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1.
 
 KEYTRUDA, in combination with fluoropyrimidine and platinum-containing chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic HER2-negative gastric or gastro-oesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1 (see section 5.1).
+
+Biliary tract carcinoma (BTC)
+
+KEYTRUDA, in combination with gemcitabine and cisplatin, is indicated for the first-line treatment of locally advanced unresectable or metastatic biliary tract carcinoma in adults.

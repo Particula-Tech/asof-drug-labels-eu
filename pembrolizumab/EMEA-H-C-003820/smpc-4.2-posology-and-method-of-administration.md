@@ -1,12 +1,12 @@
 # 4.2 Posology and method of administration
 
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
-
 PD-L1 testing
 
 If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8 and 5.1).
 
 MSI/MMR testing
+
 If specified in the indication, patient selection for treatment with KEYTRUDA based on MSI-H/dMMR tumour status should be confirmed by a validated test (see sections 4.1 and 5.1).
 
 Posology
