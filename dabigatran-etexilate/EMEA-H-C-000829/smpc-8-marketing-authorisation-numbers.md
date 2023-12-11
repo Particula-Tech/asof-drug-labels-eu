@@ -34,7 +34,3 @@ EU/1/08/442/027
 EU/1/08/442/028
 EU/1/08/442/029
 EU/1/08/442/030
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-EU/1/08/442/031

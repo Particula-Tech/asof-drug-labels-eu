@@ -13,21 +13,3 @@ When taking a hard capsule out of the bottle, the following instructions should 
 - After taking the capsule out, the cap should be returned on the bottle right away and the bottle should be tightly closed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-[Pradaxa 110 mg hard capsules]
-
-(all sentences already above)
-
-[Pradaxa 150 mg hard capsules]
-
-(all sentences already above)
-
-[Pradaxa 20 mg coated granules]
-
-(all sentences already above)
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-Detailed instructions for the preparation of the oral solution and the administration with the dosing pipette are provided in ‘Instructions for use’ in the package leaflet.
-
-After reconstitution, the oral solution is a clear colourless to clear yellowish solution.

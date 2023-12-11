@@ -38,8 +38,3 @@ In the pre- and post-natal study, an increase in foetal mortality was observed a
 [Pradaxa 20 mg coated granules]
 
 There was no influence on male fertility (see section 5.3).
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-Pradaxa powder and solvent for oral solution is intended to be used in children below the age of 12 months.
-Information regarding pregnancy and breast-feeding will not be relevant in the context of this patient group.

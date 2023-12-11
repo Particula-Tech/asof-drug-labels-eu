@@ -30,14 +30,3 @@ Indigo carmine
 [Pradaxa 20 mg coated granules]
 
 (all sentences already above)
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-Pradaxa powder for oral solution
-Mannitol
-
-Solvent for Pradaxa oral solution
-Hydrochloric acid (for pH-adjustment)
-Water, purified
-Sucralose powder
-Sucralose

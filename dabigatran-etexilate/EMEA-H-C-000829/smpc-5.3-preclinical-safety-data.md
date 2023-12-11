@@ -15,19 +15,3 @@ Data of the juvenile toxicity study did neither indicate an increased sensitivit
 In lifetime toxicology studies in rats and mice, there was no evidence for a tumorigenic potential of dabigatran up to maximum doses of 200 mg/kg.
 
 Dabigatran, the active moiety of dabigatran etexilate mesilate, is persistent in the environment.
-
-[Pradaxa 110 mg hard capsules]
-
-(all sentences already above)
-
-[Pradaxa 150 mg hard capsules]
-
-(all sentences already above)
-
-[Pradaxa 20 mg coated granules]
-
-(all sentences already above)
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-At doses exceeding the maximum recommended human dose for patients aged less than 1 year, a mesilate ester assumed to be mutagenic due to its structure may be present above acceptable levels.

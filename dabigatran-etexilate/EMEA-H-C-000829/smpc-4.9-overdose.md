@@ -22,7 +22,7 @@ There is some experimental evidence to support the role of these medicinal produ
 Coagulation tests may become unreliable following administration of suggested coagulation factor concentrates.
 Caution should be exercised when interpreting these tests.
 Consideration should also be given to administration of platelet concentrates in cases where thrombocytopenia is present or long acting antiplatelet medicinal products have been used.
-All symptomatic treatment should be given according to the physician's judgement.
+All symptomatic treatment should be given according to the physician’s judgement.
 
 Depending on local availability, a consultation of a coagulation expert should be considered in case of major bleedings.
 
@@ -37,7 +37,3 @@ Dabigatran etexilate doses beyond those recommended expose the patient to increa
 [Pradaxa 20 mg coated granules]
 
 Coagulation tests may become unreliable following adminstration of suggested coagulation factor concentrates.
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-(all sentences already above)

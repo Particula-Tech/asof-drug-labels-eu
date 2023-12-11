@@ -22,20 +22,13 @@ Table 3: Factors which may increase the haemorrhagic risk.
 |  | Risk factor |
 | --- | --- |
 | Pharmacodynamic and kinetic factors | Age ≥75 years |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment in adult patients (30-50 mL/min CrCL) • Strong P-gp inhibitors (see section 4.3 and 4.5) • Mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, verapamil, quinidine and ticagrelor; see section 4.5) Minor: • Low body weight (<50 kg) in adult patients |
+| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment in adult patients (30-50 mL/min CrCL) • Strong P-gp inhibitors (see section 4.3 and 4.5) • Mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, verapamil, quinidine and ticagrelor; see section 4.5) Minor: • Low body weight (< 50 kg) in adult patients |
 | Pharmacodynamic interactions (see section 4.5) | • ASA and other platelet aggregation inhibitors such as clopidogrel • NSAIDs • SSRIs or SNRIs • Other medicinal products which may impair haemostasis |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet |
+| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
-defects
-- Recent biopsy, major trauma
-- Bacterial endocarditis
-- Esophagitis, gastritis or gastroesophageal
-reflux
-
-Limited data is available in adult patients <50 kg (see section 5.2).
+Limited data is available in adult patients < 50 kg (see section 5.2).
 
 The concomitant use of dabigatran etexilate with P-gp-inhibitors has not been studied in paediatric patients but may increase the risk of bleeding (see section 4.5).
-
 Precautions and management of the haemorrhagic risk
 
 For the management of bleeding complications, see also section 4.9.
@@ -66,6 +59,7 @@ Use of proton-pump inhibitors
 
 The administration of a proton-pump inhibitor (PPI) can be considered to prevent GI bleeding.
 In case of paediatric patients local labeling recommendations for proton pump inhibitors have to be followed.
+
 Laboratory coagulation parameters
 
 Although this medicinal product does not in general require routine anticoagulant monitoring, the measurement of dabigatran related anticoagulation may be helpful to detect excessive high exposure to dabigatran in the presence of additional risk factors.
@@ -75,14 +69,13 @@ Therefore INR tests should not be performed.
 
 Table 4 shows coagulation test thresholds at trough for adult patients that may be associated with an increased risk of bleeding.
 Respective thresholds for paediatric patients are not known (see section 5.1).
-
 Table 4: Coagulation test thresholds at trough for adult patients that may be associated with an increased risk of bleeding.
 
 | Test (trough value) | Threshold |
 | --- | --- |
-| dTT [ng/mL] | >67 |
+| dTT [ng/mL] | > 67 |
 | ECT [x-fold upper limit of normal] | No data |
-| aPTT [x-fold upper limit of normal] | >1.3 |
+| aPTT [x-fold upper limit of normal] | > 1.3 |
 | INR | Should not be performed |
 
 Use of fibrinolytic medicinal products for the treatment of acute ischemic stroke
@@ -108,6 +101,7 @@ Haemodialysis can remove dabigatran.
 
 Reversing dabigatran therapy exposes patients to the thrombotic risk of their underlying disease.
 Dabigatran etexilate treatment can be re-initiated 24 hours after administration of idarucizumab, if the patient is clinically stable and adequate haemostasis has been achieved.
+
 Subacute surgery/interventions
 
 Dabigatran etexilate should be temporarily discontinued.
@@ -121,25 +115,24 @@ If possible, dabigatran etexilate should be discontinued at least 24 hours befor
 In patients at higher risk of bleeding or in major surgery where complete haemostasis may be required consider stopping dabigatran etexilate 2-4 days before surgery.
 
 Table 5 summarises discontinuation rules before invasive or surgical procedures for adult patients.
-
 Table 5: Discontinuation rules before invasive or surgical procedures for adult patients
 
 | Renal function (CrCL in mL/min) | Estimated half-life (hours) | Dabigatran etexilate should be stopped before elective surgery |  |
 | --- | --- | --- | --- |
 |  |  | High risk of bleeding or major surgery | Standard risk |
 | ≥80 | ~ 13 | 2 days before | 24 hours before |
-| ≥50-<80 | ~ 15 | 2-3 days before | 1-2 days before |
-| ≥30-<50 | ~ 18 | 4 days before | 2-3 days before (>48 hours) |
+| ≥50-< 80 | ~ 15 | 2-3 days before | 1-2 days before |
+| ≥30-< 50 | ~ 18 | 4 days before | 2-3 days before (> 48 hours) |
 
 Discontinuation rules before invasive or surgical procedures for paediatric patients are summarised in table 6.
 
 Table 6: Discontinuation rules before invasive or surgical procedures for paediatric patients
 
-| Renal function (eGFR in mL/min/1.73m2) | Stop dabigatran before elective surgery |
+| Renal function (eGFR in mL/min/1.73 m2) | Stop dabigatran before elective surgery |
 | --- | --- |
-| >80 | 24 hours before |
-| 50 – 80 | 2 days before |
-| <50 | These patients have not been studied (see section 4.3). |
+| > 80 | 24 hours before |
+| 50 - 80 | 2 days before |
+| < 50 | These patients have not been studied (see section 4.3). |
 
 Spinal anaesthesia/epidural anaesthesia/lumbar puncture
 
@@ -158,6 +151,7 @@ Patients at risk for bleeding or patients at risk of overexposure, notably patie
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events
 
 There are limited efficacy and safety data for dabigatran etexilate available in these patients and therefore they should be treated with caution.
+
 Hip fracture surgery
 
 There is no data on the use of dabigatran etexilate in patients undergoing hip fracture surgery.
@@ -165,7 +159,7 @@ Therefore treatment is not recommended.
 
 Hepatic impairment
 
-Patients with elevated liver enzymes >2 ULN were excluded in the main trials.
+Patients with elevated liver enzymes > 2 ULN were excluded in the main trials.
 No treatment experience is available for this subpopulation of patients, and therefore the use of dabigatran etexilate is not recommended in this population.
 Hepatic impairment or liver disease expected to have any impact on survival is contraindicated (see section 4.3).
 
@@ -193,15 +187,7 @@ An increased risk was seen in the elderly (≥75 years) for the 150 mg twice dai
 Further risk factors (see also table 5) comprise co-medication with platelet aggregation inhibitors such as clopidogrel and acetylsalicylic acid (ASA) or non steroidal antiinflammatory drugs (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux.
 
 Table 5 summarises factors which may increase the haemorrhagic risk.
-
 Table 5: Factors which may increase the haemorrhagic risk.
-
-|  | Risk factor |
-| --- | --- |
-| Pharmacodynamic and kinetic factors | Age ≥75 years |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment in adult patients (30-50 mL/min CrCL) • Strong P-gp inhibitors (see section 4.3 and 4.5) • Mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, verapamil, quinidine and ticagrelor; see section 4.5) Minor: • Low body weight (<50 kg) in adult patients |
-| Pharmacodynamic interactions (see section 4.5) | • ASA and other platelet aggregation inhibitors such as clopidogrel • NSAIDs • SSRIs or SNRIs • Other medicinal products which may impair haemostasis |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
 
 Close observation for signs of bleeding or anaemia is recommended throughout the treatment period, especially if risk factors are combined (see table 5 above).
 
@@ -214,9 +200,9 @@ Table 6: Coagulation test thresholds at trough for adult patients that may be as
 | Test (trough value) | Indication |  |
 | --- | --- | --- |
 |  | Primary prevention of VTE in orthopaedic surgery | SPAF and DVT/PE |
-| dTT [ng/mL] | >67 | >200 |
-| ECT [x-fold upper limit of normal] | No data | >3 |
-| aPTT [x-fold upper limit of normal] | >1.3 | >2 |
+| dTT [ng/mL] | > 67 | > 200 |
+| ECT [x-fold upper limit of normal] | No data | > 3 |
+| aPTT [x-fold upper limit of normal] | > 1.3 | > 2 |
 | INR | Should not be performed | Should not be performed |
 
 Patients can stay on dabigatran etexilate while being cardioverted.
@@ -230,14 +216,6 @@ Discontinuation rules before invasive or surgical procedures for paediatric pati
 
 Table 8: Discontinuation rules before invasive or surgical procedures for paediatric patients
 
-Renal function Stop dabigatran before elective surgery
-
-| (eGFR in mL/min/1.73m2) |  |
-| --- | --- |
-| >80 | 24 hours before |
-| 50 – 80 | 2 days before |
-| <50 | These patients have not been studied (see section 4.3). |
-
 Dabigatran etexilate treatment should be resumed / started after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with reduced renal function (see also table 5), should be treated with caution (see sections 4.4 and 5.1).
@@ -245,13 +223,12 @@ Patients at risk for bleeding or patients at risk of overexposure, notably patie
 Myocardial Infarction (MI)
 
 In the phase III study RE-LY (SPAF, see section 5.1) the overall rate of MI was 0.82, 0.81, and 0.64 % / year for dabigatran etexilate 110 mg twice daily, dabigatran etexilate 150 mg twice daily and warfarin, respectively, an increase in relative risk for dabigatran of 29 % and 27 % compared to warfarin.
-Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction <40 %, and patients with moderate renal dysfunction.
+Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
 Furthermore a higher risk of MI was seen in patients concomitantly taking ASA plus clopidogrel or clopidogrel alone.
 
-In the three active controlled DVT/PE phase III studies, a higher rate of MI was reported in patients who received dabigatran etexilate than in those who received warfarin: 0.4% vs. 0.2% in the short-term RE-COVER and RE-COVER II studies; and 0.8% vs. 0.1% in the long-term RE-MEDY trial.
-The increase was statistically significant in this study (p=0.022).
-
-In the RE-SONATE study, which compared dabigatran etexilate to placebo, the rate of MI was 0.1% for patients who received dabigatran etexilate and 0.2% for patients who received placebo
+In the three active controlled DVT/PE phase III studies, a higher rate of MI was reported in patients who received dabigatran etexilate than in those who received warfarin: 0.4 % vs. 0.2 % in the short-term RE-COVER and RE-COVER II studies; and 0.8 % vs. 0.1 % in the long-term RE-MEDY trial.
+The increase was statistically significant in this study (p = 0.022).
+In the RE-SONATE study, which compared dabigatran etexilate to placebo, the rate of MI was 0.1 % for patients who received dabigatran etexilate and 0.2 % for patients who received placebo
 
 Active cancer patients (DVT/PE, paediatric VTE)
 
@@ -262,7 +239,6 @@ The efficacy and safety have not been established for DVT/PE patients with activ
 Further risk factors (see also table 4) comprise co-medication with platelet aggregation inhibitors such as clopidogrel and acetylsalicylic acid (ASA) or non steroidal antiinflammatory drugs (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux.
 
 Table 4 summarises factors which may increase the haemorrhagic risk.
-
 Table 4: Factors which may increase the haemorrhagic risk.
 
 Close observation for signs of bleeding or anaemia is recommended throughout the treatment period, especially if risk factors are combined (see table 4 above).
@@ -274,9 +250,9 @@ Table 5: Coagulation test thresholds at trough for adult patients that may be as
 | Test (trough value) | Indication |
 | --- | --- |
 |  | SPAF and DVT/PE |
-| dTT [ng/mL] | >200 |
-| ECT [x-fold upper limit of normal] | >3 |
-| aPTT [x-fold upper limit of normal] | >2 |
+| dTT [ng/mL] | > 200 |
+| ECT [x-fold upper limit of normal] | > 3 |
+| aPTT [x-fold upper limit of normal] | > 2 |
 | INR | Should not be performed |
 
 Therefore surgical interventions may require the temporary discontinuation of dabigatran etexilate.
@@ -292,12 +268,15 @@ Discontinuation rules before invasive or surgical procedures for paediatric pati
 
 Table 7: Discontinuation rules before invasive or surgical procedures for paediatric patients
 
+| Renal function (eGFR in mL/min/1.73 m2) | Stop dabigatran before elective surgery |
+| --- | --- |
+| > 80 | 24 hours before |
+| 50–- 80 | 2 days before |
+| < 50 | These patients have not been studied (see section 4.3). |
+
 Dabigatran etexilate treatment should be resumed / startedafter the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with reduced renal function (see also table 4), should be treated with caution (see sections 4.4 and 5.1).
-
-In the phase III study RE-LY (SPAF, see section 5.1) the overall rate of MI was 0.82, 0.81, and 0.64% / year for dabigatran etexilate 110 mg twice daily, dabigatran etexilate 150 mg twice daily and warfarin, respectively, an increase in relative risk for dabigatran of 29% and 27% compared to warfarin.
-Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction <40%, and patients with moderate renal dysfunction.
 
 [Pradaxa 20 mg coated granules]
 
@@ -327,17 +306,3 @@ Patients at risk for bleeding or patients at risk of overexposure (see table 3) 
 Active cancer patients
 
 Very specific paediatric population
-
-[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
-
-Table 2 summarises factors which may increase the haemorrhagic risk.
-
-Table 2: Risk factors which may increase the haemorrhagic risk.
-
-Close observation for signs of bleeding or anaemia is recommended throughout the treatment period, especially if risk factors are combined (see table 2 above).
-
-Discontinuation rules before invasive or surgical procedures for paediatric patients are summarised in table 3.
-
-Table 3: Discontinuation rules before invasive or surgical procedures for paediatric patients
-
-Patients at risk for bleeding or patients at risk of overexposure (see table 2) should be treated with caution (see sections 4.4 and 5.1).
