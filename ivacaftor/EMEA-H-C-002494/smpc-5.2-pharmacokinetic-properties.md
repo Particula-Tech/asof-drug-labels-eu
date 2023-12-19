@@ -22,6 +22,7 @@ Distribution
 Ivacaftor is approximately 99% bound to plasma proteins, primarily to alpha 1-acid glycoprotein and albumin.
 Ivacaftor does not bind to human red blood cells.
 After oral administration of ivacaftor150 mg every 12 hours for 7 days in healthy volunteers in a fed state, the mean (± SD) apparent volume of distribution was 353 L (122).
+
 Biotransformation
 
 Ivacaftor is extensively metabolised in humans.
@@ -46,7 +47,6 @@ The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and 
 Linearity/non-linearity
 
 The pharmacokinetics of ivacaftor are generally linear with respect to time or dose ranging from 25 mg to 250 mg.
-
 Special populations
 
 Hepatic impairment
@@ -85,7 +85,6 @@ Elderly
 Clinical studies of ivacaftor did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in the elderly patients (65-72 years) are comparable to those in younger adults.
-
 Paediatric population
 
 Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 9.
@@ -107,6 +106,7 @@ Table 9: Mean (SD) ivacaftor exposure by age group
 
 * Values based on data from a single patient; standard deviation not reported.
 † Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group.
+
 Ivacaftor exposure in combination with tezacaftor and with tezacaftor/elexacaftor is presented in Table 10.
 
 Table 10: Mean (SD) ivacaftor exposure when used in combination, by age group
@@ -167,7 +167,6 @@ Table 10: Mean (SD) ivacaftor exposure by age group
 | Adults (≥ 18 years old) | 150 mg q12h | 701 (317) | 10700 (4100) |
 
 Ivacaftor exposure in combination with tezacaftor/elexacaftor is presented in Table 11.
-
 Table 11.
 Mean (SD) ivacaftor exposure when used in combination, by age group
 

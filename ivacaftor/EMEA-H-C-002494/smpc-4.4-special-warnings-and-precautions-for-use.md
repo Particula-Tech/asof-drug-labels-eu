@@ -35,6 +35,12 @@ For patients with moderate hepatic impairment, use of ivacaftor in a combination
 Treatment should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks.
 If used, it should be used with caution at a reduced dose (see Table 3 in section 4.2, and sections 4.8 and 5.2).
 
+Depression
+
+Depression (including suicidal ideation and suicide attempt) has been reported in patients while receiving ivacaftor, mainly in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, usually occurring within three months of treatment initiation and in patients with a history of psychiatric disorders.
+In some cases, symptom improvement was reported after dose reduction or treatment discontinuation.
+Patients (and caregivers) should be alerted about the need to monitor for depressed mood, suicidal thoughts, or unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
+
 Renal impairment
 
 Caution is recommended while using ivacaftor in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
@@ -58,7 +64,6 @@ Interactions with medicinal products
 CYP3A inducers
 
 Exposure to ivacaftor is significantly decreased by the concomitant use of CYP3A inducers, potentially resulting in the loss of ivacaftor efficacy; therefore, co-administration of ivacaftor with strong CYP3A inducers is not recommended (see section 4.5).
-
 CYP3A inhibitors
 
 Exposure to ivacaftor, tezacaftor and elexacaftor are increased when co-administered with strong or moderate CYP3A inhibitors.
@@ -90,6 +95,8 @@ Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST
 Use of ivacaftor as monotherapy is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks.
 
 Use of ivacaftor as monotherapy in patients aged 4 months to less than 6 months with moderate hepatic impairment is not recommended unless the benefits are expected to outweigh the risks.
+
+Depression (including suicidal ideation and suicide attempt) has been reported in patients while receiving ivacaftor, mainly in a combination regimen with ivacaftor/tezacaftor/elexacaftor, usually occurring within three months of treatment initiation and in patients with a history of psychiatric disorders.
 
 Exposure to ivacaftor is increased when co-administered with strong or moderate CYP3A inhibitors.
 The dose of ivacaftor must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors.

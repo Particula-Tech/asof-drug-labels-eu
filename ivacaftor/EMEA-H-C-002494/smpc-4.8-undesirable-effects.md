@@ -25,6 +25,7 @@ Table 4: Adverse reactions
 |  | Influenza† | common |
 |  | Rhinitis | common |
 | Metabolism and nutrition disorders | Hypoglycaemia† | common |
+| Psychiatric disorders | Depression | not known |
 | Nervous system disorders | Headache | very common |
 |  | Dizziness | very common |
 | Ear and labyrinth disorders | Ear pain | common |
@@ -95,7 +96,6 @@ Rash events, generally mild to moderate in severity, have been observed with the
 Increased creatine phosphokinase
 
 Generally transient and asymptomatic increases in creatine phosphokinase were observed in patients treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor, which did not lead to treatment discontinuation.
-
 Increased blood pressure
 
 An increase from baseline in mean systolic and diastolic blood pressure of 3.5 mmHg and 1.9 mmHg, respectively was observed in patients treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
@@ -143,6 +143,7 @@ Table 4 reflects the adverse reactions observed with ivacaftor in clinical trial
 |  | Influenza* | common |
 |  | Rhinitis | common |
 | Metabolism and nutrition disorders | Hypoglycaemia* | common |
+| Psychiatric disorders | Depression | not known |
 | Nervous system disorders | Headache | very common |
 |  | Dizziness | very common |
 | Ear and labyrinth disorders | Ear pain | common |
