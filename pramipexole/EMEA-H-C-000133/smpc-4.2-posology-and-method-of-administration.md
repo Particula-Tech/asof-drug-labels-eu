@@ -60,6 +60,7 @@ Restless Legs Syndrome
 
 The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
 For patients requiring additional symptomatic relief, the dose may be increased every 4-7 days to a maximum of 0.54 mg of base (0.75 mg of salt) per day (as shown in the table below).
+The lowest effective dose should be used (see section 4.4 Restless legs augmentation syndrome).
 
 | Dose Schedule of SIFROL |  |  |
 | --- | --- | --- |

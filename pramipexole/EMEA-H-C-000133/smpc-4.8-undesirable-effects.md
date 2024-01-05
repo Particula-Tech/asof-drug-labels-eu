@@ -48,7 +48,7 @@ Table 2: Restless Legs Syndrome
 | Infections and infestations |  |  | pneumonia1 |  |
 | Endocrine disorders |  |  | inappropriate antidiuretic hormone secretion1 |  |
 | Psychiatric disorders |  | insomnia abnormal dreams | restlessness confusion hallucinations libido disorder delusion1 hyperphagia1 paranoia1 mania1 delirium1 behavioural symptoms of impulse control disorders and compulsions1 (such as: compulsive shopping, pathological gambling, hypersexuality, binge eating) |  |
-| Nervous system disorders |  | headache dizziness somnolance | sudden onset of sleep syncope dyskinesia amnesia1 hyperkinesia1 |  |
+| Nervous system disorders | Restless legs augmentation syndrome | headache dizziness somnolance | sudden onset of sleep syncope dyskinesia amnesia1 hyperkinesia1 |  |
 | Eye disorders |  |  | visual impairment including visual acuity reduced diplopia vision blurred |  |
 | Cardiac disorders |  |  | cardiac failure1 |  |
 | Vascular disorders |  |  | Hypotension |  |

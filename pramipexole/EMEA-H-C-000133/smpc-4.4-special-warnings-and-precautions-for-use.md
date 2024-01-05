@@ -55,12 +55,12 @@ Prior to tapering off and discontinuing pramipexole, patients should be informed
 Patients should be closely monitored during tapering and discontinuation.
 In case of severe and/or persistent withdrawal symptoms, temporary re-administration of pramipexole at the lowest effective dose may be considered.
 
-Augmentation
-Reports in the literature indicate that treatment of Restless Legs Syndrome with dopaminergic medicinal products can result in augmentation.
+Restless legs augmentation syndrome
+Treatment of Restless Legs Syndrome with pramipexole can result in augmentation.
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
-Augmentation was specifically investigated in a controlled clinical trial over 26 weeks.
-Augmentation was observed in 11.8% of patients in the pramipexole group (N = 152) and 9.4% of patients in the placebo group (N = 149).
-Kaplan-Meier analysis of time to augmentation showed no significant difference between pramipexole and placebo groups.
+The risk of augmentation may increase with higher dose.
+Prior to treatment, patients should be informed that augmentation may occur and should be advised to contact their physician if they experience symptoms of augmentation.
+If augmentation is suspected, dose adjustment to the lowest effective dose, or discontinuation of pramipexole should be considered (see section 4.2 and 4.8).
 
 [SIFROL 0.26 mg prolonged-release tablets]
 
