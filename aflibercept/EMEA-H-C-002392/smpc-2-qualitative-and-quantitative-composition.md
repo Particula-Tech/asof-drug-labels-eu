@@ -12,3 +12,12 @@ For the full list of excipients, see section 6.1.
 
 One vial contains an extractable volume of at least 0.1 mL, equivalent to at least 4 mg aflibercept.
 This provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg aflibercept.
+
+[Eylea 114.3 mg/ml solution for injection]
+
+1 ml solution for injection contains 114.3 mg aflibercept*.
+
+Each vial contains 30.1 mg aflibercept in 0.263 ml solution.
+This provides a usable amount to deliver a single dose of 0.07 ml containing 8 mg aflibercept.
+
+* Aflibercept is a fusion protein consisting of portions of human VEGF (vascular endothelial growth factor) receptors 1 and 2 extracellular domains fused to the Fc portion of human IgG1 and produced in Chinese hamster ovary (CHO) K1 cells by recombinant DNA technology.

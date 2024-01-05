@@ -20,3 +20,12 @@ All changes were reversible.
 
 The systemic exposure based on Cmax and AUC for free aflibercept were approximately 200 and 700-fold higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.
 At the No Observed Adverse Effect Level (NOAEL) of 0.5 mg/eye in monkeys the systemic exposure was 42- and 56-fold higher based on Cmax and AUC, respectively.
+
+[Eylea 114.3 mg/ml solution for injection]
+
+The systemic exposure for free aflibercept was approximately 26- and 33-fold higher based on Cmax and AUC when compared to corresponding values in adult patients after an intravitreal dose of 8 mg.
+At the No Observed Adverse Effect Level (NOAEL) of 0.5 mg/eye in monkeys the systemic exposure was 3.2- and 3.8-fold higher based on Cmax and AUC when compared to corresponding values in adult patients.
+
+At the 0.1 mg/kg dose, the systemic exposure for free aflibercept was approximately 1.0- and 1.0-fold based on Cmax and cumulative AUC when compared to corresponding values in adult patients after an intravitreal dose of 8 mg.
+
+Based on Cmax and AUC for free aflibercept observed at the 3 mg/kg intravenous dose, the systemic exposures were approximately 377-fold and 104-fold higher, respectively, than the exposure in humans after an intravitreal dose of 8 mg.

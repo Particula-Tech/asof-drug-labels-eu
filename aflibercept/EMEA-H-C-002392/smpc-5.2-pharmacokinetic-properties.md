@@ -41,3 +41,27 @@ of quantitation within approximately 8 weeks. Mean concentrations of adjusted bo
 increased up to 1.34 microgram/mL at week 4 and declined thereafter.
 An exploratory PK/PD analysis showed no relationship between systemic aflibercept concentrations and
 pharmacodynamic effects such as blood pressure changes.
+
+[Eylea 40 mg/mL solution for injection in a vial.]
+
+(all sentences already above)
+
+[Eylea 114.3 mg/ml solution for injection]
+
+Following unilateral intravitreal administration of 8 mg aflibercept, the mean (SD) Cmax of free aflibercept in plasma was 0.25 (0.21) mg/l, and the median time to maximal concentration in plasma was 1 day, in the nAMD and DME population combined.
+The accumulation of free aflibercept in plasma following 3 initial monthly doses was minimal.
+Subsequently, no further accumulation was observed.
+These data are also supported by population pharmacokinetic analyses.
+
+Aflibercept is a protein-based therapeutic and no metabolism studies have been conducted.
+
+Aflibercept is expected to undergo elimination through both target-mediated disposition via binding to free endogenous VEGF and metabolism via proteolysis.
+The median time to reach the last quantifiable concentration of free aflibercept in plasma for 8 mg administered intravitreally was 3 weeks.
+
+Renal or hepatic impairment
+
+No special studies in patients with renal or hepatic impairment have been conducted with
+Eylea 114.3 mg/ml.
+
+The systemic exposures to aflibercept in patients with mild to severe renal impairment were similar to those with normal renal function.
+Limited available data in patients with mild hepatic impairment do not indicate an influence on systemic exposures to aflibercept compared to patients with normal hepatic function.

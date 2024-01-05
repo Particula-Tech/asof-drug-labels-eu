@@ -9,9 +9,9 @@ Posology
 wet AMD
 
 The recommended dose for Eylea is 2 mg aflibercept, equivalent to 0.05 mL.
+
 Eylea treatment is initiated with one injection per month for three consecutive doses.
 The treatment interval is then extended to two months.
-
 Based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be maintained at two months or further extended using a treat-and-extend dosing regimen, where injection intervals are increased in 2- or 4-weekly increments to maintain stable visual and/or anatomic outcomes.
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 
@@ -137,3 +137,40 @@ The extractable volume of the vial is the amount that can be withdrawn from the 
 For the Eylea vial, the extractable volume is at least 0.1 mL.
 Injecting the entire volume of the vial could result in overdose.
 To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+
+[Eylea 114.3 mg/ml solution for injection]
+
+Eylea must only be administered by a qualified physician experienced in intravitreal injections.
+
+The recommended dose is 8 mg aflibercept, equivalent to 0.07 ml solution.
+The posology is the same for the nAMD and DME indications.
+The 8 mg dose requires use of the Eylea 114.3 mg/ml vial.
+
+Eylea treatment is initiated with 1 injection per month for 3 consecutive doses.
+Injection intervals may then be extended up to every 4 months based on the physician’s judgement of visual and/or anatomic outcomes.
+Subsequently, the treatment intervals may be further extended up to 5 months, such as with a treat-and-extend dosing regimen, while maintaining stable visual and/or anatomic outcomes (see section 5.1).
+
+If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly based on the physician’s discretion.
+The shortest interval between 2 injections is 2 months in the maintenance phase.
+
+Eylea at monthly doses of 8 mg has not been studied for more than 3 consecutive doses.
+
+The frequency of monitoring visits should be based on the patient’s status and at the physician’s discretion.
+For events in which treatment should be withheld see section 4.4.
+
+Renal or hepatic impairment
+No specific studies in patients with renal or hepatic impairment have been conducted.
+
+Elderly
+Available data do not suggest a need for a dose adjustment with Eylea in these patients.
+
+The safety and efficacy of Eylea 114.3 mg/ml in children and adolescents below 18 years have not been established.
+There is no relevant use of Eylea 114.3 mg/ml in the paediatric population in the nAMD and DME indications.
+
+The injection needle should be inserted 3.5 to 4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
+The injection volume of 0.07 ml is then delivered.
+A different scleral site should be used for subsequent injections.
+
+Following intravitreal injection, patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
+
+After injection, discard any unused product or waste material in accordance with local requirements.

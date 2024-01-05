@@ -11,3 +11,8 @@ After opening the blister, proceed under aseptic conditions.
 
 The unopened vial may be stored outside the refrigerator below 25 °C for up to 24 hours.
 After opening the vial, proceed under aseptic conditions.
+
+[Eylea 114.3 mg/ml solution for injection]
+
+Store in a refrigerator (2 °C – 8 °C).
+Keep the vial in the outer carton in order to protect from light.

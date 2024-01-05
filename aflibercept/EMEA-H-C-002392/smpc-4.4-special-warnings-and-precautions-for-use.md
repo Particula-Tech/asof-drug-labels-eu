@@ -8,6 +8,7 @@ Intravitreal injections, including those with Eylea, have been associated with e
 Proper aseptic injection techniques must always be used when administering Eylea.
 In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs.
 Adult patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay.
+
 Patients with ROP should be observed by healthcare professionals for any signs suggestive of endophthalmitis (e.g. redness/irritation of the eye, ocular discharge, lid swelling, photophobia).
 Parents and caregivers should also be instructed to observe and report any signs suggestive of endophthalmitis without delay.
 
@@ -74,3 +75,47 @@ Patients should be instructed to report any symptoms suggestive of endophthalmit
 
 The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
 The excess volume must be discarded prior to administration (see sections 4.2 and 6.6).
+
+[Eylea 114.3 mg/ml solution for injection]
+
+Intravitreal injections, including those with Eylea, have been associated with endophthalmitis, intraocular inflammation, retinal detachment, retinal tear and traumatic cataract (see section 4.8).
+Patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay and should be managed appropriately.
+
+Intraocular pressure increased
+
+Transient increases in intraocular pressure have been seen within 60 minutes of an intravitreal injection, including those with Eylea (see section 4.8).
+Both the intraocular pressure and perfusion of the optic nerve head must therefore be monitored and managed appropriately.
+
+As this is a therapeutic protein, there is a potential for immunogenicity with aflibercept (see section 5.1).
+
+Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition (see section 4.8).
+There are limited data on safety in the treatment of patients with nAMD and DME with a history of stroke, transient ischaemic attacks or myocardial infarction within the last 6 months.
+
+Bilateral treatment
+
+The safety and efficacy of bilateral treatment with Eylea 114.3 mg/ml per eye have not been studied (see section 5.1).
+
+Concomitant use of other anti-VEGF
+
+There are limited data available on the concomitant use of Eylea with other anti-VEGF medicinal products (systemic or ocular).
+
+Withholding treatment
+
+Treatment should be withheld in the event of:
+
+- a decrease in best corrected visual acuity (BCVA) of ≥ 30 letters compared with the last assessment of visual acuity
+- a rhegmatogenous retinal detachment or stage 3 or 4 macular holes
+- a retinal break
+- a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥ 50 % of the total lesion area
+- performed or planned intraocular surgery within the previous or next 28 days.
+
+Retinal pigment epithelial tear
+
+Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for nAMD include a large and/or high pigment epithelial retinal detachment.
+When initiating aflibercept therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
+
+Women of childbearing potential
+
+Women of childbearing potential have to use effective contraception during treatment and for at least 4 months after the last intravitreal injection with Eylea 114.3 mg/ml (see section 4.6).
+
+There is only limited experience with Eylea treatment in diabetic patients with an HbA1c over 12 % or with proliferative diabetic retinopathy.

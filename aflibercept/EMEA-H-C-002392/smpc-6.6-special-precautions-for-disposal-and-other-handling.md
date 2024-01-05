@@ -76,10 +76,10 @@ Remove the plastic cap and disinfect the outer part of the rubber stopper of the
 Attach the 18 G, 5-micron filter needle supplied in the carton to a 1-mL sterile, Luer-lock syringe.
 
 Push the filter needle into the centre of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
-
 Using aseptic technique withdraw all of the Eylea vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid.
 Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.
+
 Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 Remove the filter needle and properly dispose of it.
 Note: Filter needle is not to be used for intravitreal injection.
@@ -88,6 +88,53 @@ Note: Filter needle is not to be used for intravitreal injection.
 Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
 
 Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe.
+
 10.
 The vial is for single use only.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
+
+[Eylea 114.3 mg/ml solution for injection]
+
+Do not use if the package or its components are expired, damaged, or have been tampered with.
+Check the label on the vial to make sure you have the strength of Eylea that you intended to use.
+The 8 mg dose requires use of the Eylea 114.3 mg/ml vial.
+
+18 G, 5-micron filter needle:
+
+- Do not autoclave BD blunt filter (fill) needle.
+
+The intravitreal injection should be performed with a 30 G × ½ inch injection needle (not included).
+
+1. Prior to administration visually inspect the solution for injection.
+Do not use the vial if particulates, cloudiness, or discolouration are visible.
+2. Remove the plastic cap and disinfect the
+outer part of the rubber stopper of the vial.
+3. Use aseptic technique to carry out steps 3-10.
+Attach the filter needle supplied in the carton
+to a 1-ml sterile, Luer-lock syringe.
+4. Push the filter needle into the centre of the vial stopper until the needle is completely inserted
+into the vial and the tip touches the bottom or bottom edge of the vial.
+5. Withdraw all of the Eylea vial content into the syringe, keeping the vial in an upright position,
+slightly inclined to ease complete withdrawal. To deter the introduction of air, ensure the
+bevel of the filter needle is submerged into the liquid. Continue to tilt the vial during
+withdrawal keeping the bevel of the filter needle submerged in the liquid.
+needle bevel
+solution pointing down
+6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial to completely
+empty the filter needle. After injection any unused product must be discarded.
+7. Remove the filter needle and properly dispose of it.
+Note: The filter needle is not to be used for the intravitreal injection.
+8. Firmly twist the 30 G × ½ inch injection
+needle onto the Luer-lock syringe tip.
+9. Holding the syringe with the needle pointing
+up, check the syringe for bubbles. If there are
+bubbles, gently tap the syringe with your
+finger until the bubbles rise to the top.
+10. To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger so
+that the flat plunger edge aligns with the line that marks 0.07 ml on the syringe.
+solution after expelling air bubbles
+and excess medicinal product
+dose line for
+0.07 ml
+flat plunger
+edge

@@ -9,3 +9,9 @@ Pack size of 1 pre-filled syringe.
 Solution in a vial (type I glass) with a stopper (elastomeric rubber), and an 18 G filter needle.
 Each vial contains an extractable volume of at least 0.1 mL.
 Pack size of 1 vial + 1 filter needle.
+
+[Eylea 114.3 mg/ml solution for injection]
+
+Vial (type I glass) with a grey rubber stopper (chlorobutyl) sealed with an aluminium cap with white lid, and a 18 G, 5-micron filter needle.
+Each vial contains 0.263 ml solution.
+Pack size of 1 vial and 1 filter needle.
