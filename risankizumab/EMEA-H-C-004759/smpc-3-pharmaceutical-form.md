@@ -16,4 +16,6 @@ Concentrate for solution for infusion (sterile concentrate)
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-(all sentences already above)
+Skyrizi 360 mg solution for injection in cartridge
+
+Skyrizi 90 mg solution for injection in pre-filled syringe

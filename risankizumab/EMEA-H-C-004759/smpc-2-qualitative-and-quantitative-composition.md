@@ -26,4 +26,14 @@ Each vial contains 600 mg of risankizumab in 10.0 mL of solution.
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
+Skyrizi 360 mg solution for injection in cartridge
+
 Each cartridge contains 360 mg of risankizumab in 2.4 mL solution.
+
+Skyrizi 90 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 90 mg of risankizumab in 1 mL solution.
+
+Excipients with known effect (90 mg solution for injection only)
+
+This medicinal product contains 164 mg sorbitol per 360 mg dose.

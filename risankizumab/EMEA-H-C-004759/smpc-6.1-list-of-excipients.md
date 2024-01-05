@@ -15,3 +15,13 @@ Succinic acid
 Sorbitol
 Polysorbate 20
 Water for injections
+
+[Skyrizi 600 mg concentrate for solution for infusion]
+
+(all sentences already above)
+
+[Skyrizi 360 mg solution for injection in cartridge]
+
+Skyrizi 360 mg solution for injection in cartridge
+
+Skyrizi 90 mg solution for injection in pre-filled syringe

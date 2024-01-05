@@ -13,4 +13,5 @@ For storage conditions after dilution of the medicinal product, see section 6.3
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-Keep the cartridge in the outer carton in order to protect from light.
+The cartridge may be stored out of the refrigerator (up to a maximum of 25°C) for up to 24 hours.
+Keep the cartridge or pre-filled syringes in the outer carton in order to protect from light.

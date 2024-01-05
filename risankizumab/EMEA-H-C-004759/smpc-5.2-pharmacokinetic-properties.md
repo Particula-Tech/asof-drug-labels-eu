@@ -13,7 +13,6 @@ Bioequivalence was demonstrated between a single risankizumab 150 mg injection a
 Bioequivalence was also demonstrated between risankizumab 150 mg pre-filled syringe and pre-filled pen.
 
 Distribution
-
 The mean (±standard deviation) steady-state volume of distribution (Vss) of risankizumab was 11.4 (±2.7) L in Phase 3 studies in subjects with psoriasis, indicating that the distribution of risankizumab is primarily confined to the vascular and interstitial spaces.
 
 Biotransformation
@@ -29,6 +28,7 @@ The mean terminal elimination half-life of risankizumab ranged from 28 to 29 day
 As an IgG1 monoclonal antibody, risankizumab is not expected to be filtered by glomerular filtration in the kidneys or to be excreted as an intact molecule in the urine.
 
 Linearity/non-linearity
+
 Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 300 mg or 0.25 to 1 mg/kg subcutaneous administration in healthy subjects or subjects with psoriasis.
 
 Interactions
@@ -66,7 +66,7 @@ No dose adjustment based on body weight is currently recommended.
 Gender or race
 
 The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis or psoriatic arthritis.
-No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared with Caucasian subjects in a clinical pharmacokinetic study.
+No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared to Caucasian subjects in a clinical pharmacokinetic study in healthy volunteers.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
@@ -84,7 +84,7 @@ For a typical 70 kg subject with Crohn’s disease, CL was 0.30 L/day and termin
 Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 360 mg or 0.25 to 1 mg/kg subcutaneous administration and 200 to 1 800 mg and 0.01 to 5 mg/kg administered intravenously in healthy subjects or subjects with psoriasis or Crohn’s disease.
 
 Population pharmacokinetic analyses indicated that risankizumab exposure was not impacted by concomitant medicinal products used by some subjects with plaque psoriasis during the clinical studies.
-Similar lack of impact by concomitant medications was observed based on population pharmacokinetic analyses in Crohn’s disease.
+Similar lack of impact by concomitant medicinal products was observed based on population pharmacokinetic analyses in Crohn’s disease.
 
 The pharmacokinetics of risankizumab in paediatric subjects under 16 years of age has not been established.
 Of the 1 574 subjects with Crohn’s disease exposed to risankizumab, 12 were 16 to 17 years old.

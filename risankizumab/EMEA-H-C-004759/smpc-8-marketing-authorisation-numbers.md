@@ -18,4 +18,10 @@ EU/1/19/1361/004
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
+Skyrizi 360 mg solution for injection in cartridge
+
 EU/1/19/1361/005
+
+Skyrizi 90 mg solution for injection in pre-filled syringe
+
+EU/1/19/1361/006

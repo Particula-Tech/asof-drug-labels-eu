@@ -3,6 +3,7 @@
 Skyrizi 150 mg solution for injection in pre-filled pen
 
 Pre-filled glass syringe assembled in a pre-filled pen with an automatic needle sleeve.
+
 Skyrizi 150 mg solution for injection in pre-filled syringe
 
 Pre-filled glass syringe with a fixed needle and needle cover, assembled in an automatic needle guard.
@@ -25,6 +26,8 @@ Skyrizi is available in packs containing 1 vial pack.
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
+Skyrizi 360 mg solution for injection in cartridge
+
 A 360 mg solution in a single-use cartridge made with cyclic olefin resin with rubber septum and rubber piston as product-contact materials, and a resin cap.
 The cartridge is assembled with a telescopic screw assembly.
 The cartridge assembly is co-packed with an on-body injector (administration device).
@@ -33,3 +36,7 @@ The on-body injector contains silver oxide-zinc batteries and an adhesive skin p
 The administration device is designed for use with the provided 360 mg cartridge.
 
 Skyrizi 360 mg is available in packs containing 1 cartridge and 1 on-body injector.
+
+Skyrizi 90 mg solution for injection in pre-filled syringe
+
+Skyrizi 90 mg is available in packs containing 4 pre-filled syringes

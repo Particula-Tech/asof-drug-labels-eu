@@ -16,7 +16,7 @@ Thereafter, dosing should be resumed at the regular scheduled time.
 
 Special populations
 
-Elderly (aged 65 years and over)
+Elderly
 
 No dose adjustment is required (see section 5.2).
 There is limited information in subjects aged ≥65 years.
@@ -28,8 +28,9 @@ These conditions are generally not expected to have any significant impact on th
 
 Paediatric population
 
-The safety and efficacy of risankizumab in children and adolescents aged 5 to 18 years have not been established.
+The safety and efficacy of risankizumab in children and adolescents aged 5 to less than 18 years have not been established.
 No data are available.
+
 There is no relevant use of risankizumab in children aged below 6 years for the indication of moderate to severe plaque psoriasis or in children aged below 5 years for the indication of psoriatic arthritis.
 
 Overweight patients
@@ -42,7 +43,6 @@ Skyrizi is administered by subcutaneous injection.
 
 The injection should be administered in the thigh or abdomen.
 Patients should not inject into areas where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis.
-
 Patients may self-inject Skyrizi after training in subcutaneous injection technique.
 Patients should be instructed to read the ‘Instructions for use’ provided in the package leaflet before administration.
 
@@ -58,7 +58,7 @@ The two injections should be administered at different anatomic locations.
 The recommended dose is 600 mg administered by intravenous infusion at week 0, week 4, and week 8, followed by 360 mg administered by subcutaneous injection at week 12, and every 8 weeks thereafter.
 Consideration should be given to discontinuing treatment in patients who have shown no evidence of therapeutic benefit by week 24.
 
-For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Skyrizi 360 mg solution for injection in cartridge Summary of Product Characteristics.
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Skyrizi 360 mg solution for injection in cartridge and Skyrizi 90 mg pre-filled syringe Summary of Product Characteristics.
 
 No specific studies were conducted to assess the effect of hepatic or renal impairment on the pharmacokinetics of Skyrizi.
 
@@ -74,6 +74,15 @@ For instructions on dilution of the medicinal product before administration, see
 
 For the posology of the initial intravenous dosing regimen, see section 4.2 of the Skyrizi 600 mg concentrate for solution for infusion Summary of Product Characteristics.
 
-Patients should not inject into areas where the skin is tender, bruised, erythematous, indurated or damaged.
+Skyrizi should not be injected into areas where the skin is tender, bruised, erythematous, indurated or damaged.
+
+Skyrizi 360 mg solution for injection in cartridge
 
 Patients may self-inject Skyrizi after training in subcutaneous injection technique with the on-body injector.
+
+Skyrizi 90 mg solution for injection in pre-filled syringe
+
+This medicinal product should be administered by a healthcare professional.
+
+Four pre-filled syringes should be injected to administer the full 360 mg dose.
+The four injections should be administered at different anatomic locations (see administration instructions provided with the package leaflet).

@@ -13,7 +13,6 @@ Before injecting, patients may remove the carton from the refrigerator and allow
 The solution should be colourless to yellow and clear to slightly opalescent.
 
 Skyrizi 75 mg solution for injection in pre-filled syringe
-
 Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the pre-filled syringes from the carton.
 
 The solution should be colourless to slightly yellow and clear to slightly opalescent.
@@ -35,7 +34,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
-The solution in the vial and dilutions should not be shaken.
 The solutions should be visually inspected for particulate matter or discoloration prior to administration.
 The liquid may contain tiny white or clear particles.
 The medicinal product and its dilutions should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
@@ -45,22 +43,34 @@ Instructions for dilution
 This medicinal product should be prepared by a healthcare professional using aseptic technique.
 It must be diluted before administration.
 
-The solution for infusion is prepared by dilution of the concentrate into an intravenous infusion bag or glass bottle containing 5% dextrose in water (D5W) (600 mg/10 mL in 100 mL, 250 mL or 500 mL) to a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+The solution for infusion is prepared by dilution of the concentrate into an intravenous infusion bag or glass bottle containing 5% dextrose in water (D5W) or 0.9% saline (600 mg/10 mL in 100 mL,
+250 mL or 500 mL) to a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
 
 Prior to the start of the intravenous infusion, the content of the intravenous infusion bag or glass bottle should be at room temperature.
 
 Infuse the diluted solution over a period of at least one hour.
-Once diluted, the infusion should be completely administered within 8 hours of the dilution in the infusion bag.
+
+The solution in the vial and the dilutions should not be shaken.
 
 Each vial is for single use only.
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-Skyrizi is intended for use under the guidance and supervision of a healthcare professional.
+Skyrizi 360 mg solution for injection in cartridge
+
+Before injecting, the carton should be removed from the refrigerator and allowed to reach room temperature, out of direct sunlight, for 45 to 90 minutes without removing the cartridge from the carton.
 
 Prior to use, a visual inspection of the cartridge is recommended.
 The solution is free from foreign particles and practically free from product-related particles.
+Do not shake the cartridge.
 
-Before injecting, patients should remove the carton from the refrigerator and allow to reach room temperature, out of direct sunlight, for 45 to 90 minutes without removing the cartridge from the carton.
+Skyrizi 90 mg solution for injection in pre-filled syringe
 
-Each on-body injector with cartridge is for single use only.
+Before injecting, the carton should be removed from the refrigerator and allow to reach room temperature out of direct sunlight, for 15 to 30 minutes without removing the pre-filled syringes from the carton.
+
+Prior to use, a visual inspection of each pre-filled syringe is recommended.
+Do not shake the pre-filled syringe.
+
+General precautions
+
+Each on-body injector with cartridge and pre-filled syringe are for single use only.
