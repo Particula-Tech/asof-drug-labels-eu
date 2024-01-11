@@ -3,8 +3,8 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
-Immune-mediated adverse reactions
 
+Immune-mediated adverse reactions
 Most immune-mediated adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
 Immune-mediated adverse reactions affecting more than one body system have been observed.
 Immune-mediated adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
@@ -43,6 +43,7 @@ Treatment with atezolizumab must be permanently discontinued for Grade 3 or Grad
 For patients with HCC, treatment with atezolizumab should be withheld if ALT or AST increases to
 > 3 to ≤ 10 x ULN from normal limits at baseline, or > 5 to ≤ 10 x ULN from > 1 ULN to ≤ 3 x ULN at baseline, or > 8 to ≤ 10 x ULN from > 3 ULN to ≤ 5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
+
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued if ALT or AST increases to > 10 x ULN or total bilirubin increases > 3 x ULN).
 
@@ -85,10 +86,10 @@ Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equiv
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required).
 Treatment with atezolizumab should be permanently discontinued for Grade 4 hypophysitis.
+
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
-
 Immune-mediated meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
@@ -131,6 +132,7 @@ Immune-mediated myocarditis
 Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myocarditis.
 Myocarditis may also be a clinical manifestation of myositis and should be managed accordingly.
+
 Patients with cardiac or cardiopulmonary symptoms should be assessed for potential myocarditis, to ensure the initiation of appropriate measures at an early stage.
 If myocarditis is suspected, treatment with atezolizumab should be withheld, prompt initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started, and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
 Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 myocarditis (see section 4.2).
@@ -170,8 +172,8 @@ Atezolizumab should be withheld for patients with suspected SJS or TEN.
 For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
 
 Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
-Immune-mediated pericardial disorders
 
+Immune-mediated pericardial disorders
 Pericardial disorders, including pericarditis, pericardial effusion and cardiac tamponade, some leading to fatal outcomes, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for clinical signs and symptoms of pericardial disorders.
 
@@ -206,13 +208,13 @@ Disease-specific precautions
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
+
 Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
 Physicians should consult the nab-paclitaxel summary of product characteristics (SmPC) for specific precautions and contraindications of this medicine.
 
 Use of atezolizumab in UC for previously untreated patients who are considered cisplatin ineligible
-
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.
 There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
 
@@ -237,6 +239,7 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
+
 Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.
@@ -252,3 +255,13 @@ Patient card
 
 The prescriber must discuss the risks of Tecentriq therapy with the patient.
 The patient will be provided with the patient card and instructed to carry the card at all times.
+
+[Tecentriq 1 875 mg solution for injection]
+
+Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1 to 2 mg/kg bw/day prednisone or equivalent) should be initiated.
+
+Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1 to2 mg/kg bw/day of prednisone or equivalent should be started.
+
+The rate of injection should be reduced or paused in patients with Grade 1 or 2 infusion-related reactions.
+
+There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore, atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
