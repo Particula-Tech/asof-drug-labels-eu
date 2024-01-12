@@ -1,6 +1,7 @@
 # 6.1 List of excipients
 
 Epivir 150 mg Film-coated tablets
+
 Tablet core:
 Microcrystalline cellulose (E460),
 Sodium starch glycollate

@@ -1,8 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
-
 Epivir is not recommended for use as monotherapy.
 
 Renal impairment: In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
@@ -10,10 +7,10 @@ Renal impairment: In patients with moderate to severe renal impairment, the term
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
 
 Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
+
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However, it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
-
 Mitochondrial dysfunction following exposure in utero: Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine.
 The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
@@ -47,7 +44,6 @@ If there is evidence of worsening liver disease in such patients, interruption o
 
 Paediatric population: In a study performed in paediatric patients (see section 5.1 ARROW study), lower rates of virologic suppression and more frequent viral resistance were reported in children receiving the oral solution of Epivir as compared to those receiving the tablet formulation.
 Whenever possible in children, Epivir as tablet formulation should preferably be used.
-
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 

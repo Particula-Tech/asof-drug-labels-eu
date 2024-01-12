@@ -20,7 +20,7 @@ Breast-feeding
 Following oral administration lamivudine was excreted in breast milk at similar concentrations to those found in serum.
 Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (< 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age.
 There are no data available on the safety of lamivudine when administered to babies less than three months old.
-It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
+It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 Fertility
 
