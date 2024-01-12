@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-TMZ is spontaneously hydrolyzed at physiologic pH primarily to the active species, 3-methyl- (triazen-1-yl)imidazole-4-carboxamide (MTIC).
+TMZ is spontaneously hydrolyzed at physiologic pH primarily to the active species, 3-methyl-(triazen-1-yl)imidazole-4-carboxamide (MTIC).
 MTIC is spontaneously hydrolyzed to 5-amino-imidazole-4-carboxamide (AIC), a known intermediate in purine and nucleic acid biosynthesis, and to methylhydrazine, which is believed to be the active alkylating species.
 The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA mainly at the O6 and N7 positions of guanine.
 Relative to the AUC of TMZ, the exposure to MTIC and AIC is ~ 2.4 % and 23 %, respectively.
@@ -31,6 +31,7 @@ Special populations
 
 Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal function or tobacco use.
 In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
+
 Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1,000 mg/m2 per cycle both in children and in adults.
 
 [Temodal 2.5 mg/ml powder for solution for infusion]

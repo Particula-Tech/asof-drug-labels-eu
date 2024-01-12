@@ -86,10 +86,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Injury, poisoning and procedural complications |  |
 | Common: | Radiation injuryk |
 
-Table 4.
-Adverse reactions in patients treated with temozolomide a Includes pharyngitis, nasopharyngeal pharyngitis, pharyngitis Streptococcal b Includes gastroenteritis, gastroenteritis viral c Includes cushingoid, Cushing syndrome d Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy e Includes visual impairment, eye disorder f Includes deafness, deafness bilateral, deafness neurosensory, deafness unilateral g Includes earache, ear discomfort h Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort i Includes oedema peripheral, peripheral swelling j Includes liver function test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased k Includes radiation injury, radiation skin injury
+a Includes pharyngitis, nasopharyngeal pharyngitis, pharyngitis Streptococcal b Includes gastroenteritis, gastroenteritis viral c Includes cushingoid, Cushing syndrome d Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy e Includes visual impairment, eye disorder f Includes deafness, deafness bilateral, deafness neurosensory, deafness unilateral g Includes earache, ear discomfort h Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort i Includes oedema peripheral, peripheral swelling j Includes liver function test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased k Includes radiation injury, radiation skin injury
 † Including cases with fatal outcome
-
 Newly-diagnosed glioblastoma multiforme
 
 Laboratory results
@@ -120,6 +118,7 @@ Paediatric population
 Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days.
 Although the data is limited, tolerance in children is expected to be the same as in adults.
 The safety of TMZ in children under the age of 3 years has not been established.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -197,8 +196,6 @@ Clinical trial experience with hard capsules
 | Uncommon: | Gamma-glutamyltransferase increased |
 | Injury, poisoning and procedural complications |  |
 | Common: | Radiation injuryk |
-
-a Includes pharyngitis, nasopharyngeal pharyngitis, pharyngitis Streptococcal b Includes gastroenteritis, gastroenteritis viral c Includes cushingoid, Cushing syndrome d Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy e Includes visual impairment, eye disorder f Includes deafness, deafness bilateral, deafness neurosensory, deafness unilateral g Includes earache, ear discomfort h Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort i Includes oedema peripheral, peripheral swelling j Includes liver function test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased k Includes radiation injury, radiation skin injury
 
 Clinical trial experience with IV
 

@@ -27,6 +27,7 @@ HR (95% C.I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 
 26%
 RT+TMZ
+
 10%
 RT Only
 12.1 14.6

@@ -22,7 +22,6 @@ The solution should be inspected and any vial containing visible particulate mat
 A volume up to 40 ml reconstituted solution should be withdrawn, according to the total prescribed dose and transferred into an empty 250 ml infusion bag (PVC or polyolefin).
 The pump tubing should be attached to the bag, the tubing purged and then capped.
 Temodal 2.5 mg/ml must be administered by intravenous infusion only over a period of 90 minutes.
-
 Temodal 2.5 mg/ml powder for solution for infusion may be administered in the same IV line with 0.9% Sodium Chloride injection.
 It is incompatible with dextrose solutions.
 In the absence of additional data, this medicinal product must not be mixed with other medicinal products or infused simultaneously through the same intravenous line.

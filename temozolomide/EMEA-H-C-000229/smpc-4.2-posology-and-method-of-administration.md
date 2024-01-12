@@ -3,12 +3,12 @@
 Temodal should only be prescribed by physicians experienced in the oncological treatment of brain tumours.
 
 Anti-emetic therapy may be administered (see section 4.4).
+
 Posology
 
 Adult patients with newly-diagnosed glioblastoma multiforme
 
 Temodal is administered in combination with focal radiotherapy (concomitant phase) followed by up to 6 cycles of temozolomide (TMZ) monotherapy (monotherapy phase).
-
 Concomitant phase
 
 TMZ is administered orally at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions).
@@ -35,7 +35,8 @@ Monotherapy phase
 
 Four weeks after completing the TMZ + RT concomitant phase, TMZ is administered for up to 6 cycles of monotherapy treatment.
 Dose in Cycle 1 (monotherapy) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 109/l, and the thrombocyte count is ≥ 100 x 109/l.
+At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 109/l, and the thrombocyte count is
+≥ 100 x 109/l.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 Once escalated, the dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 Dose reductions and discontinuations during the monotherapy phase should be applied according to Tables 2 and 3.
@@ -49,9 +50,7 @@ The dose should be reduced or administration discontinued according to Table 3.
 | –1 | 100 | Reduction for prior toxicity |
 | 0 | 150 | Dose during Cycle 1 |
 | 1 | 200 | Dose during Cycles 2-6 in absence of toxicity |
-
 | Table 3. TMZ dose reduction or discontinuation during monotherapy treatment |  |  |
-| --- | --- | --- |
 | Toxicity | Reduce TMZ by 1 dose levela | Discontinue TMZ |
 | Absolute neutrophil count | < 1.0 x 109/l | See footnote b |
 | Thrombocyte count | < 50 x 109/l | See footnote b |
@@ -93,13 +92,29 @@ However, elderly patients (> 70 years of age) appear to be at increased risk of 
 Method of administration
 
 Temodal hard capsules should be administered in the fasting state.
+
 The capsules must be swallowed whole with a glass of water and must not be opened or chewed.
 
 If vomiting occurs after the dose is administered, a second dose should not be administered that day.
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
-TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions).
+TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy
+(60 Gy administered in 30 fractions).
+
+| Table 2. TMZ dose levels for monotherapy treatment |  |  |
+| --- | --- | --- |
+| Dose level | TMZ dose (mg/m2/day) | Remarks |
+| –1 | 100 | Reduction for prior toxicity |
+| 0 | 150 | Dose during Cycle 1 |
+| 1 | 200 | Dose during Cycles 2-6 in absence of toxicity |
+
+| Table 3. TMZ dose reduction or discontinuation during monotherapy treatment |  |  |
+| --- | --- | --- |
+| Toxicity | Reduce TMZ by 1 dose levela | Discontinue TMZ |
+| Absolute neutrophil count | < 1.0 x 109/l | See footnote b |
+| Thrombocyte count | < 50 x 109/l | See footnote b |
+| CTC non-haematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4b |
 
 In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
 

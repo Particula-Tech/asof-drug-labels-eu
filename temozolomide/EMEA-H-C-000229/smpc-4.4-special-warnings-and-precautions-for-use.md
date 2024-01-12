@@ -33,10 +33,10 @@ For patients on a 42 day treatment cycle liver function tests should be repeated
 For all patients, liver function tests should be checked after each treatment cycle.
 For patients with significant liver function abnormalities, physicians should assess the benefit/risk of continuing treatment.
 Liver toxicity may occur several weeks or more after the last treatment with temozolomide.
+
 Malignancies
 
 Cases of myelodysplastic syndrome and secondary malignancies, including myeloid leukaemia, have also been reported very rarely (see section 4.8).
-
 Anti-emetic therapy
 
 Nausea and vomiting are very commonly associated with TMZ.
@@ -78,11 +78,11 @@ Women of childbearing potential have to use effective contraception to avoid pre
 Male patients
 
 Men being treated with TMZ should be advised not to father a child for at least 3 months after receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment (see section 4.6).
+
 Lactose
 
 This medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
 Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.

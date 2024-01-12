@@ -13,9 +13,8 @@ shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassiu
 20 mg hard capsules
 Capsule content:
 anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
-
 Capsule shell:
-gelatin, titanium dioxide (E 171), sodium lauril sulfate, yellow iron oxide (E 172).
+gelatin, titanium dioxide (E 171), sodium laurilsulfate, yellow iron oxide (E 172).
 
 Printing ink:
 shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
@@ -25,7 +24,7 @@ Capsule content:
 anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
 Capsule shell:
-gelatin, titanium dioxide (E 171), sodium lauril sulfate, red iron oxide (E172).
+gelatin, titanium dioxide (E 171), sodium laurilsulfate, red iron oxide (E172).
 
 Printing ink:
 shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
@@ -35,7 +34,8 @@ Capsule content:
 anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
 Capsule shell:
-gelatin, titanium dioxide (E 171), sodium lauril sulfate, indigo carmine (E 132).
+gelatin, titanium dioxide (E 171), sodium laurilsulfate, indigo carmine (E 132).
+
 Printing ink:
 shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
 
@@ -44,7 +44,7 @@ Capsule content:
 anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
 Capsule shell:
-gelatin, titanium dioxide (E 171), sodium lauril sulfate, yellow iron oxide (E 172), red iron oxide (E 172).
+gelatin, titanium dioxide (E 171), sodium laurilsulfate, yellow iron oxide (E 172), red iron oxide (E 172).
 
 Printing ink:
 shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
@@ -54,7 +54,7 @@ Capsule content:
 anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate type A, tartaric acid, stearic acid.
 
 Capsule shell:
-gelatin, titanium dioxide (E 171), sodium lauril sulfate.
+gelatin, titanium dioxide (E 171), sodium laurilsulfate.
 
 Printing ink:
 shellac, propylene glycol (E 1520), purified water, ammonium hydroxide, potassium hydroxide, black iron oxide (E 172).
