@@ -93,7 +93,7 @@ No data are available.
 HES in children aged less than 18 years old
 
 The safety and efficacy of mepolizumab in children and adolescents aged less than 18 years old have not yet been established.
-Currently available data are described in section 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Method of administration
 
@@ -102,6 +102,8 @@ Nucala 100 mg solution for injection in pre-filled pen or pre-filled syringe
 The pre-filled pen or pre-filled syringe should be used for subcutaneous injection only.
 
 Nucala may be self-administered by the patient or administered by a caregiver if their healthcare professional determines that it is appropriate, and the patient or caregiver are trained in injection techniques.
+
+For children aged 6 to 11 years old, administration must be carried out by a healthcare professional or a trained caregiver.
 
 For self-administration the recommended injection sites are the abdomen or thigh.
 A caregiver can also inject Nucala into the upper arm.

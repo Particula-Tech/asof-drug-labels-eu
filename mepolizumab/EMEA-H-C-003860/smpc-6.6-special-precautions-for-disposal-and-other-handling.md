@@ -27,7 +27,7 @@ Reconstitution is typically complete within 5 minutes after the sterile water ha
 
 2.
 If a mechanical reconstitution device (swirler) is used to reconstitute Nucala, reconstitution can be accomplished by swirling at 450 rpm for no longer than 10 minutes.
-Alternatively, swirling at 1000 rpm for no longer than 5 minutes is acceptable.
+Alternatively, swirling at 1 000 rpm for no longer than 5 minutes is acceptable.
 3.
 Following reconstitution, Nucala should be visually inspected for particulate matter and clarity prior to use.
 The solution should be clear to opalescent, and colourless to pale yellow or pale brown, free of visible particles.

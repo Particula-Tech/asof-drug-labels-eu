@@ -11,7 +11,6 @@ Mepolizumab inhibits the bioactivity of IL-5 with nanomolar potency by blocking 
 Pharmacodynamic effects
 
 Severe eosinophilic asthma
-
 In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/μL at week 32 (n=182), a reduction of 84% compared to placebo.
 This magnitude of blood eosinophils reduction was maintained in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies.
 In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 306 (n=16) to 48 (n=15) following 40 mg (for a weight < 40kg) and 331 to 44 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 85% and 87%, respectively.
@@ -30,7 +29,7 @@ There was a geometric mean reduction of 83% compared to placebo and this magnitu
 HES
 
 In patients with HES (adults/adolescents), following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 32 weeks, blood eosinophil reduction was observed within 2 weeks of treatment.
-At week 32, blood eosinophils were reduced from a geometric mean count at baseline of 1460 (n=54) to 70 cells/µL (n=48) and a geometric mean reduction of 92% compared to placebo was observed.
+At week 32, blood eosinophils were reduced from a geometric mean count at baseline of 1 460 (n=54) to 70 cells/µL (n=48) and a geometric mean reduction of 92% compared to placebo was observed.
 This magnitude of reduction was maintained for a further 20 weeks in patients that continued mepolizumab treatment in the open-label extension study.
 
 Immunogenicity
@@ -53,7 +52,7 @@ The efficacy of mepolizumab in the treatment of a targeted group of patients wit
 These patients either remained uncontrolled (at least two severe exacerbations in the previous 12 months) on their current standard of care, including at least high doses of inhaled corticosteroids (ICS) plus an additional maintenance treatment(s), or were dependent on systemic corticosteroids.
 Additional maintenance treatments included long-acting beta2 -adrenergic agonists (LABA), leukotriene modifiers, long-acting muscarinic antagonists (LAMA), theophylline, and oral corticosteroids (OCS).
 
-The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1192 patients, 60% females, with a mean age of 49 years (range 12– 82).
+The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1 192 patients, 60% females, with a mean age of 49 years (range 12– 82).
 The proportion of patients on maintenance OCS was 31% and 24%, respectively.
 Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1<80% in adults and <90% in adolescents).
 The mean number of exacerbations in the previous year was 3.6 and the mean predicted pre-bronchodilator FEV1 was 60%.
@@ -76,6 +75,7 @@ Table 1: Frequency of clinically significant exacerbations at week 52 in the int
 | p-value | <0.001 | <0.001 | <0.001 | - |
 
 Exacerbation reduction MEA115588 (MENSA) study
+
 MEA115588 was a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study which evaluated the efficacy and safety of mepolizumab as add-on therapy in 576 patients with severe refractory eosinophilic asthma defined as peripheral blood eosinophils greater than or equal to 150 cells/μL at initiation of treatment or greater than or equal to 300 cells/μL within the past 12 months.
 
 Patients received mepolizumab 100 mg administered subcutaneously, mepolizumab 75 mg administered intravenously or placebo treatment once every 4 weeks over 32 weeks.
@@ -101,7 +101,7 @@ Table 2: Results of primary and secondary endpoints at week 32 in the intent to 
 | Percent reduction Rate ratio (95% CI) | 69% 0.31 (0.11, 0.91) | _ |
 | p-value | 0.034 |  |
 | Pre-bronchodilator FEV1 (mL) at week 32 |  |  |
-| Baseline (SD) | 1730 (659) | 1860 (631) |
+| Baseline (SD) | 1 730 (659) | 1 860 (631) |
 | Mean change from baseline (SE) | 183 (31) | 86 (31) |
 | Difference (mepolizumab vs. placebo) | 98 |  |
 | 95% CI | (11, 184) |  |
@@ -151,9 +151,9 @@ MEA115575 evaluated the effect of mepolizumab 100 mg administered subcutaneously
 Patients had a blood eosinophil count of ≥150/µL at baseline or a blood eosinophil count of ≥300/µL in the 12 months prior to screening.
 Patients were administered mepolizumab or placebo treatment once every 4 weeks over the treatment period.
 Patients continued to receive their existing asthma medicinal product during the study with the exception of their OCS dose which was reduced every 4 weeks during the OCS reduction phase (Weeks 4-20), as long as asthma control was maintained.
-
 A total of 135 patients were enrolled: mean age was 50 years, 55% were female, and 48% had been receiving oral steroid therapy for at least 5 years.
 The baseline mean prednisone equivalent dose was approximately 13 mg per day.
+
 The primary endpoint was the percent reduction in daily OCS dose (weeks 20-24), whilst maintaining asthma control by defined dose reduction categories (see Table 4).
 Predefined categories included percent reductions ranging from 90-100% reduction, to no decrease in the prednisone dose from the end of the optimisation phase.
 The comparison between mepolizumab and placebo was statistically significant (p=0.008).
@@ -165,7 +165,7 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 |  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | Primary endpoint |  |  |
 | Percent reduction in OCS from baseline (weeks 20-24) |  |  |
-| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7(11%) 5 (8%) 10 (15%) 7(11%) 37 (56%) |
+| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7(11%) 5 (8%) 10 (15%) 7 (11%) 37 (56%) |
 | Odds ratio (95% CI) | 2.39 (1.25, 4.56) |  |
 | p-value | 0.008 |  |
 | Secondary endpoints (weeks 20-24) |  |  |
@@ -184,7 +184,6 @@ Open-label extension studies in severe refractory eosinophilic asthma MEA115666 
 The long-term efficacy profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies MEA115666, MEA115661 and 201312 was generally consistent with the 3 placebo-controlled studies.
 
 Chronic rhinosinusitis with nasal polyps (CRSwNP)
-
 Study 205687 (SYNAPSE) was a 52-week, randomised, double-blind, placebo-controlled study which evaluated 407 patients aged 18 years and older with CRSwNP.
 Patients enrolled in the study were required to have a nasal obstruction VAS (Visual Analogue Scale) symptom score of >5 out of a maximum score of 10, an overall VAS symptom score >7 out of a maximum score of 10 and an endoscopic bilateral NP score of ≥5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity).
 Patients must also have had a history of at least one prior surgery for nasal polyps in the previous 10 years.
@@ -314,7 +313,7 @@ Hypereosinophilic syndrome (HES)
 Study 200622 was a randomised, double-blind, placebo-controlled, 32-week study which evaluated 108 patients ≥12 years old with HES.
 Patients received 300 mg of mepolizumab, or placebo administered subcutaneously once every 4 weeks while continuing their HES therapy.
 In study 200622, HES therapy included but was not limited to OCS, immunosuppressive, cytotoxic therapy or other symptomatic therapies associated with HES such as omeprazole.
-Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1000 cells/µL during screening.
+Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1 000 cells/µL during screening.
 Patients who were FIP1L1-PDGFRα kinase-positive were excluded from the study.
 The primary endpoint of study 200622 was the proportion of patients who experienced a HES flare during the 32-week treatment period.
 A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥2 occasions).
@@ -402,7 +401,7 @@ All 4 adolescents that completed study 200622 continued into a 20-week open-labe
 |  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | Primary endpoint |  |  |
 | Percent reduction in OCS from baseline (weeks 20-24) |  |  |
-| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7(11%) 5 (8%) 10 (15%) 7(11%) 37 (56%) |
+| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7 (11%) 5 (8%) 10 (15%) 7 (11%) 37 (56%) |
 | Odds ratio (95% CI) | 2.39 (1.25, 4.56) |  |
 |  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | p-value | 0.008 |  |
@@ -424,6 +423,7 @@ An odds ratio >1 favours Nucala.
 
 During Weeks 48 to 52, 59% and 44% of patients treated with mepolizumab achieved an average daily OCS dose of ≤ 7.5 mg and ≤ 4 mg respectively compared with 33% and 7% in the placebo group.
 
+Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1000 cells/µL during screening.
 A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥ 2 occasions).
 
 The risk of first HES flare over the treatment period was 66 % lower for patients treated with Nucala compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67; p=0.002).
