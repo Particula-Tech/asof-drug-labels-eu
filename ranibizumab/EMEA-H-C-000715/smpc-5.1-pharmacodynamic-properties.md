@@ -35,7 +35,7 @@ Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587
 a p<0.01
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
-Results from both trials indicated that continued ranibizumab treatment may also be of benefit in patients who lost ≥15 letters of best-corrected visual acuity (BCVA) in the first year of treatment.
+Results from both studies indicated that continued ranibizumab treatment may also be of benefit in patients who lost ≥15 letters of best-corrected visual acuity (BCVA) in the first year of treatment.
 
 Statistically significant patient-reported visual functioning benefits were observed in both MARINA and ANCHOR with ranibizumab treatment over the control group as measured by the NEI VFQ-25.
 
@@ -105,7 +105,7 @@ Treatment of visual impairment due to CNV (other than secondary to PM and wet AM
 The clinical safety and efficacy of Lucentis in patients with visual impairment due to CNV have been assessed based on the 12-month data of the double-masked, sham-controlled pivotal study G2301 (MINERVA).
 In this study 178 adult patients were randomised in a 2:1 ratio to receive:
 
-- ranibizumab 0.5 mg at baseline, followed by an individualised dosing regimen driven by disease activity as assessed by visual acuity and/or anatomical parameters (e.g. VA impairment, intra/sub-retinal fluid, haemorrhage or leakage);
+- ranibizumab 0.5 mg at baseline, followed by an individualised dosing regimen driven by disease activity as assessed by visual acuity and/or anatomical parameters (e.g. visual acuity impairment, intra/sub-retinal fluid, haemorrhage or leakage);
 - sham injection at baseline, followed by an individualised treatment regimen driven by disease activity.
 
 At Month 2, all patients received open-label treatment with ranibizumab as needed.
@@ -331,7 +331,8 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
-In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in VA by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start (~12 letters).
+In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in visual acuity by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start
+(~12 letters).
 
 Statistically significant patient-reported benefits in subscales related to near and distance activity were observed with ranibizumab treatment over the control group as measured by the NEI VFQ-25.
 
@@ -395,6 +396,26 @@ Table 10 Outcomes at Week 24 (RAINBOW)
 During the 24 weeks of the study, fewer patients in the ranibizumab 0.2 mg group switched to another treatment modality due to lack of response compared with the laser group (14.9% vs. 24.3%).
 Unfavourable structural outcomes were less frequently reported for ranibizumab 0.2 mg (1 patient, 1.4%) compared with laser therapy (7 patients, 10.1%).
 
+The long-term efficacy and safety of ranibizumab 0.2 mg for the treatment of ROP in preterm infants have been assessed in study H2301E1 (RAINBOW extension), an extension study of study H2301 (RAINBOW), following patients to their 5th birthday.
+
+The primary objective was to evaluate visual function at the patient’s 5th birthday visit by assessing visual acuity using Early Treatment Diabetic Retinopathy Study (ETDRS) with Lea symbols optotypes in the better-seeing eye (the eye with the higher ETDRS score).
+An ETDRS score in patients who completed the 5th birthday visit was recorded for 83.3% (45/54) and 76.6% (36/47) of patients in the ranibizumab 0.2 mg arm and the laser arm, respectively.
+The least-squares (LS) mean (SE) was numerically higher in the ranibizumab 0.2 mg arm (66.8 [1.95]) compared to the laser arm (62.1 [2.18]) with a difference in LS mean ETDRS score of 4.7 (95%
+CI: -1.1, 10.5).
+The categorised visual acuity outcomes in the better-seeing eye at the patients’ 5th birthday is presented in Table 11.
+
+Table 11 Visual acuity outcomes in the better-seeing eye1 at the patients’ 5th birthday visit
+
+| Visual acuity category | Ranibizumab 0.2 mg N=61 n (%) | Laser |
+| --- | --- | --- |
+|  |  | N=54 |
+|  |  | n (%) |
+| ≥1 to ≤34 letters | 1 (1.6) | 2 (3.7) |
+| ≥35 to ≤70 letters | 24 (39.3) | 23 (42.6) |
+| ≥71 letters | 20 (32.8) | 11 (20.4) |
+| 1 The better-seeing eye is the eye with a higher ETDRS letter score at the 5th birthday visit. If both |  |  |
+| eyes have the same ETDRS letter score, then the right eye is assigned as the better-seeing eye. |  |  |
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO, visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).
 In addition the European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in the following subsets of the paediatric population for ROP: term newborn infants, infants, children and adolescents.
 
@@ -402,6 +423,5 @@ In addition the European Medicines Agency has waived the obligation to submit th
 
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
 
-The safety and efficacy of ranibizumab have not yet been established in paediatric patients.
-
+The safety and efficacy of ranibizumab 0.5 mg in pre-filled syringe have not been studied in paediatric patients.
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).

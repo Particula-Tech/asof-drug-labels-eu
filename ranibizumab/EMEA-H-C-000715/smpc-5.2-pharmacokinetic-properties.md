@@ -15,7 +15,6 @@ In RVO patients, 48.2% (253 of 525) had renal impairment (36.4% mild, 9.5% moder
 Systemic clearance was slightly lower, but this was not clinically significant.
 
 Hepatic impairment: No formal studies have been conducted to examine the pharmacokinetics of Lucentis in patients with hepatic impairment.
-
 Paediatric population
 
 Following intravitreal administration of Lucentis to preterm infants with ROP at a dose of 0.2 mg (per eye), serum ranibizumab concentrations were higher than those observed in neovascular AMD adult patients receiving 0.5 mg in one eye.

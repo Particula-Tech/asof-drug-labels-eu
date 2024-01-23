@@ -53,8 +53,8 @@ Treatment should be discontinued in subjects with rhegmatogenous retinal detachm
 Paediatric population
 
 The warnings and precautions for adults also apply to preterm infants with ROP.
-Long-term safety in preterm infants with ROP has been studied for 2 years in the RAINBOW extension trial and showed no new safety signals.
-The safety profile in preterm infants has not been established beyond 2 years.
+Long-term safety in preterm infants with ROP has been studied in the RAINBOW extension study up to the age of five years old.
+The safety profile of ranibizumab 0.2 mg during the extension study was consistent with that observed in the core study at 24 weeks (see section 4.8).
 
 Populations with limited data
 

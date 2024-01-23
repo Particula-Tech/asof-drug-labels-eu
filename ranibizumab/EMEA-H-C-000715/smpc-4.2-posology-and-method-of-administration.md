@@ -39,7 +39,8 @@ The recommended dose for Lucentis in preterm infants is 0.2 mg given as an intra
 This corresponds to an injection volume of 0.02 ml.
 In preterm infants treatment of ROP is initiated with a single injection per eye and may be given bilaterally on the same day.
 In total, up to three injections per eye may be administered within six months of treatment initiation if there are signs of disease activity.
-Most patients (78%) in the clinical study received one injection per eye.
+Most patients (78%) in the 24-week RAINBOW clinical study received one injection per eye.
+Patients who were treated with 0.2 mg in this clinical study did not require additional treatment in the subsequent long-term extension study which followed the patients up to five years of age (see section 5.1).
 The administration of more than three injections per eye has not been studied.
 The interval between two doses injected into the same eye should be at least four weeks.
 

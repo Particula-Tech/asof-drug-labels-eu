@@ -10,7 +10,7 @@ The most frequently reported non-ocular adverse reactions are headache, nasophar
 
 Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
-The adverse reactions experienced following administration of Lucentis in clinical trials are summarised in the table below.
+The adverse reactions experienced following administration of Lucentis in clinical studies are summarised in the table below.
 Tabulated list of adverse reactions#
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -79,16 +79,17 @@ Product-class-related adverse reactions
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients.
 However, there was no consistent pattern among the different haemorrhages.
 There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
-A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical trials in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
+A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical studies in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
 
 Paediatric population
 
-The safety of Lucentis 0.2 mg was studied in a 6month clinical trial (RAINBOW), which included 73 preterm infants with ROP treated with ranibizumab 0.2 mg (see section 5.1).
+The safety of Lucentis 0.2 mg was studied in a 6-month clinical study (RAINBOW), which included 73 preterm infants with ROP treated with ranibizumab 0.2 mg (see section 5.1).
 Ocular adverse reactions reported in more than one patient treated with ranibizumab 0.2 mg were retinal haemorrhage and conjunctival haemorrhage.
 Non-ocular adverse reactions reported in more than one patient treated with ranibizumab 0.2 mg were nasopharyngitis, anaemia, cough, urinary tract infection and allergic reactions.
-Adverse reactions established for adult indications are considered applicable to preterm infants with ROP, though not all were observed in the RAINBOW trial.
-Long-term safety in preterm infants with ROP has been studied for 2 years in the RAINBOW extension trial and showed no new safety signals.
-The safety profile in preterm infants has not been established beyond 2 years.
+Adverse reactions established for adult indications are considered applicable to preterm infants with ROP, though not all were observed in the RAINBOW study.
+
+Long-term safety in preterm infants with ROP has been studied up to the age of five years old in the RAINBOW extension study and showed no new safety signals.
+The safety profile of ranibizumab 0.2 mg during the extension study was consistent with that observed in the core study at 24 weeks.
 
 Reporting of suspected adverse reactions
 

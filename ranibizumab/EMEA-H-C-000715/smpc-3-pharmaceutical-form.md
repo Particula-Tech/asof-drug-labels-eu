@@ -2,4 +2,4 @@
 
 Solution for injection.
 
-Clear, colourless to pale yellow aqueous solution.
+Clear, colourless to pale brownish-yellow aqueous solution.
