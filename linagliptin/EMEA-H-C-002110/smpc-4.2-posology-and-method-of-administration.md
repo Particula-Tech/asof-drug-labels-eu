@@ -16,8 +16,9 @@ Elderly
 No dose adjustment is necessary based on age.
 
 Paediatric population
-The safety and efficacy of linagliptin in children and adolescents has not yet been established.
-No data are available.
+A clinical trial did not establish efficacy in paediatric patients 10 to 17 years of age (see section 4.8, 5.1 and 5.2).
+Therefore, treatment of children and adolescents with linagliptin is not recommended.
+Linagliptin has not been studied in paediatric patients under 10 years of age.
 Method of administration
 The tablets can be taken with or without a meal at any time of the day.
 If a dose is missed, it should be taken as soon as the patient remembers.

@@ -9,6 +9,7 @@ Based on these results and in vivo interaction studies, linagliptin is considere
 In vivo assessment of interactions
 Effects of other medicinal products on linagliptin
 Clinical data described below suggest that the risk for clinically meaningful interactions by co-administered medicinal products is low.
+
 Rifampicin: multiple co-administration of 5 mg linagliptin with rifampicin, a potent inductor of P-glycoprotein and CYP3A4, resulted in a 39.6% and 43.8% decreased linagliptin steady-state AUC and Cmax, respectively, and about 30% decreased DPP-4 inhibition at trough.
 Thus, full efficacy of linagliptin in combination with strong P-gp inducers might not be achieved, particularly if these are administered long-term.
 Co-administration with other potent inducers of P-glycoprotein and CYP3A4, such as carbamazepine, phenobarbital and phenytoin has not been studied.
