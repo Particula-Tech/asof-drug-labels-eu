@@ -16,9 +16,9 @@ In clinical studies, IRRs were reported in approximately half of all patients tr
 
 The majority of IRRs occurred at the first infusion and were grade 1-2 (see section 4.8).
 Four percent of all patients had an IRR at more than one infusion.
-Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, laryngeal oedema and pulmonary oedema.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, laryngeal oedema, pulmonary oedema and ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma).
 Symptoms predominantly included nasal congestion, cough, throat irritation, chills, vomiting and nausea.
-Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus and hypotension (see section 4.8).
+Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus, hypotension and blurred vision (see section 4.8).
 
 Patients should be pre-medicated with antihistamines, antipyretics and corticosteroids to reduce the risk of IRRs prior to treatment with DARZALEX.
 DARZALEX infusion should be interrupted for IRRs of any severity and medical management/supportive treatment for IRRs should be instituted as needed.
@@ -27,7 +27,8 @@ If an anaphylactic reaction or life-threatening (grade 4) infusion reaction occu
 DARZALEX therapy should be discontinued immediately and permanently (see sections 4.2 and 4.3).
 
 To reduce the risk of delayed IRRs, oral corticosteroids should be administered to all patients following DARZALEX infusions.
-Additionally the use of post-infusion medicinal products (e.g. inhaled corticosteroids, short and long acting bronchodilators) should be considered for patients with a history of chronic obstructive pulmonary disease to manage respiratory complications should they occur (see section 4.2).
+Additionally the use of post-infusion medicinal products (e.g. inhaled corticosteroids, short and long acting bronchodilators) should be considered for patients with a history of chronic obstructive pulmonary disease to manage respiratory complications should they occur.
+If ocular symptoms occur, interrupt DARZALEX infusion and seek immediate ophthalmologic evaluation prior to restarting DARZALEX (see section 4.2).
 
 Neutropenia/thrombocytopenia
 
@@ -84,15 +85,16 @@ The median time to onset of IRRs following DARZALEX injection was 3.2 hours (ran
 The majority of IRRs occurred on the day of treatment.
 Delayed IRRs have occurred in 1% of patients.
 
-Signs and symptoms of IRRs may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, and hypotension.
-Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension and tachycardia (see section 4.8).
+Signs and symptoms of IRRs may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, hypotension and blurred vision.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, tachycardia and ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma) (see section 4.8).
 
 Patients should be pre-medicated with antihistamines, antipyretics, and corticosteroids as well as monitored and counselled regarding IRRs, especially during and following the first and second injections.
 If an anaphylactic reaction or life-threatening (grade 4) reactions occur, appropriate emergency care should be initiated immediately.
 
 To reduce the risk of delayed IRRs, oral corticosteroids should be administered to all patients following DARZALEX injection (see section 4.2).
 Patients with a history of chronic obstructive pulmonary disease may require additional post-injection medicinal products to manage respiratory complications.
-The use of post-injection medicinal products (e.g. short- and long-acting bronchodilators and inhaled corticosteroids) should be considered for patients with chronic obstructive pulmonary disease (see section 4.2).
+The use of post-injection medicinal products (e.g. short- and long-acting bronchodilators and inhaled corticosteroids) should be considered for patients with chronic obstructive pulmonary disease.
+If ocular symptoms occur, interrupt DARZALEX and seek immediate ophthalmologic evaluation prior to restarting DARZALEX (see section 4.2).
 
 Complete blood cell counts should be monitored periodically during treatment according to manufacturer’s prescribing information for background therapies.
 In lower body weight patients receiving DARZALEX subcutaneous formulation, higher rates of neutropenia were observed; however, this was not associated with higher rates of serious infections.

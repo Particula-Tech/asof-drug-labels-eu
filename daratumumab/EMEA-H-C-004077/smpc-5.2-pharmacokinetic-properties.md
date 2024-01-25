@@ -18,6 +18,7 @@ The mean (SD) predose (trough) serum concentration at the end of weekly dosing w
 
 Four population PK analyses were performed to describe the PK characteristics of daratumumab and to evaluate the influence of covariates on the disposition of daratumumab in patients with multiple myeloma; analysis 1 (n=223) in patients receiving DARZALEX monotherapy while analysis 2 (n=694), analysis 3 (n=352) and analysis 4 (n=355) were conducted in patients with multiple myeloma that received daratumumab combination therapies.
 Analysis 2 included 694 patients (n=326 for lenalidomide-dexamethasone; n=246 for bortezomib-dexamethasone; n=99 for pomalidomide-dexamethasone; n=11 for bortezomib-melphalan-prednisone; and n=12 for bortezomib-thalidomide-dexamethasone), analysis 3 included 352 patients (bortezomib-melphalan-prednisone) and analysis 4 included 355 patients (lenalidomide-dexamethasone).
+
 Based on the population PK analysis of daratumumab monotherapy (analysis 1), daratumumab steady state is achieved approximately 5 months into the every 4-week dosing period (by the 21st infusion), and the mean (SD) ratio of Cmax at steady-state to Cmax after the first dose was 1.6 (0.5).
 The mean (SD) central volume of distribution is 56.98 (18.07) mL/kg.
 
@@ -49,6 +50,7 @@ No formal studies of daratumumab in patients with hepatic impairment have been c
 Changes in hepatic function are unlikely to have any effect on the elimination of daratumumab since IgG1 molecules such as daratumumab are not metabolised through hepatic pathways.
 Four individual population PK analyses were performed in patients receiving daratumumab monotherapy or various combination therapies (Analyses 1-4), and included a total of 1404 patients with normal hepatic function (total bilirubin [TB] and aspartate aminotransferase [AST] ≤upper limit of normal [ULN]), 189 with mild hepatic impairment (TB 1.0 x to 1.5 x ULN or AST > ULN) and 8 patients with moderate (TB > 1.5 x to 3.0 x ULN; n=7), or severe (TB > 3.0 x ULN; n=1) hepatic impairment.
 No clinically important differences in the exposure to daratumumab were observed between patients with hepatic impairment and those with normal hepatic function.
+
 Race
 Based on four individual population PK analyses in patients receiving either daratumumab monotherapy or various combination therapies (analyses 1-4), the exposure to daratumumab was similar between white (n=1371) and non-white subjects (n=242).
 
@@ -70,10 +72,10 @@ Absorption and distribution
 
 At the recommended dose of 1800 mg in multiple myeloma patients, the absolute bioavailability of DARZALEX solution for subcutaneous injection is 69%, with an absorption rate of 0.012 hour-1, with peak concentrations occurring at 70 to 72 h (Tmax).
 At the recommended dose of 1800 mg in AL amyloidosis patients, the absolute bioavailability was not estimated, the absorption rate constant was 0.77 day-1 (8.31% CV) and peak concentrations occurred at 3 days.
+
 The model predicted mean estimate of the volume of distribution for the central compartment was 5.25 L (36.9% CV) and peripheral compartment (V2) was 3.78 L in daratumumab monotherapy, and the modeled mean estimate of the volume of distribution for V1 was 4.36 L (28.0% CV) and V2 was 2.80 L when daratumumab was administered in combination with pomalidomide and dexamethasone in multiple myeloma patients.
 In AL amyloidosis patients, the model estimated apparent volume of distribution after subcutaneous administration is 10.8 L (3.1% CV).
 These results suggest that daratumumab is primarily localised to the vascular system with limited extravascular tissue distribution.
-
 Metabolism and elimination
 
 Daratumumab exhibits both concentration and time-dependent pharmacokinetics with parallel linear and nonlinear (saturable) elimination that is characteristic of target-mediated clearance.
@@ -97,6 +99,7 @@ Table 17: Daratumumab exposure following administration of DARZALEX subcutaneous
 
 A population PK analysis, using data from DARZALEX solution for subcutaneous injection combination therapy in AL amyloidosis patients, was conducted with data from 211 patients.
 At the recommended dose of 1800 mg, predicted daratumumab concentrations were slightly higher, but generally within the same range, in comparison with multiple myeloma patients.
+
 Table 18: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1800 mg) in patients with AL amyloidosis
 
 | PK parameters | Cycles | subcutaneous daratumumab Median (5th; 95th percentile) |

@@ -28,6 +28,7 @@ Table 6: Adverse reactions in multiple myeloma patients treated with DARZALEX 16
 |  | Influenza |  | 5 | 1* |
 |  | Sepsisa |  | 4 | 4 |
 |  | Cytomegalovirus infectiona |  | 1 | < 1* |
+|  | COVID-19d |  | 7 | 4 |
 |  | Hepatitis B Virus reactivationb | Uncommon | - | - |
 | Blood and lymphatic system disorders | Neutropeniaa | Very common | 44 | 39 |
 |  | Thrombocytopeniaa |  | 31 | 19 |
@@ -67,6 +68,7 @@ Table 6: Adverse reactions in multiple myeloma patients treated with DARZALEX 16
 a Indicates grouping of terms.
 b Post-marketing adverse reaction.
 c Infusion-related reaction includes terms determined by investigators to be related to infusion, see below.
+d Incidence is based on a subset of patients who received at least one dose of study treatment on or after 01 February 2020 (the start of the COVID-19 pandemic) from studies MMY3003, MMY3006, MMY3008 and MMY3013.
 
 Description of selected adverse reactions
 
@@ -77,8 +79,8 @@ Less than 1% of patients had a grade 3/4 IRR with the week 2 or subsequent infus
 The median time to onset of a reaction was 1.5 hours (range: 0 to 72.8 hours).
 The incidence of infusion modifications due to reactions was 36%.
 Median durations of 16 mg/kg infusions for the 1st week, 2nd week and subsequent infusions were approximately 7, 4 and 3 hours respectively.
-Severe IRRs included bronchospasm, dyspnoea, laryngeal oedema, pulmonary oedema, hypoxia, and hypertension.
-Other adverse IRRs included nasal congestion, cough, chills, throat irritation, vomiting and nausea (see section 4.4).
+Severe IRRs included bronchospasm, dyspnoea, laryngeal oedema, pulmonary oedema, ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma), hypoxia, and hypertension.
+Other adverse IRRs included nasal congestion, cough, chills, throat irritation, blurred vision, vomiting and nausea (see section 4.4).
 
 When DARZALEX dosing was interrupted in the setting of ASCT (study MMY3006) for a median of 3.75 (range: 2.4; 6.9) months, upon re-initiation of DARZALEX the incidence of IRRs was 11% at first infusion following ASCT.
 Infusion rate/dilution volume used upon re-initiation was that used for the last DARZALEX infusion prior to interruption due to ASCT.
@@ -97,6 +99,7 @@ Newly diagnosed patient studies: D-VMP: 23%, VMP: 15%; DRd: 32%, Rd: 23%; D-VTd:
 Pneumonia was the most commonly reported severe (grade 3 or 4) infection across studies.
 In active controlled studies, discontinuations from treatment due to infections occurred in 1-4% of patients.
 Fatal infections were primarily due to pneumonia and sepsis.
+
 In patients receiving DARZALEX combination therapy, fatal infections (grade 5) were reported as follows:
 Relapsed/refractory patient studies: DVd: 1%, Vd: 2%; DRd: 2%, Rd: 1%; DPd: 2%
 Newly diagnosed patient studies: D-VMP: 1%, VMP: 1%; DRd: 2%, Rd: 2%; DVTd: 0%, VTd: 0%.
@@ -152,6 +155,7 @@ Table 6: Adverse reactions in multiple myeloma and AL amyloidosis patients treat
 |  | Urinary tract infection | Common | 6 | 1 |
 |  | Influenza |  | 4 | 1# |
 |  | Sepsisa |  | 4 | 3 |
+|  | COVID-19g |  | 7 | 4 |
 |  | Cytomegalovirus infectiona | Uncommon | < 1 | < 1# |
 |  | Hepatitis B Virus reactivationa |  | < 1 | < 1 |
 | Blood and lymphatic system disorders | Neutropeniaa | Very common | 39 | 33 |
@@ -205,14 +209,15 @@ d Injection site reactions includes terms determined by investigators as related
 e Frequency based on daratumumab subcutaneous studies only (N=832).
 f Frequency based on daratumumab intravenous studies only (N=2324).
 Note: Based on 3156 multiple myeloma and AL amyloidosis patients treated with daratumumab intravenous or daratumumab subcutaneous.
+g Incidence is based on a subset of patients who received at least one dose of study treatment on or after 01 February 2020 (the start of the COVID-19 pandemic) from studies MMY3003, MMY3006, MMY3008 and MMY3013.
 
 In clinical studies (monotherapy and combination treatments; N=832) with DARZALEX subcutaneous formulation, the incidence of any grade IRRs was 8.2% with the first injection of DARZALEX
 (1800 mg, week 1), 0.4% with the week 2 injection, and 1.1% with subsequent injections.
 Grade 3 IRRs were seen in 0.8% of patients.
 No patients had grade 4 IRRs.
 
-Signs and symptoms of IRR may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, and hypotension.
-Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension and tachycardia (see section 4.4).
+Signs and symptoms of IRR may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, blurred vision and hypotension.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, tachycardia and ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma) (see section 4.4).
 
 Injection site reactions (ISRs)
 In clinical studies (N=832) with DARZALEX subcutaneous formulation, the incidence of any grade injection site reaction was 7.7%.
@@ -228,6 +233,7 @@ In active-controlled studies, discontinuations from treatment due to infections 
 In patients with multiple myeloma receiving intravenous daratumumab combination therapy, the following were reported:
 Grade 3 or 4 infections:
 Grade 5 (fatal) infections:
+
 In patients with multiple myeloma receiving DARZALEX subcutaneous formulation combination therapy, the following were reported:
 Grade 3 or 4 infections: DPd: 28%, Pd: 23%
 Grade 5 (fatal) infections: DPd: 5%, Pd: 3%

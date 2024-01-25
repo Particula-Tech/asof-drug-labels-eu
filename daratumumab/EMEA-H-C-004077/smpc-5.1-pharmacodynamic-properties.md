@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and antibody drug conjugates, CD38 (Clusters of Differentiation 38) inhibitors, ATC code: L01FC01.
+
 Mechanism of action
 
 Daratumumab is an IgG1κ human monoclonal antibody (mAb) that binds to the CD38 protein expressed at a high level on the surface of multiple myeloma tumour cells, as well as other cell types and tissues at various levels.
@@ -262,7 +263,12 @@ p < 0.0001), representing a 56% reduction in the risk of disease progression or 
 
 Figure 6: Kaplan-Meier curve of PFS in study MMY3003
 
+After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044).
+The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
+Figure 7: Kaplan-Meier curve of OS in study MMY3003
+
 Additional efficacy results from study MMY3003 are presented in table 11 below.
+
 Table 11: Additional efficacy results from study MMY3003
 
 | Response evaluable patient number | DRd (n=281) | Rd (n=276) |
@@ -286,9 +292,6 @@ c Mantel-Haenszel estimate of the common odds ratio is used.
 An odds ratio > 1 indicates an advantage for DRd.
 d p-value is from a Fisher’s exact test.
 
-Median OS was not reached for either treatment group.
-With an overall median follow-up of 13.5 months, the hazard ratio for OS was 0.64 (95% CI: 0.40, 1.01; p=0.0534).
-
 Combination treatment with bortezomib
 Study MMY3004, an open-label, randomised, active-controlled phase III study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
 Bortezomib was administered by subcutaneous injection or intravenous injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
@@ -306,8 +309,13 @@ Patients refractory to bortezomib were excluded from the study.
 
 With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3004 demonstrated an improvement in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value < 0.0001).
 Results of an updated PFS analysis after a median follow-up of 50 months continued to show an improvement in PFS for patients in the DVd arm compared with the Vd arm.
-Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 7).
-Figure 7: Kaplan-Meier curve of PFS in study MMY3004
+Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 8).
+
+Figure 8: Kaplan-Meier curve of PFS in study MMY3004
+After a median follow-up of 73 months, DVd has shown an OS advantage over the Vd arm (HR=0.74; 95% CI: 0.59, 0.92; p=0.0075).
+The median OS was 49.6 months in the DVd arm and 38.5 months in the Vd arm.
+
+Figure 9: Kaplan-Meier curve of OS in study MMY3004
 
 Additional efficacy results from study MMY3004 are presented in table 12 below.
 
@@ -333,7 +341,6 @@ b Based on Intent-to-treat population and threshold of 10-5.
 c Mantel-Haenszel estimate of the common odds ratio is used.
 An odds ratio > 1 indicates an advantage for DVd.
 d p-value is from Fisher’s exact test.
-Median OS was not reached for either treatment group.With an overall median follow-up of 7.4 months (95% CI: 0.0, 14.9), the hazard ratio for OS was 0.77 (95% CI: 0.47, 1.26; p=0.2975).
 
 Cardiac electrophysiology
 
@@ -453,6 +460,9 @@ With a median follow-up of 16.9 months, the primary analysis of PFS in study MMY
 p-value = 0.0018), representing a 37% reduction in the risk of disease progression or death for patients treated with D-Pd versus Pd.
 Figure 1: Kaplan-Meier curve of PFS in study MMY3013
 
+An additional planned follow-up analysis of OS after a median follow-up of 39.6 months was performed.
+At OS maturity of 57%, the median OS was 34.4 months in the D-Pd arm and 23.7 months in the Pd arm (HR [95% CI]: 0.82 [0.61, 1.11]).
+
 Additional efficacy results from study MMY3013 are presented in table 9 below.
 
 Table 9: Efficacy results from study MMY3013a
@@ -471,7 +481,6 @@ D-Pd=daratumumab-pomalidomide-dexamethasone; Pd=pomalidomide-dexamethasone; MRD=
 b p-value from Cochran Mantel-Haenszel Chi-Squared test adjusted for stratification factors.
 c MRD Negative rate is based on the intent-to-treat population and a threshold of 10-5.
 d p-value from Fisher’s exact test.
-
 In responders, the median time to response was 1 month (range: 0.9 to 9.1 months) in the D-Pd group and 1.9 months (range: 0.9 to 17.3 months) in the Pd group.
 The median duration of response had not been reached in the D-Pd group (range: 1 to 34.9+ months) and was 15.9 months (range: 1+ to 24.8 months) in the Pd group.
 
@@ -510,6 +519,7 @@ Table 10: Efficacy results from study AMY3001a
 D-VCd=daratumumab-bortezomib-cyclophosphamide-dexamethasone; VCd=bortezomib-cyclophosphamide-dexamethasone. a Based on intent-to-treat population.
 c MOD-PFS defined as hematologic progression, major organ (cardiac or renal) deterioration or death.
 d Nominal p-value from inverse probability censoring weighted log-rank test.
+
 In responders, the median time to HemCR was 60 days (range: 8 to 299 days) in the D-VCd group and 85 days (range: 14 to 340 days) in the VCd group.
 The median time to VGPR or better was 17 days (range: 5 to 336 days) in the D-VCd group and 25 days (range: 8 to 171 days) in the VCd group.
 The median duration of HemCR had not been reached in either arm.
@@ -586,14 +596,20 @@ p < 0.0001), representing a 56% reduction in the risk of disease progression or 
 
 Figure 7: Kaplan-Meier curve of PFS in study MMY3003
 
+Figure 8: Kaplan-Meier curve of OS in study MMY3003
+
 Additional efficacy results from study MMY3003 are presented in table 15 below.
+
 Table 15: Additional efficacy results from study MMY3003
 
 Study MMY3004, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
 On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 8).
-Figure 8: Kaplan-Meier curve of PFS in study MMY3004
+Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 9).
+
+Figure 9: Kaplan-Meier curve of PFS in study MMY3004
+
+Figure 10: Kaplan-Meier curve of OS in study MMY3004
 
 Additional efficacy results from study MMY3004 are presented in table 16 below.
 

@@ -19,7 +19,3 @@ A decision must be made whether to discontinue breast-feeding or to discontinue/
 Fertility
 
 No data are available to determine potential effects of daratumumab on fertility in males or females (see section 5.3).
-
-[DARZALEX 1800 mg solution for injection]
-
-It is unknown whether daratumumab is excreted in human or milk.

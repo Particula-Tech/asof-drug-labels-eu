@@ -19,6 +19,7 @@ Prepare the solution for infusion using aseptic technique as follows:
 - Since DARZALEX does not contain a preservative, diluted solutions should be administered within 15 hours (including infusion time) at room temperature (15 °C-25 °C) and in room light.
 - If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions (2 °C-8 °C) and protected from light.
   Do not freeze.
+  If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 - Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 or 0.2 micrometre).
   Polyurethane (PU), polybutadiene (PBD), PVC, PP or PE administration sets must be used.
 - Do not infuse DARZALEX concomitantly in the same intravenous line with other agents.
@@ -28,7 +29,6 @@ Prepare the solution for infusion using aseptic technique as follows:
 [DARZALEX 1800 mg solution for injection]
 
 DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
-
 DARZALEX solution for subcutaneous injection should be a clear to opalescent and colourless to yellow solution.
 
 DARZALEX solution for subcutaneous injection is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
@@ -44,6 +44,5 @@ Prepared syringe
 
 Prepare the dosing syringe in controlled and validated aseptic conditions.
 Once transferred from the vial into the syringe, store DARZALEX solution for subcutaneous injection for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and ambient light (see section 6.3).
-If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
