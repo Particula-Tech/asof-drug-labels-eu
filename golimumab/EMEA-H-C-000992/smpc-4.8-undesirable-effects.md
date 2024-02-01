@@ -18,8 +18,7 @@ Uncommon: Sepsis including septic shock, pyelonephritis
 Rare: Tuberculosis, opportunistic infections (such as invasive fungal infections [histoplasmosis, coccidioidomycosis, pneumocytosis], bacterial, atypical mycobacterial infection and protozoal), hepatitis B reactivation, bacterial arthritis, infective bursitis
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
-Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
-Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
+Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
 Blood and lymphatic system disorders
 Common: Leukopenia (including neutropenia), anaemia
 Uncommon: Thrombocytopenia, pancytopenia
@@ -95,7 +94,6 @@ The incidence of lymphoma in golimumab-treated patients during the pivotal trial
 In the controlled and uncontrolled portions of these trials with a median follow-up of up to 3 years, a greater incidence of lymphoma was observed in patients receiving golimumab 100 mg compared with patients receiving golimumab 50 mg.
 Lymphoma was diagnosed in 11 subjects (1 in the golimumab 50 mg treatment groups and 10 in the golimumab 100 mg treatment groups) with an incidence (95% CI) per 100 subject-years of follow-up of 0.03 (0.00, 0.15) and 0.13 (0.06, 0.24) events for golimumab 50 mg and 100 mg respectively and 0.00 (0.00, 0.57) events for the placebo.
 The majority of lymphomas occurred in study GO-AFTER, which enrolled patients previously exposed to anti-TNF agents who had longer disease duration and more refractory disease (see section 4.4).
-
 Malignancies other than lymphoma
 In the controlled periods of pivotal trials and through approximately 4 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the golimumab and the control groups.
 Through approximately 4 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general population.
@@ -131,6 +129,7 @@ In general these elevations were asymptomatic and the abnormalities decreased or
 No cases were reported in the controlled and uncontrolled periods of the nr-Axial SpA study (up to 1 year).
 In the controlled periods of the pivotal UC trials, of golimumab induction, ALT elevations ≥5 x ULN occurred in similar proportions of golimumab-treated patients compared to placebo-treated patients (0.3% to 1.0%, respectively).
 In the controlled and uncontrolled periods of the pivotal UC trials with a median follow-up of approximately 2 years, the proportion of patients with ALT elevations ≥5 x ULN was 0.8% in patients receiving golimumab during the maintenance portion of the UC study.
+
 Within the RA, PsA, AS, and nr-Axial SpA pivotal trials, one patient in an RA trial with pre-existing liver abnormalities and confounding medicinal products treated with golimumab developed non-infectious fatal hepatitis with jaundice.
 The role of golimumab as a contributing or aggravation factor cannot be excluded.
 
@@ -148,7 +147,7 @@ The frequency of anti-dsDNA antibodies at 1 year of follow-up in patients anti-d
 
 Paediatric population
 Polyarticular juvenile idiopathic arthritis
-The safety of golimumab has been studied in a phase III study of 173 pJIA patients from 2 to 17 years of age.
+The safety of golimumab has been studied in a Phase III study of 173 pJIA patients from 2 to 17 years of age.
 The average follow-up was approximately two years.
 In this study, the type and frequency of adverse events reported were generally similar to those seen in adult RA studies.
 
@@ -162,6 +161,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 ARs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
 
 Table 1
+Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
+Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
 
 [Simponi 100 mg solution for injection in pre-filled pen.]
 

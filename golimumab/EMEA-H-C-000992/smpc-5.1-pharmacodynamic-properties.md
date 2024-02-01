@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB06
-
 Mechanism of action
 Golimumab is a human monoclonal antibody that forms high affinity, stable complexes with both the soluble and transmembrane bioactive forms of human TNF-α, which prevents the binding of TNF-α to its receptors.
 
@@ -122,6 +121,7 @@ In GO-BEFORE the primary analysis in patients with moderate to severe rheumatoid
 At week 52 in the overall population, the percentage of patients in the Simponi 50 mg + MTX group who achieved an ACR response was generally higher but not significantly different when compared with MTX alone (see Table 4).
 Additional analyses were performed in subsets representative of the indicated population of patients with severe, active and progressive RA.
 A generally greater effect of Simponi 50 mg + MTX versus MTX alone was demonstrated in the indicated population compared with the overall population.
+
 In GO-FORWARD and GO-AFTER, clinically meaningful and statistically significant responses in Disease Activity Scale (DAS)28 were observed at each prespecified time point, at week 14 and at week 24 (p ≤0.001).
 Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 responses were maintained through week 104.
 Among patients remaining in the study and treated with Simponi, DAS28 responses were similar from week 104 through week 256.
@@ -212,6 +212,7 @@ Key efficacy outcomes from GO-REVEAL
 
 * p < 0.05 for all comparisons;
 a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint b Psoriasis Area and Severity Index c Based on the subset of patients with ≥3% BSA involvement at baseline, 79 patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50 mg group.
+
 Responses were observed at the first assessment (week 4) after the initial Simponi administration.
 Similar ACR 20 responses at week 14 were observed in patients with polyarticular arthritis with no rheumatoid nodules and asymmetric peripheral arthritis PsA subtypes.
 The number of patients with other PsA subtypes was too small to allow meaningful assessment.
@@ -319,6 +320,9 @@ Health-related quality of life as measured by the physical component score of th
 Among patients remaining in the study and treated with Simponi, improvements in physical function and health-related quality of life were similar from week 24 through week 256.
 
 Non-radiographic axial spondyloarthritis
+
+GO-AHEAD
+
 The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-AHEAD) in 197 adult patients with severe active nr-Axial SpA (defined as those patients meeting the ASAS classification criteria of axial spondyloarthritis but did not meet the modified New York criteria for AS).
 Patients enrolled in this study had active disease (defined as a BASDAI ≥4 and a Visual Analogue Scale (VAS) for total back pain of ≥4, each on a scale of 0-10 cm) despite current or previous NSAID therapy and had not previously been treated with any biological agents including anti-TNF therapy.
 Patients were randomly assigned to placebo or Simponi 50 mg administered subcutaneously every 4 weeks.
@@ -364,6 +368,42 @@ For all of the endpoints described above, statistically significant results were
 
 In both the AT and OSI populations, the improvements in signs and symptoms, spinal mobility, physical function, quality of life, and productivity observed at week 16 among patients treated with Simponi 50 mg continued in those remaining in the study at week 52.
 
+GO-BACK
+
+The efficacy and safety of continued golimumab treatment (full or reduced dosing frequency) compared with treatment withdrawal was assessed in adult patients (18-45 years of age) with active nr-axSpA who demonstrated sustained remission during 10 months of monthly treatment with open-label Simponi (GO-BACK).
+Eligible patients (who achieved a clinical response by Month 4 and an inactive disease status (ASDAS < 1.3) at both Months 7 and 10) entering the double-blind withdrawal phase were randomised to continued monthly treatment with Simponi (full-treatment regimen, N = 63), every 2-month treatment with Simponi (reduced treatment regimen, N = 63) or monthly placebo treatment (treatment withdrawal, N = 62) for up to approximately 12 months.
+
+The primary efficacy endpoint was the proportion of patients without a flare of disease activity.
+Patients who experienced a flare, i.e., had an ASDAS collected at 2 consecutive assessments that both showed either an absolute score of ≥2.1 or post-withdrawal increase of ≥1.1 relative to Month 10 (end of open-label period), reinitiated monthly Simponi in an open-label retreatment phase to characterise clinical response.
+Clinical response after double-blind treatment withdrawal
+Among the 188 patients with inactive disease who received at least one dose of double-blind treatment, a significantly (p < 0.001) greater proportion of patients did not experience a disease flare when continuing Simponi with either the full-treatment (84.1%), or reduced treatment (68.3%) regimens compared with treatment withdrawal (33.9%) (Table 7).
+
+Table 7
+Analysis of the proportion of participants without a flarea
+Full analysis set population (Period 2 – Double-blind)
+
+| Treatment | n/N | % | Difference in % vs Placebo |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Estimate (95% CI)b | p-Valueb |
+| GLM SC QMT GLM SC Q2MT Placebo | 53/63 43/63 21/62 | 84.1 68.3 33.9 | 50.2 (34.1, 63.6) 34.4 (17.0, 49.7) | < 0.001 < 0.001 |
+
+Full Analysis Set includes all randomised participants who attained inactive disease in period 1 and received at least one dose of blinded study treatment.
+a Defined as ASDAS at 2 consecutive visits that both show either absolute score ≥2.1 or post-withdrawal increase of ≥1.1 relative to Month 10 (Visit 23).
+b Type I error rate over the multiple treatment comparisons (GLM SC QMT vs Placebo and GLM SC Q2MT vs Placebo) was controlled using a sequential (step-down) testing procedure.
+Derived based on the stratified
+Miettinen and Nurminen method with CRP level (> 6 mg/L or ≤6 mg/L) as stratification factor.
+Participants who discontinued period 2 prematurely and prior to a ‘flare’ will be counted as having a ‘flare’.
+N = Total number of participants; n = number of participants without a flare; GLM = golimumab;
+SC = subcutaneous, QMT = monthly dosing; Q2MT = every other month dosing.
+
+The difference in time-to-first flare between the treatment withdrawal group and either of the Simponi Treatment groups is shown in Figure 1 (log-rank p < 0.0001 for each comparison).
+In the placebo group, flares started approximately 2 months after Simponi was withdrawn, with the majority of flares occurring within 4 months of treatment withdrawal (Figure 1).
+
+Figure 1: Kaplan-Meier Analysis of Time-to-First Flare
+Clinical response to retreatment for a disease flare
+Clinical response was defined as a BASDAI improvement of ≥2 or ≥50% relative to the mean of the 2 consecutive BASDAI scores ascribed to the disease flare.
+Of the 53 participants in the reduced dosing or treatment withdrawal regimens who had a confirmed disease flare, 51 (96.2%) attained a clinical response to Simponi within the first 3 months of retreatment, although fewer patients (71.7%) were able to sustain it for all 3 months.
+
 Ulcerative colitis
 The efficacy of Simponi was evaluated in two randomised, double-blind, placebo-controlled clinical studies in adult patients.
 
@@ -379,7 +419,8 @@ Corticosteroids were to be tapered at the start of the maintenance study.
 The efficacy of Simponi through week 54 was assessed in this study.
 Patients who completed the maintenance study through week 54 continued treatment in a study-extension, with efficacy evaluated through week 216.
 Efficacy evaluation in the study extension was based on changes in corticosteroid use, Physician’s Global Assessment (PGA) of disease activity, and improvement in quality of life as measured by Inflammatory Bowel Disease Questionnaire (IBDQ).
-Table 7
+
+Table 8
 Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
 
 | PURSUIT-Induction |  |  |  |
@@ -424,9 +465,8 @@ Paediatric population
 
 The 154 children who achieved an ACR Ped 30 response at week 16 entered Part 2 of the study, the randomised withdrawal phase, and received Simponi 30 mg/m2 (maximum 50 mg) + MTX or placebo + MTX every 4 weeks.
 
-At week 16, all ACR Ped components demonstrated clinically relevant improvement from baseline (see Table 8).
-
-Table 8
+At week 16, all ACR Ped components demonstrated clinically relevant improvement from baseline (see Table 9).
+Table 9
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Simponi in one or more subsets of the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
 

@@ -27,7 +27,7 @@ Treatment with 50 mg or 100 mg golimumab subcutaneous every 4 weeks during maint
 
 In UC patients treated with 50 mg or 100 mg golimumab subcutaneously every 4 weeks, concomitant use of immunomodulators did not have a substantial effect on steady-state trough levels of golimumab.
 
-Patients who developed anti-golimumab antibodies generally had low trough steady-state serum concentrations of golimumab (see section 5.1).
+Patients who developed antibodies to golimumab generally had low trough steady-state serum concentrations of golimumab (see section 5.1).
 
 Linearity
 Golimumab exhibited approximately dose-proportional pharmacokinetics in patients with RA over the dose range of 0.1 to 10.0 mg/kg following a single intravenous dose.
