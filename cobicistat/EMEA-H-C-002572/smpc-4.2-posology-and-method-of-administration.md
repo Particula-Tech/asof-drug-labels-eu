@@ -49,11 +49,6 @@ The safety and efficacy of cobicistat co-administered with atazanavir in childre
 The safety and efficacy of cobicistat co-administered with darunavir in children aged 0 to less than 12 years, or weighing less than 40 kg have not been established.
 No data are available.
 
-Pregnancy
-Treatment with cobicistat and atazanavir or darunavir during pregnancy results in lower atazanavir or darunavir exposure.
-Therefore, therapy with cobicistat and atazanavir or darunavir should not be initiated during pregnancy, and women who become pregnant during therapy with cobicistat and atazanavir or darunavir should be switched to an alternative regimen (see sections 4.4 and 4.6).
-Darunavir/ritonavir may be considered as an alternative regimen.
-
 Method of administration
 
 Tybost should be taken orally, once daily with food (see section 5.2).
