@@ -6,6 +6,10 @@ Polyethylene (PE)/Copolymer/Aluminium (Al)/Copolymer/Polyethylene (PE) polyfoil 
 Tube of 10 g and 30g
 Polyethylene (PE)/Copolymer/Aluminium (Al)/Copolymer/Polyethylene (PE) polyfoil tubes with a high density polyethylene (HDPE) head and polypropylene (PP) child resistant closure.
 
+And
+
+Polyethylene (PE)/ Polyethylene (PE)/Copolymer/Aluminium (Al)/Polyethylene (PE)/Polyethylene high density (PEHD) and Linear low density polyethylene (LLDPE) polyfoil tubes with polypropylene (PP) child resistant closure.
+
 Pump of 30 g
 Multidose container with airless pump system with child resistant closure.
 Polypropylene (PP) / Thermoplastic Polyolefin (TPO) / high density polyethylene (HDPE) and polypropylene (PP) child resistant closure.
