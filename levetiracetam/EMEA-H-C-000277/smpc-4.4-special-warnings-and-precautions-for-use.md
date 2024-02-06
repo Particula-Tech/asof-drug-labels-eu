@@ -6,6 +6,7 @@ In patients with severely impaired hepatic function, assessment of renal functio
 
 Acute Kidney injury
 The use of levetiracetam has been very rarely associated with acute kidney injury, with a time to onset ranging from a few days to several months.
+
 Blood cell counts
 Rare cases of decreased blood cell counts (neutropenia, agranulocytosis, leucopenia, thrombocytopenia and pancytopenia) have been described in association with levetiracetam administration, generally at the beginning of the treatment.
 Complete blood cell counts are advised in patients experiencing important weakness, pyrexia, recurrent infections or coagulation disorders (section 4.8).
@@ -26,8 +27,9 @@ If discontinuation is considered, please refer to section 4.2.
 
 Worsening of seizures
 As with other types of antiepileptic drugs, levetiracetam may rarely exacerbate seizure frequency or severity.
-This paradoxical effect was mostly reported within the first month after levetiracetam initiation or increase of the dose, and was reversible upon drug discontinuation or dose decrease.
+This paradoxical effect was mostly reported within the first month after levetiracetam initiation or increase of the dose and was reversible upon drug discontinuation or dose decrease.
 Patients should be advised to consult their physician immediately in case of aggravation of epilepsy.
+Lack of efficacy or seizure worsening has for example been reported in patients with epilepsy associated with sodium voltage-gated channel alpha subunit 8 (SCN8A) mutations.
 
 Electrocardiogram QT interval prolongation
 Rare cases of ECG QT interval prolongation have been observed during the post-marketing surveillance.

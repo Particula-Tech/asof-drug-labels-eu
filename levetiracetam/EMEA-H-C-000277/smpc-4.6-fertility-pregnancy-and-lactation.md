@@ -16,6 +16,7 @@ Physiological changes during pregnancy may affect levetiracetam concentration.
 Decrease in levetiracetam plasma concentrations has been observed during pregnancy.
 This decrease is more pronounced during the third trimester (up to 60% of baseline concentration before pregnancy).
 Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
+
 Breastfeeding
 Levetiracetam is excreted in human breast milk.
 Therefore, breast-feeding is not recommended.

@@ -83,7 +83,7 @@ Dosing adjustment for infants, children and adolescent patients weighing less th
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(2.) 1(44) ml/kg) once daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 (1) Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets.
 (2) A 10.5 mg/kg (0.105 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
@@ -105,7 +105,6 @@ The tablet formulation is not adapted for use in infants and children under the 
 Keppra oral solution is the preferred formulation for use in this population.
 In addition, the available dose strengths of the tablets are not appropriate for initial treatment in children weighing less than 25 kg, for patients unable to swallow tablets or for the administration of doses below 250 mg.
 In all of the above cases Keppra oral solution should be used.
-
 Monotherapy
 
 The safety and efficacy of Keppra in children and adolescents below 16 years as monotherapy treatment have not been established.
@@ -145,7 +144,7 @@ CLcr (ml/min/1.73 m2) = -------------------------------------
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 Adolescents (16 and 17 years of age) weighing 50 kg or more with partial onset seizures with or without secondary generalisation with newly diagnosed epilepsy: Please refer to the above section on
 
@@ -160,11 +159,11 @@ Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and ado
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 [Keppra 1000 mg film-coated tablets]
 
-[140-age( years)] x weight (kg)
+(all sentences already above)
 
 [Keppra 100 mg/ml oral solution]
 
@@ -196,11 +195,9 @@ Infants should start the treatment with Keppra 100 mg/ml oral solution.
 
 Dose recommendations for infants aged from 1 month to less than 6 months:
 
-Weight Starting dose: Maximum dose:
-7 mg/kg twice daily 21 mg/kg twice daily
-
-| 4 kg | 28 mg (0.3 ml) twice daily | 84 mg (0.85 ml) twice daily |
+| Weight | Starting dose: 7 mg/kg twice daily | Maximum dose: 21 mg/kg twice daily |
 | --- | --- | --- |
+| 4 kg | 28 mg (0.3 ml) twice daily | 84 mg (0.85 ml) twice daily |
 | 5 kg | 35 mg (0.35 ml) twice daily | 105 mg (1.05 ml) twice daily |
 | 7 kg | 49 mg (0.5 ml)twice daily | 147 mg (1.5 ml) twice daily |
 
