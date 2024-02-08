@@ -1,3 +1,3 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands.
+CHEPLAPHARM Registration GmbH, Weiler Straße 5e, 79540 Lörrach, Germany.
