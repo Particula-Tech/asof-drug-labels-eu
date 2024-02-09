@@ -20,7 +20,6 @@ This effect occurred at the higher concentrations of 0.3% and 1%.
 The relevance to humans is currently unknown.
 It is unclear whether the effect of tacrolimus is due to systemic immunosuppression or a local effect.
 The risk for humans cannot be completely ruled out as the potential for local immunosuppression with the long-term use of tacrolimus ointment is unknown.
-
 Reproduction toxicity
 Embryo/foetal toxicity was observed in rats and rabbits, but only at doses that caused significant toxicity in maternal animals.
 Reduced sperm function was noted in male rats at high subcutaneous doses of tacrolimus.

@@ -114,13 +114,6 @@ The primary response to vaccination was not affected.
 
 [Protopic 0.1% ointment]
 
-|  | Topical corticosteroid regimen§ (N=485) | Tacrolimus 0.1% (N=487) |
-| --- | --- | --- |
-| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
-
-Improvement ≥ 90% in Physician’s 28.5% 47.7%
-Global Evaluation
-
 |  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
 | --- | --- | --- | --- |
 | Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |

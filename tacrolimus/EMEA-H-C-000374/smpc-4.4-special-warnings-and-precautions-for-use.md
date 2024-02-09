@@ -5,7 +5,7 @@ Physicians should advise patients on appropriate sun protection methods, such as
 Protopic ointment should not be applied to lesions that are considered to be potentially malignant or pre-malignant.
 The development of any new change different from previous eczema within a treated area should be reviewed by the physician.
 
-The use of tacrolimus ointment is not recommended in patients with a skin barrier defect, such as Netherton’s syndrome, lamellar ichthyosis, generalized erythroderma or cutaneous Graft Versus Host Disease.
+The use of tacrolimus ointment is not recommended in patients with a skin barrier defect, such as Netherton’s syndrome, lamellar ichthyosis, generalized erythroderma, pyoderma gangrenosum or cutaneous Graft Versus Host Disease.
 These skin conditions may increase systemic absorption of tacrolimus.
 Post-marketing cases of increased tacrolimus blood level have been reported in these conditions.
 Protopic should not be used in patients with congenital or acquired immunodeficiencies or in patients on therapy that cause immunosuppression.
