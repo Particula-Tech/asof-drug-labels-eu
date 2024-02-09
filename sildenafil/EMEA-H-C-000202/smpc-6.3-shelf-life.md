@@ -5,3 +5,7 @@
 [VIAGRA 50 mg orodispersible tablets]
 
 3 years.
+
+[VIAGRA 50 mg orodispersible films]
+
+2 years.

@@ -23,11 +23,11 @@ Agents for the treatment of erectile dysfunction, including sildenafil, should b
 Prolonged erections and priapism have been reported with sildenafil in post-marketing experience.
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.
-
 Concomitant use with other PDE5 inhibitors or other treatments for erectile dysfunction
 
 The safety and efficacy of combinations of sildenafil with other PDE5 Inhibitors, or other pulmonary arterial hypertension (PAH) treatments containing sildenafil (REVATIO), or other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
+
 Effects on vision
 
 Cases of visual defects have been reported spontaneously in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8).
@@ -57,8 +57,7 @@ Excipients
 The film coating of the tablet contains lactose.
 VIAGRA should not be administered to men with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet.
-Patients on low sodium diets can be informed that this medicinal product is essentially ‘sodium-free’.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 Women
 

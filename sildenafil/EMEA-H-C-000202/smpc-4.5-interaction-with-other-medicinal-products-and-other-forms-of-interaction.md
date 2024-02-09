@@ -7,16 +7,17 @@ Sildenafil metabolism is principally mediated by the cytochrome P450 (CYP) isofo
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 
 In vivo studies
-Population pharmacokinetic analysis of clinical trial data indicated a reduction in sildenafil clearance when co-administered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, cimetidine).
+Population pharmacokinetic analysis of clinical study data indicated a reduction in sildenafil clearance when co-administered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, cimetidine).
 Although no increased incidence of adverse events was observed in these patients, when sildenafil is administered concomitantly with CYP3A4 inhibitors, a starting dose of 25 mg should be considered.
-Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1,000% (11-fold) increase in sildenafil plasma AUC.
+
+Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1 000% (11-fold) increase in sildenafil plasma AUC.
 At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/mL, compared to approximately 5 ng/mL when sildenafil was administered alone.
 This is consistent with ritonavir’s marked effects on a broad range of P450 substrates.
 Sildenafil had no effect on ritonavir pharmacokinetics.
 Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
 
 Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state
-(1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+(1 200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
 Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
@@ -31,7 +32,6 @@ Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect
 Although specific interaction studies were not conducted for all medicinal products, population pharmacokinetic analysis showed no effect of concomitant treatment on sildenafil pharmacokinetics when grouped as CYP2C9 inhibitors (such as tolbutamide, warfarin, phenytoin), CYP2D6 inhibitors (such as selective serotonin reuptake inhibitors, tricyclic antidepressants), thiazide and related diuretics, loop and potassium sparing diuretics, angiotensin converting enzyme inhibitors, calcium channel blockers, beta-adrenoreceptor antagonists or inducers of CYP450 metabolism (such as rifampicin, barbiturates).
 In a study of healthy male volunteers, co-administration of the endothelin antagonist, bosentan, (an inducer of CYP3A4 [moderate], CYP2C9 and possibly of CYP2C19) at steady state (125 mg twice a day) with sildenafil at steady state (80 mg three times a day) resulted in 62.6% and 55.4% decrease in sildenafil AUC and Cmax, respectively.
 Therefore, concomitant administration of strong CYP3A4 inducers, such as rifampin, is expected to cause greater decreases in plasma concentrations of sildenafil.
-
 Nicorandil is a hybrid of potassium channel activator and nitrate.
 Due to the nitrate component it has the potential to result in a serious interaction with sildenafil.
 
@@ -42,6 +42,7 @@ Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2
 Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
+
 In vivo studies
 Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).
 
@@ -63,16 +64,15 @@ No significant interactions were shown when sildenafil (50 mg) was co-administer
 Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid
 (150 mg).
 
-Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
+Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dL.
 
-Pooling of the following classes of antihypertensive medication: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
+Pooling of the following classes of antihypertensive medicinal products: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
 In a specific interaction study, where sildenafil (100 mg) was co-administered with amlodipine in hypertensive patients, there was an additional reduction on supine systolic blood pressure of 8 mmHg.
 The corresponding additional reduction in supine diastolic blood pressure was 7 mmHg.
 These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section 5.1).
-
 Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
 
-In healthy male volunteers, sildenafil at steady state (80 mg t.i.d.) resulted in a 49.8% increase in bosentan AUC and a 42% increase in bosentan Cmax (125 mg b.i.d.).
+In healthy male volunteers, sildenafil at steady state (80 mg three times a day) resulted in a 49.8% increase in bosentan AUC and a 42% increase in bosentan Cmax (125 mg twice a day).
 
 Addition of a single dose of sildenafil to sacubitril/valsartan at steady state in patients with hypertension was associated with a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone.
 Therefore, caution should be exercised when sildenafil is initiated in patients treated with sacubitril/valsartan.
@@ -81,4 +81,6 @@ Therefore, caution should be exercised when sildenafil is initiated in patients 
 
 When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 μM).
+[VIAGRA 50 mg orodispersible films]
+
+Pooling of the following classes of antihypertensive medicinal products: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the adverse events profile in patients taking sildenafil compared to placebo treatment.

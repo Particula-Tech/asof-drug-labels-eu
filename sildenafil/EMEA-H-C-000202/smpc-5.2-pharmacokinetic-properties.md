@@ -5,13 +5,13 @@ Absorption
 Sildenafil is rapidly absorbed.
 Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
 The mean absolute oral bioavailability is 41% (range 25-63%).
-After oral dosing of sildenafil AUC and Cmax increase in proportion with dose over the recommended dose range (25-100 mg).
+After oral dosing of sildenafil AUC and Cmax increase in proportion with dose within the recommended dose range (25-100 mg).
 
 When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in tmax of 60 minutes and a mean reduction in Cmax of 29%.
 
 Distribution
 
-The mean steady state volume of distribution (Vd) for sildenafil is 105 l, indicating distribution into the tissues.
+The mean steady state volume of distribution (Vd) for sildenafil is 105 L, indicating distribution into the tissues.
 After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/mL (CV 40%).
 Since sildenafil (and its major circulating N-desmethyl metabolite) is 96% bound to plasma proteins, this results in the mean maximum free plasma concentration for sildenafil of 18 ng/mL (38 nM).
 Protein binding is independent of total drug concentrations.
@@ -25,6 +25,7 @@ The major circulating metabolite results from N-demethylation of sildenafil.
 This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% that of the parent drug.
 Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil.
 The N-desmethyl metabolite is further metabolised, with a terminal half-life of approximately 4 h.
+
 Elimination
 
 The total body clearance of sildenafil is 41 L/h with a resultant terminal phase half-life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of administered oral dose).
@@ -35,14 +36,14 @@ Elderly
 Healthy, elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in free sildenafil plasma concentration was approximately 40%.
 
-Renal insufficiency
+Renal impairment
 In volunteers with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min), the pharmacokinetics of sildenafil were not altered after receiving a 50 mg single oral dose.
 The mean AUC and Cmax of the N-desmethyl metabolite increased up to 126% and up to 73% respectively, compared to age-matched volunteers with no renal impairment.
 However, due to high inter-subject variability, these differences were not statistically significant.
-In volunteers with severe renal impairment (creatinine clearance <30 mL/min), sildenafil clearance was reduced, resulting in mean increases in AUC and Cmax of 100% and 88% respectively compared to age-matched volunteers with no renal impairment.
+In volunteers with severe renal impairment (creatinine clearance < 30 mL/min), sildenafil clearance was reduced, resulting in mean increases in AUC and Cmax of 100% and 88% respectively compared to age-matched volunteers with no renal impairment.
 In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased by 200% and 79% respectively.
 
-Hepatic insufficiency
+Hepatic impairment
 In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh A and B) sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
 The pharmacokinetics of sildenafil in patients with severely impaired hepatic function have not been studied.
 
@@ -53,4 +54,18 @@ When film-coated tablets are taken with food, the rate of absorption of sildenaf
 In a clinical study in 36 healthy males 45 years or older, 50 mg orodispersible tablets administered without water were observed to be bioequivalent to the 50 mg film-coated tablets.
 In the same study, the AUC was unchanged but the mean Cmax was 14% lower when 50 mg orodispersible tablets were administered with water compared to 50 mg film-coated tablet.
 
-When orodispersible tablets is taken with a high fat meal, the rate of absorption of sildenafil is reduced, median Tmax is delayed by about 3.4 hours and mean Cmax and AUC are reduced respectively by about 59% and 12%, compared to administration of orodispersible tablets under fasting conditions (See Section 4.2).
+When orodispersible tablets is taken with a high fat meal, the rate of absorption of sildenafil is reduced, median Tmax is delayed by about 3.4 hours and mean Cmax and AUC are reduced respectively by about 59% and 12%, compared to administration of orodispersible tablets under fasting conditions (see section 4.2).
+
+[VIAGRA 50 mg orodispersible films]
+
+Film-coated tablets
+
+Orodispersible films
+In a clinical study in 80 healthy males 20-43 years of age, sildenafil 50 mg orodispersible films administered without water were observed to be bioequivalent to the sildenafil 50 mg film-coated tablets.
+
+In another study in 40 healthy males 23-54 years of age, sildenafil 50 mg orodispersible films administered with water were observed to be bioequivalent to the sildenafil 50 mg film-coated tablets.
+
+The effect of food on sildenafil 50 mg orodispersible films has not been studied, however an effect of food similar to that seen on sildenafil 50 mg orodispersible tablets is expected (see “Orodispersible tablets” below and section 4.2).
+
+Orodispersible tablets
+When orodispersible tablets are taken with a high fat meal, the rate of absorption of sildenafil is reduced, median tmax is delayed by about 3.4 hours and mean Cmax and AUC are reduced respectively by about 59% and 12%, compared to administration of orodispersible tablets under fasting conditions (see section 4.2).

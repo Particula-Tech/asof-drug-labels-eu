@@ -12,12 +12,13 @@ If VIAGRA is taken with food, the onset of activity may be delayed compared to t
 Special populations
 
 Elderly
-Dosage adjustments are not required in elderly patients (≥ 65 years old).
+Dose adjustments are not required in elderly patients (≥ 65 years old).
 
 Renal impairment
 The dosing recommendations described in ‘Use in adults’ apply to patients with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min).
 
-Since sildenafil clearance is reduced in patients with severe renal impairment (creatinine clearance <30 mL/min) a 25 mg dose should be considered.
+Since sildenafil clearance is reduced in patients with severe renal impairment (creatinine clearance
+< 30 mL/min) a 25 mg dose should be considered.
 Based on efficacy and tolerability, the dose may be increased step-wise to 50 mg up to 100 mg as necessary.
 
 Hepatic impairment
@@ -57,3 +58,20 @@ For patients requiring a second 50 mg orodispersible tablet to make a 100 mg dos
 There is a significant delay in absorption when orodispersible tablets are taken with a high fat meal compared to the fasted state (see section 5.2).
 It is recommended that orodispersible tablets be taken on an empty stomach.
 Orodispersible tablets can be taken with or without water.
+
+[VIAGRA 50 mg orodispersible films]
+
+The recommended dose is 50 mg taken on an empty stomach as concomitant intake with food delays absorption and delays the effect of the orodispersible film (see section 5.2).
+
+For patients requiring a dose increase to 100 mg, two 50 mg orodispersible films should be administered sequentially.
+
+The aluminium pouch should be carefully peeled open (and not cut open).
+The orodispersible film should be taken out with a dry finger, placed on the tongue and allowed to disintegrate with or without water.
+During disintegration saliva may be swallowed, but without swallowing the film.
+It should be taken immediately upon removal from the pouch.
+
+For patients requiring a second 50 mg orodispersible film to make a 100 mg dose, the second film should be taken upon full disintegration of the first film.
+
+A significant delay in absorption is expected when orodispersible films are taken with a high fat meal compared to the fasted state (see section 5.2).
+It is recommended that orodispersible films be taken on an empty stomach.
+Orodispersible films can be taken with or without water.
