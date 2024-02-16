@@ -4,6 +4,7 @@ Summary of the safety profile
 
 Assessment of adverse reactions is based on experience in four Phase 3 clinical studies involving
 CF patients with chronic P. aeruginosa infection and post-marketing spontaneous reporting.
+
 In the two Phase 3 placebo-controlled clinical studies where patients received Cayston for 28 days, the most frequently occurring adverse reactions to Cayston were cough (58%), nasal congestion (18%), wheezing (15%), pharyngolaryngeal pain (13.0%), pyrexia (12%) and dyspnoea (10%).
 
 An acute reduction of ≥ 15% in FEV1 is a complication associated with nebulised therapies, including Cayston (see section 4.4).

@@ -21,6 +21,7 @@ Plasma aztreonam concentrations in paediatric patients aged 3 months to < 6 year
 Distribution
 
 The protein binding of aztreonam in plasma is approximately 77% at clinically relevant plasma concentrations.
+
 Metabolism
 
 Aztreonam is not extensively metabolised.

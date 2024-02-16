@@ -113,6 +113,10 @@ A total of 137 paediatric patients aged 6 to 17 years with chronic P. aeruginosa
 Paediatric patients had clinical improvements with aztreonamas determined by an increase in FEV1, improvement in CFQ-R respiratory symptoms scores and decline in P. aeruginosa sputum density.
 Cayston is indicated for use in paediatric patients aged 6 years and older with repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy based on the above clinical experience.
 
+In addition to the 137 paediatric patients with chronic P. aeruginosa infection, Cayston was studied in two clinical studies in paediatric patients with new onset P. aeruginosa infection/colonization:
+
+GS-US-205-0162
+
 In a Phase 2 open-label study (GS-US-205-0162), 105 paediatric patients aged 3 months to < 18 years (24 patients aged 3 months to < 2 years; 25 patients aged 2 to < 6 years; 56 patients aged 6 to
 < 18 years) with CF and documented initial/new onset P. aeruginosa infection/colonisation received Cayston 3 times a day for a single course of 28 days.
 
@@ -120,4 +124,10 @@ Of the 101 patients, all having a positive cultures for P. aeruginosa within 30 
 A total of 79 patients who completed a 28-day treatment course and who did not receive an additional antipseudomonal antibiotic during the treatment period were evaluable 6 months after the end of treatment; of these, 58.2%
 (n = 46) remained free of P. aeruginosa throughout this time period.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Cayston in one or more subsets of the paediatric population in cystic fibrosis patients with Pseudomonas aeruginosa pulmonary infection/colonisation (see section 4.2 for information on paediatric use).
+GS-US-205-1850
+
+In a Phase 3b study (GS-US-205-1850), 149 paediatric patients aged 3 months to < 18 years
+(30 patients aged 3 months to < 2 years; 42 patients aged 2 to < 6 years; 77 patients aged 6 to
+< 18 years) with CF and new onset P. aeruginosa infection/colonisation received Cayston administered 3 times a day, randomised for 14 days (74 patients) and 28 days (75 patients) in a 1:1 ratio.
+
+The 14-day treatment course did not demonstrate noninferiority to the 28-day treatment course; and therefore, a 28-day course of therapy remains the recommended treatment.
