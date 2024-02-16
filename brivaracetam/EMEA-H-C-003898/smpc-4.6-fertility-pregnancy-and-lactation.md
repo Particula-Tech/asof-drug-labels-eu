@@ -25,8 +25,7 @@ As a precautionary measure, brivaracetam should not be used during pregnancy unl
 
 Breast-feeding
 
-It is unknown whether brivaracetam is excreted in human breast milk.
-Studies in rats have shown excretion of brivaracetam in breast milk (see section 5.3).
+Brivaracetam is excreted in human breast milk.
 A decision should be made whether to discontinue breastfeeding or to discontinue brivaracetam, taking into account the benefit of the medicinal product to the mother.
 In case of co-administration of brivaracetam and carbamazepine, the amount of carbamazepine-epoxide excreted in breast milk could increase.
 There is insufficient data to determine the clinical significance.

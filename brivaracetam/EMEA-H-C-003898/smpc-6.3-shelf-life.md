@@ -1,9 +1,10 @@
 # 6.3 Shelf life
 
-4 years.
+5 years.
 
 [Briviact 10 mg/ml oral solution]
 
+4 years.
 After first opening: 8 months
 
 [Briviact 10 mg/ml solution for injection/infusion]

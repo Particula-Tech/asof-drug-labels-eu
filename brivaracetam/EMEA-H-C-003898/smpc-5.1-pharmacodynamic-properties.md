@@ -89,7 +89,8 @@ In children aged 2 years and older, partial onset seizures have a similar pathop
 Experience with epilepsy medicines suggests that the results of efficacy studies performed in adults can be extrapolated to children down to the age of 2 years provided the paediatric dose adaptations are established and safety has been demonstrated (see sections 5.2 and 4.8).
 Doses in patients from 2 years of age were defined by weight-based dose adaptations which have been established to achieve similar plasma concentrations to the ones observed in adults taking efficacious doses (section 5.2).
 
-A long-term, uncontrolled, open-label safety study included children (from 1 month of age to less than 16 years) who continued treatment after completing the PK study (see section 5.2), children who continued treatment after completing the IV safety study and children directly enrolled into the safety study.
+A long-term, uncontrolled, open-label safety study included children (from 1 month of age to less than 16 years) who continued treatment after completing the PK study (see section 5.2), children who continued treatment after completing the i.v.
+(intravenous) safety study and children directly enrolled into the safety study.
 Children who directly enrolled received a brivaracetam starting dose of 1 mg/kg/day and depending on response and tolerability, the dose was increased up to 5 mg/kg/day by doubling the dose at weekly intervals.
 No child received a dose greater than 200 mg/day.
 For children weighing 50 kg or greater the brivaracetam starting dose was 50 mg/day and depending on response and tolerability, the dose was increased up to a maximum of 200 mg/day by weekly increments of 50 mg/day.

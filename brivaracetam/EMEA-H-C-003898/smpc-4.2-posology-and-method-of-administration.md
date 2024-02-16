@@ -84,13 +84,6 @@ Patients not being able to swallow tablets in whole or patients for whom the dos
 
 It is recommended to parent and care giver to administer Briviact oral solution with the measuring device (10 ml or 5 ml oral dosing syringe) provided in the carton box.
 
-Recommended starting dose Recommended maintenance Therapeutic dose
-dose range*
-Adolescents and children weighing 50 kg or more, and adults
-50 mg/day (or 100 mg/day)** 100 mg/day 50 - 200 mg/day
-1 mg/kg/day (up to 2 mg/kg/day)** 2 mg/kg/day 1 – 4 mg/kg/day
-1 mg/kg/day (up to 2.5 mg/kg/day)** 2.5 mg/kg/day 1 – 5 mg/kg/day
-
 The recommended starting dose is 1mg/kg/day.
 
 The dose per intake for each patient should be calculated using the following formula:

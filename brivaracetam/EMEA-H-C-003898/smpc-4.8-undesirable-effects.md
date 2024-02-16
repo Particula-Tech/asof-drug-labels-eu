@@ -50,7 +50,7 @@ An additional adverse reaction reported in children was psychomotor hyperactivit
 No specific pattern of adverse event (AE) was identified in children from 1◦month to < 4◦years of age when compared to older paediatric age groups.
 No significant safety information was identified indicating the increasing incidence of a particular AE in this age group.
 As data available in children younger than 2 years of age is limited, brivaracetam is not indicated in this age range.
-No clinical data are available in neonates.
+Limited clinical data are available in neonates.
 
 Elderly
 
