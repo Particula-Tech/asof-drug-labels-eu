@@ -71,7 +71,7 @@ Patients meeting treatment success and other glucose criteria in pivotal study
 |  | glucagon nasal powder 3 mg | i.m. glucagon 1 mg | glucagon nasal powder 3 mg | i.m. glucagon 1 mg |
 | Treatment success – n (%) | 74 (98.7 %) | 75 (100 %) | 79 (98.8 %) | 80 (100 %) |
 | Treatment difference (2-sided 95 % confidence interval)b,c | 1.3% (-3.8%, 7.2%) |  | 1.3% (-3.6%, 6.8%) |  |
-| Glucose criterion met – n (%)d (i) ≥ 3.9 mmol/L (≥ 70 mg/dL) (ii) Increase by ≥ 1.1 mmol/L (≥ 20 mg/dL) from nadir Both (i) and (ii) | 72 (97 %) 74 (100 %) 72 (97 %) | 74 (99 %) 75 (100 %) 74 (99 %) | 77 (97 %) 79 (100 %) 77 (97 %) | 79 (99 %) 80 (100 %) 79 (99 %) |
+| Glucose criterion met – n (%)d (i) ≥ 3.9 mmol/L (≥ 70 mg/dL) (ii) Increase by ≥ 1.1 mmol/L (≥20 mg/dL) from nadir Both (i) and (ii) | 72 (97 %) 74 (100 %) 72 (97 %) | 74 (99 %) 75 (100 %) 74 (99 %) | 77 (97 %) 79 (100 %) 77 (97 %) | 79 (99 %) 80 (100 %) 79 (99 %) |
 
 a The efficacy analysis population consisted of all patients who received both doses of the study medicinal product with evaluable primary outcome.
 b Difference calculated as (percentage with success in i.m. glucagon) – (percentage with success in glucagon nasal powder).
