@@ -2,10 +2,10 @@
 
 Summary of the safety profile
 
-In clinical studies involving 2732 patients treated with AZOPT as monotherapy or adjunctive therapy to timolol maleate 5 mg/ml, the most frequently reported treatment-related adverse reactions were: dysgeusia (6.0%) (bitter or unusual taste, see description below) and temporary blurred vision (5.4%) upon instillation, lasting from a few seconds to a few minutes (see also section 4.7).
+In clinical studies involving 2 732 patients treated with AZOPT as monotherapy or adjunctive therapy to timolol maleate 5 mg/ml, the most frequently reported treatment-related adverse reactions were: dysgeusia (6.0%) (bitter or unusual taste, see description below) and temporary blurred vision (5.4%) upon instillation, lasting from a few seconds to a few minutes (see also section 4.7).
 Tabulated summary of adverse reactions
 
-The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1000), very rare (<1/10,000), or not known (cannot be estimated from the available data).
+The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), very rare (<1/10 000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 The adverse reactions were obtained from clinical trials and post-marketing spontaneous reports.
 

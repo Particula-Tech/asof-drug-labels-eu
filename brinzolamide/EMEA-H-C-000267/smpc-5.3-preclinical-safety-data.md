@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single dose toxicity, repeated dose toxicity, genotoxicity, and carcinogenic potential.
 
 Developmental toxicity studies in rabbits with oral doses of brinzolamide of up to 6 mg/kg/day
 (125 times the recommended human ophthalmic dose) revealed no effect on foetal development despite significant maternal toxicity.
