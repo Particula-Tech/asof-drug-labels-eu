@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC38.
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01FC02.
 
 Mechanism of action
 Isatuximab is an IgG1-derived monoclonal antibody that binds to a specific extracellular epitope of CD38 receptor.
@@ -21,7 +21,6 @@ The combination of isatuximab and pomalidomide in vitro enhances cell lysis of C
 In vivo animal experiments using a human multiple myeloma xenograft model in mice demonstrated that the combination of isatuximab and pomalidomide results in enhanced antitumour activity compared to the activity of isatuximab or pomalidomide alone.
 
 Clinical efficacy and safety
-
 ICARIA-MM (EFC14335)
 
 The efficacy and safety of SARCLISA in combination with pomalidomide and dexamethasone were evaluated in ICARIA-MM (EFC14335), a multicentre, multinational, randomised, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
@@ -87,13 +86,12 @@ PFS improvements in the Isa-Pd group were also observed in patients >75 years (H
 Insufficient data is available to conclude on the efficacy of Isa-Pd in patients previously treated with daratumumab (1 patient in the isatuximab arm and no patient in the comparator arm).
 
 The median time to first response in responders was 35 days in the Isa-Pd group versus 58 days in the Pd group.
-With a median duration of follow-up of 11.56 months in the Isa-Pd group and 11.73 months in the Pd group, median overall survival was not reached for either treatment group.
-The hazard ratio for OS was 0.687 (95% CI: 0.461-1.023, p-value=0.0631).
+At a median follow-up time of 52.44 months, final median overall survival was 24.57 months in the Isa-Pd group and 17.71 months in the Pd group (HR=0.776; 95% CI: 0.594 to 1.015).
 
 Figure 1: Kaplan-Meier Curves of PFS – ITT population – ICARIA-MM (assessment by the IRC)
 
 Figure 2: Kaplan-Meier Curves of OS – ITT population – ICARIA-MM
-Cutoff date = 11 October 2018
+Cut-off date = 11 October 2018
 
 In the ICARIA-MM (EFC14335) study, a weight-based volume was used for isatuximab infusion.
 The fixed volume infusion method as described in section 4.2 was evaluated in study TCD14079 Part B and pharmacokinetics simulations confirmed minimal differences between the pharmacokinetics following injection applying a volume based on patient weight and a fixed volume of 250 mL (see section 5.2).
@@ -126,7 +124,7 @@ Overall, 33.1% of patients were refractory to prior proteasome inhibitors, 45.0%
 The median duration of treatment was 80.0 weeks for the Isa-Kd group compared to 61.4 weeks for the Kd group.
 
 Progression-free survival (PFS) was the primary efficacy endpoint of IKEMA.
-The improvement in PFS represented a 46.9% reduction in the risk of disease progression or death in patients treated with Isa-Kd compared to patients treated with Kd.
+With a median follow-up time of 20.73 months, the primary analysis of PFS showed a statistically significant improvement in PFS represented by a 46.9% reduction in the risk of disease progression or death in patients treated with Isa-Kd compared to patients treated with Kd.
 
 Efficacy results are presented in Table 8 and Kaplan-Meier curves for PFS are provided in the Figure 3:
 
@@ -134,12 +132,11 @@ Table 8: Efficacy of SARCLISA in combination with carfilzomib and dexamethasone 
 
 | Endpoint | SARCLISA + carfilzomib + dexamethasone N =179 | Carfilzomib + dexamethasone N = 123 |
 | --- | --- | --- |
-| Progression-Free Survivala Median (months) [95% CI] Hazard ratiob [95% CI] p-value (Stratified Log-Rank test)b | NR 19.15 [NR -NR] [15.77-NR] 0.531 [0.318-0.889] 0.0013 |  |
+| Progression-Free Survivala Median (months) [95% CI] Hazard ratiob [99% CI] p-value (Stratified Log-Rank test)b | NR 19.15 [NR -NR] [15.77-NR] 0.531 [0.318-0.889] 0.0013 |  |
 | Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% |  |
 | Very Good Partial Response (VGPR) Partial Response (PR) | 33.0% 28.5% 14.0% 26.8% |  |
 | VGPR or better (sCR+CR+VGPR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e CRf [95% CI]d | 72.6% 56.1% [0.6547-0.7901] [0.4687 -0.6503] 0.0021 39.7% 27.6% [0.3244-0.4723] [0.1996 to 0.3643] |  |
-| Minimal Residual Disease negative rateg [95% CI]d | 29.6% [0.2303-0.3688] | 13.0% [0.0762-0.2026] |
-| p-value (stratified Cochran-Mantel-Haenszel)b e | 0.0008 |  |
+| Minimal Residual Disease negative rateg [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e | 29.6% 13.0% [0.2303-0.3688] [0.0762-0.2026] 0.0008 |  |
 | Duration of Responseh *(PR or better) Median in months [95% CI]i Hazard ratiob [95% CI] | NR [NR-NR] NR [14.752-NR] 0.425 [0.269-0.672] |  |
 
 a PFS results were assessed by an Independent Response Committee based on central laboratory data for M-protein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
@@ -165,11 +162,15 @@ The median time to first response was 1.08 months in the Isa-Kd group and 1.12 m
 With a median follow-up time of 20.73 months, 17.3% patients in the Isa-Kd arm and 20.3% patients in the Kd arm had died.
 Figure 3 – Kaplan-Meier Curves of PFS – ITT population – IKEMA (assessment by the IRC)
 
-Cutoff date = 07 February 2020.
+Cut-off date = 07 February 2020.
 
 Among patients with eGFR (MDRD) <50 mL/min/1.73 m2 at baseline, complete renal response (≥60 mL/min/1.73 m2 at ≥1 postbaseline assessment) was observed for 52.0% (13/25) of patients in the Isa-Kd group and 30.8% (4/13) in the Kd group.
 Sustained complete renal response (≥60 days) occurred in 32.0% (8/25) of patients in the Isa-Kd group and in 7.7% (1/13) in the Kd group.
 In the 4 patients in the Isa-Kd group and the 3 patients in the Kd group with severe renal impairment at baseline (eGFR (MDRD) >15 to <30 mL/min/1.73 m2), minimal renal response (≥30 to <60 mL/min/1.73 m2 at ≥1 postbaseline assessment) was observed for 100% of patients in the Isa-Kd group and 33.3% of patients in the Kd group.
+
+At a median follow-up time of 43.96 months, final PFS analysis showed a median PFS of 35.65 months for Isa-Kd group compared to 19.15 months for Kd group, with a hazard ratio of 0.576 (95.4% CI: 0.418 to 0.792).
+Final complete response, determined using a validated isatuximab-specific IFE assay (Sebia Hydrashift) (see section 4.5), was 44.1% in Isa-Kd group compared to 28.5% in Kd group, with odds ratio 2.094 (95% CI: 1.259 to 3.482, descriptive p=0.0021).
+In 26.3% of patients in Isa-Kd group, both MRD negativity and CR were met compared to 12.2% in Kd group, with odds ratio 2.571 (95% CI: 1.354 to 4.882, descriptive p=0.0015).
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with SARCLISA in one or more subsets of the paediatric population in the treatment of malignant neoplasms of the haematopoietic and lymphoid tissue.

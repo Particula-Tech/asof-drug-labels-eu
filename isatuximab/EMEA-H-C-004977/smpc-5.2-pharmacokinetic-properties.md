@@ -9,7 +9,7 @@ After isatuximab 10 mg/kg administration every week for 4 weeks followed by ever
 In ICARIA-MM, clinical trial performed in relapsed and/or refractory multiple myeloma patients treated with isatuximab in combination with pomalidomide and dexamethasone, the mean (CV%) predicted maximum plasma concentration Cmax and AUC at steady state were 351 µg/mL (36.0%) and 72,600 µg.h/mL (51.7%), respectively.
 Although the change from a weight-based volume administration method for isatuximab infusion to the fixed volume infusion method resulted in changes in the tmax, the change had a limited impact on pharmacokinetics exposure with comparable simulated Cmax at steady state (283 µg/mL vs 284 µg/mL) and Ctrough at 4 weeks (119 µg/mL vs 119 µg/mL) for a patient with median weight (76 kg).
 Also for other patient weight groups, Cmax and Ctrough were comparable.
-In IKEMA, clinical trial performed in relapsed and/or refractory multiple myeloma patients treated with isatuximab in combination with carfilzomib and dexamethasone, the mean (CV%) predicted maximum plasma concentration Cmax and AUC at steady state were 655 µg/mL (30.8%) and 159,000 µg.h/mL (37.1%), respectively.
+In IKEMA, clinical trial performed in relapsed and/or refractory multiple myeloma patients treated with isatuximab in combination with carfilzomib and dexamethasone, the mean (CV%) predicted maximum plasma concentration Cmax and AUC at steady state were 637 µg/mL (30.9%) and 152,000 µg.h/mL (37.8%), respectively.
 
 The pharmacokinetics of isatuximab and pomalidomide, or of isatuximab and carfilzomib, were not influenced by their co-administration.
 

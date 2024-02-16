@@ -6,6 +6,7 @@ Serious adverse reactions occurred in 61.8% of patients receiving Isa-Pd.
 The most frequent serious adverse reactions are pneumonia (25.7%) and febrile neutropenia (6.6%).
 Permanent discontinuation of treatment because of adverse reactions was reported in 7.2% of patients treated with Isa-Pd.
 Adverse reactions with a fatal outcome during treatment were reported in 7.9% of patients treated with Isa-Pd (those occurring in more than 1% of patients were pneumonia occurring in 1.3% of patients and other infections occurring in 2.0% of patients).
+
 In IKEMA, the most frequent adverse reactions (≥20%) are infusion reactions (45.8%), hypertension (36.7%), diarrhoea (36.2%), upper respiratory tract infection (36.2%), pneumonia (28.8%), fatigue (28.2%), dyspnoea (27.7%), insomnia (23.7%), bronchitis (22.6%), and back pain (22.0%).
 Serious adverse reactions occurred in 59.3% of patients receiving Isa-Kd.
 The most frequent serious adverse reaction is pneumonia (21.5%).
@@ -19,19 +20,21 @@ Within each frequency grouping, adverse reactions are presented in the order of 
 
 The adverse reactions were reported from the 152 patients who received Isa-Pd with a median duration of exposure of 41 weeks in ICARIA-MM study (see section 5.1).
 
-Table 3a: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with pomalidomide and dexamethasone (ICARIA-MM)
+Table 3a: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with pomalidomide and dexamethasone (ICARIA-MM)b
 
 | System Organ Class Preferred Term | Adverse reaction | Frequency | Incidence (%) (N=152) |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | Any Grade | Grade ≥3 |
-| Infections and infestations | Pneumoniab c | Very common | 47 (30.9) | 40 (26.3) |
+| Infections and infestations | Pneumoniac d | Very common | 47 (30.9) | 40 (26.3) |
 |  | Upper respiratory tract infection* | Very common | 43 (28.3) | 5 (3.3) |
 |  | Bronchitis* | Very common | 36 (23.7) | 5 (3.3) |
 |  | Herpes zoster | Common | 7 (4.6) | 1 (0.7) |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Skin squamous cell carcinoma | Common | 4 (2.6) | 2 (1.3) |
-| Blood and lymphatic system disorders | Neutropeniad | Very common | 71 (46.7) | 70 (46.1) |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps)e | Skin cancer | Common | 6 (3.9) | 4 (2.6) |
+|  | Solid tumour (non-skin cancer) | Common | 3 (2.0) | 2 (1.3) |
+|  | Haematology malignancy | Uncommon | 1 (0.7) | 1 (0.7) |
+| Blood and lymphatic system disorders | Neutropeniaf | Very common | 71 (46.7) | 70 (46.1) |
 |  | Febrile neutropenia | Very common | 18 (11.8) | 18 (11.8) |
-| Immune system disorders | Anaphylactic reactione | Uncommon | 5 (0.3%) | 5 (0.3%) |
+| Immune system disorders | Anaphylactic reactiong | Uncommon | 5 (0.3%) | 5 (0.3%) |
 | Metabolism and nutrition disorders | Decreased appetite* | Common | 15 (9.9) | 2 (1.3) |
 | Cardiac disorders | Atrial fibrillation | Common | 7 (4.6) | 3 (2.0) |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea* | Very common | 23 (15.1) | 6 (3.9) |
@@ -39,14 +42,19 @@ Table 3a: Adverse reactions reported in patients with multiple myeloma treated w
 |  | Nausea* | Very common | 23 (15.1) | 0 |
 |  | Vomiting* | Very common | 18 (11.8) | 2 (1.3) |
 | Investigations | Weight decreased* | Common | 10 (6.6) | 0 |
-| Injury, poisoning and procedural complications | Infusion reactionc | Very common | 58 (38.2) | 4 (2.6) |
+| Injury, poisoning and procedural complications | Infusion reactiond | Very common | 58 (38.2) | 4 (2.6) |
 
 a Only TEAEs are reported in Table 3.
 The haematology laboratory values are reported in Table 5.
-b The term pneumonia is a grouping of the following terms: atypical pneumonia, bronchopulmonary aspergillosis, pneumonia, pneumonia haemophilus, pneumonia influenzal, pneumonia pneumococcal, pneumonia streptococcal, pneumonia viral, pneumonia bacterial, haemophilus infection, lung infection, pneumonia fungal and pneumocystis jirovecii pneumonia.
-c See “Description of selected adverse reactions”.
-d Haematology laboratory values were recorded as TEAEs only if they led to treatment discontinuation and/or dose modification or fulfilled a serious criterion.
-e Based on multiple myeloma clinical trials.
+b Cut-off date of 11-Oct-2018.
+Median follow-up time=11.60 months.
+c The term pneumonia is a grouping of the following terms: atypical pneumonia, bronchopulmonary aspergillosis, pneumonia, pneumonia haemophilus, pneumonia influenzal, pneumonia pneumococcal, pneumonia streptococcal, pneumonia viral, pneumonia bacterial, haemophilus infection, lung infection, pneumonia fungal and pneumocystis jirovecii pneumonia.
+d See “Description of selected adverse reactions”.
+e Cut-off date of 14-Mar-2022.
+Median follow-up time=52.44 months.
+Based on second primary malignancies reported during study treatment period and during post-treatment period.
+f Haematology laboratory values were recorded as TEAEs only if they led to treatment discontinuation and/or dose modification or fulfilled a serious criterion.
+g Based on multiple myeloma clinical trials.
 * No grade 4
 
 The adverse reactions were reported from the 177 patients who received Isa-Kd with a median duration of exposure of 80.0 weeks in IKEMA study (see section 5.1).
@@ -113,6 +121,7 @@ Fatal infections were reported in 2.3% of patients in the Isa-Kd group and 0.8% 
 
 In relapsed and refractory multiple myeloma clinical trials, herpes zoster was reported in 2.0% of patients.
 In ICARIA-MM, the incidence of herpes zoster was 4.6% in the Isa-Pd group compared to 0.7% in the Pd group, and in IKEMA, incidence was 2.3% in the Isa-Kd group compared to 1.6% in the Kd group.
+
 Cardiac failure
 In IKEMA, cardiac failure (including cardiac failure, cardiac failure congestive, cardiac failure acute, cardiac failure chronic, left ventricular failure, and pulmonary oedema) was reported in 7.3% of patients with the Isa-Kd group (4.0% of Grade ≥3) and in 6.6% of patients with the Kd group (4.1% of Grade ≥3).
 Serious cardiac failure was observed in 4.0% of patients in the Isa-Kd group and in 3.3% of patients in the Kd group.
@@ -124,8 +133,8 @@ Table 5: Haematology laboratory abnormalities in patients receiving isatuximab c
 
 | Laboratory | SARCLISA + Pomalidomide + |  |  | Pomalidomide + Dexamethasone |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| parameter | Dexamethasone |  |  | n(%) |  |  |
-|  | n(%) |  |  | (N=147) |  |  |
+| parameter | Dexamethasone |  |  | n (%) |  |  |
+|  | n (%) |  |  | (N=147) |  |  |
 |  | (N=152) |  |  |  |  |  |
 |  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
 | Anaemia | 151 (99.3) | 48 (31.6) | 0 | 145 (98.6) | 41 (27.9) | 0 |

@@ -38,15 +38,22 @@ Patients receiving SARCLISA should be closely monitored for signs of infection a
 Antibacterial and antiviral prophylaxis (such as herpes zoster prophylaxis) can be considered during treatment (see sections 4.2 and 4.8).
 
 Second primary malignancies
-In ICARIA-MM, second primary malignancies (SPMs) were reported in 6 patients (3.9%) treated with Isa-Pd and in 1 patient (0.7%) treated with Pd, and included skin cancer in 4 patients treated with Isa-Pd and in 1 patient treated with Pd (see section 4.8).
-Patients continued treatment after resection of the skin cancer.
-In IKEMA, SPMs were reported in 13 patients (7.3%) treated with Isa-Kd and in 6 patients (4.9%) treated with Kd.
+In ICARIA-MM, second primary malignancies (SPMs) were reported at a median follow-up time of 52.44 months in 10 patients (6.6%) treated with Isa-Pd and in 3 patients (2%) treated with Pd.
+SPM were skin cancer in 6 patients treated with Isa-Pd and in 3 patients treated with Pd, solid tumours other than skin cancer in 3 patients treated with Isa-Pd (one patient also had a skin cancer), and haematological malignancy (myelodysplastic syndrome) in 1 patient treated with Isa-Pd (see section 4.8).
+Patients continued treatment after resection of the new malignancy, except two patients treated with Isa-Pd.
+One patient developed metastatic melanoma and the other developed myelodysplastic syndrome.
+The overall benefit of Isa-Pd remains favourable (see section 5.1).
+In ongoing IKEMA study, at a median follow-up time of 20.73 months, SPMs were reported in 13 patients (7.3%) treated with Isa-Kd and in 6 patients (4.9%) treated with Kd.
 SPMs were skin cancers in 9 patients (5.1%) treated with Isa-Kd and in 3 patients (2.5%) treated with Kd, and were solid tumours other than skin cancer in 5 patients (2.8%) treated with Isa-Kd and in 4 patients (3.3%) treated with Kd.
 One patient (0.6%) in the Isa-Kd group and one patient (0.8%) in the Kd group had both skin cancer and solid tumours other than skin cancer (see section 4.8).
 Patients with skin cancer continued treatment after resection of the skin cancer.
 Solid tumours other than skin cancer were diagnosed within 3 months after treatment initiation in 3 patients (1.7%) treated with Isa-Kd and in 2 patients (1.6%) treated with Kd.
-The overall incidence of SPMs in all the SARCLISA-exposed patients is 3.6%.
+The overall incidence of SPMs in all the SARCLISA-exposed patients is 4.1%.
 Physicians should carefully evaluate patients before and during treatment as per IMWG guidelines for occurrence of SPM and initiate treatment as indicated.
+
+Tumour lysis syndrome
+Cases of tumour lysis syndrome (TLS) have been reported in patients who received isatuximab.
+Patients should be monitored closely and appropriate precautions taken.
 
 Interference with serological testing (indirect antiglobulin test)
 Isatuximab binds to CD38 on red blood cells (RBCs) and may result in a false positive indirect antiglobulin test (indirect Coombs test).
