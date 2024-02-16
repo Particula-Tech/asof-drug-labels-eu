@@ -38,7 +38,6 @@ By binding to the α4β7 integrin expressed on gut-homing lymphocytes, vedolizum
 Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
 
 Healthcare professionals should monitor patients on vedolizumab for any new onset or worsening of neurological signs and symptoms as outlined in physician education materials, and consider neurological referral if they occur.
-The patient is to be given a Patient Alert Card (see section 4.2).
 If PML is suspected, treatment with vedolizumab must be withheld; if confirmed, treatment must be permanently discontinued.
 
 Malignancies
@@ -52,9 +51,9 @@ No vedolizumab clinical trial data are available for patients previously treated
 Caution should be exercised when considering the use of vedolizumab in these patients.
 
 Patients previously exposed to natalizumab should normally wait a minimum of 12 weeks prior to initiating therapy with vedolizumab, unless otherwise indicated by the patient’s clinical condition.
+
 No clinical trial data for concomitant use of vedolizumab with biologic immunosuppressants are available.
 Therefore, the use of vedolizumab in such patients is not recommended.
-
 Live and oral vaccines
 
 In a placebo-controlled study of healthy volunteers, a single 750 mg dose of vedolizumab did not lower rates of protective immunity to hepatitis B virus in subjects who were vaccinated intramuscularly with 3 doses of recombinant hepatitis B surface antigen.

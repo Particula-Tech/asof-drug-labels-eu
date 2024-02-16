@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis, Crohn’s disease or pouchitis (see section 4.4).
-Patients should be given the package leaflet and the Patient Alert Card.
+Patients should be given the package leaflet.
 Posology
 
 Ulcerative colitis
@@ -76,7 +76,6 @@ For instructions on reconstitution and dilution of the medicinal product before 
 [Entyvio 108 mg solution for injection in pre-filled syringe]
 
 Treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis or Crohn’s disease (see section 4.4).
-Patients should be given the package leaflet.
 
 Ulcerative colitis and Crohn’s disease
 

@@ -9,7 +9,7 @@ Infusion related reactions (with symptoms such as dyspnea, bronchospasm, urticar
 Tabulated list of adverse reactions
 
 The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class.
-Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Table 1.
 Adverse reactions
@@ -17,13 +17,12 @@ Adverse reactions
 | System organ class | Frequency | Adverse reaction(s) |
 | --- | --- | --- |
 | Infections and infestations | Very common | Nasopharyngitis |
-|  | Common | Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis |
-|  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis, Herpes zoster |
-|  | Very rare | Pneumonia |
+|  | Common | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, Herpes zoster |
+|  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis |
 | Immune system disorders | Very rare | Anaphylactic reaction, Anaphylactic shock |
 | Nervous system disorders | Very common | Headache |
 |  | Common | Paraesthesia |
-| Eye disorders | Very rare | Blurred vision |
+| Eye disorders | Uncommon | Blurred vision |
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
 |  | Not known | Interstitial lung disease |
@@ -32,8 +31,8 @@ Adverse reactions
 |  | Uncommon | Folliculitis |
 | Musculoskeletal and connective tissue disorders | Very common | Arthralgia |
 |  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
-| General disorders and administration site conditions | Common | Pyrexia, Infusion related reaction* (asthenia and chest discomfort) |
-|  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Chills, Feeling cold |
+| General disorders and administration site conditions | Common | Pyrexia, Infusion related reaction (asthenia* and chest discomfort*), Infusion site reaction (including: Infusion site pain and Infusion site irritation) |
+|  | Uncommon | Chills, Feeling cold |
 | *Reported in the EARNEST pouchitis study |  |  |
 
 Description of selected adverse reactions
@@ -72,6 +71,7 @@ In controlled and open-label studies (ulcerative colitis and Crohn’s disease) 
 In clinical studies with intravenous vedolizumab (ulcerative colitis and Crohn’s disease), the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m2 and above was higher than for those with BMI less than 30 kg/m2.
 
 In clinical studies with intravenous vedolizumab (ulcerative colitis and Crohn’s disease), a slightly higher incidence of serious infections was reported in vedolizumab-treated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.
+
 Malignancy
 
 Overall, results from the clinical program to date do not suggest an increased risk for malignancy with vedolizumab treatment; however, the number of malignancies was small and long-term exposure was limited.
@@ -87,16 +87,15 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 No clinically relevant differences in the overall safety profile and adverse reactions were observed in patients who received subcutaneous vedolizumab compared to the safety profile observed in clinical studies with intravenous vedolizumab with the exception of injection site reactions (with subcutaneous administration).
 
-| System organ class | Frequency* | Adverse reaction(s) |
+| System organ class | Frequency | Adverse reaction(s) |
 | --- | --- | --- |
 | Infections and infestations | Very common | Nasopharyngitis |
-|  | Common | Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis |
-|  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis, Herpes zoster |
-|  | Very rare | Pneumonia |
+|  | Common | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, Herpes zoster |
+|  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis |
 | Immune system disorders | Very rare | Anaphylactic reaction, Anaphylactic shock |
 | Nervous system disorders | Very common | Headache |
 |  | Common | Paraesthesia |
-| Eye disorders | Very rare | Blurred vision |
+| Eye disorders | Uncommon | Blurred vision |
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
 |  | Not known | Interstitial lung disease |
@@ -105,11 +104,9 @@ No clinically relevant differences in the overall safety profile and adverse rea
 |  | Uncommon | Folliculitis |
 | Musculoskeletal and connective tissue disorders | Very common | Arthralgia |
 |  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
-| General disorders and administration site conditions | Common | Pyrexia Injection site reactions# |
-|  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Chills, |
-|  |  | Feeling cold |
+| General disorders and administration site conditions | Common | Pyrexia, Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Injection site reactions# |
+|  | Uncommon | Chills, Feeling cold |
 
-*Frequency is based on clinical trial data with intravenous administration except where noted.
 #Subcutaneous administration only.
 
 Injection site reactions
