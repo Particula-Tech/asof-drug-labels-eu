@@ -63,6 +63,7 @@ Skin and subcutaneous tissue disorders:
 Very common: rash
 Rare: angioedema
 Musculoskeletal and connective tissue disorders:
+Common: bone mineral density decreased 3
 Uncommon: rhabdomyolysis1, muscular weakness1
 Rare: osteomalacia (manifested as bone pain and infrequently contributing to fractures)1, 2, myopathy1
 Renal and urinary disorders:
@@ -75,6 +76,8 @@ Very common: asthenia
 It is not considered to be causally associated with tenofovir disoproxil in the absence of this condition.
 2 This adverse reaction was identified through post-marketing surveillance but not observed in randomised controlled clinical trials or the tenofovir disoproxil expanded access program.
 The frequency category was estimated from a statistical calculation based on the total number of patients exposed to tenofovir disoproxil in randomised controlled clinical trials and the expanded access program (n = 7,319).
+3 The frequency of this adverse reaction was estimated based on safety data derived from different clinical studies with TDF in HBV infected patients.
+See also sections 4.4 and 5.1.
 
 Description of selected adverse reactions
 HIV-1 and hepatitis B:
@@ -95,10 +98,10 @@ Weight and levels of blood lipids and glucose may increase during antiretroviral
 Immune reactivation syndrome
 In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
-
 Osteonecrosis
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.
 The frequency of this is unknown (see section 4.4).
+
 Hepatitis B:
 Exacerbations of hepatitis during treatment
 In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil-treated patients.
@@ -128,10 +131,10 @@ The adverse reactions observed in paediatric patients who received treatment wit
 
 Reductions in BMD have been observed in HBV infected paediatric patients 2 to < 18 years of age.
 The BMD Z-scores observed in subjects who received tenofovir disoproxil were lower than those observed in subjects who received placebo (see sections 4.4 and 5.1).
-
 Other special population(s)
 Patients with renal impairment
 The use of tenofovir disoproxil is not recommended in paediatric patients with renal impairment (see sections 4.2 and 4.4).
+
 Exacerbations of hepatitis after discontinuation of treatment
 In HIV infected patients co-infected with HBV, clinical and laboratory evidence of hepatitis have occurred after discontinuation of tenofovir disoproxil (see section 4.4).
 
@@ -145,6 +148,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 HIV-1 clinical studies: Assessment of adverse reactions for tenofovir disoproxil is based on safety data from clinical studies and post-marketing experience.
 
 Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced adult patients receiving treatment with tenofovir disoproxil (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve adult patients received treatment with tenofovir disoproxil 245 mg (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
+
+Common: bone mineral density decreased3
 
 [Viread 204 mg film-coated tablets]
 
@@ -163,6 +168,7 @@ Assessment of adverse reactions is based on a randomised study (study GS-US-174-
 Elderly
 Tenofovir disoproxil has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil (see section 4.4).
+
 Since tenofovir disoproxil can cause renal toxicity, close monitoring of renal function is recommended in adult patients with renal impairment treated with Viread (see sections 4.2, 4.4 and 5.2).
 
 [Viread 33 mg/g granules]

@@ -27,14 +27,11 @@ Renal safety with tenofovir has only been studied to a very limited degree in ad
 Bone effects
 Bone abnormalities such as osteomalacia which can manifest as persistent or worsening bone pain and, which can infrequently contribute to fractures may be associated with tenofovir disoproxil-induced proximal renal tubulopathy (see section 4.8).
 
-Tenofovir disoproxil may also cause a reduction in bone mineral density (BMD).
-In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve adult patients, small decreases in BMD of the hip and spine were observed in both treatment groups.
-Decreases in BMD of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil treatment group at 144 weeks.
-Decreases in BMD of hip were significantly greater in this group until 96 weeks.
-However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks in this study.
-
+Reductions of bone mineral density (BMD) have been observed with tenofovir disoproxil in randomized controlled clinical trials of duration up to 144 weeks in HIV or HBV-infected patients (see section 4.8 and 5.1).
+These BMD decreases generally improved after treatment discontinuation.
 In other studies (prospective and cross-sectional), the most pronounced decreases in BMD were seen in patients treated with tenofovir disoproxil as part of a regimen containing a boosted protease inhibitor.
-Overall, in view of the bone abnormalities associated with tenofovir disoproxil and the limitations of long term data on the impact of tenofovir disoproxil on bone health and fracture risk, alternative treatment regimens should be considered for patients with osteoporosis that are at a high risk for fractures.
+
+Overall, in view of the bone abnormalities associated with tenofovir disoproxil and the limitations of long term data on the impact of tenofovir disoproxil on bone health and fracture risk, alternative treatment regimens should be considered for patients with osteoporosis or with a history of bone fractures..
 
 If bone abnormalities are suspected or detected then appropriate consultation should be obtained.
 
@@ -151,7 +148,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 [Viread 163 mg film-coated tablets]
 
-Overall, in view of the bone abnormalities associated with tenofovir disoproxil and the limitations of long-term data on the impact of tenofovir disoproxil on bone health and fracture risk, alternative treatment regimens should be considered for patients with osteoporosis that are at a high risk for fractures.
+Overall, in view of the bone abnormalities associated with tenofovir disoproxil and the limitations of long-term data on the impact of tenofovir disoproxil on bone health and fracture risk, alternative treatment regimens should be considered for patients with osteoporosis or with a history of bone fractures.
 
 Viread 163 mg film-coated tablets contain lactose monohydrate.
 
@@ -160,6 +157,8 @@ Viread 163 mg film-coated tablets contain lactose monohydrate.
 Viread 204 mg film-coated tablets contain lactose monohydrate.
 
 [Viread 245 mg film-coated tablets]
+
+There have been reports of a high rate of virological failure and of emergence of resistance at an early stage in HIV patients when tenofovir disoproxil was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once-daily regimen.Renal and bone effects in adult population
 
 It is recommended that creatinine clearance is calculated in all patients prior to initiating therapy with tenofovir disoproxil and renal function (creatinine clearance and serum phosphate) is also monitored after two to four weeks of treatment, after three months of treatment and every three to six months thereafter in patients without renal risk factors.
 

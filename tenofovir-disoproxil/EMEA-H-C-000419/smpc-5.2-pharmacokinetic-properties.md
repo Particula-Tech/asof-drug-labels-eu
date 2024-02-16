@@ -45,6 +45,7 @@ Pharmacokinetics have not been specifically studied in different ethnic groups.
 Paediatric population
 Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg and in 23 HIV-1 infected children aged 2 to < 12 years (see Table 10 below).
 Tenofovir exposure achieved in these paediatric patients receiving oral daily doses of tenofovir disoproxil 245 mg or 6.5 mg/kg body weight tenofovir disoproxil up to a maximum dose of 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
+
 Table 10: Mean (± SD) tenofovir pharmacokinetic parameters by age groups for paediatric patients
 
 | Dose and formulation | 245 mg film-coated tablet 12 to < 18 years (n = 8) | 6.5 mg/kg granules 2 to < 12 years (n = 23) |
