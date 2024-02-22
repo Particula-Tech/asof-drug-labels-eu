@@ -17,22 +17,17 @@ No new immune-mediated adverse reactions were identified in the adjuvant setting
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
 In the first-line NSCLC study (IMpower150), an overall higher frequency of adverse events was observed in the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin compared to atezolizumab, paclitaxel and carboplatin, including Grade 3 and 4 events (63.6% compared to 57.5%), Grade 5 events (6.1% compared to 2.5%), adverse events of special interest to atezolizumab (52.4% compared to 48.0%), as well as adverse events leading to withdrawal of any study treatment (33.8% compared to 13.3%).
-Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (≥5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin.
+Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (ε5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin.
 Other clinically significant adverse events which were observed more frequently in the atezolizumab, bevacizumab, paclitaxel, and carboplatin arm were epistaxis, haemoptysis, cerebrovascular accident, including fatal events.
 
 Further details on serious adverse reactions are provided in section 4.4.
+
 Tabulated list of adverse reactions
 
-The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of
-
-frequency in Table 3 for atezolizumab given as monotherapy or as combination therapy. Adverse
-reactions known to occur with atezolizumab or chemotherapies given alone may occur during
-treatment with these medicinal products in combination, even if these reactions were not reported in
-clinical trials with combination therapy. The following categories of frequency have been used: very
-
-common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
+The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab given as monotherapy or as combination therapy.
+Adverse reactions known to occur with atezolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
+The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
@@ -169,6 +164,7 @@ The median duration was 1.4 months (range: 3 days to 50.2+ months; + denotes a c
 Colitis led to discontinuation of atezolizumab in 22 (0.5%) patients.
 Colitis requiring the use of corticosteroids occurred in 0.6%
 (27/4 739) of patients receiving atezolizumab monotherapy.
+
 Immune-mediated endocrinopathies
 
 Thyroid disorders
@@ -177,7 +173,6 @@ Hypothyroidism occurred in 8.4% (400/4 739) of patients who received atezolizuma
 The median time to onset was 4.2 months (range: 1 day to 34.5 months).
 Hypothyroidism occurred in 17.4% (86/495) of patients who received atezolizumab monotherapy in the adjuvant NSCLC setting.
 The median time to onset was 4.0 months (range: 22 days to 11.8 months).
-
 Hyperthyroidism occurred in 2.4% (114/4 739) of patients who received atezolizumab monotherapy.
 The median time to onset was 2.76 months (range: 1 day to 24.3 months).
 Hyperthyroidism occurred in 6.5% (32/495) of patients who received atezolizumab monotherapy in the adjuvant NSCLC setting.
@@ -224,6 +219,7 @@ The median duration was 24 days (range: 6 days to 14.5+ months; + denotes a cens
 Meningoencephalitis requiring the use of corticosteroids occurred in 0.3% (12/4 739) of patients receiving atezolizumab and eight patients (0.2%) discontinued atezolizumab.
 
 Immune-mediated neuropathies
+
 Guillain-Barré syndrome and demyelinating polyneuropathy
 
 Guillain-Barré syndrome and demyelinating polyneuropathy occurred in 0.1% (6/4 739) of patients who received atezolizumab monotherapy.
@@ -231,7 +227,6 @@ The median time to onset was 4.1 months (range: 18 days to 8.1 months).
 The median duration was 8.0 months (range: 18 days to 24.5+ months; + denotes a censored value).
 Guillain-Barré syndrome led to discontinuation of atezolizumab in 1 patient (< 0.1%).
 Guillain-Barré syndrome requiring the use of corticosteroids occurred in < 0.1% (3/4 739) of patients receiving atezolizumab monotherapy.
-
 Immune-mediated facial paresis
 
 Facial paresis occurred in < 0.1% (1/4 739) of patients who received atezolizumab monotherapy.
@@ -327,6 +322,7 @@ No overall differences in safety were observed between patients ≥ 65 years of 
 In study IMpower150, age ≥ 65 was associated with an increased risk of developing adverse events in patients receiving atezolizumab in combination with bevacizumab, carboplatin and paclitaxel.
 
 In studies IMpower150, IMpower133 and IMpower110, data for patients ≥ 75 years of age are too limited to draw conclusions on this population.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -338,14 +334,10 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 The safety of atezolizumab as monotherapy is based on pooled data in 4 739 patients with various tumour types that were administered atezolizumab intravenously and 247 patients with NSCLC that were administered atezolizumab subcutaneously.
 
 The safety of intravenous atezolizumab given in combination with other medicinal products, has been evaluated in 4 535 patients across multiple tumour types.
-The most common adverse reactions
-(≥ 20%) were anaemia (36.8%), neutropenia (36.6%), nausea (35.5%), fatigue (33.1%), alopecia (28.1%), rash (27.8%), diarrhoea (27.6%), thrombocytopenia (27.1%), constipation (25.8%), decreased appetite (24.7%) and peripheral neuropathy (24.4%).
 
 The safety profile of Tecentriq solution for injection was overall similar to the known safety profile of the intravenous formulation, with an additional adverse reaction of injection site reaction (4.5% in the subcutaneous Tecentriq arm vs 0% in the intravenous atezolizumab arm).
 
 The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab (intravenous and subcutaneous) given as monotherapy or as combination therapy.
-Adverse reactions known to occur with atezolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
-The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
 | --- | --- | --- |
@@ -410,9 +402,6 @@ The following categories of frequency have been used: very common (≥ 1/10), co
 
 ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive ap Reported in a study outside the pooled dataset (subcutaneous administration related).
 The frequency is based on exposure to Tecentriq solution for injection in IMscin001 and includes reports of injection site reaction, injection site pain, injection site erythema, and injection site rash.
-
-The median time to onset was 4.0 months (range:
-3 days to 29.8 months).
 
 Colitis requiring the use of corticosteroids occurred in 0.6% (27/4 739) of patients receiving atezolizumab monotherapy.
 

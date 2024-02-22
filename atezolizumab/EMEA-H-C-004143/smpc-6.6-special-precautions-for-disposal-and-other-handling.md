@@ -55,20 +55,19 @@ No incompatibilities have been observed between Tecentriq solution for injection
 
 Tecentriq solution for injection does not contain any antimicrobial preservative or bacteriostatic agents.
 
-- Remove the vial from refrigerated storage and allow the solution to come to room temperature.
-- Withdraw the entire contents of Tecentriq solution for injection from the vial with a sterile syringe and transfer needle (18G recommended).
-- Remove the transfer needle and attach a subcutaneous infusion set (e.g. winged/butterfly) containing a 23-25G stainless steel needle for injection.
-  Use a SC infusion set with residual hold-up volume NOT exceeding 0.5 mL for administration.
-- Prime the subcutaneous infusion line with the medicinal product solution to eliminate the air in the infusion line and stop before the fluid reaches the needle.
-- Ensure the syringe contains exactly 15 mL of the solution after priming and expelling any excess volume from the syringe.
-- Administer immediately to avoid needle clogging.
-  DO NOT store the prepared syringe that has been attached to the already-primed SC infusion set.
+� Remove the vial from refrigerated storage and allow the solution to come to room temperature. � Withdraw the entire contents of Tecentriq solution for injection from the vial with a sterile syringe and transfer needle (18G recommended).
+� Remove the transfer needle and attach a subcutaneous infusion set (e.g. winged/butterfly) containing a 23-25G stainless steel needle for injection.
+Use a SC infusion set with residual hold-up volume NOT exceeding 0.5 mL for administration.
+� Prime the subcutaneous infusion line with the medicinal product solution to eliminate the air in the infusion line and stop before the fluid reaches the needle.
+� Ensure the syringe contains exactly 15 mL of the solution after priming and expelling any excess volume from the syringe.
+� Administer immediately to avoid needle clogging.
+DO NOT store the prepared syringe that has been attached to the already-primed SC infusion set.
 
 If the dose is not administered immediately, refer to “Storage of the syringe” below.
 
 Storage of the syringe
 
-- If the dose is not to be administered immediately, use aseptic technique to withdraw the entire contents of Tecentriq solution for injection from the vial into the syringe to account for the dose volume (15 mL) and priming volume for the subcutaneous infusion set.
-  Replace the transfer needle with a syringe closing cap.
-  DO NOT attach a subcutaneous infusion set for storage.
-- If the syringe is stored in a refrigerator, allow the syringe to reach room temperature prior to administration.
+� If the dose is not to be administered immediately, use aseptic technique to withdraw the entire contents of Tecentriq solution for injection from the vial into the syringe to account for the dose volume (15 mL) and priming volume for the subcutaneous infusion set.
+Replace the transfer needle with a syringe closing cap.
+DO NOT attach a subcutaneous infusion set for storage.
+� If the syringe is stored in a refrigerator, allow the syringe to reach room temperature prior to administration.

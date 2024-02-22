@@ -16,6 +16,9 @@ Based on limited data from clinical trials in patients whose immune-mediated adv
 
 Atezolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
+In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID.
+In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
+
 Immune-mediated pneumonitis
 
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -90,6 +93,7 @@ Treatment with atezolizumab should be permanently discontinued for Grade 4 hypop
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
+
 Immune-mediated meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
@@ -128,7 +132,6 @@ Treatment with atezolizumab may be resumed when serum amylase and lipase levels 
 Treatment with atezolizumab should be permanently discontinued for Grade 4, or any grade of recurrent pancreatitis.
 
 Immune-mediated myocarditis
-
 Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myocarditis.
 Myocarditis may also be a clinical manifestation of myositis and should be managed accordingly.
@@ -170,10 +173,10 @@ Treatment with atezolizumab should be permanently discontinued for Grade 4 skin 
 
 Atezolizumab should be withheld for patients with suspected SJS or TEN.
 For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
-
 Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Immune-mediated pericardial disorders
+
 Pericardial disorders, including pericarditis, pericardial effusion and cardiac tamponade, some leading to fatal outcomes, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for clinical signs and symptoms of pericardial disorders.
 
@@ -208,13 +211,13 @@ Disease-specific precautions
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
 Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
 Physicians should consult the nab-paclitaxel summary of product characteristics (SmPC) for specific precautions and contraindications of this medicine.
 
 Use of atezolizumab in UC for previously untreated patients who are considered cisplatin ineligible
+
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.
 There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
 
@@ -239,7 +242,6 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
 Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.

@@ -124,7 +124,7 @@ Clinically relevant IRF-assessed ORRs per RECIST v1.1 were shown; however, when 
 The confirmed ORRs per IRF-RECIST v1.1 were 21.9% (95% CI: 9.3, 40.0) in patients with PD-L1 expression ≥ 5%, 18.8% (95% CI: 10.9, 29.0) in patients with PD-L1 expression ≥ 1%, and 19.3% (95% CI: 12.7, 27.6) in all comers.
 The median duration of response (DOR) was not reached in any PD-L1 expression subgroup or in all comers.
 OS was not mature with an event patient ratio of approximately 40%.
-Median OS for all patient subgroups (PD-L1 expression ≥ 5 % and ≥ 1 %) and in all comers was 10.6 months.
+Median OS for all patient subgroups (PD-L1 expression ε 5 % and ε 1 %) and in all comers was 10.6 months.
 
 An updated analysis was performed with a median duration of survival follow-up of 17.2 months for Cohort 1 and is summarised in Table 5.
 The median DOR was not reached in any PD-L1 expression subgroup or in all comers.
@@ -177,7 +177,7 @@ Overall survival was not statistically significant for the comparison of Arm A v
 
 Based on an independent Data Monitoring Committee (iDMC) recommendation following an early review of survival data, accrual of patients on the atezolizumab monotherapy treatment arm whose tumours had a low PD-L1 expression (less than 5% of immune cells staining positive for PD-L1 by immunohistochemistry using VENTANA PD-L1 [SP142] assay) was stopped after observing decreased overall survival for this subgroup at an unplanned early analysis, however, this occurred after the vast majority of patients had already been enrolled.
 
-Out of 719 patients enrolled in the atezolizumab monotherapy (n=360) and chemotherapy alone (n=359) arms, 50 and 43 patients, respectively, were cisplatin-ineligible by Galsky criteria and had tumours with high PD-L1 expression (≥ 5% of immune cells staining positive for PD-L1 by immunohistochemistry using VENTANA PD-L1 [SP142] assay).
+Out of 719 patients enrolled in the atezolizumab monotherapy (n=360) and chemotherapy alone (n=359) arms, 50 and 43 patients, respectively, were cisplatin-ineligible by Galsky criteria and had tumours with high PD-L1 expression (ε 5% of immune cells staining positive for PD-L1 by immunohistochemistry using VENTANA PD-L1 [SP142] assay).
 In an exploratory analysis in this subgroup of patients, the unstratified HR for OS was 0.56 (95% CI: 0.34, 0.91).
 The median OS was 18.6 months (95% CI: 14.0, 49.4) in the atezolizumab monotherapy arm vs. 10.0 months (95% CI: 7.4, 18.1) in the chemotherapy alone arm (see Figure 2).
 
@@ -295,18 +295,19 @@ Updated PFS results are also presented in Figures 6 and 7.
 Table 9: Summary of updated efficacy in the ITT population (IMpower150)
 
 Efficacy endpoint Arm A Arm B Arm C
-(Atezolizumab + (Atezolizumab + (Bevacizumab
-Paclitaxel + Bevacizumab + + Paclitaxel +
-Carboplatin) Paclitaxel + Carboplatin)
-Carboplatin)
+(Atezolizumab + (Atezolizumab + (Bevacizuma
+Paclitaxel + Bevacizumab + b + Paclitaxel
+Carboplatin) Paclitaxel + +
+Carboplatin) Carboplatin)
 Secondary Endpoints#
 Investigator-assessed PFS (RECIST n = 402 n = 400 n = 400
 v1.1)*
 No. of events (%) 330 (82.1%) 291 (72.8%) 355 (88.8%)
 Median duration of PFS (months) 6.7 8.4 6.8
 95% CI (5.7, 6.9) (8.0, 9.9) (6.0, 7.0)
-Stratified hazard ratio‡^ (95% CI) 0.91 (0.78, 1.06) 0.59 (0.50, 0.69) ---
-p-value1,2 0.2194 < 0.0001
+Stratified hazard ratio‡^ (95% CI) 0.91 (0.78, 1.06) 0.59 (0.50, ---
+p-value1,2 0.2194 0.69)
+< 0.0001
 12-month PFS (%) 24 38 20
 OS interim analysis* n = 402 n = 400 n = 400
 No. of deaths (%) 206 (51.2%) 192 (48.0%) 230 (57.5%)
@@ -376,7 +377,7 @@ Figure 6: Kaplan-Meier curve for PFS in the ITT population (IMpower150)
 Figure 7: Forest plot of progression free survival by PD-L1 expression in the ITT population, Arm B vs. C (IMpower150)
 In Arm B as compared to Arm C, pre-specified subgroup analyses from the interim OS analysis showed an OS improvement for patients with EGFR mutations or ALK rearrangements (hazard ratio [HR] of 0.54, 95% CI: 0.29, 1.03; median OS not reached vs. 17.5 months), and liver metastases (HR of 0.52, 95% CI: 0.33, 0.82; median OS 13.3 vs. 9.4 months).
 PFS improvements were also shown in patients with EGFR mutations or ALK rearrangements (HR of 0.55, 95% CI: 0.35, 0.87; median PFS 10.0 vs. 6.1 months) and liver metastases (HR of 0.41, 95% CI: 0.26, 0.62; median PFS 8.2 vs. 5.4 months).
-OS results were similar for patients aged < 65 and ≥ 65 subgroups, respectively.
+OS results were similar for patients aged < 65 and ε 65 subgroups, respectively.
 Data for patients ≥ 75 years of age are too limited to draw conclusions on this population.
 For all subgroup analyses, formal statistical testing was not planned.
 
@@ -823,12 +824,12 @@ Figure 18: Kaplan-Meier curve for progression free survival in patients with PD-
 
 Figure 19: Kaplan-Meier curve for overall survival in patients with PD-L1 expression ≥ 1% (IMpassion130)
 
-The time to deterioration (a sustained ≥ 10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
+The time to deterioration (a sustained ε 10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
 Hepatocellular carcinoma
 
 IMbrave150 (YO40245): Randomised phase III trial in patients with unresectable HCC who have not received prior systemic therapy, in combination with bevacizumab
 
-A phase III, randomied, multi-centre, international, open-label study, IMbrave150, was conducted to evaluate the efficacy and safety of atezolizumab in combination with bevacizumab, in patients with locally advanced or metastatic and/or unresectable HCC, who have not received prior systemic treatment.
+A phase III, randomised, multi-centre, international, open-label study, IMbrave150, was conducted to evaluate the efficacy and safety of atezolizumab in combination with bevacizumab, in patients with locally advanced or metastatic and/or unresectable HCC, who have not received prior systemic treatment.
 A total of 501 patients were randomised (2:1) to receive either atezolizumab (1 200 mg) and 15 mg/kg bw of bevacizumab every 3 weeks administered by intravenous infusion, or sorafenib 400 mg orally twice per day.
 Randomization was stratified by geographic region, macrovascular invasion and/or extrashepatic spread, baseline α-fetoprotein (AFP) and ECOG performance status.
 Patients in both arms received treatment until loss of clinical benefit, or unacceptable toxicity.
@@ -1009,8 +1010,7 @@ Table 15: Summary of updated efficacy analyses (IMscin001)
 | --- | --- | --- |
 | Investigator-assessed ORR (RECIST v1.1)* n = 245 n = 124 No. of confirmed responders (%) 27 (11.0%) 13 (10.5%) 95% CI (7.39, 15.63) (5.70, 17.26) Investigator-assessed PFS (RECIST v1.1)* n = 247 n = 124 No. of events (%) 219 (88.7%) 107 (86.3%) Median (months) (95% CI) 2.8 (2.7, 4.1) 2.9 (1.8, 4.2) OS* n = 247 n = 124 No. of events (%) 144 (58.3%) 79 (63.7%) Median (months) (95% CI) 10.7 (8.5, 13.8) 10.1 (7.5, 12.1) |  |  |
 
-CI = confidence interval; ORR = objective response rate; PFS = progression-free survival;
-RECIST = Response Evaluation Criteria in Solid Tumors v1.1
+CI = confidence interval; ORR = objective response rate; PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumors v1.1
 * descriptive analyses
 
 The key results of this study with a median survival follow-up of 21 months are summarised in Table 16.
@@ -1047,7 +1047,10 @@ Table 19: Summary of efficacy in patients with PD-L1 expression ≥ 1% (IMpassio
 
 Primary efficacy endpoints n = 185 n = 184
 
-A phase III, randomised, multi-centre, international, open-label study, IMbrave150, was conducted to evaluate the efficacy and safety of atezolizumab in combination with bevacizumab, in patients with locally advanced or metastatic and/or unresectable HCC, who have not received prior systemic treatment.
+Stratified hazard ratio‡ (95% 0.62 (0.49, 0.78)
+
+Stratified hazard ratio‡ (95% 0.63 (0.50-0.80)
+
 Randomisation was stratified by geographic region, macrovascular invasion and/or extrahepatic spread, baseline α-fetoprotein (AFP) and ECOG performance status.
 
 Patients were also excluded if they had moderate or severe ascites; history of hepatic encephalopathy; known fibrolamellar HCC; sarcomatoid HCC, mixed cholangiocarcinoma and HCC; active co-infection of HBV and HCV; history of autoimmune disease; administration of a live, attenuated vaccine within 4 weeks prior to randomisation; administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to randomisation; untreated or corticosteroid-dependent brain metastases.
