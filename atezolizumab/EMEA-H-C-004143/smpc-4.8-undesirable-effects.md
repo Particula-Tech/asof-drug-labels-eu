@@ -17,7 +17,7 @@ No new immune-mediated adverse reactions were identified in the adjuvant setting
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
 In the first-line NSCLC study (IMpower150), an overall higher frequency of adverse events was observed in the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin compared to atezolizumab, paclitaxel and carboplatin, including Grade 3 and 4 events (63.6% compared to 57.5%), Grade 5 events (6.1% compared to 2.5%), adverse events of special interest to atezolizumab (52.4% compared to 48.0%), as well as adverse events leading to withdrawal of any study treatment (33.8% compared to 13.3%).
-Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (ε5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin.
+Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (≥5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin.
 Other clinically significant adverse events which were observed more frequently in the atezolizumab, bevacizumab, paclitaxel, and carboplatin arm were epistaxis, haemoptysis, cerebrovascular accident, including fatal events.
 
 Further details on serious adverse reactions are provided in section 4.4.

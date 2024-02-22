@@ -3,8 +3,9 @@
 Urothelial carcinoma (UC)
 
 Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic UC:
-� after prior platinum-containing chemotherapy, or
-� who are considered cisplatin ineligible, and whose tumours have a PD-L1 expression ≥ 5% (see section 5.1).
+
+- after prior platinum-containing chemotherapy, or
+- who are considered cisplatin ineligible, and whose tumours have a PD-L1 expression ≥ 5% (see section 5.1).
 
 Early-stage non-small cell lung cancer (NSCLC)
 
