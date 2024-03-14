@@ -6,6 +6,8 @@ Each perforated unit-dose blister strip contains 4 hard capsules.
 The Inbrija inhaler is made of polybutylene terephthalate (PBT), polycarbonate (PC) and polypropylene (PP).
 Puncturing tines and springs are made from stainless steel.
 
+Carton containing 16 hard capsules (4 blister strips) and one inhaler.
+Carton containing 32 hard capsules (8 blister strips) and one inhaler.
 Carton containing 60 hard capsules (15 blister strips) and one inhaler.
 Carton containing 92 hard capsules (23 blister strips) and one inhaler.
 
