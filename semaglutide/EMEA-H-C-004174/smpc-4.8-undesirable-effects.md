@@ -12,7 +12,7 @@ The frequencies of the adverse reactions (except diabetic retinopathy complicati
 
 The reactions are listed below by system organ class and absolute frequency.
 Frequencies are defined as: very common: (≥1/10); common: (≥1/100 to <1/10); uncommon: (≥1/1 000 to <1/100); rare:
-(≥1/10 000 to <1/1 000); very rare: (<1/10 000) and not known: cannot be estimated from available data.
+(≥1/10 000 to <1/1 000); very rare: (<1/10 000) and not known: (cannot be estimated from available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Frequency of adverse reactions of semaglutide
@@ -24,7 +24,7 @@ Table 1 Frequency of adverse reactions of semaglutide
 | Nervous system disorders |  | Dizziness | Dysgeusia |  |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |  |
-| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |  |  |
+| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |  | Intestinal Obstructiond |
 | Hepatobiliary disorders |  | Cholelithiasis |  |  |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  | Angioedemad |
 | General disorders and administra-tion site conditions |  | Fatigue | Injection site reactions |  |  |

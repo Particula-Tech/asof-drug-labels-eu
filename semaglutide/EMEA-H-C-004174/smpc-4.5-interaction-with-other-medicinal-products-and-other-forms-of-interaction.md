@@ -30,7 +30,8 @@ Metformin
 
 Semaglutide did not change the overall exposure or Cmax of metformin following dosing of 500 mg twice daily over 3.5 days.
 
-Warfarin
+Warfarin and other coumarin derivatives
 
 Semaglutide did not change the overall exposure or Cmax of R- and S-warfarin following a single dose of warfarin (25 mg), and the pharmacodynamic effects of warfarin as measured by the international normalised ratio (INR) were not affected in a clinically relevant manner.
-However, upon initiation of semaglutide treatment in patients on warfarin or other coumarin derivatives, frequent monitoring of INR is recommended.
+However, cases of decreased INR have been reported during concomitant use of acenocoumarol and semaglutide.
+Upon initiation of semaglutide treatment in patients on warfarin or other coumarin derivatives, frequent monitoring of INR is recommended.
