@@ -41,11 +41,11 @@ However, norfloxacin and metronidazole combined reduced the MPA exposure by appr
 
 Trimethoprim/sulfamethoxazole
 No effect on the bioavailability of MPA was observed.
+
 Medicinal products that affect glucuronidation (e.g. isavuconazole, telmisartan)
 
 Concomitant administration of drugs affecting glucuronidation of MPA may change MPA exposure.
 Caution is therefore recommended when administering these drugs concomitantly with CellCept.
-
 Isavuconazole
 An increase of MPA exposure (AUC0-∞) by 35% was observed with concomitant administration of isavuconazole.
 
@@ -79,10 +79,10 @@ However, in renal transplant patients, tacrolimus concentration did not appear t
 Live vaccines
 Live vaccines should not be given to patients with an impaired immune response.
 The antibody response to other vaccines may be diminished (see also section 4.4).
+
 Paediatric population
 
 Interaction studies have only been performed in adults.
-
 Potential interaction
 
 Co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.
@@ -96,7 +96,7 @@ Following single dose, oral administration of 1.5 g of mycophenolate mofetil to 
 
 [CellCept 1 g/5 ml powder for oral suspension]
 
-These data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co- administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
+These data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co-administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
 
 Following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
 (see section 4.4, and section 5.2).

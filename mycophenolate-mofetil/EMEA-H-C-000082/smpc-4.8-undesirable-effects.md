@@ -151,19 +151,18 @@ The proportion of patients with CMV viraemia/syndrome was 13.5%.
 Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leukoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including CellCept.
 
 Blood and lymphatic disorders
-Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and hemorrhages (see section 4.4).
+Cytopenias, including leukopenia, anaemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and haemorrhages (see section 4.4).
 Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
 There have been reports of aplastic anaemia and bone marrow failure in patients treated with CellCept, some of which have been fatal.
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept (see section 4.4).
-
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with CellCept.
 These changes are not associated with impaired neutrophil function.
 These changes may suggest a ‘left shift’ in the maturity of neutrophils in haematological investigations, which may be mistakenly interpreted as a sign of infection in immunosuppressed patients such as those that receive CellCept.
 
 Gastrointestinal disorders
-The most serious gastrointestinal disorders were ulceration and hemorrhage which are known risks associated with mycophenolate mofetil.
-Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by hemorrhage, as well as hematemesis, melena, and hemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials.
+The most serious gastrointestinal disorders were ulceration and haemorrhage which are known risks associated with mycophenolate mofetil.
+Mouth, oesophageal, gastric, duodenal, and intestinal ulcers often complicated by haemorrhage, as well as haematemesis, melena, and haemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials.
 The most common gastrointestinal disorders, however, were diarrhoea, nausea and vomiting.
 Endoscopic investigation of patients with CellCept-related diarrhoea have revealed isolated cases of intestinal villous atrophy (see section 4.4).
 
@@ -195,7 +194,6 @@ Special populations
 Paediatric population
 The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g CellCept twice daily.
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
-
 Elderly
 Elderly patients (≥ 65 years) may generally be at increased risk of adverse reactions due to immunosuppression.
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.

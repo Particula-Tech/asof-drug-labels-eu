@@ -6,6 +6,7 @@ The highest dose tested in the animal carcinogenicity studies resulted in approx
 Two genotoxicity assays (in vitro mouse lymphoma assay and in vivo mouse bone marrow micronucleus test) showed a potential of mycophenolate mofetil to cause chromosomal aberrations.
 These effects can be related to the pharmacodynamic mode of action, i.e. inhibition of nucleotide synthesis in sensitive cells.
 Other in vitro tests for detection of gene mutation did not demonstrate genotoxic activity.
+
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.
 The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients (see section 4.6).
 

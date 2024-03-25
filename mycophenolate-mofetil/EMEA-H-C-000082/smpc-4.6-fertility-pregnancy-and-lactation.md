@@ -12,7 +12,6 @@ CellCept is contraindicated during pregnancy unless there is no suitable alterna
 Treatment should not be initiated without providing a negative pregnancy test result to rule out unintended use in pregnancy.
 
 Female patients of reproductive potential must be made aware of the increased risk of pregnancy loss and congenital malformations at the beginning of the treatment and must be counselled regarding pregnancy prevention and planning.
-
 Before starting CellCept treatment, women of childbearing potential should have two negative serum or urine pregnancy tests with a sensitivity of at least 25 mIU/ml in order to exclude unintended exposure of an embryo to mycophenolate.
 It is recommended that the second test should be performed 8 - 10 days after the first test.
 For transplants from deceased donors, if it is not possible to perform two tests 8 - 10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8 - 10 days later.
@@ -48,9 +47,8 @@ Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Breast-feeding
 
-Mycophenolate mofetil has been shown to be excreted in the milk of lactating rats.
-It is not known whether this substance is excreted in human milk.
-Because of the potential for serious adverse reactions to mycophenolate mofetil in breast-fed infants, CellCept is contraindicated in nursing mothers (see section 4.3).
+Limited data shows that mycophenolic acid is excreted in human milk.
+Because of the potential for serious adverse reactions to mycophenolic acid in breast-fed infants, CellCept is contraindicated in nursing mothers (see section 4.3).
 
 Men
 

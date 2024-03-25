@@ -22,4 +22,4 @@ A bottle adapter and 2 oral dispensers are also provided.
 
 [CellCept 500 mg film-coated tablets]
 
-CellCept 500 mg film-coated tablets: 1 carton contains 50 tablets (in blister packs of 10) multipacks containing 150 (3 packs of 50) tablets
+CellCept 500 mg film-coated tablets: 1 carton contains 50 tablets (in blister packs of 10) multipacks containing 150 (3 packs of 50) tablets Not all pack sizes may be marketed.

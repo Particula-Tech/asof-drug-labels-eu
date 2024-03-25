@@ -47,7 +47,7 @@ CellCept has been associated with an increased incidence of digestive system adv
 CellCept should be administered with caution in patients with active serious digestive system disease.
 
 CellCept is an IMPDH (inosine monophosphate dehydrogenase) inhibitor.
-Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
 
 Interactions
 
@@ -100,8 +100,6 @@ Such infections include latent viral reactivation, such as hepatitis B or hepati
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be appropriate to interrupt or discontinue CellCept.
 
 Patients should be advised that, during treatment with CellCept, vaccinations may be less effective, and the use of live attenuated vaccines should be avoided (see section 4.5).
-
-Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
 
 Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholesterolamine, antibiotics) should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.

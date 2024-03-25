@@ -16,4 +16,3 @@ Powder for oral suspension and reconstituted suspension: Do not store above 30 Â
 [CellCept 500 mg film-coated tablets]
 
 Do not store above 30 Â°C.
-Keep the blister in the outer carton in order to protect from light.
