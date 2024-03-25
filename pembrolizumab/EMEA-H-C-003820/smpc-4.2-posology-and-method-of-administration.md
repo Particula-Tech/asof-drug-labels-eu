@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
+
 PD-L1 testing
 
 If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8 and 5.1).
@@ -23,9 +24,11 @@ It is recommended to continue treatment for clinically stable patients with init
 
 For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
 
-For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
+For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
 KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
@@ -59,6 +62,7 @@ Note: toxicity grades are in accordance with National Cancer Institute Common Te
 * If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if
 
 corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
+
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-mediated myocarditis is not known.
 
 KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated adverse reactions, unless otherwise specified in
@@ -88,7 +92,6 @@ Patients treated with KEYTRUDA must be given the patient card and be informed ab
 Special populations
 Elderly
 No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5.1).
-
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
 KEYTRUDA has not been studied in patients with severe renal impairment (see sections 4.4 and 5.2).
@@ -106,6 +109,7 @@ Method of administration
 KEYTRUDA is for intravenous use.
 It must be administered by infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
+
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.

@@ -8,12 +8,13 @@ KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults and ad
 
 Non-small cell lung carcinoma (NSCLC)
 
+KEYTRUDA, in combination with platinum-containing chemotherapy as neoadjuvant treatment, and then continued as monotherapy as adjuvant treatment, is indicated for the treatment of resectable non-small cell lung carcinoma at high risk of recurrence in adults (for selection criteria, see section 5.1).
+
 KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with non-small cell lung carcinoma who are at high risk of recurrence following complete resection and platinum-based chemotherapy (for selection criteria, see section 5.1).
 
 KEYTRUDA as monotherapy is indicated for the first-line treatment of metastatic non-small cell lung carcinoma in adults whose tumours express PD-L1 with a ≥ 50% tumour proportion score (TPS) with no EGFR or ALK positive tumour mutations.
 
 KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated for the first-line treatment of metastatic non-squamous non-small cell lung carcinoma in adults whose tumours have no EGFR or ALK positive mutations.
-
 KEYTRUDA, in combination with carboplatin and either paclitaxel or nab-paclitaxel, is indicated for the first-line treatment of metastatic squamous non-small cell lung carcinoma in adults.
 
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic non-small cell lung carcinoma in adults whose tumours express PD-L1 with a ≥ 1% TPS and who have received at least one prior chemotherapy regimen.

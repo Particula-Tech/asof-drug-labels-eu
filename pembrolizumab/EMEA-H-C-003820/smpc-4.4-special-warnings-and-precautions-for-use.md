@@ -18,7 +18,6 @@ Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and co
 Based on limited data from clinical studies in patients whose immune-mediated adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
-
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
 Immune-mediated pneumonitis
@@ -33,6 +32,7 @@ Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 or recurrent Grade 3 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
+
 Immune-mediated hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -56,7 +56,6 @@ Pembrolizumab should be withheld for Grade 2 adrenal insufficiency or hypophysit
 Pembrolizumab should be withheld or discontinued for Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis.
 Continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see section 4.2).
 Pituitary function and hormone levels should be monitored to ensure appropriate hormone replacement.
-
 Type 1 diabetes mellitus, including diabetic ketoacidosis, has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for hyperglycaemia or other signs and symptoms of diabetes.
 Insulin should be administered for type 1 diabetes, and pembrolizumab should be withheld in cases of type 1 diabetes associated with Grade ≥ 3 hyperglycaemia or ketoacidosis until metabolic control is achieved (see section 4.2).
@@ -71,6 +70,7 @@ Thyroid function and hormone levels should be monitored to ensure appropriate ho
 
 For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed.
 Otherwise treatment should be discontinued (see sections 4.2 and 4.8).
+
 Immune-mediated skin adverse reactions
 Immune-mediated severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
@@ -92,7 +92,6 @@ Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if th
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction.
 
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
-
 Transplant-related adverse reactions
 
 Solid organ transplant rejection
@@ -105,6 +104,7 @@ Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 Allogeneic HSCT after treatment with pembrolizumab
 Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients with cHL undergoing allogeneic HSCT after previous exposure to pembrolizumab.
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
+
 Allogeneic HSCT prior to treatment with pembrolizumab
 In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with pembrolizumab.
 Patients who experienced GVHD after their transplant procedure may be at an increased risk for GVHD after treatment with pembrolizumab.
@@ -141,6 +141,7 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
+
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 

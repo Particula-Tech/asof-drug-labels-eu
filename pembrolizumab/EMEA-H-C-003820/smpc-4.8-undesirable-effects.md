@@ -6,7 +6,7 @@ Most of these, including severe reactions, resolved following initiation of appr
 The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
 
 Pembrolizumab in monotherapy (see section 4.2)
-The safety of pembrolizumab as monotherapy has been evaluated in 7,631 patients across tumour types and across four doses (2 mg/kg bw every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg bw every 2 or 3 weeks) in clinical studies.
+The safety of pembrolizumab as monotherapy has been evaluated in 7 631 patients across tumour types and across four doses (2 mg/kg bw every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg bw every 2 or 3 weeks) in clinical studies.
 In this patient population, the median observation time was 8.5 months (range: 1 day to 39 months) and the most frequent adverse reactions with pembrolizumab were fatigue (31%), diarrhoea (22%), and nausea (20%).
 The majority of adverse reactions reported for monotherapy were of Grades 1 or 2 severity.
 The most serious adverse reactions were immune-mediated adverse reactions and severe infusion-related reactions (see section 4.4).
@@ -16,16 +16,16 @@ No new immune-mediated adverse reactions were identified in the adjuvant setting
 Pembrolizumab in combination with chemotherapy (see section 4.2)
 When pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components prior to initiation of treatment.
 
-The safety of pembrolizumab in combination with chemotherapy has been evaluated in 4,787 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
-In this patient population, the most frequent adverse reactions were anaemia (53%), nausea (51%), fatigue (35%), diarrhoea (34%), constipation (32%), vomiting (29%), decreased appetite (28%), neutropenia (28%), neutrophil count decreased (26%) and alopecia (25%).
-Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 67% for pembrolizumab combination therapy and 66% for chemotherapy alone, in patients with HNSCC were 85% for pembrolizumab combination therapy and 84% for chemotherapy plus cetuximab, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 82% for pembrolizumab combination and 75% for chemotherapy, with or without bevacizumab, in patients with gastric cancer were 75% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 79% for chemotherapy with or without trastuzumab, and in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone.
+The safety of pembrolizumab in combination with chemotherapy has been evaluated in 5 183 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
+In this patient population, the most frequent adverse reactions were anaemia (52%), nausea (52%), fatigue (35%), diarrhoea (33%), constipation (32%), vomiting (28%), decreased appetite (28%), neutrophil count decreased (27%) and neutropenia (25%).
+Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 69% for pembrolizumab combination therapy and 61% for chemotherapy alone, in patients with HNSCC were 85% for pembrolizumab combination therapy and 84% for chemotherapy plus cetuximab, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 82% for pembrolizumab combination and 75% for chemotherapy, with or without bevacizumab, in patients with gastric cancer were 74% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 68% for chemotherapy with or without trastuzumab, and in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone.
 
 Pembrolizumab in combination with tyrosine kinase inhibitor (TKI) (see section 4.2)
 When pembrolizumab is administered in combination with axitinib or lenvatinib, refer to the SmPC for axitinib or lenvatinib prior to initiation of treatment.
 For additional lenvatinib safety information related to advanced RCC see the SmPC for Kisplyx and for advanced EC see the SmPC for Lenvima.
 For additional axitinib safety information for elevated liver enzymes see also section 4.4.
 
-The safety of pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1,456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate.
+The safety of pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1 456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate.
 In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%).
 Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% for sunitinib alone.
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
@@ -33,7 +33,7 @@ In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in 
 Tabulated summary of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); and not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
 For additional safety information when pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components.
@@ -74,8 +74,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome, Guillain-Barré syndrome⁎, optic neuritis | optic neuritis |
 | Eye disorders |  |  |  |
 | Common | dry eye | dry eye | dry eye |
-| Uncommon | uveitis⁎ | uveitis⁎ | uveitis⁎ |
-| Rare | Vogt-Koyanagi-Har ada syndrome |  | Vogt-Koyanagi-Harad a syndrome |
+| Uncommon | uveitis⁎ |  | uveitis⁎ |
+| Rare | Vogt-Koyanagi-Har ada syndrome | uveitis⁎ | Vogt-Koyanagi-Harad a syndrome |
 | Cardiac disorders |  |  |  |
 | Common | cardiac arrhythmia‡ (including atrial fibrillation) | cardiac arrhythmia‡ (including atrial fibrillation) | cardiac arrhythmia‡ (including atrial fibrillation) |
 | Uncommon | myocarditis, pericardial effusion, pericarditis | myocarditis⁎, pericardial effusion, pericarditis | myocarditis, pericardial effusion |
@@ -98,8 +98,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Skin and subcutaneous tissue disorders |  |  |  |
 | Very common | pruritus⁎, rash⁎ | alopecia, pruritus⁎, rash⁎ | rash⁎, pruritus⁎ |
 | Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, erythema, dermatitis, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
-| Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, lichenoid keratosis⁎, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
-| Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
+| Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
+| Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, lichenoid keratosis⁎, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Very common | musculoskeletal pain⁎, arthralgia | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
 | Common | myositis⁎, pain in extremity, arthritis⁎ | myositis⁎, pain in extremity, arthritis⁎ | arthritis⁎ |
@@ -172,7 +172,7 @@ Pneumonitis occurred more frequently in patients with a history of prior thoraci
 Pneumonitis led to discontinuation of pembrolizumab in 131 (1.7%) patients.
 Pneumonitis resolved in 196 patients, 6 with sequelae.
 
-In patients with NSCLC, pneumonitis occurred in 206 (6.1%), including Grade 2, 3, 4 or 5 cases in 92 (2.7%), 56 (1.7%), 16 (0.5%) and 9 (0.3%), respectively.
+In patients with NSCLC, pneumonitis occurred in 230 (6.1%), including Grade 2, 3, 4 or 5 cases in 103 (2.7%), 63 (1.7%), 17 (0.4%) and 10 (0.3%), respectively.
 In patients with locally advanced or metastatic NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
 In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
 
@@ -218,7 +218,7 @@ The median time to onset of hyperthyroidism was 1.4 months (range: 1 day to 23.2
 The median duration was 1.6 months (range: 4 days to 43.1+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 4 (0.1%) patients.
 Hyperthyroidism resolved in 326 (82.7%) patients, 11 with sequelae.
-In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2,060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
+In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
 Hypothyroidism occurred in 939 (12.3%) patients, including Grade 2 or 3 cases in 687 (9.0%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypothyroidism was 3.4 months (range: 1 day to 25.9 months).
 The median duration was not reached (range: 2 days to 63.0+ months).
@@ -227,8 +227,8 @@ Hypothyroidism resolved in 216 (23.0%) patients, 16 with sequelae.
 In patients with cHL (n=389) the incidence of hypothyroidism was 17%, all of which were Grade 1 or 2.
 In patients with HNSCC treated with pembrolizumab as monotherapy (n=909), the incidence of hypothyroidism was 16.1% (all Grades) with 0.3% Grade 3.
 In patients with HNSCC treated with pembrolizumab in combination with platinum and 5-FU chemotherapy (n=276), the incidence of hypothyroidism was 15.2%, all of which were Grade 1 or 2.
-In patients treated with pembrolizumab in combination with axitinib or lenvatinib (n=1,456), the incidence of hypothyroidism was 46.2% (all Grades) with 0.8% Grade 3 or 4.
-In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2,060), the incidence of hypothyroidism was 18.5%, the majority of which were Grade 1 or 2.
+In patients treated with pembrolizumab in combination with axitinib or lenvatinib (n=1 456), the incidence of hypothyroidism was 46.2% (all Grades) with 0.8% Grade 3 or 4.
+In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hypothyroidism was 18.5%, the majority of which were Grade 1 or 2.
 
 Immune-mediated skin adverse reactions
 Immune-mediated severe skin reactions occurred in 130 (1.7%) patients, including Grade 2, 3, 4 or 5 cases in 11 (0.1%), 103 (1.3%), 1 (< 0.1%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
@@ -265,12 +265,12 @@ There were no Grade 5 hepatic events.
 Laboratory abnormalities
 In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 9.4% for lymphocytes decreased, 7.4% for sodium decreased, 5.8% for haemoglobin decreased, 5.3% for phosphate decreased, 5.3% for glucose increased, 3.3% for ALT increased, 3.1% for AST increased, 2.6% for alkaline phosphatase increased, 2.3% for potassium decreased, 2.1% for potassium increased, 1.9% for neutrophils decreased, 1.8% for platelets decreased, 1.8% for calcium increased, 1.7% for bilirubin increased, 1.5% for calcium decreased, 1.4% for albumin decreased, 1.3% for creatinine increased, 1.2% for glucose decreased, 0.8% for leucocytes decreased, 0.7% for magnesium increased, 0.5% for sodium increased, 0.4% for haemoglobin increased, and 0.2% for magnesium decreased.
 
-In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 41.3% for neutrophils decreased, 26.9% for lymphocytes decreased, 24.8% for leucocytes decreased, 21.9% for haemoglobin decreased, 14.9% for platelets decreased, 11.0% for sodium decreased, 8.7% for potassium decreased, 8.1% for phosphate decreased, 6.1% for ALT increased, 5.7% for AST increased, 5.6% for glucose increased, 4.1% for bilirubin increased, 3.8% for calcium decreased, 3.5% for creatinine increased, 3.4% for potassium increased, 3.2% for alkaline phosphatase increased, 2.9% for albumin decreased, 1.8% for calcium increased, 1.1% for glucose decreased, 0.5% for sodium increased and 0.1% for haemoglobin increased.
+In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 39.9% for neutrophils decreased, 25.5% for lymphocytes decreased, 23.3% for leucocytes decreased, 20.8% for haemoglobin decreased, 13.7% for platelets decreased, 10.4% for sodium decreased, 7.7% for potassium decreased, 7.3% for phosphate decreased, 5.7% for ALT increased, 5.5% for glucose increased, 5.3% for AST increased, 3.6% for bilirubin increased, 3.5% for calcium decreased, 3.4% for potassium increased, 3.1% for creatinine increased, 2.8% for alkaline phosphatase increased, 2.6% for albumin decreased, 1.7% for calcium increased, 1.0% for glucose decreased, 0.5% for sodium increased and 0.1% for haemoglobin increased.
 
 In patients treated with pembrolizumab in combination with axitinib or lenvatinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.0% for lipase increased (not measured in patients treated with pembrolizumab and axitinib), 12.0% for lymphocyte decreased, 11.4% for sodium decreased, 11.2% for amylase increased, 11.2% for triglycerides increased, 10.4% for ALT increased, 8.9% for AST increased, 7.8% for glucose increased, 6.8% for phosphate decreased, 6.1% for potassium decreased, 5.1% for potassium increased, 4.5% for cholesterol increased, 4.4% for creatinine increased, 4.2% for haemoglobin decreased, 4.0% for magnesium decreased, 3.5% for neutrophils decreased, 3.1% for alkaline phosphatase increased, 3.0% for platelets decreased, 2.8% for bilirubin increased, 2.2% for calcium decreased, 1.7% for white blood cells decreased, 1.6% for magnesium increased, 1.5% for prothrombin INR increased, 1.4% for glucose decreased, 1.2% for albumin decreased, 1.2% for calcium increased, 0.4% for sodium increased, and 0.1% for haemoglobin increased.
 
 Immunogenicity
-In clinical studies in patients treated with pembrolizumab 2 mg/kg bw every three weeks, 200 mg every three weeks, or 10 mg/kg bw every two or three weeks as monotherapy, 36 (1.8%) of 2,034 evaluable patients tested positive for treatment-emergent antibodies to pembrolizumab, of which 9 (0.4%) patients had neutralising antibodies against pembrolizumab.
+In clinical studies in patients treated with pembrolizumab 2 mg/kg bw every three weeks, 200 mg every three weeks, or 10 mg/kg bw every two or three weeks as monotherapy, 36 (1.8%) of 2 034 evaluable patients tested positive for treatment-emergent antibodies to pembrolizumab, of which 9 (0.4%) patients had neutralising antibodies against pembrolizumab.
 There was no evidence of an altered pharmacokinetic or safety profile with anti-pembrolizumab binding or neutralising antibody development.
 
 Paediatric population
@@ -286,4 +286,6 @@ Long-term safety data of pembrolizumab in adolescents with Stage IIB, IIC and II
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
