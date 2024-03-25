@@ -37,7 +37,6 @@ Caution should be used when administering regadenoson to patients with a history
 
 Aminophylline should be used with caution in patients with a history of seizures or who have other risk factors for seizures as it may prolong a seizure or cause multiple seizures because of its proconvulsant effect.
 Therefore administration of aminophylline solely for the purpose of terminating a seizure induced by regadenoson is not recommended.
-
 Atrial fibrillation or flutter
 Regadenoson should be used with caution in patients with a history of atrial fibrillation or flutter.
 In post- marketing experience there have been cases of worsening or recurrence of atrial fibrillation after administration of regadenoson.

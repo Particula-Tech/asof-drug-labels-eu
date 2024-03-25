@@ -2,10 +2,11 @@
 
 Pregnancy
 There are no adequate data from the use of regadenoson in pregnant women.
-Animal studies on pre- and post-natal development have not been conducted.
+Animal studies on pre-and post-natal development have not been conducted.
 Fetotoxicity, but not teratogenicity, was noted in embryo-fetal development studies (see section 5.3).
 The potential risk for humans is unknown.
 Regadenoson should not be used during pregnancy unless clearly necessary.
+
 Breast-feeding
 It is unknown whether regadenoson is excreted in human breast milk.
 The excretion of regadenoson in milk has not been studied in animals.

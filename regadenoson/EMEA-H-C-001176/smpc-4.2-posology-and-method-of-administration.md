@@ -13,10 +13,10 @@ Aminophylline may be used to attenuate severe and/or persistent adverse reaction
 
 Regadenoson causes a rapid increase in heart rate (see sections 4.4 and 5.1).
 Patients should remain sitting or lying down and be monitored at frequent intervals after the injection until the ECG parameters, heart rate and blood pressure have returned to pre-dose levels.
-
 Repeated use
-For use in MPI: This product is to be administered only once within a 24-hour period.
+For use in MPI: This product is to be administered only once within a 24 hour period.
 Safety and tolerability of repeated use of this product within 24 hours has not been characterised.
+
 For use in FFR: This product is to be administered no more than twice, no less than10 minutes apart, during any 24-hour period.
 When administered twice 10 minutes apart in a 24-hour period, full safety data for the second injection of Rapiscan are not available.
 

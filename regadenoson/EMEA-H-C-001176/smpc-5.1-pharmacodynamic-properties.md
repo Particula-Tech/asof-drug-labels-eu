@@ -14,8 +14,7 @@ Pharmacodynamic effects
 
 Coronary blood flow
 Regadenoson causes a rapid increase in CBF which is sustained for a short duration.
-In patients undergoing coronary catheterisation, pulsed-wave Doppler ultrasonography was used to measure the average peak velocity (APV) of CBF before and up to 30 minutes after administration of regadenoson
-( 400 micrograms, intravenously).
+In patients undergoing coronary catheterisation, pulsed-wave Doppler ultrasonography was used to measure the average peak velocity (APV) of CBF before and up to 30 minutes after administration of regadenoson (400 micrograms, intravenously).
 Mean APV increased to greater than twice baseline by 30 seconds and decreased to less than half of the maximal effect within 10 minutes (see section 5.2).
 
 Myocardial uptake of the radiopharmaceutical is proportional to CBF.
@@ -58,6 +57,7 @@ Clinical efficacy and safety
 Clinical studies have demonstrated the efficacy and safety of regadenoson in patients indicated for pharmacologic stress Single Photon Emission Computed Tomography (SPECT), Positron Emission Tomography (PET), Cardiac Magnetic Resonance (CMR) and MultiDetector Computed Tomography (MDCT) MPI and for the measurement of FFR.
 
 Regadenoson-stress SPECT MPI
+
 The efficacy and safety of regadenoson for regadenoson-stress SPECT MPI were determined relative to adenosine in two randomised, double-blind studies (ADVANCE MPI 1 and ADVANCE MPI 2) in 2,015 patients with known or suspected coronary artery disease who were referred for a clinically-indicated pharmacologic stress MPI.
 A total of 1,871 of these patients had images considered valid for the primary efficacy evaluation, including 1,294 (69%) men and 577 (31%) women with a median age of 66 years (range 26-93 years of age).
 Each patient received an initial stress scan using adenosine (6-minute infusion using a dose of 0.14 mg/kg/min, without exercise) with a gated SPECT (single photon emission computed tomography) imaging protocol.
@@ -79,12 +79,14 @@ ADVANCE ADVANCE Combined
 MPI 1 MPI 2 Studies
 
 (n = 1,113) (n = 758) (n = 1,871)
-
 Adenosine – Adenosine Agreement Rate (± SE) 61 ± 3% 64 ± 4% 62 ± 3%
+
 Number of Patients (n) 372 259 631
+
 Adenosine – regadenoson Agreement Rate (± SE) 62 ± 2% 63 ± 3% 63 ± 2%
+
 Number of Patients (n) 741 499 1,240
-Rate Difference (regadenoson – Adenosine) (± 1 ± 4% -1 ± 5% 0 ± 3%
+Rate Difference (regadenoson – Adenosine) (± SE) 1 ± 4% -1 ± 5% 0 ± 3%
 95% Confidence Interval -7.5, 9.2% -11.2, 8.7% -6.2, 6.8%
 
 In ADVANCE MPI 1 and ADVANCE MPI 2, the Cicchetti-Allison and Fleiss-Cohen weighted kappas of the median score of three blinded readers with respect to ischaemia size category (not counting segments with normal rest uptake and mild/equivocal reduction in stress uptake as ischaemic) for the combined studies of regadenoson with the adenosine scan were moderate, 0.53 and 0.61, respectively; as were the weighted kappas of two consecutive adenosine scans, 0.50 and 0.55, respectively.
@@ -92,10 +94,12 @@ In ADVANCE MPI 1 and ADVANCE MPI 2, the Cicchetti-Allison and Fleiss-Cohen weigh
 Regadenoson-stress PET MPI
 
 Intraindividual comparison of regadenoson (0.4 mg/ 5 ml bolus) versus dipyridamole (0.57 mg/kg for 4 minutes) was performed in a prospective study recruiting 32 subjects (23 males and 9 females, mean age of 62 ± 12.1).
-From those, 26 had a reversible perfusion defect already identified on a previous clinically indicated dipyridamole-stress PET study with 82RbCl and 6 subjects with <5% pre-test likelihood for CAD showed no defects on dipyridamole PET images.
+From those,26 had a reversible perfusion defect already identified on a previous clinically indicated dipyridamole-stress PET study with 82RbCl and 6 subjects with <5% pre-test likelihood for CAD showed no defects on dipyridamole PET images.
 The study included patients with a mild-moderate degree of ischemia with a small proportion of patients having moderate to severe ischemia, and they had normal or near-normal left ventricular function.
+
 In this study the 82RbCl infusion started promptly after regadenoson injection (that is, imaging started 2 minutes following start of 82Rb infusion).
 Visual interpretation of PET images indicated no difference in the number of segments with reversible defects between regadenoson and dipyridamole for 30/32 image pairs.
+
 Results may not be generalizable to patients with slowed circulation times associated with left or right heart failure, pulmonary hypertension, or morbid obesity, who may have a delay in transit of the tracer arriving after the peak phase.
 
 Regadenoson-stress CMR MPI
@@ -113,11 +117,11 @@ Heart rate returned to baseline by 10 min post-adenosine while remaining elevate
 Left ventricular ejection fraction (LVEF) increased immediately following both vasodilators and returned to baseline following adenosine by 10 min, but remained increased at 15 min following regadenoson.
 Regadenoson resulted in a similar magnitude reduction in both LV end-diastolic volume index (LVEDVi) and LV end-systolic volume index (LVESVi) at 15 min whereas LVESVi resolved at 15 min following adenosine and LVEDVi remained below baseline values.
 
-Intraindividual comparison was conducted in a prospective study to determine the relative potency of regadenoson (400 μg in bolus), adenosine (140 μg/kg/min over 5 to 6 minutes), and dipyridamole (0.56 mg/kg over 4 minutes) by quantifying stress and rest myocardial perfusion using CMR in 50 young healthy male volunteers.
+Intraindividual comparison was conducted in a prospective study to determine the relative potency of regadenoson (400 μg in bolus), adenosine (140 μg/kg/min over 5 to 6 minutes), and dipyridamole (0.56 mg/kg over 4 minutes) by quantifying stress and rest myocardial perfusion using CMR in 15 young healthy normal volunteers.
 The protocol used in this study as rest-stress imaging is different from currently used protocols: initial rest perfusion CMR imaging, followed twenty minutes later by stress imaging performed at peak vasodilation.
 Regadenoson produced higher stress myocardial blood flow (MBF) than dipyridamole and adenosine (3.58±0.58 vs. 2.81±0.67 vs. 2.78±0.61 ml/min/g, p=0.0009 and p=0.0008 respectively).
 Regadenoson had a higher heart rate response than adenosine and dipyridamole (95±11 vs.76±13 vs. 86±12 beats/minute respectively).
-When stress MBF was adjusted for heart rate, there were no differences between regadenoson and adenosine (37.8±6 vs. 36.6±4μl/sec/g,), but differences between regadenoson and dipyridamole persisted (37.8 ± 6 vs. 32.6 ± 5μl/sec/g, p=0.03).
+When stress MBF was adjusted for heart rate, there were no differences between regadenoson and adenosine (37.8±6vs.36.6±4μl/sec/g,), but differences between regadenoson and dipyridamole persisted (37.8±6vs.32.6±5μl/sec/g, p=0.03).
 
 Regadenonon-stress MDCT MPI
 
@@ -140,8 +144,8 @@ Patients who did not achieve ≥ 85% maximum predicted heart rate (MPHR) and/or 
 Therefore, 1147 patients were randomized in two groups: 578 patients from the exercise with regadenoson group and 569 from the regadenoson only group to either 3 minutes recovery (for the exercise with regadenoson group) or at rest 1 hour later (for the regadenoson only group).
 
 Patients from both groups (exercise with regadenoson and regadenoson only) underwent a SPECT Myocardial Perfusion Imaging (MPI) at 60-90 minutes post-regadenoson administration.
-
 The baseline MPI scan at rest, and the MPI scans for the exercise with regadenoson and regadenoson only groups constituted the MPI 1 phase.
+
 Subsequentially, patients from both groups, returned 1-14 days later, to undergo a second stress MPI regadenoson study without exercise.
 The baseline MPI scans at rest and those without exercise at 1-14 days later from both groups, constituted the MPI 2 phase.
 
@@ -153,6 +157,7 @@ Upon case review, both patients, experienced ischemic symptoms and ECG changes d
 No serious cardiac adverse reactions occurred in patients receiving regadenoson 1 hour following inadequate exercise stress.
 
 Measurement of FFR
+
 For the measurement of FFR, five independent studies have been conducted.
 A total of 249 patients, who were clinically indicated to undergo coronary angiography with invasive measurement of FFR, received regadenoson, with 88 of those patients receiving regadenoson twice.
 FFR was measured after IV infusion of adenosine and IV injection of regadenoson (400 μg).
@@ -170,12 +175,13 @@ Adenosine was treated as a gold standard to estimate sensitivity, specificity, a
 
 Aminophylline
 
-Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 400 micrograms regadenoson in subjects undergoing cardiac catheterisation, was shown to shorten the duration of the coronary blood flow response to regadenoson as measured by pulsed- wave Doppler ultrasonography.
+Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 400 micrograms regadenoson in subjects undergoing cardiac catheterisation, was shown to shorten the duration of the coronary blood flow response to regadenoson as measured by pulsed-wave Doppler ultrasonography.
 Aminophylline has been used to attenuate adverse reactions to regadenoson (see section 4.4).
 
 Effect of caffeine
-In a study of adult patients undergoing pharmacological stress SPECT MPI with regadenoson, randomized to placebo (n=66) or caffeine (200 mg, n=70 or 400 mg, n=71) administered 90 minutes before the test, caffeine compromised the diagnostic accuracy of detecting reversible perfusion defects (p<0.001).
-There was no statistical difference between 200 mg and 400 mg caffeine with regadenoson.
+
+In a study of adult patients undergoing pharmacological stress SPECT MPI with regadenoson , randomized to placebo (n=66) or caffeine (200 mg, n=70 or 400 mg, n=71) administered 90 minutes before the test, caffeine compromised the diagnostic accuracy of detecting reversible perfusion defects (p<0.001).
+There was no statistical difference between 200 mg and 400 mg caffeine with regadenoson .
 Also, there was no apparent effect of 200 mg or 400 mg of caffeine on regadenoson plasma concentrations.
 
 Safety and tolerability testing

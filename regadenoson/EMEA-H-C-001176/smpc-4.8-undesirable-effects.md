@@ -64,8 +64,7 @@ Cardiac resuscitation equipment and trained staff should be available before adm
 
 Sinoatrial and atrioventricular nodal block
 Regadenoson, can depress the SA and AV nodes and may cause first, second or third degree AV block, or sinus bradycardia requiring intervention.
-In clinical trials first degree AV block (PR prolongation
-> 220 msec) developed in 3% of patients within 2 hours of regadenoson administration; transient second degree AV block with one dropped beat was observed in one patient receiving regadenoson.
+In clinical trials first degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of regadenoson administration; transient second degree AV block with one dropped beat was observed in one patient receiving regadenoson.
 In postmarketing experience, third degree heart block and asystole have been reported within minutes of regadenoson administration.
 
 Hypotension

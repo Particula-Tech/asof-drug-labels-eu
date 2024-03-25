@@ -1,7 +1,7 @@
 # 6.1 List of excipients
 
-Disodium phosphate dihydrate
-Sodium dihydrogen phosphate monohydrate
+Disodium phosphate
+Sodium dihydrogen phosphate
 Propylene glycol
 Disodium edetate
 Water for injections

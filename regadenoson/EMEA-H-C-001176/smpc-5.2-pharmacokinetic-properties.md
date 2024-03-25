@@ -27,6 +27,7 @@ Multiple injections
 Up to three consecutive injections of regadenoson (100 and 200 μg) have been tested in healthy volunteers, and two consecutive doses of 400 μg in healthy volunteers, as well as in patients assessed for FFR.
 Transient dose dependent increases in heart rate occurred following administration of each dose of regadenoson, whereas no consistent dose-related effect on systolic blood pressure was observed.
 Mean plasma concentrations increased in a dose-related manner and by successive doses as observed in healthy volunteers.
+
 Special populations
 A population pharmacokinetic analysis including data from subjects and patients demonstrated that regadenoson clearance decreases in parallel with a reduction in creatinine clearance (CLcr) and increases with increased body weight.
 Age, gender, and race have minimal effects on the pharmacokinetics of regadenoson.
