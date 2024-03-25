@@ -29,7 +29,8 @@ Very common lymphopaeniab, anaemiab,i, leucopoeniab, neutropaeniaa,b, thrombocyt
 Uncommon eosinophilia
 Not known haemophagocytic lymphohistiocytosis
 Immune system disorders
-Common infusion related reaction, hypersensitivity (including anaphylactic reaction)
+Common infusion related reaction (including cytokine release syndrome),
+hypersensitivity (including anaphylactic reaction)
 Uncommon sarcoidosis
 Not known solid organ transplant rejectionf
 Nivolumab monotherapy
@@ -163,8 +164,10 @@ Uncommon febrile neutropaenia eosinophilia
 Not known haemophagocytic
 lymphohistiocytosis
 Immune system disorders
-Common infusion related reaction, hypersensitivity, infusion hypersensitivity (including
-hypersensitivity related reaction anaphylactic reaction)
+Common infusion related reaction hypersensitivity, infusion hypersensitivity (including
+(including cytokine release related reaction anaphylactic reaction)
+syndrome), (including cytokine
+hypersensitivity release syndrome)
 Uncommon infusion related
 hypersensitivity reaction
 Rare sarcoidosis
