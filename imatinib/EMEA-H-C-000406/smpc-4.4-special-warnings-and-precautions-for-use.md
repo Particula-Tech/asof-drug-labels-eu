@@ -71,13 +71,13 @@ Thrombotic microangiopathy
 BCR-ABL tyrosine kinase inhibitors (TKIs) have been associated with thrombotic microangiopathy (TMA), including individual case reports for Glivec (see section 4.8).
 If laboratory or clinical findings associated with TMA occur in a patient receiving Glivec, treatment should be discontinued and thorough evaluation for TMA, including ADAMTS13 activity and anti-ADAMTS13-antibody determination, should be completed.
 If anti-ADAMTS13-antibody is elevated in conjunction with low ADAMTS13 activity, treatment with Glivec should not be resumed.
+
 Laboratory tests
 
 Complete blood counts must be performed regularly during therapy with Glivec.
 Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.
 However, the occurrence of these cytopenias is likely to be related to the stage of the disease being treated and they were more frequent in patients with accelerated phase CML or blast crisis as compared to patients with chronic phase CML.
 Treatment with Glivec may be interrupted or the dose may be reduced, as recommended in section 4.2.
-
 Liver function (transaminases, bilirubin, alkaline phosphatase) should be monitored regularly in patients receiving Glivec.
 
 In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients.
@@ -93,4 +93,5 @@ Paediatric population
 
 There have been case reports of growth retardation occurring in children and pre-adolescents receiving imatinib.
 In an observational study in the CML paediatric population, a statistically significant decrease (but of uncertain clinical relevance) in median height standard deviation scores after 12 and 24 months of treatment was reported in two small subsets irrespective of pubertal status or gender.
+Similar results have been observed in an observational study in the ALL paediatric population.
 Close monitoring of growth in children under imatinib treatment is recommended (see section 4.8).

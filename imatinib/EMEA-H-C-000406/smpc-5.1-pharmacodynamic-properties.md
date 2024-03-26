@@ -356,13 +356,13 @@ There are no controlled trials in paediatric patients with HES/CEL.
 Three (3) patients with HES and CEL associated with PDGFR gene re-arrangements were reported in 3 publications.
 The age of these patients ranged from 2 to 16 years and imatinib was given at dose 300 mg/m2 daily or doses ranging from 200 to 400 mg daily.
 All patients achieved complete haematological response, complete cytogenetic response and/or complete molecular response.
-
 Clinical studies in unresectable and/or metastatic GIST
 
 One phase II, open-label, randomised, uncontrolled multinational study was conducted in patients with unresectable or metastatic malignant gastrointestinal stromal tumours (GIST).
 In this study 147 patients were enrolled and randomised to receive either 400 mg or 600 mg orally once daily for up to 36 months.
 These patients ranged in age from 18 to 83 years old and had a pathologic diagnosis of Kit-positive malignant GIST that was unresectable and/or metastatic.
 Immunohistochemistry was routinely performed with Kit antibody (A-4502, rabbit polyclonal antiserum, 1:100; DAKO Corporation, Carpinteria, CA) according to analysis by an avidin-biotin-peroxidase complex method after antigen retrieval.
+
 The primary evidence of efficacy was based on objective response rates.
 Tumours were required to be measurable in at least one site of disease, and response characterisation based on Southwestern Oncology Group (SWOG) criteria.
 Results are provided in Table 6.
@@ -401,7 +401,6 @@ Patients were included who had a histological diagnosis of primary GIST expressi
 After resection of primary GIST, patients were randomised to one of the two arms: Glivec at 400 mg/day or matching placebo for one year.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
-
 Glivec significantly prolonged RFS, with 75% of patients being recurrence-free at 38 months in the Glivec group vs. 20 months in the placebo group (95% CIs, [30 - non-estimable]; [14 - non-estimable], respectively); (hazard ratio = 0.398 [0.259-0.610], p<0.0001).
 At one year the overall RFS was significantly better for Glivec (97.7%) vs. placebo (82.3%), (p<0.0001).
 The risk of recurrence was thus reduced by approximately 89% as compared with placebo (hazard ratio = 0.113 [0.049-0.264]).
@@ -411,6 +410,7 @@ Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) po
 The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 7.
 No benefit was observed in the low and very low risk groups.
 No overall survival benefit has been observed.
+
 Table 7 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
 
 | Risk criteria | Risk Level | % of patients | No. of events / No. of patients | Overall hazard ratio (95%CI)* | RFS rates (%) |  |
@@ -435,10 +435,10 @@ In addition, thirty-six (36) months of Glivec treatment significantly prolonged 
 Longer duration of the treatment (> 36 months) may delay the onset of further recurrences; however the impact of this finding on the overall survival remains unknown.
 
 The total number of deaths were 25 for the 12-month treatment arm and 12 for the 36-month treatment arm.
-
 Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
 In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
 No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
+
 Table 8 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
 
 12-month treatment arm 36-month treatment arm

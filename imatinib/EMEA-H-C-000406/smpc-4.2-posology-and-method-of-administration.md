@@ -56,7 +56,6 @@ The recommended dose of Glivec is 400 mg/day for adult patients with MDS/MPD.
 
 Treatment duration: In the only clinical trial performed up to now, treatment with Glivec was continued until disease progression (see section 5.1).
 At the time of analysis, the treatment duration was a median of 47 months (24 days - 60 months).
-
 Posology for HES/CEL
 
 The recommended dose of Glivec is 100 mg/day for adult patients with HES/CEL.
@@ -64,6 +63,7 @@ The recommended dose of Glivec is 100 mg/day for adult patients with HES/CEL.
 Dose increase from 100 mg to 400 mg may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
 Treatment should be continued as long as the patient continues to benefit.
+
 Posology for GIST
 
 The recommended dose of Glivec is 400 mg/day for adult patients with unresectable and/or metastatic malignant GIST.
@@ -144,8 +144,7 @@ No specific dose recommendation is necessary in older people.
 
 [Glivec 100 mg film-coated tablets]
 
-For doses other than 400 mg and 800 mg (see dosage recommendation below) a 100 mg divisible tablet is available.
-For doses of 400 mg and above (see dosage recommendation below) a 400 mg tablet (not divisible) is available.
+For doses other than 400 mg and 800 mg (see dosage recommendation below), 100 mg and 400 mg divisible tablets are available.
 
 For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of still water or apple juice.
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 ml for a 100 mg tablet, and 200 ml for a 400 mg tablet) and stirred with a spoon.
