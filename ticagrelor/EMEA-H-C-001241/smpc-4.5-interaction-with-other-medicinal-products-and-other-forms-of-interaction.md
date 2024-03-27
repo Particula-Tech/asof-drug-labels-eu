@@ -13,7 +13,7 @@ CYP3A4 inhibitors
 - Moderate CYP3A4 inhibitors – Co-administration of diltiazem with ticagrelor increased the ticagrelor Cmax by 69% and AUC to 2.7-fold and decreased the active metabolite Cmax by 38% and AUC was unchanged.
   There was no effect of ticagrelor on diltiazem plasma levels.
   Other moderate CYP3A4 inhibitors (e.g. amprenavir, aprepitant, erythromycin and fluconazole) would be expected to have a similar effect and can as well be co-administered with ticagrelor.
-- A 2-fold increase of ticagrelor exposure was observed after daily consumption of large quantities of grapefruit juice (3x200 ml).
+- A 2-fold increase of ticagrelor exposure was observed after daily consumption of large quantities of grapefruit juice (3 x 200 ml).
   This magnitude of increased exposure is not expected to be clinically relevant to most patients.
 
 CYP3A inducers
@@ -21,13 +21,13 @@ Co-administration of rifampicin with ticagrelor decreased ticagrelor Cmax and AU
 The Cmax of the active metabolite was unchanged and the AUC was decreased by 46%, respectively.
 Other CYP3A inducers (e.g. phenytoin, carbamazepine and phenobarbital) would be expected to decrease the exposure to ticagrelor as well.
 Co-administration of ticagrelor with potent CYP3A inducers may decrease exposure and efficacy of ticagrelor, therefore, their concomitant use with ticagrelor is discouraged.
-
 Cyclosporine (P-gp and CYP3A inhibitor)
 Co-administration of cyclosporine (600 mg) with ticagrelor increased ticagrelor Cmax and AUC equal to 2.3-fold and 2.8-fold, respectively.
 The AUC of the active metabolite was increased by 32% and Cmax was decreased by 15% in the presence of cyclosporine.
 
 No data are available on concomitant use of ticagrelor with other active substances that also are potent P-gp inhibitors and moderate CYP3A4 inhibitors (e.g. verapamil, quinidine) that also may increase ticagrelor exposure.
 If the association cannot be avoided, their concomitant use should be made with caution.
+
 Others
 Clinical pharmacology interaction studies showed that co-administration of ticagrelor with heparin, enoxaparin and ASA or desmopressin did not have any effect on the pharmacokinetics of ticagrelor or the active metabolite or on ADP-induced platelet aggregation compared with ticagrelor alone.
 If clinically indicated, medicinal products that alter haemostasis should be used with caution in combination with ticagrelor.
@@ -60,12 +60,12 @@ Concomitant administration of ticagrelor increased the digoxin Cmax by 75% and A
 The mean trough digoxin levels were increased about 30% with ticagrelor co-administration with some individual maximum increases to 2-fold.
 In the presence of digoxin, the Cmax and AUC of ticagrelor and its active metabolite were not affected.
 Therefore, appropriate clinical and/or laboratory monitoring is recommended when giving narrow therapeutic index P-gp dependent medicinal products like digoxin concomitantly with ticagrelor.
-
 There was no effect of ticagrelor on cyclosporine blood levels.
 Effect of ticagrelor on other P-gp substrates has not been studied.
 
 Medicinal products metabolised by CYP2C9
 Co-administration of ticagrelor with tolbutamide resulted in no change in the plasma levels of either medicinal product, which suggests that ticagrelor is not a CYP2C9 inhibitor and unlikely to alter the CYP2C9 mediated metabolism of medicinal products like warfarin and tolbutamide.
+
 Rosuvastatin
 Ticagrelor might affect renal excretion of rosuvastatin, increasing the risk for rosuvastatin accumulation.
 Although the exact mechanism is not known, in some cases, concomitant use of ticagrelor and rosuvastatin led to renal function decrease, increased CPK level and rhabdomyolysis.

@@ -1,20 +1,22 @@
 # 4.2 Posology and method of administration
 
 Posology
-
 Patients taking Brilique should also take a daily low maintenance dose of ASA 75-150 mg, unless specifically contraindicated.
 
 Acute coronary syndromes
 Brilique treatment should be initiated with a single 180 mg loading dose (two tablets of 90 mg) and then continued at 90 mg twice daily.
 Treatment with Brilique 90 mg twice daily is recommended for 12 months in ACS patients unless discontinuation is clinically indicated (see section 5.1).
 
+Discontinuation of ASA may be considered after 3 months in patients with ACS who have undergone a percutaneous coronary intervention (PCI) procedure and have an increased risk of bleeding.
+In that case, ticagrelor as single antiplatelet therapy should be continued for 9 months (see section 4.4).
+
 History of myocardial infarction
 Brilique 60 mg twice daily is the recommended dose when an extended treatment is required for patients with a history of MI of at least one year and a high risk of an atherothrombotic event (see section 5.1).
 Treatment may be started without interruption as continuation therapy after the initial one-year treatment with Brilique 90 mg or other adenosine diphosphate (ADP) receptor inhibitor therapy in ACS patients with a high risk of an atherothrombotic event.
 Treatment can also be initiated up to 2 years from the MI, or within one year after stopping previous ADP receptor inhibitor treatment.
 There are limited data on the efficacy and safety of ticagrelor beyond 3 years of extended treatment.
-
 If a switch is needed, the first dose of Brilique should be administered 24 hours following the last dose of the other antiplatelet medication.
+
 Missed dose
 Lapses in therapy should also be avoided.
 A patient who misses a dose of Brilique should take only one tablet (their next dose) at its scheduled time.
@@ -46,7 +48,7 @@ It is important to flush the nasogastric tube through with water after administr
 
 [Brilique 90 mg film-coated tablets]
 
-Brilique treatment should be initiated with a single 180 mg loading dose (two tablets of 90 mg) and then continued at 90 mg twice daily.Treatment with Brilique 90 mg twice daily is recommended for 12 months in ACS patients unless discontinuation is clinically indicated (see section 5.1).
+(all sentences already above)
 
 [Brilique 90 mg orodispersible tablets]
 

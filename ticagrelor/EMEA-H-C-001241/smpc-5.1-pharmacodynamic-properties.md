@@ -8,6 +8,7 @@ Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor pre
 Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic disease, inhibition of platelet function has been shown to reduce the risk of CV events such as death, MI or stroke.
 
 Ticagrelor also increases local endogenous adenosine levels by inhibiting the equilibrative nucleoside transporter-1 (ENT-1).
+
 Ticagrelor has been documented to augment the following adenosine-induced effects in healthy subjects and in patients with ACS: vasodilation (measured by coronary blood flow increases in healthy volunteers and ACS patients; headache), inhibition of platelet function (in human whole blood in vitro) and dyspnoea.
 However, a link between the observed increases in adenosine and clinical outcomes (e.g. morbidity-mortality) has not been clearly elucidated.
 
@@ -121,7 +122,7 @@ Table 5 - Analysis of primary and secondary efficacy endpoints (PEGASUS)
 
 Hazard ratio and p-values are calculated separately for ticagrelor vs. ASA therapy alone from Cox proportional hazards model with treatment group as the only explanatory variable.
 KM percentage calculated at 36 months.
-Note: the number of first events for the components CV death, MI and stroke are the actual number of first events for each component and do not add up to the number of events in the composite endpoint
+Note: the number of first events for the components CV death, MI and stroke are the actual number of first events for each component and do not add up to the number of events in the composite endpoint.
 (s) Indicates statistical significance.
 CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; KM = Kaplan-Meier; MI = Myocardial infarction;
 N = Number of patients.
@@ -152,6 +153,19 @@ The European Medicines Agency has waived the obligation to submit the results of
 [Brilique 90 mg film-coated tablets]
 
 The PLATO study included 18,624 patients who presented within 24 hours of onset of symptoms of unstable angina (UA), non-ST elevation myocardial infarction (NSTEMI) or ST elevation myocardial infarction (STEMI), and were initially managed medically, or with percutaneous coronary intervention (PCI), or with CABG.
+
+|  | Ticagrelor 60 mg twice daily +ASA N = 7045 |  |  | ASA alone N = 7067 |  | p-value |
+| --- | --- | --- | --- | --- | --- | --- |
+| Characteristic | Patients with events | KM % | HR (95% CI) | Patients with events | KM % |  |
+| Primary endpoint |  |  |  |  |  |  |
+| Composite of CV Death/MI/Stroke | 487 (6.9%) | 7.8% | 0.84 (0.74, 0.95) | 578 (8.2%) | 9.0% | 0.0043 (s) |
+| CV death | 174 (2.5%) | 2.9% | 0.83 (0.68, 1.01) | 210 (3.0%) | 3.4% | 0.0676 |
+| MI | 285 (4.0%) | 4.5% | 0.84 (0.72, 0.98) | 338 (4.8%) | 5.2% | 0.0314 |
+| Stroke | 91 (1.3%) | 1.5% | 0.75 (0.57, 0.98) | 122 (1.7%) | 1.9% | 0.0337 |
+| Characteristic | Patients with events | KM % | HR (95% CI) | Patients with events | KM % |  |
+| Secondary endpoint |  |  |  |  |  |  |
+| CV death | 174 (2.5%) | 2.9% | 0.83 (0.68, 1.01) | 210 (3.0%) | 3.4% | - |
+| All-cause mortality | 289 (4.1%) | 4.7% | 0.89 (0.76, 1.04) | 326 (4.6%) | 5.2% | - |
 
 Although the efficacy profile of 90 mg and 60 mg were similar, there is evidence that the lower dose has a better tolerability and safety profile in relation to risk of the bleeding and dyspnoea.
 

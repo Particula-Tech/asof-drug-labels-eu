@@ -8,6 +8,9 @@ If clinically indicated, ticagrelor should be used with caution in the following
   The use of ticagrelor is contraindicated in patients with active pathological bleeding, in those with a history of intracranial haemorrhage, and in patients with severe hepatic impairment (see section 4.3).
 - Patients with concomitant administration of medicinal products that may increase the risk of bleeding (e.g. non-steroidal anti-inflammatory drugs (NSAIDs), oral anticoagulants and/or fibrinolytics) within 24 hours of ticagrelor dosing.
 
+In two randomised controlled studies (TICO and TWILIGHT) in patients with ACS who have undergone a PCI procedure with a drug-eluting stent, discontinuing ASA after 3 months dual antiplatelet therapy with ticagrelor and ASA (DAPT), and continuing with ticagrelor as single antiplatelet therapy (SAPT) for 9 and 12 months, respectively, has been shown to decrease the risk of bleeding with no observed increase in risk of major adverse cardiovascular events (MACE) compared with continued DAPT.
+The decision to discontinue ASA after 3 months and continue with ticagrelor as single antiplatelet therapy for 9 months in patients with an increased risk of bleeding should be based on clinical judgment considering the risk of bleeding versus the risk of thrombotic events (see section 4.2).
+
 Platelet transfusion did not reverse the antiplatelet effect of ticagrelor in healthy volunteers and is unlikely to be of clinical benefit in patients with bleeding.
 Since co-administration of ticagrelor with desmopressin did not decrease template-bleeding time, desmopressin is unlikely to be effective in managing clinical bleeding events (see section 4.5).
 
@@ -34,7 +37,6 @@ Patients at risk for bradycardic events
 Holter ECG monitoring has shown an increased frequency of mostly asymptomatic ventricular pauses during treatment with ticagrelor compared with clopidogrel.
 Patients with an increased risk of bradycardic events (e.g. patients without a pacemaker who have sick sinus syndrome, 2nd or 3rd degree AV block or bradycardic-related syncope) have been excluded from the main studies evaluating the safety and efficacy of ticagrelor.
 Therefore, due to the limited clinical experience, ticagrelor should be used with caution in these patients (see section 5.1).
-
 In addition, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia.
 However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil and 4% digoxin) (see section 4.5).
 
@@ -80,6 +82,7 @@ False negative results in a platelet function test (to include, but may not be l
 This is related to inhibition of the P2Y12-receptor on the healthy donor platelets in the test by ticagrelor in the patient’s sera/plasma.
 Information on concomitant treatment with ticagrelor is required for interpretation of HIT platelet function tests.
 In patients who have developed HIT, the benefit-risk of continued treatment with ticagrelor should be assessed, taking both the prothrombotic state of HIT and the increased risk of bleeding with concomitant anticoagulant and ticagrelor treatment into consideration.
+
 Other
 Based on a relationship observed in PLATO between maintenance ASA dose and relative efficacy of ticagrelor compared to clopidogrel, co-administration of ticagrelor and high maintenance dose ASA (>300 mg) is not recommended (see section 5.1).
 
