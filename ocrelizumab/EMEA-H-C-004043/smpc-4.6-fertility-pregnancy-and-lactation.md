@@ -3,6 +3,7 @@
 Women of childbearing potential
 
 Women of childbearing potential should use contraception while receiving ocrelizumab and for 12 months after the last infusion of ocrelizumab.
+
 Pregnancy
 
 There is a limited amount of data from the use of ocrelizumab in pregnant women.

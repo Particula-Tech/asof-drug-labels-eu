@@ -93,35 +93,9 @@ Table 1: Dose and schedule
 | --- | --- | --- | --- |
 | Initial dose (600 mg) divided into 2 infusions | Infusion 1 | 300 mg in 250 mL | • Initiate the infusion at a rate of 30 mL/hour for 30 minutes • The rate can be increased in 30 mL/hour increments every 30 minutes to a maximum of 180 mL/hour. • Each infusion should be given over approximately 2.5 hours |
 |  | Infusion 2 (2 weeks later) | 300 mg in 250 mL |  |
-| Subsequent doses (600 mg) single infusion once every 6 months | Option 1 Infusion of approximately 3.5 hours duration | 600 mg in 500 mL | • Initiate the infusion at a rate of 40 mL/hour for 30 minutes • The rate can be increased in 40 mL/hour increments |
-
-Amount of Infusion instructions
-ocrelizumab to be
-administered
-every 30 minutes to a
-maximum of
-200 mL/hour
-- Each infusion should
-be given over
-approximately
-3.5 hours
-OR
-Option 2 600 mg in 500 mL • Initiate the infusion at
-a rate of 100 mL/hour
-Infusion of for the first 15 minutes
-approximately 2 • Increase the infusion
-hours duration rate to 200 mL/hour
-for the next 15 minutes
-- Increase the infusion
-rate to 250 mL/hour
-for the next 30 minutes
-- Increase the
-infusion rate to 300
-mL/hour for the
-remaining 60 minutes
-- Each infusion
-should be given over
-approximately 2 hours
+| Subsequent doses (600 mg) single infusion once every 6 months | Option 1 Infusion of approximately 3.5 hours duration | 600 mg in 500 mL | • Initiate the infusion at a rate of 40 mL/hour for 30 minutes • The rate can be increased in 40 mL/hour increments every 30 minutes to a maximum of 200 mL/hour • Each infusion should be given over approximately 3.5 hours |
+|  | OR |  |  |
+|  | Option 2 Infusion of approximately 2 hours duration | 600 mg in 500 mL | • Initiate the infusion at a rate of 100 mL/hour for the first 15 minutes • Increase the infusion rate to 200 mL/hour for the next 15 minutes • Increase the infusion rate to 250 mL/hour for the next 30 minutes • Increase the infusion rate to 300 mL/hour for the remaining 60 minutes • Each infusion should be given over approximately 2 hours |
 
 Solutions for intravenous infusion are prepared by dilution of the concentrate into an infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection, to a final ocrelizumab concentration of approximately 1.2 mg/mL.
 

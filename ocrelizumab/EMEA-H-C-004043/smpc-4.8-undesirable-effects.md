@@ -3,14 +3,14 @@
 Summary of the safety profile
 
 The most important and frequently reported adverse reactions were IRRs (34.3%, 40.1% in RMS and PPMS, respectively) and infections (58.5%, 72.2% in RMS and PPMS, respectively) (see section 4.4).
-
 Tabulated list of adverse reactions
 
-Adverse reactions reported in clinical trials and derived from spontaneous reporting are listed below in Table 2.
-The adverse reactions are listed by MedDRA system organ class and categories of frequency.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
-Within each System Organ Class, the adverse reactions are presented in order of decreasing frequency.
-
+Adverse reactions reported in clinical trials and derived from spontaneous reporting are listed below in
+Table 2. The adverse reactions are listed by MedDRA system organ class and categories of frequency.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000
+to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated
+from the available data). Within each System Organ Class, the adverse reactions are presented in order
+of decreasing frequency.
 Table 2 Adverse reactions
 MedDRA Very common Common Not Known
 System Organ Class (SOC)
@@ -86,13 +86,13 @@ In active-controlled (RMS) clinical trials, herpes infections were reported more
 All infections were mild to moderate in severity, except one Grade 3 event, and patients recovered with treatment by standard therapies.
 
 In the placebo-controlled (PPMS) clinical trial, a higher proportion of patients with oral herpes (2.7% vs 0.8%) were observed in the ocrelizumab treatment arm.
-
 Laboratory abnormalities
 
 Immunoglobulins
 
 Ocrelizumab treatment resulted in a decrease in total immunoglobulins over the controlled period of the studies, mainly driven by reduction in IgM.
 Clinical trial data have shown an association between decreased levels of IgG (and less so for IgM or IgA) and serious infections.
+
 Lymphocytes
 
 In RMS, a decrease in lymphocyte < LLN was observed in 20.7% of patients treated with ocrelizumab compared with 32.6% of patients treated with interferon beta-1a.

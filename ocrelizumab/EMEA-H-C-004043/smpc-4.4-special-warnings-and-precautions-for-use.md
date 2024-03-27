@@ -15,14 +15,17 @@ These reactions may present as pruritus, rash, urticaria, erythema, throat irrit
 Before the infusion
 
 Management of severe reactions
+
 Appropriate resources for the management of severe reactions such as serious IRR, hypersensitivity reactions and/or anaphylactic reactions should be available.
 
 Hypotension
+
 As a symptom of IRR, hypotension may occur during infusions.
 Therefore, withholding of antihypertensive treatments should be considered for 12 hours prior to and throughout each infusion.
 Patients with a history of congestive heart failure (New York Heart Association III & IV) were not studied.
 
 Premedication
+
 Patients must receive premedication to reduce the frequency and severity of IRRs (see section 4.2).
 
 During the infusion
@@ -45,6 +48,7 @@ Hypersensitivity reactions
 
 A hypersensitivity reaction could also occur (acute allergic reaction to medicinal product).
 Type 1 acute hypersensitivity reactions (IgE-mediated) may be clinically indistinguishable from IRR symptoms.
+
 A hypersensitivity reaction may present during any infusion, although typically would not present during the first infusion.
 For subsequent infusions, more severe symptoms than previously experienced, or new severe symptoms, should prompt consideration of a potential hypersensitivity reaction.
 Patients with known IgE mediated hypersensitivity to ocrelizumab must not be treated (see section 4.3).
@@ -80,6 +84,7 @@ Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepat
 HBV screening should be performed in all patients before initiation of treatment as per local guidelines.
 Patients with active HBV (i.e. an active infection confirmed by positive results for HBsAg and anti HB testing) should not be treated with ocrelizumab (see section 4.3).
 Patients with positive serology (i.e. negative for HBsAg and positive for HB core antibody (HBcAb +); carriers of HBV (positive for surface antigen, HBsAg+) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+
 Late neutropenia
 
 Cases of late onset of neutropenia have been reported at least 4 weeks after the latest ocrelizumab infusion (see section 4.8).
@@ -113,13 +118,13 @@ In the ocrelizumab MS pivotal studies, the administration of corticosteroids for
 
 When initiating ocrelizumab after an immunosuppressive therapy or initiating an immunosuppressive therapy after ocrelizumab, the potential for overlapping pharmacodynamic effects should be taken into consideration (see section 5.1).
 Caution should be exercised when prescribing ocrelizumab taking into consideration the pharmacodynamics of other disease modifying MS therapies.
-
 Vaccinations
 
 The safety of immunisation with live or live-attenuated vaccines, following therapy has not been studied and vaccination with live-attenuated or live vaccines is not recommended during treatment and not until B-cell repletion.
 In clinical trials, the median time for B-cell repletion was 72 weeks (see section 5.1).
 
 In a randomised open-label study, RMS patients were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet hemocyanin neoantigen, and seasonal influenza vaccines (see section 4.5 and 5.1).
+
 It is recommended to vaccinate patients treated with ocrelizumab with seasonal influenza vaccines that are inactivated.
 
 Physicians should review the immunisation status of patients being considered for treatment with ocrelizumab.

@@ -24,7 +24,6 @@ The extent and duration of B-cell depletion was consistent in the PPMS and RMS t
 
 The longest follow up time after the last infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 - 175 weeks).
 90% of all patients had their B-cells repleted to LLN or baseline by approximately two and a half years after the last infusion.
-
 Clinical efficacy and safety
 
 Relapsing forms of multiple sclerosis (RMS)
@@ -35,6 +34,7 @@ Study design and baseline characteristics of the study population are summarised
 Demographic and baseline characteristics were well balanced across the two treatment groups.
 Patients receiving ocrelizumab (Group A) were given 600 mg every 6 months (Dose 1 as 2 x 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
 Patients in Group B were administered Interferon beta-1a 44 mcg via subcutaneous injection 3 times per week.
+
 Table 3 Study Design, Demographic and Baseline Characteristics
 
 |  | Study 1 |  | Study 2 |  |
@@ -59,8 +59,8 @@ Table 3 Study Design, Demographic and Baseline Characteristics
 ** Patients who had not been treated with a disease-modifying therapy (DMT) in the 2 years prior to randomisation.
 
 Key clinical and MRI efficacy results are presented in Table 4 and Figure 1.
-
 The results of these studies show that ocrelizumab significantly suppressed relapses, sub-clinical disease activity measured by MRI, and disease progression compared with interferon beta-1a 44 mcg subcutaneous.
+
 Table 4 Key Clinical and MRI Endpoints from Studies WA21092 and WA21093 (RMS)
 
 | Endpoints | Study 1: WA21092 (OPERA I) |  | Study 2: WA21093 (OPERA II) |  |  |
