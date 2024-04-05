@@ -71,10 +71,10 @@ No patients in the group treated with Perjeta plus trastuzumab and FEC followed 
 In the neoadjuvant period of the BERENICE trial, the incidence of NYHA Class III/IV symptomatic LVD (congestive heart failure according to NCI-CTCAE v.4) was 1.5% in the group treated with dose dense doxorubicin and cyclophosphamide (AC) followed by Perjeta plus trastuzumab and paclitaxel and none of the patients (0%) experienced symptomatic LVD in the group treated with FEC followed by Perjeta in combination with trastuzumab and docetaxel.
 The incidence of asymptomatic LVD (ejection fraction decrease according to NCI-CTCAE v.4) was 7% in the group treated with dose dense AC followed by Perjeta plus trastuzumab and paclitaxel and 3.5% in the group treated with FEC followed by Perjeta plus trastuzumab and docetaxel.
 
-In APHINITY, the incidence of symptomatic heart failure (NYHA class III or IV) with a LVEF decline of at least 10% points from baseline and to <50% was <1% (0.6% of Perjeta-treated patients vs 0.3% of placebo-treated patients).
-Of the patients who experienced symptomatic heart failure, 46.7% of Perjeta-treated patients and 57.1% of placebo-treated patients had recovered (defined as 2 consecutive LVEF measurements above 50%) at the data cutoff.
+In APHINITY, the incidence of symptomatic heart failure (NYHA class III or IV) with a LVEF decline of at least 10% points from baseline and to <50% was <1% (0.8% of Perjeta-treated patients vs 0.4% of placebo-treated patients).
+Of the patients who experienced symptomatic heart failure, 62.5% of Perjeta-treated patients and 66.7% of placebo-treated patients had recovered (defined as 2 consecutive LVEF measurements above 50%) at the data cutoff.
 The majority of the events were reported in anthracycline-treated patients.
-Asymptomatic or mildly symptomatic (NYHA class II) declines in LVEF of at least 10% points from baseline and to <50% were reported in 2.7% of Perjeta-treated patients and 2.8% of placebo-treated patients, of whom 79.7% of Perjeta-treated patients and 80.6% of placebo-treated patients had recovered at the data cutoff.
+Asymptomatic or mildly symptomatic (NYHA class II) declines in LVEF of at least 10% points from baseline and to <50% were reported in 2.7% of Perjeta-treated patients and 2.9% of placebo-treated patients, of whom 84.4% of Perjeta-treated patients and 87.0% of placebo-treated patients had recovered at the data cutoff.
 
 Infusion reactions
 An infusion reaction was defined in the pivotal trials as any event reported as hypersensitivity, anaphylactic reaction, acute infusion reaction or cytokine release syndrome occurring during an infusion or on the same day as the infusion.

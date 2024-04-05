@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC13
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01FD02
 
 Mechanism of action
 
@@ -164,10 +164,10 @@ Table 4 NEOSPHERE (WO20697) and TRYPHAENA (BO22280): Overview of efficacy (Inten
 
 |  | NEOSPHERE (WO20697) |  |  |  | TRYPHAENA (BO22280) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Parameter | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107 | Perjeta +Docetaxel N=96 | Perjeta+ Trastuzumab+ FEC• Perjeta+ Trastuzumab + Docetaxel N=73 | FEC• Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77 |
+| Paramete r | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107 | Perjeta +Docetaxel N=96 | Perjeta+ Trastuzumab + FEC• Perjeta+ Trastuzumab + Docetaxel N=73 | FEC• Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77 |
 | pCR rate in the breast (ypT0/is) n (%) [95% CI]1 | 31 (29.0%) [20.6; 38.5] | 49 (45.8%) [36.1; 55.7] | 18 (16.8%) [10.3; 25.3] | 23 (24.0%) [15.8; 33.7] | 45 (61.6%) [49.5; 72.8] | 43 (57.3%) [45.4; 68.7] | 51 (66.2%) [54.6; 76.6] |
 | Difference in pCR rates2 [95% CI]3 |  | +16.8 % [3.5; 30.1] | -12.2 % [-23.8; -0.5] | -21.8 % [-35.1; -8.5] | NA | NA | NA |
-| p-value (with Simes corr. for CMH test)4 |  | 0.0141 (vs. Trastuzumab +Docetaxel) | 0.0198 (vs. Trastuzumab +Docetaxel) | 0.0030 (vs Perjeta+ Trastuzumab+ Docetaxel) | NA | NA | NA |
+| p-value (with Simes corr. for CMH test)4 |  | 0.0141 (vs. Trastuzumab +Docetaxel) | 0.0198 (vs. Trastuzumab +Docetaxel) | 0.0030 (vs Perjeta+ Trastuzumab +Docetaxel) | NA | NA | NA |
 | pCR rate in the breast and lymph node (ypT0/is N0) n (%) [95% CI] | 23 (21.5%) [14.1; 30.5] | 42 (39.3%) [30.3; 49.2] | 12 (11.2%) [5.9; 18.8] | 17 (17.7%) [10.7; 26.8] | 41 (56.2%) [44.1; 67.8] | 41 (54.7%) [42.7; 66.2] | 49 (63.6%) [51.9; 74.3] |
 | ypT0 N0 n (%) [95% CI] | 13 (12.1%) [6.6; 19.9] | 35 (32.7%) [24.0; 42.5] | 6 (5.6%) [2.1; 11.8] | 13 (13.2%) [7.4; 22.0] | 37 (50.7%) [38.7; 62.6] | 34 (45.3%) [33.8; 57.3] | 40 (51.9%) [40.3; 63.5] |
 | Clinical Response5 | 79 (79.8%) | 89 (88.1%) | 69 (67.6%) | 65 (71.4%) | 67 (91.8%) | 71 (94.7%) | 69 (89.6%) |
@@ -223,6 +223,8 @@ The majority of patients had node-positive (63%) and/or hormone receptor-positiv
 
 After a median follow-up of 45.4 months, the APHINITY study showed a 19% (hazard ratio [HR] = 0.81; 95% CI 0.66, 1.00 p-value 0.0446) reduction in risk of recurrence or death in patients randomised to receive Perjeta compared with patients randomised to receive placebo.
 
+After a median follow-up of 101.2 months (8.4 years), at the third OS interim analysis, the number of deaths in patients randomised to the Perjeta arm was 168 deaths [7.0%] compared with 202 deaths [8.4%] in the placebo arm; HR=0.83, 95% CI [0.68, 1.02].
+
 The efficacy results from the APHINITY trial are summarised in Table 5 and in Figure 3.
 
 Table 5 Overall Efficacy: ITT Population
@@ -230,19 +232,18 @@ Table 5 Overall Efficacy: ITT Population
 |  | Perjeta + trastuzumab + Chemotherapy N=2400 | Placebo + trastuzumab + Chemotherapy N=2404 |
 | --- | --- | --- |
 | Primary Endpoint |  |  |
-| Invasive Disease Free Survival (IDFS) Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 171 (7.1%) 210 (8.7%) 0.81 [0.66, 1.00] 0.0446 94.1 [93.1, 95.0] 93.2 [92.2, 94.3] |  |
+| Invasive Disease Free Survival (IDFS) * Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 171 (7.1%) 210 (8.7%) 0.81 [0.66, 1.00] 0.0446 94.1 [93.1, 95.0] 93.2 [92.2, 94.3] |  |
 | Secondary Endpoints1 |  |  |
-| IDFS including second primary non-breast cancer Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 189 (7.9%) 230 (9.6%) 0.82 [0.68, 0.99] 0.0430 93.5 [92.5, 94.5] 92.5 [91.4, 93.6] |  |
-| Disease Free Survival (DFS) Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 192 (8.0%) 236 (9.8%) 0.81 [0.67, 0.98] 0.0327 93.4 [92.4, 94.4] 92.3 [91.2, 93.4] |  |
-| Overall Survival (OS)3 Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 80 (3.3%) 89 (3.7%) 0.89 [0.66, 1.21] 0.4673 97.7 [97.0, 98.3] 97.7 [97.1, 98.3] |  |
+| IDFS including second primary non-breast cancer* Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 189 (7.9%) 230 (9.6%) 0.82 [0.68, 0.99] 0.0430 93.5 [92.5, 94.5] 92.5 [91.4, 93.6] |  |
+| Disease Free Survival (DFS)* Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 192 (8.0%) 236 (9.8%) 0.81 [0.67, 0.98] 0.0327 93.4 [92.4, 94.4] 92.3 [91.2, 93.4] |  |
+| Overall Survival (OS)** Number (%) of patients with event HR [95% CI] | 168 (7.0%) 202 (8.4%) 0.83 [0.68, 1.02] |  |
 
 Key to abbreviations (Table 5): HR: Hazard Ratio; CI: Confidence Interval
-1.
+* Primary Invasive Disease Free Survival analysis, cutoff date 19th December 2016.
+** Data from 3rd interim analysis for overall survival, cutoff date 10th January 2022.1.
 All analyses stratified by nodal status, protocol version, central hormone receptor status, and adjuvant chemotherapy regimen.
 2.
 3-year event-free rate derived from Kaplan-Meier estimates.
-3.
-Data from first interim analysis.
 Figure 3 Kaplan-Meier Curve of Invasive Disease Free Survival
 
 IDFS= invasive disease free survival; CI= confidence interval; Pla= placebo; Ptz= pertuzumab (Perjeta); T= trastuzumab.
