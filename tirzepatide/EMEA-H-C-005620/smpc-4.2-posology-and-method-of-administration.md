@@ -11,6 +11,7 @@ The recommended maintenance doses are 5 mg, 10 mg and 15 mg.
 The maximum dose is 15 mg once weekly.
 
 When tirzepatide is added to existing metformin and/or sodium-glucose co-transporter 2 inhibitor (SGLT2i) therapy, the current dose of metformin and/or SGLT2i can be continued.
+
 When tirzepatide is added to existing therapy of a sulphonylurea and/or insulin, a reduction in the dose of sulphonylurea or insulin may be considered to reduce the risk of hypoglycaemia.
 Blood glucose self-monitoring is necessary to adjust the dose of sulphonylurea and insulin.
 A stepwise approach to insulin reduction is recommended (see sections 4.4 and 4.8).
@@ -30,7 +31,6 @@ Special populations
 Elderly, gender, race, ethnicity or body weight
 No dose adjustment is needed based on age, gender, race, ethnicity or body weight (see sections 5.1 and 5.2).
 Only very limited data are available from patients aged ≥ 85 years.
-
 Renal impairment
 No dose adjustment is required for patients with renal impairment including end stage renal disease (ESRD).
 Experience with the use of tirzepatide in patients with severe renal impairment and ESRD is limited.

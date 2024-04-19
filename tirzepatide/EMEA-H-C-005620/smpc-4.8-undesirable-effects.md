@@ -17,7 +17,7 @@ Adverse reactions
 | System organ class | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Immune system disorders |  | Hypersensitivity reactions |  | Anaphylactic reaction#, angioedema# |
-| Metabolism and nutrition disorders | Hypoglycaemi a1* when used with sulphonylurea or insulin | Hypoglycaemia1* when used with metformin and SGLT2i, decreased appetite1 | Hypoglycaemia1* when used with metformin, weight decreased1 |  |
+| Metabolism and nutrition disorders | Hypoglycaemia 1* when used with sulphonylurea or insulin | Hypoglycaemia1* when used with metformin and SGLT2i, decreased appetite1 | Hypoglycaemia1* when used with metformin, weight decreased1 |  |
 | Nervous system disorders |  | Dizziness2 |  |  |
 | Vascular disorders |  | Hypotension2 |  |  |
 | Gastrointestinal disorders | Nausea, diarrhoea | Abdominal pain, vomiting, dyspepsia, constipation, abdominal distention, eructation, flatulence, gastroesophageal reflux disease | Cholelithiasis, cholecystitis, acute pancreatitis |  |
@@ -98,6 +98,7 @@ No difference in arrhythmia and cardiac conduction disorder treatment emergent e
 
 In the placebo-controlled phase 3 studies in patients with BMI ≥ 27 kg/m2 with or without T2DM, treatment with tirzepatide resulted in a maximum mean increase in heart rate of 3 to 5 beats per minute.
 The maximum mean increase in heart rate in placebo-treated patients was 1 beat per minute.
+
 The percentage of patients who had a change in baseline heart rate of > 20 bpm for 2 or more consecutive visits was 1.0 %, 2.4 % and 3.3 %, for tirzepatide 5 mg, 10 mg and 15 mg, respectively, compared with 0.7 % for placebo.
 
 Small mean increases in PR interval were observed with tirzepatide and placebo (mean increase of 0.3 to 1.3 msec and of 0.6 msec respectively).
@@ -112,7 +113,6 @@ In the placebo-controlled phase 3 studies in patients with BMI ≥ 27 kg/m2 with
 Overall, in the phase 3 studies, the most common signs and symptoms of injection site reactions were erythema and pruritus.
 The maximum severity of injection site reactions for patients was mild (91 %) or moderate (9 %).
 No injection site reactions were serious.
-
 Pancreatic enzymes
 
 In the placebo-controlled T2DM phase 3 studies, treatment with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 33 % to 38 % and lipase of 31 % to 42 %.
