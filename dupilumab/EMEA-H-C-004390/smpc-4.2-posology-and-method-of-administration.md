@@ -62,7 +62,7 @@ Table 4: Dose of dupilumab for subcutaneous administration in children 6 to 11 y
 
 | Body weight | Initial and subsequent doses |
 | --- | --- |
-| 15 to less than 30 kg | 100 mg every other week (Q2W) or 300 mg every four weeks (Q4W) |
+| 15 to less than 30 kg | 300 mg every four weeks (Q4W) |
 | 30 kg to less than 60 kg | 200 mg every other week (Q2W) or 300 mg every four weeks (Q4W) |
 | 60 kg or more | 200 mg every other week (Q2W) |
 
@@ -143,8 +143,9 @@ Method of administration
 
 Subcutaneous use
 
-The dupilumab pre-filled pen is not intended for use in children below 12 years of age.
-For children 6 months to 11 years of age with atopic dermatitis and asthma, the dupilumab pre-filled syringe is the presentation appropriate for administration to this population.
+The dupilumab pre-filled pen is for use in adult and paediatric patients aged 2 years and older.
+The dupilumab pre-filled syringe is for use in adult and paediatric patients aged 6 months and older.
+The dupilumab pre-filled pen is not intended for use in children below 2 years of age.
 
 Dupilumab is administered by subcutaneous injection into the thigh or abdomen, except for the 5 cm around the navel.
 If somebody else administers the injection, the upper arm can also be used.
@@ -158,6 +159,8 @@ Dupilumab should not be injected into skin that is tender, damaged or has bruise
 
 A patient may self-inject dupilumab or the patient's caregiver may administer dupilumab if their healthcare professional determines that this is appropriate.
 Proper training should be provided to patients and/or caregivers on the preparation and administration of dupilumab prior to use according to the Instructions for Use (IFU) section at the end of the package leaflet.
+In children 12 years of age and older, it is recommended that dupilumab is administered by or under supervision of an adult.
+In children 6 months to less than 12 years of age, dupilumab should be given by a caregiver.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
@@ -172,19 +175,4 @@ Table 1: Dose of dupilumab for subcutaneous administration in adolescent patient
 
 No dose adjustment for body weight is recommended for patients with asthma 12 years of age and older or in adults with atopic dermatitis (see section 5.2).
 
-For children 6 months to 11 years of age with atopic dermatitis, and asthma, the dupilumab pre-filled syringe is the presentation appropriate for administration to this population.
-
 For the initial 400 mg dose, two 200 mg injections should be administered consecutively in different injection sites.
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-Table 1.
-
-Table 1: Dose of dupilumab for subcutaneous administration in children 6 to 11 years of age with asthma
-
-For paediatric patients (6 to 11 years old) with asthma and co-morbid severe atopic dermatitis, as per approved indication, the recommended dose should be followed in Table 2 of 300 mg SmPC.
-
-Each pre-filled syringe is for single use only.
-
-The patient's caregiver may administer dupilumab if their healthcare professional determines that this is appropriate.
-Proper training should be provided to patient’s caregiver on the preparation and administration of dupilumab prior to use according to the Instructions for Use (IFU) section at the end of the package leaflet.

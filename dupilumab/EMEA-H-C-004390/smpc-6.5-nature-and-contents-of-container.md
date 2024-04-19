@@ -33,7 +33,3 @@ Dupixent 200 mg solution for injection in pre-filled syringe
 Dupixent 200 mg solution for injection in pre-filled pen
 
 1.14 mL solution in a siliconised type-1 clear glass syringe in a pre-filled pen, with a fixed 27 gauge 12.7 mm (½ inch), thin wall stainless steel staked needle.
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-0.67 mL solution in a siliconised type-1 clear glass pre-filled syringe with needle shield, with a fixed 27 gauge 12.7 mm (½ inch), thin wall stainless steel staked needle.

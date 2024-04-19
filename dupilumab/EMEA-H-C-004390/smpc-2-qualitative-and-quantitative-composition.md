@@ -21,9 +21,3 @@ Each single-use pre-filled syringe contains 200 mg of dupilumab in 1.14 mL solut
 Dupilumab 200 mg solution for injection in pre-filled pen
 
 Each single-use pre-filled pen contains 200 mg of dupilumab in 1.14 mL solution (175 mg/mL).
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-Each single-use pre-filled syringe contains 100 mg of dupilumab in 0.67 mL solution (150 mg/mL).
-
-Dupilumab is a fully human monoclonal antibody, produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.

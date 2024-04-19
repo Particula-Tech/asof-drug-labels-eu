@@ -5,9 +5,9 @@ Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Acute asthma exacerbations
-
 Dupilumab should not be used to treat acute asthma symptoms or acute exacerbations.
 Dupilumab should not be used to treat acute bronchospasm or status asthmaticus.
+
 Corticosteroids
 
 Systemic, topical, or inhaled corticosteroids should not be discontinued abruptly upon initiation of therapy with dupilumab.
@@ -67,7 +67,3 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose,
 Patients on dupilumab who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 200 mg dose, that is to say essentially ‘sodium-free’.
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per 100 mg dose, that is to say essentially ‘sodium-free’.

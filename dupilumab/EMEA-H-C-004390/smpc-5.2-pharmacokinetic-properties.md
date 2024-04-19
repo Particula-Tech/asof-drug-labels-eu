@@ -35,7 +35,7 @@ Gender
 Gender was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
 
 Elderly
-Of the 1,472 patients with atopic dermatitis exposed to dupilumab in a phase 2 dose-ranging study or phase 3 placebo-controlled studies, a total of 67 were 65 years or older.
+Of the 1539 patients with atopic dermatitis, including patients with atopic hand and foot dermatitis exposed to dupilumab in a phase 2 dose-ranging study or phase 3 placebo-controlled studies, a total of 71 were 65 years or older.
 Although no differences in safety or efficacy were observed between older and younger adult atopic dermatitis patients, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.
 
 Age was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
@@ -130,7 +130,3 @@ After the last steady state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4
 The pharmacokinetics of dupilumab in paediatric patients (< 6 monthsof age) or body weight < 5 kg with atopic dermatitis has not been studied.
 
 For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-(all sentences already above)

@@ -7,7 +7,3 @@ Dupixent 300 mg solution for injection in pre-filled pen
 
 Dupixent 200 mg solution for injection in pre-filled syringe
 Dupixent 200 mg solution for injection in pre-filled pen
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-Dupixent 100 mg solution for injection in pre-filled syringe

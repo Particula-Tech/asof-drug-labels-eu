@@ -26,11 +26,3 @@ Dupixent is indicated for the treatment of adults with moderate-to-severe prurig
 Eosinophilic esophagitis (EoE)
 
 Dupixent is indicated for the treatment of eosinophilic esophagitis in adults and adolescents 12 years and older, weighing at least 40 kg, who are inadequately controlled by, are intolerant to, or who are not candidates for conventional medicinal therapy (see section 5.1).
-
-[Dupixent 200 mg solution for injection in pre-filled syringe]
-
-(all sentences already above)
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-Dupixent is indicated in children 6 to 11 years old as add-on maintenance treatment for severe asthma with type 2 inflammation characterised by raised blood eosinophils and/or raised fraction of exhaled nitric oxide (FeNO), see section 5.1, who are inadequately controlled with medum to high dose inhaled corticosteroids (ICS) plus another medicinal product for maintenance treatment.

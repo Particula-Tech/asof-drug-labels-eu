@@ -16,13 +16,3 @@ Do not recycle the container.
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
 After removing the 200 mg pre-filled syringe or pre-filled pen from the refrigerator, it should be allowed to reach room temperature up to 25°C by waiting for 30 min before injecting Dupixent.
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-Comprehensive instructions for the administration of Dupixent in a pre-filled syringe are given at the end of the package leaflet.
-
-After removing the 100 mg pre-filled syringe from the refrigerator, it should be allowed to reach room temperature up to 25°C by waiting for 30 min before injecting Dupixent.
-
-The pre-filled syringe should not be exposed to heat or direct sunlight and should not be shaken.
-
-After use, place the pre-filled syringe into a puncture-resistant container and discard as required by local regulations.
