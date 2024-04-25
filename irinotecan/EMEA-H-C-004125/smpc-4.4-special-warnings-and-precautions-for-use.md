@@ -12,9 +12,7 @@ Myelosuppression/neutropenia
 
 Complete blood cell count monitoring is recommended during ONIVYDE pegylated liposomal treatment.
 Patients should be aware of the risk of neutropenia and the significance of fever.
-The median time to nadir for ≥ Grade 3 neutropenia is 23 (range 8-104) days post first dose of treatment with ONIVYDE pegylated liposomal.
 Febrile neutropenia (body temperature > 38°C and neutrophil count ≤ 1,000 cells/mm³) should be urgently treated in the hospital with broad-spectrum intravenous antibiotics.
-ONIVYDE pegylated liposomal should be withheld if neutropenic fever occurs or the absolute neutrophil count drops below 1,500 cells/mm3.
 Sepsis with neutropenic fever and consequent septic shock with fatal outcome has been observed in patients with metastatic pancreatic adenocarcinoma treated with ONIVYDE pegylated liposomal.
 In patients who experienced severe haematological events, a dose reduction or treatment discontinuation is recommended (see section 4.2).
 Patients with severe bone marrow failure should not be treated with ONIVYDE pegylated liposomal.
@@ -23,8 +21,6 @@ Close monitoring of blood counts is recommended, and the use of myeloid growth f
 Caution should be exercised in patients receiving concurrent administration of ONIVYDE pegylated liposomal with irradiation.
 
 Patients with deficient glucuronidation of bilirubin, such as those with Gilbert’s syndrome, may be at greater risk of myelosuppression when receiving therapy with ONIVYDE pegylated liposomal.
-
-Compared to Caucasian patients, Asian patients have an increased risk of severe and febrile neutropenia following treatment with ONIVYDE pegylated liposomal +5-FU/LV (see sections 4.8 and 5.2).
 
 Immunosuppressive effects and vaccines
 
@@ -43,53 +39,57 @@ ONIVYDE pegylated liposomal should not be administered with strong CYP3A4-enzyme
 Strong CYP3A4 inhibitors should be discontinued at least 1 week prior to starting ONIVYDE pegylated liposomal therapy.
 ONIVYDE pegylated liposomal should not be administered with strong UGT1A inhibitors
 (e.g. atazanavir, gemfibrozil, indinavir) unless there are no therapeutic alternatives.
+
 Diarrhoea
 
+ONIVYDE pegylated liposomal can cause severe and life-threatening diarrhoea.
+ONIVYDE pegylated liposomal must not be administered to patients with bowel obstruction, and chronic inflammatory bowel disease.
 Diarrhoea can occur early (onset in ≤ 24 hours after starting ONIVYDE pegylated liposomal) or late (> 24 hours) (see section 4.8).
-In patients experiencing early diarrhoea, therapeutic and prophylactic atropine should be considered unless contraindicated.
+In patients experiencing early diarrhoea or cholinergic symptoms, prophylactic or therapeutic atropine should be considered unless contraindicated.
 Patients should be made aware of the risk of delayed diarrhoea which can be debilitating and, on rare occasions, life threatening since persistent loose or watery stools can result in dehydration, electrolyte imbalance, colitis, gastrointestinal (GI) ulceration, infection or sepsis.
 As soon as the first liquid stool occurs, the patient should start drinking large volumes of beverages containing electrolytes.
 Patients should have loperamide (or equivalent) readily available to begin treatment for late diarrhoea.
-Loperamide should be initiated at first occurrence of poorly formed or loose stools or at the earliest onset of bowel movements more frequent than normal.
-Loperamide should be given until patient is without diarrhoea for at least 12 hours.
-If diarrhoea persists while patient is on loperamide for more than 24 hours, adding oral antibiotic support (e.g. fluoroquinolone for 7 days) should be considered.
+Loperamide should be initiated at first occurrence of poorly formed or loose stools or at the earliest onset of bowel movements more frequent than normal (maximum of 16 mg/day).
+Loperamide should be given until the patient is without diarrhoea for at least 12 hours.
+To help avoid severe diarrhoea, stop all lactose-containing products, maintain hydration and eat a low-fat diet.
+If diarrhoea persists while the patient is on loperamide for more than 24 hours, adding oral antibiotic support (e.g. fluoroquinolone for 7 days) should be considered.
 Loperamide should not be used for more than 48 consecutive hours due to risk of paralytic ileus.
 If diarrhoea persists for more than 48 hours, stop loperamide, monitor and replace fluid electrolytes and continue antibiotic support until resolution for accompanying symptoms.
-ONIVYDE pegylated liposomal treatment should be delayed until diarrhoea resolves to ≤ Grade 1 (2-3 stools/day more than pre-treatment frequency).
-ONIVYDE pegylated liposomal must not be administered to patients with bowel obstruction, and chronic inflammatory bowel disease, until it is resolved.
-Following Grade 3 or 4 diarrhoea, the subsequent dose of ONIVYDE pegylated liposomal should be reduced, (see section 4.2).
+A new cycle of therapy should not begin until diarrhoea resolves to ≤ Grade 1 (2-3 stools/day more than pre-treatment frequency).
+Following Grade 3 or 4 diarrhoea, the subsequent dose of ONIVYDE pegylated liposomal should be reduced (see section 4.2).
 
 Cholinergic reactions
 
 Early onset diarrhoea may be accompanied by cholinergic symptoms such as rhinitis, increased salivation, flushing, diaphoresis, bradycardia, miosis and hyperperistalsis.
 In case of cholinergic symptoms atropine should be administered.
 
-Acute infusion and related reactions
+Hypersensitivity reaction including acute infusion related reactions
 
 Infusion reactions primarily consisting of rash, urticaria, periorbital oedema or pruritus were reported in patients receiving ONIVYDE pegylated liposomal treatment.
 New events (all grade 1 or grade 2) occurred generally early during ONIVYDE pegylated liposomal treatment, with only 2 out of 10 patients noted with events after the fifth dose.
 Hypersensitivity reactions, including acute infusion reaction, anaphylactic/anaphylactoid reaction and angioedema may occur.
-ONIVYDE pegylated liposomal should be discontinued in case of severe hypersensitivity reactions.
+ONIVYDE pegylated liposomal should be discontinued in case of severe hypersensitivity reactions (see section 4.2).
 
 Prior Whipple procedure
 
-Patients with a history of a Whipple procedure have a higher risk of serious infections following ONIVYDE pegylated liposomal in combination with 5-FU and leucovorin (see section 4.8).
+Patients with a history of a Whipple procedure have a higher risk of serious infections following ONIVYDE pegylated liposomal in combination with 5-FU and leucovorin.
 Patients should be monitored for signs of infections.
 
 Vascular disorders
 
-Onivyde pegylated liposomal has been associated with thromboembolic events such as pulmonary embolism, venous thrombosis and arterial thromboembolism.
+ONIVYDE pegylated liposomal has been associated with thromboembolic events such as pulmonary embolism, venous thrombosis and arterial thromboembolism.
 A thorough medical history should be obtained in order to identify patients with multiple risk factors in addition to the underlying neoplasm.
 Patients should be informed about the signs and symptoms of thromboembolism and advised to contact their physician or nurse immediately if any such signs or symptoms should occur.
+
 Pulmonary toxicity
 
 Interstitial Lung Disease (ILD)-like events leading to fatalities have occurred in patients receiving non-liposomal irinotecan.
-No cases of ILD-like events have been reported with ONIVYDE pegylated liposomal therapy in clinical studies.
+In NAPOLI-3 study, pneumonitis was reported in 0.3% of patients receiving ONIVYDE pegylated liposomal in combination with oxaliplatin and 5-FU/LV.
 Risk factors include pre-existing lung disease, use of pneumotoxic medicinal products, colony stimulating factors or having previously received radiation therapy.
 Patients with risk factors should be closely monitored for respiratory symptoms before and during ONIVYDE pegylated liposomal therapy.
 A reticulo-nodular pattern on chest X-ray was observed in a small percentage of patients enrolled in a clinical study with irinotecan.
 New or progressive dyspnoea, cough, and fever should prompt interruption of ONIVYDE pegylated liposomal treatment, pending diagnostic evaluation.
-ONIVYDE pegylated liposomal should be discontinued in patients with a confirmed diagnosis of ILD.
+ONIVYDE pegylated liposomal should be discontinued in patients with a confirmed diagnosis of ILD (see section 4.2).
 
 Hepatic impairment
 
@@ -98,13 +98,9 @@ Regular monitoring of complete blood counts should be conducted in patients with
 Caution should be exercised in patients with hepatic impairment (bilirubin > 2 times upper limit of normal [ULN]; transaminases > 5 times ULN).
 Caution is required when ONIVYDE pegylated liposomal is given in combination with other hepatotoxic medicinal products, especially in patients with pre-existing hepatic impairment.
 
-Renal impairment
-
-The use of ONIVYDE pegylated liposomal in patients with significant renal impairment has not been established (see section 5.2).
-
 Underweight patients (body mass index < 18.5 kg/m2)
 
-In the clinical study evaluating ONIVYDE pegylated liposomal +5-FU/LV, 5 of 8 underweight patients experienced Grade 3 or 4 adverse reactions, mostly myelosuppression, while 7 of the 8 patients required dose modification such as dose delay, dose reduction or dose discontinuation.
+In NAPOLI-1, 5 of 8 underweight patients experienced Grade 3 or 4 adverse reactions, mostly myelosuppression, while 7 of the 8 patients required dose modification such as dose delay, dose reduction or dose discontinuation.
 Caution should be exercised when using ONIVYDE pegylated liposomal in patients with body mass index < 18.5 kg/m2.
 
 Excipients

@@ -18,6 +18,57 @@ In animal models, ONIVYDE pegylated liposomal has been shown to extend plasma le
 
 Clinical efficacy and safety
 
+NAPOLI-3:
+
+The safety and efficacy of ONIVYDE pegylated liposomal in combination with oxaliplatin, 5-fluorouracil and leucovorin (NALIRIFOX) was evaluated in NAPOLI-3, a randomised, multicenter, open-label, active-controlled study that included 770 patients with metastatic adenocarcinoma of the pancreas who had not previously received chemotherapy in the metastatic setting.
+Randomisation was stratified by region, liver metastases and ECOG performance status.
+Patients were randomized (1:1) to receive one of the following treatment arms:
+
+NALIRIFOX: ONIVYDE pegylated liposomal 50 mg/m2 as an intravenous infusion over 90 minutes, followed by oxaliplatin 60 mg/m2 as an intravenous infusion over 120 minutes, followed by leucovorin 400 mg/m2 intravenously over 30 minutes, followed by 5-FU 2,400 mg/m2 intravenously over 46 hours, administered every 2 weeks.
+
+Gem+NabP: Nab-paclitaxel 125 mg/m2 as an intravenous infusion over 35 minutes, followed by gemcitabine 1000 mg/m2 intravenously over 30 minutes on days 1, 8 and 15 of each 28-day cycle.
+Patients homozygous for the UGT1A1*28 allele initiated ONIVYDE pegylated liposomal at the same dose (50 mg/m2 ONIVYDE pegylated liposomal) and were closely monitored for safety.
+
+Treatment continued until RECIST V1.1 defined disease progression or unacceptable toxicity.
+Tumor status assessments were conducted at baseline and every 8 weeks thereafter as assessed by the investigator according to RECIST v1.1.
+
+The main efficacy outcome measures were Overall Survival (OS), Progression-Free Survival (PFS) and Objective Response Rate (ORR).
+
+Baseline demographics and patient characteristics were: median age of 65 years (range: 20-85); 50% age 65 or older ; 56% male; 83% White; 5% Asian; 3% Black or African American; ECOG performance status was 0 in 43% or 1 in 57% of patients; 87% liver metastases.
+NAPOLI-3 demonstrated a statistically significant improvement in OS and PFS for the NALIRIFOX arm over Gem+NabP arm as per original strata definition in the statistical analysis plan.
+Median OS was 11.1 months (95% CI: 10.0, 12.1; HR 0.84 (95% CI: 0.71, 0.99); p=0.04) for the NALIRIFOX arm and 9.2 months (95% CI: 8.3, 10.6) for the Gem+NabP arm at the final analysis.
+Results from an updated OS analysis are summarized in Table 5 and Figure 1 (OS).
+
+Table 5: Efficacy Results from NAPOLI-3 clinical study
+
+|  | NALIRIFOX (N=383) | Gem+NabP (N=387) |
+| --- | --- | --- |
+| Updated Overall Survival, cut-off = 03 October 2023 |  |  |
+| Number of Deaths, n (%) | 328 (85.6) | 345 (89.1) |
+| Median Overall Survival (months) | 11.1 | 9.2 |
+| (95% CI) | (10.0, 12.1) | (8.3, 10.6) |
+| Hazard Ratio (95% CI) * | 0.85 (0.73, 0.99) |  |
+| Progression-Free Survival, cut-off = 23 July 2022** |  |  |
+| Death or Progression, n (%) | 249 (65) | 259 (67) |
+| Median Progression-Free Survival (months) | 7.4 | 5.6 |
+| (95% CI) | (6.0, 7.7) | (5.3, 5.8) |
+| Hazard Ratio (95% CI) * | 0.70 (0.59, 0.84) |  |
+| p-value † | 0.0001 |  |
+| Objective Response Rate, cut-off = 23 July 2022 |  |  |
+| ORR (95% CI) | 41.8 (36.8, 46.9) | 36.2 (31.4, 41.2) |
+| CR, n (%) | 1 (0.3) | 1 (0.3) |
+| PR, n (%) | 159 (41.5) | 139 (35.9) |
+
+NALIRIFOX= ONIVYDE pegylated liposomal +oxaliplatin/5-fluorouracil/leucovorin; Gem+NabP=gemcitabine+nab-paclitaxel
+* Based on the stratified Cox proportional hazard model by baseline ECOG performance status, region (North America, East Asia and Rest of the World) and liver metastases
+** Patients were censored when initiated subsequent anti-cancer therapy or withdrawal of study consent or lost to FU or if 2 consecutive tumour assessments were missed and followed by progression or death
+† Based on stratified log-rank test.
+
+Abbreviations: CR=complete response, PR=partial response; CI=confidence interval
+Figure 1: Kaplan-Meier Curve for Updated Overall Survival, cut-off = 03 October 2023 in NAPOLI-3
+
+NAPOLI-1:
+
 The safety and efficacy of ONIVYDE pegylated liposomal were investigated in a multinational, randomised, open label, controlled clinical study (NAPOLI–1) that tested two treatment regimens for patients with metastatic pancreatic adenocarcinoma who had documented disease progression after gemcitabine or gemcitabine-containing therapy.
 The study was designed to assess the clinical efficacy and safety of ONIVYDE pegylated liposomal monotherapy or ONIVYDE pegylated liposomal +5-FU/LV compared to an active control arm of 5-FU/LV.
 
@@ -40,10 +91,10 @@ Disease characteristics included 68% of patients with liver metastases and 31% w
 Patients received treatment until disease progression or unacceptable toxicity.
 The primary outcome measure was Overall survival (OS).
 Additional outcome measures included Progression free survival (PFS) and Objective response rate (ORR).
-Results are shown in Table 4.
-Overall survival is illustrated in Figure 1.
+Results are shown in Table 6.
+Overall survival is illustrated in Figure 2.
 
-Table 4: Efficacy results from NAPOLI-1 clinical study
+Table 6: Efficacy results from NAPOLI-1 clinical study
 
 |  | ONIVYDE pegylated liposomal +5-FU/LV (N= 117) | 5-FU/LV (N= 119) |
 | --- | --- | --- |
@@ -74,10 +125,10 @@ Table 4: Efficacy results from NAPOLI-1 clinical study
 6 Fisher’s exact test
 
 Abbreviations: 5-FU/LV=5-fluorouracil/leucovorin; CI=confidence interval
-Figure 1: Overall survival
+Figure 2: Kaplan-Meier Curve for Overall survival in NAPOLI-1
 
 In the limited number of patients with prior exposure to non-liposomal irinotecan, no benefit of ONIVYDE pegylated liposomal has been demonstrated.
 
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with ONIVYDE pegylated liposomal in all subsets of the paediatric population in treatment of adenocarcinoma of the pancreas (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with ONIVYDE pegylated liposomal in all subsets of the paediatric population in treatment of pancreatic cancer (see section 4.2 for information on paediatric use).

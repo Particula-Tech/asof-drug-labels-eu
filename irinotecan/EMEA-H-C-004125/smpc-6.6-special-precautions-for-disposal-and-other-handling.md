@@ -13,7 +13,8 @@ Dilute with 5% glucose solution for injection or sodium chloride 9 mg/ml (0.9%) 
 Mix the diluted dispersion by gentle inversion.
 The diluted dispersion is clear to slightly white to slightly opalescent and free from visible particles.
 
-ONIVYDE pegylated liposomal should be administered before LV followed by 5-FU.
+For first-line treatment of adult patients with metastatic adenocarcinoma of the pancreas, ONIVYDE pegylated liposomal should be administered before oxaliplatin, followed by LV, followed by 5-FU.
+For treatment of metastatic adenocarcinoma of the pancreas in adult patients who have progressed following gemcitabine based therapy, ONIVYDE pegylated liposomal should be administered before LV followed by 5-FU.
 ONIVYDE pegylated liposomal must not be administered as a bolus injection or an undiluted dispersion.
 
 Aseptic techniques must be followed during the preparation of the infusion.
