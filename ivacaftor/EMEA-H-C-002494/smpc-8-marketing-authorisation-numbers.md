@@ -5,10 +5,12 @@ EU/1/12/782/002
 EU/1/12/782/005
 EU/1/12/782/007
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
 EU/1/12/782/003
 EU/1/12/782/004
 EU/1/12/782/006
 EU/1/12/782/008
 EU/1/12/782/009
+EU/1/12/782/010
+EU/1/12/782/011

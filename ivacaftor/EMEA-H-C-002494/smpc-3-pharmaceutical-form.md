@@ -10,7 +10,7 @@ Kalydeco 150 mg film-coated tablets
 
 Light blue, capsule-shaped film-coated tablets, printed with “V 150” in black ink on one side and plain on the other (16.5 mm × 8.4 mm in modified tablet shape).
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
 Granule in sachet (granule)
 

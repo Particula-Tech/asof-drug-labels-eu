@@ -2,6 +2,6 @@
 
 4 years.
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
 Once mixed, the mixture has been shown to be stable for one hour.

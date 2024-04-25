@@ -18,7 +18,13 @@ Each film-coated tablet contains 167.2 mg of lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
+
+Kalydeco 13.4 mg granules in sachet
+
+Each sachet contains 13.4 mg of ivacaftor.
+
+Each sachet contains 19.7 mg of lactose monohydrate.
 
 Kalydeco 25 mg granules in sachet
 

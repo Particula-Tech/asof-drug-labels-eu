@@ -1,15 +1,15 @@
 # 4.4 Special warnings and precautions for use
 
-Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R gating (class III), G970R or R117H mutation in at least one allele of the CFTR gene were included in studies 1, 2, 5 and 6 (see section 5.1).
+Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R gating (class III), G970R or R117H mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-110 (see section 5.1).
 
-In study 5, four patients with the G970R mutation were included.
+In study 770-111, four patients with the G970R mutation were included.
 In three of four patients the change in the sweat chloride test was < 5 mmol/L and this group did not demonstrate a clinically relevant improvement in FEV1 after 8 weeks of treatment.
 Clinical efficacy in patients with the G970R mutation of the CFTR gene could not be established (see section 5.1).
 
 Efficacy results from a phase 2 study in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in FEV1 over 16 weeks of ivacaftor treatment compared to placebo (see section 5.1).
 Therefore, use of ivacaftor as monotherapy in these patients is not recommended.
 
-Less evidence of a positive effect of ivacaftor has been shown for patients with an R117H-7T mutation associated with less severe disease in study 6 (see section 5.1).
+Less evidence of a positive effect of ivacaftor has been shown for patients with an R117H-7T mutation associated with less severe disease in study 770-110 (see section 5.1).
 
 Ivacaftor in a combination regimen with tezacaftor/ivacaftor should not be prescribed in patients with CF who are heterozygous for the F508del mutation and have a second CFTR mutation not listed in section 4.1.
 
@@ -28,10 +28,10 @@ Following resolution of transaminase elevations, the benefits and risks of resum
 
 Hepatic impairment
 
-Use of ivacaftor, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor, is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks.
-Patients with severe hepatic impairment should not be treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor (see Table 3 in section 4.2, and sections 4.8 and 5.2).
+Use of ivacaftor, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor, is not recommended in patients aged 6 years and older with severe hepatic impairment unless the benefits are expected to outweigh the risks.
+These patients should not be treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor (see Table 3 in section 4.2, and sections 4.8 and 5.2).
 
-For patients with moderate hepatic impairment, use of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor is not recommended.
+For patients aged 6 years and older with moderate hepatic impairment, use of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor is not recommended.
 Treatment should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks.
 If used, it should be used with caution at a reduced dose (see Table 3 in section 4.2, and sections 4.8 and 5.2).
 
@@ -64,6 +64,7 @@ Interactions with medicinal products
 CYP3A inducers
 
 Exposure to ivacaftor is significantly decreased by the concomitant use of CYP3A inducers, potentially resulting in the loss of ivacaftor efficacy; therefore, co-administration of ivacaftor with strong CYP3A inducers is not recommended (see section 4.5).
+
 CYP3A inhibitors
 
 Exposure to ivacaftor, tezacaftor and elexacaftor are increased when co-administered with strong or moderate CYP3A inhibitors.
@@ -86,20 +87,21 @@ Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
-Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R gating (class III) or G970R mutation in at least one allele of the CFTR gene were included in studies 1, 2, 5 and 7 (see section 5.1).
+Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R gating (class III) or G970R mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-108 (see section 5.1).
 
 Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor as monotherapy and in combination regimens with ivacaftor/tezacaftor/elexacaftor.
 
-Use of ivacaftor as monotherapy is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks.
+Use of ivacaftor as monotherapy is not recommended in patients aged 1 month to less than 6 months of age with any level of hepatic impairment.
+Use of ivacaftor as monotherapy is not recommended in patients aged 6 months and older weighing less than 25 kg with severe hepatic impairment unless the benefits are expected to outweigh the risks.
+Patients with severe hepatic impairment should not be treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor (see Table 3 in section 4.2, and sections 4.8 and 5.2).
 
-Use of ivacaftor as monotherapy in patients aged 4 months to less than 6 months with moderate hepatic impairment is not recommended unless the benefits are expected to outweigh the risks.
+For patients with moderate hepatic impairment, use of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor is not recommended.
 
 Depression (including suicidal ideation and suicide attempt) has been reported in patients while receiving ivacaftor, mainly in a combination regimen with ivacaftor/tezacaftor/elexacaftor, usually occurring within three months of treatment initiation and in patients with a history of psychiatric disorders.
 
 Exposure to ivacaftor is increased when co-administered with strong or moderate CYP3A inhibitors.
-The dose of ivacaftor must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors.
-Ivacaftor use is not recommended in children aged 4 to less than 6 months unless the benefits outweigh the risks (see Table 2 in section 4.2 and section 4.5).
+Treatment with ivacaftor monotherapy is not recommended in patients aged 1 month to less than 6 months taking strong or moderate CYP3A inhibitors.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially ‘sodium-free’.

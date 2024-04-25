@@ -12,7 +12,6 @@ Co-administration of ivacaftor with rifampicin, a strong CYP3A inducer, decrease
 Co-administration of ivacaftor with strong CYP3A inducers, such as rifampicin, rifabutin, phenobarbital, carbamazepine, phenytoin and St. John’s wort (Hypericum perforatum), is not recommended (see section 4.4).
 
 No dose adjustment is recommended when ivacaftor is used with moderate or weak CYP3A inducers.
-
 CYP3A inhibitors
 
 Ivacaftor is a sensitive CYP3A substrate.
@@ -61,10 +60,12 @@ Hormonal contraceptives
 
 Ivacaftor has been studied with an oestrogen/progesterone oral contraceptive and was found to have no significant effect on the exposures of the oral contraceptive.
 Therefore, no dose adjustment of oral contraceptives is necessary.
+
 Paediatric population
 
 Interaction studies have only been performed in adults.
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
-Ivacaftor been studied with an oestrogen/progesterone oral contraceptive and was found to have no significant effect on the exposures of the oral contraceptive.
+A reduction of the ivacaftor dose is recommended for co-administration with strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin as well as for co-administration with moderate CYP3A inhibitors, such as fluconazole, erythromycin, and verapamil.
+Treatment with ivacaftor monotherapy is not recommended when concomitantly used with strong or moderate CYP3A inhibitors in patients aged 1 month to less than 6 months (see Table 2 in section 4.2 and section 4.4).

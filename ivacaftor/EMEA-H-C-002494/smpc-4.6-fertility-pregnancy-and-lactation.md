@@ -17,6 +17,6 @@ Fertility
 There are no data available on the effect of ivacaftor on fertility in humans.
 Ivacaftor had an effect on fertility in rats (see section 5.3).
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
 As a precautionary measure, it is preferable avoid the use of ivacaftor during pregnancy.

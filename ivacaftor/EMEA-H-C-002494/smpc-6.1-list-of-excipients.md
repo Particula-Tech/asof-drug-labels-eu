@@ -18,6 +18,7 @@ Macrogol (PEG 3350)
 Talc
 Indigo carmine aluminium lake (E132)
 Carnauba wax
+
 Printing ink
 
 Shellac
@@ -25,7 +26,7 @@ Iron oxide black (E172)
 Propylene glycol (E1520)
 Ammonia solution, concentrated
 
-[Kalydeco 25 mg granules in sachet]
+[Kalydeco 13.4 mg granules in sachet]
 
 Mannitol
 Sucralose
