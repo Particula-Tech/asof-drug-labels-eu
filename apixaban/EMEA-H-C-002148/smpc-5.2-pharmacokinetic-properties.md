@@ -20,6 +20,7 @@ Following administration of a crushed 5 mg apixaban tablet suspended in 60 mL of
 Given the predictable, dose-proportional pharmacokinetic profile of apixaban, the bioavailability results from the conducted studies are applicable to lower apixaban doses.
 
 Distribution
+
 Plasma protein binding in humans is approximately 87%.
 The volume of distribution (Vss) is approximately 21 litres.
 
@@ -62,6 +63,7 @@ Gender
 Exposure to apixaban was approximately 18% higher in females than in males.
 
 Ethnic origin and race
+
 The results across phase I studies showed no discernible difference in apixaban pharmacokinetics between White/Caucasian, Asian and Black/African American subjects.
 Findings from a population pharmacokinetic analysis in patients who received apixaban were generally consistent with the phase I results.
 
@@ -71,6 +73,6 @@ Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body 
 
 Pharmacokinetic/pharmacodynamic relationship
 
-The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
+The pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
 The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model.
 The PK/PD relationship observed in patients was consistent with that established in healthy subjects.

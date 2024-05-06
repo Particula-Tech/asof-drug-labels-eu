@@ -50,8 +50,8 @@ The administration of apixaban 10 mg with famotidine 40 mg had no effect on apix
 
 Effect of apixaban on other medicinal products
 
-In vitro apixaban studies showed no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6 or CYP3A4 (IC50 > 45 µM) and weak inhibitory effect on the activity of CYP2C19 (IC50 > 20 µM) at concentrations that are significantly greater than peak plasma concentrations observed in patients.
-Apixaban did not induce CYP1A2, CYP2B6, CYP3A4/5 at a concentration up to 20 µM.
+In vitro apixaban studies showed no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6 or CYP3A4 (IC50 > 45 μM) and weak inhibitory effect on the activity of CYP2C19 (IC50 > 20 μM) at concentrations that are significantly greater than peak plasma concentrations observed in patients.
+Apixaban did not induce CYP1A2, CYP2B6, CYP3A4/5 at a concentration up to 20 μM.
 Therefore, apixaban is not expected to alter the metabolic clearance of coadministered medicinal products that are metabolised by these enzymes.
 Apixaban is not a significant inhibitor of P-gp.
 

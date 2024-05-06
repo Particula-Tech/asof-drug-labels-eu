@@ -53,11 +53,11 @@ Switching from Eliquis to VKA therapy
 When converting patients from Eliquis to VKA therapy, administration of Eliquis should be continued for at least 2 days after beginning VKA therapy.
 After 2 days of coadministration of Eliquis with VKA therapy, an INR should be obtained prior to the next scheduled dose of Eliquis.
 Coadministration of Eliquis and VKA therapy should be continued until the INR is ≥ 2.
+
 Elderly
 VTEp and VTEt – No dose adjustment required (see sections 4.4 and 5.2).
 
 NVAF – No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
-
 Renal impairment
 In patients with mild or moderate renal impairment, the following recommendations apply:
 
@@ -93,11 +93,10 @@ No dose adjustment required (see section 5.2).
 
 Patients undergoing catheter ablation (NVAF)
 Patients can continue apixaban use while undergoing catheter ablation (see sections 4.3, 4.4 and 4.5).
+
 Patients undergoing cardioversion
 Apixaban can be initiated or continued in NVAF patients who may require cardioversion.
-
 For patients not previously treated with anticoagulants, exclusion of left atrial thrombus using an image guided approach (e.g. transesophageal echocardiography (TEE) or computed tomographic scan (CT)) prior to cardioversion should be considered, in accordance with established medical guidelines.
-
 For patients initiating treatment with apixaban, 5 mg should be given twice daily for at least 2.5 days (5 single doses) before cardioversion to ensure adequate anticoagulation (see section 5.1).
 The dosing regimen should be reduced to 2.5 mg apixaban given twice daily for at least 2.5 days (5 single doses) if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment).
 
@@ -113,7 +112,7 @@ There is limited experience of treatment with apixaban at the recommended dose f
 
 Paediatric population
 The safety and efficacy of Eliquis in children and adolescents below age 18 have not been established.
-No data are available.
+Currently available data on thromboembolism prevention are described in section 5.1 but no recommendation on a posology can be made.
 
 Method of administration
 
@@ -129,7 +128,6 @@ Crushed Eliquis tablets are stable in water, G5W, apple juice, and apple puree f
 VTEt - No dose adjustment required (see sections 4.4 and 5.2).
 
 - for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), no dose adjustment is necessary (see section 5.2).
-- for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥1.5 mg/dL (133 micromole/L) associated with age ≥80 years or body weight ≤60 kg, a dose reduction is necessary and described above.
 
 - for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) apixaban is to be used with caution;
 

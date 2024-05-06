@@ -76,7 +76,6 @@ Table 2: Tabulated adverse reactions
 
 * There were no occurrences of generalised pruritus in CV185057 (long term prevention of VTE)
 † The term “Brain haemorrhage” encompasses all intracranial or intraspinal haemorrhages (i.e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
-
 The use of apixaban may be associated with an increased risk of occult or overt bleeding from any tissue or organ, which may result in posthaemorrhagic anaemia.
 The signs, symptoms, and severity will vary according to the location and degree or extent of the bleeding (see sections 4.4 and 5.1).
 

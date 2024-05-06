@@ -29,7 +29,6 @@ A clinical study enrolled patients with atrial fibrillation with ACS and/or unde
 Concomitant use of ASA increased the risk of ISTH (International Society on Thrombosis and Hemostasis) major or CRNM (Clinically Relevant Non-Major) bleeding in apixaban-treated subjects from 16.4% per year to 33.1% per year (see section 5.1).
 
 In a clinical study of high-risk post acute coronary syndrome patients without atrial fibrillation, characterised by multiple cardiac and non-cardiac comorbidities, who received ASA or the combination of ASA and clopidogrel, a significant increase in risk of ISTH major bleeding was reported for apixaban (5.13% per year) compared to placebo (2.04% per year).
-
 Use of thrombolytic agents for the treatment of acute ischemic stroke
 
 There is very limited experience with the use of thrombolytic agents for the treatment of acute ischemic stroke in patients administered apixaban (see section 4.5).
