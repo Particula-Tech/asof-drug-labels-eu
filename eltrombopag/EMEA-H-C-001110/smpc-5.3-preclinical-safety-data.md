@@ -4,6 +4,7 @@ Safety pharmacology and repeat-dose toxicity
 
 Eltrombopag does not stimulate platelet production in mice, rats or dogs because of unique TPO receptor specificity.
 Therefore, data from these animals do not fully model potential adverse effects related to the pharmacology of eltrombopag in humans, including the reproduction and carcinogenicity studies.
+
 Treatment-related cataracts were detected in rodents and were dose and time-dependent.
 At ≥6 times the human clinical exposure in adult ITP patients at 75 mg/day and 3 times the human clinical exposure in adult HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 6 weeks and rats after 28 weeks of dosing.
 At ≥4 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human exposure in HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing.
@@ -48,6 +49,7 @@ In vitro studies with eltrombopag suggest a potential phototoxicity risk; howeve
 Furthermore, a clinical pharmacology study in 36 subjects showed no evidence that photosensitivity was increased following administration of eltrombopag 75 mg.
 This was measured by delayed phototoxic index.
 Nevertheless, a potential risk of photoallergy cannot be ruled out since no specific preclinical study could be performed.
+
 Juvenile animal studies
 
 At non-tolerated doses in pre-weaning rats, ocular opacities were observed.

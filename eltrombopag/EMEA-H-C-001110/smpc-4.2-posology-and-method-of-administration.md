@@ -23,7 +23,6 @@ For patients of East-/Southeast-Asian ancestry, eltrombopag should be initiated 
 
 Paediatric population aged 1 to 5 years
 The recommended starting dose of eltrombopag is 25 mg once daily.
-
 Monitoring and dose adjustment
 After initiating eltrombopag, the dose must be adjusted to achieve and maintain a platelet count
 ≥50 000/µl as necessary to reduce the risk for bleeding.
@@ -32,6 +31,7 @@ A daily dose of 75 mg must not be exceeded.
 Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dose regimen of eltrombopag modified based on platelet counts as outlined in Table 1.
 During therapy with eltrombopag full blood counts (FBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥50 000/µl for at least 4 weeks) has been achieved.
 FBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter.
+
 Table 1 Dose adjustments of eltrombopag in ITP patients
 
 | Platelet count | Dose adjustment or response |
@@ -60,7 +60,6 @@ The reoccurrence of thrombocytopenia is possible upon discontinuation of treatme
 Chronic hepatitis C (HCV) associated thrombocytopenia
 
 When eltrombopag is given in combination with antivirals reference should be made to the full summary of product characteristics of the respective coadministered medicinal products for comprehensive details of relevant safety information or contraindications.
-
 In clinical studies, platelet counts generally began to increase within 1 week of starting eltrombopag.
 The aim of treatment with eltrombopag should be to achieve the minimum level of platelet counts needed to initiate antiviral therapy, in adherence to clinical practice recommendations.
 During antiviral therapy, the aim of treatment should be to keep platelet counts at a level that prevents the risk of bleeding complications, normally around 50 000-75 000/µl.
@@ -71,6 +70,7 @@ Dose adjustments are based upon the platelet count response.
 Initial dose regimen
 Eltrombopag should be initiated at a dose of 25 mg once daily.
 No dosage adjustment is necessary for HCV patients of East-/Southeast-Asian ancestry or patients with mild hepatic impairment (see section 5.2).
+
 Monitoring and dose adjustment
 The dose of eltrombopag should be adjusted in 25 mg increments every 2 weeks as necessary to achieve the target platelet count required to initiate antiviral therapy.
 Platelet counts should be monitored every week prior to starting antiviral therapy.
@@ -101,13 +101,13 @@ If after 2 weeks of eltrombopag therapy at 100 mg the required platelet level to
 
 Eltrombopag treatment should be terminated when antiviral therapy is discontinued unless otherwise justified.
 Excessive platelet count responses or important liver test abnormalities also necessitate discontinuation.
-
 Severe aplastic anaemia
 
 Initial dose regimen
 Eltrombopag should be initiated at a dose of 50 mg once daily.
 For patients of East-/Southeast-Asian ancestry, eltrombopag should be initiated at a reduced dose of 25 mg once daily (see section 5.2).
 The treatment should not be initiated when the patient has existing cytogenetic abnormalities of chromosome 7.
+
 Monitoring and dose adjustment
 Haematological response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting eltrombopag (see section 5.1).
 The dose of eltrombopag should be adjusted in 50 mg increments every 2 weeks as necessary to achieve the target platelet count ≥50 000/µl.
@@ -140,12 +140,12 @@ Special populations
 Renal impairment
 No dose adjustment is necessary in patients with renal impairment.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or performing urine analysis (see section 5.2).
-
 Hepatic impairment
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
 If the use of eltrombopag is deemed necessary for ITP patients with hepatic impairment the starting dose must be 25 mg once daily.
 After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 3 weeks should be observed before increasing the dose.
+
 No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤6).
 Chronic HCV patients and severe aplastic anaemia patients with hepatic impairment should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2).
 After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 2 weeks should be observed before increasing the dose.

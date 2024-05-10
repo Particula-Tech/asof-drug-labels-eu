@@ -3,9 +3,9 @@
 Pharmacokinetics
 
 The plasma eltrombopag concentration-time data collected in 88 patients with ITP in studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis.
-Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (Table 8).
+Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (Table 9).
 
-Table 8 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
+Table 9 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
 | Eltrombopag dose, once daily | N | AUC(0-τ)a, μg.h/ml | Cmaxa, μg/ml |
 | --- | --- | --- | --- |
@@ -15,9 +15,9 @@ Table 8 Geometric mean (95% confidence intervals) of steady-state plasma eltromb
 
 a AUC(0-τ) and Cmax based on population PK post-hoc estimates.
 Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis.
-Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 9.
+Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 10.
 
-Table 9 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
+Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
 | Eltrombopag dose (once daily) | N | AUC(0-τ) (μg.h/ml) | Cmax (μg/ml) |
 | --- | --- | --- | --- |
@@ -130,9 +130,9 @@ East-/Southeast-Asian paediatric ITP patients had approximately 43% higher plasm
 Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0-τ) values as compared to male patients.
 
 The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in
-Table 10.
+Table 11.
 
-Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
+Table 11 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
 
 | Age | Cmax (µg/ml) | AUC(0-τ) (µg.hr/ml) |
 | --- | --- | --- |

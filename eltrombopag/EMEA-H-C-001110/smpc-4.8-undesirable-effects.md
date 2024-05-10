@@ -125,7 +125,6 @@ HCV study population (in combination with anti-viral interferon and ribavirin th
 |  | Uncommon | Electrocardiogram QT prolonged |
 
 † Grouped term with preferred terms oliguria, renal failure and renal impairment
-
 SAA study population
 
 | System organ class | Frequency | Adverse reaction |
@@ -138,9 +137,7 @@ SAA study population
 | Eye disorders | Common | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters |
 | Respiratory, thoracic and mediastinal disorders | Very common | Cough, oropharyngeal pain, rhinorrhoea |
 |  | Common | Epistaxis |
-
 | Gastrointestinal disorders | Very common | Diarrhoea, nausea, gingival bleeding, abdominal pain |
-| --- | --- | --- |
 |  | Common | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
 | Hepatobiliary disorders | Very common | Transaminases increased |
 |  | Common | Blood bilirubin increased (hyperbilirubinemia), jaundice |
@@ -162,12 +159,12 @@ In 3 controlled and 2 uncontrolled clinical studies among adult ITP patients rec
 
 In a placebo-controlled study (n=288, Safety population), following 2 weeks’ treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) patients in the placebo group experienced 3 TEEs.
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count >200 000/µl
-
 No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥200 000/µl (see section 4.4).
 
 In controlled studies in thrombocytopenic patients with HCV (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus < 1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤ 35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
+
 Hepatic decompensation (use with interferon)
 
 Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
@@ -199,11 +196,11 @@ Increased bone marrow reticulin
 
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction.
 In a small number of ITP patients, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
-
 Cytogenetic abnormalities
 
 In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of adult patients [7/41 (where 4 of them had changes in chromosome 7)].
 The median time on study to a cytogenetic abnormality was 2.9 months.
+
 In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)].
 All 7 patients had normal cytogenetics at baseline.
 Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
@@ -248,6 +245,17 @@ The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (
 |  | Uncomon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
 | Hepatobiliary disorders | Common | Hyperbilirubinaemia, jaundice, drug-induced liver injury |
 |  | Uncommon | Portal vein thrombosis, hepatic failure |
+| Skin and subcutaneous tissue disorders | Very common | Pruritus |
+|  | Common | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia |
+|  | Uncommon | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats |
+| Musculoskeletal and connective tissue disorder | Very common | Myalgia |
+|  | Common | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain |
+| Renal and urinary disorders | Uncommon | Thrombotic microangiopathy with acute renal failure†, dysuria |
+| General disorders and administration site conditions | Very common | Pyrexia, fatigue, influenza-like illness, asthenia, chills |
+|  | Common | Irritability, pain, malaise, injection site reaction, non-cardiac chest pain, oedema, oedema peripheral |
+|  | Uncommon | Injection site pruritus, injection site rash, chest discomfort |
+| Investigations | Common | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
+|  | Uncommon | Electrocardiogram QT prolonged |
 
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus <1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.

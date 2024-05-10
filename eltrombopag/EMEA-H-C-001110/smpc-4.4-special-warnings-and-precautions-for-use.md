@@ -66,9 +66,9 @@ The risk-benefit balance should be considered in patients at risk of TEEs of any
 
 No case of TEE was identified from a clinical study in refractory SAA, however the risk of these events cannot be excluded in this patient population due to the limited number of exposed patients.
 As the highest authorised dose is indicated for patients with SAA (150 mg/day) and due to the nature of the reaction, TEEs might be expected in this patient population.
+
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
-
 Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag.
@@ -101,9 +101,9 @@ In clinical studies with a TPO-R agonist in patients with MDS, cases of transien
 
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.
 Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms, or abnormal signs such as increased peripheral blast cells.
+
 The effectiveness and safety of Revolade have not been established for the treatment of thrombocytopenia due to MDS.
 Revolade should not be used outside of clinical studies for the treatment of thrombocytopenia due to MDS.
-
 Cytogenetic abnormalities and progression to MDS/AML in patients with SAA
 
 Cytogenetic abnormalities are known to occur in SAA patients.
@@ -142,12 +142,12 @@ A loss of response or failure to maintain a platelet response with eltrombopag t
 Paediatric population
 
 The above warnings and precautions for ITP also apply to the paediatric population.
+
 Interference with laboratory tests
 
 Eltrombopag is highly coloured and so has the potential to interfere with some laboratory tests.
 Serum discolouration and interference with total bilirubin and creatinine testing have been reported in patients taking Revolade.
 If the laboratory results and clinical observations are inconsistent, re-testing using another method may help in determining the validity of the result.
-
 Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially ‘sodium-free’.
