@@ -12,7 +12,7 @@ Discard the vial if the solution is cloudy, discoloured or visible particles are
 Do not shake the vial.
 
 2.
-Dilute 2.0 mL of Saphnelo solution for infusion in an infusion bag to 100 mL with sodium chloride 9 mg/mL (0.9%) solution for injection.
+Dilute 2.0 mL of Saphnelo solution for infusion in an infusion bag to 50 mL or 100 mL with sodium chloride 9 mg/mL (0.9%) solution for injection.
 
 3.
 Mix the solution by gentle inversion.

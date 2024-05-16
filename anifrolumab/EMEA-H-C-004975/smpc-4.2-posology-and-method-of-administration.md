@@ -34,7 +34,7 @@ For intravenous use.
 
 Saphnelo must not be administered as an intravenous push or bolus injection.
 
-Following dilution with sodium chloride 9 mg/mL (0.9%) solution for injection, Saphnelo is administered as an infusion over 30 minutes through an intravenous infusion line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter.
+Following dilution with sodium chloride 9 mg/mL (0.9%) solution for injection, Saphnelo is administered as an infusion over 30 minutes through an intravenous infusion line containing a sterile, low-protein binding 0.2 to 15 micron in-line or add-on filter.
 
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
 

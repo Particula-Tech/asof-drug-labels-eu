@@ -3,6 +3,7 @@
 Unopened vial
 
 3 years.
+
 Diluted solution for infusion
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C – 8°C and for 4 hours at 25°C.

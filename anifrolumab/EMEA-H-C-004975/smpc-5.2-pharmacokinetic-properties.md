@@ -16,6 +16,7 @@ Based on population pharmacokinetic analysis, the estimated central and peripher
 Biotransformation
 
 Anifrolumab is a protein, therefore specific metabolism studies have not been conducted.
+
 Anifrolumab is eliminated by target IFNAR-mediated elimination pathway and reticuloendothelial system where anifrolumab is expected to be degraded, into small peptides and individual amino acids, by proteolytic enzymes that are widely distributed in the body.
 
 Elimination
@@ -24,6 +25,7 @@ Due to saturation of IFNAR1-mediated clearance at higher doses, exposure increas
 
 From population PK modelling the estimated typical systemic clearance (CL) was 0.193 L/day with a 33.0% CV inter-individual variability.
 The median CL decreases slowly over time, with an 8.4% reduction after 1 year of treatment.
+Following long-term observations, the clearance of anifrolumab was found to be stable in years 2 through 4 on treatment.
 
 Based on population PK analysis, serum concentrations were below detection in the majority (95%) of patients approximately 16 weeks after the last dose of anifrolumab, when anifrolumab has been dosed for one year.
 
@@ -33,7 +35,6 @@ There was no clinically meaningful difference in systemic clearance based on age
 
 Elderly patients (≥ 65 years old)
 Based on the population PK analysis, age (range 18 to 69 years) did not impact the clearance of anifrolumab; the population PK dataset included 20 (3%) patients ≥65 years of age.
-
 Renal impairment
 No specific clinical studies have been conducted to investigate the effect of renal impairment on anifrolumab.
 Based on population PK analyses, anifrolumab clearance was comparable in SLE patients with mild (60-89 mL/min/1.73 m2) and moderate decrease in eGFR (30-59 mL/min/1.73 m2) values and patients with normal renal function (≥90 mL/min/1.73 m2).

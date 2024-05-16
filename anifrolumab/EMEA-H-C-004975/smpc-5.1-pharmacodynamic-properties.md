@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, Selective immunosuppressants, ATC code: L04AA51
+Pharmacotherapeutic group: Immunosuppressants, Monoclonal antibodies, ATC code: L04AG11
 
 Mechanism of action
 
@@ -9,6 +9,7 @@ This binding inhibits type I IFN signalling thereby blocking the biologic activi
 Anifrolumab also induces the internalisation of IFNAR1, thereby reducing the levels of cell surface IFNAR1 available for receptor assembly.
 Blockade of receptor mediated type I IFN signalling inhibits IFN responsive gene expression as well as downstream inflammatory and immunological processes.
 Inhibition of type I IFN blocks plasma cell differentiation and normalises peripheral T-cell subsets, restoring the balance between adaptive and innate immunity that is dysregulated in SLE.
+
 Pharmacodynamic effects
 
 In adult patients with SLE, administration of anifrolumab at doses ≥300 mg, via intravenous infusion every 4 weeks, demonstrated consistent neutralisation (≥80%) of a 21 gene type I interferon pharmacodynamic (PD) signature in blood.
@@ -34,7 +35,6 @@ Both studies were conducted in North America, Europe, South America and Asia.
 Patients received anifrolumab or placebo, administered by intravenous infusion, every 4 weeks.
 
 Trial 1 (N=457) and Trial 2 (N=362) were similar in design.
-
 In Trial 1 the primary endpoint was SLE Responder Index (SRI-4) response, defined as meeting each of the following criteria at Week 52 compared with baseline:
 
 - Reduction from baseline of ≥4 points in the SLEDAI-2K;
@@ -84,9 +84,6 @@ No worsening of PGA, n (%) † 117 (65.0) 105 (57.1) 122 (67.8) 95 (52.2)
 No discontinuation of treatment, n (%) 145 (80.6) 146 (79.3) 153 (85.0) 130 (71.4)
 No use of restricted medication beyond 140 (77.8) 128 (69.6) 144 (80.0) 123 (67.6)
 protocol allowed threshold, n (%)
-Trial 1 Trial 2
-Anifrolumab Placebo Anifrolumab Placebo
-300 mg 300 mg
 SRI-4 response at Week 52*
 Responder rate, % (n/N) † 49.0 (88/180) 43.0 (79/184) 55.5 (100/180) 37.3 (68/182)
 Difference % (95% CI) 6.0 (-4.2, 16.2) 18.2 (8.1, 28.3)
@@ -106,6 +103,14 @@ All patients received standard therapy.
 Responders were defined as patients with OCS reduction to
 ≤7.5 mg/day at Week 40, maintained through Week 52.
 
+Long-term extension
+Patients who completed Trials 1 and 2 (feeder trials) through Week 52 were eligible to continue on treatment in a randomised, double-blind, placebo-controlled, 3-year LTE.
+Patients who had received anifrolumab, either 150 mg or 300 mg, in Trials 1 and 2 received anifrolumab 300 mg in the LTE.
+Patients who had received placebo in Trials 1 and 2 were re-randomised 1:1 to receive either anifrolumab 300 mg or placebo, giving an approximate anifrolumab 300 mg: placebo ratio of 4:1 in the LTE.
+
+Long-term efficacy was evaluated in patients who received anifrolumab 300 mg or placebo in a feeder trial and continued to receive the same treatment in the LTE (anifrolumab N=257; placebo N=112).
+Of these, 69% of patients who received anifrolumab (177/257) and 46% of patients who received placebo (52/112) completed a total of 4 years on treatment.
+At Week 208, the mean SLEDAI-2K score (SE) was 3.4 (0.25) and 4.0 (0.46) in patients who received anifrolumab (n=140) and placebo (n=44) respectively.
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with anifrolumab in one or more subset of the paediatric population in treatment of systemic lupus erythematosus (see section 4.2 for information on paediatric use).

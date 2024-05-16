@@ -14,7 +14,7 @@ Anifrolumab has not been studied in patients with severe active central nervous 
 Hypersensitivity
 
 Serious hypersensitivity reactions including anaphylaxis have been reported following administration of anifrolumab (see section 4.8).
-In the placebo-controlled clinical trials, serious hypersensitivity reactions (including angioedema) were reported for 0.6% of patients receiving anifrolumab.
+In the 52-week placebo-controlled clinical trials, serious hypersensitivity reactions (including angioedema) were reported for 0.6% of patients receiving anifrolumab.
 
 In patients with a history of infusion-related reactions and/or hypersensitivity, premedication (e.g., an antihistamine) may be administered before the infusion of anifrolumab (see section 4.2).
 
@@ -25,7 +25,7 @@ Infections
 Anifrolumab increases the risk of respiratory infections and herpes zoster (disseminated herpes zoster events have been observed), see section 4.8.
 SLE patients also taking immunosuppressants may be at higher risk of herpes zoster infections.
 
-In controlled-clinical trials serious and sometimes fatal infections have occurred, including in patients receiving anifrolumab.
+In controlled-clinical trials serious and sometimes fatal infections (including pneumonia) occurred, including in patients receiving anifrolumab.
 
 Due to the mechanism of action, anifrolumab should be used with caution in patients with a chronic infection, a history of recurrent infections, or known risk factors for infection.
 Treatment with anifrolumab should not be initiated in patients with any clinically significant active infection until the infection resolves or is adequately treated.
@@ -50,7 +50,7 @@ Malignancy
 The impact of treatment with anifrolumab on the potential development of malignancies is not known.
 Studies in patients with a history of malignancy have not been conducted; however, patients with squamous or basal cell skin cancers and uterine cervical cancer that had been fully excised or adequately treated were eligible for enrolment in the SLE clinical trials.
 
-In the placebo-controlled clinical trials, at any dose, malignant neoplasm (including non-melanoma skin cancers) was reported for 1.2% patients receiving anifrolumab, compared to 0.6% patients receiving placebo (EAIR: 1.2 and 0.7 per 100 patient years, respectively).
+In the 52-week placebo-controlled clinical trials, at any dose, malignant neoplasm (including non-melanoma skin cancers) was reported for 1.2% patients receiving anifrolumab, compared to 0.6% patients receiving placebo (exposure-adjusted incidence rate [EAIR]: 1.2 and 0.7 events per 100 patient years (PY), respectively).
 Malignancies excluding non-melanoma skin cancers were observed in 0.7% and 0.6% of patients receiving anifrolumab and placebo, respectively.
 In patients receiving anifrolumab, breast and squamous cell carcinoma were the malignancies observed in more than one patient.
 Individual benefit-risk should be considered in patients with known risk factors for the development or reoccurrence of malignancy.
