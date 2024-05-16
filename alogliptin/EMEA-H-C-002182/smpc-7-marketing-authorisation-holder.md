@@ -3,4 +3,4 @@
 Takeda Pharma A/S
 Delta Park 45
 2665 Vallensbaek Strand
-Denmark
+Denmark medinfoEMEA@takeda.com

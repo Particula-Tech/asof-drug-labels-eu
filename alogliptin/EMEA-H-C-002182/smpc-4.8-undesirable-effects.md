@@ -8,7 +8,7 @@ These studies evaluated the effects of alogliptin on glycaemic control and its s
 In a pooled analysis of the data from 13 studies, the overall incidences of adverse events, serious adverse events and adverse events resulting in discontinuation of therapy were comparable in patients treated with 25 mg alogliptin, 12.5 mg alogliptin, active control or placebo.
 The most common adverse reaction in patients treated with 25 mg alogliptin was headache.
 
-The safety of alogliptin between the elderly (≥65 years old) and non-elderly (< 65 years old) was similar.
+The safety of alogliptin between the elderly (≥ 65 years old) and non-elderly (< 65 years old) was similar.
 
 Tabulated list of adverse reactions
 
@@ -31,6 +31,8 @@ Table 1: Adverse reactions
 | Skin and subcutaneous tissue disorders pruritus rash exfoliative skin conditions including Stevens-Johnson syndrome erythema multiforme angioedema urticaria bullous pemphigoid | common common not known not known not known not known not known |
 | Renal and urinary disorders interstitial nephritis | not known |
 
+Paediatric population
+In a clinical trial with alogliptin in paediatric patients with type 2 diabetes mellitus aged 10 to17 years, the profile of adverse reactions was comparable to that observed in adults.
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

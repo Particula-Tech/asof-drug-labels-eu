@@ -3,7 +3,7 @@
 Posology
 
 For the different dose regimens, Vipidia is available in strengths of 25 mg, 12.5 mg and 6.25 mg film-coated tablets.
-Adults (≥18 years old)
+Adults (≥ 18 years old)
 The recommended dose of alogliptin is one tablet of 25 mg once daily as add-on therapy to metformin, a thiazolidinedione, a sulphonylurea, or insulin or as triple therapy with metformin and a thiazolidinedione or insulin.
 
 When alogliptin is used in combination with metformin and/or a thiazolidinedione, the dose of metformin and/or the thiazolidinedione should be maintained, and Vipidia administered concomitantly.
@@ -14,14 +14,14 @@ Caution should be exercised when alogliptin is used in combination with metformi
 In case of hypoglycaemia, a lower dose of the thiazolidinedione or metformin may be considered.
 
 Special populations
-Elderly (≥65 years old)
+Elderly (≥ 65 years old)
 No dose adjustment is necessary based on age.
 However, dosing of alogliptin should be conservative in patients with advanced age due to the potential for decreased renal function in this population.
 
 Renal impairment
-For patients with mild renal impairment (creatinine clearance (CrCl) > 50 to ≤80 mL/min), no dose adjustment of alogliptin is necessary (see section 5.2).
+For patients with mild renal impairment (creatinine clearance (CrCl) > 50 to ≤ 80 mL/min), no dose adjustment of alogliptin is necessary (see section 5.2).
 
-For patients with moderate renal impairment (CrCl ≥30 to ≤50 mL/min), one-half of the recommended dose of alogliptin should be administered (12.5 mg once daily; see section 5.2).
+For patients with moderate renal impairment (CrCl ≥ 30 to ≤ 50 mL/min), one-half of the recommended dose of alogliptin should be administered (12.5 mg once daily; see section 5.2).
 
 For patients with severe renal impairment (CrCl < 30 mL/min) or end-stage renal disease requiring dialysis, one-quarter of the recommended dose of alogliptin should be administered (6.25 mg once daily).
 Alogliptin may be administered without regard to the timing of dialysis.
@@ -35,8 +35,10 @@ No dose adjustment is necessary for patients with mild to moderate hepatic impai
 Alogliptin has not been studied in patients with severe hepatic impairment (Child-Pugh score > 9) and is, therefore, not recommended for use in such patients (see sections 4.4 and 5.2).
 
 Paediatric population
-The safety and efficacy of Vipidia in children and adolescents < 18 years old have not been established.
-No data are available.
+The safety and efficacy of alogliptin in children and adolescents < 18 years old have not been established.
+Currently available data are described in sections 4.8, 5.1 and 5.2, but no recommendation on a posology can be made.
+Alogliptin should not be used in the paediatric population because of lack of efficacy.
+Please refer to section 5.1.
 
 Method of administration
 
@@ -44,6 +46,5 @@ Oral use.
 
 Vipidia should be taken once daily with or without food.
 The tablets should be swallowed whole with water.
-
 If a dose is missed, it should be taken as soon as the patient remembers.
 A double dose should not be taken on the same day.

@@ -5,7 +5,6 @@ Nonclinical data reveal no special hazard for humans based on conventional studi
 The no-observed-adverse-effect level (NOAEL) in the repeated dose toxicity studies in rats and dogs up to 26 and 39 weeks in duration, respectively, produced exposure margins that were approximately 147- and 227-fold, respectively, the exposure in humans at the recommended dose of 25 mg alogliptin.
 
 Alogliptin was not genotoxic in a standard battery of in vitro and in vivo genotoxicity studies.
-
 Alogliptin was not carcinogenic in 2-year carcinogenicity studies conducted in rats and mice.
 Minimal to mild simple transitional cell hyperplasia was seen in the urinary bladder of male rats at the lowest dose used (27 times the human exposure) without establishment of a clear NOEL (no observed effect level).
 
