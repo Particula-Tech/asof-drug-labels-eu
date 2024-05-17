@@ -4,7 +4,7 @@ Pharmacotherapeutic group: Muscle relaxants, other muscle relaxants, peripherall
 
 Mechanism of action
 
-Botulinum toxin type A (Clostridium botulinum neurotoxin) blocks peripheral acetylcholine release at presynaptic cholinergic nerve terminals by cleaving SNAP-25, a protein integral to the successful docking and release of acetylcholine from vesicles situated within the nerve endings, thereby leading to denervation of the muscle and a flaccid paralysis.
+Botulinum toxin type A blocks peripheral acetylcholine release at presynaptic cholinergic nerve terminals by cleaving SNAP-25, a protein integral to the successful docking and release of acetylcholine from vesicles situated within the nerve endings, thereby leading to denervation of the muscle and a flaccid paralysis.
 
 After injection, there is an initial rapid high-affinity binding of toxin to specific cell surface receptors.
 This is followed by transfer of the toxin across the plasma membrane by receptor-mediated endocytosis.
@@ -19,22 +19,19 @@ Glabellar lines
 540 patients with moderate to severe glabellar lines seen at maximum frown who felt their glabellar lines had an important psychological impact (on mood, anxiety/or depressive symptoms) have been included in the European/Canadian clinical study.
 
 NUCEIVA injections significantly reduced the severity of glabellar lines by 1 point or greater at maximum frown for up to 139 days, as measured by the investigator assessment of glabellar line severity at maximum frown.
-
 Table 2 – Primary Efficacy Endpoint – Glabellar Line Scale Score of 0 (none) or 1 (mild) at Day 30 by Investigator Assessment at Maximum Contraction, PP Population
 
-| Responders for the Primary Efficacy Endpoint |  | Placebo |  |  | Absolute Difference |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | BOTOX | NUCEIVA | BOTOX |  | NUCEIVA Vs. BOTOX |
-|  |  |  |  |  |  | NUCEIVA |  |
-|  |  |  |  |  | Vs. |  |  |
-|  |  |  |  |  |  | Vs. Placebo |  |
-|  |  |  |  |  | Placebo |  |  |
-|  | Number | 2/48 | 202/244 | 205/235 |  |  | 4.4% (-1.9, 10.8) |
-|  | Percentage | 4.2% | 82.8% | 87.2% | 78.6% | 83.1% |  |
-|  | (% | (0.0, 9.8) | (78.1, | (83.0, 91.5) |  |  |  |
-|  |  |  |  |  | (66.5, 85.5) | (70.3, 89.4) |  |
-|  | CI) |  | 87.5) |  |  |  |  |
-|  | PValue |  |  |  | <0.001 | <0.001 |  |
+Responders for Absolute Difference
+the Primary
+Placebo BOTOX NUCEIVA BOTOX
+Efficacy NUCEIVA NUCEIVA
+Endpoint Vs. Vs. Placebo Vs. BOTOX
+Placebo
+Number 2/48 202/244 205/235
+Percentage 4.2% 82.8% 87.2% 78.6% 83.1% 4.4%
+(% (78.1,
+CI) (0.0, 9.8) 87.5) (83.0, 91.5) (66.5, 85.5) (70.3, 89.4) (-1.9, 10.8)
+PValue <0.001 <0.001
 
 Glabellar Line Scale (GLS); 0=no lines, 1=mild, 2=moderate, 3=severe
 

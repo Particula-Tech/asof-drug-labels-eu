@@ -2,14 +2,14 @@
 
 Summary of the safety profile
 
-Serious undesirable effects that may occur following treatment with NUCEIVA include eyelid ptosis, an immune response, distant spread of toxin, development or exacerbation of a neuromuscular disorder, and hypersensitivity reactions.
-The most commonly reported adverse effects during treatment are headache, occurring in 9.0% of patients, followed by eyelid ptosis, occurring in 1.0% of patients.
+Serious adverse reactions that may occur following treatment with this medicine include eyelid ptosis, an immune response, distant spread of toxin, development or exacerbation of a neuromuscular disorder, and hypersensitivity reactions.
+The most commonly reported adverse reactions during treatment are headache, occurring in 9% of patients, followed by eyelid ptosis, occurring in 1% of patients.
 
 Tabulated list of adverse reactions
 
 Table 1 The NUCEIVA related adverse reactions are classified by System Organ Class and frequency defined as follows: Very common (≥ 1/10); common (≥ 1/100 to <1/10); uncommon (≥ 1/1,000 to <1/100); rare (≥ 1/10,000 to <1/1,000); very rare (<1/10,000).
 
-| System Organ Class | Preferred Term | Frequency |
+| System organ class | Preferred term | Frequency |
 | --- | --- | --- |
 | Infections and infestations | Upper respiratory tract infection | Rare |
 | Psychiatric disorders | Depression | Rare |
@@ -32,13 +32,13 @@ Table 1 The NUCEIVA related adverse reactions are classified by System Organ Cla
 | Injury, poisoning and procedural complications | Contusion | Uncommon |
 |  | Post-procedural swelling, procedural headache | Rare |
 
-Note: Of the 1659 subjects treated with NUCEIVA, rare events occurred in 1 subject only.
+Note: Of the 1,659 subjects treated with NUCEIVA, rare events occurred in 1 subject only.
 Uncommon events occurred in between 2 and 7 subjects.
 
 Description of selected adverse reactions
 
 Application related adverse reactions
-Application related undesirable effects that have been reported following administration of NUCEIVA are uncommon events individually, common when added together.
+Application related adverse reactions that have been reported following administration of this medicine are uncommon events individually, common when added together.
 These include application and injection site bruising, injection site pain and injection site swelling.
 Rarely occurring injection site events that have been reported include erythema, paraesthesia, pruritis, pain and tenderness.
 
@@ -46,12 +46,13 @@ Undesirable effects of the substance class botulinum toxin type A
 
 Muscle atrophy
 Muscle atrophy is expected after repeated botulinum treatment secondary to the flaccid paralysis of the treated muscles.
+
 Toxin spread
 Adverse reactions possibly related to the spread of toxin distant from the site of administration have been reported very rarely with botulinum toxin (e.g. muscle weakness, breathing difficulties, dysphagia or constipation) (see section 4.4).
 
 Hypersensitivity reactions
 An anaphylactic reaction may occur very rarely after injection of botulinum toxin.
-Epinephrine (adrenaline) or any other anti-anaphylactic measures should therefore be available.
+Epinephrine (adrenaline) or any other anti-anaphylactic measures should, therefore, be available.
 
 Reporting of suspected adverse reactions
 

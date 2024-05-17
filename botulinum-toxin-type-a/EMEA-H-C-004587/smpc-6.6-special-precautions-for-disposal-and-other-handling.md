@@ -1,7 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 Reconstitution should be performed in accordance with aseptic technique principles.
-NUCEIVA is reconstituted with sodium chloride 9 mg/ml (0.9%) solution for injection.
+This medicine is reconstituted with sodium chloride 9 mg/ml (0.9%) solution for injection.
 As per the dilution table below, the amount of sodium chloride 9 mg/ml (0.9%) solution for injection is drawn up into a syringe in order to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL.
 
 |  | 50 Unit vial | 100 Unit vial |
@@ -15,11 +15,6 @@ The solution is prepared by injecting the solvent slowly into the vial with a ne
 The vial has to be discarded if the vacuum does not pull the solvent into the vial.
 Once reconstituted, the solution should be visually inspected prior to use.
 Only clear, colorless solution without particles should be used.
-
-Reconstituted NUCEIVA (50 Units/1.25 mL ; 100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
-Four Units (4 U/ 0.1 mL) are administered in each of the 5 injection sites (see Figure 1): 2 injections in each corrugator muscle (inferior medial and superior medial aspect) and 1 injection in the procerus muscle for a total dose of 20 Units.
-
-It is mandatory that NUCEIVA is used for one single patient treatment only during a single session.
 
 Procedure to follow for a safe disposal of vials, syringes and materials used:
 

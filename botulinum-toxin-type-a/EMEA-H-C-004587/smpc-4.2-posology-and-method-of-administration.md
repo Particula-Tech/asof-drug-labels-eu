@@ -18,15 +18,12 @@ In the event of treatment failure (no visible improvement of glabellar lines at 
 - Re-evaluation of the appropriateness of treatment with botulinum toxin type A.
 
 The efficacy and safety of repeat injections beyond 12 months has not been evaluated.
-
-Elderly patients
-There are limited clinical data with NUCEIVA in patients older than 65 years (see section 5.1).
-NUCEIVA is not recommended for use in patients over 65 years of age.
-
-No specific dose adjustment is required for use in the elderly.
+Elderly
+There are limited clinical data with this medicine in patients older than 65 years (see section 5.1).
+This medicine is not recommended for use in patients over 65 years of age.
 
 Paediatric population
-There is no relevant use of NUCEIVA in the paediatric population.
+There is no relevant use of this medicine in the paediatric population.
 
 Method of administration
 
@@ -34,15 +31,15 @@ Intramuscular use.
 
 Once reconstituted, NUCEIVA should only be used to treat a single patient, during a single session.
 
-Precaution to be taken before manipulating or administering the product
-For instructions for use, precaution before manipulating or administering the product, handling and disposal of the vials, see section 6.6.
+Precaution to be taken before manipulating or administering the medicinal product
+For instructions for use, precaution before manipulating or administering the medicinal product, handling and disposal of the vials, see section 6.6.
 
-Care should be taken to ensure that NUCEIVA is not injected into a blood vessel when it is injected in the vertical lines between the eyebrows seen at maximum frown (also known as glabellar lines) (see section 4.4).
+Care should be taken to ensure that this medicine is not injected into a blood vessel when it is injected in the vertical lines between the eyebrows seen at maximum frown (also known as glabellar lines) (see section 4.4).
 
 Physical manipulation (such as rubbing) of the injection site in the immediate post-administration period should be avoided.
 
 Administration instructions for Glabellar Lines seen at maximum frown
-Reconstituted NUCEIVA (50 Units/1.25 mL ; 100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
+Reconstituted NUCEIVA (50 Units/1.25 mL; 100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
 
 In order to reduce the complication of eyelid ptosis the following steps should be taken:
 
