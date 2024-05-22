@@ -5,4 +5,5 @@ In-use shelf life: 30 days.
 
 [PROCYSBI 75 mg gastro-resistant granules]
 
+3 years
 Unopened sachets may be stored for a single period of up to 4 months at temperatures below 25°C protected from light and moisture, after which the medicinal product must be discarded.
