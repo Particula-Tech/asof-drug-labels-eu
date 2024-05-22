@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Laboratorios Lesvi, S.L.
+Neuraxpharm Pharmaceuticals, S.L.
 Avda.
 Barcelona 69
 08970 Sant Joan Despí - Barcelona
