@@ -102,6 +102,10 @@ Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy administered every 3 weeks or 240 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine-and platinum-based chemotherapy administered every 2 weeks (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
+First-line treatment of unresectable or metastatic urothelial carcinoma
+The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with cisplatin and gemcitabine every 3 weeks for up to 6 cycles followed by nivolumab monotherapy administered intravenously at either 240 mg every 2 weeks over 30 minutes or at 480 mg every 4 weeks over 30 minutes (see section 5.1).
+Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months from first dose, whichever comes first.
+
 Duration of treatment
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab or other therapeutic agents, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient (and up to maximum duration of therapy if specified for an indication).
 
@@ -110,7 +114,6 @@ For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 For OPDIVO in combination with cabozantinib, OPDIVO should be continued until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 Cabozantinib should be continued until disease progression or unacceptable toxicity.
 Refer to the Summary of Product Characteristics (SmPC) for cabozantinib.
-
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
@@ -164,6 +167,10 @@ nephritis and renal with corticosteroids is complete
 dysfunction
 
 Grade 4 creatinine elevation Permanently discontinue treatment
+Immune-related Severity Treatment modification
+
+adverse reaction
+
 Symptomatic Grade 2 or 3 Withhold dose(s) until symptoms
 hypothyroidism, hyperthyroidism, resolve and management with
 hypophysitis, corticosteroids (if needed for symptoms
@@ -182,10 +189,6 @@ Grade 4 hypophysitis Permanently discontinue treatment
 
 Grade 3 or 4 adrenal insufficiency
 Grade 4 diabetes
-
-Immune-related Severity Treatment modification
-
-adverse reaction
 
 Grade 3 rash Withhold dose(s) until symptoms
 

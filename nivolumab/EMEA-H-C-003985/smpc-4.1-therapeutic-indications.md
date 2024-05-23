@@ -41,6 +41,8 @@ OPDIVO as monotherapy is indicated for the treatment of recurrent or metastatic 
 
 Urothelial carcinoma
 
+OPDIVO in combination with cisplatin and gemcitabine is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial carcinoma.
+
 OPDIVO as monotherapy is indicated for the treatment of locally advanced unresectable or metastatic urothelial carcinoma in adults after failure of prior platinum-containing therapy.
 
 Adjuvant treatment of urothelial carcinoma
@@ -50,10 +52,10 @@ OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with mus
 Mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer (CRC)
 
 OPDIVO in combination with ipilimumab is indicated for the treatment of adult patients with mismatch repair deficient or microsatellite instability-high metastatic colorectal cancer after prior fluoropyrimidine-based combination chemotherapy (see section 5.1).
-
 Oesophageal squamous cell carcinoma (OSCC)
 
 OPDIVO in combination with ipilimumab is indicated for the first-line treatment of adult patients with unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma with tumour cell PD-L1 expression ≥ 1%.
+
 OPDIVO in combination with fluoropyrimidine- and platinum-based combination chemotherapy is indicated for the first-line treatment of adult patients with unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma with tumour cell PD-L1 expression ≥ 1%.
 
 OPDIVO as monotherapy is indicated for the treatment of adult patients with unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma after prior fluoropyrimidine- and platinum-based combination chemotherapy.
