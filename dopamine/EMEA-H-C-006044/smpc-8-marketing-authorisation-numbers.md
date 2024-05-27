@@ -1,0 +1,4 @@
+# 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1804/001 – 1.5 mg / ml 1 vial
+EU/1/24/1804/002 – 4.5 mg / ml 1 vial
