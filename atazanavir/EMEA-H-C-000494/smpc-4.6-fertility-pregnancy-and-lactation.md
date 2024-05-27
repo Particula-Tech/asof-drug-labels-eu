@@ -25,7 +25,6 @@ Breast-feeding
 
 Atazanavir has been detected in human milk.
 In order to avoid transmission of HIV to the infant it is recommended that women living with HIV do not breast-feed their infants.
-
 Fertility
 
 In a nonclinical fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility (see section 5.3).

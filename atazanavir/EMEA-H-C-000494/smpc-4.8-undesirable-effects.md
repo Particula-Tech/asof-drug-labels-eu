@@ -114,6 +114,7 @@ No deaths were reported.
 The safety profile in these studies was overall comparable to that seen in previous paediatric and adult studies.
 The most frequently reported laboratory abnormalities in paediatric patients receiving REYATAZ oral powder was elevation of total bilirubin (≥ 2.6 times ULN, Grade 3-4; 16%) and increased amylase (Grade 3-4; 33%), generally of non-pancreatic origin.
 Elevation in ALT levels were more frequently reported in paediatric patients in these studies than in adults.
+
 Other special populations
 
 Patients co-infected with hepatitis B and/or hepatitis C virus

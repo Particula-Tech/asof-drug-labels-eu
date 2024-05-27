@@ -31,7 +31,6 @@ The M184I/V substitution emerged in 5/26 REYATAZ/ritonavir and 7/26 lopinavir/ri
 Antiretroviral treatment experienced adult patients
 In antiretroviral treatment experienced patients from Studies 009, 043, and 045, 100 isolates from patients designated as virological failures on therapy that included either atazanavir, atazanavir + ritonavir, or atazanavir + saquinavir were determined to have developed resistance to atazanavir.
 Of the 60 isolates from patients treated with either atazanavir or atazanavir + ritonavir, 18 (30%) displayed the I50L phenotype previously described in naïve patients.
-
 Table 4: De novo substitutions in treatment experienced patients failing therapy with atazanavir + ritonavir (Study 045, 48 weeks)
 
 Frequency de novo PI substitution (n = 35)a,b
@@ -54,6 +53,7 @@ Study 138 is an international randomised, open-label, multicenter, prospective t
 The REYATAZ/ritonavir arm showed similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/mL at Week 48 (Table 5).
 
 Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity (Table 5).
+
 Table 5: Efficacy Outcomes in Study 138a
 
 | Parameter | REYATAZ/ritonavirb (300 mg/100 mg once daily) n = 440 |  | Lopinavir/ritonavirc (400 mg/100 mg twice daily) n = 443 |  |
@@ -95,6 +95,7 @@ Eleven subjects (13%) in the unboosted REYATAZ group and 6 (7%) in the REYATAZ +
 Four subjects in the unboosted REYATAZ group and 2 in the REYATAZ + ritonavir group had HIV RNA > 500 copies/mL during the maintenance phase.
 No subject in either group showed emergence of protease inhibitor resistance.
 The M184V substitution in reverse transcriptase, which confers resistance to lamivudine and emtricitabine, was detected in 2 subjects in the unboosted REYATAZ and 1 subject in the REYATAZ + ritonavir group.
+
 There were fewer treatment discontinuations in the unboosted REYATAZ group (1 vs. 4 subjects in the REYATAZ + ritonavir group).
 There was less hyperbilirubinaemia and jaundice in the unboosted REYATAZ group compared with the REYATAZ + ritonavir group (18 and 28 subjects, respectively).
 
@@ -106,7 +107,6 @@ Fifteen of 120 (13%) patients in the REYATAZ + ritonavir treatment arm and 17 of
 Thirty-two percent of patients in the study had a viral strain with fewer than two NRTI substitutions.
 
 The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks (Table 6).
-
 Table 6: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 
 | Parameter | ATV/RTVb (300 mg/100 mg once daily) n = 120 |  | LPV/RTVc (400 mg/100 mg twice daily) n = 123 |  | Time-averaged difference ATV/RTV-LPV/RTV [97.5% CId] |  |
@@ -137,6 +137,7 @@ NA = not applicable.
 Through 48 weeks of treatment, the mean changes from baseline in HIV RNA levels for REYATAZ + ritonavir and lopinavir + ritonavir were similar (non-inferior).
 Consistent results were obtained with the last observation carried forward method of analysis (time-averaged difference of 0.11, 97.5% confidence interval [-0.15, 0.36]).
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/mL (< 50 copies/mL) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
+
 Through 96 weeks of treatment, mean HIV RNA changes from baseline for REYATAZ + ritonavir and lopinavir + ritonavir met criteria for non-inferiority based on observed cases.
 Consistent results were obtained with the last observation carried forward method of analysis.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/mL
@@ -150,7 +151,6 @@ Assessment of the pharmacokinetics, safety, tolerability, and efficacy of REYATA
 Overall in this study, 182 paediatric patients (81 antiretroviral-naïve and 101 antiretroviral-experienced) received once daily REYATAZ (capsule or powder formulation), with or without ritonavir, in combination with two NRTIs.
 
 The clinical data derived from this study are inadequate to support the use of atazanavir (with or without ritonavir) in children below 6 years of age.
-
 Efficacy data observed in the 41 paediatric patients aged 6 years to less than 18 years that received REYATAZ capsules with ritonavir are presented in Table 7.
 For treatment-naïve paediatric patients, the mean baseline CD4 cell count was 344 cells/mm3 (range: 2 to 800 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.67 log10 copies/mL (range: 3.70 to 5.00 log10 copies/mL).
 For treatment-experienced paediatric patients, the mean baseline CD4 cell count was 522 cells/mm3 (range: 100 to 1157 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.09 log10 copies/mL (range: 3.28 to 5.00 log10 copies/mL).
@@ -185,8 +185,6 @@ The mean baseline CD4 cell count was 214 cells/mm3 (range: 2 to 810 cells/mm3) a
 The REYATAZ/ritonavir arm has similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/mL at Week 48: 78% of patients on REYATAZ/ritonavir compared to 76% on lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: 1.7% [95% CI, -3.8%, 7.1%] according to the Confirmed Virologic Response (CVR) Non-Completer = Failure (NC = F) definition of response.
 
 In a per protocol analysis which excluded non-completers (i.e., patients who discontinued before the Week 48 HIV RNA assessment) and patients with major protocol deviations, the proportion of patients with HIV RNA < 50 copies/mL at Week 48 was 86% (338/392) for REYATAZ/ritonavir and 89% (332/372) for lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: -3% [95% CI, -7.6%, 1.5%].
-
-Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed-dose combination twice daily), each in combination with tenofovi disoproxil fumarate (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 
 Paediatric trials with REYATAZ capsules
 

@@ -32,7 +32,8 @@ C: To mix the recommended number of REYATAZ oral powder sachets with food such a
 
 - One tablespoon of food is used to mix the content of the sachets.
   The mixture is fed to the infant or young child.
-  An additional tablespoon of food is added to the small container for thorough delivery of the powder from the container and contents are mixed.The entire residual mixture is fed to the child.
+  An additional tablespoon of food is added to the small container for thorough delivery of the powder from the container and contents are mixed.
+  The entire residual mixture is fed to the child.
 
 3.
 The entire dosage of REYATAZ oral powder (mixed in the liquid infant formula, beverage or food) is administered within one hour of preparation (the mixture can be left at room stored at temperatures not above 30°C during this period).

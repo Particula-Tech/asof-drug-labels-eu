@@ -56,7 +56,6 @@ Race: a population pharmacokinetic analysis of samples from Phase II clinical tr
 
 Pregnancy:
 The pharmacokinetic data from HIV-infected pregnant women receiving REYATAZ capsules with ritonavir are presented in Table 8.
-
 Table 8: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infected Pregnant Women in the Fed State
 
 |  | atazanavir 300 mg with ritonavir 100 mg |  |  |

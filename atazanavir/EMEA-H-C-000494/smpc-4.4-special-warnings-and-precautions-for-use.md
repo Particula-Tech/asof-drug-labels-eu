@@ -17,7 +17,6 @@ If there is evidence of worsening liver disease in such patients, interruption o
 
 Renal impairment: No dosage adjustment is needed in patients with renal impairment.
 However, REYATAZ is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
-
 QT prolongation: Dose-related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
 In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
@@ -60,8 +59,8 @@ The withdrawal of ritonavir from the boosted regimen of REYATAZ is not recommend
 - viral strains not harbouring HIV resistance associated mutations (RAMs) to current regimen.
 
 REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
-
 REYATAZ given without ritonavir should not be used in pregnant patients given that it could result in suboptimal exposure of particular concern for the mother infection and vertical transmission.
+
 Cholelithiasis
 
 Cholelithiasis has been reported in patients receiving REYATAZ (see section 4.8).
@@ -102,9 +101,9 @@ Rashes are usually mild-to-moderate maculopapular skin eruptions that occur with
 Stevens-Johnson syndrome (SJS), erythema multiforme, toxic skin eruptions and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported in patients receiving REYATAZ.
 Patients should be advised of the signs and symptoms and monitored closely for skin reactions.
 REYATAZ should be discontinued if severe rash develops.
-
 The best results in managing these events come from early diagnosis and immediate interruption of any suspect medicines.
 If the patient has developed SJS or DRESS associated with the use of REYATAZ, REYATAZ may not be restarted.
+
 Interactions with other medicinal products
 
 The combination of REYATAZ with atorvastatin is not recommended (see section 4.5).
@@ -145,6 +144,7 @@ Asymptomatic first- and second-degree AV block was reported in paediatric patien
 Caution should be used with medicinal products known to induce PR prolongations.
 In paediatric patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk.
 Cardiac monitoring is recommended based on the presence of clinical findings (e.g., bradycardia).
+
 Efficacy
 Atazanavir/ritonavir is not effective in viral strains harbouring multiple mutations of resistance.
 
@@ -168,7 +168,10 @@ Dose-related asymptomatic prolongations in PR interval with REYATAZ have been ob
 Haemophiliac patients
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 
+In clinical studies, REYATAZ (with or without ritonavir) has been shown to induce dyslipidaemia to a lesser extent comparators.
+
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
+
 PDE5-inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5 inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
 
 Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
@@ -179,6 +182,7 @@ Co-administration of REYATAZ/ritonavir with other hormonal contraceptives or ora
 Phenylketonuria
 REYATAZ oral powder contains aspartame as a sweetening agent.
 Aspartame provides a source of phenylalanine and, therefore, may not be suitable for persons with phenylketonuria.
+
 Diabetic population
 REYATAZ oral powder contains 1 305.15 mg of sucrose per sachet.
 For the recommended paediatric dosage, REYATAZ oral powder contains 3 915.45 mg sucrose per 150 mg atazanavir, 5 220.60 mg sucrose per 200 mg atazanavir, 6 525.75 mg sucrose per 250 mg atazanavir, and 7 830.90 mg sucrose per 300 mg atazanavir.

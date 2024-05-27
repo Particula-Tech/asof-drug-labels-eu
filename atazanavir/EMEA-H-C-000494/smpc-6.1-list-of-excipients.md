@@ -13,6 +13,7 @@ White ink containing: shellac, titanium dioxide (E171), ammonium hydroxide, prop
 REYATAZ 150 mg hard capsules
 
 Capsule contents: crospovidone, lactose monohydrate, and magnesium stearate
+
 Capsule shells: gelatin, indigocarmin (E132), and titanium dioxide (E171)
 
 Blue ink containing: shellac, propylene glycol, ammonium hydroxide, and indigocarmin (E132)

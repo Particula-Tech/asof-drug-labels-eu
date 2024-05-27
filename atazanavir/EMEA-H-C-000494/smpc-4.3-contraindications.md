@@ -19,7 +19,9 @@ Co-administration with glecaprevir/pibrentasvir fixed-dose combination (see sect
 
 Co-administration with products containing St. John’s wort (Hypericum perforatum) (see section 4.5).
 
-Co-administration with apalutamide (see section 4.5).
+Co-administration with apalutamide, encorafenib and ivosidenib (see section 4.5).
+
+Co-administration with carbamazepine, phenobarbital, and phenytoin (see section 4.5).
 
 [REYATAZ 50 mg oral powder]
 
@@ -30,3 +32,5 @@ Combination of rifampicin with concomitant low-dose ritonavir (see section 4.5).
 Co-administration of the PDE5 inhibitor sildenafil when used for the treatment of pulmonary arterial hypertension (PAH) only (see section 4.5).
 
 Co-administration with medicinal products that are substrates of the CYP3A4 isoform of cytochrome P450 and have narrow therapeutic windows (e.g., quetiapine, alfuzosin, astemizole, terfenadine, cisapride, pimozide, quinidine, lurasidone, bepridil, triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5), lomitapide and ergot alkaloids, particularly, ergotamine, dihydroergotamine, ergonovine, methylergonovine) (see section 4.5).
+
+Co-admininistration with carbamazepine, phenobarbital and phenytoin (see section 4.5).
