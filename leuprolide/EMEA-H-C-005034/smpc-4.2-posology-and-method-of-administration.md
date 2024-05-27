@@ -31,8 +31,8 @@ No data are available.
 
 Method of administration
 
-CAMCEVI should be prepared and administered subcutaneously only by healthcare professionals who are familiar with these procedures.
-For instructions on preparation and administration of the medicinal product, see section 6.6.
+CAMCEVI should be administered subcutaneously only by healthcare professionals who are familiar with these procedures.
+For instructions on administration of the medicinal product, see section 6.6.
 
 Intra-arterial or intravenous injection, respectively, has to be strictly avoided.
 

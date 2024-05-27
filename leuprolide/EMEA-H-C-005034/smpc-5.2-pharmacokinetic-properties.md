@@ -6,7 +6,6 @@ Following the first and the second doses of leuprorelin, an initial rapid increa
 There is no indication of significant accumulation with repeated leuprorelin dosing at 24-week intervals.
 
 The initial acute increase of leuprorelin concentrations after CAMCEVI are followed by a rapid decline to a steady state levels.
-
 The pharmacokinetics/pharmacodynamics (as per serum testosterone level) profiles of leuprorelin versus serum testosterone level observed after initial injection of CAMCEVI (first dose) and at 24 weeks (second dose) is shown in Figure 2 (study FP01C-13-001; Part II).
 
 Figure 2: Pharmacokinetic/pharmacodynamic response to CAMCEVI
@@ -15,6 +14,7 @@ Distribution
 
 The mean steady-state volume of distribution of leuprorelin following intravenous bolus administration to healthy male volunteers was 27 litres.
 In-vitro binding to human plasma proteins ranged from 43% to 49%.
+
 Metabolism
 
 No metabolism study was conducted with leuprorelin.

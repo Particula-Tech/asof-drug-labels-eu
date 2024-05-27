@@ -13,7 +13,6 @@ CAMCEVI contains:
 - One Point-Lok needle protection device (non-sterile).
 
 Assembled pre-filled syringe, including Point-Lok:
-
 Step 1 - Prepare the medicinal product:
 
 Allow to reach room temperature and inspect

@@ -2,7 +2,7 @@
 
 Androgen deprivation therapy may prolong the QT interval
 
-In patients with a history of or risk factors for QT prolongation and in patients receiving concomitant medicinal products that might prolong the QT interval (see section 4.5) physicians should assess the benefit/risk ratio including the potential for torsade de pointes prior to initiating leuprorelin.
+In patients with a history of or risk factors for QT prolongation and in patients receiving concomitant medicinal products that might prolong the QT interval (see section 4.5) physicians should assess the benefit/risk ratio including the potential for Torsade de pointes prior to initiating leuprorelin.
 Periodic monitoring of electrocardiograms and electrolytes should be considered.
 
 Cardiovascular diseases
@@ -35,19 +35,31 @@ Apart from long lasting testosterone deficiency, increased age, smoking and cons
 Pituitary apoplexy
 
 During post-marketing surveillance, rare cases of pituitary apoplexy (a clinical syndrome secondary to infarction of the pituitary gland) have been reported after the administration of GnRH agonists, with a majority occurring within 2 weeks of the first dose, and some within the first hour.
-In these cases, pituitary apoplexy has presented as sudden headache, vomiting, visual changes, ophthalmoplegia, altered mental status, and sometimes cardiovascular collapse.
+In these cases, pituitary apoplexy was presented as sudden headache, vomiting, visual changes, ophthalmoplegia, altered mental status, and sometimes cardiovascular collapse.
 Immediate medical attention is required.
 
-Hyperglycaemia and diabetes
+Metabolic changes
 
-Hyperglycaemia and an increased risk of developing diabetes have been reported in men receiving GnRH agonists.
-Hyperglycaemia may represent development of diabetes mellitus or worsening of glycaemic control in patients with diabetes.
-Blood glucose and/or glycosylated haemoglobin (HbA1c) should be monitored periodically in patients receiving a GnRH agonist and patients should be managed with current practice for treatment of hyperglycaemia or diabetes.
+Hyperglycemia and an increased risk of developing diabetes have been reported in men receiving GnRH agonists.
+Hyperglycemia may represent development of diabetes mellitus or worsening of glycemic control in patients with diabetes.
+Blood glucose and/or glycosylated haemoglobin (HbA1c) should be monitored periodically in patients receiving a GnRH agonist and patients should be managed with current practice for treatment of hyperglycemia or diabetes.
+Metabolic changes associated with GnRH agonist may also include fatty liver disease.
 
 Convulsions
 
 Post-marketing reports of convulsions have been observed in patients on leuprorelin with or without a history of predisposing factors (see section 4.8).
 Convulsions are to be managed according to the current clinical practice.
+
+Idiopathic intracranial hypertension:
+Idiopathic intracranial hypertension (pseudotumor cerebri) has been reported in patients receiving leuprorelin.
+Patients should be warned for signs and symptoms of idiopathic intracranial hypertension, including severe or recurrent headache, vision disturbances and tinnitus.
+If idiopathic intracranial hypertension occurs, discontinuation of leuprorelin should be considered.
+
+Severe cutaneous adverse reactions
+Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), and Toxic epidermal necrolysis (TEN) which can be life-threatening or fatal, have been reported in association with leuprorelin treatment.
+At the time of prescription patients should be advised of the signs and symptoms and monitored closely for severe skin reactions.
+If signs and symptoms suggestive of these reactions appear, leuprorelin should be withdrawn immediately and an alternative treatment considered (as appropriate).
+
 Other events
 
 Cases of ureteral obstruction and spinal cord compression, which may contribute to paralysis with or without fatal complications, have been reported with GnRH agonists.

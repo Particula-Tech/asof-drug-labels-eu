@@ -16,7 +16,6 @@ In males, testosterone is reduced to below castrate threshold (≤ 50 ng/dL).
 
 Following the first dose of leuprorelin, mean serum testosterone concentrations transiently increased, then fell to below castrate threshold levels (≤ 50 ng/dL) within 3-4 weeks, and were maintained below castrate threshold with 6-monthly administration of the medicinal product (Figure 1 below).
 Long-term studies on leuprorelin have shown that continuation of therapy maintains testosterone below the castrate level for up to seven years, and presumably indefinitely.
-
 Tumour size was not measured directly during the clinical trial programme, but there was an indirect beneficial tumour response as shown by a 97% reduction in mean PSA for leuprorelin.
 
 In a phase III randomised clinical study including 970 patients with locally advanced prostate cancer (mainly T2c-T4 with some T1c to T2b patients with pathological regional nodal disease) of whom 483 were assigned to short-term androgen suppression (6 months) in combination with radiation therapy and 487 to long-term therapy (3 years), a non-inferiority analysis compared the short-term to long- term concomitant and adjuvant hormonal treatment with GnRH agonist (triptorelin or goserelin).
@@ -39,7 +38,6 @@ The multicentre, single-arm, open-label, 48-week phase 3 study of leuprorelin in
 The efficacy of the medicinal product (two doses administered 24 weeks apart) was evaluated by the percentage of subjects with serum testosterone concentrations suppressed to castrate threshold levels, the effect on serum LH levels as measure for testosterone level control, and the effect on serum PSA levels.
 The percentage of patients with serum testosterone levels below the castrate threshold
 (≤ 50 ng/dL) by day 28 was 98.5% (135 out of 137 patients; intent-to-treat) and 99.2% (123 out of 124 subjects; per protocol), respectively (Figure 1).
-
 Figure 1: Mean serum testosterone concentration over time with CAMCEVI (n=124; per protocol population)
 
 Dotted line indicates the castrate level (50 ng/dL) of serum testosterone.
