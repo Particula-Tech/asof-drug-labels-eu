@@ -10,7 +10,7 @@ As a precautionary measure, it is preferable to avoid the use of Sunlenca during
 
 Breast-feeding
 
-In order to avoid transmission of HIV to the infant it is recommended that HIV-infected women do not breast-feed their infants.
+In order to avoid transmission of HIV to the infant it is recommended that women living with HIV do not breast-feed their infants.
 
 It is unknown whether lenacapavir is excreted in human milk.
 After administration to rats during pregnancy and lactation, lenacapavir was detected at low levels in the plasma of nursing rat pups, without effects on these nursing pups.

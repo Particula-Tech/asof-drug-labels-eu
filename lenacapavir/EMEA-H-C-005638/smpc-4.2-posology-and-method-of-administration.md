@@ -77,7 +77,7 @@ Table 1: Recommended treatment regimen for Sunlenca: initiation
 
 If the Day 2 (600 mg) oral dose is missed by:
 
-- less than 6 days, the patient should take 600 mg as soon as possible, and 300 mg by Day 8.
+- less than 6 days, the patient should take 600 mg as soon as possible, and 300 mg on Day 8.
 - 6 days or more, the patient should take 600 mg as soon as possible, and 300 mg on Day 15.
 
 If the Day 8 (300 mg) oral dose is missed by:
