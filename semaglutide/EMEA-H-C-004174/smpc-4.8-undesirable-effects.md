@@ -5,6 +5,7 @@ Summary of safety profile
 In 8 phase 3a trials 4 792 patients were exposed to semaglutide up to 1 mg.
 The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
 In general, these reactions were mild or moderate in severity and of short duration.
+
 Tabulated list of adverse reactions
 
 Table 1 lists adverse reactions identified in all phase 3 trials (including the long-term cardiovascular outcomes trial) and post-marketing reports in patients with type 2 diabetes mellitus (further described in section 5.1).
@@ -24,11 +25,32 @@ Table 1 Frequency of adverse reactions of semaglutide
 | Nervous system disorders |  | Dizziness | Dysgeusia |  |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |  |
-| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |  | Intestinal Obstructiond |
-| Hepatobiliary disorders |  | Cholelithiasis |  |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  | Angioedemad |
-| General disorders and administra-tion site conditions |  | Fatigue | Injection site reactions |  |  |
-| Investigations |  | Increased lipase Increased amylase Weight decreased |  |  |  |
+| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis | Acute pancreatitis Delayed gastric emptying |  | Intestinal Obstructiond |
+
+MedDRA Very common Common Uncommon Rare Not known
+system organ
+class
+Gastro-
+oesophageal
+reflux disease
+Eructation
+Flatulence
+Hepatobiliary Cholelithiasis
+disorders
+Skin and Angioedemad
+subcutaneous
+tissue
+disorders
+General Fatigue Injection site
+disorders and reactions
+administra-
+tion site
+conditions
+Investigations Increased lipase
+Increased
+amylase
+Weight
+decreased
 
 a) Hypoglycaemia defined as severe (requiring the assistance of another person) or symptomatic in combination with a blood glucose <3.1 mmol/L.
 b) Diabetic retinopathy complications is a composite of: retinal photocoagulation, treatment with intravitreal agents, vitreous haemorrhage, diabetes-related blindness (uncommon).
@@ -52,13 +74,13 @@ Severe hypoglycaemia was reported in 0.7% (0.01 events/patient year) and 0% of p
 
 In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, the majority of the hypoglycaemic episodes (45 out of 49 episodes) occurred when semaglutide was used in combination with sulfonylurea or insulin.
 Overall, there was no increased risk of hypoglycaemia with semaglutide 2 mg.
-
 Gastrointestinal adverse reactions
 Nausea occurred in 17% and 19.9% of patients when treated with semaglutide 0.5 mg and 1 mg, respectively, diarrhoea in 12.2% and 13.3% and vomiting in 6.4% and 8.4%.
 Most events were mild to moderate in severity and of short duration.
 The events led to treatment discontinuation in 3.9% and 5% of patients.
 The events were most frequently reported during the first months on treatment.
 Patients with low body weight may experience more gastrointestinal side effects when treated with semaglutide.
+
 In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, nausea occurred in similar proportions of patients when treated with semaglutide 1 mg and 2 mg, respectively.
 Diarrhoea and vomiting occurred in higher proportions of patients when treated with semaglutide 2 mg compared to semaglutide 1 mg.
 The gastrointestinal adverse reactions led to treatment discontinuation in similar proportions in the semaglutide 1 mg and 2 mg treatment groups.

@@ -23,11 +23,11 @@ Acute pancreatitis has been observed with the use of GLP-1 receptor agonists.
 Patients should be informed of the characteristic symptoms of acute pancreatitis.
 If pancreatitis is suspected, semaglutide should be discontinued; if confirmed, semaglutide should not be restarted.
 Caution should be exercised in patients with a history of pancreatitis.
-
 Hypoglycaemia
 
 Patients treated with semaglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia.
 The risk of hypoglycaemia can be lowered by reducing the dose of sulfonylurea or insulin when initiating treatment with semaglutide (see section 4.8).
+
 Diabetic retinopathy
 
 In patients with diabetic retinopathy treated with insulin and semaglutide, an increased risk of developing diabetic retinopathy complications has been observed (see section 4.8).

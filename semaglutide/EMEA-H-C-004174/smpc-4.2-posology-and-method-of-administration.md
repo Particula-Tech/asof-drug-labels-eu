@@ -37,11 +37,11 @@ Renal impairment
 No dose adjustment is required for patients with mild, moderate or severe renal impairment.
 Experience with the use of semaglutide in patients with severe renal impairment is limited.
 Semaglutide is not recommended for use in patients with end-stage renal disease (see section 5.2).
-
 Hepatic impairment
 No dose adjustment is required for patients with hepatic impairment.
 Experience with the use of Semaglutide in patients with severe hepatic impairment is limited.
 Caution should be exercised when treating these patients with semaglutide (see section 5.2).
+
 Paediatric population
 The safety and efficacy of semaglutide in children and adolescents below 18 years have not yet been established.
 No data are available.

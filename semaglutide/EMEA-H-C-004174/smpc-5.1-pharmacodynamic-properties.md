@@ -20,7 +20,6 @@ In addition, semaglutide reduces the preference for high fat foods.
 GLP-1 receptors are also expressed in the heart, vasculature, immune system and kidneys.
 Semaglutide had a beneficial effect on plasma lipids, lowered systolic blood pressure and reduced inflammation in clinical studies.
 In animal studies, semaglutide attenuates the development of atherosclerosis by preventing aortic plaque progression and reducing inflammation in the plaque.
-
 Pharmacodynamic effects
 
 All pharmacodynamic evaluations were performed after 12 weeks of treatment (including dose escalation) at steady state with semaglutide 1 mg once weekly.
@@ -59,7 +58,6 @@ The postprandial triglyceride and VLDL cholesterol response to a high fat meal w
 Cardiac electrophysiology (QTc)
 The effect of semaglutide on cardiac repolarization was tested in a thorough QTc trial.
 Semaglutide did not prolong QTc intervals at dose levels up to 1.5 mg at steady state.
-
 Clinical efficacy and safety
 
 Both improvement of glycaemic control and reduction of cardiovascular morbidity and mortality are an integral part of the treatment of type 2 diabetes.
@@ -67,6 +65,7 @@ Both improvement of glycaemic control and reduction of cardiovascular morbidity 
 The efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly were evaluated in six randomised controlled phase 3a trials that included 7 215 patients with type 2 diabetes mellitus
 (4 107 treated with semaglutide).
 Five trials (SUSTAIN 1–5) had the glycaemic efficacy assessment as the primary objective, while one trial (SUSTAIN 6) had cardiovascular outcome as the primary objective.
+
 The efficacy and safety of semaglutide 2 mg once weekly was evaluated in a phase 3b trial (SUSTAIN FORTE) including 961 patients.
 
 In addition, a phase 3b trial (SUSTAIN 7) including 1 201 patients was conducted to compare the efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly to dulaglutide 0.75 mg and 1.5 mg once weekly, respectively.
@@ -107,6 +106,7 @@ ap <0.0001 (2-sided) for superiority
 
 SUSTAIN 2 – Semaglutide vs. sitagliptin both in combination with 1–2 oral antidiabetic medicinal products (metformin and/or thiazolidinediones)
 In a 56-week active-controlled double-blind trial, 1 231 patients were randomised to semaglutide 0.5 mg once weekly, semaglutide 1 mg once weekly or sitagliptin 100 mg once daily, all in combination with metformin (94%) and/or thiazolidinediones (6%).
+
 Table 3 SUSTAIN 2: Results at week 56
 
 |  | Semaglutide 0.5 mg | Semaglutide 1 mg | Sitagliptin 100 mg |
@@ -144,9 +144,9 @@ Figure 1 Mean change in HbA1c (%) and body weight (kg) from baseline to week 56
 SUSTAIN 7 – Semaglutide vs. dulaglutide both in combination with metformin
 In a 40-week, open-label trial, 1 201 patients on metformin were randomised 1:1:1:1 to once weekly semaglutide 0.5 mg, dulaglutide 0.75 mg, semaglutide 1 mg or dulaglutide 1.5 mg, respectively .
 The trial compared 0.5 mg of semaglutide to 0.75 mg of dulaglutide and 1 mg of semaglutide to 1.5 mg of dulaglutide.
-
 Gastrointestinal disorders were the most frequent adverse events, and occurred in similar proportion of patients receiving semaglutide 0.5 mg (129 patients [43%]), semaglutide 1 mg (133 [44%]), and dulaglutide 1.5 mg (143 [48%]); fewer patients had gastrointestinal disorders with dulaglutide 0.75 mg (100 [33%]).
 At week 40, the increase in pulse rate for semaglutide (0.5 mg and 1 mg) and dulaglutide (0.75 mg and 1.5 mg) was 2.4, 4.0, and 1.6, 2.1, beats/min, respectively.
+
 Table 4 SUSTAIN 7: Results at week 40
 
 |  | Semaglutide 0.5 mg | Semaglutide 1 mg | Dulaglutide 0.75 mg | Dulaglutide 1.5 mg |
@@ -183,7 +183,6 @@ Figure 2 Mean change in HbA1c (%) and body weight (kg) from baseline to week 40
 
 SUSTAIN 3 – Semaglutide vs. exenatide ER both in combination with metformin or metformin with sulfonylurea
 In a 56-week open-label trial, 813 patients on metformin alone (49%), metformin with sulfonylurea (45%) or other (6%) were randomised to semaglutide 1 mg or exenatide ER 2 mg once weekly.
-
 Table 5 SUSTAIN 3: Results at week 56
 
 |  | Semaglutide 1 mg | Exenatide ER 2 mg |
@@ -327,7 +326,6 @@ The trial population was distributed by age as: 1 598 patients (48.5%) ≥65 yea
 There were 2 358 patients with normal or mild renal impairment, 832 with moderate and 107 with severe or end stage renal impairment.
 There were 61% males, the mean age was 65 years and mean BMI was 33 kg/m2.
 The mean duration of diabetes was 13.9 years.
-
 The primary endpoint was time from randomisation to first occurrence of a major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
 
 The total number of primary component MACE endpoints was 254, including 108 (6.6%) with semaglutide and 146 (8.9%) with placebo.
@@ -348,7 +346,6 @@ Time from randomisation (week)
 Semaglutide Placebo
 
 Figure 3 Kaplan-Meier plot of time to first occurrence of the composite outcome: cardiovascular death, non-fatal myocardial infarction or non-fatal stroke (SUSTAIN 6)
-
 Hazard Ratio Semaglutide Placebo
 
 (95% CI) N (%) N (%)
