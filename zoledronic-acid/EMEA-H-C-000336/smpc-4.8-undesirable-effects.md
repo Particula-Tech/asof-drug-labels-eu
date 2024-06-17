@@ -91,6 +91,7 @@ Renal and urinary disorders
 Common: Renal impairment
 Uncommon: Acute renal failure, haematuria, proteinuria
 Rare: Acquired Fanconi syndrome
+Not Known: Tubulointerstitial nephritis
 
 General disorders and administration site conditions
 
