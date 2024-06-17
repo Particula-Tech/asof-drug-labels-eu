@@ -17,16 +17,16 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Undesirable effects reported in subjects receiving voriconazole:
 
-| System Organ Class | Very common ≥ 1/10 | Common ≥ 1/100 to < 1/10 | Uncommon ≥ 1/1,000 to < 1/100 | Rare ≥ 1/10,000 to < 1/1,000 | Frequency not known (cannot be estimated from available data) |
+| System Organ Class | Very common ≥ 1/10 | Common ≥ 1/100 to < 1/10 | Uncommon ≥ 1/1,000 to < 1/100 | Rare ≥ 1/10,000 to < 1/1,000 | Frequenc y not known (cannot be estimated from available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | sinusitis | pseudomembranou s colitis |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease)* |
+| Infections and infestations |  | sinusitis | pseudomembrano us colitis |  |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease)*,** |  |  |  |
 | Blood and lymphatic system disorders |  | agranulocytosis1, pancytopenia, thrombocytopenia2 , leukopenia, anaemia | bone marrow failure, lymphadenopathy, eosinophilia | disseminated intravascular coagulation |  |
 | Immune system disorders |  |  | hypersensitivity | anaphylactoid reaction |  |
 | Endocrine disorders |  |  | adrenal insufficiency, hypothyroidism | hyperthyroidis m |  |
 | Metabolism and nutrition disorders | oedema peripheral | hypoglycaemia, hypokalaemia, hyponatraemia |  |  |  |
 | Psychiatric disorders |  | depression, hallucination, anxiety, insomnia, agitation, confusional state |  |  |  |
-| Nervous system disorders | headache | convulsion, syncope, tremor, hypertonia3, paraesthesia, somnolence, dizziness | brain oedema, encephalopathy4, extrapyramidal disorder5, neuropathy peripheral, ataxia, hypoaesthesia, dysgeusia | hepatic encephalopathy, Guillain-Barre syndrome, nystagmus |  |
+| Nervous system disorders | headache | convulsion, syncope, tremor, hypertonia3, paraesthesia, somnolence, dizziness | brain oedema, encephalopathy4, extrapyramidal disorder5, neuropathy peripheral, ataxia, hypoaesthesia, dysgeusia | hepatic encephalopathy , Guillain-Barre syndrome, nystagmus |  |
 | Eye disorders | visual impairment6 | retinal haemorrhage | optic nerve disorder7, papilloedema8, oculogyric crisis, diplopia, scleritis, blepharitis | optic atrophy, corneal opacity |  |
 | Ear and labyrinth disorders |  |  | hypoacusis, vertigo, tinnitus |  |  |
 | Cardiac disorders |  | arrhythmia supraventricular, tachycardia, bradycardia | ventricular fibrillation, ventricular extrasystoles, ventricular tachycardia, electrocardiogram QT prolonged, supraventricular tachycardia | torsades de pointes, atrioventricular block complete, bundle branch block, nodal rhythm |  |
@@ -34,13 +34,14 @@ Undesirable effects reported in subjects receiving voriconazole:
 | Respiratory, thoracic and mediastinal disorders | respiratory distress9 | acute respiratory distress syndrome, pulmonary oedema |  |  |  |
 | Gastrointestin al disorders | diarrhoea, vomiting, abdominal pain, nausea | cheilitis, dyspepsia, constipation, gingivitis | peritonitis, pancreatitis, swollen tongue, duodenitis, gastroenteritis, glossitis |  |  |
 | Hepatobiliary disorders | liver function test abnormal | jaundice, jaundice cholestatic, hepatitis10 | hepatic failure, hepatomegaly, cholecystitis, cholelithiasis |  |  |
-| Skin and subcutaneous tissue disorders | rash | dermatitis exfoliative, alopecia, rash maculo-papular, pruritus, erythema | Stevens-Johnson syndrome8, phototoxicity, purpura, urticaria, dermatitis allergic, rash papular, rash macular, eczema | toxic epidermal necrolysis8, drug reaction with eosinophilia and systemic symptoms (DRESS)8, angioedema, actinic keratosis*, pseudoporphyri a, erythema multiforme, psoriasis, drug eruption | cutaneous lupus erythemato sus*, ephelides*, lentigo* |
-| Musculoskele tal and connective tissue disorders |  | back pain | arthritis |  | periostitis* |
+| Skin and subcutaneous tissue disorders | rash | dermatitis exfoliative, alopecia, rash maculo-papular, pruritus, erythema, phototoxicity** | Stevens-Johnson syndrome8, purpura, urticaria, dermatitis allergic, rash papular, rash macular, eczema | toxic epidermal necrolysis8, drug reaction with eosinophilia and systemic symptoms (DRESS)8, angioedema, actinic keratosis*, pseudoporphyri a, erythema multiforme, psoriasis, drug eruption | cutaneous lupus erythemato sus*, ephelides* , lentigo* |
+| Musculoskele tal and connective tissue disorders |  | back pain | arthritis, periostitis*,** |  |  |
 | Renal and urinary disorders |  | renal failure acute, haematuria | renal tubular necrosis, proteinuria, nephritis |  |  |
-| General disorders and administration site conditions | pyrexia | chest pain, face oedema11, asthenia, chills | infusion site reaction, influenza like illness |  |  |
+| General disorders and administratio n site conditions | pyrexia | chest pain, face oedema11, asthenia, chills | infusion site reaction, influenza like illness |  |  |
 | Investigations |  | blood creatinine increased | blood urea increased, blood cholesterol increased |  |  |
 
 *ADR identified post-marketing
+**Frequency category is based on an observational study utilising real-world data from secondary data sources in Sweden
 1 Includes febrile neutropenia and neutropenia.
 2 Includes immune thrombocytopenic purpura.
 3 Includes nuchal rigidity and tetany.
@@ -53,6 +54,7 @@ See section 4.4.
 9 Includes dyspnoea and dyspnoea exertional.
 10 Includes drug-induced liver injury, hepatitis toxic, hepatocellular injury and hepatotoxicity.
 11 Includes periorbital oedema, lip oedema, and oedema mouth.
+
 Description of selected adverse reactions
 
 Visual impairments
@@ -90,6 +92,7 @@ This includes cases of jaundice, hepatitis and hepatic failure leading to death 
 Prophylaxis
 In an open-label, comparative, multicenter study comparing voriconazole and itraconazole as primary prophylaxis in adult and adolescent allogeneic HSCT recipients without prior proven or probable IFI, permanent discontinuation of voriconazole due to AEs was reported in 39.3% of subjects versus 39.6% of subjects in the itraconazole arm.
 Treatment-emergent hepatic AEs resulted in permanent discontinuation of study medication for 50 subjects (21.4%) treated with voriconazole and for 18 subjects (7.1%) treated with itraconazole.
+
 Paediatric population
 The safety of voriconazole was investigated in 288 paediatric patients aged 2 to <12 years (169) and 12 to <18 years (119) who received voriconazole for prophylaxis (183) and therapeutic use (105) in clinical trials.
 The safety of voriconazole was also investigated in 158 additional paediatric patients aged 2 to <12 years in compassionate use programs.

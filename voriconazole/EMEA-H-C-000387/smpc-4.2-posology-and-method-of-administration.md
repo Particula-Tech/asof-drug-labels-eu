@@ -78,7 +78,7 @@ The following instructions apply to both Treatment and Prophylaxis
 
 Dosage adjustment
 For prophylaxis use, dose adjustments are not recommended in the case of lack of efficacy or treatment-related adverse events.
-In the case of treatment-related adverse events, discontinuation of voriconazole and use of alternative antifungal agents must be considered (see section 4.4 and 4.8)
+In the case of treatment-related adverse events, discontinuation of voriconazole and use of alternative antifungal agents must be considered (see sections 4.4 and 4.8)
 
 Dosage adjustments in case of coadministration
 Phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased from 200 mg to 400 mg orally, twice daily (100 mg to 200 mg orally, twice daily in patients less than 40 kg), see sections 4.4 and 4.5.
@@ -146,7 +146,27 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powde
 |  | Intravenous | Oral Suspension |  |
 | --- | --- | --- | --- |
 |  |  | Patients 40 kg and above* | Patients less than 40 kg* |
-| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours | 400 mg (10 ml) every 12 hours | 200 mg (5 ml) every 12 hours |
-| Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
+| Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours | 10 ml (400 mg) every 12 hours | 5 ml (200 mg) every 12 hours |
+| Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 5 ml (200 mg) twice daily | 2.5 ml (100 mg) twice daily |
+
+If patient response to treatment is inadequate, the maintenance dose may be increased to 7.5 ml (300 mg) twice daily for oral administration.
+For patients less than 40 kg the oral dose may be increased to 3.75 ml (150 mg) twice daily.
+
+If patient is unable to tolerate treatment at a higher dose, reduce the oral dose by 1.25 ml (50 mg) steps to the 5 ml (200 mg) twice daily [or 2.5 ml (100 mg) twice daily for patients less than 40 kg] maintenance dose.
+
+|  | Intravenous | Oral Suspension |
+| --- | --- | --- |
+| Loading Dose Regimen (first 24 hours) | 9 mg/kg every 12 hours | Not recommended |
+| Maintenance Dose (after first 24 hours) | 8 mg/kg twice daily | 0.225 ml/kg (9 mg/kg) twice daily [a maximum dose of 8.75 ml (350 mg) twice daily] |
+
+Dosage adjustment [Children (2 to <12 years) and young adolescents with low body weight (12 to 14 years and <50 kg)]
+If patient response to treatment is inadequate, the dose may be increased by 0.025 ml/kg (1 mg/kg) steps [or by 1.25 ml (50 mg) steps if the maximum oral dose of 8.75 ml (350 mg) was used initially].
+If patient is unable to tolerate treatment, reduce the dose by 0.025 ml/kg (1 mg/kg) steps [or by 1.25 ml (50 mg) steps if the maximum oral dose of 8.75 ml (350 mg) was used initially].
+
+Phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased from 5 ml (200 mg) to 10 ml (400 mg) orally, twice daily [2.5 ml (100 mg) to 5 ml (200 mg) orally, twice daily in patients less than 40 kg], see sections 4.4 and 4.5.
+
+However, if the combination is strictly needed, the maintenance dose of voriconazole may be increased from 5 ml (200 mg) to 8.75 ml (350 mg) orally, twice daily [2.5 ml (100 mg) to 5 ml (200 mg) orally, twice daily in patients less than 40 kg], see sections 4.4 and 4.5.
+
+Efavirenz may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 10 ml (400 mg) every 12 hours and the efavirenz dose is reduced by 50%, i.e. to 300 mg once daily.
 
 VFEND oral suspension is to be taken at least one hour before, or two hours following, a meal.

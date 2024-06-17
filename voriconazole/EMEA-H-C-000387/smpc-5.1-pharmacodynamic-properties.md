@@ -11,9 +11,9 @@ Voriconazole has been shown to be more selective for fungal cytochrome P-450 enz
 Pharmacokinetic/pharmacodynamic relationship
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
 A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found and this relationship has not been explored in prophylaxis studies.
-
 Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
 Dose adjustments in prophylaxis studies have not been explored.
+
 Clinical efficacy and safety
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against Candida species (including fluconazole-resistant C. krusei and resistant strains of C. glabrata and C. albicans) and fungicidal activity against all Aspergillus species tested.
 In addition voriconazole shows in vitro fungicidal activity against emerging fungal pathogens, including those such as Scedosporium or Fusarium which have limited susceptibility to existing antifungal agents.
@@ -132,12 +132,12 @@ Success at day 100 121 (54.0%) 96 (39.8%) 15.4% (6.6%, 24.2%)** 0.0006**
 Completed at least 100 days of 120 (53.6%) 94 (39.0%) 14.6% (5.6%, 23.5%) 0.0015
 study drug prophylaxis
 Survived to day 180 184 (82.1%) 197 (81.7%) 0.4% (-6.6%, 7.4%) 0.9107
-Developed proven or probable IFI 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
-to day 180
-Developed proven or probable IFI 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
-to day 100
-Developed proven or probable IFI 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
-while on study drug
+Developed proven or probable 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
+IFI to day 180
+Developed proven or probable 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
+IFI to day 100
+Developed proven or probable 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
+IFI while on study drug
 
 * Primary endpoint of the study
 ** Difference in proportions, 95% CI and p-values obtained after adjustment for randomization
@@ -146,8 +146,8 @@ The breakthrough IFI rate to Day 180 and the primary endpoint of the study, whic
 
 AML
 
-Study endpoints Voriconazole Itraconazole Difference in proportions and the
-(N=98) (N=109) 95% confidence interval (CI)
+Study endpoints Voriconazole Itraconazole Difference in proportions and
+(N=98) (N=109) the 95% confidence interval (CI)
 Breakthrough IFI – Day 180 1 (1.0%) 2 (1.8%) -0.8% (-4.0%, 2.4%) **
 Success at Day 180* 55 (56.1%) 45 (41.3%) 14.7% (1.7%, 27.7%)***
 
@@ -156,8 +156,8 @@ Success at Day 180* 55 (56.1%) 45 (41.3%) 14.7% (1.7%, 27.7%)***
 ***Difference in proportions, 95% CI obtained after adjustment for randomization
 Myeloablative conditioning regimens
 
-Study endpoints Voriconazole Itraconazole Difference in proportions and the
-(N=125) (N=143) 95% confidence interval (CI)
+Study endpoints Voriconazole Itraconazole Difference in proportions and
+(N=125) (N=143) the 95% confidence interval (CI)
 Breakthrough IFI – Day 180 2 (1.6%) 3 (2.1%) -0.5% (-3.7%, 2.7%) **
 Success at Day 180* 70 (56.0%) 53 (37.1%) 20.1% (8.5%, 31.7%)***
 
@@ -196,11 +196,10 @@ No subject experienced an interval exceeding the potentially clinically-relevant
 
 Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
 
-Study endpoints Voriconazole Itraconazole Difference in proportions and
 (N=98) (N=109) the 95% confidence interval
 (CI)
 
-(N=125) (N=143) the 95% confidence interval (CI)
+(N=125) (N=143) the 95% confidence interval
 
 The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 years old and 62.5% (5/8) for 12 to
 <18 years old.
@@ -213,11 +212,3 @@ Specifically, for
 C. glabrata, the MICs of voriconazole for fluconazole-resistant isolates are proportionally higher than are those of fluconazole-susceptible isolates.
 
 95% confidence interval
-Developed proven or probable 3 (1.3%) 5 (2.1%) -0.7% (-3.1%, 1.6%) 0.5390
-IFI to day 180
-Developed proven or probable 2 (0.9%) 4 (1.7%) -0.8% (-2.8%, 1.3%) 0.4589
-IFI to day 100
-Developed proven or probable 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
-IFI while on study drug
-
-(N=98) (N=109) the 95% confidence interval (CI)

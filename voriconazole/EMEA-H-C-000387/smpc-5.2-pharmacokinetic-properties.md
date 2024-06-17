@@ -3,7 +3,6 @@
 General pharmacokinetic characteristics
 The pharmacokinetics of voriconazole have been characterised in healthy subjects, special populations and patients.
 During oral administration of 200 mg or 300 mg twice daily for 14 days in patients at risk of aspergillosis (mainly patients with malignant neoplasms of lymphatic or haematopoietic tissue), the observed pharmacokinetic characteristics of rapid and consistent absorption, accumulation and non-linear pharmacokinetics were in agreement with those observed in healthy subjects.
-
 The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism.
 Greater than proportional increase in exposure is observed with increasing dose.
 It is estimated that, on average, increasing the oral dose from 200 mg twice daily to 300 mg twice daily leads to a 2.5-fold increase in exposure (AUCτ).
@@ -52,6 +51,7 @@ Pharmacokinetics in special patient groups
 Gender
 In an oral multiple -dose study, Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥65 years).
+
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
@@ -91,7 +91,6 @@ The plasma protein binding of voriconazole was similar in subjects with differen
 Hepatic impairment
 After an oral single-dose (200 mg), AUC was 233% higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.
-
 In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C) (see sections 4.2 and 4.4).
 

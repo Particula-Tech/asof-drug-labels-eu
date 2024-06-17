@@ -36,7 +36,7 @@ Serious dermatological adverse reactions
 - Phototoxicity
 
 In addition VFEND has been associated with phototoxicity including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria.
-It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+There is a potential increased risk of skin reactions/toxicity with concomitant use of photosensitising agents (e.g., methotrexate, etc). It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 
 - Squamous cell carcinoma of the skin (SCC)
 
@@ -63,10 +63,10 @@ Patients should be instructed to seek immediate medical care if they develop sig
 Long-term treatment
 Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
 
-Squamous cell carcinoma of the skin (SCC) (including cutaneous SCC in situ, or Bowen’s disease) has been reported in relation with long-term VFEND treatment.
-
+Squamous cell carcinoma of the skin (SCC) (including cutaneous SCC in situ, or Bowen’s disease) has been reported in relation with long-term VFEND treatment (see section 4.8).
 Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
-If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice.
+If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice (see section 4.8).
+
 Visual adverse reactions
 There have been reports of prolonged visual adverse reactions, including blurred vision, optic neuritis and papilloedema (see section 4.8).
 
@@ -109,11 +109,11 @@ When voriconazole is coadministered with efavirenz the dose of voriconazole shou
 Glasdegib (CYP3A4 substrate)
 Coadministration of voriconazole is expected to increase glasdegib plasma concentrations and increase the risk of QTc prolongation (see section 4.5).
 If concomitant use cannot be avoided, frequent ECG monitoring is recommended.
-
 Tyrosine kinase inhibitors (CYP3A4 substrate)
 Coadministration of voriconazole with tyrosine kinase inhibitors metabolised by CYP3A4 is expected to increase tyrosine kinase inhibitor plasma concentrations and the risk of adverse reactions.
 If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor and close clinical monitoring is recommended (see section 4.5).
-Rifabutin (Potent CYP450 inducer)
+
+Rifabutin (potent CYP450 inducer)
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g., uveitis) is recommended when rifabutin is coadministered with voriconazole.
 Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk (see section 4.5).
 
@@ -164,7 +164,7 @@ Reversible cases of adrenal insufficiency have been reported in patients receivi
 This medicinal product contains 221 mg of sodium per vial, equivalent to 11% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Cyclodextrins
-The powder for solution for infusion contains cyclodextrins (3,200 mg cyclodextrins in each vial which is equivalent to 160mg/ml when reconstituted in 20ml, see section 2 and 6.1) which can influence the properties (such as toxicity) of the active substance and other medicines.
+The powder for solution for infusion contains cyclodextrins (3,200 mg cyclodextrins in each vial which is equivalent to 160 mg/ml when reconstituted in 20 ml, see sections 2 and 6.1) which can influence the properties (such as toxicity) of the active substance and other medicines.
 Safety aspects of cyclodextrins have been considered during the development and safety assessment of the drug product.
 
 As cyclodextrins are renally excreted, in patients with moderate to severe renal dysfunction accumulation of cyclodextrin may occur.
