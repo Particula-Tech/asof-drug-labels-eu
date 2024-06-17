@@ -35,6 +35,7 @@ The increase in urinary volume was associated with a small and transient increas
 
 Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration.
 At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/L (-0.87 to -0.33 mg/dL).
+
 Clinical efficacy and safety
 
 Type 2 diabetes mellitus
@@ -133,6 +134,7 @@ At week 104 for insulin (with or without additional oral glucose-lowering medici
 At weeks 48 and 104, the insulin dose remained stable compared to baseline in subjects treated with dapagliflozin 10 mg at an average dose of 76 IU/day.
 In the placebo group there was a mean increase of 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at weeks 48 and 104, respectively.
 The proportion of subjects remaining in the study at week 104 was 72.4% for the group treated with dapagliflozin 10 mg and 54.8% for the placebo group.
+
 Table 4.
 Results of 24-week (LOCFa) placebo-controlled studies of dapagliflozin in add-on combination with metformin or sitagliptin (with or without metformin)
 Add-on combination

@@ -84,10 +84,12 @@ In the DAPA-CKD study, there were 3 (0.1%) patients with serious adverse events 
 There were 3 (0.1%) patients with adverse events leading to discontinuation due to genital infections in the dapagliflozin group and none in the placebo group.
 Serious adverse events of genital infections or adverse events leading to discontinuation due to genital infections were not reported for any patients without diabetes.
 
+Cases of phimosis/acquired phimosis have been reported concurrent with genital infections and in some cases, circumcision was required.
+
 Necrotising fasciitis of the perineum (Fournier’s gangrene)
 Cases of Fournier’s gangrene have been reported postmarketing in patients taking SGLT2 inhibitors, including dapagliflozin (see section 4.4).
-
 In the DECLARE study with 17,160 type 2 diabetes mellitus patients and a median exposure time of 48 months, a total of 6 cases of Fournier’s gangrene were reported, one in the dapagliflozin-treated group and 5 in the placebo group.
+
 Hypoglycaemia
 The frequency of hypoglycaemia depended on the type of background therapy used in the clinical studies in diabetes mellitus.
 
@@ -157,7 +159,6 @@ There were 13 (0.4%) patients with adverse events leading to discontinuations du
 In the DAPA-CKD study, the numbers of patients with serious adverse events of urinary tract infections were 29 (1.3%) in the dapagliflozin group and 18 (0.8%) in the placebo group.
 There were 8 (0.4%) patients with adverse events leading to discontinuations due to urinary tract infections in the dapagliflozin group and 3 (0.1%) in the placebo group.
 The numbers of patients without diabetes reporting serious adverse events of urinary tract infections or adverse events leading to discontinuation due to urinary tract infections were similar between treatment groups (6 [0.9%] versus 4 [0.6%] for serious adverse events, and 1 [0.1%] versus 0 for adverse events leading to discontinuation, in the dapagliflozin and placebo groups, respectively).
-
 Increased creatinine
 Adverse reactions related to increased creatinine were grouped (e.g. decreased renal creatinine clearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate).
 In the 13-study safety pool, this grouping of reactions was reported in 3.2% and 1.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
