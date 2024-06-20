@@ -8,55 +8,58 @@ b. Tabulated summary of adverse reactions
 Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials.
 
 Table 1: Adverse reactions
-Frequency estimate: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
+Frequency estimate: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Very common Common Uncommon Rare Very Rare
+Very Common Uncommon Rare Very rare Not known
+common
 Infections and infestations
 Laryngitis
 Immune system disorders
 Anaphylactic
 reaction
-Hyper-sensitivity
+Hyper-
+sensitivity
 disorder
-Endocrine disorders
-Hypo-thyroidism
 
-| Very common | Common | Uncommon | Rare | Very Rare |
-| --- | --- | --- | --- | --- |
-| Metabolism and nutrition disorders |  |  |  |  |
-|  | Decreased Appetite | Hyperglycaemia (reported especially in diabetic patients) | Dehydration Hyponatraemia SIADH6 |  |
-| Psychiatric disorders |  |  |  |  |
-|  | Insomnia Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Suicidal ideation5,7 Sleep disorder Bruxism Disorientation Apathy | Suicidal behaviour5,7 Mania Hallucinations Aggression and anger4 |  |
-| Nervous system disorders |  |  |  |  |
-| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
-| Eye disorders |  |  |  |  |
-|  | Blurred vision | Mydriasis Visual impairment | Glaucoma |  |
-| Ear and labyrinth disorders |  |  |  |  |
-|  | Tinnitus1 | Vertigo Ear pain |  |  |
-| Cardiac disorders |  |  |  |  |
-|  | Palpitations | Tachycardia Supra-ventricular arrhythmia, mainly atrial fibrillation |  |  |
-| Vascular disorders |  |  |  |  |
-|  | Blood pressure increase3 Flushing | Syncope2 Hypertension3,7 Orthostatic hypotension2 Peripheral coldness | Hypertensive crisis3,6 |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-|  | Yawning | Throat tightness Epistaxis | Interstitial lung disease10 Eosinophilic pneumonia6 |  |
-| Gastrointestinal disorders |  |  |  |  |
-| Nausea Dry mouth | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour Microscopic colitis9 |  |
-| Hepato-biliary disorders |  |  |  |  |
-|  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |
-|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 | Cutaneous vasculitis |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |
-|  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |
-| Renal and urinary disorders |  |  |  |  |
-|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
-| Reproductive system and breast disorders |  |  |  |  |
-|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction Testicular pain | Menopausal symptoms Galactorrhoea Hyperprolactinae mia Postpartum haemorrhage6 |  |
-| General disorders and administration site conditions |  |  |  |  |
-|  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
-| Investigations |  |  |  |  |
-|  | Weight decrease | Weight increase Blood creatine phosphokinase increased Blood potassium increased | Blood cholesterol increased |  |
+| Very common | Common | Uncommon | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- | --- |
+| Endocrine disorders |  |  |  |  |  |
+|  |  |  | Hypo-thyroidism |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |  |
+|  | Decreased Appetite | Hyperglycaemia (reported especially in diabetic patients) | Dehydration Hyponatraemia SIADH6 |  |  |
+| Psychiatric disorders |  |  |  |  |  |
+|  | Insomnia Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Suicidal ideation5,7 Sleep disorder Bruxism Disorientation Apathy | Suicidal behaviour5,7 Mania Hallucinations Aggression and anger4 |  |  |
+| Nervous system disorders |  |  |  |  |  |
+| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesi a | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |  |
+| Eye disorders |  |  |  |  |  |
+|  | Blurred vision | Mydriasis Visual impairment | Glaucoma |  |  |
+| Ear and labyrinth disorders |  |  |  |  |  |
+|  | Tinnitus1 | Vertigo Ear pain |  |  |  |
+| Cardiac disorders |  |  |  |  |  |
+|  | Palpitation s | Tachycardia Supra-ventricular arrhythmia, mainly atrial fibrillation |  |  | Stress cardiomyopathy (Takotsubo cardiomyopathy) |
+| Vascular disorders |  |  |  |  |  |
+|  | Blood pressure increase3 Flushing | Syncope2 Hypertension3,7 Orthostatic hypotension2 Peripheral coldness | Hypertensive crisis3,6 |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
+|  | Yawning | Throat tightness Epistaxis | Interstitial lung disease10 Eosinophilic pneumonia6 |  |  |
+| Gastrointestinal disorders |  |  |  |  |  |
+| Nausea Dry mouth | Constipatio n Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour Microscopic colitis9 |  |  |
+| Hepato-biliary disorders |  |  |  |  |  |
+|  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |
+|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 | Cutaneous vasculitis |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |
+|  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |  |
+| Renal and urinary disorders |  |  |  |  |  |
+|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |  |
+| Reproductive system and breast disorders |  |  |  |  |  |
+|  | Erectile dysfunctio n | Gynaecological haemorrhage Menstrual disorder | Menopausal symptoms Galactorrhoea |  |  |
+|  | Ejaculation disorder Ejaculation delayed | Sexual dysfunction Testicular pain | Hyperprolactina emia Postpartum haemorrhage6 |  |  |
+| General disorders and administration site conditions |  |  |  |  |  |
+|  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |  |
+| Investigations |  |  |  |  |  |
+|  | Weight decrease | Weight increase Blood creatine phosphokinase increased Blood potassium increased | Blood cholesterol increased |  |  |
 
 1 Cases of convulsion and cases of tinnitus have also been reported after treatment discontinuation.
 2 Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment.
@@ -92,6 +95,7 @@ A total of 467 paediatric patients initially randomized to duloxetine in clinica
 Subsequently, over the four- to six-month extension period, patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and gender-matched peers.
 
 In studies of up to 9 months an overall mean decrease of 1% in height percentile (decrease of 2% in children (7-11 years) and increase of 0.3% in adolescents (12-17 years)) was observed in duloxetine-treated paediatric patients (see section 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

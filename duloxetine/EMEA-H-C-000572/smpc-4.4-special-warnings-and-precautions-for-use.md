@@ -20,12 +20,13 @@ Increased plasma concentrations of duloxetine occur in patients with severe rena
 For patients with severe renal impairment, see section 4.3.
 See section 4.2 for information on patients with mild or moderate renal dysfunction.
 
-Serotonin syndrome
-As with other serotonergic agents, serotonin syndrome, a potentially life-threatening condition, may occur with duloxetine treatment, particularly with concomitant use of other serotonergic agents (including SSRIs, SNRIs tricyclic antidepressants or triptans), with agents that impair metabolism of serotonin such as MAOIs, or with antipsychotics or other dopamine antagonists that may affect the serotonergic neurotransmitter systems (see sections 4.3 and 4.5).
+Serotonin syndrome/ Neuroleptic malignant syndrome
+As with other serotonergic agents, serotonin syndrome or neuroleptic malignant syndrome (NMS), a potentially life-threatening condition, may occur with duloxetine treatment, particularly with concomitant use of other serotonergic agents (including SSRIs, SNRIs, tricyclic antidepressants or triptans), with agents that impair metabolism of serotonin such as MAOIs, or with antipsychotics or other dopamine antagonists that may affect the serotonergic neurotransmitter systems (see sections 4.3 and 4.5).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g. hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhoea).
+Serotonin syndrome in its most severe form can resemble NMS, which includes hyperthermia, muscle rigidity, elevated serum creatine kinase levels, autonomic instability with possible rapid fluctuation of vital signs and mental status changes.
 
-If concomitant treatment with duloxetine and other serotonergic agents that may affect the serotonergic and/or dopaminergic neurotransmitter systems is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment with duloxetine and other serotonergic/neuroleptic agents that may affect the serotonergic and/or dopaminergic neurotransmitter systems is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
 St John’s wort
 Adverse reactions may be more common during concomitant use of Cymbalta and herbal preparations containing St John’s wort (Hypericum perforatum).
