@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed, as no interactions are expected via cytochrome P450 enzymes, other metabolising enzymes or transporters.
+No interaction studies have been performed, as no interactions are expected via cytochrome
+P450 enzymes, other metabolising enzymes or transporters.
 
 Vaccinations
 
@@ -9,6 +10,14 @@ The safety of immunisation with live or live-attenuated vaccines, following ocre
 Data are available on the effects of tetanus toxoid, 23-valent pneumococcal polysaccharide, keyhole limpet hemocyanin neoantigen, and seasonal influenza vaccines in patients receiving ocrelizumab (see section 4.4 and 5.1).
 
 After treatment over 2 years, the proportion of patients with positive antibody titers against S. pneumoniae, mumps, rubella and varicella were generally similar to the proportions at baseline.
+
 Immunosuppressants
 
 It is not recommended to use other immunosuppressive therapies concomitantly with ocrelizumab except corticosteroids for symptomatic treatment of relapses (see section 4.4).
+
+[Ocrevus 920 mg solution for injection]
+
+No interaction studies have been performed, as no interactions are expected via cytochrome P450 enzymes, other metabolising enzymes or transporters.
+
+Data are available on the effects of tetanus toxoid, 23-valent pneumococcal polysaccharide, keyhole limpet hemocyanin neoantigen, and seasonal influenza vaccines in patients receiving intravenous ocrelizumab (see section 4.4 and 5.1).
+After treatment over 2 years with intravenous ocrelizumab, the proportion of patients with positive antibody titers against S. pneumoniae, mumps, rubella and varicella were generally similar to the proportions at baseline.

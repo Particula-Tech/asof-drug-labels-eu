@@ -7,7 +7,6 @@ Area under the curve (AUCτ) after the 4th dose of 600 mg ocrelizumab was 3510 �
 Absorption
 
 Ocrelizumab is administered as an intravenous infusion.
-There have been no studies performed with other routes of administration.
 Distribution
 
 The population pharmacokinetics estimate of the central volume of distribution was 2.78 L. Peripheral volume and inter-compartment clearance were estimated at 2.68 L and 0.294 L/day.
@@ -42,3 +41,12 @@ Hepatic impairment
 No formal pharmacokinetic study has been conducted.
 Patients with mild hepatic impairment were included in clinical trials, and no change in the pharmacokinetics was observed in those patients.
 There is no PK information available in patients with moderate or severe hepatic impairment.
+
+[Ocrevus 920 mg solution for injection]
+
+After administration of 920 mg subcutaneous ocrelizumab, the predicted mean exposure (AUC over the 24 week dosing interval) was 3730 µg/mL•day.
+The primary PK endpoint in OCARINA II, AUCw1-12, after 920 mg subcutaneous ocrelizumab was shown to be non-inferior to 600 mg intravenous ocrelizumab.
+The geometric mean ratio for AUCw1-12 was 1.29 (90% CI: 1.23–1.35).
+
+The estimated bioavailability after subcutaneous administration of 920 mg ocrelizumab was 81%.
+The mean Cmax was 132 µg/mL and tmax was reached after approximately 4 days (range 2-13 days).

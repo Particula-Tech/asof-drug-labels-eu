@@ -10,3 +10,16 @@ There were five cases of neonatal moribundities, one attributed to weakness due 
 The course of these five confirmed or suspected infections could have potentially been impacted by B-cell depletion.
 Newborn offspring of maternal animals exposed to ocrelizumab were noted to have depleted B cell populations during the post-natal phase.
 Measurable levels of ocrelizumab were detected in milk (approximated 0.2% of steady state trough serum levels) during the lactation period.
+
+[Ocrevus 920 mg solution for injection]
+
+In two pre- and post-natal development studies in cynomolgus monkeys, administration of intravenous ocrelizumab from gestation day 20 to at least parturition was associated with glomerulopathy, lymphoid follicle formation in bone marrow, lymphoplasmacytic renal inflammation, and decreased testicular weight in offspring.
+
+Hyaluronidase
+
+Non-clinical data for recombinant human hyaluronidase reveal no special hazard based on conventional studies of repeated dose toxicity including safety pharmacology endpoints.
+
+Hyaluronidase (rHuPH20) is found in most tissues of the human body.
+Subcutaneous administration of ocrelizumab with hyaluronidase was well tolerated in rats and minipigs in local tolerance studies.
+
+Reproductive toxicology studies with rHuPH20 revealed embryofetal toxicity in mice, with no effect level >1,100-fold higher than the suggested clinical dose, however, without evidence of teratogenicity.
