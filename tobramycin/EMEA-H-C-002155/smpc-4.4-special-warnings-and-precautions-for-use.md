@@ -10,6 +10,11 @@ Hearing loss and tinnitus were reported by patients in the TOBI Podhaler clinica
 Caution should be exercised when prescribing TOBI Podhaler to patients with known or suspected auditory or vestibular dysfunction.
 In patients with any evidence of auditory dysfunction, or those with a predisposing risk, it may be necessary to consider audiological assessment before initiating TOBI Podhaler therapy.
 
+Risk of ototoxicity due to mitochondrial DNA variants
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, it may be necessary to consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
+
 If a patient reports tinnitus or hearing loss during TOBI Podhaler therapy the physician should consider referring them for audiological assessment.
 
 See also “Monitoring of serum tobramycin concentrations” below.
@@ -54,6 +59,7 @@ Children below the age of 13 years may be more likely to cough when treated with
 
 If there is evidence of continued therapy-induced cough with TOBI Podhaler, the physician should consider whether an approved tobramycin nebuliser solution should be used as an alternative treatment.
 Should cough remain unchanged, other antibiotics should be considered.
+
 Haemoptysis
 
 Haemoptysis is a complication in cystic fibrosis and is more frequent in adults.
@@ -87,7 +93,6 @@ Adult patients tended to discontinue more frequently for tolerability reasons wi
 See also section 4.8.
 
 If clinical deterioration of pulmonary status is evident, additional or alternative anti-pseudomonal therapy should be considered.
-
 Observed benefits on lung function and P. aeruginosa suppression should be assessed in the context of the patient’s tolerance of TOBI Podhaler.
 
-Safety and efficacy have not been studied in patients with forced expiratory volume in 1 second (FEV1) <25% or >75% predicted, or patients colonised with Burkholderia cepacia.
+Safety and efficacy have not been studied in patients with forced expiratory volume in 1 second (FEV1) <25% or >80% predicted, or patients colonised with Burkholderia cepacia.

@@ -56,7 +56,6 @@ When the full dose (4 capsules) has been inhaled, wipe mouthpiece with a clean d
 17.
 Place inhaler back in storage case and close tightly.
 The inhaler should never be washed with water.
-
 See also section 4.2.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.

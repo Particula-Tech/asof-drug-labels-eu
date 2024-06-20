@@ -13,7 +13,7 @@ Tabulated summary of adverse reactions
 Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
-In addition, the corresponding frequency category using the following convention (CIOMS III) is also provided for each adverse drug reaction: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known: frequency cannot be estimated from the available data.
+In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known: frequency cannot be estimated from the available data.
 
 The frequencies in Table 1 are based on the reporting rates from the active-controlled study.
 
@@ -79,7 +79,6 @@ In the active-controlled open-label study, patients aged 20 years and older tend
 In children under 13 years of age, discontinuations were more frequent in the TOBI nebuliser solution arm whereas in patients aged 13 to 19, discontinuation rates with both formulations were similar.
 
 Reporting of suspected adverse reactions
-
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

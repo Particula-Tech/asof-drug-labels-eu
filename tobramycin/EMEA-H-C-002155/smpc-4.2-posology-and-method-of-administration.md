@@ -35,7 +35,7 @@ Patients after organ transplantation
 Adequate data do not exist for the use of TOBI Podhaler in patients after organ transplantation.
 No recommendation for or against dose adjustment can be made for patients after organ transplantation.
 
-Paediatric patients
+Paediatric population
 The safety and efficacy of TOBI Podhaler in children aged under 6 years have not been established.
 No data are available.
 

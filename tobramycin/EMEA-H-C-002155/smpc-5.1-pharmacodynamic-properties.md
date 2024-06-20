@@ -52,8 +52,7 @@ The improvements in lung function achieved during the first treatment cycle were
 When patients in the placebo treatment group were switched from placebo to TOBI Podhaler at the start of the second treatment cycle, they experienced a similar improvement from baseline in percent predicted FEV1.
 Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (mean difference with placebo about 2.70 log10 in colony forming units/CFUs).
 
-In a second open-label, multicentre study, patients received treatment with either TOBI Podhaler
-(112 mg) or tobramycin 300 mg/5 ml nebuliser solution (TOBI), administered twice daily for three cycles.
+In a second open-label, multicentre study, patients received treatment with either TOBI Podhaler (112 mg) or tobramycin 300 mg/5 ml nebuliser solution (TOBI), administered twice daily for three cycles.
 A majority of the patients were tobramycin-experienced adults with chronic pulmonary P. aeruginosa infection.
 
 Treatment with both TOBI Podhaler and tobramycin 300 mg/5 ml nebuliser solution (TOBI) resulted in relative increases from baseline to day 28 of the third treatment cycle in percent predicted FEV1 of 5.8% and 4.7%, respectively.
@@ -78,5 +77,4 @@ Patient-reported convenience and overall treatment satisfaction (as collected th
 For safety results see section 4.8
 
 Paediatric population
-
 The European Medicines Agency has waived the obligation to submit the results of studies with TOBI Podhaler in one or more subsets of the paediatric population in treatment of pseudomonas aeruginosa pulmonary infection/colonisation in patients with cystic fibrosis (see section 4.2 for information on paediatric use).

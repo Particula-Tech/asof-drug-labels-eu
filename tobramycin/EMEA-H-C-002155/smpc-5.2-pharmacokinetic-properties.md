@@ -23,6 +23,7 @@ While the volume was shown to vary with body mass index (BMI) and lung function 
 Biotransformation
 
 Tobramycin is not metabolised and is primarily excreted unchanged in the urine.
+
 Elimination
 
 Tobramycin is eliminated from the systemic circulation primarily by glomerular filtration of the unchanged compound.
