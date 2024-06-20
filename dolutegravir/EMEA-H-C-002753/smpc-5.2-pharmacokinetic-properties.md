@@ -13,7 +13,7 @@ Similarly, a 40 mg dolutegravir dose administered as four 10 mg film-coated tabl
 
 Absorption
 
-Dolutegravir is rapidly absorbed following oral administration, with median Tmax at 2 to 3 hours post dose for tablet formulation.
+Dolutegravir is rapidly absorbed following oral administration, with median Tmax at 1 to 3 hours post dose for film-coated tablet or dispersible tablet formulations.
 
 Food increased the extent and slowed the rate of absorption of dolutegravir.
 Bioavailability of dolutegravir depends on meal content: low, moderate, and high fat meals increased dolutegravir AUC(0-∞) by 33%, 41%, and 66%, increased Cmax by 46%, 52%, and 67%, prolonged Tmax to 3, 4, and 5 hours from 2 hours under fasted conditions, respectively for the film-coated tablet.
