@@ -30,12 +30,14 @@ The half-life of the main metabolite (about 1.5 h) is not much longer than that 
 Special populations
 
 Renal impairment
+
 No dose reduction is recommended when pantoprazole is administered to patients with impaired renal function (including patients on dialysis, which removes only negligible amounts of pantoprazole).
 As with healthy subjects, the half-life of pantoprazole is short.
 Although the main metabolite has a longer half-life (2-3h), excretion is still rapid and thus accumulation does not occur.
 
 Hepatic impairment
-After administration of pantoprazole to patients with liver impairment (Child-Pugh classes A, B and C) the half-life values increased to between 3 and 7 h and the AUC values increased by a factor of 3-6, whereas the Cmax only increased slightly by a factor of 1.3 compared with healthy subjects.
 
+After administration of pantoprazole to patients with liver impairment (Child-Pugh classes A, B and C) the half-life values increased to between 3 and 7 h and the AUC values increased by a factor of 3-6, whereas the Cmax only increased slightly by a factor of 1.3 compared with healthy subjects.
 Elderly
+
 The slight increase in AUC and Cmax in elderly volunteers compared with younger subjects was not clinically relevant.

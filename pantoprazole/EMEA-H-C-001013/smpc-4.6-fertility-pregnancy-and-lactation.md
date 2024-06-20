@@ -7,7 +7,6 @@ Studies in animals have shown reproductive toxicity.
 Preclinical studies revealed no evidence of impaired fertility or teratogenic effects (see section 5.3).
 The potential risk for humans is unknown.
 Pantoprazole should not be used during pregnancy.
-
 Breast-feeding
 
 Pantoprazole/metabolites have been identified in human milk.

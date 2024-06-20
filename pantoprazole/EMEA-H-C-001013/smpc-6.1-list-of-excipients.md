@@ -14,11 +14,12 @@ Hypromellose
 Povidone K25
 Titanium dioxide (E171)
 Yellow iron oxide (E172)
-Propylene glycol
+Propylene glycol (E1520)
 Methacrylic acid-ethyl acrylate copolymer (1:1)
 Sodium laurilsulfate
 Polysorbate 80
 Triethyl citrate
+
 Printing ink
 
 Shellac

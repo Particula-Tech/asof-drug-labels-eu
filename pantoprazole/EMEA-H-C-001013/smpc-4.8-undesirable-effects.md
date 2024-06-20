@@ -21,14 +21,54 @@ Adverse reactions with pantoprazole in clinical trials and post-marketing experi
 | Metabolism and nutrition disorders |  |  | Hyperlipidaemias and lipid increases (triglycerides, cholesterol); Weight changes |  | Hyponatraemia; Hypomagnesaemia; Hypocalcaemia(1) Hypokalaemia(1) |
 | Psychiatric disorders |  | Sleep disorders | Depression (and all aggravations) | Disorientation (and all aggravations) | Hallucination; Confusion (especially in pre-disposed patients, as well as the aggravation of these symptoms in case of pre-existence) |
 | Nervous system disorders |  | Headache; Dizziness | Taste disorders |  | Paraesthesia |
-| Eye disorders |  |  | Disturbances in vision / blurred vision |  |  |
-| Gastrointestinal disorders | Fundic gland polyps (benign) | Diarrhoea; Nausea / vomiting; Abdominal distension and bloating; Constipation; Dry mouth; Abdominal pain and discomfort |  |  | Microscopic colitis |
-| Hepatobiliary disorders |  | Liver enzymes increased (transaminases, γ-GT) | Bilirubin increased |  | Hepatocellular injury; Jaundice; Hepatocellular failure |
-| Skin and subcutaneous tissue disorders |  | Rash / exanthema / eruption; Pruritus | Urticaria; Angioedema |  | Stevens-Johnson syndrome; Lyell syndrome; Erythema multiforme; Photosensitivity; Drug reaction with eosinophilia and systemic symptoms (DRESS) Subacute cutaneous lupus erythematosus (see section 4.4). |
-| Musculoskeletal and connective tissue disorders |  | Fracture of wrist, hip and spine. | Arthralgia; Myalgia |  |  |
-| Renal and urinary disorders |  |  |  |  | Tubulointerstitial nephritis (TIN) (with possible progression to renal failure) |
-| Reproductive system and breast disorders |  |  | Gynaecomastia |  |  |
-| General disorders and administration site conditions |  | Asthenia, fatigue and malaise | Body temperature increased; Oedema peripheral |  |  |
+
+Eye disorders Disturbances in
+vision / blurred
+vision
+Gastrointestinal Fundic Diarrhoea; Microscopic colitis
+disorders gland Nausea /
+polyps vomiting;
+(benign) Abdominal
+distension and
+bloating;
+Constipation;
+Dry mouth;
+Abdominal
+pain and
+discomfort
+Hepatobiliary Liver enzymes Bilirubin Hepatocellular
+disorders increased increased injury;
+(transaminases, Jaundice;
+γ-GT) Hepatocellular
+failure
+Skin and Rash / Urticaria; Stevens-Johnson
+subcutaneous exanthema / Angioedema syndrome;
+tissue disorders eruption; Lyell syndrome
+Pruritus (TEN);
+Drug reaction with
+eosinophilia and
+systemic symptoms
+(DRESS);
+Erythema
+multiforme;
+Photosensitivity;
+Subacute cutaneous
+lupus erythematosus
+(see section 4.4).
+Musculoskeletal Fracture of Arthralgia;
+and connective wrist, hip and Myalgia
+tissue disorders spine.
+Renal and Tubulointerstitial
+urinary disorders nephritis (TIN) (with
+possible progression
+to renal failure)
+Reproductive Gynaecomastia
+system and
+breast disorders
+General Asthenia, Body temperature
+disorders and fatigue and increased;
+administration malaise Oedema
+site conditions peripheral
 
 (1) Hypocalcaemia and/or hypokalaemia may be related to the occurrence of hypomagnesaemia (see section 4.4)
 
