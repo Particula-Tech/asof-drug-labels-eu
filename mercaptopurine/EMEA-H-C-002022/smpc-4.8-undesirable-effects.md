@@ -17,22 +17,25 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Infections and infestations | Uncommon | Bacterial and viral infections, infections associated with neutropenia |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Rare | Neoplasms including lymphoproliferative disorders, skin cancers (melanomas and non-melanomas), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ (see section 4.4) |
 |  | Very rare | Secondary leukaemia and myelodysplasia |
-|  | Unknown | Hepatosplenic T-cell lymphoma* (see section 4.4) |
+|  | Not known | Hepatosplenic T-cell lymphoma* (see section 4.4) |
 | Blood and lymphatic system disorders | Very common | Bone marrow suppression; leucopenia and thrombocytopenia |
 |  | Common | Anaemia |
 | Immune system disorders | Uncommon | Arthralgia, skin rash, drug fever |
 |  | Rare | Facial oedema |
 | Metabolism and nutrition disorders | Common | Anorexia |
-|  | Unknown | Hypoglycaemia† |
-| Gastrointestinal disorders | Common | Stomatitis, diarrhoea, vomiting, nausea |
+|  | Not known | Hypoglycaemia†, pellagra (see section 4.4) |
+| Gastrointestinal disorders | Common | Diarrhoea, vomiting, nausea |
 |  | Uncommon | Pancreatitis, oral ulceration |
 |  | Very rare | Intestinal ulceration |
+|  | Not known | Stomatitis, cheilitis |
 | Hepatobiliary disorders | Common | Biliary stasis, hepatotoxicity |
 |  | Uncommon | Hepatic necrosis |
-|  | Unknown | Portal hypertension*, nodular regenerative hyperplasia*, sinusoidal obstruction syndrome* |
+|  | Not known | Portal hypertension*, nodular regenerative hyperplasia*, sinusoidal obstruction syndrome* |
 | Skin and subcutaneous tissue disorders | Rare | Alopecia |
-|  | Unknown | Photosensitivity reaction, Erythema nodosum |
+|  | Not known | Photosensitivity reaction, erythema nodosum |
 | Reproductive system and breast disorders | Rare | Transient oligospermia |
+| General disorders and administration site conditions | Not known | Mucosal inflammation |
+| Investigations | Not known | Coagulation factors decreased |
 
 * In patients with inflammatory bowel disease (IBD), an unlicensed indication.
 † In the paediatric population.
@@ -40,12 +43,13 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Description of selected adverse reactions
 
 6-mercaptopurine is hepatotoxic in animals and man.
-The histological findings in man have shown hepatic necrosis and biliary stasis
+The histological findings in man have shown hepatic necrosis and biliary stasis.
 
 The incidence of hepatotoxicity varies considerably and can occur with any dose but more frequently when the recommended dose is exceeded.
 
 Monitoring of liver function tests may allow early detection of hepatotoxicity.
 This is usually reversible if 6-mercaptopurine therapy is stopped soon enough but fatal liver damage has occurred.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

@@ -10,11 +10,14 @@ Xaluprine should not be given to patients who are pregnant or likely to become p
 
 There have been reports of premature birth and low birth weight following maternal exposure to 6-mercaptopurine.
 There have also been reports of congenital abnormalities and spontaneous abortion following either maternal or paternal exposure.
-Multiple congenital abnormalities have been reported following maternal 6-mercatopurine treatment in combination with other chemotherapy agents.
+Multiple congenital abnormalities have been reported following maternal 6-mercaptopurine treatment in combination with other chemotherapy agents.
 
 A more recent epidemiological report suggests that there is no increased risk of preterm births, low birth weight at term, or congenital abnormalities in women exposed to mercaptopurine during pregnancy.
 
 It is recommended that newborns of women exposed to mercaptopurine during pregnancy are monitored for haematological and immune system disturbances.
+
+Cholestasis of pregnancy has occasionally been reported in association with azathioprine (a prodrug of 6-mercaptopurine) therapy.
+A careful assessment of benefit to the mother and impact on the foetus should be performed, if cholestasis of pregnancy is confirmed.
 
 Breast-feeding
 6-mercaptopurine has been identified in the colostrum and breast-milk of women receiving azathioprine treatment and thus women receiving Xaluprine should not breast-feed.

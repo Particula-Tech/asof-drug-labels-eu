@@ -6,7 +6,7 @@ Careful monitoring of haematological parameters should be conducted during thera
 The leucocyte and platelet counts continue to fall after treatment is stopped, so at the first sign of an abnormally large fall in the counts, treatment should be interrupted immediately.
 Bone marrow suppression is reversible if 6-mercaptopurine is withdrawn early enough.
 
-There are individuals with an inherited deficiency of the TPMT enzyme activity who are very sensitive to the myelosuppresive effect of 6-mercaptopurine and prone to developing rapid bone marrow depression following the initiation of treatment with 6-mercaptopurine.
+There are individuals with an inherited deficiency of the TPMT enzyme activity who are very sensitive to the myelosuppressive effect of 6-mercaptopurine and prone to developing rapid bone marrow depression following the initiation of treatment with 6-mercaptopurine.
 This problem could be exacerbated by coadministration with active substances that inhibit TPMT, such as olsalazine, mesalazine or sulfasalazine.
 Some laboratories offer testing for TPMT deficiency, although these tests have not been shown to identify all patients at risk of severe toxicity.
 Therefore close monitoring of blood counts is necessary.
@@ -43,7 +43,7 @@ In view of its action on cellular deoxyribonucleic acid (DNA) 6-mercaptopurine i
 
 Hepatosplenic T-cell lymphoma has been reported in patients with inflammatory bowel disease* treated with azathioprine (the prodrug to 6-mercaptopurine) or 6-mercaptopurine, either with or without concomitant treatment with anti-TNF alpha antibody.
 This rare type of T cell lymphoma has an aggressive disease course and is usually fatal (see also section 4.8).
-*inflammatory bowel disease (IBD) is an unlicensed indication
+*inflammatory bowel disease (IBD) is an unlicensed indication.
 
 Macrophage activation syndrome
 Macrophage activation syndrome (MAS) is a known, life-threatening disorder that may develop in patients with autoimmune conditions, in particular with inflammatory bowel disease (IBD) (unlicensed indication), and there could potentially be an increased susceptibility for developing the condition with the use of mercaptopurine.
@@ -65,12 +65,18 @@ They generally require dose reduction, particularly those being NUDT15 variant h
 The frequency of NUDT15 c.415C>T has an ethnic variability of approximately 10 % in East Asians, 4 % in Hispanics, 0.2 % in Europeans and 0 % in Africans.
 In any case, close monitoring of blood counts is necessary.
 
+Metabolic and nutritional disorders
+Purine analogues (azathioprine and mercaptopurine) may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency (pellagra).
+Cases of pellagra have been reported with the use of purine analogues, particularly in patients with chronic inflammatory bowel disease.
+The diagnosis of pellagra should be considered in patients with a localised pigmented rash (dermatitis), gastroenteritis, or neurological deficits including cognitive deterioration.
+Appropriate medical care with niacin/nicotinamide supplementation must be initiated.
 Paediatric population
 Cases of symptomatic hypoglycaemia have been reported in children with ALL receiving 6-mercaptopurine (see section 4.8).
 The majority of reported cases were in children under the age of six or with a low body mass index.
 
 Interactions
 When oral anticoagulants are coadministered with 6-mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
+
 Excipients
 This medicinal product contains aspartame (E951), a source of phenylalanine.
 May be harmful for people with phenylketonuria.

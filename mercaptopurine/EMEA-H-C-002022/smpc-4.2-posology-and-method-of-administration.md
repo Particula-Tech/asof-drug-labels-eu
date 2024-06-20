@@ -62,7 +62,7 @@ Patients should be closely monitored for dose related adverse reactions (see sec
 
 Switching between tablet and oral suspension and vice versa
 A tablet form of 6-mercaptopurine is also available.
-The 6-mecaptopurine oral suspension and tablet are not bioequivalent with respect to peak plasma concentration, and therefore intensified haematological monitoring of the patient is advised on switching formulations (see section 5.2).
+The 6-mercaptopurine oral suspension and tablet are not bioequivalent with respect to peak plasma concentration, and therefore intensified haematological monitoring of the patient is advised on switching formulations (see section 5.2).
 
 Combination with xanthine oxidase inhibitors
 Allopurinol and other xanthine oxidase inhibitors decrease the rate of catabolism of 6-mercaptopurine.
