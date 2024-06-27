@@ -11,6 +11,7 @@ Mepolizumab inhibits the bioactivity of IL-5 with nanomolar potency by blocking 
 Pharmacodynamic effects
 
 Severe eosinophilic asthma
+
 In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/μL at week 32 (n=182), a reduction of 84% compared to placebo.
 This magnitude of blood eosinophils reduction was maintained in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies.
 In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 306 (n=16) to 48 (n=15) following 40 mg (for a weight < 40kg) and 331 to 44 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 85% and 87%, respectively.
@@ -63,7 +64,6 @@ For the oral corticosteroid-sparing study MEA115575, a total of 135 patients wer
 Dose-ranging efficacy MEA112997 (DREAM) study
 
 In MEA112997, a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study of 52 weeks duration in 616 patients with severe refractory eosinophilic asthma, mepolizumab significantly reduced clinically significant asthma exacerbations (defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalisation and/or emergency department visits) when administered in doses of 75 mg, 250 mg or 750 mg intravenously compared to placebo (see Table 1).
-
 Table 1: Frequency of clinically significant exacerbations at week 52 in the intent to treat population
 
 |  | Intravenous mepolizumab |  |  | Placebo |
@@ -151,6 +151,7 @@ MEA115575 evaluated the effect of mepolizumab 100 mg administered subcutaneously
 Patients had a blood eosinophil count of ≥150/µL at baseline or a blood eosinophil count of ≥300/µL in the 12 months prior to screening.
 Patients were administered mepolizumab or placebo treatment once every 4 weeks over the treatment period.
 Patients continued to receive their existing asthma medicinal product during the study with the exception of their OCS dose which was reduced every 4 weeks during the OCS reduction phase (Weeks 4-20), as long as asthma control was maintained.
+
 A total of 135 patients were enrolled: mean age was 50 years, 55% were female, and 48% had been receiving oral steroid therapy for at least 5 years.
 The baseline mean prednisone equivalent dose was approximately 13 mg per day.
 
@@ -184,6 +185,7 @@ Open-label extension studies in severe refractory eosinophilic asthma MEA115666 
 The long-term efficacy profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies MEA115666, MEA115661 and 201312 was generally consistent with the 3 placebo-controlled studies.
 
 Chronic rhinosinusitis with nasal polyps (CRSwNP)
+
 Study 205687 (SYNAPSE) was a 52-week, randomised, double-blind, placebo-controlled study which evaluated 407 patients aged 18 years and older with CRSwNP.
 Patients enrolled in the study were required to have a nasal obstruction VAS (Visual Analogue Scale) symptom score of >5 out of a maximum score of 10, an overall VAS symptom score >7 out of a maximum score of 10 and an endoscopic bilateral NP score of ≥5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity).
 Patients must also have had a history of at least one prior surgery for nasal polyps in the previous 10 years.

@@ -9,8 +9,8 @@ In placebo-controlled studies in adult and adolescent patients with severe refra
 CRSwNP
 
 In a placebo-controlled study in patients with CRSwNP, the most commonly reported adverse reactions during treatment were headache (18%) and back pain (7%).
-
 EGPA
+
 In a placebo-controlled study in patients with EGPA, the most commonly reported adverse reactions during treatment were headache (32%), injection site reactions (15%) and back pain (13%).
 Systemic allergic/hypersensitivity reactions were reported by 4% of EGPA patients.
 
@@ -29,13 +29,13 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 | System Organ Class | Adverse reactions | Frequency |
 | --- | --- | --- |
-| Infections and infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis | Common |
+| Infections and infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster** | Common Uncommon |
 | Immune system disorders | Hypersensitivity reactions (systemic allergic)* Anaphylaxis** | Common Rare |
 | Nervous system disorders | Headache | Very common |
 | Respiratory, thoracic and mediastinal disorders | Nasal congestion | Common |
 | Gastrointestinal disorders | Abdominal pain upper | Common |
 | Skin and subcutaneous tissue disorders | Eczema | Common |
-| Musculoskeletal and connective tissue disorders | Back pain | Common |
+| Musculoskeletal and connective tissue disorders | Back pain Arthralgia** | Common |
 | General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** Local injection site reactions Pyrexia | Common |
 
 * Systemic reactions including hypersensitivity have been reported at an overall incidence comparable to that of placebo in the severe eosinophilic asthma studies.
@@ -75,12 +75,12 @@ In the placebo-controlled study, local injection site reactions (e.g., erythema,
 
 EGPA
 In the placebo-controlled study, local injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 15% in patients receiving mepolizumab 300 mg compared with 13% in patients receiving placebo.
-
 HES
 
 In the placebo-controlled study, local injection site reactions (e.g., burning, itching) occurred at a rate of 7% in patients receiving mepolizumab 300 mg compared with 4% in patients receiving placebo.
 
 Paediatric population
+
 Severe eosinophilic asthma
 
 Thirty-seven adolescents (aged 12-17) were enrolled in four placebo-controlled studies (25 mepolizumab treated intravenously or subcutaneously) of 24 to 52 weeks duration.

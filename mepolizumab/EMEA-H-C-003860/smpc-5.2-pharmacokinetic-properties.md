@@ -10,8 +10,8 @@ Following subcutaneous administration to healthy subjects or patients with asthm
 Following a single subcutaneous administration in the abdomen, thigh or arm of healthy subjects, mepolizumab absolute bioavailability was 64%, 71% and 75%, respectively.
 In patients with asthma the absolute bioavailability of mepolizumab administered subcutaneously in the arm ranged from 74-80%.
 Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
-
 Distribution
+
 Following a single intravenous administration to patients with asthma, mepolizumab distributes into a mean volume of distribution of 55 to 85 mL/kg.
 
 Biotransformation
@@ -50,7 +50,6 @@ There are limited pharmacokinetic data available in the paediatric population (5
 Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in patients aged 2–17 years old with eosinophilic esophagitis.
 Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight.
 Mepolizumab pharmacokinetics in adolescent patients with severe refractory eosinophilic asthma or HES included in the phase 3 studies were consistent with adults (see section 4.2).
-
 Paediatric pharmacokinetics following subcutaneous administration in patients 6 to 11 years old with severe refractory eosinophilic asthma was investigated in an open label, uncontrolled study of 12-weeks duration.
 Paediatric pharmacokinetics were broadly consistent with adults and adolescents after accounting for bodyweight and bioavailability.
 The absolute subcutaneous bioavailability appears complete compared to that observed in adults and adolescents of 76%.

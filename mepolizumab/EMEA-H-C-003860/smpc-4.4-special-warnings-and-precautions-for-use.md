@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Traceability
+
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Asthma exacerbations
