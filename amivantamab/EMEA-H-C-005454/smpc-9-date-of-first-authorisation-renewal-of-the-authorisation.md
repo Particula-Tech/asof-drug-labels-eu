@@ -1,4 +1,4 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 09 December 2021
-Date of latest renewal: 26 September 2022
+Date of latest renewal: 11 September 2023

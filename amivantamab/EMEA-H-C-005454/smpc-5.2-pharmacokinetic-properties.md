@@ -1,23 +1,23 @@
 # 5.2 Pharmacokinetic properties
 
-Amivantamab area under the concentration-time curve (AUC1 week) increases proportionally over a dose range from 350 to 1,750 mg.
+Based on Rybrevant monotherapy data, amivantamab area under the concentration-time curve
+(AUC1 week) increases proportionally over a dose range from 350 to 1750 mg.
 
-Following administration of Rybrevant at the recommended dose and schedule, the mean serum AUC1 week was approximately 2.9-fold higher after the fifth dose, following the weekly dosing, compared to the first dose.
-
-Steady state was achieved approximately 2 months into the every 2-week dosing period (by the ninth infusion) at 1,050 mg, and the mean serum AUC1 week was approximately 2.4 fold higher at steady state compared to the first dose.
+Based on simulations from the population pharmacokinetic model, AUC1 week was approximately 2.8-fold higher after the fifth dose for the 2-week dosing regimen and 2.6-fold higher after the fourth dose for the 3-week dosing regimen.
+Steady-state concentrations of amivantamab were reached by Week 13 for both the 3-week and 2-week dosing regimen and the systemic accumulation was 1.9-fold.
 
 Distribution
-Amivantamab geometric mean (CV%) total volume of distribution, based on population PK parameter estimates, was 5.37 (21%) L following administration of the recommended dose of Rybrevant.
+
+Based on the individual amivantamab PK parameter estimates in population PK analysis, the geometric mean (CV%) total volume of distribution, is 5.12 (27.8%) L, following administration of the recommended dose of Rybrevant.
 
 Elimination
-Amivantamab clearance is higher with low doses (< 350 mg) but linear within the clinical dose range.
-The geometric mean (CV%) linear clearance was estimated to be 225 (25%) mL/day, based on population PK modelling.
-The geometric mean (CV%) terminal half-life associated with linear clearance, derived based on population PK parameter estimates, was 15.7 (26%) days, following administration of the recommended dose of Rybrevant as monotherapy.
+
+Based on the individual amivantamab PK parameter estimates in population PK analysis, the geometric mean (CV%) linear clearance (CL) and terminal half-life associated with linear clearance is 0.266 (30.4%) L/day and 13.7 (31.9%) days respectively.
 
 Special populations
 
 Elderly
-No clinically meaningful differences in the pharmacokinetics of amivantamab were observed based on age (32-87 years).
+No clinically meaningful differences in the pharmacokinetics of amivantamab were observed based on age (27-87 years).
 
 Renal impairment
 No clinically meaningful effect on the pharmacokinetics of amivantamab was observed in patients with mild (60 ≤ creatinine clearance [CrCl] < 90 mL/min) and moderate (29 ≤ CrCl < 60 mL/min) renal impairment.

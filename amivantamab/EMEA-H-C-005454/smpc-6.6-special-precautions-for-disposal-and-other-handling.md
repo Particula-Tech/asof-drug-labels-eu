@@ -4,11 +4,10 @@ Prepare the solution for intravenous infusion using aseptic technique as follows
 
 Preparation
 
-- Determine the dose required (either 1,050 mg for patients < 80 kg or 1,400 mg for patients
-
-≥80 kg) and the number of Rybrevant vials needed based on patient’s baseline weight (see section 4.2).
-Each vial contains 350 mg of amivantamab.
-
+- Determine the dose required and the number of Rybrevant vials needed based on patient’s baseline weight (see section 4.2).
+  Each vial contains 350 mg of amivantamab.
+- For every 2-week dosing, patients < 80 kg receive 1050 mg and for patients ≥80 kg, 1400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
+- For every 3-week dosing, patients < 80 kg receive 1400 mg once weekly for a total of 4 doses, then 1750 mg every 3 weeks starting at Week 7, and for patients ≥80 kg, 1750 mg once weekly for a total of 4 doses, then 2100 mg every 3 weeks starting at Week 7.
 - Check that the Rybrevant solution is colourless to pale yellow.
   Do not use if discolouration or visible particles are present.
 - Withdraw and then discard a volume of either 5% glucose solution or sodium chloride 9 mg/mL (0.9%) solution for injection from the 250 mL infusion bag that is equal to the required volume of Rybrevant solution to be added (discard 7 mL diluent from the infusion bag for each vial).
@@ -26,6 +25,7 @@ Administration
 
 - Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 or 0.2 micrometer).
   Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP, or PE.
+- The administration set with filter must be primed with either 5% glucose solution or 0.9% sodium chloride solution prior to the initiation of each Rybrevant infusion.
 - Do not infuse Rybrevant concomitantly in the same intravenous line with other agents.
 - The diluted solution should be administered within 10 hours (including infusion time) at room temperature (15°C to 25°C) and in room light.
 - Due to the frequency of IRRs at the first dose, amivantamab should be infused via a peripheral vein at Week 1 and Week 2; infusion via a central line may be administered for subsequent weeks when the risk of IRR is lower.

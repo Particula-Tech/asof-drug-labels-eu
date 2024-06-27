@@ -2,7 +2,6 @@
 
 Women of child-bearing potential/Contraception
 Women of child-bearing potential should use effective contraception during and for 3 months after cessation of amivantamab treatment.
-
 Pregnancy
 There are no human data to assess the risk of amivantamab use during pregnancy.
 No animal reproductive studies were conducted to inform a drug-associated risk.
