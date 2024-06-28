@@ -6,12 +6,20 @@ When considering the use of TAGRISSO, EGFR mutation status (in tumour specimens 
 
 Posology
 
+Monotherapy
+
 The recommended dose is 80 mg osimertinib once a day.
+
+Combination therapy
+
+The recommended dose of TAGRISSO is 80 mg osimertinib once a day when taken with pemetrexed and platinum-based chemotherapy.
+
+Refer to the Summary of Product Characteristics for pemetrexed and cisplatin or carboplatin for the respective dosing information.
 
 Patients in the adjuvant setting should receive treatment until disease recurrence or unacceptable toxicity.
 Treatment duration for more than 3 years was not studied.
 
-Patients with locally advanced or metastatic lung cancer should receive treatment until disease progression or unacceptable toxicity.
+Patients with locally advanced or metastatic lung cancer should receive TAGRISSO treatment until disease progression or unacceptable toxicity.
 
 If a dose of TAGRISSO is missed, the dose should be made up unless the next dose is due within 12 hours.
 
@@ -23,7 +31,6 @@ Dosing interruption and/or dose reduction may be required based on individual sa
 If dose reduction is necessary, then the dose should be reduced to 40 mg taken once daily.
 
 Dose reduction guidelines for adverse reactions toxicities are provided in Table 1.
-
 Table 1.
 Recommended dose modifications for TAGRISSO
 
@@ -35,18 +42,19 @@ Recommended dose modifications for TAGRISSO
 | Cutaneousb | Stevens-Johnson Syndrome and Toxic epidermal necrolysis | Permanently discontinue TAGRISSO |
 | Blood and lymphatic systemb | Aplastic anaemia | Permanently discontinue TAGRISSO |
 | Other | Grade 3 or higher adverse reaction | Withhold TAGRISSO for up to 3 weeks |
+|  | If Grade 3 or higher adverse reaction improves to Grade 0-2 after withholding of TAGRISSO for up to 3 weeks | TAGRISSO may be restarted at the same dose (80 mg) or a lower dose (40 mg) |
+|  | Grade 3 or higher adverse reaction that does not improve to Grade 0-2 after withholding for up to 3 weeks | Permanently discontinue TAGRISSO |
 
-If Grade 3 or higher adverse reaction TAGRISSO may be restarted at the same dose
-improves to Grade 0-2 after (80 mg) or a lower dose (40 mg)
-withholding of TAGRISSO for up to
-3 weeks
-Grade 3 or higher adverse reaction Permanently discontinue TAGRISSO
-that does not improve to Grade 0-2
-after withholding for up to 3 weeks
-
-a Note: The intensity of clinical adverse events graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.
-b Refer to Section 4.4 Special warnings and special precautions for use for further details.
+a Note: The intensity of clinical adverse events graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+b Refer to section 4.4.
 ECGs: Electrocardiograms; QTc: QT interval corrected for heart rate
+
+Combination therapy
+
+When TAGRISSO is used in combination, any of the treatment components should be dose modified, as appropriate.
+For TAGRISSO dose modification instructions, see Table 1.
+The pemetrexed, cisplatin or carboplatin dose should be modified in accordance with the instructions in their respective Summary of Product Characteristics.
+Cisplatin and/or carboplatin should be used for up to 4 cycles.
 
 Special populations
 
@@ -57,7 +65,6 @@ Hepatic impairment
 Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
 The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment.
 Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
-
 Renal impairment
 
 Based on clinical studies and population PK analysis, no dose adjustments are necessary in patients with mild, moderate, or severe renal impairment.

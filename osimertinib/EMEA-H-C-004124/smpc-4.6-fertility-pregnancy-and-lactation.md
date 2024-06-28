@@ -5,7 +5,6 @@ Women of childbearing potential/Contraception in males and females
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving TAGRISSO.
 Patients should be advised to use effective contraception for the following periods after completion of treatment with this medicinal product: at least 2 months for females and 4 months for males.
 A risk for decreased exposure of hormonal contraceptives cannot be excluded.
-
 Pregnancy
 
 There are no or limited amount of data from the use of osimertinib in pregnant women.

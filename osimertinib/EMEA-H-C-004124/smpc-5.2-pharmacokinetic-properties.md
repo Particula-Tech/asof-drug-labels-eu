@@ -2,16 +2,16 @@
 
 Osimertinib pharmacokinetic parameters have been characterised in healthy subjects and NSCLC patients.
 Based on population pharmacokinetic analysis, osimertinib apparent plasma clearance is 14.3 L/h, apparent volume of distribution is 918 L and terminal half-life of approximately 44 hours.
+The pharmacokinetics in patients treated with osimertinib in combination with pemetrexed and platinum-based chemotherapy are similar to those in patients treated with osimertinib monotherapy.
 The AUC and Cmax increased dose proportionally over 20 to 240 mg dose range.
 Administration of osimertinib once daily results in approximately 3-fold accumulation with steady-state exposures achieved by 15 days of dosing.
-At steady-state, circulating plasma concentrations are typically maintained within a 1.6 fold range over the 24-hour dosing interval.
+At steady-state, circulating plasma concentrations are typically maintained within a 1.6-fold range over the 24-hour dosing interval.
 
 Absorption
 
 Following oral administration of TAGRISSO, peak plasma concentrations of osimertinib were achieved with a median (min-max) tmax of 6 (3-24) hours, with several peaks observed over the first 24 hours in some patients.
 The absolute bioavailability of TAGRISSO is 70% (90% CI 67, 73).
-Based on a clinical pharmacokinetic study in patients at 80 mg, food does not alter osimertinib bioavailability to a clinically meaningful extent.
-(AUC increase by 6% (90% CI -5, 19) and Cmax decrease by 7% (90% CI -19, 6)).
+Based on a clinical pharmacokinetic study in patients at 80 mg, food does not alter osimertinib bioavailability to a clinically meaningful extent (AUC increase by 6% (90% CI -5, 19) and Cmax decrease by 7% (90% CI -19, 6)).
 In healthy volunteers administered an 80 mg tablet where gastric pH was elevated by dosing of omeprazole for 5 days, osimertinib exposure was not affected (AUC and Cmax increase by 7% and 2%, respectively) with the 90% CI for exposure ratio contained within the 80-125% limit.
 
 Distribution
@@ -31,7 +31,6 @@ The geometric mean exposure of both AZ5104 and AZ7550, based on AUC, was approxi
 
 The main metabolic pathway of osimertinib was oxidation and dealkylation.
 At least 12 components were observed in the pooled urine and faecal samples in humans with 5 components accounting for >1% of the dose of which unchanged osimertinib, AZ5104 and AZ7550, accounted for approximately 1.9, 6.6 and 2.7% of the dose while a cysteinyl adduct (M21) and an unknown metabolite (M25) accounted for 1.5% and 1.9% of the dose, respectively.
-
 Based on in vitro studies, osimertinib is a competitive inhibitor of CYP 3A4/5 but not CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6 and 2E1 at clinically relevant concentrations.
 Based on in vitro studies, osimertinib is not an inhibitor of UGT1A1 and UGT2B7 at clinically relevant concentrations hepatically.
 Intestinal inhibition of UGT1A1 is possible but the clinical impact is unknown.
@@ -56,6 +55,7 @@ Population PK analysis indicated that body weight was a significant covariate wi
 Taking the extremes of body weight into consideration, from <43 kg to >88 kg, AZ5104 metabolite ratios ranged from 11.8% to 9.6% while for AZ7550 it ranged from 12.8% to 8.1%, respectively.
 Based on population PK analysis, serum albumin was identified as a significant covariate with a <30% change in osimertinib AUCss expected across the albumin range of 29 to 46 g/L respectively (95% to 5% quantiles) when compared to the AUCss for the median baseline albumin of 39 g/L.
 These exposure changes due to body weight or baseline albumin differences are not considered clinically relevant.
+
 Hepatic impairment
 
 Osimertinib is eliminated mainly via the liver.
@@ -75,4 +75,4 @@ Patients with CLcr less than or equal to 10 mL/min were not included in the clin
 
 Patients with brain metastases
 
-PET images following administration of microdoses of [11C]osimertinib in EGFR mutation positive NSCLC patients with brain metastases (n=4) and healthy volunteers (n=7) demonstrated that the brain to plasma ratio (Kp) was similar and that [11C]osimertinib crossed the blood brain barrier rapidly and was homogeneously distributed across all regions of the brain in both patients and healthy volunteers.
+PET images following administration of microdoses of [11C]osimertinib in EGFR mutation-positive NSCLC patients with brain metastases (n=4) and healthy volunteers (n=7) demonstrated that the brain to plasma ratio (Kp) was similar and that [11C]osimertinib crossed the blood brain barrier rapidly and was homogeneously distributed across all regions of the brain in both patients and healthy volunteers.
