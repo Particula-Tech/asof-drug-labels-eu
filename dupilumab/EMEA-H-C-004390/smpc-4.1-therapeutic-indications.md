@@ -26,3 +26,7 @@ Dupixent is indicated for the treatment of adults with moderate-to-severe prurig
 Eosinophilic esophagitis (EoE)
 
 Dupixent is indicated for the treatment of eosinophilic esophagitis in adults and adolescents 12 years and older, weighing at least 40 kg, who are inadequately controlled by, are intolerant to, or who are not candidates for conventional medicinal therapy (see section 5.1).
+
+Chronic obstructive pulmonary disease (COPD)
+
+Dupixent is indicated in adults as add-on maintenance treatment for uncontrolled chronic obstructive pulmonary disease (COPD) characterised by raised blood eosinophils on a combination of an inhaled corticosteroid (ICS), a long-acting beta2-agonist (LABA), and a long-acting muscarinic antagonist (LAMA), or on a combination of a LABA and a LAMA if ICS is not appropriate (see Section 5.1).

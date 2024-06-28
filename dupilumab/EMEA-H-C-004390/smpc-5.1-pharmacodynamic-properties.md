@@ -6,7 +6,7 @@ Mechanism of action
 
 Dupilumab is a recombinant human IgG4 monoclonal antibody that inhibits interleukin-4 and interleukin-13 signaling.
 Dupilumab inhibits IL-4 signaling via the Type I receptor (IL-4Rα/γc), and both IL-4 and IL-13 signaling through the Type II receptor (IL-4Rα/IL-13Rα).
-IL-4 and IL-13 are major drivers of human type 2 inflammatory disease, such as atopic dermatitis, asthma, CRSwNP, PN, and EoE.
+IL-4 and IL-13 are major drivers of human type 2 inflammatory disease, such as atopic dermatitis, asthma, CRSwNP, PN, EoE, and COPD.
 Blocking the IL-4/IL-13 pathway with dupilumab in patients decreases many of the mediators of type 2 inflammation.
 
 Pharmacodynamic effects
@@ -19,6 +19,11 @@ These reductions in type 2 inflammatory biomarkers were comparable for the 200 m
 In paediatric (6 to 11 years of age) patients with asthma, dupilumab treatment relative to placebo markedly decreased FeNO and circulating concentrations of total IgE, allergen specific IgE, and TARC, the type 2 biomarkers evaluated in clinical trials.
 These markers were near maximal suppression after 2 weeks of treatment, except for IgE which declined more slowly.
 These effects were sustained throughout treatment.
+
+In COPD patients, dupilumab treatment decreased type 2 biomarkers including FeNO and total IgE compared to placebo.
+Decreases in FeNO were observed by Week 4.
+These effects on type 2 biomarkers were sustained throughout treatment with dupilumab.
+
 Clinical efficacy and safety in atopic dermatitis
 
 Adults with atopic dermatitis
@@ -30,7 +35,6 @@ Eligible patients enrolled into the three studies had previous inadequate respon
 In all three studies, patients received dupilumab subcutaneous (SC) injections administered as 1) an initial dose of 600 mg dupilumab (two 300 mg injections) on day 1, followed by 300 mg once every two weeks (Q2W); or 2) an initial dose of 600 mg dupilumab on day 1, followed by 300 mg once weekly (QW); or 3) matching placebo.
 If needed to control intolerable symptoms of atopic dermatitis, patients were permitted to receive rescue treatment (which included higher potency topical steroids or systemic immunosuppressants) at the discretion of the investigator.
 Patients who received rescue treatment were considered non-responders.
-
 Endpoints
 In all three pivotal studies, the co-primary endpoints were the proportion of patients with IGA 0 or 1 (“clear” or “almost clear”) with a reduction of ≥ 2 points on a 0-4 IGA scale and the proportion of patients with improvement of at least 75 % in EASI (EASI-75).
 Key secondary and other clinically relevant secondary endpoints are presented in Table 5.
@@ -53,6 +57,7 @@ In SOLO 1,SOLO 2, and CHRONOS from baseline to week 16, a significantly greater 
 A significantly greater proportion of patients randomised to dupilumab alone or with TCS achieved a rapid improvement in the pruritus NRS compared to placebo or placebo + TCS ( defined as ≥ 4-point improvement as early as week 2, p < 0.01 and p < 0.05, respectively).
 
 A persistent treatment effect of dupilumab was observed in the CHRONOS study up to week 52 (see Table 6).
+
 The efficacy results for co-primary, key secondary and other clinically relevant secondary endpoints for all three studies are presented in Table 6.
 
 Table 6: Efficacy results of dupilumab monotherapy at week 16 (FAS) and with concomitant TCSa at week 16 and week 52
@@ -68,6 +73,14 @@ IGA 0 or 1c, 10.3 % 37.9 %g 8.5 % 36.1 %g 12.4 % 38.7 %g 12.5 % 36.0 %g
 % respondersd
 EASI-50, 24.6 % 68.8 %g 22.0 % 65.2 %g 37.5 % 80.2 %j 29.9 % 78.7 %j
 % respondersd
+
+Table 6: Efficacy results of dupilumab monotherapy at week 16 (FAS) and with concomitant TCSa at week 16 and week 52
+
+SOLO 1 Week 16 SOLO 2 Week 16 CHRONOS CHRONOS
+(FAS)b (FAS)b Week 16 (FAS)h Week 52 (FAS Week 52)h
+Placebo Dupilumab Placebo Dupilumab Placebo + Dupilumab Placebo + Dupilumab
+300 mg 300 mg TCS 300 mg Q2 TCS 300 mg Q2W
+Q2W Q2W W + TCS + TCS
 EASI-75, 14.7 % 51.3 %g 11.9 % 44.2 %g 23.2 % 68.9 %g 21.6 % 65.2 %g
 % respondersd
 EASI-90, 7.6 % 35.7 %g 7.2 % 30.0 %g 11.1 % 39.6 %j 15.5 % 50.6 %j
@@ -1040,6 +1053,163 @@ Figure 9: LS mean change from baseline in DSQ score over time in patients 12 yea
 Figure 10: Mean change from baseline in DSQ score over time in patients 12 years of age and older with EoE (TREET Parts B and C)
 
 Consistent with improvement in DSQ total score in TREET Parts A and B, nominally significant improvements were observed at week 24 compared to placebo in pain related to dysphagia (DSQ pain score), health-related QoL (EoE-IQ), and the frequency of other non-dysphagia symptoms (EoE-SQ).
+Clinical efficacy in chronic obstructive pulmonary disease (COPD)
+
+The chronic obstructive pulmonary disease (COPD) program included two randomized, double-blind, multicenter, parallel-group, placebo-controlled trials (BOREAS and NOTUS) of 52 weeks in treatment duration which enrolled a total of 1874 adult patients with COPD to evaluate dupilumab as add-on maintenance therapy.
+
+Both trials enrolled patients with a diagnosis of COPD with moderate to severe airflow limitation (post-bronchodilator FEV1/FVC ratio <0.7 and post-bronchodilator FEV1 of 30% to 70% predicted), chronic productive cough for at least 3 months in the past year, and a minimum blood eosinophil count of 300 cells/mcL at screening.
+Patients were uncontrolled with a Medical Research Council (MRC) dyspnoea score ≥ 2 (range 0-4) and an exacerbation history of at least 2 moderate or 1 severe exacerbation in the previous year despite receiving maintenance triple therapy consisting of a long-acting muscarinic antagonist (LAMA), long-acting beta agonist (LABA), and inhaled corticosteroid (ICS).
+Patients were allowed to receive maintenance therapy consisting of a LAMA and LABA if an ICS was not appropriate.
+Exacerbations were defined as moderate severity if treatment with systemic corticosteroids and/or antibiotics was required or severe if they resulted in hospitalization or observation for over 24 hours in an emergency department or urgent care facility.
+
+In both trials, patients were randomized to receive dupilumab 300 mg every two weeks (Q2W) or placebo in addition to their background maintenance therapy for 52 weeks.
+
+In both trials, the primary endpoint was the annualized rate of moderate or severe COPD exacerbations during the 52-week treatment period.
+Secondary endpoints included change from baseline in pre-bronchodilator FEV1 in the overall population and in the subgroup of patients with baseline FeNO ≥ 20 ppb at Weeks 12 and 52, change from baseline in St. George’s Respiratory Questionnaire (SGRQ) total score at Week 52, and annualized rate of moderate or severe COPD exacerbations in the subgroup of patients with baseline FeNO ≥ 20 ppb during the 52-week treatment period.
+
+The demographics and baseline characteristics of BOREAS and NOTUS are provided in Table 28.
+
+Table 28: Demographics and baseline characteristics (BOREAS and NOTUS)
+
+| Parameter | BOREAS (N = 939) | NOTUS (N = 935) |
+| --- | --- | --- |
+| Mean age (years) (± SD) | 65.1 (8.1) | 65.0 (8.3) |
+| Male (%) | 66.0 | 67.6 |
+| White (%)c | 84.1 | 89.6 |
+| Mean smoking history (pack-years) (± SD) | 40.48 (23.35) | 40.3 (27.2) |
+| Current Smokers (%) | 30 | 29.5 |
+| Emphysema (%) | 32.6 | 30.4 |
+| Mean Duration of COPD (years) (± SD) | 8.8 (6.0) | 9.3 (6.4) |
+| Mean number of moderatea or severeb exacerbations in previous year (± SD) | 2.3 (1.0) | 2.1 (0.9) |
+| Mean number of severe exacerbationsb in previous year (± SD) | 0.3 (0.7) | 0.3 (0.6) |
+| Background COPD medications at randomization: ICS/LAMA/LABA (%) | 97.6 | 98.8 |
+| Mean post-bronchodilator FEV1/FVC ratio (± SD) | 0.49 (0.12) | 0.50 (0.12) |
+| Mean pre-bronchodilator FEV1 (L) (± SD) | 1.30 (0.46) | 1.36 (0.50) |
+| Mean post-bronchodilator FEV1 (L) (± SD) | 1.40 (0.47) | 1.45 (0.49) |
+| Mean percent predicted post-bronchodilator FEV1 (%) (± SD) | 50.6 (13.1) | 50.1 (12.6) |
+| Mean percent predicted post-bronchodilator FEV1 <50% (%) (± SD) | 467 (49.7) | 478 (51.3) |
+| Mean SGRQ Total score (± SD) | 48.42 (17.42) | 51.5 (17.0) |
+| Mean E-RS:COPD [total score] (± SD) | 12.9 (7.1) | 13.3 (7.0) |
+| Mean BODE index score (± SD) | 4.06 (1.66) | 4.0 (1.6) |
+| Mean FeNO ppb (± SD) | 24.3 (22.4) | 24.6 (26.0) |
+| Mean baseline blood eosinophil count (cells/mcL) (± SD) | 401 (298) | 407 (336) |
+| Median baseline blood eosinophil count (cells/mcL) (Q1-Q3) | 340 (240-460) | 330 (220-460) |
+
+ICS = inhaled corticosteroid; LAMA = long acting muscarinic antagonist; LABA = long acting beta agonist, FEV1= forced expiratory volume in 1 second; FVC = forced vital capacity; FeNO = fraction of exhaled nitric oxide; BODE = body-mass index, airflow obstruction, dyspnea, exercise capacity a Exacerbations treated with either systemic corticosteroids and/or antibiotics b Exacerbations requiring hospitalization or observation for over 24 hours in an emergency department or urgent care facility c In BOREAS, 0.5% of participants were Black and 14.3% were Asian.
+In NOTUS, 1.3% of participants were Black and 1.1% were Asian
+Exacerbations
+In both trials, dupilumab demonstrated a statistically significant reduction in the annualized rate of moderate or severe COPD exacerbations compared to placebo when added to background maintenance therapy (see Table 29).
+
+Table 29: Annualized Rate of moderatea or severeb COPD exacerbations in BOREAS and NOTUS
+
+% Reduction
+Rate Ratio in
+Treatment Rate
+Trial vs. Placebo Exacerbation
+(N) (exacerbations/year)
+(95% CI) Rate vs.
+Placebo
+Primary Endpoint: Moderatea or Severeb COPD exacerbations
+Dupilumab 0.705
+300 mg Q2W 0.78 (0.581,
+30%
+BOREAS (N=468) 0.857)c
+Placebo
+1.10
+(N=471)
+Dupilumab 0.664
+300 mg Q2W 0.86 (0.535, 34%
+NOTUS (N=470) 0.823)d
+Placebo
+1.30
+(N=465)
+Pooled Component of Primary Endpoint e: Severeb COPD exacerbations
+Dupilumab 0.674
+300 mg Q2W 0.08 (0.438 to 33%
+BOREAS and (N=938) 1.037)
+NOTUS
+Placebo
+0.12
+(N=936)
+
+a Exacerbations treated with either systemic corticosteroids and/or antibiotics b Exacerbations requiring hospitalization, or observation for >24 hours in an emergency department/urgent care facility or resulting in death c p value = 0.0005 d p value = 0.0002 e Analysis of the component of the primary endpoint was not adjusted for multiplicity
+In both trials, the cumulative mean number of moderate or severe exacerbations observed over 52 weeks was lower in patients receiving dupilumab compared to placebo (see Figure 11a and 11b).
+
+Figure 11: Cumulative mean number of moderate or severe COPD exacerbations over 52 weeks in BOREAS and NOTUS
+
+Fig 11a.
+BOREAS Fig 11b.
+NOTUS
+
+The time to first moderate or severe COPD exacerbation was longer for patients receiving dupilumab compared to placebo in BOREAS (HR: 0.803; 95% CI: 0.658, 0.980) and NOTUS (HR: 0.71.; 95% CI: 0.57, 0.889).
+
+In the subgroup analysis of patients with a higher baseline FeNO (≥ 20 ppb) in BOREAS (N=383), treatment with dupilumab statistically significantly reduced the annualized rate of moderate or severe COPD exacerbations compared to placebo (Rate Ratio: 0.625; 95% CI: 0.45, 0.869; p=0.005).
+In NOTUS, treatment with dupilumab showed a nominally significant reduction in the annualized rate of moderate or severe COPD exacerbations in the subgroup of patients with a higher baseline FeNO (≥20 ppb) (N=355) compared to placebo (Rate Ratio: 0.471; 95% CI: 0.328, 0.675; p<0.0001).
+
+Reductions in the annualized rate of moderate or severe exacerbations were observed across all predefined subgroups including age, gender, race, smoking status, blood eosinophil counts, number of exacerbations in previous year (≤2, 3, and ≥4), high-dose ICS at baseline, and baseline percent predicted post-bronchodilator FEV1 (<50%, ≥50%).
+In patients with emphysema, reduction in the rate of moderate or severe exacerbations was consistent with the overall population.
+
+Lung Function
+
+In both trials, dupilumab demonstrated a statistically significant improvement in pre-bronchodilator FEV1 at Weeks 12 and 52 compared to placebo when added to background maintenance therapy (see Table 30).
+Greater improvements in lung function (LS mean change from baseline in pre-bronchodilator FEV1) were observed in patients treated with dupilumab compared to placebo as early as Week 2 (BOREAS) (first assessment) and Week 4 (NOTUS) and were sustained at Week 52 (see Figures 12a and 12b).
+
+In BOREAS, rapid improvements in post-bronchodilator FEV1, post-bronchodilator FEV1/FVC ratio, and pre-bronchodilator FVC were observed with dupilumab treatment compared to placebo as early as Week 2 (first assessment) and were maintained through Week 52.
+In NOTUS, rapid improvements in post-bronchodilator FEV1 and post-bronchodilator FEV1/FVC ratio were observed with dupilumab treatment compared to placebo as early as week 8 and week 2, respectively, and were maintained through Week 52.
+
+Table 30: Mean change from baseline for lung function endpoints in BOREAS and NOTUS
+
+|  |  | BOREAS |  |  | NOTUS |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Dupiluma | Placebo | Difference | Dupiluma | Placebo | Difference |
+|  | b | (N=471) | (95% CI) for | b | (N=465) | (95% CI) for |
+|  | (N=468) |  | Dupilumab vs. | (N=470) |  | Dupilumab vs. |
+|  |  |  | Placebo |  |  | Placebo |
+| Change from baseline in pre- | 0.160 | 0.077 | 0.083 | 0.139 | 0.057 | 0.082 (0.040 to |
+| bronchodilator FEV1 at Week | (0.018) | (0.018) | (0.042 to | (0.017) | (0.017) | 0.124)f |
+| 12, LS Mean (SE) |  |  | 0.125)a |  |  |  |
+| Change from baseline in pre- | 0.153 | 0.070 | 0.083 | 0.115 | 0.054 | 0.062 |
+| bronchodilator FEV1 at Week | (0.019) | (0.019) | (0.038 to | (0.021) | (0.020) | (0.011 to |
+| 52, LS Mean (SE)k |  |  | 0.128)b |  |  | 0.113)g |
+| Change from baseline in post- | 0.156 | 0.084 | 0.072 | 0.136 | 0.064 | 0.072 (0.023 to |
+| bronchodilator FEV1 at Week | (0.018) | (0.018) | (0.030 to | (0.020) | (0.020) | 0.121)h |
+| 12, LS Mean (SE) |  |  | 0.115)c |  |  |  |
+| Change from baseline in post- | 0.037 | 0.023 | 0.014 | 0.030 | 0.013 | 0.017 (0.006 to |
+| bronchodilator FEV1/FVC | (0.004) | (0.004) | (0.005 | (0.004) | (0.004) | 0.028)i |
+| ratio at Week 12, LS Mean |  |  | to0.023)d |  |  |  |
+| (SE) |  |  |  |  |  |  |
+| Change from baseline in pre- | 0.098 | 0.029 | 0.069 | 0.083 | 0.018 | 0.066 (0.005 to |
+| bronchodilator FVC at Week | (0.022) | (0.022) | (0.016 to | (0.024) | (0.024) | 0.126)j |
+| 12, LS Mean (SE) |  |  | 0.121)e |  |  |  |
+
+LS = least squares, SE = standard error, FEV1 = forced expiratory volume in 1 second, FVC = forced vital capacity ap-value < 0.0001, bp-value = 0.0003 (all statistically significant vs placebo with adjustment for multiplicity) cnominal p-value = 0.0010, dnominal p-value = 0.0016 enominal p-value = 0.0103 fp-value=0.0001, gp-value=0.0182 (all statistically significant vs placebo with adjustment for multiplicity) hnominal p-value=0.0042 ,inominal p-value=0.0020, jnominal p-value=0.0327 k Efficacy results for mean change from baseline in pre-bronchodilator FEV1 at Week 52 are presented for 721 out of 935 patients who completed the 52-week treatment period or had discontinued the trial at the time of data analysis.
+
+Figure 12: Mean change from baseline in pre-bronchodilator FEV1 (L) over time in BOREAS and NOTUSa
+
+Fig12a.
+BOREAS Fig12b.
+NOTUS
+
+a Efficacy results for mean change from baseline in pre-bronchodilator FEV1 over time are presented for 721 out of 935 patients who completed the 52-week treatment period or had discontinued the trial at the time of data analysis.
+
+In the subgroup analysis of patients with higher baseline FeNO (≥ 20 ppb) in BOREAS (N=383), treatment with dupilumab statistically significantly improved pre-bronchodilator FEV1 from baseline at Week 12 (LS mean change: 0.232 dupilumab vs 0.108 placebo; LS mean difference: 0.124 [95% CI: 0.045, 0.203]; p=0.002) and Week 52 (LS mean change: 0.247 dupilumab vs 0.120 placebo; LS mean difference: 0.127 [95% CI: 0.042, 0.212]; p=0.003) compared to placebo.
+In NOTUS, statistically significant improvement from baseline was observed in the subgroup of patients with a higher baseline FeNO (≥20 ppb) at Week 12 (N=355; LS mean change: 0.221 dupilumab vs 0.081 placebo; LS mean difference: 0.141 [95% CI: 0.058, 0.223]; p=0.001).
+Treatment with dupilumab improved pre-bronchodilator FEV1 at Week 52 in the subgroup of patients with higher baseline FeNO (≥20 ppb) compared to placebo in NOTUS (N=264; LS mean change: 0.176 dupilumab vs 0.095 placebo; LS mean difference: 0.081[95% CI: -0.019, 0.181]) but did not meet statistical significance.
+
+Improvements in lung function as measured by pre-bronchodilator FEV1 were observed across all predefined subgroups including age, gender, race, smoking status, blood eosinophil counts, number of exacerbations in previous year (≤2, 3, and ≥4), high-dose ICS at baseline, and baseline percent predicted post-bronchodilator FEV1 (<50%, ≥50%).
+In patients with emphysema, improvement in lung function as measured by pre-bronchodilator FEV1 was consistent with the overall population.
+
+Health-Related Quality of Life
+
+In BOREAS, a statistically significant improvement in SGRQ total score was observed in patients treated with dupilumab compared to placebo (LS mean change: -9.73 dupilumab vs -6.37 placebo; LS mean difference: -3.36 [95% CI: -5.46, -1.27]; p=0.0017).
+In NOTUS, dupilumab nominally improved SGRQ total score at Week 52 compared to placebo (LS mean change: -9.82 dupilumab vs -6.44 placebo; LS mean difference: -3.37; 95% CI: -5.81, -0.93]; p=0.007).
+
+Patients with post-bronchodilator FEV1 <30% or >70%
+
+Patients with post-bronchodilator FEV1 <30% or >70% at screening were excluded from BOREAS and NOTUS.
+However, limited data are available in patients with post-bronchodilator FEV1
+<30% or >70% at baseline.
+
 Paediatric population
 
 Atopic dermatitis
@@ -1066,7 +1236,7 @@ Eighteen patients (≥ 15 kg to < 30 kg) out of 365 patients were exposed to 300
 Safety and efficacy in paediatric patients < 6 years of age with asthma have not been established.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with dupilumab in one or more subset of the paediatric population in asthma and EoE (see section 4.2 for information on paediatric use).
-The European Medicines Agency has waived the obligation to submit the results of studies with dupilumab in all subsets of the paediatric population in the treatment of nasal polyposis and prurigo nodularis (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with dupilumab in all subsets of the paediatric population in the treatment of nasal polyposis, prurigo nodularis and chronic obstructive pulmonary disease (see section 4.2 for information on paediatric use).
 Obligations related to the paediatric investigation plans for atopic dermatitis have been fulfilled.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
@@ -1217,7 +1387,6 @@ Improvements in percent predicted FEV1 over time in VOYAGE are shown in Figure 2
 
 Figure 2: Mean change from baseline in percent predicted pre-bronchodilator FEV1 (L) over time in VOYAGE (baseline blood eosinophils ≥ 150 cells/mcL or FeNO ≥ 20 ppb, baseline eosinophils ≥ 300 cells/mcL, and baseline FeNO ≥ 20 ppb)
 
-Long termuse is supported by study AD-1434 which enrolled 823 paediatric patients aged 6 months to 17 years of age; this included 275 adolescents, 368 children 6 to 11 years of age, and 180 children 6 months to 5 years of age.
-Safety and efficacy in paediatric patients < 6 monthsof age with atopic dermatitis have not been established.
+Long term use is supported by study AD-1434 which enrolled 823 paediatric patients aged 6 months to 17 years of age; this included 275 adolescents, 368 children 6 to 11 years of age, and 180 children 6 months to 5 years of age.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with dupilumab in one or more subset of the paediatric population in asthma (see section 4.2 for information on paediatric use).

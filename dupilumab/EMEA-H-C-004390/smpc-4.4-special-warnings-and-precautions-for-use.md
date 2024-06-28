@@ -4,8 +4,9 @@ Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-Acute asthma exacerbations
-Dupilumab should not be used to treat acute asthma symptoms or acute exacerbations.
+Acute exacerbations of Asthma or COPD
+
+Dupilumab should not be used to treat acute symptoms or acute exacerbations of asthma or COPD.
 Dupilumab should not be used to treat acute bronchospasm or status asthmaticus.
 
 Corticosteroids
@@ -32,7 +33,6 @@ Patients being treated for asthma may present with serious systemic eosinophilia
 These events usually, but not always, may be associated with the reduction of oral corticosteroid therapy.
 
 Helminth infection
-
 Patients with known helminth infections were excluded from participation in clinical studies.
 Dupilumab may influence the immune response against helminth infections by inhibiting IL-4/IL-13 signaling.
 Patients with pre-existing helminth infections should be treated before initiating dupilumab.
@@ -46,6 +46,7 @@ Some patients reported visual disturbances (e.g. blurred vision) associated with
 
 Patients should be advised to report new onset or worsening eye symptoms to their healthcare provider.
 Patients treated with dupilumab who develop conjunctivitis that does not resolve following standard treatment or signs and symptoms suggestive of keratitis should undergo ophthalmological examination, as appropriate (see section 4.8).
+
 Patients with comorbid asthma
 
 Patients on dupilumab who also have co-morbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
@@ -63,6 +64,9 @@ Sodium content
 This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose, that is to say essentially ‘sodium-free’.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
+
+Acute asthma exacerbations
+Dupilumab should not be used to treat acute asthma symptoms or acute exacerbations.
 
 Patients on dupilumab who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
 
