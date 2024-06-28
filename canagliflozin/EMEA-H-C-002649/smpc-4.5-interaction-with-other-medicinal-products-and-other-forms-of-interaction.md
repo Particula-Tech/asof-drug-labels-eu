@@ -10,13 +10,13 @@ Insulin and insulin secretagogues
 
 Insulin and insulin secretagogues, such as sulphonylureas, can cause hypoglycaemia.
 Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with canagliflozin (see sections 4.2 and 4.8).
+
 Pharmacokinetic interactions
 
 Effects of other medicinal products on canagliflozin
 
 The metabolism of canagliflozin is primarily via glucuronide conjugation mediated by UDP glucuronosyl transferase 1A9 (UGT1A9) and 2B4 (UGT2B4).
 Canagliflozin is transported by P-glycoprotein (P-gp) and Breast Cancer Resistance Protein (BCRP).
-
 Enzyme inducers (such as St. John’s wort [Hypericum perforatum], rifampicin, barbiturates, phenytoin, carbamazepine, ritonavir, efavirenz) may decrease the exposure to canagliflozin.
 Following co-administration of canagliflozin with rifampicin (an inducer of various active transporters and medicinal product-metabolising enzymes), 51% and 28% decreases in canagliflozin systemic exposure (AUC) and peak concentration (Cmax) were observed.
 These decreases in exposure to canagliflozin may decrease efficacy.
@@ -36,6 +36,10 @@ Digoxin
 The combination of canagliflozin 300 mg once daily for 7 days with a single dose of digoxin 0.5 mg followed by 0.25 mg daily for 6 days resulted in a 20% increase in AUC and a 36% increase in Cmax of digoxin, probably due to inhibition of P-gp.
 Canagliflozin has been observed to inhibit P-gp in vitro.
 Patients taking digoxin or other cardiac glycosides (e.g., digitoxin) should be monitored appropriately.
+
+Lithium
+The concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations.
+Monitor serum lithium concentration more closely during treatment with canagliflozin, especially during initiation and dosage changes.
 
 Dabigatran
 The effect of concomitant administration of canagliflozin (a weak P-gp inhibitor) on dabigatran etexilate (a P-gp substrate) has not been studied.

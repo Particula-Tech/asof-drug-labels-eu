@@ -48,7 +48,7 @@ Table 2: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-
 | common | Polyuria or Pollakiuriai |
 | uncommon | Renal failure (mainly in the context of volume depletion) |
 | Investigations |  |
-| common | Dyslipidemial, Haematocrit increasedb, m |
+| common | Dyslipidaemial, Haematocrit increasedb, m |
 | uncommon | Blood creatinine increasedb, n, Blood urea increasedb, o, Blood potassium increasedb, p, Blood phosphate increasedq |
 | Surgical and medical procedures |  |
 | uncommon | Lower limb amputations (mainly of the toe and midfoot) especially in patients at high risk for heart diseaseb |
@@ -78,7 +78,6 @@ Description of selected adverse reactions
 Diabetic ketoacidosis
 
 In a long-term renal outcomes study in patients with type 2 diabetes and diabetic kidney disease, incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with canagliflozin 100 mg and placebo, respectively; of the 14 patients with DKA, 8 (7 on canagliflozin 100 mg and 1 on placebo) had a pretreatment eGFR of 30 to ˂ 45 mL/min/1.73 m2 (see section 4.4).
-
 Lower limb amputation
 
 In patients with type 2 diabetes who had established cardiovascular disease or at least two risk factors for cardiovascular disease, canagliflozin was associated with an increased risk of lower limb amputation as observed in the Integrated CANVAS Program comprised of CANVAS and CANVAS-R, two large, long-term, randomised, placebo-controlled trials evaluating 10,134 patients.
@@ -118,6 +117,7 @@ Adverse reactions related to volume depletion
 
 In the pooled analysis of the four 26-week, placebo-controlled studies, the incidence of all adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension, dehydration, and syncope) was 1.2% for canagliflozin 100 mg, 1.3% for canagliflozin 300 mg, and 1.1% for placebo.
 The incidence with canagliflozin treatment in the two active-controlled studies was similar to comparators.
+
 In one of the dedicated long-term cardiovascular studies (CANVAS), where patients were generally older with a higher rate of diabetes complications, the incidence rates of adverse reactions related to volume depletion were 2.3 with canagliflozin 100 mg, 2.9 with canagliflozin 300 mg, and 1.9 with placebo, events per 100 patient-years.
 
 To assess risk factors for these adverse reactions, a larger pooled analysis (N = 12,441) of patients from 13 controlled phase 3 and phase 4 studies including both doses of canagliflozin was conducted.
@@ -183,11 +183,11 @@ Mean baseline eGFR was 62.5, 64.7, and 63.5 mL/min/1.73 m2 for canagliflozin 100
 
 Renal impairment in patients with insufficiently controlled type 2 diabetes mellitus
 Patients with a baseline eGFR < 60 mL/min/1.73 m2 had a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) with incidence rates of 5.3, 5.1, and 3.1 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively (see sections 4.2 and 4.4).
+
 The overall incidence rate of elevated serum potassium was higher in patients with moderate renal impairment with incidence rates of 4.9, 6.1, and 5.4 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 In general, elevations were transient and did not require specific treatment.
 
 In patients with moderate renal impairment, increases in serum creatinine of 9.2 µmol/L and BUN of approximately 1.0 mmol/L were observed with both doses of canagliflozin.
-
 The incidence rates for larger decreases in eGFR (> 30%) at any time during treatment were 7.3, 8.1, and 6.5 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 At the last post-baseline value, incidence rates of such decreases were 3.3 for patients treated with canagliflozin 100 mg, 2.7 for canagliflozin 300 mg, and 3.7 events per 100 patient-years of exposure for placebo (see section 4.4).
 

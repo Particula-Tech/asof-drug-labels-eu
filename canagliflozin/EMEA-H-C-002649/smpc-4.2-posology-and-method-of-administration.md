@@ -38,10 +38,10 @@ Hepatic impairment
 For patients with mild or moderate hepatic impairment, no dose adjustment is required.
 
 Canagliflozin has not been studied in patients with severe hepatic impairment and is not recommended for use in these patients (see section 5.2).
+
 Paediatric population
 The safety and efficacy of canagliflozin in children under 18 years of age have not yet been established.
 No data are available.
-
 Method of administration
 
 For oral use

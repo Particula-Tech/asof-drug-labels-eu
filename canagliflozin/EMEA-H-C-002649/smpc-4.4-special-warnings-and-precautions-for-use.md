@@ -16,15 +16,16 @@ Monitoring of renal function is recommended as follows:
 - Prior to initiation of canagliflozin and at least annually, thereafter (see sections 4.2, 4.8, 5.1, and 5.2)
 - Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter.
 
-There is experience with canagliflozin for the treatment of diabetic kidney disease (eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
+There is experience with canagliflozin for the treatment of diabetic kidney disease
+(eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
 While both groups of patients benefitted, patients with albuminuria may benefit more from treatment with canagliflozin.
 
 Use in patients at risk for adverse reactions related to volume depletion
 
 Due to its mechanism of action, canagliflozin, by increasing urinary glucose excretion (UGE) induces an osmotic diuresis, which may reduce intravascular volume and decrease blood pressure (see section 5.1).
 In controlled clinical studies of canagliflozin, increases in adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, or hypotension) were seen more commonly with the 300 mg dose and occurred most frequently in the first three months (see section 4.8).
-Caution should be exercised in patients for whom a canagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients with an eGFR < 60 mL/min/1.73 m2, patients on anti-hypertensive therapy with a history of hypotension, patients on diuretics, or elderly patients (≥65 years of age) (see sections 4.2 and 4.8).
 
+Caution should be exercised in patients for whom a canagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients with an eGFR < 60 mL/min/1.73 m2, patients on anti-hypertensive therapy with a history of hypotension, patients on diuretics, or elderly patients (≥65 years of age) (see sections 4.2 and 4.8).
 Due to volume depletion, generally small mean decreases in eGFR were seen within the first 6 weeks of treatment initiation with canagliflozin.
 In patients susceptible to greater reductions in intravascular volume as described above, larger decreases in eGFR (> 30%) were sometimes seen, which subsequently improved, and infrequently required interruption of treatment with canagliflozin (see section 4.8).
 
@@ -45,14 +46,20 @@ Risk of DKA appears to be higher in patients with moderately to severely decreas
 The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
 Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
 
-In patients where DKA is suspected or diagnosed, treatment with canagliflozin should be discontinued immediately.
+In patients where DKA is suspected or diagnosed, treatment with Invokana should be discontinued immediately.
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
 Monitoring of ketones is recommended in these patients.
-Measurement of blood ketone levels is preferred to urine.
-Treatment with canagliflozin may be restarted when the ketone values are normal and the patient’s condition has stabilised.
 
-Before initiating canagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
+Measurement of blood ketone levels is preferred to urine.
+Treatment with Invokana may be restarted when the ketone values are normal and the patient’s condition has stabilised.
+
+Before initiating Invokana, factors in the patient history that may predispose to ketoacidosis should be considered.
+
+Diabetic ketoacidosis may be prolonged after discontinuation of Invokana in some patients, i.e. it may last longer than expected from the plasma half-life of canagliflozin (see section 5.2).
+Prolonged glucosuria has been observed along with persistent DKA.
+Canagliflozin-independent factors might be involved in prolonged periods of DKA.
+Insulin deficiency may contribute to prolonged diabetic ketoacidosis and has to be corrected when verified.
 
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g., type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
@@ -74,12 +81,12 @@ Consideration may also be given to stopping treatment with Invokana in patients 
 
 Necrotising fasciitis of the perineum (Fournier’s gangrene)
 
-Post-marketing cases of necrotising fasciitis of the perineum, (also known as Fournier's gangrene), have been reported in female and male patients taking SGLT2 inhibitors.
+Post-marketing cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients taking SGLT2 inhibitors.
 This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
 
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
 Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
-If Fournier's gangrene is suspected, Invokana should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
+If Fournier’s gangrene is suspected, Invokana should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
 
 Elevated haematocrit
 
