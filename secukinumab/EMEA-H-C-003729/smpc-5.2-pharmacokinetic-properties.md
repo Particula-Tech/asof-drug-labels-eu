@@ -46,10 +46,10 @@ The CL was not impacted by gender.
 Clearance was dose- and time-independent.
 
 The mean elimination half-life, as estimated from population pharmacokinetic analysis, was 27 days in plaque psoriasis patients, ranging from 18 to 46 days across psoriasis studies with intravenous administration.
+
 Linearity/non-linearity
 The single and multiple dose pharmacokinetics of secukinumab in plaque psoriasis patients were determined in several studies with intravenous doses ranging from 1x 0.3 mg/kg to 3x 10 mg/kg and with subcutaneous doses ranging from 1x 25 mg to multiple doses of 300 mg.
 Exposure was dose proportional across all dosing regimens.
-
 Special populations
 
 Patients with renal or hepatic impairment
