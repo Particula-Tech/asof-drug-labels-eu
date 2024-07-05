@@ -8,6 +8,7 @@ Limited clinical data suggest a comparable effect on time to recovery of severe 
 However, the long-term effects of pegfilgrastim have not been established in AML; therefore, it should be used with caution in this patient population.
 
 G-CSF can promote growth of myeloid cells in vitro and similar effects may be seen on some non-myeloid cells in vitro.
+
 The safety and efficacy of pegfilgrastim have not been investigated in patients with myelodysplastic syndrome, chronic myelogenous leukaemia, and in patients with secondary AML; therefore, it should not be used in such patients.
 Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from AML.
 
@@ -23,7 +24,6 @@ Patients with a recent history of pulmonary infiltrates or pneumonia may be at h
 
 The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of acute respiratory distress syndrome (ARDS).
 In such circumstances pegfilgrastim should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
-
 Glomerulonephritis
 
 Glomerulonephritis has been reported in patients receiving filgrastim and pegfilgrastim.
@@ -46,18 +46,11 @@ Thrombocytopenia and anaemia
 Treatment with pegfilgrastim alone does not preclude thrombocytopenia and anaemia because full dose myelosuppressive chemotherapy is maintained on the prescribed schedule.
 Regular monitoring of platelet count and haematocrit is recommended.
 Special care should be taken when administering single or combination chemotherapeutic agents which are known to cause severe thrombocytopenia.
+
 Myelodysplastic syndrome and acute myeloid leukaemia in breast and lung cancer patients
 
 In the post-marketing observational study setting, pegfilgrastim in conjunction with chemotherapy and/or radiotherapy has been associated with development of myelodysplastic syndrome (MDS) and acute myeloid leukaemia (AML) in breast and lung cancer patients (see section 4.8).
 Monitor breast and lung cancer patients for signs and symptoms of MDS/AML.
-
-Medication error as a result of device failure
-
-There is a risk of medication error, particularly a partial or missed dose of pegfilgrastim, in the event of a device failure or malfunction with the on-body injector.
-In the event of a partial or missed dose, patients may be at increased risk of events such as neutropenia, febrile neutropenia and/or infection than if the dose had been correctly delivered.
-The healthcare professional must ensure the patient receives appropriate training about the on-body injector and understands that if they suspect a device failure or malfunction the patient must immediately inform a healthcare professional as they may need a replacement dose.
-Comprehensive instructions for use for healthcare professionals and patients are given in the package leaflet.
-The patient should also be given the Patient Alert Card.
 
 Sickle cell anaemia
 
@@ -89,6 +82,7 @@ Immunogenicity
 As with all therapeutic proteins, there is a potential for immunogenicity.
 Rates of generation of antibodies against pegfilgrastim is generally low.
 Binding antibodies do occur as expected with all biologics; however, they have not been associated with neutralising activity at present.
+
 Aortitis
 
 Aortitis has been reported after G-CSF administration in healthy subjects and in cancer patients.
@@ -101,9 +95,6 @@ Other warnings
 The safety and efficacy of Neulasta for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
 
 The needle cap of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
-
-The on-body injector uses an acrylic adhesive.
-For patients who have reactions to acrylic adhesives, use of this product may result in an allergic reaction.
 
 Increased haematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging findings.
 This should be considered when interpreting bone-imaging results.

@@ -6,7 +6,6 @@ Concomitant use of Neulasta with any chemotherapy agent has not been evaluated i
 In animal models concomitant administration of Neulasta and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.
 
 Possible interactions with other haematopoietic growth factors and cytokines have not been specifically investigated in clinical trials.
-
 The potential for interaction with lithium, which also promotes the release of neutrophils, has not been specifically investigated.
 There is no evidence that such an interaction would be harmful.
 

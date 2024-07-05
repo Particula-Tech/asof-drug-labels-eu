@@ -3,7 +3,7 @@
 Pharmacotherapeutic group: immunostimulants, colony stimulating factor; ATC Code: L03AA13
 
 Human granulocyte-colony stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow.
-Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule.
+Pegfilgrastim is a covalent conjugate of recombinant methionyl human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule.
 Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance.
 Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes.
 Similarly to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function.
@@ -28,7 +28,3 @@ Long-term outcome was not studied (see section 4.4).
 
 In a phase II (n = 37) multicentre, randomised, open-label study of paediatric sarcoma patients receiving 100 mcg/kg pegfilgrastim following cycle 1 of vincristine, doxorubicin and cyclophosphamide (VAdriaC/IE) chemotherapy, a longer duration of severe neutropenia (neutrophils < 0.5 × 109/L) was observed in younger children aged 0-5 years (8.9 days) compared to older children aged 6-11 years and 12-21 years (6 days and 3.7 days, respectively) and adults.
 Additionally a higher incidence of febrile neutropenia was observed in younger children aged 0-5 years (75%) compared to older children aged 6-11 years and 12-21 years (70% and 33%, respectively) and adults (see sections 4.8 and 5.2).
-
-In a phase I (n = 253) randomised, single dose, parallel-group study conducted in healthy subjects the exposure (mean serum concentration-time profiles) of pegfilgrastim delivered by manual injection and by the on-body injector were comparable.
-The rate (Cmax) and extent (AUC0-inf) of the absorption of pegfilgrastim delivered by the on-body injector were similar to those from the manual injection of the pre-filled syringe.
-The least-squares geometric mean ratios (90% CIs) (on-body injector to manual injection) were 0.97 (0.83, 1.14) for Cmax and 1.00 (0.84, 1.20) for AUC0-inf within the pre-specified bioequivalence limit of 0.80 to 1.25, and established bioequivalence between the two delivery methods of a single 6 mg dose of pegfilgrastim.
