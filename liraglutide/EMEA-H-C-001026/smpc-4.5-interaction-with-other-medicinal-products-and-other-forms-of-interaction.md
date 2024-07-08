@@ -23,12 +23,12 @@ Atorvastatin
 Liraglutide did not change the overall exposure of atorvastatin to a clinically relevant degree following single dose administration of atorvastatin 40 mg.
 Therefore, no dose adjustment of atorvastatin is required when given with liraglutide.
 Atorvastatin Cmax was decreased by 38% and median tmax was delayed from 1 h to 3 h with liraglutide.
-
 Griseofulvin
 
 Liraglutide did not change the overall exposure of griseofulvin following administration of a single dose of griseofulvin 500 mg.
 Griseofulvin Cmax increased by 37% while median tmax did not change.
 Dose adjustments of griseofulvin and other compounds with low solubility and high permeability are not required.
+
 Digoxin
 
 A single dose administration of digoxin 1 mg with liraglutide resulted in a reduction of digoxin AUC by 16%; Cmax decreased by 31%.

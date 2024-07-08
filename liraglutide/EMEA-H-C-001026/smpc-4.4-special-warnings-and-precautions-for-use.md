@@ -20,7 +20,6 @@ Thyroid disease
 
 Thyroid adverse events, such as goitre, have been reported in clinical trials and in particular in patients with pre-existing thyroid disease.
 Liraglutide should therefore be used with caution in these patients.
-
 Hypoglycaemia
 
 Patients receiving liraglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia (see section 4.8).

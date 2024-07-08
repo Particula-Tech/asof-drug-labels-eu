@@ -19,7 +19,6 @@ The mechanism of blood glucose lowering also involves a minor delay in gastric e
 Liraglutide reduces body weight and body fat mass through mechanisms involving reduced hunger and lowered energy intake, GLP-1 is a physiological regulator of appetite and food intake, but the exact mechanism of action is not entirely clear.
 
 In animal studies, peripheral administration of liraglutide led to uptake in specific brain regions involved in regulation of appetite, where liraglutide via specific activation of the GLP-1 receptor (GLP-1R) increased key satiety and decreased key hunger signals, thereby leading to lower body weight.
-
 GLP-1 receptors are also expressed in specific locations in the heart, vasculature, immune system, and kidneys.
 In mouse models of atherosclerosis, liraglutide prevented aortic plaque progression and reduced inflammation in the plaque.
 In addition, liraglutide had a beneficial effect on plasma lipids.
@@ -37,7 +36,6 @@ Five double-blind, randomised, controlled clinical phase 3a adult trials were co
 Treatment with liraglutide produced clinically and statistically significant improvements in glycosylated haemoglobin A1c (HbA1c), fasting plasma glucose and postprandial glucose compared with placebo.
 
 These trials included 3,978 exposed patients with type 2 diabetes mellitus (2,501 patients treated with liraglutide), 53.7% men and 46.3% women, 797 patients (508 treated with liraglutide) were ≥65 years of age and 113 patients (66 treated with liraglutide) were ≥75 years of age.
-
 Additional trials were conducted with liraglutide that included 1,901 patients in four unblinded, randomised, controlled clinical trials (including 464, 658, 323 and 177 patients per trial) and one double-blind, randomised, controlled clinical trial in patients with type 2 diabetes mellitus and moderate renal impairment (279 patients).
 
 A large cardiovascular outcomes trial (the LEADER trial) was also conducted with liraglutide in 9,340 patients with type 2 diabetes mellitus at high cardiovascular risk.
@@ -150,7 +148,6 @@ Liraglutide was superior in preventing MACE vs placebo (Figure 1).
 The estimated hazard ratio was consistently below 1 for all 3 MACE components.
 
 Liraglutide also significantly reduced the risk of expanded MACE (primary MACE, unstable angina pectoris leading to hospitalisation, coronary revascularisation, or hospitalisation due to heart failure) and other secondary endpoints (Figure 2).
-
 Placebo
 Victoza
 
@@ -163,6 +160,7 @@ Placebo 4672 4587 4473 4352 4237 4123 4010 3914 1543 407
 Victoza 4668 4593 4496 4400 4280 4172 4072 3982 1562 424
 FAS: full analysis set.
 Figure 1: Kaplan Meier plot of time to first MACE – FAS population
+
 Hazard Ratio Victoza N Placebo N
 
 (95% CI) (%) (%)
@@ -218,6 +216,7 @@ Paediatric population
 
 In a double-blind study comparing the efficacy and safety of Victoza 1.8 mg versus placebo as add-on to metformin ± insulin in adolescents and children aged 10 years and above with type 2 diabetes, Victoza was superior to placebo treatment in reducing HbA1c after 26 weeks (-1.06, [-1.65, 0.46]).
 The treatment difference in HbA1c was 1.3% after additional 26 weeks of open label extension, confirming the sustained glycaemic control with Victoza.
+
 The efficacy and safety profile of Victoza was comparable to that observed in the adult population treated with Victoza.
 Based on adequate glycaemic control or tolerability, 30% of trial subjects remained on a dose of 0.6 mg, 17% escalated to a dose of 1.2 mg and 53% escalated to a dose of 1.8 mg.
 

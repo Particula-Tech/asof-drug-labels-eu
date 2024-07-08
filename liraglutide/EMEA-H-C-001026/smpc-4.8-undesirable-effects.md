@@ -25,28 +25,14 @@ Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-te
 | Infections and infestations |  | Nasopharyngitis Bronchitis |  |  |  |
 | Immune system disorders |  |  |  | Anaphylactic reactions |  |
 | Metabolism and nutrition disorders |  | Hypoglycaemia Anorexia Appetite decreased | Dehydration |  |  |
-| Nervous system disorders |  | Headache Dizziness |  |  |  |
+| Nervous system disorders |  | Headache Dizziness | Dysgeusia |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
-| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
-
-Abdominal
-discomfort
-Toothache
-Hepatobiliary Cholelithiasis
-disorders Cholecystitis
-Skin and Rash Urticaria
-subcutaneous Pruritus
-tissue disorder
-Renal and Renal
-urinary impairment
-disorders Renal failure
-acute
-General Fatigue Malaise
-disorders and Injection site
-administration reactions
-site conditions
-Investigations Increased lipase*
-Increased amylase*
+| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
+| Hepatobiliary disorders |  |  | Cholelithiasis Cholecystitis |  |  |
+| Skin and subcutaneous tissue disorder |  | Rash | Urticaria Pruritus |  |  |
+| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |
+| General disorders and administration site conditions |  | Fatigue Injection site reactions | Malaise |  |  |
+| Investigations |  | Increased lipase* Increased amylase* |  |  |  |
 
 * From controlled phase 3b and 4 clinical trials only where they were measured.
 
@@ -69,7 +55,6 @@ When combining liraglutide with metformin, 20.7% of patients reported at least o
 When combining liraglutide with a sulfonylurea, 9.1% of patients reported at least one episode of nausea and 7.9% of patients reported at least one episode of diarrhoea.
 Most episodes were mild to moderate and occurred in a dose-dependent fashion.
 With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
-
 Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
 Patients with mild and moderate renal impairment (creatinine clearance 60–90 ml/min and 30–59 ml/min, respectively) may experience more gastrointestinal effects when treated with liraglutide.
 
