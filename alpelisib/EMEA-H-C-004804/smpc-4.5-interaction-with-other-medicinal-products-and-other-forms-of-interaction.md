@@ -2,7 +2,7 @@
 
 Medicinal products that may increase alpelisib plasma concentrations
 
-BCRP inhibitors
+Breast cancer resistance protein (BCRP) inhibitors
 Alpelisib is a substrate for BCRP in vitro.
 BCRP is involved in the hepatobiliary export and intestinal secretion of alpelisib, therefore inhibition of BCRP in the liver and in the intestine during elimination may lead to an increase in systemic exposure of alpelisib.
 Therefore, caution and monitoring for toxicity are advised during concomitant treatment with inhibitors of BCRP (e.g. eltrombopag, lapatinib, pantoprazole).
@@ -24,22 +24,14 @@ Co-administration of alpelisib with strong CYP3A4 inducers (e.g. apalutamide, ca
 
 Medicinal products whose plasma concentrations may be altered by alpelisib
 
-Based on the results of metabolic in vitro induction and inhibition studies, alpelisib may induce the metabolic clearance of co-administered medicinal products metabolised by CYP2B6, CYP2C9 and CYP3A and may inhibit the metabolic clearance of co-administered medicinal products metabolised by CYP2C8, CYP2C9, CYP2C19 and CYP3A4 (time-dependent inhibition) if sufficiently high concentrations are achieved in vivo.
+CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 substrates
+No dose adjustment is required when co-administering Piqray with CYP3A4 substrates (e.g. everolimus, midazolam), CYP2C8 substrates (e.g. repaglinide), CYP2C9 substrates (e.g. warfarin), CYP2C19 substrates (e.g. omeprazole).
+For CYP2B6 substrate, no relevant changes in the exposure were observed when co-administered with Piqray however the results should be considered with caution due to limited data (see section 5.2).
 
-CYP3A4 substrates
-No dose adjustment is required when co-administering Piqray with CYP3A4 substrates (e.g. everolimus, midazolam).
-
-In a drug-drug interaction study, co-administration of alpelisib with everolimus, a sensitive CYP3A4 substrate, confirmed that there are no clinically significant pharmacokinetic interactions (increase in AUC by 11.2%) between alpelisib and CYP3A4 substrates.
+In a drug-drug interaction study, coadministration of alpelisib with everolimus, a sensitive CYP3A4 substrate, confirmed that there are no clinically significant pharmacokinetic interactions (increase in AUC by 11.2%) between alpelisib and CYP3A4 substrates.
 No change in everolimus exposure was observed at alpelisib doses ranging from 250 to 300 mg.
 
-Caution is recommended when Piqray is used in combination with CYP3A4 substrates that also possess an additional time-dependent inhibition and induction potential on CYP3A4 that affects their own metabolism (e.g. rifampicin, ribociclib, encorafenib).
-
-CYP2C9 substrates with narrow therapeutic index
-In the absence of clinical data on CYP2C9, caution is recommended.
-In vitro evaluations indicated that the pharmacological activity of CYP2C9 substrates with a narrow therapeutic index such as warfarin may be reduced by the CYP2C9 induction effects of alpelisib.
-
-CYP2B6 sensitive substrates with narrow therapeutic index
-Sensitive CYP2B6 substrates (e.g. bupropion) or CYP2B6 substrates with a narrow therapeutic window should be used with caution in combination with Piqray, as alpelisib may reduce the clinical activity of such medicinal products.
+In healthy subjects, co-administration of a CYP2C9 substrate (S-warfarin) with alpelisib increased S-warfarin exposure on average by 34% and 19% for AUCinf and Cmax respectively, compared to administration with S-warfarin alone, which indicates that alpelisib is a mild inhibitor of CYP2C9.
 
 Substances that are substrates of transporters
 In vitro evaluations indicated that alpelisib (and/or its metabolite BZG791) has a potential to inhibit the activities of OAT3 drug transporters and intestinal BCRP and P-gp.
@@ -47,4 +39,4 @@ Piqray should be used with caution in combination with sensitive substrates of t
 
 Hormonal contraceptives
 
-No clinical studies were conducted assessing the drug-drug-interaction potential between alpelisib and hormonal contraceptives.
+No clinical studies were conducted assessing the drug-drug interaction potential between alpelisib and hormonal contraceptives.

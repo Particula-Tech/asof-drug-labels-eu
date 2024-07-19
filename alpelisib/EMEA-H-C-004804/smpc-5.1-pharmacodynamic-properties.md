@@ -15,6 +15,7 @@ PI3K inhibition by alpelisib treatment has been shown to induce an increase in o
 The combination of alpelisib and fulvestrant demonstrated increased anti-tumour activity compared to either treatment alone in xenograft models derived from ER-positive, PIK3CA mutated breast cancer cell lines.
 
 The PI3K/AKT signalling pathway is responsible for glucose homeostasis, and hyperglycaemia is an expected on-target adverse reaction of PI3K inhibition.
+
 Clinical efficacy and safety
 
 Piqray was evaluated in a pivotal phase III, randomised, double-blind, placebo-controlled study of alpelisib in combination with fulvestrant in postmenopausal women, and men, with HR+,
@@ -32,7 +33,6 @@ Patients had a median age of 63 years (range: 25 to 92 years).
 The patients included were White (66.3%), Asian (21.7%) and Black or African American (1.2%).
 The study population included one male subject enrolled in the PIK3CA mutant cohort and treated with alpelisib and fulvestrant.
 66.0% and 33.4% of subjects had an ECOG performance status of 0 and 1, respectively.
-
 97.7% of patients had received prior endocrine therapy.
 In 67.7% of subjects, the last therapy prior to study enrollment was endocrine therapy.
 Letrozole and anastrozole were the most commonly used endocrine therapies.
@@ -50,6 +50,7 @@ The primary endpoint for the study was progression-free survival (PFS) using Res
 The key secondary endpoint was overall survival (OS) for patients with a PIK3CA mutation.
 
 Other secondary endpoints included PFS for patients without a PIK3CA mutation, OS for patients without a PIK3CA mutation.
+
 Primary efficacy analysis
 The study met its primary objective at the final PFS analysis (cut-off date 12-Jun-2018), demonstrating a statistically significant improvement in PFS per investigator assessment in the PIK3CA mutant cohort for patients receiving alpelisib plus fulvestrant, compared to patients receiving placebo plus fulvestrant with an estimated 35% risk reduction of disease progression or death in favour of treatment with alpelisib plus fulvestrant (see Table 8).
 
@@ -70,7 +71,6 @@ Data cut-off date: 12-Jun-2018
 | CI = confidence interval; N = number of patients; N/A = is not applicable a p-value is obtained from the one-sided stratified log-rank test. # Per RECIST 1.1 * Based on 50% sample-based audit approach |  |  |
 
 In the cohort with PIK3CA mutation, PFS subgroup analyses per investigator assessment by randomisation stratification factors showed a generally consistent treatment effect in favour of the alpelisib arm, irrespective of presence or absence of lung/liver metastases.
-
 Among 20 patients with prior CDK4/6 inhibitor use the hazard ratio (HR) for PFS was 0.48 (95% CI: 0.17, 1.36); median PFS was 1.8 months (95% CI: 1.7, 3.6) in the placebo plus fulvestrant arm and 5.5 months (95% CI: 1.6, 16.8) in the alpelisib plus fulvestrant arm.
 
 Using a data cut-off date of 12-Jun-2018, PFS results for the subgroup of endocrine resistant patients (HR=0.64; 95% CI: 0.49, 0.85, n=292) and endocrine sensitive patients (HR=0.87; 95% CI: 0.35, 2.17, n=39) were in favour of the alpelisib plus fulvestrant arm.
@@ -81,6 +81,7 @@ Using a data cut-off date of 12-Jun-2018, the overall response rate in patients 
 At the time when the final OS analysis was conducted (data cut-off date of 23-Apr-2020) a descriptive follow-up efficacy analysis for PFS data was performed.
 With a median duration from randomisation to data cut-off of approximately 42 months, the reported PFS results were consistent with those from the primary PFS analysis.
 There was an estimated 36% risk reduction of progression or death in favour of treatment with alpelisib plus fulvestrant (HR=0.64; 95% CI: 0.50, 0.81) (Figure 1).
+
 Figure 1 Study C2301 - Kaplan-Meier plot of PFS per investigator assessment (FAS, PIK3CA mutant cohort): descriptive update with data cut-off date of 23-Apr-2020
 
 100 Censoring times Censoring Times

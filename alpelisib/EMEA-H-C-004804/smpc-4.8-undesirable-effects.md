@@ -9,13 +9,13 @@ The most common ADRs (reported at a frequency >20% in the combined mutant and no
 The most common grade 3 or 4 ADRs (reported at a frequency ≥2%) were plasma glucose increased (39.1%), rash (19.4%), gamma-glutamyltransferase increased (12.0%), lymphocyte count decreased (9.2%), diarrhoea (7.0%), lipase increased (7.0%), hypokalaemia (6.3%), fatigue (5.6%), weight decreased (5.3%), anaemia (4.9%), hypertension (4.6%), alanine aminotransferase increased (4.2%), nausea (2.8%), creatinine increased (2.8%), stomatitis (2.5%), hypocalcaemia (2.1%) and mucosal inflammation (2.1%).
 
 The most common ADRs leading to treatment discontinuation were hyperglycaemia (6.3%), rash (4.2%), diarrhoea (2.8%) and fatigue (2.5%).
-
 Tabulated list of adverse reactions
 
 ADRs from the phase III clinical study and post-marketing experience (Table 7) are listed by MedDRA system organ class.
 Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, ADRs are presented in order of decreasing seriousness.
-In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000); not known (cannot be estimated from the available data).
+
 Table 7 ADRs observed in phase III clinical study and during post-marketing experience
 
 | Adverse drug reaction | Any grade (%) |  | Grade 3 or 4 (%) |
@@ -46,6 +46,7 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Eye disorders |  |  |  |
 | Vision blurred | Common | 15 (5.3) | 1 (0.4)* |
 | Dry eye | Common | 10 (3.5) |  |
+| Uveitis | Not known | Not known | Not known |
 | Vascular disorders |  |  |  |
 | Hypertension | Common | 27 (9.5) | 13 (4.6) |
 | Lymphoedema | Common | 16 (5.6) |  |
@@ -89,7 +90,9 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Pyrexia | Very common | 45 (15.8) | 2 (0.7) |
 | Mucosal dryness12 | Very common | 36 (12.7) | 1 (0.4) |
 | Oedema13 | Common | 18 (6.3) |  |
+
 | Investigations |  |  |  |
+| --- | --- | --- | --- |
 | Weight decreased | Very common | 79 (27.8) | 15 (5.3)* |
 | Blood creatinine increased | Very common | 192 (67.6) | 8 (2.8)* |
 | Gamma-glutamyltransferase increased | Very common | 151 (53.2) | 34 (12.0) |
@@ -119,7 +122,6 @@ Rash
 Rash events (including rash maculopapular, macular, generalised, papular and pruritic, dermatitis and dermatitis acneiform) were reported in 153 (53.9%) patients.
 Rash was predominantly mild or moderate (grade 1 or 2) and responsive to therapy, and in some cases rash was accompanied by pruritus and dry skin.
 Grade 2 and 3 events were reported in 13.7% and 20.1% of patients, respectively, with a median time to first onset of 12 days (range: 2 days to 220 days).
-
 Among patients who received prophylactic antirash treatment including antihistamines, rash was reported less frequently than in the overall population; 26.1% vs 53.9% for all grades, 11.4% vs 20.1% for grade 3, and 3.4% vs 4.2% for rash leading to the permanent discontinuation of Piqray.
 Accordingly, antihistamines may be initiated prophylactically, at the time of initiation of treatment with Piqray.
 
@@ -138,6 +140,7 @@ Therefore, in patients receiving Piqray and bisphosphonates or RANK-ligand inhib
 
 Elderly
 In patients ≥65 years of age treated with alpelisib plus fulvestrant, there was a higher incidence of grade 3-4 hyperglycaemia (45.3%) compared to patients <65 years of age (33.5%), while in patients <75 years of age, grade 3-4 hyperglycaemia was 36% compared to 55.9% in patients ≥75 years of age.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
