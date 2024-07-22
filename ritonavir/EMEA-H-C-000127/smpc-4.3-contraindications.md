@@ -24,10 +24,10 @@ Antagonist which may lead to severe hypotension (see
 
 section 4.5).
 
-Analgesics Pethidine, piroxicam, Increased plasma concentrations of
-propoxyphene norpethidine, piroxicam and propoxyphene.
+Analgesics Pethidine, Increased plasma concentrations of
+propoxyphene norpethidine and propoxyphene. Thereby,
 
-Thereby, increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
+increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
 
 Antianginal Ranolazine Increased plasma concentrations of ranolazine
 

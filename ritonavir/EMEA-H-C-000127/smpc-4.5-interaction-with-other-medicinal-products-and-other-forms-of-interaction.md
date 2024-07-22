@@ -202,7 +202,9 @@ The increases of plasma levels of buprenorphine and its active metabolite did no
 Adjustment to the dose of buprenorphine or ritonavir may therefore not be necessary when the two are dosed together.
 When ritonavir is used in combination with another protease inhibitor and buprenorphine, the SPC of the co-administered protease inhibitor should be reviewed for specific dosing information.
 
-Pethidine, piroxicam, propoxyphene Ritonavir co-administration is likely to result in increased plasma concentrations of norpethidine, piroxicam, and propoxyphene and is therefore contraindicated (see section 4.3).
+Pethidine, propoxyphene Ritonavir co-administration is likely to result in increased plasma concentrations of
+
+norpethidine and propoxyphene and is therefore contraindicated (see section 4.3).
 
 Fentanyl Ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral agent inhibits
 
@@ -213,6 +215,10 @@ Methadone1 5, single dose 500 q12h, ↓ 36% ↓ 38%
 
 Increased methadone dose may be necessary when concomitantly administered with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer due to induction of glucuronidation.
 Dose adjustment should be considered based on the patient’s clinical response to methadone therapy.
+
+Morphine Morphine levels may be decreased due to induction of glucuronidation by co-
+
+administered ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer.
 Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
 Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
@@ -221,10 +227,6 @@ Medicinal Products Medicinal Medicinal Products
 (mg) Products Cmax
 
 AUC
-
-Morphine Morphine levels may be decreased due to induction of glucuronidation by co-
-
-administered ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer.
 
 Antianginal
 
@@ -268,6 +270,12 @@ The extent of increase in AUC and Cmax depends on the timing of ritonavir admini
 Caution should be exercised in administering afatinib with Norvir (refer to the afatinib SmPC).
 Monitor for
 ADRs related to afatinib.
+
+Abemaciclib Serum concentrations may be increased due to CYP3A4 inhibition by ritonavir.
+
+Co-administration of abemaciclib and Norvir should be avoided.
+If this co-administration is judged unavoidable, refer to the abemaciclib SmPC for dosage adjustment recommendations.
+Monitor for ADRs related to abemaciclib.
 Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
 Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
@@ -276,12 +284,6 @@ Medicinal Products Medicinal Medicinal Products
 (mg) Products Cmax
 
 AUC
-
-Abemaciclib Serum concentrations may be increased due to CYP3A4 inhibition by ritonavir.
-
-Co-administration of abemaciclib and Norvir should be avoided.
-If this co-administration is judged unavoidable, refer to the abemaciclib SmPC for dosage adjustment recommendations.
-Monitor for ADRs related to abemaciclib.
 
 Apalutamide Apalutamide is a moderate to strong CYP3A4 inducer and this may lead to a
 
@@ -306,22 +308,17 @@ QT interval prolongation.
 Co-administration of encorafenib and ritonavir should be avoided.
 If the benefit is considered to outweigh the risk and ritonavir must be used, patients should be carefully monitored for safety.
 
-Co-administration of fostamatinib with ritonavir may increase fostamatinib metabolite R406 exposure resulting in dose-related adverse events such as hepatotoxicity, neutropenia, hypertension, or diarrhoea.
-Refer to the fostamatinib SmPC for dose reduction recommendations if such events occur.
+Fostamatinib Co-administration of fostamatinib with ritonavir may increase fostamatinib
+
+metabolite R406 exposure resulting in dose-related adverse events such as hepatotoxicity, neutropenia, hypertension, or diarrhoea.
+Refer to the fostamatinib
+SmPC for dose reduction recommendations if such events occur.
 
 Ibrutinib Serum concentrations of ibrutinib may be increased due to CYP3A inhibition by
 
 ritonavir, resulting in increased risk for toxicity including risk of tumor lysis syndrome.
 Co-administration of ibrutinib and ritonavir should be avoided.
 If the benefit is considered to outweigh the risk and ritonavir must be used, reduce the ibrutinib dose to 140 mg and monitor patient closely for toxicity.
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-administered NORVIR (mg) administered administered
-Medicinal Products Medicinal Medicinal Products
-(mg) Products Cmax
-
-AUC
 
 Neratinib Serum concentrations may be increased due to CYP3A4 inhibition by ritonavir.
 
@@ -332,8 +329,21 @@ Venetoclax Serum concentrations may be increased due to CYP3A inhibition by rito
 resulting in increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.3 and refer to the venetoclax SmPC).
 
 For patients who have completed the ramp-up phase and are on a steady daily dose of venetoclax, reduce the venetoclax dose by at least 75% when used with strong CYP3A inhibitors (refer to the venetoclax SmPC for dosing instructions).
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+administered NORVIR (mg) administered administered
+Medicinal Products Medicinal Medicinal Products
+(mg) Products Cmax
+
+AUC
 
 Anticoagulants
+
+Dabigatran etexilate Serum concentrations may be increased due to P-gp inhibition by ritonavir. Clinical
+Edoxaban monitoring and/or dose reduction of the direct oral anticoagulants (DOAC) should
+
+be considered when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with ritonavir.
 
 Rivaroxaban 10, single dose 600 q12h ↑ 153% ↑ 55%
 
@@ -776,8 +786,17 @@ Based on interaction studies with the ritonavir boosted protease inhibitors (lop
 
 Medicinal products that are affected by the use of ritonavir
 
+Saquinavir 1000 q12h 100 Saquinavir4 ↑ 15-fold ↑ 5-fold
+
+q12h
+
+400 q12h 400 Saquinavir4 ↑ 17-fold ND
+
 Ritonavir100 mg twice daily with saquinavir 1000 mg twice daily provides saquinavir systemic exposure over 24 hours similar to or greater than those achieved with saquinavir 1200 mg three times daily without ritonavir.
 
+Tipranavir 500 q12h 200 Tipranavir ↑ 11 fold ↑ 29 fold
+
+For further information, physicians should refer to the Summary of Product Characteristics for tipranavir.
 Based on cross-stud y comparison to 600 mg saquinavir three times daily alone.
 
 Co- Dose of Co- Dose of NORVIR Medicinal AUC Cmin
@@ -792,8 +811,7 @@ Co-administered Medicinal Products Dose of Co-administered Medicinal Dose of Eff
 
 Products (mg) NORVIR administered administered
 (mg) Medicinal Medicinal
-
-Products Products Cmax AUC
+Products Products Cmax
 
 Amphetamine Ritonavir dosed as an antiretroviral agent is likely to inhibit CYP2D6 and as a result is
 
@@ -832,21 +850,32 @@ Encorafenib Serum concentrations may be increased when co-administered with rito
 
 increase the risk of toxicity, including the risk of serious adverse events such as QT interval prolongation.
 
-Co-administration of fostamatinib with ritonavir may increase fostamatinib metabolite R406 exposure resulting in dose-related
-adverse events such as hepatotoxicity, neutropenia, hypertension, or diarrhoea. Refer to the fostamatinib SmPC for dose
+Fostamatinib Co-administration of fostamatinib with ritonavir may increase fostamatinib metabolite
+R406 exposure resulting in dose-related adverse events such as hepatotoxicity,
+neutropenia, hypertension, or diarrhoea. Refer to the fostamatinib SmPC for dose
 reduction recommendations if such events occur.
 
-Venetoclax Serum concentrations may be increased due to CYP3A inhibition by ritonavir, resulting
+Ibrutinib Serum concentrations of ibrutinib may be increased due to CYP3A inhibition by ritonavir,
 
-in increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.3 and refer to the venetoclax SmPC).
+resulting in increased risk for toxicity including risk of tumor lysis syndrome.
 
-Divalproex, lamotrigine, phenytoin Ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral agent induces
+Venetoclax Serum concentrations may be increased due to CYP3A inhibition by ritonavir, resulting in
 
-oxidation by CYP2C9 and glucuronidation and as a result is expected to decrease the plasma concentrations of anticonvulsants.
+increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.3 and refer to the venetoclax SmPC).
+
+Edoxaban monitoring and/or dose reduction of the direct oral anticoagulants (DOAC) should be
+
+considered when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with ritonavir.
 
 Amitriptyline, fluoxetine, imipramine, Ritonavir dosed as an antiretroviral agent is likely to inhibit CYP2D6 and as a result is
 
-nortriptyline, paroxetine, sertraline expected to increase concentrations of imipramine, amitriptyline, nortriptyline,
+nortriptyline, paroxetine, sertraline expected to increase concentrations of imipramine, amitriptyline, nortriptyline, fluoxetine,
+
+paroxetine or sertraline.
+
+Desipramine 100, single oral dose 500 q12h ↑145% ↑ 22%
+
+Colchicine Concentrations of colchicine are expected to increase when coadministered with ritonavir.
 
 Fexofenadine Ritonavir may modify P-glycoprotein mediated fexofenadine efflux when dosed as an
 
@@ -865,10 +894,6 @@ Bedaquiline No interaction study is available with ritonavir only. In an interac
 bedaquiline and multiple dose lopinavir/ritonavir, the AUC of bedaquiline was increased by 22%.
 
 interaction study of delamanid 100 mg twice daily and lopinavir/ritonavir 400/100 mg twice daily for 14 days, the exposure of the delamanid metabolite DM-6705 was 30% increased.
-
-Sulfamethoxazole/Trimethoprim2 800/160, single dose 500 q12h ↓ 20% / ↑ ↔
-
-20%
 
 Bosentan Co-administration of bosentan and ritonavir may increase steady state
 
@@ -918,5 +943,8 @@ triamcinolone reported in patients receiving ritonavir and inhaled or intranasal
 
 similar effects could also occur with other corticosteroids metabolised by CYP3A e.g., budesonide and triamcinolone.
 Consequently, concomitant administration of ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4).
+A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g.,
+
+AUC beclomethasone).
 
 Thyroid-stimulating hormone (TSH) should be monitored in patients treated with levothyroxine at least the first month after starting and/or ending ritonavir treatment.
