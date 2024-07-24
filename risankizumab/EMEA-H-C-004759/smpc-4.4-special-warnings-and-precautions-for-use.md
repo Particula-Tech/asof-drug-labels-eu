@@ -27,7 +27,7 @@ If a patient has received live vaccination (viral or bacterial), it is recommend
 Patients treated with risankizumab should not receive live vaccines during treatment and for at least 21 weeks after treatment (see section 5.2).
 Hypersensitivity
 
-If a serious hypersensitivity reaction occurs, administration of risankizumab should be discontinued immediately and appropriate therapy initiated.
+If a serious hypersensitivity reaction, including anaphylaxis, occurs, administration of risankizumab should be discontinued immediately and appropriate therapy initiated.
 
 Excipients with known effect
 
@@ -48,14 +48,16 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that i
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-Skyrizi 360 mg solution for injection in cartridge
+Skyrizi 180 mg and 360 mg solution for injection in cartridge
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per cartridge, that is to say essentially ‘sodium-free’.
 
 Skyrizi 90 mg solution for injection in pre-filled syringe
 
 Sorbitol
+
 This medicinal product contains 164 mg sorbitol per 360 mg dose.
 
 Sodium
+
 This medicinal product contains less than 1 mmol sodium (23 mg) per 360 mg dose, that is to say essentially ‘sodium free’.

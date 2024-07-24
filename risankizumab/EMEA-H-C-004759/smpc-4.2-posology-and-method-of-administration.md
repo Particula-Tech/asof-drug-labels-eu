@@ -19,7 +19,7 @@ Special populations
 Elderly
 
 No dose adjustment is required (see section 5.2).
-There is limited information in subjects aged ≥65 years.
+There is limited information in subjects aged ≥ 65 years.
 
 Renal or hepatic impairment
 
@@ -40,9 +40,9 @@ No dose adjustment is required (see section 5.2).
 Method of administration
 
 Skyrizi is administered by subcutaneous injection.
-
 The injection should be administered in the thigh or abdomen.
 Patients should not inject into areas where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis.
+
 Patients may self-inject Skyrizi after training in subcutaneous injection technique.
 Patients should be instructed to read the ‘Instructions for use’ provided in the package leaflet before administration.
 
@@ -55,19 +55,33 @@ The two injections should be administered at different anatomic locations.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
+Crohn’s disease
+
 The recommended dose is 600 mg administered by intravenous infusion at week 0, week 4, and week 8, followed by 360 mg administered by subcutaneous injection at week 12, and every 8 weeks thereafter.
 Consideration should be given to discontinuing treatment in patients who have shown no evidence of therapeutic benefit by week 24.
 
 For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Skyrizi 360 mg solution for injection in cartridge and Skyrizi 90 mg pre-filled syringe Summary of Product Characteristics.
+Ulcerative colitis
+
+The recommended induction dose is 1 200 mg administered by intravenous infusion at week 0, week 4, and week 8.
+Starting at week 12 and every 8 weeks thereafter, the recommended maintenance dose is based on individual patient presentation:
+
+- A dose of 180 mg administered by subcutaneous injection is recommended for patients with adequate improvement in disease activity after induction
+- A dose of 360 mg administered by subcutaneous injection is recommended for patients with inadequate improvement in disease activity after induction
+
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Skyrizi 180 mg and 360 mg solution for injection in cartridge Summary of Product Characteristics.
+
+There is limited information in subjects aged ≥65 years.
 
 No specific studies were conducted to assess the effect of hepatic or renal impairment on the pharmacokinetics of Skyrizi.
 
-The safety and efficacy of Skyrizi for the treatment of Crohn’s disease in patients below 18 years of age have not yet been established.
+The safety and efficacy of Skyrizi in children aged 0-17 years for the treatment of Crohn’s disease and ulcerative colitis have not yet been established.
+Currently available data are described in section 5.1 and 5.2 but no recommendation on posology can be made.
 
 For intravenous infusion.
 
-Skyrizi 600 mg concentrate for solution for infusion is for intravenous use only.
-It should be administered over at least one hour.
+Skyrizi concentrate for solution for infusion is for intravenous use only.
+The 600 mg dose should be administered over at least one hour, and the 1 200 mg dose should be administered over at least two hours.
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
 [Skyrizi 360 mg solution for injection in cartridge]
@@ -76,7 +90,7 @@ For the posology of the initial intravenous dosing regimen, see section 4.2 of t
 
 Skyrizi should not be injected into areas where the skin is tender, bruised, erythematous, indurated or damaged.
 
-Skyrizi 360 mg solution for injection in cartridge
+Skyrizi 180 mg and 360 mg solution for injection in cartridge
 
 Patients may self-inject Skyrizi after training in subcutaneous injection technique with the on-body injector.
 

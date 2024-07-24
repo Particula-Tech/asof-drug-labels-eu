@@ -30,6 +30,10 @@ Skyrizi 360 mg solution for injection in cartridge
 
 Each cartridge contains 360 mg of risankizumab in 2.4 mL solution.
 
+Skyrizi 180 mg solution for injection in cartridge
+
+Each cartridge contains 180 mg of risankizumab in 1.2 mL solution.
+
 Skyrizi 90 mg solution for injection in pre-filled syringe
 
 Each pre-filled syringe contains 90 mg of risankizumab in 1 mL solution.

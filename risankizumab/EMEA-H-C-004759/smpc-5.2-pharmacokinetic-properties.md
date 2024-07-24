@@ -13,6 +13,7 @@ Bioequivalence was demonstrated between a single risankizumab 150 mg injection a
 Bioequivalence was also demonstrated between risankizumab 150 mg pre-filled syringe and pre-filled pen.
 
 Distribution
+
 The mean (±standard deviation) steady-state volume of distribution (Vss) of risankizumab was 11.4 (±2.7) L in Phase 3 studies in subjects with psoriasis, indicating that the distribution of risankizumab is primarily confined to the vascular and interstitial spaces.
 
 Biotransformation
@@ -24,7 +25,6 @@ Elimination
 
 The mean (±standard deviation) systemic clearance (CL) of risankizumab was 0.3 (±0.1) L/day in Phase 3 studies in subjects with psoriasis.
 The mean terminal elimination half-life of risankizumab ranged from 28 to 29 days in Phase 3 studies in subjects with psoriasis.
-
 As an IgG1 monoclonal antibody, risankizumab is not expected to be filtered by glomerular filtration in the kidneys or to be excreted as an intact molecule in the urine.
 
 Linearity/non-linearity
@@ -70,21 +70,27 @@ No clinically meaningful differences in risankizumab exposure were observed in C
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
+The pharmacokinetics of risankizumab was similar between plaque psoriasis and psoriatic arthritis, and between Crohn’s disease and ulcerative colitis.
+
 Risankizumab exhibited linear pharmacokinetics with dose-proportional increase in exposure across dose ranges of 18 to 360 mg and 0.25 to 1 mg/kg administered subcutaneously, and 200 to 1 800 mg and 0.01 to 5 mg/kg administered intravenously.
 
 Following subcutaneous dosing of risankizumab, peak plasma concentrations were achieved between 3-14 days after dosing with an estimated absolute bioavailability of 74-89%.
 With dosing of 150 mg at week 0, week 4 and every 12 weeks thereafter, estimated steady-state peak and trough plasma concentrations are 12 and 2 µg/mL, respectively.
 
-In subjects with Crohn’s disease treated with 600 mg intravenous (IV) induction dose at weeks 0, 4, and 8 followed by 360 mg subcutaneous (SC) maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 156 and 38.8 µg/mL respectively during the induction period (weeks 8-12) and steady state median peak and trough concentrations are estimated to be 28.0 and 8.13 µg/mL respectively during the maintenance period (weeks 40-48).
+In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at weeks 0, 4, and 8 followed by 360 mg subcutaneous maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 156 and 38.8 µg/mL respectively during the induction period (weeks 8-12) and steady-state median peak and trough concentrations are estimated to be 28.0 and 8.13 µg/mL respectively during the maintenance period (weeks 40-48).
+
+In subjects with ulcerative colitis treated with 1 200 mg intravenous induction dose at weeks 0, 4, and 8 followed by 180 mg or 360 mg subcutaneous maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 350 and 87.7 µg/mL respectively during the induction period (weeks 8-12) and steady-state median peak and trough concentrations are estimated to be 19.6 and 4.64 µg/mL for the 180 mg subcutaneous dose and 39.2 and 9.29 µg/mL for the 360 mg subcutaneous dose, respectively, during the maintenance period (weeks 40-48).
 
 In a typical 70 kg subject with Crohn’s disease, Vss was 7.68 L.
 
 For a typical 70 kg subject with Crohn’s disease, CL was 0.30 L/day and terminal elimination half-life was 21 days.
 
-Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 360 mg or 0.25 to 1 mg/kg subcutaneous administration and 200 to 1 800 mg and 0.01 to 5 mg/kg administered intravenously in healthy subjects or subjects with psoriasis or Crohn’s disease.
+Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 360 mg or 0.25 to 1 mg/kg subcutaneous administration and 200 to 1 800 mg and 0.01 to 5 mg/kg administered intravenously in healthy subjects or subjects with psoriasis, Crohn’s disease or ulcerative colitis.
+
+Interaction studies were conducted in subjects with plaque psoriasis, Crohn’s disease, or ulcerative colitis to assess the effect of repeated administration of risankizumab on the pharmacokinetics of cytochrome P450 (CYP) sensitive probe substrates.
 
 Population pharmacokinetic analyses indicated that risankizumab exposure was not impacted by concomitant medicinal products used by some subjects with plaque psoriasis during the clinical studies.
-Similar lack of impact by concomitant medicinal products was observed based on population pharmacokinetic analyses in Crohn’s disease.
+Similar lack of impact by concomitant medicinal products was observed based on population pharmacokinetic analyses in Crohn’s disease or ulcerative colitis.
 
 The pharmacokinetics of risankizumab in paediatric subjects under 16 years of age has not been established.
 Of the 1 574 subjects with Crohn’s disease exposed to risankizumab, 12 were 16 to 17 years old.
@@ -92,14 +98,16 @@ Risankizumab exposures in 16 to 17 year-old subjects with Crohn’s disease were
 Age was not found to have any significant impact on risankizumab exposures based on the population pharmacokinetic analyses.
 
 Of the 1 574 subjects with Crohn’s disease exposed to risankizumab, 72 were 65 years or older and 5 subjects were 75 years or older.
+Of the 1 512 subjects with ulcerative colitis exposed to risankizumab, 103 were 65 years or older and 8 subjects were 75 years or older.
 
-Based on population pharmacokinetic analyses, serum creatinine levels, creatinine clearance, or hepatic function markers (ALT/AST/bilirubin) did not have a meaningful impact on risankizumab clearance in subjects with psoriasis, or Crohn’s disease.
+Based on population pharmacokinetic analyses, serum creatinine levels, creatinine clearance, or hepatic function markers (ALT/AST/bilirubin) did not have a meaningful impact on risankizumab clearance in subjects with psoriasis, Crohn’s disease, or ulcerative colitis.
 
 However, this observation is based on a limited number of subjects with plaque psoriasis.
+Body weight had no clinically meaningful impact on risankizumab exposure or efficacy in psoriatic arthritis, Crohn’s disease, or ulcerative colitis.
 
-The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis or Crohn’s disease.
+The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis, Crohn’s disease or ulcerative colitis.
 No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared to Caucasian subjects in clinical pharmacokinetic studies in healthy volunteers.
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-Risankizumab exposures in 16- to 17-year-old subjects with Crohn’s disease were similar to those in adults.
+Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 360 mg or 0.25 to 1 mg/kg subcutaneous administration and 200 to 1800 mg and 0.01 to 5 mg/kg administered intravenously in healthy subjects or subjects with psoriasis, Crohn’s disease or ulcerative colitis.

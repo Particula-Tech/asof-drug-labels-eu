@@ -20,7 +20,7 @@ Not all presentations may be marketed.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
-10.0 mL concentrate solution for infusion in a glass vial closed with a coated rubber stopper.
+10.0 mL concentrate solution for infusion in a glass vial closed with a coated bromobutyl rubber stopper.
 
 Skyrizi is available in packs containing 1 vial pack.
 
@@ -28,8 +28,7 @@ Skyrizi is available in packs containing 1 vial pack.
 
 Skyrizi 360 mg solution for injection in cartridge
 
-A 360 mg solution in a single-use cartridge made with cyclic olefin resin with rubber septum and rubber piston as product-contact materials, and a resin cap.
-The cartridge is assembled with a telescopic screw assembly.
+A 360 mg solution in a single use cartridge made with cyclic olefin resin with coated chlorobutyl rubber septum and coated chlorobutyl rubber piston as product-contact materials, and a resin cap.
 The cartridge assembly is co-packed with an on-body injector (administration device).
 The fluid path within the on-body injector contains polyvinyl chloride tubing and a stainless steel 29-gauge needle.
 The on-body injector contains silver oxide-zinc batteries and an adhesive skin patch made from polyester with an acrylic adhesive.
@@ -37,6 +36,12 @@ The administration device is designed for use with the provided 360 mg cartridge
 
 Skyrizi 360 mg is available in packs containing 1 cartridge and 1 on-body injector.
 
+Skyrizi 180 mg solution for injection in cartridge
+A 180 mg solution in a single use cartridge made with cyclic olefin resin with coated chlorobutyl rubber septum and coated chlorobutyl rubber piston as product-contact materials, and a resin cap.
+The administration device is designed for use with the provided 180 mg cartridge.
+
+Skyrizi 180 mg is available in packs containing 1 cartridge and 1 on-body injector.
+
 Skyrizi 90 mg solution for injection in pre-filled syringe
 
-Skyrizi 90 mg is available in packs containing 4 pre-filled syringes
+Skyrizi 90 mg is available in packs containing 4 pre-filled syringes.

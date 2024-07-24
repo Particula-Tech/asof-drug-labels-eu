@@ -13,6 +13,7 @@ Before injecting, patients may remove the carton from the refrigerator and allow
 The solution should be colourless to yellow and clear to slightly opalescent.
 
 Skyrizi 75 mg solution for injection in pre-filled syringe
+
 Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the pre-filled syringes from the carton.
 
 The solution should be colourless to slightly yellow and clear to slightly opalescent.
@@ -27,7 +28,6 @@ Skyrizi should not be used if the solution is cloudy or discoloured, or contains
 Do not shake the pre-filled pen or pre-filled syringe.
 
 Comprehensive instructions for use are provided in the package leaflet.
-
 Each pre-filled pen or pre-filled syringe is for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -37,18 +37,22 @@ Any unused medicinal product or waste material should be disposed of in accordan
 The solutions should be visually inspected for particulate matter or discoloration prior to administration.
 The liquid may contain tiny white or clear particles.
 The medicinal product and its dilutions should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
-
 Instructions for dilution
 
 This medicinal product should be prepared by a healthcare professional using aseptic technique.
 It must be diluted before administration.
 
-The solution for infusion is prepared by dilution of the concentrate into an intravenous infusion bag or glass bottle containing 5% dextrose in water (D5W) or 0.9% saline (600 mg/10 mL in 100 mL,
-250 mL or 500 mL) to a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+The solution for infusion is prepared by dilution of the concentrate into an intravenous infusion bag or glass bottle containing 5% dextrose in water (D5W) or sodium chloride 9 mg/mL (0.9%) solution for infusion to a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+Refer to table below for dilution instructions based on patient’s indication.
+
+| Indication | Intravenous induction dose | Number of 600 mg/ 10 mL vials | Total volume of 5% dextrose or sodium chloride 9 mg/mL (0.9%) solution for infusion |
+| --- | --- | --- | --- |
+| Crohn’s disease | 600 mg | 1 | 100 mL, or 250 mL, or 500 mL |
+| Ulcerative colitis | 1 200 mg | 2 | 250 mL, or 500 mL |
 
 Prior to the start of the intravenous infusion, the content of the intravenous infusion bag or glass bottle should be at room temperature.
 
-Infuse the diluted solution over a period of at least one hour.
+Infuse the diluted solution over a period of at least one hour for the 600 mg dose; at least two hours for the 1 200 mg dose.
 
 The solution in the vial and the dilutions should not be shaken.
 
@@ -56,7 +60,7 @@ Each vial is for single use only.
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-Skyrizi 360 mg solution for injection in cartridge
+Skyrizi 180 mg and 360 mg solution for injection in cartridge
 
 Before injecting, the carton should be removed from the refrigerator and allowed to reach room temperature, out of direct sunlight, for 45 to 90 minutes without removing the cartridge from the carton.
 

@@ -2,12 +2,13 @@
 
 Summary of the safety profile
 
-The most frequently reported adverse reactions were upper respiratory infections (from 13.0% in psoriasis to 15.6% in Crohn’s disease).
+The most frequently reported adverse reactions were upper respiratory infections (13.0% in psoriasis).
 
 Tabulated list of adverse reactions
 
-Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥1/10); common (≥1/100 to
-< 1/10); uncommon (≥1/1 000 to < 1/100); rare (≥1/10 000 to < 1/1 000); very rare (< 1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to
+< 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000) and not known (cannot be estimated from the available data).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: List of adverse reactions
 
@@ -17,7 +18,7 @@ Table 1: List of adverse reactions
 |  | Common | Tinea infectionsb |
 |  | Uncommon | Folliculitis |
 | Nervous system disorders | Common | Headachec |
-| Skin and subcutaneous tissue disorders | Common | Pruritus Rash |
+| Skin and subcutaneous tissue disorders | Common | Pruritus Rash Eczema |
 |  | Uncommon | Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
 | a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, fungal skin infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, rash |  |  |
@@ -29,6 +30,7 @@ Infections
 The rate of infections was 75.5 events per 100 subject-years from the psoriasis clinical studies and 43.0 events per 100 subject-years from the psoriatic arthritis clinical studies, including long-term exposure to risankizumab.
 The majority of cases were non-serious and mild to moderate in severity and did not lead to discontinuation of risankizumab.
 The rate of serious infections was 1.7 events per 100 subject-years from the psoriasis studies and 2.6 events per 100 subject-years from the psoriatic arthritis studies (see section 4.4).
+
 Immunogenicity
 
 For subjects treated with risankizumab at the recommended clinical dose for up to 52 weeks in psoriasis clinical trials, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 24% (263/1 079) and 14% (150/1 079) of evaluated subjects, respectively.
@@ -58,16 +60,18 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
+The most frequently reported adverse reactions were upper respiratory infections (15.6% in Crohn’s disease and 26.2% in ulcerative colitis).
+
 | System Organ Class | Frequency | Adverse reactions |
 | --- | --- | --- |
 | Infections and infestations | Very common | Upper respiratory infectionsa |
 |  | Common | Tinea infectionsb |
 |  | Uncommon | Folliculitis |
 | Nervous system disorders | Common | Headachec |
-| Skin and subcutaneous tissue disorders | Common | Pruritus Rash |
+| Skin and subcutaneous tissue disorders | Common | Pruritus Rash Eczema |
 |  | Uncommon | Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
-| a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, tinea infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, hypersensitivity, nodule, rash, urticaria, vesicles, warmth |  |  |
+| a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, tinea infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia, malaise e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, hypersensitivity, nodule, rash, urticaria, vesicles, warmth; infusion site erythema, extravasation, reaction, swelling |  |  |
 
 Psoriasis
 
@@ -76,7 +80,7 @@ The rate of serious infections was 1.7 events per 100 subject-years (see section
 
 Crohn’s disease
 
-Overall, the safety profile observed in patients with Crohn’s disease treated with risankizumab was consistent with the safety profile observed in patients with plaque psoriasis.
+Overall, the safety profile observed in patients with Crohn’s disease treated with risankizumab was consistent with the safety profile observed in patients across indications.
 
 The rate of infections in the pooled data from the 12-week induction studies was 83.3 events per 100 subject-years in subjects treated with risankizumab 600 mg intravenously compared to 117.7 events per 100 subject-years in placebo.
 The rate of serious infections was 3.4 events per 100 subject-years in subjects treated with risankizumab 600 mg intravenously compared to 16.7 events per 100 subject-years in placebo (see section 4.4).
@@ -84,7 +88,19 @@ The rate of serious infections was 3.4 events per 100 subject-years in subjects 
 The rate of infections in the 52-week maintenance study was 57.7 events per 100 subject-years in subjects treated with risankizumab 360 mg subcutaneously after risankizumab induction compared to 76.0 events per 100 subject-years in subjects who received placebo after risankizumab induction.
 The rate of serious infections was 6.0 events per 100 subject-years in subjects treated with risankizumab 360 mg subcutaneously after risankizumab induction compared to 5.0 events per 100 subject-years in subjects who received placebo after risankizumab induction (see section 4.4).
 
+Ulcerative colitis
+
+Overall, the safety profile observed in patients with ulcerative colitis treated with risankizumab was consistent with the safety profile observed in patients across indications.
+
+The rate of infections in the pooled data from the 12-week induction study was 78.3 events per 100 subject-years in subjects treated with risankizumab 1 200 mg intravenously compared to 74.2 events per 100 subject-years in placebo.
+The rate of serious infections was 3.0 events per 100 subject-years in subjects treated with risankizumab 1 200 mg intravenously compared to 5.4 events per 100 subject-years in placebo (see section 4.4).
+
+The rate of infections in the 52-week maintenance study was 67.4 events per 100 subject-years in subjects treated with risankizumab 180 mg subcutaneously and 56.5 events per 100 subject-years in subjects treated with risankizumab 360 mg subcutaneously after risankizumab induction compared to 64.6 events per 100 subject-years in subjects who received placebo after risankizumab induction.
+The rate of serious infections was 1.1 events per 100 subject-years in subjects treated with risankizumab 180 mg subcutaneously and 0.6 events per 100 subject-years in subjects treated with risankizumab 360 mg subcutaneously after risankizumab induction compared to 2.3 events per 100 subject-years in subjects who received placebo after risankizumab induction (see section 4.4).
+
 For subjects with Crohn’s disease treated with risankizumab at the recommended intravenous induction and subcutaneous maintenance doses for up to 64 weeks in CD clinical trials, treatment-emergent anti-drug antibodies and neutralizing antibodies were detected in 3.4% (2/58) and 0% (0/58) of evaluated subjects, respectively.
+
+For subjects with ulcerative colitis treated with risankizumab at the recommended intravenous induction and subcutaneous maintenance doses (180 mg or 360 mg) for up to 64 weeks in ulcerative colitis clinical trials, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 8.9% (8/90) and 6.7% (6/90) for the 180 mg subcutaneous dose, or 4.4% (4/91) and 2.2% (2/91) for the 360 mg subcutaneous dose, of evaluated subjects, respectively.
 
 Antibodies to risankizumab including neutralizing antibodies were not associated with changes in clinical response or safety.
 
