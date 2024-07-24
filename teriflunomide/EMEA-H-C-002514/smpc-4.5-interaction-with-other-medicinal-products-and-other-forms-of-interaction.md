@@ -13,6 +13,7 @@ It is recommended that patients receiving teriflunomide are not treated with cho
 The mechanism is thought to be by interruption of enterohepatic recycling and/or gastrointestinal dialysis of teriflunomide.
 
 Pharmacokinetic interactions of teriflunomide on other substances
+
 Effect of teriflunomide on CYP2C8 substrate: repaglinide
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
 Therefore, medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, should be used with caution during treatment with teriflunomide.
@@ -23,7 +24,7 @@ While this interaction of teriflunomide is not expected to adversely impact the 
 
 Effect of teriflunomide on CYP1A2 substrate: caffeine
 Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo.
-Therefore, medicinal products metabolised by CYP1A2 (such as duloxetin, alosetron, theophylline and tizanidine) should be used with caution during treatment with teriflunomide, as it could lead to the reduction of the efficacy of these medicinal products.
+Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment with teriflunomide, as it could lead to the reduction of the efficacy of these medicinal products.
 
 Effect of teriflunomide on warfarin
 Repeated doses of teriflunomide had no effect on the pharmacokinetics of S-warfarin, indicating that teriflunomide is not an inhibitor or an inducer of CYP2C9.

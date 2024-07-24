@@ -1,12 +1,12 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-
 Median time to reach maximum plasma concentrations occurs between 1 to 4 hours post-dose following repeated oral administration of teriflunomide, with high bioavailability (approximately 100%).
 
 Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.
 
 From the mean predicted pharmacokinetic parameters calculated from the population pharmacokinetic (PopPK) analysis using data from healthy volunteers and MS patients, there is a slow approach to steady-state concentration (i.e., approximately 100 days (3.5 months) to attain 95% of steady-state concentrations) and the estimated AUC accumulation ratio is approximately 34-fold.
+
 Distribution
 
 Teriflunomide is extensively bound to plasma protein (>99%), probably albumin and is mainly distributed in plasma.
@@ -17,14 +17,14 @@ Biotransformation
 
 Teriflunomide is moderately metabolised and is the only component detected in plasma.
 The primary biotransformation pathway for teriflunomide is hydrolysis with oxidation being a minor pathway.
-Secondary pathways involve oxidation, N-acetylation and sulfate conjugation.
+Secondary pathways involve oxidation, N-acetylation and sulphate conjugation.
 
 Elimination
 
 Teriflunomide is excreted in the gastrointestinal tract mainly through the bile as unchanged active substance and most likely by direct secretion.
 Teriflunomide is a substrate of the efflux transporter BCRP, which could be involved in direct secretion.
-Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%).
-After the rapid elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces).
+Over 21 days, 60.1% of the administered dose is excreted via faeces (37.5%) and urine (22.6%).
+After the rapid elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in faeces).
 Based on individual prediction of pharmacokinetic parameters using the PopPK model of teriflunomide in healthy volunteers and MS patients, median t1/2z was approximately 19 days after repeated doses of 14 mg.
 After a single intravenous administration, the total body clearance of teriflunomide is 30.5 ml/h.
 
@@ -41,7 +41,6 @@ Linearity/non-linearity
 Systemic exposure increases in a dose proportional manner after oral administration teriflunomide from 7 to 14 mg.
 
 Characteristics in specific groups of patients
-
 Gender and elderly
 Several sources of intrinsic variability were identified in healthy subjects and MS patients based on the PopPK analysis: age, body weight, gender, race, and albumin and bilirubin levels.
 Nevertheless, their impact remains limited (≤31%).
@@ -50,6 +49,7 @@ Hepatic impairment
 Mild and moderate hepatic impairment had no impact on the pharmacokinetic of teriflunomide.
 Therefore no dose adjustment is anticipated in mild and moderate hepatic-impaired patients.
 However, teriflunomide is contraindicated in patients with severe hepatic impairment (see sections 4.2 and 4.3).
+
 Renal impairment
 Severe renal impairment had no impact on the pharmacokinetic of teriflunomide.
 Therefore no dose adjustment is anticipated in mild, moderate and severe renal-impaired patients.

@@ -37,9 +37,9 @@ Most cases of DILI occurred with time to onset of several weeks or several month
 
 The risk for liver enzyme increases and DILI with teriflunomide might be higher in patients with pre-existing liver disorder, concomitant treatment with other hepatotoxic drugs, and/or consumption of substantial quantities of alcohol.
 Patients should therefore be closely monitored for signs and symptoms of liver injury.
-
 Teriflunomide therapy should be discontinued and accelerated elimination procedure considered if liver injury is suspected.
 If elevated liver enzymes (greater than 3-fold ULN) are confirmed, teriflunomide therapy should be discontinued
+
 In case of treatment discontinuation, liver tests should be pursued until normalisation of transaminase levels.
 
 Hypoproteinaemia
@@ -57,7 +57,9 @@ Infections
 
 Initiation of treatment with teriflunomide should be delayed in patients with severe active infection until resolution.
 In placebo-controlled studies, no increase in serious infections was observed with teriflunomide (see section 4.8).
-However, based on the immunomodulatory effect of teriflunomide, if a patient develops a serious infection, suspending treatment with AUBAGIO should be considered and the benefits and risks should be reassessed prior to re-initiation of therapy.
+Cases of herpes virus infections, including oral herpes and herpes zoster, have been reported with teriflunomide (see section 4.8), with some of them being serious, including herpetic meningoencephalitis and herpes dissemination.
+They may occur at any time during treatment.
+Based on the immunomodulatory effect of teriflunomide, if a patient develops any serious infection, suspending treatment with AUBAGIO should be considered and the benefits and risks should be reassessed prior to re-initiation of therapy.
 Due to the prolonged half-life, accelerated elimination with cholestyramine or charcoal may be considered.
 Patients receiving AUBAGIO should be instructed to report symptoms of infections to a physician.
 Patients with active acute or chronic infections should not start treatment with AUBAGIO until the infection(s) is resolved.
@@ -82,9 +84,10 @@ As a precaution, a recent complete blood cell count, including differential whit
 In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
+
 Skin reactions
 
-Cases of serious skin reactions, sometimes fatal including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eoseinophilia and systemic symptoms (DRESS), have been reported with AUBAGIO.
+Cases of serious skin reactions, sometimes fatal including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), have been reported with AUBAGIO.
 
 If skin and /or mucosal reactions (ulcerative stomatitis) are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis-Lyell’s syndrome, or drug reaction with eosinophilia and systemic symptoms), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
 In such cases patients should not be re-exposed to teriflunomide (see section 4.3).
@@ -114,13 +117,13 @@ The long term safety of these combinations in the treatment of multiple sclerosi
 Switching to or from AUBAGIO
 
 Based on the clinical data related to concomitant administration of teriflunomide with interferon beta or with glatiramer acetate, no waiting period is required when initiating teriflunomide after interferon beta or glatiramer acetate or when starting interferon beta or glatiramer acetate, after teriflunomide.
-
 Due to the long half-life of natalizumab, concomitant exposure, and thus concomitant immune effects, could occur for up to 2-3 months following discontinuation of natalizumab if AUBAGIO was immediately started.
 Therefore, caution is required when switching patients from natalizumab to AUBAGIO.
 
 Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2 month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod.
 Starting AUBAGIO during this interval will result in concomitant exposure to fingolimod.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.
+
 In MS patients, the median t1/2z was approximately 19 days after repeated doses of 14 mg.
 If a decision is made to stop treatment with AUBAGIO, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to AUBAGIO.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.

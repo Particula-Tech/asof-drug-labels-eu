@@ -5,7 +5,7 @@ AUBAGIO 7 mg film-coated tablets
 Each film-coated tablet contains 7 mg of teriflunomide.
 
 Excipient with known effect
-Each tablet contains 72 mg of lactose (as monohydrate).
+Each tablet contains 77 mg of lactose (as monohydrate).
 
 AUBAGIO 14 mg film-coated tablets
 

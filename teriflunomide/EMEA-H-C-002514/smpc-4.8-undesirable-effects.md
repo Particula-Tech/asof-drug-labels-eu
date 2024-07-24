@@ -17,34 +17,32 @@ Within each frequency grouping, adverse reactions are ranked in order of decreas
 
 System organ Very Common Uncommon Rare Very Not known
 class common rare
-Infections and Influenza, Severe
-infestations Upper infections
-respiratory tract including
-infection, sepsisa
+Infections and Influenza, Upper Severe infections
+infestations respiratory tract including sepsisa
+infection,
 Urinary tract
 infection,
 Bronchitis,
 Sinusitis,
+System organ Very Common Uncommon Rare Very Not known
+class common rare
 Pharyngitis,
 Cystitis,
 Gastroenteritis
 viral,
-Oral herpes,
+Herpes virus
+infectionsb,
 Tooth infection,
 Laryngitis,
 Tinea pedis
 Blood and Neutropeniab, Mild
-lymphatic Anaemia thrombocytopen
-system disorders ia (platelets
+lymphatic Anaemia thrombocytopenia
+system disorders (platelets
 <100G/l)
-System organ Very Common Uncommon Rare Very Not known
-class common rare
-Immune system Mild allergic Hyper-
-disorders reactions sensitivity
-reactions
+Immune system Mild allergic Hyper-sensitivity
+disorders reactions reactions
 (immediate or
-delayed)
-including
+delayed) including
 anaphylaxis and
 angioedema
 Psychiatric Anxiety
@@ -58,21 +56,21 @@ disorders
 Vascular Hypertensionb
 disorders
 Respiratory, Interstitial lung Pulmonary
-thoracic and disease hypertensio
-mediastinal n
+thoracic and disease hypertension
+mediastinal
 disorders
 Gastrointestinal Diarrhoea, Pancreatitisb,c , Stomatitis
 disorders Nausea Abdominal pain Colitis
 upper,
 Vomiting,
 Toothache
-Hepatobiliary Alanine Gamma- Acute Drug-
-disorders aminotransfer glutamyltransfe hepatit induced
-ase (ALT) rase (GGT) is liver injury
-increaseb increaseb, (DILI)
-Aspartate
-aminotransferas
-e increaseb
+Hepatobiliary Alanine Gamma- Acute Drug-induced
+disorders aminotrans glutamyltransfera hepatiti liver injury
+ferase se (GGT) s (DILI)
+(ALT) increaseb,
+increaseb Aspartate
+aminotransferase
+increaseb
 Metabolism and Dyslipidaemia
 nutrition
 disorders
@@ -86,25 +84,23 @@ Musculoskeletal Musculoskeletal
 and connective pain,
 tissue disorders Myalgia,
 Arthralgia
+System organ Very Common Uncommon Rare Very Not known
+class common rare
 Renal and Pollakiuria
 urinary
 disorders
 Reproductive Menorrhagia
 system and
 breast disorders
-System organ Very Common Uncommon Rare Very Not known
-class common rare
 General Pain, Astheniaa
 disorders and
 administration
 site conditions
-Investigations Weight
-decrease,
-Neutrophil
-count decreaseb,
-White blood
-cell count
+Investigations Weight decrease,
+Neutrophil count
 decreaseb,
+White blood cell
+count decreaseb,
 Blood creatine
 phosphokinase
 increased
@@ -139,7 +135,6 @@ Mild increases in transaminase, ALT below or equal to 3-fold ULN were more frequ
 The frequency of elevations above 3-fold ULN and higher was balanced across treatment groups.
 These elevations in transaminase occurred mostly within the first 6 months of treatment and were reversible after treatment cessation.
 The recovery time varied between months and years.
-
 Blood pressure effects
 In placebo-controlled studies in adult patients the following was established:
 
@@ -179,7 +174,6 @@ In placebo-controlled studies, frequencies for psoriasis were 0.3%, 0.3% and 0.4
 Gastrointestinal disorders
 Pancreatitis has been reported infrequently in the post-marketing setting with teriflunomide in adults, including cases of necrotising pancreatitis and pancreatic pseudocyst.
 Pancreatic events may occur at any time during treatment with teriflunomide, which may lead to hospitalisation and/or require corrective treatment.
-
 Paediatric population
 
 The observed safety profile in paediatric patients (from 10 to 17 years-old) receiving teriflunomide daily was overall similar to that seen in adult patients.
