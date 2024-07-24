@@ -56,8 +56,9 @@ To avoid missed doses, the weekly dose may be administered up to 2 days before o
 
 If a dose is missed, the next dose should be administered as soon as practically possible.
 
-Termination of treatment
-If Buvidal treatment is discontinued, its prolonged-release characteristics and any withdrawal symptoms experienced by the patient must be considered, see section 4.4.
+Treatment goals and discontinuation
+Before initiating treatment with Buvidal treatment goals should be agreed together with the patient.
+If Buvidal treatment is discontinued, its prolonged-release characteristics must be considered, and it may be advisable to taper the dose gradually to prevent symptoms of withdrawal (see section 4.4).
 If the patient is switched to treatment with sublingual buprenorphine, this should be done one week after the last weekly dose or one month after the last monthly dose of Buvidal according to the recommendations in Table 1.
 
 Special populations

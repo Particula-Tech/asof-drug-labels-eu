@@ -29,11 +29,21 @@ CNS depression
 
 Buprenorphine may cause drowsiness particularly when taken together with alcohol or central nervous system depressants such as benzodiazepines, tranquilisers, sedatives, gabapentinoids or hypnotics (see sections 4.5 and 4.7).
 
-Dependence
+Tolerance and opioid use disorder (abuse and dependence)
 
 Buprenorphine is a partial agonist at the mu-opiate receptor and chronic administration can produce opioid dependence.
+Tolerance, physical and psychological dependence, and opioid use disorder (OUD) may develop upon repeated administration of opioids such as buprenorphine.
+Abuse or intentional misuse of buprenorphine may result in overdose and/or death.
+The risk of developing OUD is increased in patients with a personal or a family history (parents or siblings) of substance use disorders (including alcohol use disorder), in current tobacco users or in patients with a personal history of other mental health disorders (e.g. major depression, anxiety and personality disorders).
+
+Before initiating treatment with buprenorphine and during the treatment, treatment goals and a discontinuation plan should be agreed with the patient (see section 4.2).
+
+Patients will require monitoring for signs of drug-seeking behavior (e.g. too early requests for refills).
+This includes the review of concomitant opioids and psychoactive drugs (like benzodiazepines).
+For patients with signs and symptoms of OUD, consultation with an addiction specialist should be considered.
 
 Serotonin syndrome
+
 Concomitant administration of Buvidal and other serotonergic agents, such as MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants may result in serotonin syndrome, a potentially life-threatening condition (see section 4.5).
 If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, neuromuscular abnormalities, and/or gastrointestinal symptoms.
@@ -59,7 +69,6 @@ When initiating treatment with buprenorphine, it is important to be aware of the
 Buprenorphine products have caused precipitated withdrawal symptoms in opioid-dependent patients when administered before the agonist effects resulting from recent opioid use or misuse have subsided.
 To avoid precipitated withdrawal, induction must be undertaken when objective signs and symptoms of mild to moderate withdrawal are evident (see section 4.2).
 Discontinuation of treatment may result in a withdrawal syndrome that may be delayed in onset.
-
 Hepatic impairment
 
 Buprenorphine is extensively metabolised in the liver.
@@ -72,6 +81,7 @@ Renal impairment
 
 Metabolites of buprenorphine accumulate in patients with renal failure.
 Caution is recommended when dosing patients with severe renal impairment (creatinine clearance < 30 ml/min) (see sections 4.2 and 5.2).
+
 QT prolongation
 
 Caution should be exercised when co-administering Buvidal with other medicinal products that prolong the QT interval and in patients with a history of long QT syndrome or other risk factors for QT prolongation.
@@ -103,7 +113,6 @@ Therefore, opioids should be used with caution in patients with head injury, int
 Opioids should be used with caution in patients with hypotension, prostatic hypertrophy or urethral stenosis.
 
 Opioid-induced miosis, changes in the level of consciousness or changes in the perception of pain as a symptom of disease may interfere with patient evaluation or obscure the diagnosis or clinical course of concomitant disease.
-
 Opioids should be used with caution in patients with myxoedema, hypothyroidism, or adrenal cortical insufficiency (e.g. Addison’s disease).
 
 Opioids have been shown to increase intracholedochal pressure, and should be used with caution in patients with dysfunction of the biliary tract.

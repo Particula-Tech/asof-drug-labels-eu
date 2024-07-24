@@ -3,6 +3,7 @@
 Summary of the safety profile
 
 The adverse reactions most frequently reported for buprenorphine are headache, nausea, hyperhidrosis, insomnia, drug withdrawal syndrome and pain.
+
 Tabulated list of adverse reactions
 
 Table 2 presents adverse reactions reported for buprenorphine, including Buvidal.
@@ -40,6 +41,8 @@ Speech disorders
 Eye disorders Lacrimal disorder
 Mydriasis
 Miosis
+Table 2. Adverse reactions listed by body system
+System Organ Class Very common Common Uncommon Not known
 Ear and labyrinth Vertigo
 disorders
 Cardiac disorders Palpitations
@@ -59,8 +62,6 @@ Dry mouth
 Diarrhoea
 Gastrointestinal
 disorder
-Table 2. Adverse reactions listed by body system
-System Organ Class Very common Common Uncommon Not known
 Hepatobiliary Alanine
 disorders aminotransferase
 increased
@@ -98,6 +99,8 @@ Chills
 Neonatal withdrawal
 syndrome
 Chest pain
+Table 2. Adverse reactions listed by body system
+System Organ Class Very common Common Uncommon Not known
 Investigations Abnormal liver
 function tests
 Injury, poisoning and Procedural
@@ -114,13 +117,16 @@ The injection site reactions were all mild or moderate in severity and most even
 Injection site-related adverse reactions of abscess, ulceration and necrosis have been reported during
 post-marketing use with Buvidal.
 
+Drug dependence
+
+Repeated use of buprenorphine can lead to drug dependence, even at therapeutic doses.
+The risk of drug dependence may vary depending on a patient's individual risk factors, dosage, and duration of opioid treatment (see section 4.4).
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medical product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are
-
-asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Buvidal 64 mg prolonged-release solution for injection]
 
@@ -142,3 +148,5 @@ Injection site reaction urticaria necrosis
 Injection site
 Injury, poisoning Procedural
 and procedural dizziness
+
+Injection site-related adverse reactions of abscess, ulceration and necrosis have been reported during post-marketing use with Buvidal.

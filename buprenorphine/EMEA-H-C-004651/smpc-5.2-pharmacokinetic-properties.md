@@ -18,7 +18,6 @@ Biotransformation and elimination
 
 Buprenorphine is oxidatively metabolised by 14-N-dealkylation to N-desalkyl-buprenorphine (also known as norbuprenorphine) via cytochrome P450 CYP3A4 and by glucuroconjungation of the parent molecule and the dealkylated metabolite.
 Norbuprenorphine is a µ-opioid agonist with weak intrinsic activity.
-
 Subcutaneous administration of Buvidal results in significantly lower plasma concentrations of norbuprenorphine metabolite compared to administration of sublingual buprenorphine, due to avoidance of first-pass metabolism.
 
 Elimination of buprenorphine from Buvidal is release-rate limited with a terminal half-life ranging from 3 to 5 days.

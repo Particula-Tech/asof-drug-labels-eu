@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed with Buvidal.
+
 Buprenorphine should be used cautiously when co-administered with:
 
 - naltrexone and nalmefene: These are opioid antagonists that can block the pharmacological effects of buprenorphine.
@@ -10,9 +11,9 @@ Buprenorphine should be used cautiously when co-administered with:
 - benzodiazepines: This combination may result in death due to respiratory depression of central origin.
   Therefore, dosages must be closely monitored and this combination must be avoided in cases where there is a risk of misuse.
   Patients should be warned that it is extremely dangerous to self-administer non-prescribed benzodiazepines whilst taking this product, and should also be cautioned to use benzodiazepines concurrently with this product only as directed by their physician (see section 4.4).
-- gabapentinoids: This combination may result in death due to respiratory depression.
+- gabapentinoids: The concomitant use of Buvidal with gabapentinoids (gabapentin and pregabalin) may result in respiratory depression, hypotension, profound sedation, coma or death.
   Therefore, dosages must be closely monitored and this combination must be avoided in cases where there is a risk of misuse.
-  Patients should be cautioned to use gabapentinoids (such as pregabalin and gabapentin) concurrently with this product only as directed by their physician (see section 4.4).
+  Patients should be cautioned to use gabapentinoids concurrently with this product only as directed by their physician (see section 4.4).
 - Serotonergic medicinal products, such as MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants as the risk of serotonin syndrome, a potentially life-threatening condition, is increased (see section 4.4).
 - other central nervous system depressants: Other opioid derivatives (e.g. methadone, analgesics and antitussives); certain antidepressants, sedative H1-receptor antagonists, barbiturates, anxiolytics other than benzodiazepines, antipsychotics, clonidine and related substances.
   These combinations increase central nervous system depression.
@@ -36,3 +37,4 @@ Conversely, if a patient who is concomitantly treated with Buvidal and a CYP3A4 
   Conversely, if a patient who is concomitantly treated with Buvidal and a CYP3A4 inducer stops treatment with the CYP3A4 inducer, the patient should be monitored for symptoms of overtreatment.
 - UGT1A1 inhibitors may affect the systemic exposure of buprenorphine.
 - monoamine oxidase inhibitors (MAOI): Possible exacerbation of the opioids effects, based on experience with morphine.
+- concomitant administration of buprenorphine with anticholinergics or medications with anticholinergic activity (e.g. tricyclic antidepressants, antihistamines, antipsychotics, muscle relaxants, anti-parkinson drugs) may result in increased anticholinergic adverse effects.
