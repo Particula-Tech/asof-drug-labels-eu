@@ -18,3 +18,13 @@ EU/1/11/691/010
 EU/1/11/691/011
 EU/1/11/691/012
 EU/1/11/691/014
+
+[Eliquis 0.15 mg granules in capsules for opening]
+
+EU/1/11/691/016
+
+[Eliquis 0.5 mg coated granule in sachet]
+
+EU/1/11/691/017
+EU/1/11/691/018
+EU/1/11/691/019
