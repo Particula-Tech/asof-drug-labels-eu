@@ -21,7 +21,7 @@ The frequency categories are defined using the following convention: very common
 | Eye disorders1 |  |  | Visual disturbance* |
 | Ear and labyrinth disorders1 |  | Tinnitus* | Hearing loss* |
 | Cardiac disorders** |  |  | Tachycardia* |
-| Respiratory, thoracic and mediastinal disorders | Cough/productive cough, Dyspnoea, Changes in bronchial secretions (volume and viscosity)*, Haemoptysis* | Dysphonia | Bronchospasm***, Bronchial hyper-reactivity, Obstructive airways disorder |
+| Respiratory, thoracic and mediastinal disorders | Cough/productive cough, Dyspnoea, Changes in bronchial secretions (volume and viscosity)*, Haemoptysis | Dysphonia | Bronchospasm***, Bronchial hyper-reactivity, Obstructive airways disorder |
 | Gastrointestinal disorders |  | Nausea, Vomiting, Abdominal pain*, Diarrhoea*, Constipation* | Retching, Dyspepsia*, Flatulence* |
 | Hepatobiliary disorders |  |  | Hepatitis*, Hyperbilirubinaemia* |
 | Skin and subcutaneous tissue disorders |  | Rash | Urticaria*, Pruritus* |
@@ -77,6 +77,4 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

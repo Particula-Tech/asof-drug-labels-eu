@@ -15,10 +15,10 @@ If acute symptomatic bronchospasm occurs after receiving Quinsair, patients may 
 
 Elderly patients (≥ 65 years old)
 The safety and efficacy of Quinsair in elderly patients with CF have not been established.
+
 Renal impairment
 Doses do not need to be adjusted in patients with mild to moderate renal impairment .
 Quinsair is not recommended for use in patients with severe renal impairment.
-
 Hepatic impairment
 No dose adjustment is required (see section 5.2).
 

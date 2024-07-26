@@ -10,6 +10,7 @@ Levofloxacin can cause serious, potentially fatal hypersensitivity reactions (e.
 Severe bullous reactions
 
 Cases of severe bullous skin reactions such as Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported with systemic administration of levofloxacin (see section 4.8).
+
 Hepatobiliary disorders
 
 Cases of hepatic necrosis up to fatal hepatic failure have been reported with systemically administered levofloxacin, primarily in patients with severe underlying diseases (e.g. sepsis, see section 4.8).
@@ -57,7 +58,6 @@ Therefore, concomitant use of corticosteroids should be avoided.
 At the first sign of tendinitis (e.g. painful swelling, inflammation) the treatment with levofloxacin should be discontinued and alternative treatment should be considered.
 The affected limb(s) should be appropriately treated (e.g. immobilisation).
 Corticosteroids should not be used if signs of tendinopathy occur.
-
 Tendinitis was reported in patients with CF receiving Quinsair as an uncommon adverse reaction during clinical trials (see section 4.8).
 
 Bronchospasm
