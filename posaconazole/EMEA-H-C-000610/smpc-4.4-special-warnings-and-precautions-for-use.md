@@ -43,12 +43,16 @@ Venetoclax toxicity
 Concomitant administration of strong CYP3A inhibitors, including posaconazole, with the CYP3A4 substrate venetoclax, may increase venetoclax toxicities, including the risk of tumour lysis syndrome (TLS) and neutropenia (see sections 4.3 and 4.5).
 Refer to the venetoclax SmPC for detailed guidance.
 
-Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
+Rifamycin antibacterials (rifampicin, rifabutin), flucloxacillin, certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
 Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
 Gastrointestinal dysfunction
 There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
 Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
+Photosensitivity reaction
+Posaconazole may cause increased risk of photosensitivity reaction.
+Patients should be advised to avoid sun exposure during treatment without adequate protection such as protective clothing and sunscreen with a high sun protection factor (SPF).
+
 Glucose
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
 Patients with rare glucose-galactose malabsorption should not take this medicinal product.
@@ -68,7 +72,7 @@ This medicinal product contains up to 24.75 mg of propylene glycol (E1520) per 5
 
 [Noxafil 100 mg gastro-resistant tablets]
 
-Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), and efavirenz.
+Rifamycin antibacterials (rifampicin, rifabutin), flucloxacillin, certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), and efavirenz.
 
 Plasma exposure
 Posaconazole plasma concentrations following administration of posaconazole tablets are generally higher than those obtained with posaconazole oral suspension.

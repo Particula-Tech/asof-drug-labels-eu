@@ -80,7 +80,6 @@ Polyurethane 12 Fr or larger
 *PVC – polyvinyl chloride
 
 The tube should be flushed again with at least 10 mL water to ensure Noxafil is delivered and to clear the tube.
-
 After administration of the required volume, the remaining suspension in the mixing cup cannot be re-used and must be discarded.
 
 The dose should be administered orally within 30 minutes of mixing.

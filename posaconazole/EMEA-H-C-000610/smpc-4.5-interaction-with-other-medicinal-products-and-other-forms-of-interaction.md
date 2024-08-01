@@ -9,6 +9,10 @@ Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) 
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
 
+Flucloxacillin
+Flucloxacillin (a CYP450 inducer) may decrease plasma posaconazole concentrations.
+Concomitant use of posaconazole and flucloxacillin should be avoided unless the benefit to the patient outweighs the risk (see section 4.4).
+
 Efavirenz
 Efavirenz (400 mg once a day) decreased the Cmax and AUC of posaconazole by 45 % and 50 %, respectively.
 Concomitant use of posaconazole and efavirenz should be avoided unless the benefit to the patient outweighs the risk.
@@ -18,7 +22,6 @@ Combining fosamprenavir with posaconazole may lead to decreased posaconazole pla
 If concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
 Repeat dose administration of fosamprenavir (700 mg twice daily x 10 days) decreased the Cmax and AUC of posaconazole oral suspension (200 mg once daily on the 1st day, 200 mg twice daily on the 2nd day, then 400 mg twice daily x 8 days) by 21 % and 23 %, respectively.
 The effect of posaconazole on fosamprenavir levels when fosamprenavir is given with ritonavir is unknown.
-
 Phenytoin
 Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 % and 50 %, respectively.
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.
@@ -72,7 +75,7 @@ If it is considered that co-administration is unavoidable, then it is recommende
 Sirolimus concentrations should be measured upon initiation, during co-administration, and at discontinuation of posaconazole treatment, with sirolimus doses adjusted accordingly.
 It should be noted that the relationship between sirolimus trough concentration and AUC is changed during co-administration with posaconazole.
 As a result, sirolimus trough concentrations that fall within the usual therapeutic range may result in sub-therapeutic levels.
-Therefore trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
+Therefore, trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
 
 Ciclosporin
 In heart transplant patients on stable doses of ciclosporin, posaconazole oral suspension 200 mg once daily increased ciclosporin concentrations requiring dose reductions.
@@ -129,8 +132,6 @@ No clinically relevant effects were observed when posaconazole tablets are conco
 No dose adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient.
-
-Therefore, trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
 
 [Noxafil 300 mg concentrate for solution for infusion]
 
