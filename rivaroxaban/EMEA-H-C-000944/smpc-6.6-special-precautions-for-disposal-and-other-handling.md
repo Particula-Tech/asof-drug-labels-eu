@@ -1,12 +1,12 @@
 # 6.6 Special precautions for disposal and other handling
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
 Crushing of tablets
 Rivaroxaban tablets may be crushed and suspended in 50 mL of water and administered via a nasogastric tube or gastric feeding tube after confirming gastric placement of the tube.
 Afterwards, the tube should be flushed with water.
 Since rivaroxaban absorption is dependent on the site of active substance release, administration of rivaroxaban distal to the stomach should be avoided, as this can result in reduced absorption and thereby, reduced active substance exposure.
 Enteral feeding is not required immediately after administration of the 2.5 mg tablets.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Xarelto 10 mg film-coated tablets]
 
@@ -30,8 +30,8 @@ Suspension
 Before administration the granules must be suspended into a homogenous suspension with non-carbonated water giving a final concentration of 1 mg per mL.
 The amount of water to be used is:
 
-- 50 mL for the 100 mL bottle containing 2.625 g granules
-- 100 mL for the 250 mL bottle containing 5.25 g granules
+- 50 mL for the bottle containing 2.625 g granules (51.7 mg of rivaroxaban), resulting in 51.7 mL total volume after reconstitution
+- 100 mL for the bottle containing 5.25 g granules (103.4 mg of rivaroxaban), resulting in 103.4 mL total volume after reconstitution
 
 The bottle has to be shaken after reconstitution for 60 seconds and before each dose for 10 seconds.
 After reconstitution the medicinal product is a white to off-white suspension.

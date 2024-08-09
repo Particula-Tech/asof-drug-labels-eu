@@ -300,9 +300,9 @@ For patients with body weight of at least 30 kg, Xarelto oral suspension or tabl
 Xarelto oral suspension is provided with either 1 mL or 5 mL and 10 mL blue syringes (oral dosing syringe) with their adapter.
 To ensure accurate dosing it is recommended to use the blue syringes as follows (see Table 1):
 
-- 1 mL blue syringe (with 0.1 mL graduations) must be used in patients weighing less than 4 kg
-- 5 mL blue syringe (with 0.2 mL graduations) may be used in patients weighing 4 kg up to less than 30 kg
-- 10 mL blue syringe (with 0.5 mL graduations) is only recommended for use in patients weighing 12 kg or more
+- 1 mL blue syringe (with 0.1 mL graduations) for patients weighing less than 4 kg
+- 5 mL blue syringe (with 0.2 mL graduations) for patients weighing 4 kg up to less than 30 kg
+- 10 mL blue syringe (with 0.5 mL graduations) for patients weighing 12 kg or more
 
 For patients weighing 12 kg up to less than 30 kg, either 5 mL or 10 mL blue syringes can be used.
 It is recommended that the healthcare professional advises the patient or caregiver which blue syringe to use to ensure that the correct volume is administered.

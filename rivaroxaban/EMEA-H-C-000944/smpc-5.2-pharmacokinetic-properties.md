@@ -109,7 +109,7 @@ Rivaroxaban 15 mg tablets should be taken with feeding or with food (see section
 
 Plasma protein binding in adults is high at approximately 92% to 95%, with serum albumin being the main binding component.
 
-No data on rivaroxaban plasma protein binding specific to children is available.
+In vitro data does not indicate relevant differences in rivaroxaban plasma protein binding in children across different age groups and compared to adults.
 No PK data following intravenous administration of rivaroxaban to children is available.
 Vss estimated via population PK modelling in children (age range 0 to < 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
 
