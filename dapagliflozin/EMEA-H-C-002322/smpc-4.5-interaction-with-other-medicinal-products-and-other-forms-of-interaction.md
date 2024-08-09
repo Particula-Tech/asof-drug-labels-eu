@@ -16,6 +16,7 @@ UDP glucuronosyltransferase 1A9 (UGT1A9).
 
 In in vitro studies, dapagliflozin neither inhibited cytochrome P450 (CYP) 1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, nor induced CYP1A2, CYP2B6 or CYP3A4.
 Therefore, dapagliflozin is not expected to alter the metabolic clearance of coadministered medicinal products that are metabolised by these enzymes.
+
 Effect of other medicinal products on dapagliflozin
 
 Interaction studies conducted in healthy subjects, using mainly a single-dose design, suggest that the pharmacokinetics of dapagliflozin are not altered by metformin, pioglitazone, sitagliptin, glimepiride, voglibose, hydrochlorothiazide, bumetanide, valsartan, or simvastatin.

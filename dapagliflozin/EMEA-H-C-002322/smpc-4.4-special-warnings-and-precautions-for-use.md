@@ -65,7 +65,7 @@ Urinary tract infections
 
 Urinary glucose excretion may be associated with an increased risk of urinary tract infection; therefore, temporary interruption of dapagliflozin should be considered when treating pyelonephritis or urosepsis.
 
-Elderly (≥65 years)
+Elderly (≥ 65 years)
 
 Elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
 
@@ -83,6 +83,11 @@ Chronic kidney disease
 
 There is no experience with dapagliflozin for the treatment of chronic kidney disease in patients without diabetes who do not have albuminuria.
 Patients with albuminuria may benefit more from treatment with dapagliflozin.
+
+Increased haematocrit
+
+Increased haematocrit has been observed with dapagliflozin treatment (see section 4.8).
+Patients with pronounced elevations in haematocrit should be monitored and investigated for underlying haematological disease.
 
 Lower limb amputations
 

@@ -14,25 +14,25 @@ The most frequently reported adverse reactions across the clinical studies were 
 
 Heart failure
 In the dapagliflozin cardiovascular outcome study in patients with heart failure with reduced ejection fraction (DAPA-HF study), 2,368 patients were treated with dapagliflozin 10 mg and 2,368 patients with placebo for a median exposure time of 18 months.
-The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with eGFR ≥30 mL/min/1.73 m2.
+The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with eGFR ≥ 30 mL/min/1.73 m2.
 In the dapagliflozin cardiovascular outcome study in patients with heart failure with left ventricular ejection fraction > 40% (DELIVER), 3,126 patients were treated with dapagliflozin 10 mg and 3,127 patients with placebo for a median exposure time of 27 months.
-The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with eGFR ≥25 mL/min/1.73 m2.
+The patient population included patients with type 2 diabetes mellitus and without diabetes, and patients with eGFR ≥ 25 mL/min/1.73 m2.
 
 The overall safety profile of dapagliflozin in patients with heart failure was consistent with the known safety profile of dapagliflozin.
 
 Chronic kidney disease
 In the dapagliflozin renal outcome study in patients with chronic kidney disease (DAPA-CKD),
 2,149 patients were treated with dapagliflozin 10 mg and 2,149 patients with placebo for a median exposure time of 27 months.
-The patient population included patients with type 2 diabetes mellitus and without diabetes, with eGFR ≥25 to ≤75 mL/min/1.73 m2, and albuminuria (urine albumin creatinine ratio [UACR] ≥200 and ≤5000 mg/g).
+The patient population included patients with type 2 diabetes mellitus and without diabetes, with eGFR ≥ 25 to ≤ 75 mL/min/1.73 m2, and albuminuria (urine albumin creatinine ratio [UACR] ≥ 200 and ≤ 5000 mg/g).
 Treatment was continued if eGFR fell to levels below 25 mL/min/1.73 m2.
-
 The overall safety profile of dapagliflozin in patients with chronic kidney disease was consistent with the known safety profile of dapagliflozin.
+
 Tabulated list of adverse reactions
 
 The following adverse reactions have been identified in the placebo-controlled clinical studies and postmarketing surveillance.
 None were found to be dose-related.
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
-Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
+Frequency categories are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
 
 Table 1.
 Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
@@ -63,8 +63,9 @@ Rash includes the following preferred terms, listed in order of frequency in cli
 In active- and placebo-controlled clinical studies (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin (1.4%) and all control (1.4%), respectively.
 kReported in the cardiovascular outcomes study in patients with type 2 diabetes (DECLARE).
 Frequency is based on annual rate.
-*Reported in ≥2% of subjects and ≥1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
-**Reported by the investigator as possibly related, probably related or related to study treatment and reported in ≥0.2% of subjects and ≥0.1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
+*Reported in ≥ 2% of subjects and ≥ 1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
+**Reported by the investigator as possibly related, probably related or related to study treatment and reported in
+≥ 0.2% of subjects and ≥ 0.1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 
 Description of selected adverse reactions
 
@@ -162,10 +163,10 @@ The numbers of patients without diabetes reporting serious adverse events of uri
 Increased creatinine
 Adverse reactions related to increased creatinine were grouped (e.g. decreased renal creatinine clearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate).
 In the 13-study safety pool, this grouping of reactions was reported in 3.2% and 1.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
-In patients with normal renal function or mild renal impairment (baseline eGFR ≥60 mL/min/1.73 m2) this grouping of reactions were reported in 1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
-These reactions were more common in patients with baseline eGFR ≥30 and < 60 mL/min/1.73 m2 (18.5% dapagliflozin 10 mg versus 9.3% placebo).
+In patients with normal renal function or mild renal impairment (baseline eGFR ≥ 60 mL/min/1.73 m2) this grouping of reactions were reported in 1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
+These reactions were more common in patients with baseline eGFR ≥ 30 and < 60 mL/min/1.73 m2 (18.5% dapagliflozin 10 mg versus 9.3% placebo).
 
-Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤44 micromoles/L (≤0.5 mg/dL) from baseline.
+Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤ 44 micromoles/L (≤ 0.5 mg/dL) from baseline.
 The increases in creatinine were generally transient during continuous treatment or reversible after discontinuation of treatment.
 
 In the DECLARE study, including elderly patients and patients with renal impairment (eGFR less than 60 mL/min/1.73 m2), eGFR decreased over time in both treatment groups.

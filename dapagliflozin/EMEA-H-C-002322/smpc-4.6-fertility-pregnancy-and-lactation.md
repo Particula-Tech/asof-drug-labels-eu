@@ -7,7 +7,6 @@ Studies in rats have shown toxicity to the developing kidney in the time period 
 Therefore, the use of dapagliflozin is not recommended during the second and third trimesters of pregnancy.
 
 When pregnancy is detected, treatment with dapagliflozin should be discontinued.
-
 Breast-feeding
 
 It is unknown whether dapagliflozin and/or its metabolites are excreted in human milk.
