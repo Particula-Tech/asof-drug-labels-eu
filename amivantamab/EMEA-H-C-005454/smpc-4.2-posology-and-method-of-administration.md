@@ -4,11 +4,13 @@ Treatment with Rybrevant should be initiated and supervised by a physician exper
 
 Rybrevant should be administered by a healthcare professional with access to appropriate medical support to manage infusion-related reactions (IRRs) if they occur.
 
-Before initiation of Rybrevant therapy, EGFR Exon 20 insertion mutation-positive status in tumour tissue or plasma specimens must be established using a validated test method.
-If no mutation is detected in a plasma specimen, tumour tissue should be tested if available in sufficient amount and quality due to the potential for false negative results using a plasma-test (see section 5.1).
+Before initiation of Rybrevant therapy, EGFR mutation status in tumour tissue or plasma specimens must be established using a validated test method.
+If no mutation is detected in a plasma specimen, tumour tissue should be tested if available in sufficient amount and quality due to the potential for false negative results using a plasma-test.
+Testing may be performed at any time from initial diagnosis until the initiation of therapy; testing does not need to be repeated once EGFR mutation status has been established (see section 5.1).
 
 Posology
 Premedications should be administered to reduce the risk of IRRs with Rybrevant (see below “Dose modifications” and “Recommended concomitant medicinal products”).
+
 Every 3 weeks
 The recommended dosages of Rybrevant, when used in combination with carboplatin and pemetrexed, is provided in Table 1 (see below “Infusion rates” and Table 5).
 
@@ -45,22 +47,20 @@ It is recommended that patients are treated with Rybrevant until disease progres
 
 Missed dose
 If a planned dose is missed, the dose should be administered as soon as possible and the dosing schedule should be adjusted accordingly, maintaining the treatment interval.
-
 Dose modifications
 Dosing should be interrupted for Grade 3 or 4 adverse reactions until the adverse reaction resolves to ≤Grade 1 or baseline.
 If an interruption is 7 days or less, restart at the current dose.
 If an interruption is longer than 7 days, it is recommended restarting at a reduced dose as presented in Table 3.
 See also specific dose modifications for specific adverse reactions below Table 3.
+
 Table 3: Recommended dose modifications for adverse reactions
 
-| Dose* | Dose after 1st interruption for adverse reaction | Dose after 2nd interruption for adverse reaction | Dose after 3rd interruption for adverse reaction |
+| Dose at which the adverse reaction occurred | Dose after 1st interruption for adverse reaction | Dose after 2nd interruption for adverse reaction | Dose after 3rd interruption for adverse reaction |
 | --- | --- | --- | --- |
 | 1050 mg | 700 mg | 350 mg | Discontinue Rybrevant |
 | 1400 mg | 1050 mg | 700 mg |  |
 | 1750 mg | 1400 mg | 1050 mg |  |
 | 2100 mg | 1750 mg | 1400 mg |  |
-
-* Dose at which the adverse reaction occurred
 
 Infusion-related reactions
 Infusion should be interrupted at the first sign of IRRs.
@@ -95,12 +95,15 @@ Table 4: Dosing schedule of premedications
 |  |  | Oral | 30 to 60 minutes |
 | Antipyretic* | Paracetamol/Acetaminophen (650 to 1000 mg) | Intravenous | 15 to 30 minutes |
 |  |  | Oral | 30 to 60 minutes |
-| Glucocorticoid‡ | Dexamethasone (20 mg) or equivalent | Intravenous | 45 to 60 minutes |
-| Glucocorticoid+ | Dexamethasone (10 mg) or equivalent | Intravenous | 45 to 60 minutes |
+| Glucocorticoid‡ | Dexamethasone (20 mg) or equivalent | Intravenous | 60 to 120 minutes |
+
+Glucocorticoid+ Dexamethasone (10 mg) or Intravenous 45 to 60 minutes
+equivalent
 
 * Required at all doses.
 ‡ Required at initial dose (Week 1, Day 1) or at the next subsequent dose in the event of an IRR.
 + Required at second dose (Week 1, Day 2); optional for subsequent doses.
+
 Special populations
 
 Paediatric population

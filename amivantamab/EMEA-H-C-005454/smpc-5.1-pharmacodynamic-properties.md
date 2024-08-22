@@ -3,18 +3,72 @@
 Pharmacotherapeutic group: Monoclonal antibodies and antibody drug conjugates, ATC code: L01FX18.
 
 Mechanism of action
-Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR Exon 20 insertion mutations.
+Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, L858R substitution, and Exon 20 insertion mutations.
 Amivantamab binds to the extracellular domains of EGFR and MET.
 
 Amivantamab disrupts EGFR and MET signalling functions through blocking ligand binding and enhancing degradation of EGFR and MET, thereby preventing tumour growth and progression.
 The presence of EGFR and MET on the surface of tumour cells also allows for targeting of these cells for destruction by immune effector cells, such as natural killer cells and macrophages, through antibody-dependent cellular cytotoxicity (ADCC) and trogocytosis mechanisms, respectively.
-
 Pharmacodynamic effects
 
 Albumin
 Amivantamab decreased serum albumin concentration, a pharmacodynamic effect of MET inhibition, typically during the first 8 weeks (see section 4.8); thereafter, albumin concentration stabilised for the remainder of amivantamab treatment.
 
 Clinical efficacy and safety
+
+Previously treated NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (MARIPOSA-2)
+MARIPOSA-2 is a randomised (2:2:1) open-label, multicentre Phase 3 study in patients with locally advanced or metastatic NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (mutation testing could have been performed at or after the time of locally advanced or metastatic disease diagnosis.
+Testing did not need to be repeated at the time of study entry once EGFR mutation status was previously established) after failure of prior therapy including a third-generation EGFR tyrosine kinase inhibitor (TKI).
+A total of 657 patients were randomised in the study, of which 263 received carboplatin and pemetrexed (CP); and 131 which received Rybrevant in combination with carboplatin and pemetrexed (Rybrevant-CP).
+Additionally, 236 patients were randomised to receive Rybrevant in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study.
+Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients < 80 kg) or 2100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
+Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
+Pemetrexed was administered intravenously at 500 mg/m2 on once every 3 weeks until disease progression or unacceptable toxicity.
+
+Patients were stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no).
+
+Of the 394 patients randomised to the Rybrevant-CP arm or CP arm, the median age was 62 (range: 31-85) years, with 38% of the patients ≥65 years of age; 60% were female; and 48% were Asian and 46% were White.
+Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (40%) or 1 (60%); 66% never smoked; 45% had history of brain metastasis, and 92% had Stage IV cancer at initial diagnosis.
+
+Rybrevant in combination with carboplatin and pemetrexed demonstrated a statistically significant improvement in progression-free survival (PFS) compared to carboplatin and pemetrexed, with a HR of 0.48 (95% CI: 0.36, 0.64; p<0.0001).
+At the time of the second interim analysis for OS, with a median follow-up of approximately 18.6 months for Rybrevant-CP and approximately 17.8 months for CP, the OS HR was 0.73 (95%CI: 0.54, 0.99; p=0.0386).
+This was not statistically significant (tested at a prespecified significance level of 0.0142).
+
+Efficacy results are summarised in Table 9.
+
+Table 9: Efficacy results in MARIPOSA-2
+
+|  | Rybrevant+ carboplatin+ pemetrexed (N=131) | carboplatin+ pemetrexed (N=263) |
+| --- | --- | --- |
+| Progression-free survival (PFS)a |  |  |
+| Number of events (%) | 74 (57) | 171 (65) |
+| Median, months (95% CI) | 6.3 (5.6, 8.4) | 4.2 (4.0, 4.4) |
+| HR (95% CI); p-value | 0.48 (0.36, 0.64); p<0.0001 |  |
+| Overall survival (OS) |  |  |
+| Number of events (%) | 65 (50) | 143 (54) |
+| Median, months (95% CI) | 17.7 (16.0, 22.4) | 15.3 (13.7, 16.8) |
+| HR (95% CI); p-valueb | 0.73 (0.54, 0.99); p=0.0386 |  |
+| Objective response ratea |  |  |
+| ORR, % (95% CI) | 64% (55%, 72%) | 36% (30%, 42%) |
+| Odds Ratio (95% CI); p-value | 3.10 (2.00, 4.80); p<0.0001 |  |
+| Duration of response (DOR) a |  |  |
+| Median (95% CI), months | 6.90 (5.52, NE) | 5.55 (4.17, 9.56) |
+| Patients with DOR ≥6 months | 31.9% | 20.0% |
+
+CI = Confidence Interval
+PFS and ORR results are from data cut-off 10 July-2023 when hypothesis testing and final analysis for these endpoints was performed.
+OS results are from data cut-off 26 April 2024 from the second interim OS analysis.
+a BICR-assessed b The p-value is compared to a 2-sided significance level of 0.0142.
+Thus the OS results are not significant as of the second interim analysis.
+
+Figure 1: Kaplan-Meier curve of PFS in previously treated NSCLC patients by BICR assessment
+
+The PFS benefit of Rybrevant-CP compared to CP was consistent across all the predefined subgroups analysed, including ethnicity, age, gender, smoking history, and CNS metastases status at study entry.
+Figure 2: Kaplan-Meier curve of OS in previously treated NSCLC patients
+
+Intracranial metastases efficacy data
+Patients with asymptomatic or previously treated and stable intracranial metastases were eligible to be randomised in MARIPOSA-2.
+Treatment with Rybrevant-CP was associated with a numeric increase in intracranial ORR (23.3% for Rybrevant-CP versus 16.7% for CP, odds ratio of 1.52; 95% CI (0.51, 4.50), and intracranial DOR (13.3 months; 95% CI (1.4, NE) in the Rybrevant-CP arm compared with 2.2 months; 95% CI (1.4, NE) in the CP arm).
+The median follow-up for Rybrevant-CP was approximately 18.6 months.
 
 Previously-untreated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (PAPILLON)
 PAPILLON is a randomised, open-label, multicentre Phase 3 study comparing treatment with Rybrevant in combination with carboplatin and pemetrexed to chemotherapy alone (carboplatin and pemetrexed) in patients with treatment-naïve, locally advanced or metastatic NSCLC with activating EGFR Exon 20 insertion mutations.
@@ -23,8 +77,7 @@ Central testing was also performed using the AmoyDx® LC10 tissue test, Thermo F
 
 Patients with brain metastases at screening were eligible for participation once they were definitively treated, clinically stable, asymptomatic, and off corticosteroid treatment for at least 2 weeks prior to randomisation.
 
-Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients
-≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients
+Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients
 < 80 kg) or 2100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
 Pemetrexed was administered intravenously at 500 mg/m2 on once every 3 weeks until disease progression or unacceptable toxicity.
@@ -36,9 +89,9 @@ Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (35%
 The primary endpoint for PAPILLON was PFS, as assessed by BICR.
 The median follow-up was14.9 months (range: 0.3 to 27.0).
 
-Efficacy results are summarised in Table 9.
+Efficacy results are summarised in Table 10.
 
-Table 9: Efficacy results in PAPILLON
+Table 10: Efficacy results in PAPILLON
 
 |  | Rybrevant + carboplatin+ pemetrexed (N=153) | carboplatin+ pemetrexed (N=155) |
 | --- | --- | --- |
@@ -60,12 +113,12 @@ CI = confidence interval
 NE = not estimable a Blinded Independent Central Review by RECIST v1.1 b Based on Kaplan-Meier estimate.
 c Based on the results of an updated OS with median follow-up of 20.9 months.
 The OS analysis was not adjusted for the potentially confounding effects of crossover (78 [50.3%] patients on the carboplatin + pemetrexed arm who received subsequent Rybrevant monotherapy treatment).
-Figure 1: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
+Figure 3: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
 
 The PFS benefit of Rybrevant in combination with carboplatin and pemetrexed compared to carboplatin and pemetrexed was consistent across all the predefined subgroups of brain metastases at study entry (yes or no), age (< 65 or ≥65), sex (male or female), race (Asian or non-Asian), weight
 (< 80 kg or ≥80 kg), ECOG performance status (0 or 1), and smoking history (yes or no).
 
-Figure 2: Kaplan-Meier curve of OS in previously untreated NSCLC patients by BICR assessment
+Figure 4: Kaplan-Meier curve of OS in previously untreated NSCLC patients by BICR assessment
 
 Previously-treated non-small cell lung cancer(NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
 CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant in patients with locally advanced or metastatic NSCLC.
@@ -82,9 +135,9 @@ The median number of prior therapies was 2 (range: 1 to 7 therapies).
 At baseline, 29% had Eastern Cooperative Oncology Group (ECOG) performance status of 0 and 70% had ECOG performance status of 1; 57% never smoked; 100% had Stage IV cancer; and 25% had previous treatment for brain metastases.
 Insertions in Exon 20 were observed at 8 different residues; the most common residues were A767 (22%), S768 (16%), D770 (12%), and N771 (11%).
 
-Efficacy results are summarised in Table 10.
+Efficacy results are summarised in Table 11.
 
-Table 10: Efficacy results in CHRYSALIS
+Table 11: Efficacy results in CHRYSALIS
 
 |  | Investigator assessment (N=114) |
 | --- | --- |

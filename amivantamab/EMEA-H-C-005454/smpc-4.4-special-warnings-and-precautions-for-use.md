@@ -14,7 +14,6 @@ Patients should be treated in a setting with appropriate medical support to trea
 Infusions should be interrupted at the first sign of IRRs of any severity and post-infusion medicinal products should be administered as clinically indicated.
 Upon resolution of symptoms, the infusion should be resumed at 50% of the previous rate.
 For recurrent Grade 3 or Grade 4 IRRs, Rybrevant should be permanently discontinued (see section 4.2).
-
 Interstitial lung disease
 Interstitial lung disease (ILD) or ILD-like adverse reactions (e.g., pneumonitis) have been reported in patients treated with amivantamab (see section 4.8).
 Patients should be monitored for symptoms indicative of ILD/pneumonitis (e.g., dyspnoea, cough, fever).
@@ -27,6 +26,7 @@ Rash (including dermatitis acneiform), pruritus and dry skin occurred in patient
 Patients should be instructed to limit sun exposure during and for 2 months after Rybrevant therapy.
 Protective clothing and use of broad-spectrum UVA/UVB sunscreen are advisable.
 Alcohol-free emollient cream is recommended for dry areas.
+A prophylactic approach to rash prevention should be considered.
 If skin reactions develop, topical corticosteroids and topical and/or oral antibiotics should be administered.
 For Grade 3 or poorly-tolerated Grade 2 events, systemic antibiotics and oral steroids should also be administered.
 Patients presenting with severe rash that has an atypical appearance or distribution or lack improvement within 2 weeks should be referred promptly to a dermatologist.
