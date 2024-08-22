@@ -347,6 +347,15 @@ Twelve months after the completion of treatment, MRD negativity rates in periphe
 
 TLS was reported in 6 patients treated with chlorambucil plus obinutuzumab and no TLS was reported in IMBRUVICA in combination with venetoclax.
 
+Overall follow-up of 58 months (median of 52 months)
+With an overall follow-up of 58 months (median follow-up time on study of 52 months) in Study CLL3011, a 77% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm.
+The overall survival hazard ratio was 0.458 [95% CI (0.257, 0.818), nominal p=0.0068, not type 1 error controlled].
+There were 17 (16.0%) deaths in the IMBRUVICA plus venetoclax arm and 36 (34.3%) in the chlorambucil plus obinutuzumab arm.
+Median time to next treatment was not reached for either arm (HR=0.164; 95% CI: 0.081, 0.330) with 9.4% of subjects in the IMBRUVICA plus venetoclax arm and 41.0% of subjects in the chlorambucil plus obinutuzumab arm having initiated subsequent anticancer therapy.
+Kaplan-Meier curve for OS is shown in Figure 9.
+
+Figure 9: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in Study CLL3011 with 58 Months Follow-up
+
 The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax in patients with previously untreated CLL were further evaluated in a cohort of the phase 2, multi-center, 2-cohort study (PCYC-1142-CA).
 The study enrolled previously untreated patients with CLL who were 70 years or younger.
 The study enrolled 323 patients, of these, 159 patients were enrolled to fixed duration therapy consisting of 3 cycles of single agent IMBRUVICA followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose titration schedule).
@@ -362,8 +371,8 @@ At baseline assessment for risk of tumor lysis syndrome, 21% of patients had hig
 
 After 3 cycles of single-agent IMBRUVICA lead-in therapy, 1% of patients had high tumor burden.
 High tumor burden was defined as any lymph node ≥10 cm, or any lymph node ≥5 cm and absolute lymphocyte count ≥25×109/L.
-
 With a median follow-up time on study of 28 months, efficacy results for PCYC-1142-CA assessed by an IRC according to IWCLL criteria are shown in Table 11, and rates of minimal residual disease (MRD) negativity are shown in Table 12.
+
 Table 11: Efficacy Results in Study PCYC 1142-CA (Fixed Duration Cohort)
 
 | Endpointa | IMBRUVICA + Venetoclax |  |
@@ -403,7 +412,6 @@ In patients with del 17p/TP53 mutation (n=27) in PCYC-1142-CA the overall respon
 The MRD negativity rate in patients with del 17p/TP53 mutation 3 months after completion of treatment in bone marrow and peripheral blood was 40.7% and 59.3%, respectively.
 
 No TLS was reported in patients treated with IMBRUVICA in combination with venetoclax.
-
 Patients with CLL who received at least one prior therapy
 Single agent
 The safety and efficacy of IMBRUVICA in patients with CLL were demonstrated in one uncontrolled study and one randomised, controlled study.
@@ -473,14 +481,14 @@ The efficacy was similar across all of the subgroups examined, including in pati
 | ≥5 cm | 225 | 0.191 | (0.117; 0.311) |
 | Hazard ratio based on non-stratified analysis |  |  |  |
 
-The Kaplan-Meier curve for PFS is shown in Figure 9.
+The Kaplan-Meier curve for PFS is shown in Figure 10.
 
-Figure 9: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA
+Figure 10: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA
 
 Final Analysis at 65-month follow-up
 With a median follow-up time on study of 65 months in Study PCYC-1112-CA, an 85% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm.
 The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.47, 56.18)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.15 [95% CI (0.11, 0.20)].
-The updated Kaplan-Meier curve for PFS is shown in Figure 10.
+The updated Kaplan-Meier curve for PFS is shown in Figure 11.
 The investigator-assessed ORR in the IMBRUVICA arm was 87.7% versus 22.4% in the ofatumumab arm.
 At the time of final analysis, 133 (67.9%) of the 196 subjects originally randomised to the ofatumumab treatment arm had crossed over to ibrutinib treatment.
 The median investigator-assessed PFS2 (time from randomisation until PFS event after first subsequent anti-neoplastic therapy) according to IWCLL criteria was 65.4 months [95% CI (51.61, not estimable)] in the IMBRUVICA arm and 38.5 months [95% CI (19.98, 47.24)] in the ofatumumab arm, respectively; HR=0.54 [95% CI (0.41, 0.71)].
@@ -488,7 +496,7 @@ The median OS was 67.7 months [95% CI (61.0, not estimable)] in the IMBRUVICA ar
 
 The treatment effect of ibrutinib in Study PCYC-1112-CA was consistent across high-risk patients with deletion 17p/TP53 mutation, deletion 11q, and/or unmutated IGHV.
 
-Figure 10: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA at Final Analysis with 65 Months Follow-up
+Figure 11: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA at Final Analysis with 65 Months Follow-up
 
 Combination therapy
 The safety and efficacy of IMBRUVICA in patients previously treated for CLL were further evaluated in a randomised, multicenter, double-blinded phase 3 study of IMBRUVICA in combination with BR versus placebo+BR (Study CLL3001).
@@ -568,7 +576,7 @@ Grade 3 or 4 infusion-related reactions were observed in 1% of patients treated 
 Tumor flare in the form of IgM increase occurred in 8.0% of subjects in the IMBRUVICA+rituximab arm and 46.7% of subjects in the placebo+rituximab arm.
 
 Final Analysis at 63-month follow-up
-With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for PCYC-1127-CA are shown in Table 17 and the Kaplan-Meier curve for PFS is shown in Figure 11.
+With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for PCYC-1127-CA are shown in Table 17 and the Kaplan-Meier curve for PFS is shown in Figure 12.
 PFS hazard ratios for treatment-naïve patients (0.31 [95% CI (0.14, 0.69)]) and previously treated patients (0.22 [95% CI (0.11, 0.43)]) were consistent with the PFS hazard ratio for the ITT population.
 Table 17: Efficacy results in Study PCYC-1127-CA (Final Analysis*)
 
@@ -601,7 +609,7 @@ b 4-year PFS estimates were 70.6% [95% CI (58.1, 80.0)] in the IMBRUVICA + R arm
 c p-value associated with response rate was <0.0001.
 d Response rate was 76% vs 41% in treatment-naïve patients and 76% vs 22% in previously treated patients for the IMBRUVICA + R arm vs the placebo + R arm, respectively.
 e Defined as increase of ≥2 g/dL over baseline regardless of baseline value, or an increase to >11 g/dL with a ≥0.5 g/dL improvement if baseline was ≤11 g/dL.
-Figure 11: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1127-CA (Final Analysis)
+Figure 12: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1127-CA (Final Analysis)
 
 Study PCYC-1127-CA had a separate monotherapy arm of 31 patients with previously treated WM who failed prior rituximab-containing therapy and received single agent IMBRUVICA.
 The median age was 67 years (range, 47 to 90 years).

@@ -26,17 +26,18 @@ Once the symptoms of the toxicity have resolved to grade 1 or baseline (recovery
 
 Recommended dose modifications for non-cardiac events are described below:
 
-| Events | Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
+| Events† | Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
 | --- | --- | --- | --- |
 | Grade 3 or 4 non-haematological toxicities Grade 3 or 4 neutropenia with infection or fever Grade 4 haematological toxicities | First* | restart at 560 mg daily | restart at 420 mg daily |
 |  | Second | restart at 420 mg daily | restart at 280 mg daily |
 |  | Third | restart at 280 mg daily | restart at 140 mg daily |
 |  | Fourth | discontinue IMBRUVICA | discontinue IMBRUVICA |
 
+† Grading based on National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE) criteria, or International Workshop on Chronic Lymphocytic Leukemia (IWCLL) criteria for hematologic toxicities in CLL/SLL.
 * When resuming treatment, restart at the same or lower dose based on benefit-risk evaluation.
 If the toxicity reoccurs, reduce daily dose by 140 mg.
 
-Recommended dose modifications for events of cardiac failure or cardiac arrhythmias events are described below:
+Recommended dose modifications for events of cardiac failure or cardiac arrhythmias are described below:
 
 | Events | Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
 | --- | --- | --- | --- |

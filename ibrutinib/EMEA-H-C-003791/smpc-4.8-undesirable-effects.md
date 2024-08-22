@@ -79,6 +79,7 @@ Uncommon Angioedema <1 <1
 Panniculitis* <1 <1
 Neutrophilic dermatoses* <1 <1
 Pyogenic granuloma <1 0
+Cutaneous vasculitis <1 0
 Rare Stevens-Johnson syndrome <1 <1
 Musculoskeletal Very Arthralgia 24 2
 and connective common Muscle spasms 15 <1
@@ -143,7 +144,9 @@ Bruising* 27 <1
 Gastrointestinal Very common Diarrhoea 47 4
 disorders Vomiting 15 1
 Hepatobiliary disorders Uncommon Hepatic failure*,# <1 <1
-Skin and subcutaneous Very common Rash* 34 3
+Very common Rash* 34 3
+Skin and subcutaneous Common Urticaria 1 <1
+tissue disorders Erythema 3 <1
 Musculoskeletal and Very common Arthralgia 24 2
 connective tissue Muscle spasms 15 <1
 disorders Musculoskeletal pain* 36 3
