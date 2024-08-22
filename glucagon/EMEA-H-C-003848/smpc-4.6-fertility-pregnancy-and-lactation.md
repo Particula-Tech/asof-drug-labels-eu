@@ -10,7 +10,8 @@ The use of glucagon has been reported in pregnant women with diabetes and no har
 
 Breast-feeding
 
-Baqsimi can be used during breast-feeding Glucagon is cleared from the bloodstream very quickly and thus the amount excreted in the milk of nursing mothers following treatment of severe hypoglycaemic reactions is expected to be extremely small.
+Baqsimi can be used during breast-feeding.
+Glucagon is cleared from the bloodstream very quickly and thus the amount excreted in the milk of nursing mothers following treatment of severe hypoglycaemic reactions is expected to be extremely small.
 As glucagon is degraded in the digestive tract and cannot be absorbed in its intact form, it will not exert any metabolic effect in the child.
 
 Fertility

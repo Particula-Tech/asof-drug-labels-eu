@@ -3,10 +3,12 @@
 No interaction studies have been performed.
 
 Insulin
-Reacts antagonistically towards glucagon
-Indometacin
 
-When used with indometacin, glucagon may lose its ability to raise blood glucose or may even produce hypoglycaemia.
+Insulin reacts antagonistically towards glucagon.
+
+Indomethacin
+
+When used with indomethacin, glucagon may lose its ability to raise blood glucose or may even produce hypoglycaemia.
 
 Beta-blockers
 

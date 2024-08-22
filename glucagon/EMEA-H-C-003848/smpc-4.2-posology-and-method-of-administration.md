@@ -5,15 +5,18 @@ Posology
 Adults, adolescents and children aged 4 years and over
 The recommended dose is 3 mg glucagon administered into one nostril.
 
-Elderly (≥ 65 years)
+Elderly
 No dose adjustment is required based on age.
 
 Efficacy and safety data are very limited in patients aged 65 years and absent in patients aged 75 and above.
 
-Renal and hepatic impairment
-No dose adjustment is required based on renal and hepatic function.
+Renal impairment
+No dose adjustment is required based on renal function.
 
-Paediatric population 0 - < 4 years
+Hepatic impairment
+No dose adjustment is required based on hepatic function.
+
+Paediatric population aged 0 - < 4 years
 The safety and efficacy of Baqsimi in infants and children aged 0 to < 4 years have not yet been established.
 No data are available.
 
@@ -23,6 +26,11 @@ Nasal use only.
 Glucagon nasal powder is given in a single nostril.
 Glucagon is passively absorbed through the nasal mucosa.
 It is not necessary to inhale or breathe deeply after dosing.
+Patients and their caregivers should be instructed on the signs and symptoms of severe hypoglycaemia.
+As severe hypoglycaemia requires the help of others to recover, the patient should be instructed to inform those around them about Baqsimi and its package leaflet.
+Baqsimi should be administered as soon as possible when severe hypoglycaemia is recognised.
+The patient or caregiver should be instructed to read the package leaflet.
+The following instructions should be emphasised:
 
 Instructions for administering glucagon nasal powder
 1.
@@ -44,3 +52,5 @@ If the person is unconscious, turn the person on their side to prevent choking.
 After giving the dose, the caregiver should call for medical help right away.
 8.
 When the patient has responded to treatment, give oral carbohydrate to restore liver glycogen and prevent relapse of hypoglycaemia.
+
+For special warnings and precautions for use see section 4.4.
