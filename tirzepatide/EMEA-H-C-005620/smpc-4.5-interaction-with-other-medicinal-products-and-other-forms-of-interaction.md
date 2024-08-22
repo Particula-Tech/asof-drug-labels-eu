@@ -15,6 +15,7 @@ At low doses (0.5 and 1.5 mg), there was only a minor change in paracetamol expo
 After four consecutive weekly doses of tirzepatide (5/5/8/10 mg), no effect on the paracetamol Cmax and tmax was observed.
 The overall exposure (AUC) was not influenced.
 No dose adjustment of paracetamol is necessary when administered with tirzepatide.
+
 Oral contraceptives
 
 Administration of a combination oral contraceptive (0.035 mg ethinyl estradiol plus 0.25 mg norgestimate, a prodrug of norelgestromin) in the presence of a single dose of tirzepatide (5 mg) resulted in a reduction of oral contraceptive Cmax and area under the curve (AUC).

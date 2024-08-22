@@ -372,6 +372,7 @@ MOUNJARO 5mg MOUNJARO 10mg MOUNJARO 15mg Placebo
 
 Figure 6.
 Mean change in body weight (%) from baseline to week 72
+
 In SURMOUNT-1, pooled doses of tirzepatide 5 mg, 10 mg, and 15 mg led to a significant improvement compared to placebo in systolic blood pressure (-8.1 mmHg vs. -1.3 mmHg), triglycerides (-27.6 % vs. -6.3 %), non-HDL-C (-11.3 % vs. -1.8 %), HDL-C (7.9 % vs. 0.3 %), and fasting insulin (-46.9 % vs. -9.7 %).
 
 Among the patients in SURMOUNT-1 with prediabetes at baseline (N = 1032), 95.3 % patients treated with tirzepatide reverted to normoglycemia at week 72, as compared with 61.9 % of patients in the placebo group.
@@ -391,9 +392,8 @@ Health-related quality of life was assessed using the generic questionnaire Shor
 
 Cardiovascular evaluation
 
-Cardiovascular (CV) risk was assessed via a meta-analysis of patients with at least one adjudication confirmed major adverse cardiac event (MACE).
-The composite endpoint of MACE-4 included
-CV death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina.
+Cardiovascular (CV) risk was assessed via a meta-analysis of patients with at least one adjudication confirmed major adverse cardiovascular event (MACE).
+The composite endpoint of MACE-4 included CV death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina.
 
 In a primary meta-analysis of phase 2 and 3 registration studies in patients with type 2 diabetes, a total of 116 patients (tirzepatide: 60 [n = 4 410]; all comparators: 56 [n = 2 169]) experienced at least one adjudication confirmed MACE-4: The results showed that tirzepatide was not associated with excess risk for CV events compared with pooled comparators (HR: 0.81; CI: 0.52 to 1.26).
 
@@ -409,7 +409,6 @@ There was no event in tirzepatide 15 mg group.
 Blood pressure
 In the placebo-controlled phase 3 studies in patients with T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively.
 There was a mean decrease in systolic and diastolic blood pressure of 2 mmHg each in placebo treated patients.
-
 In the 72 week placebo-controlled phase 3 study in patients with obesity or overweight without T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 7 to 8 mmHg and 5 to 6 mmHg, respectively.
 There was a mean decrease in systolic and diastolic blood pressure of 1 mmHg each in placebo treated patients.
 

@@ -5,7 +5,6 @@ Summary of safety profile
 In 9 completed phase 3 studies, 7 702 patients were exposed to tirzepatide alone or in combination with other glucose lowering medicinal products.
 The most frequently reported adverse reactions were gastrointestinal disorders, including nausea (very common), diarrhoea (very common), constipation (common), and vomiting (common).
 In general, these reactions were mostly mild or moderate in severity and occurred more often during dose escalation and decreased over time (see sections 4.2, and 4.4).
-
 Tabulated list of adverse reactions
 
 The following related adverse reactions from clinical studies are listed below by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to < 1/10; uncommon: ≥ 1/1 000 to < 1/100; rare: ≥ 1/10 000 to < 1/1 000; very rare: < 1/10 000).
@@ -18,7 +17,7 @@ Adverse reactions
 | --- | --- | --- | --- | --- |
 | Immune system disorders |  | Hypersensitivity reactions |  | Anaphylactic reaction#, angioedema# |
 | Metabolism and nutrition disorders | Hypoglycaemia 1* when used with sulphonylurea or insulin | Hypoglycaemia1* when used with metformin and SGLT2i, decreased appetite1 | Hypoglycaemia1* when used with metformin, weight decreased1 |  |
-| Nervous system disorders |  | Dizziness2 |  |  |
+| Nervous system disorders |  | Dizziness2 | Dysgeusia |  |
 | Vascular disorders |  | Hypotension2 |  |  |
 | Gastrointestinal disorders | Nausea, diarrhoea | Abdominal pain, vomiting, dyspepsia, constipation, abdominal distention, eructation, flatulence, gastroesophageal reflux disease | Cholelithiasis, cholecystitis, acute pancreatitis |  |
 | Skin and subcutaneous tissue disorders |  | Hair loss2 |  |  |

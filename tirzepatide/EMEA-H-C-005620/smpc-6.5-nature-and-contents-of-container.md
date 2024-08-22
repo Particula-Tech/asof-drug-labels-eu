@@ -6,7 +6,6 @@ Glass syringe encased in a disposable pre-filled pen.
 
 The pre-filled pen has a hidden needle, which will automatically insert into the skin when the injection button is pressed.
 Each pre-filled pen contains 0.5 ml of solution.
-
 Pack sizes of 2 pre-filled pens, 4 pre-filled pens and multipack containing 12 (3 packs of 4) pre-filled pens.
 Not all pack sizes may be marketed.
 
@@ -16,6 +15,7 @@ Clear glass vial with a sealed stopper.
 Each vial contains 0.5 ml of solution.
 Pack sizes of 1 vial, 4 vials, 12 vials, multipack containing 4 (4 packs of 1) vials or multipack containing 12 (12 packs of 1) vials.
 Not all pack sizes may be marketed.
+
 Pre-filled pen (KwikPen), multi-dose
 
 Clear glass cartridge encased in a multi-dose pre-filled pen.

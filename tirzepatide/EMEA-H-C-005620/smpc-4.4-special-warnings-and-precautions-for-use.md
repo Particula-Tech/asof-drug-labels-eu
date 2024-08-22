@@ -10,11 +10,11 @@ Patients should be informed of the symptoms of acute pancreatitis.
 If pancreatitis is suspected, tirzepatide should be discontinued.
 If the diagnosis of pancreatitis is confirmed, tirzepatide should not be restarted.
 In the absence of other signs and symptoms of acute pancreatitis, elevations in pancreatic enzymes alone are not predictive of acute pancreatitis (see section 4.8).
-
 Hypoglycaemia
 
 Patients receiving tirzepatide in combination with an insulin secretagogue (for example, a sulphonylurea) or insulin may have an increased risk of hypoglycaemia.
 The risk of hypoglycaemia may be lowered by a reduction in the dose of the insulin secretagogue or insulin (see sections 4.2 and 4.8).
+
 Gastrointestinal effects
 
 Tirzepatide has been associated with gastrointestinal adverse reactions, which include nausea, vomiting, and diarrhoea (see section 4.8).

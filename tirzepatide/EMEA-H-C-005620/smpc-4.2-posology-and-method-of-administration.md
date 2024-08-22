@@ -25,12 +25,12 @@ In each case, patients can then resume their regular once weekly dosing schedule
 Changing the dosing schedule
 
 The day of weekly administration can be changed, if necessary, as long as the time between two doses is at least 3 days.
-
 Special populations
 
 Elderly, gender, race, ethnicity or body weight
 No dose adjustment is needed based on age, gender, race, ethnicity or body weight (see sections 5.1 and 5.2).
 Only very limited data are available from patients aged ≥ 85 years.
+
 Renal impairment
 No dose adjustment is required for patients with renal impairment including end stage renal disease (ESRD).
 Experience with the use of tirzepatide in patients with severe renal impairment and ESRD is limited.
