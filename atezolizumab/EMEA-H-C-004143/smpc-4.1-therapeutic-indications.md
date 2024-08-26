@@ -11,20 +11,23 @@ Early-stage non-small cell lung cancer (NSCLC)
 
 Tecentriq as monotherapy is indicated as adjuvant treatment following complete resection and
 platinum-based chemotherapy for adult patients with NSCLC with a high risk of recurrence whose
-tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR mutant or
+tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR-mutant or
 
 ALK-positive NSCLC (see section 5.1 for selection criteria).
 
-Metastatic NSCLC
+Advanced NSCLC
 
 Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC.
-In patients with EGFR mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1).
-Tecentriq, in combination with nab-paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1).
+In patients with EGFR-mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1).
 
-Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumours have a PD-L1 expression ≥ 50% TC or ≥ 10% tumour-infiltrating immune cells (IC) and who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1).
+Tecentriq, in combination with nab-paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR-mutant or ALK-positive NSCLC (see section 5.1).
+
+Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumours have a PD-L1 expression ≥ 50% TC or ≥ 10% tumour-infiltrating immune cells (IC) and who do not have EGFR-mutant or ALK-positive NSCLC (see section 5.1).
+
+Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with advanced NSCLC who are ineligible for platinum-based therapy (see section 5.1 for selection criteria).
 
 Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior chemotherapy.
-Patients with EGFR mutant or ALK-positive NSCLC should also have received targeted therapies before receiving Tecentriq (see section 5.1).
+Patients with EGFR-mutant or ALK-positive NSCLC should also have received targeted therapies before receiving Tecentriq (see section 5.1).
 
 Small cell lung cancer (SCLC)
 

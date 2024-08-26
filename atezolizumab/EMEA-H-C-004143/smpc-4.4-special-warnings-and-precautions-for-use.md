@@ -2,9 +2,9 @@
 
 Traceability
 
-In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
-
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 Immune-mediated adverse reactions
+
 Most immune-mediated adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
 Immune-mediated adverse reactions affecting more than one body system have been observed.
 Immune-mediated adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
@@ -16,7 +16,7 @@ Based on limited data from clinical trials in patients whose immune-mediated adv
 
 Atezolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
-In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID.
+In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID.
 In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
 
 Immune-mediated pneumonitis
@@ -130,8 +130,8 @@ Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equiv
 Treatment with atezolizumab may be resumed when serum amylase and lipase levels improve to
 ≤ Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4, or any grade of recurrent pancreatitis.
-
 Immune-mediated myocarditis
+
 Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myocarditis.
 Myocarditis may also be a clinical manifestation of myositis and should be managed accordingly.
@@ -170,9 +170,9 @@ For suspected SCARs, patients should be referred to a specialist for further dia
 Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1-2 mg/kg bw/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered.
-
 Atezolizumab should be withheld for patients with suspected SJS or TEN.
 For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
+
 Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Immune-mediated pericardial disorders
@@ -219,7 +219,7 @@ Physicians should consult the nab-paclitaxel summary of product characteristics 
 Use of atezolizumab in UC for previously untreated patients who are considered cisplatin ineligible
 
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.
-There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
+There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore, atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
@@ -250,7 +250,7 @@ No specific factor(s) associated with early deaths could be identified (see sect
 
 Patients excluded from clinical trials
 
-Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
+Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, ECOG PS ≥ 2 (except for patients with advanced NSCLC ineligible for a platinum-based therapy), HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
 Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or intravenous antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
 
 Patient card
@@ -265,5 +265,3 @@ Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and cor
 Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1 to2 mg/kg bw/day of prednisone or equivalent should be started.
 
 The rate of injection should be reduced or paused in patients with Grade 1 or 2 infusion-related reactions.
-
-There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore, atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.

@@ -58,13 +58,13 @@ In the population pharmacokinetic analysis, there were no clinically important d
 ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and
 AST ≤ ULN). No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN
 and any AST). Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction
-Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2). The effect of severe
 
-hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
+Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
+The effect of severe hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
 
 [Tecentriq 1 875 mg solution for injection]
 
-Atezolizumab model-predicted exposure metrics following 1 875 mg Q3W subcutaneous Tecentriq and intravenous atezolizumab (1 200 mg Q3W) administration in the IMscin001 study are shown in Table 21.
+Atezolizumab model-predicted exposure metrics following 1 875 mg Q3W subcutaneous Tecentriq and intravenous atezolizumab (1 200 mg Q3W) administration in the IMscin001 study are shown in Table 23.
 
 Atezolizumab cycle 1 Ctrough (i.e., pre-dose cycle 2) showed non-inferiority of atezolizumab within Tecentriq solution for injection to intravenous atezolizumab, with a geometric mean ratio (GMR) of 1.05 (90% CI: 0.88–1.24).
 
@@ -72,10 +72,10 @@ The GMR for cycle 1 model-predicted for AUC from 0 to 21 days (AUC0-21d) was 0.8
 
 The maximum systemic accumulation ratio following 1 875 mg Q3W of Tecentriq solution for injection is 2.2.
 
-The model-predicted Ctrough and AUC at steady state were comparable for subcutaneous Tecentriq and intravenous atezolizumab (see Table 21).
+The model-predicted Ctrough and AUC at steady state were comparable for subcutaneous Tecentriq and intravenous atezolizumab (see Table 23).
 A pharmacokinetic analysis suggests that steady state is obtained after 6 to 9 weeks of multiple dosing.
 
-Table 21: Atezolizumab model-predicted exposure (geometric mean with 5th-95th percentiles) following subcutaneous or intravenous administration of atezolizumab
+Table 23: Atezolizumab model-predicted exposure (geometric mean with 5th-95th percentiles) following subcutaneous or intravenous administration of atezolizumab
 
 | Parameter | Subcutaneous Tecentriq | Intravenous Atezolizumab |
 | --- | --- | --- |
@@ -109,4 +109,3 @@ No clinically relevant differences in the clearance of subcutaneous atezolizumab
 In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of intravenous or subcutaneously administered atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
 No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN and any AST).
 Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
-The effect of severe hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
