@@ -16,8 +16,8 @@ For suspected immune-mediated adverse reactions, adequate evaluation to confirm 
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
 Based on limited data from clinical studies in patients whose immune-mediated adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
+
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
 Immune-mediated pneumonitis
@@ -56,6 +56,7 @@ Pembrolizumab should be withheld for Grade 2 adrenal insufficiency or hypophysit
 Pembrolizumab should be withheld or discontinued for Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis.
 Continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see section 4.2).
 Pituitary function and hormone levels should be monitored to ensure appropriate hormone replacement.
+
 Type 1 diabetes mellitus, including diabetic ketoacidosis, has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for hyperglycaemia or other signs and symptoms of diabetes.
 Insulin should be administered for type 1 diabetes, and pembrolizumab should be withheld in cases of type 1 diabetes associated with Grade ≥ 3 hyperglycaemia or ketoacidosis until metabolic control is achieved (see section 4.2).
@@ -90,8 +91,8 @@ Based on the severity and type of the adverse reaction, pembrolizumab should be 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction.
-
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
+
 Transplant-related adverse reactions
 
 Solid organ transplant rejection
@@ -160,7 +161,6 @@ When pembrolizumab is given with axitinib, higher than expected frequencies of G
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
-
 Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
 

@@ -15,7 +15,6 @@ No new immune-mediated adverse reactions were identified in the adjuvant setting
 
 Pembrolizumab in combination with chemotherapy (see section 4.2)
 When pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components prior to initiation of treatment.
-
 The safety of pembrolizumab in combination with chemotherapy has been evaluated in 5 183 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
 In this patient population, the most frequent adverse reactions were anaemia (52%), nausea (52%), fatigue (35%), diarrhoea (33%), constipation (32%), vomiting (28%), decreased appetite (28%), neutrophil count decreased (27%) and neutropenia (25%).
 Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 69% for pembrolizumab combination therapy and 61% for chemotherapy alone, in patients with HNSCC were 85% for pembrolizumab combination therapy and 84% for chemotherapy plus cetuximab, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 82% for pembrolizumab combination and 75% for chemotherapy, with or without bevacizumab, in patients with gastric cancer were 74% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 68% for chemotherapy with or without trastuzumab, and in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone.
@@ -37,7 +36,6 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
 For additional safety information when pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components.
-
 Table 2: Adverse reactions in patients treated with pembrolizumab†
 
 |  | Monotherapy | In combination with chemotherapy | In combination with axitinib or lenvatinib |
@@ -91,7 +89,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Very common | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation | diarrhoea, vomiting, nausea, abdominal pain⁎, constipation | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation |
 | Common | colitis⁎, dry mouth | colitis⁎, gastritis⁎, dry mouth | colitis⁎, pancreatitis⁎, gastritis⁎, dry mouth |
 | Uncommon | pancreatitis⁎, gastritis⁎, gastrointestinal ulceration⁎ | pancreatitis⁎, gastrointestinal ulceration⁎ | gastrointestinal ulceration⁎ |
-| Rare | small intestinal perforation | small intestinal perforation | small intestinal perforation |
+| Rare | pancreatic exocrine insufficiency, small intestinal perforation, coeliac disease | pancreatic exocrine insufficiency, small intestinal perforation, coeliac disease | small intestinal perforation |
+| Not known |  |  | pancreatic exocrine insufficiency, coeliac disease |
 | Hepatobiliary disorders |  |  |  |
 | Common | hepatitis⁎ | hepatitis⁎ | hepatitis⁎ |
 | Rare | cholangitis sclerosing | cholangitis sclerosing⁎ |  |
@@ -157,6 +156,15 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 - nephritis (autoimmune nephritis, immune-mediated nephritis, tubulointerstitial nephritis and renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome, glomerulonephritis, glomerulonephritis membranous and glomerulonephritis acute)
 - oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localised oedema and periorbital oedema)
 
+Pembrolizumab in combination with enfortumab vedotin (see section 4.2)
+When pembrolizumab is administered in combination with enfortumab vedotin, refer to the SmPC for enfortumab vedotin prior to initiation of treatment.
+
+The safety of pembrolizumab in combination with enfortumab vedotin has been evaluated among 564 patients with unresectable or metastatic urothelial carcinoma receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
+Overall, the incidence of adverse reactions for pembrolizumab in combination with enfortumab vedotin was observed to be higher than for pembrolizumab monotherapy reflecting the contribution of enfortumab vedotin and the longer duration of treatment of the combination therapy.
+Adverse reactions were generally similar to those observed in patients receiving pembrolizumab or enfortumab vedotin as monotherapy.
+The incidence of rash maculo-papular was 36% all Grades (10% Grades 3-4), which is higher than observed in pembrolizumab monotherapy.
+Generally, adverse event frequencies were higher in patients ≥ 65 years of age compared to < 65 years of age, particularly for serious adverse events (56.3% and 35.3%, respectively) and ≥ Grade 3 events (80.3% and 64.2%, respectively), similar to observations with the chemotherapy comparator.
+
 Description of selected adverse reactions
 Data for the following immune-mediated adverse reactions are based on patients who received pembrolizumab across four doses (2 mg/kg bw every 3 weeks, 10 mg/kg bw every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
 The management guidelines for these adverse reactions are described in section 4.4.
@@ -198,7 +206,6 @@ The median duration was 3.3 months (range: 6 days to 28.2+ months).
 Nephritis led to discontinuation of pembrolizumab in 17 (0.2%) patients.
 Nephritis resolved in 25 patients, 5 with sequelae.
 In patients with non-squamous NSCLC treated with pembrolizumab in combination with pemetrexed and platinum chemotherapy (n=488), the incidence of nephritis was 1.4% (all Grades) with 0.8% Grade 3 and 0.4% Grade 4.
-
 Immune-mediated endocrinopathies
 Adrenal insufficiency occurred in 74 (1.0%) patients, including Grade 2, 3 or 4 cases in 34 (0.4%),
 31 (0.4%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
@@ -219,6 +226,7 @@ The median duration was 1.6 months (range: 4 days to 43.1+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 4 (0.1%) patients.
 Hyperthyroidism resolved in 326 (82.7%) patients, 11 with sequelae.
 In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
+
 Hypothyroidism occurred in 939 (12.3%) patients, including Grade 2 or 3 cases in 687 (9.0%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypothyroidism was 3.4 months (range: 1 day to 25.9 months).
 The median duration was not reached (range: 2 days to 63.0+ months).
@@ -247,7 +255,6 @@ One patient experienced engraftment syndrome post-transplant.
 Of 32 patients in KEYNOTE-087 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 16 patients reported acute GVHD and 7 patients reported chronic GVHD, two of which were fatal.
 No patients experienced hepatic VOD.
 No patients experienced engraftment syndrome post-transplant.
-
 Of 14 patients in KEYNOTE-204 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 8 patients reported acute GVHD and 3 patients reported chronic GVHD, none of which were fatal.
 No patients experienced hepatic VOD.
 One patient experienced engraftment syndrome post-transplant.

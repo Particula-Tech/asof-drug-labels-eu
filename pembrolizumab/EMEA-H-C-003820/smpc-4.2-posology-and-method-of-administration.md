@@ -29,6 +29,7 @@ Patients who experience disease progression that precludes definitive surgery or
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
+
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
 KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
@@ -111,5 +112,7 @@ It must be administered by infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
 
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
+
+When administering KEYTRUDA as part of a combination with enfortumab vedotin, KEYTRUDA should be administered after enfortumab vedotin when given on the same day.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
