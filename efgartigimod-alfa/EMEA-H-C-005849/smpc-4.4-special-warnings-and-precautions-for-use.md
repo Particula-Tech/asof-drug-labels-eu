@@ -21,7 +21,7 @@ If serious infections occur, delaying treatment with efgartigimod alfa should be
 Infusion reactions and hypersensitivity reactions
 
 Infusion reactions such as rash or pruritus may occur.
-In the clinical trial, infusion reactions were mild to moderate and did not lead to treatment interruption or discontinuation.
+In the clinical trial, infusion reactions were mild to moderate and did not lead to treatment discontinuation.
 Patients should be monitored during administration and for 1 hour thereafter for clinical signs and symptoms of infusion reactions.
 Should a reaction occur and based on the severity of the reaction the infusion should be administered at a slower rate, interrupted or discontinued and appropriate supportive measures should be instituted.
 Once resolved, administration may be cautiously resumed, based on clinical evaluation.
@@ -31,12 +31,12 @@ Patients should be informed of the signs and symptoms of hypersensitivity and an
 
 Immunisations
 
-Immunisation with vaccines during efgartigimod alfa therapy has not been studied.
-The safety of immunisation with live or live-attenuated vaccines and the response to immunisation with vaccines are unknown.
-All vaccines should be administered according to immunisation guidelines and at least 4 weeks before initiation of treatment.
-For patients that are on treatment, vaccination with live or live-attenuated vaccines is not recommended.
-For all other vaccines, they should take place at least 2 weeks after the last infusion of a treatment cycle and 4 weeks before initiating the next cycle.
+All vaccines should be administered according to immunisation guidelines.
 
+The safety of immunisation with live or live-attenuated vaccines and the response to immunisation with these vaccines during treatment with efgartigimod alfa are unknown.
+For patients that are being treated with efgartigimod alfa, vaccination with live or live-attenuated vaccines is generally not recommended.
+If vaccination with live or live-attenuated vaccines is required, these vaccines should be administered at least 4 weeks before treatment and at least 2 weeks after the last dose of efgartigimod alfa.
+Other vaccines may be administered as needed at any time during treatment with efgartigimod alfa.
 Immunogenicity
 
 In the double-blind placebo-controlled study, pre-existing antibodies that bind to efgartigimod alfa were detected in 25/165 (15%) patients with gMG.
@@ -54,6 +54,7 @@ When non-steroidal immunosuppressants, corticosteroids and anticholinesterase th
 Sodium content
 
 This medicinal product contains 67.2 mg sodium per vial, equivalent to 3.4% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product will be further prepared for administration with sodium-containing solution (see section 6.6) and this should be considered in relation to the total sodium intake to the patient from all sources per day.
 
 [Vyvgart 1 000 mg solution for injection]
 

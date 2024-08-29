@@ -10,6 +10,7 @@ As efgartigimod alfa is expected to reduce maternal antibody levels, and is also
 Therefore, risks and benefits of administering live/live-attenuated vaccines to infants exposed to efgartigimod alfa in utero should be considered (see section 4.4).
 
 Treatment of pregnant women with Vyvgart should only be considered if the clinical benefit outweighs the risks.
+
 Breast-feeding
 
 There is no information regarding the presence of efgartigimod alfa in human milk, the effects on the breastfed child or the effects on milk production.

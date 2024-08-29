@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 The efgartigimod alfa solution diluted in sodium chloride 9 mg/mL (0.9%) solution for injection can be administered using polyethylene (PE), polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and ethylene/polypropylene copolymer bags (polyolefins bags), as well as with PE, PVC and polyurethane/polypropylene infusion lines, together with polyurethane (PUR) or PVC filters with polyethersulfone (PES) or polyvinylidene fluoride (PVDF) filter membrane.
+
 Using the formula in the table below, calculate the following:
 
 - The dose of Vyvgart required based on the patient’s bodyweight at the recommended dose of 10 mg/kg.
@@ -41,5 +42,4 @@ The medicinal product does not need to be diluted.
 
 Visually inspect that the vial content is a yellowish, clear to opalescent solution, and devoid of particulate matter.
 If visible particles are observed the vial must not be used.
-
 After removing the vial from the refrigerator, wait for at least 15 minutes before injecting to allow the solution to reach room temperature (see section 6.3).

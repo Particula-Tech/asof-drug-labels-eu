@@ -8,7 +8,8 @@ As a precaution, patients receiving Vyvgart while on treatment with these produc
 
 Plasma exchange, immunoadsorption, and plasmapheresis may reduce circulating levels of efgartigimod alfa.
 
+All vaccines should be administered according to immunisation guidelines.
 The potential interaction with vaccines was studied in a nonclinical model using Keyhole limpet hemocyanin (KLH) as the antigen.
 The weekly administration of 100 mg/kg to monkeys did not impact the immune response to KLH immunisation.
-Nevertheless, all vaccines should be administered according to immunisation guidelines and at least 4 weeks before initiation of a treatment cycle and not until 2 weeks after the last infusion of a treatment cycle.
-For patients that are on treatment, vaccination with live or live-attenuated vaccines is not recommended (see section 4.4).
+For patients that are being treated with efgartigimod alfa, vaccination with live or live-attenuated vaccines is generally not recommended.
+If vaccination with live or live-attenuated vaccines is required, these vaccines should be administered at least 4 weeks before treatment and at least 2 weeks after the last dose of a treatment cycle efgartigimod alfa (see section 4.4).

@@ -20,12 +20,11 @@ Adverse reactions
 | Infections and infestations* | Upper respiratory tract infections | Very common |
 |  | Urinary tract infections | Common |
 |  | Bronchitis | Common |
-| Immune system disorders | Anaphylactic reactiona | Not known |
+| Immune system disorders | Anaphylactic reaction a | Not known |
 | Musculoskeletal and connective tissue disorders | Myalgia | Common |
 | Injury, poisoning and procedural complications* | Procedural headache | Common |
 
 * See paragraph “Description of selected adverse reactions” a From spontaneous post-marketing reporting
-
 Description of selected adverse reactions
 
 Infections

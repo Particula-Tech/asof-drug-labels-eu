@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-2 years
+3 years
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C to 8 °C.
 From a microbiological point of view, unless the method of dilution precludes the risks of microbial contamination, the product should be used immediately.

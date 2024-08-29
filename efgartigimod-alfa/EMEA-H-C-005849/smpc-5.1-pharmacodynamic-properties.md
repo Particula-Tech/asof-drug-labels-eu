@@ -6,8 +6,7 @@ Mechanism of action
 
 Efgartigimod alfa is a human IgG1 antibody fragment engineered for increased affinity to the neonatal Fc Receptor (FcRn).
 Efgartigimod alfa binds to FcRn, resulting in a reduction in the levels of circulating IgG including pathogenic IgG autoantibodies.
-Efgartigimod alfa does not affect the levels of other immunoglobulins (IgA, IgD, IgE or IgM), or those of albumin.
-
+Efgartigimod alfa does not affect the levels of other immunoglobulins (IgA, IgD, IgE or IgM), and does not reduce those of albumin.
 IgG autoantibodies are the underlying cause of the pathogenesis of MG.
 They impair neuromuscular transmission by binding to acetylcholine receptors (AChR), muscle-specific tyrosine kinase (MuSK) or low-density lipoprotein receptor-related protein 4 (LRP4).
 
@@ -44,13 +43,13 @@ At study entry, approximately 30% of patients in each treatment group had no pre
 Median MG-ADL total score was 9.0 in both treatment groups, and median Quantitative Myasthenia Gravis (QMG) total score was 17 and 16 in the efgartigimod alfa and placebo groups, respectively.
 
 Patients were treated with efgartigimod alfa intravenous 10 mg/kg administered once weekly for 4 weeks and received a maximum of 3 treatment cycles (see section 4.2).
-
 The efficacy of efgartigimod alfa was measured using the Myasthenia Gravis-Specific Activities of Daily Living scale (MG-ADL) which assesses the impact of gMG on daily functions.
 A total score ranges from 0 to 24 with the higher scores indicating more impairment.
 In this study, an MG-ADL responder was a patient with ≥ 2-point reduction in the total MG-ADL score compared to the treatment cycle baseline, for at least 4 consecutive weeks with the first reduction occurring no later than 1 week after the last infusion of the cycle.
 
 The efficacy of efgartigimod alfa was also measured using the QMG total score which is a grading system that assesses muscle weakness with a total possible score of 0 to 39 where higher scores indicate more severe impairment.
 In this study, a QMG responder was a patient who had a ≥ 3-point reduction in the total QMG score compared to the treatment cycle baseline, for at least 4 consecutive weeks with the first reduction occurring no later than 1 week after last infusion of the cycle.
+
 The primary efficacy endpoint was the comparison of the percentage of MG-ADL responders during the first treatment cycle (C1) between treatment groups in the AChR-Ab seropositive population.
 
 A key secondary endpoint was the comparison of the percentage of QMG responders during C1 between both treatment groups in the AChR-Ab seropositive patients.
@@ -92,7 +91,7 @@ Exploratory data shows that onset of response was observed within 2 weeks of ini
 
 In the double-blind placebo-controlled study, the earliest possible time to initiating the subsequent treatment cycle was 8 weeks after the initial infusion of the first treatment cycle.
 In the overall population the mean time to the second treatment cycle in the efgartigimod alfa intravenous group was 13 weeks (SD 5.5 weeks) and the median time was 10 weeks (8-26 weeks) from the initial infusion of the first treatment cycle.
-In the ongoing open-label extension study the earliest possible time of initiation of the subsequent treatment cycles was 7 weeks.
+In the open-label extension study the earliest possible time of initiation of the subsequent treatment cycles was 7 weeks.
 
 In patients that responded to treatment, the duration of clinical improvement was 5 weeks in 5/44 (11%) patients, 6-7 weeks in 14/44 (32%) of patients, 8-11 weeks in 10/44 (23%) patients and 12 weeks or more in 15/44 (34%) patients.
 
@@ -113,7 +112,17 @@ Relationship between total IgG and AChR-Ab and MG-ADL total score in AChR-Ab ser
 
 Patients were treated with efgartigimod alfa intravenous 10 mg/kg administered once weekly for 4 weeks and received a maximum of 3 treatment cycles.
 
+Population Efgartigimod Placebo P-value Difference
+alfa n/N (%) Efgartigimod alfa-
+n/N (%) Placebo (95% CI)
+MG-ADL AChR-Ab seropositive 44/65 (67.7) 19/64 (29.7) < 0.0001 38.0 (22.1; 54.0)
+QMG AChR-Ab seropositive 41/65 (63.1) 9/64 (14.1) < 0.0001 49.0 (34.5; 63.5)
+
+MG-ADL AChR-Ab seropositive 36/51 (70.6) 11/43 (25.6)
+QMG AChR-Ab seropositive 24/51 (47.1) 5/43 (11.6)
+
 In the double-blind placebo-controlled study (ARGX-113-1704), the earliest possible time to initiating the subsequent treatment cycle was 8 weeks after the initial infusion of the first treatment cycle.
+In the open-label extension study (ARGX-113-1705) the earliest possible time of initiation of the subsequent treatment cycles was 7 weeks.
 
 A 10-week, randomised, open-label, parallel-group, multicentre study (ARGX-113-2001) was conducted in adult patients with gMG to evaluate the non-inferiority of the pharmacodynamic effect of efgartigimod alfa subcutaneous compared to efgartigimod alfa intravenous.
 The main inclusion and exclusion criteria were the same as in study ARGX-113-1704.
@@ -130,7 +139,6 @@ At study entry, approximately 56% of patients in each treatment group had no pre
 
 The primary endpoint was the comparison of the percent reduction in total IgG levels from baseline at day 29 between treatment groups in the overall population.
 The results in the AChR-Ab seropositive population demonstrates non-inferiority of efgartigimod alfa subcutaneous compared to efgartigimod alfa intravenous (see Table 4).
-
 Table 4.
 ANCOVA analysis of percent change from baseline in total IgG level at day 29 in AChR-Ab seropositive population (mITT analysis set)
 
@@ -147,15 +155,14 @@ Efficacy secondary endpoints were comparisons of the percentage of MG-ADL and QM
 The results in AChR-Ab seropositive population are presented in Table 5.
 
 Table 5.
-MG-ADL and QMG responders at day 29 in AChR-Ab seropositive population (mITT analysis set)
+MG-ADL and QMG responders at day 29 in AChR-Ab seropositive population
+(mITT analysis set)
 
-|  | Efgartigimod alfa SC n/N (%) | Efgartigimod alfa IV |
-| --- | --- | --- |
-|  |  | n/N (%) |
-| MG-ADL | 32/45 (71.1) | 33/46 (71.7) |
-| QMG | 31/45 (68.9) | 24/45 (53.3) |
-
+Efgartigimod alfa SC Efgartigimod alfa IV Difference
+n/N (%) n/N (%) Efgartigimod alfa SC-
 Efgartigimod alfa IV (95% CI)
+MG-ADL 32/45 (71.1) 33/46 (71.7) −0.6 (−19.2 to 17.9)
+QMG 31/45 (68.9) 24/45 (53.3) 15.6 (−4.3 to 35.4)
 
 QMG = Quantitative Myasthenia Gravis; SC = subcutaneous; IV = intravenous; mITT = modified intent-to-treat; n = number of patients for whom the observation was reported; N = number of patients in the analysis set;
 CI = confidence interval;
