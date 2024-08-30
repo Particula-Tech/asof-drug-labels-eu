@@ -1,11 +1,11 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential / contraception in females
-
 Women must not get pregnant during methotrexate therapy, and effective contraception must be used during treatment with methotrexate and at least 6 months thereafter (see section 4.4).
 Prior to initiating therapy, women of childbearing potential must be informed of the risk of malformations associated with methotrexate and any existing pregnancy must be excluded with certainty by taking appropriate measures, e.g. a pregnancy test.
 During treatment pregnancy tests should be repeated as clinically required (e.g. after any gap of contraception).
 Female patients of reproductive potential must be counselled regarding pregnancy prevention and planning.
+
 Contraception in males
 
 It is not known if methotrexate is present in semen.
@@ -38,7 +38,6 @@ As methotrexate is transferred into human milk and may cause toxicity in breast-
 If use of methotrexate during the breast-feeding period should become necessary, breast-feeding is to be stopped prior to treatment.
 
 Fertility
-
 Methotrexate affects spermatogenesis and oogenesis and may decrease fertility.
 In humans, methotrexate has been reported to cause oligospermia, menstrual dysfunction and amenorrhoea.
 These effects appear to be reversible after discontinuation of therapy in most cases.

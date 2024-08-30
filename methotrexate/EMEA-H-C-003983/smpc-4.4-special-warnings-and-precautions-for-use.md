@@ -124,9 +124,14 @@ Vitamin preparations or other products containing folic acid, folinic acid or th
 Use in children < 3 years of age is not recommended as insufficient data on efficacy and safety are available for this population.
 (see section 4.2).
 
-Radiation induced dermatitis and sun-burn can reappear under methotrexate therapy (recall-reaction).
-Psoriatic lesions can exacerbate during UV-irradiation and simultaneous administration of methotrexate.
+Photosensitivity
 
+Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking methotrexate (see section 4.8).
+Exposure to intense sunlight or UV rays should be avoided unless medically indicated.
+Patients should use adequate sun-protection to protect themselves from intense sunlight.
+
+Radiation induced dermatitis and sunburn can reappear during methotrexate therapy (recall reactions).
+Psoriatic lesions can worsen during UV radiation and co-administration of methotrexate.
 Concomitant administration of folate antagonists such as trimethoprim /sulphamethoxazole has been reported to cause an acute megaloblastic pancytopenia in rare instances.
 
 Encephalopathy / Leukoencephalopathy have been reported in oncologic patients receiving methotrexate therapy and cannot be excluded for methotrexate therapy in non-oncologic indications.

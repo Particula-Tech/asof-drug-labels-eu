@@ -76,7 +76,7 @@ Very rare: Hepatic failure.
 
 Skin and subcutaneous tissue disorders
 Common: Exanthema, erythema, pruritus.
-Uncommon: Photosensitisation, loss of hair, increase in rheumatic nodules, skin ulcer, herpes zoster, vasculitis, herpetiform eruptions of the skin, urticaria.
+Uncommon: Photosensitivity reactions , loss of hair, increase in rheumatic nodules, skin ulcer, herpes zoster, vasculitis, herpetiform eruptions of the skin, urticaria.
 Rare: Increased pigmentation, acne, petechiae, ecchymosis, allergic vasculitis.
 Very rare: Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell’s syndrome), increased pigmentary changes of the nails, acute paronychia, furunculosis, telangiectasia.
 Not known: Skin exfoliation / dermatitis exfoliative

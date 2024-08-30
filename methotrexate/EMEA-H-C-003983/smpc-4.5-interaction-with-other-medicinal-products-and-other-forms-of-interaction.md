@@ -15,7 +15,9 @@ Patients taking potentially hepatotoxic and haematoxic medicinal products during
 
 Haematotoxic medicinal products
 
-Administration of additional haematotoxic medicinal products (e.g. metamizole) increases the probability of severe haematoxic effects of methotrexate.
+Administration of additional haematotoxic medicinal products increases the likelihood of severe haematoxic adverse reactions to methotrexate.
+Concurrent administration of metamizole and methotrexate can increase the haematotoxic effect of methotrexate, especially in elderly patients.
+Therefore, coadministration should be avoided.
 
 Pharmacokinetic interactions
 
@@ -44,7 +46,6 @@ Folate metabolism
 Co-administration of medicinal products which cause folate deficiency (e.g. sulphonamides, trimethoprim-sulphamethoxazole) can lead to increased methotrexate toxicity.
 Particular caution should therefore also be exercised in the presence of existing folic acid deficiency.
 On the other hand, concomitant administration of folinic acid containing drugs or of vitamin preparations, which contain folic acid or derivatives, may impair methotrexate efficacy.
-
 The use of nitrous oxide potentiates the effect of methotrexate on folate metabolism, yielding increased toxicity such as severe unpredictable myelosuppression and stomatitis.
 Whilst this effect can be reduced by administering calcium folinate, the concomitant use of nitrous oxide and methotrexate should be avoided.
 
