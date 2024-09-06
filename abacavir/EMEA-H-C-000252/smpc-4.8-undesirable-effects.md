@@ -5,7 +5,6 @@ Many of the adverse reactions listed below occur commonly (nausea, vomiting, dia
 Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity (see section 4.4).
 Very rarely cases of erythema multiforme, Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out.
 In such cases medicinal products containing abacavir should be permanently discontinued.
-
 Many of the adverse reactions have not been treatment limiting.
 The following convention has been used for their classification: very common (>1/10), common (>1/100 to <1/10), uncommon (>1/1,000 to <1/100), rare (>1/10,000 to <1/1,000) very rare (<1/10,000).
 
@@ -46,6 +45,7 @@ respiratory failure
 Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy, hypotension,
 
 conjunctivitis, anaphylaxis
+
 Neurological/Psychiatry Headache, paraesthesia
 
 Haematological Lymphopenia

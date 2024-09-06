@@ -6,7 +6,6 @@ Abacavir is associated with a risk for hypersensitivity reactions (HSR) (see sec
 HSRs have been observed with abacavir, some of which have been life-threatening, and in rare cases fatal, when not managed appropriately.
 The risk for abacavir HSR to occur is high for patients who test positive for the HLA-B*5701 allele.
 However, abacavir HSRs have been reported at a lower frequency in patients who do not carry this allele.
-
 Therefore the following should be adhered to:
 
 - HLA-B*5701 status must always be documented prior to initiating therapy.
@@ -17,7 +16,7 @@ Therefore the following should be adhered to:
 - After stopping treatment with Ziagen for reasons of a suspected HSR, Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir, Triumeq) must never be re-initiated.
 - Restarting abacavir containing products following a suspected abacavir HSR can result in a prompt return of symptoms within hours.
   This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
-- In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Ziagen tablets
+- In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Ziagen tablets.
 
 Clinical description of abacavir HSR
 
@@ -35,8 +34,10 @@ Rarely, patients who have stopped abacavir for reasons other than symptoms of HS
 Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
 
 Mitochondrial dysfunction following exposure in utero
+
 Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
-There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine.The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
+There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine.
+The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
 These events have often been transitory.
 Late onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour).
 Whether such neurological disorders are transient or permanent is currently unknown.
@@ -64,7 +65,7 @@ There have been reports of a high rate of virological failure and of emergence o
 Liver disease
 
 The safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders.
-Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2 ).
+Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2).
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
@@ -107,7 +108,9 @@ In addition, alternative treatment options to the abacavir containing regimen sh
 
 [Ziagen 20 mg/ml oral solution]
 
-Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2).
+- In order to avoid restarting abacavir, patients who have experienced a suspected HSR should be instructed to dispose of their remaining Ziagen oral solution.
+
+There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine.The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
 
 Ziagen oral solution contains 340 mg/ml of sorbitol.
 When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
@@ -116,3 +119,11 @@ Sorbitol can have a mild laxative effect.
 The calorific value of sorbitol is 2.6 kcal/g.
 
 Ziagen oral solution also contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+
+Ziagen oral solution contains 50 mg/ml of propylene glycol.
+When taken according to the dosage recommendations each 15 ml dose contains approximately 750 mg of propylene glycol.
+
+- Co-administration with any substrate for alcohol dehydrogenase such as ethanol may induce adverse effects in children less than 5 years old.
+- While propylene glycol has not been shown to cause reproductive or developmental toxicity in animals or humans, it may reach the foetus and was found in milk.
+  As a consequence, administration of propylene glycol to pregnant or lactating patients should be considered following a benefit risk assessment for an individual patient.
+- Monitoring is required in patients with impaired renal or hepatic functions because various adverse events attributed to propylene glycol have been reported such as renal dysfunction (acute tubular necrosis), acute renal failure and liver dysfunction.

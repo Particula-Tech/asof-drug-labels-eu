@@ -13,3 +13,4 @@ Excipients with known effect:
 Sorbitol (E420) 340 mg/ml
 Methyl parahydroxybenzoate (E218) 1.5 mg/ml
 Propyl parahydroxybenzoate (E216) 0.18 mg/ml
+Propylene glycol (E1520) 50 mg/ml

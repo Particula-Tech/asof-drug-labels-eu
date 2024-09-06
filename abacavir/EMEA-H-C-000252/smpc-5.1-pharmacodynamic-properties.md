@@ -114,6 +114,7 @@ In adults moderately exposed to antiretroviral therapy the addition of abacavir 
 
 In heavily NRTI pretreated patients the efficacy of abacavir is very low.
 The degree of benefit as part of a new combination regimen will depend on the nature and duration of prior therapy which may have selected for HIV-1 variants with cross-resistance to abacavir.
+
 Once daily (600 mg) administration:
 
 - Therapy naïve adults
@@ -155,7 +156,6 @@ A randomised comparison of a regimen including once daily vs twice daily dosing 
 After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks.
 Of note, from this study clinical data were not available for children under one year old.
 The results are summarised in the table below:
-
 Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
 |  | Twice Daily N (%) | Once Daily N (%) |

@@ -9,6 +9,7 @@ Therefore, there is little potential for interactions with antiretroviral PIs an
 Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
 
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.
+
 Ethanol: the metabolism of abacavir is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
 These findings are not considered clinically significant.
 Abacavir has no effect on the metabolism of ethanol.
@@ -18,7 +19,6 @@ The changes in abacavir pharmacokinetics are not considered clinically relevant.
 In this study abacavir increased the mean methadone systemic clearance by 22%.
 The induction of drug metabolising enzymes cannot therefore be excluded.
 Patients being treated with methadone and abacavir should be monitored for evidence of withdrawal symptoms indicating under dosing, as occasionally methadone re-titration may be required.
-
 Retinoids: retinoid compounds are eliminated via alcohol dehydrogenase.
 Interaction with abacavir is possible but has not been studied.
 
