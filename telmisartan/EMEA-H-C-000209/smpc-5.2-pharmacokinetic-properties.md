@@ -15,8 +15,8 @@ Cmax and to a lesser extent AUC increase disproportionately at doses above 40 mg
 
 Distribution
 
-Telmisartan is largely bound to plasma protein (>99.5 %), mainly albumin and alpha-1 acid glycoprotein.
-The mean steady state apparent volume of distribution (Vdss) is approximately 500 l.
+Telmisartan is largely bound to plasma protein (> 99.5 %), mainly albumin and alpha-1 acid glycoprotein.
+The mean steady state apparent volume of distribution (Vdss) is approximately 500 L.
 
 Biotransformation
 
@@ -25,13 +25,14 @@ No pharmacological activity has been shown for the conjugate.
 
 Elimination
 
-Telmisartan is characterised by biexponential decay pharmacokinetics with a terminal elimination half-life of >20 hours.
+Telmisartan is characterised by biexponential decay pharmacokinetics with a terminal elimination half-life of > 20 hours.
 The maximum plasma concentration (Cmax) and, to a smaller extent, the area under the plasma concentration-time curve (AUC), increase disproportionately with dose.
 There is no evidence of clinically relevant accumulation of telmisartan taken at the recommended dose.
 Plasma concentrations were higher in females than in males, without relevant influence on efficacy.
+
 After oral (and intravenous) administration, telmisartan is nearly exclusively excreted with the faeces, mainly as unchanged compound.
-Cumulative urinary excretion is <1 % of dose.
-Total plasma clearance (Cltot) is high (approximately 1,000 ml/min) compared with hepatic blood flow (about 1,500 ml/min).
+Cumulative urinary excretion is < 1 % of dose.
+Total plasma clearance (Cltot) is high (approximately 1 000 mL/min) compared with hepatic blood flow (about 1 500 mL/min).
 
 Paediatric population
 

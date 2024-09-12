@@ -2,6 +2,7 @@
 
 Hypertension
 Treatment of essential hypertension in adults.
+
 Cardiovascular prevention
 Reduction of cardiovascular morbidity in adults with:
 

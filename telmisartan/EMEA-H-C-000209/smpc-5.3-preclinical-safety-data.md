@@ -3,10 +3,13 @@
 In preclinical safety studies, doses producing exposure comparable to that in the clinical therapeutic range caused reduced red cell parameters (erythrocytes, haemoglobin, haematocrit), changes in renal haemodynamics (increased blood urea nitrogen and creatinine), as well as increased serum potassium in normotensive animals.
 In dogs, renal tubular dilation and atrophy were observed.
 Gastric mucosal injury (erosion, ulcers or inflammation) also was noted in rats and dogs.
-These pharmacologically-mediated undesirable effects, known from preclinical studies with both angiotensin converting enzyme inhibitors and angiotensin II receptor antagonists, were prevented by oral saline supplementation.
+These pharmacologically-mediated undesirable effects, known from preclinical studies with both angiotensin converting enzyme inhibitors and angiotensin II receptor blockers, were prevented by oral saline supplementation.
 
 In both species, increased plasma renin activity and hypertrophy/hyperplasia of the renal juxtaglomerular cells were observed.
-These changes, also a class effect of angiotensin converting enzyme inhibitors and other angiotensin II receptor antagonists, do not appear to have clinical significance.
+These changes, also a class effect of angiotensin converting enzyme inhibitors and other angiotensin II receptor blockers, do not appear to have clinical significance.
+
 No clear evidence of a teratogenic effect was observed, however at toxic dose levels of telmisartan an effect on the postnatal development of the offsprings such as lower body weight and delayed eye opening was observed.
 
 There was no evidence of mutagenicity and relevant clastogenic activity in in vitro studies and no evidence of carcinogenicity in rats and mice.
+
+No effects of telmisartan on male or female fertility were observed.

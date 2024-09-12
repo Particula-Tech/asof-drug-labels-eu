@@ -7,6 +7,6 @@ Micardis 20 mg tablets
 Pack sizes: Blister with 14, 28, 56 or 98 tablets.
 
 Micardis 40 mg and 80 mg tablets
-Pack sizes: Blister with 14, 28, 56, 84 or 98 tablets or perforated unit dose blisters with 28 x 1, 30 x 1 or 90 x 1 tablets; multipacks containing 360 (4 packs of 90 x 1) tablets
+Pack sizes: Blister with 14, 28, 56, 84 or 98 tablets or perforated unit dose blisters with 28 × 1, 30 × 1 or 90 × 1 tablets; multipacks containing 360 (4 packs of 90 × 1) tablets
 
 Not all pack sizes may be marketed.

@@ -5,4 +5,4 @@
 - Biliary obstructive disorders
 - Severe hepatic impairment
 
-The concomitant use of Micardis with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (GFR < 60 ml/min/1.73 m2) (see sections 4.5 and 5.1).
+The concomitant use of Micardis with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (GFR < 60 mL/min/1.73 m2) (see sections 4.5 and 5.1).

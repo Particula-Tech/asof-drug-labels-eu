@@ -8,7 +8,7 @@ The most prominent manifestations of telmisartan overdose were hypotension and t
 
 Management
 
-Telmisartan is not removed by haemodialysis.
+Telmisartan is not removed by haemofiltration and is not dialyzable.
 The patient should be closely monitored, and the treatment should be symptomatic and supportive.
 Management depends on the time since ingestion and the severity of the symptoms.
 Suggested measures include induction of emesis and / or gastric lavage.
