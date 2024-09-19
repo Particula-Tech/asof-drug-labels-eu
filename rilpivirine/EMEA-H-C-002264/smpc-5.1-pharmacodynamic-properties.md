@@ -1,12 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use, non-nucleoside reverse transcriptase inhibitors, ATC code: J05AG05.
+
 Mechanism of action
 
 Rilpivirine is a diarylpyrimidine NNRTI of HIV-1.
 Rilpivirine activity is mediated by non-competitive inhibition of HIV-1 reverse transcriptase (RT).
 Rilpivirine does not inhibit the human cellular DNA polymerases α, β and γ.
-
 Antiviral activity in vitro
 
 Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected T-cell line with a median EC50 value for HIV-1/IIIB of 0.73 nM (0.27 ng/ml).
@@ -24,7 +24,7 @@ Resistance to rilpivirine was determined as a fold change in EC50 value (FC) abo
 
 In treatment-naïve adult subjects
 For the resistance analysis, a broader definition of virologic failure was used than in the primary efficacy analysis.
-In the week 48 pooled resistance analysis from the Phase III trials, 62 (of a total of 72) virologic failures in the rilpivirine arm had resistance data at baseline and time of failure.
+In the week 48 pooled resistance analysis from the phase 3 trials, 62 (of a total of 72) virologic failures in the rilpivirine arm had resistance data at baseline and time of failure.
 In this analysis, the resistance-associated mutations (RAMs) associated with NNRTI resistance that developed in at least 2 rilpivirine virologic failures were: V90I, K101E, E138K, E138Q, V179I, Y181C, V189I, H221Y, and F227C.
 In the trials, the presence of the mutations V90I and V189I, at baseline, did not affect response.
 The E138K substitution emerged most frequently during rilpivirine treatment, commonly in combination with the M184I substitution.
@@ -36,10 +36,15 @@ From the week 48 to the week 96 analysis, 24 (3.5%) and 14 (2.1%) additional vir
 Of these virologic failures, 9 out of 24 and 4 out of 14 were in subjects with a baseline viral load
 < 100,000 copies/ml, respectively.
 
-In treatment-naïve adolescent subjects
-In the week 240 resistance analysis of the TMC278-C213 trial, rilpivirine resistance-associated mutations (RAMs) were observed in 46.7% (7/15) of subjects with virologic failure and post-baseline genotypic data.
+In treatment-naïve paediatric subjects 12 to less than 18 years
+In the week 240 resistance analysis of TMC278-C213 Cohort 1, rilpivirine resistance-associated mutations (RAMs) were observed in 46.7% (7/15) of subjects with virologic failure and post-baseline genotypic data.
 All subjects with rilpivirine RAMs also had at least 1 treatment-emergent NRTI RAM at the last post-baseline time point with genotypic data.
 
+In treatment-naïve paediatric subjects 6 to less than 12 years of age
+In the final resistance analysis of TMC278-C213 Cohort 2, rilpivirine RAMs were observed in 83.3% (5/6) of subjects with post-baseline genotypic data; of these, 2/6 occurred within the first 48 weeks and 4 subjects with rilpivirine RAMs also had at least 1 treatment-emergent NRTI RAM at the last post-baseline time point with genotypic data.
+
+In virologically suppressed paediatric subjects 2 to less than 12 years of age
+In the TMC278HTX2002 trial, no subjects experienced virologic failure and no treatment-emergent resistance was observed.
 Considering all of the available in vitro and in vivo data in treatment-naïve subjects, the following resistance-associated mutations, when present at baseline, may affect the activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I, and M230L.
 These rilpivirine resistance-associated mutations should only guide the use of EDURANT in the treatment-naïve population.
 These resistance-associated mutations were derived from in vivo data involving treatment-naïve subjects only and therefore cannot be used to predict the activity of rilpivirine in subjects who have virologically failed an antiretroviral-containing regimen.
@@ -57,7 +62,7 @@ Recombinant clinical isolates
 Rilpivirine retained sensitivity (FC ≤BCO) against 62% of 4,786 HIV-1 recombinant clinical isolates resistant to efavirenz and/or nevirapine.
 
 Treatment-naïve HIV-1 infected adult patients
-In the week 96 pooled resistance analysis of the Phase III trials (ECHO and THRIVE), 42 out of 86 subjects with virologic failure on rilpivirine showed treatment-emergent resistance to rilpivirine (genotypic analysis).
+In the week 96 pooled resistance analysis of the phase 3 trials (ECHO and THRIVE), 42 out of 86 subjects with virologic failure on rilpivirine showed treatment-emergent resistance to rilpivirine (genotypic analysis).
 In these patients, phenotypic cross-resistance to other NNRTIs was noted as follows: etravirine 32/42, efavirenz 30/42, and nevirapine 16/42.
 In patients with a baseline viral load ≤100,000 copies/ml, 9 out of 27 patients with virologic failure on rilpivirine showed treatment-emergent resistance to rilpivirine (genotypic analysis), with the following frequency of phenotypic cross-resistance: etravirine 4/9, efavirenz 3/9, and nevirapine 1/9.
 
@@ -71,13 +76,15 @@ Steady-state administration of rilpivirine 75 mg once daily and 300 mg once dail
 
 Clinical efficacy and safety
 
-Treatment-naïve HIV-1 infected adult patients
-The evidence of efficacy of rilpivirine is based on the analysis of 96 week data from 2 randomised, double-blinded, active-controlled, Phase III trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE).
+Adult population
+Treatment-naïve adult subjects
+The evidence of efficacy of rilpivirine is based on the analysis of 96 week data from 2 randomised, double-blinded, active-controlled, phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE).
 The trials were identical in design, with the exception of the background regimen (BR).
 In the week 96 efficacy analysis, the virologic response rate [confirmed undetectable viral load
 (< 50 HIV-1 RNA copies/ml)] was evaluated in patients receiving rilpivirine 25 mg once daily in addition to a BR versus patients receiving efavirenz 600 mg once daily in addition to a BR.
 Similar efficacy for rilpivirine was seen in each trial demonstrating non-inferiority to efavirenz.
-Antiretroviral treatment-naïve HIV-1 infected patients were enrolled who had a plasma
+
+Antiretroviral treatment-naïve HIV-1 infected patients were enroled who had a plasma
 HIV-1 RNA ≥5,000 copies/ml and were screened for susceptibility to N(t)RTIs and for absence of specific NNRTI resistance-associated mutations.
 In ECHO, the BR was fixed to the N(t)RTIs, tenofovir disoproxil fumarate plus emtricitabine.
 In THRIVE, the BR consisted of
@@ -90,9 +97,10 @@ This analysis included 690 patients in ECHO and 678 patients in THRIVE who had c
 In the pooled analysis for ECHO and THRIVE, demographics and baseline characteristics were balanced between the rilpivirine arm and the efavirenz arm.
 Table 3 displays selected baseline disease characteristics of the patients in the rilpivirine and efavirenz arms.
 
-| Table 3: Baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in the ECHO and THRIVE trials (pooled analysis) |  |  |
-| --- | --- | --- |
+Table 3: Baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in the ECHO and THRIVE trials (pooled analysis)
+
 |  | Pooled data from the ECHO and THRIVE trials |  |
+| --- | --- | --- |
 |  | Rilpivirine + BR N=686 | Efavirenz + BR N=682 |
 | Baseline disease characteristics |  |  |
 | Median baseline plasma HIV-1 RNA (range), log10 copies/ml | 5.0 (2-7) | 5.0 (3-7) |
@@ -109,9 +117,11 @@ The incidence of virologic failure was higher in the rilpivirine arm than the ef
 Discontinuations due to adverse events were higher in the efavirenz arm at week 96 than the rilpivirine arm.
 Most of these discontinuations occurred in the first 48 weeks of treatment.
 
-| Table 4: Virologic outcome in adult subjects in the ECHO and THRIVE trials (pooled data in the week 48 (primary) and week 96 analysis; ITT-TLOVR*) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 4: Virologic outcome in adult subjects in the ECHO and THRIVE trials
+(pooled data in the week 48 (primary) and week 96 analysis; ITT-TLOVR*)
+
 |  | Outcome in the week 48 analysis |  |  | Outcome in the week 96 analysis |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 |  | Rilpivirine + BR N=686 | Efavirenz + BR N=682 | Observed difference (95% CI) ± | Rilpivirine + BR N=686 | Efavirenz + BR N=682 | Observed difference (95% CI) ± |
 | Response (confirmed < 50 HIV-1 RNA copies/ml)§# | 84.3% (578/686) | 82.3% (561/682) | 2.0 (-2.0; 6.0) | 77.6% (532/686) | 77.6% (529/682) | 0 (-4.4; 4.4) |
 | Non-response |  |  |  |  |  |  |
@@ -142,15 +152,17 @@ BR=background regimen; CI=confidence interval; N=number of subjects per treatmen
 § Subjects achieved virologic response (two consecutive viral loads < 50 copies/ml) and maintained it through week 48/96.
 # Predicted difference of response rates (95% CI) for the week 48 analysis: 1.6% (-2.2%; 5.3%) and for the week 96 analysis: -0.4% (-4.6%; 3.8%); both p-value < 0.0001 (non-inferiority at 12% margin) from logistic regression model, including stratification factors and study.
 † Virologic failure in pooled efficacy analysis: includes subjects who were rebounder (confirmed viral load ≥50 copies/ml after being responder) or who were never suppressed (no confirmed viral load < 50 copies/ml, either ongoing or discontinued due to lack or loss of efficacy).
-¶ e.g. lost to follow-up, non-compliance, withdrew consent.
+¶ e.g., lost to follow-up, non-compliance, withdrew consent.
 
 At week 96, the mean change from baseline in CD4+ cell count was +228 × 106 cells/l in the rilpivirine arm and +219 × 106 cells/l in the efavirenz arm in the pooled analysis of the ECHO and THRIVE trials [estimated treatment difference (95% CI): 11.3 (-6.8; 29.4)].
 
-From the week 96 pooled resistance analysis, the resistance outcome for patients with protocol defined virological failure, and paired genotypes (baseline and failure) is shown in table 5.
+From the week 96 pooled resistance analysis, the resistance outcome for patients with protocol defined virological failure, and paired genotypes (baseline and failure) is shown in Table 5.
 
-| Table 5: Resistance outcome by background NRTI regimen used (pooled data from the ECHO and THRIVE trials in the week 96 resistance analysis) |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 5: Resistance outcome by background NRTI regimen used
+(pooled data from the ECHO and THRIVE trials in the week 96 resistance analysis)
+
 |  | tenofovir/ emtricitabine | zidovudine/ lamivudine | abacavir/ lamivudine | All* |
+| --- | --- | --- | --- | --- |
 | Rilpivirine-treated |  |  |  |  |
 | Resistance# to emtricitabine/lamivudine % (n/N) | 6.9 (38/550) | 3.0 (3/101) | 8.6 (3/35) | 6.4 (44/686) |
 | Resistance to rilpivirine % (n/N) | 6.5 (36/550) | 3.0 (3/101) | 8.6 (3/35) | 6.1 (42/686) |
@@ -163,12 +175,12 @@ From the week 96 pooled resistance analysis, the resistance outcome for patients
 
 For those patients failing therapy with rilpivirine and who developed resistance to rilpivirine, cross-resistance to other approved NNRTIs (etravirine, efavirenz, nevirapine) was generally seen.
 
-Study TMC278-C204 was a randomised, active-controlled, Phase IIb trial in antiretroviral treatment-naïve HIV-1 infected adult patients consisting of 2 parts: an initial partially blinded dose-finding part [(rilpivirine) doses blinded] up to 96 weeks, followed by a long-term, open label part.
-In the open label part of the trial, patients originally randomised to one of the three doses of rilpivirine were all treated with rilpivirine 25 mg once daily in addition to a BR, once the dose for the Phase III studies was selected.
+Study TMC278-C204 was a randomised, active-controlled, phase 2b trial in antiretroviral treatment-naïve HIV-1 infected adult patients consisting of 2 parts: an initial partially blinded dose-finding part [(rilpivirine) doses blinded] up to 96 weeks, followed by a long-term, open-label part.
+In the open-label part of the trial, patients originally randomised to one of the three doses of rilpivirine were all treated with rilpivirine 25 mg once daily in addition to a BR, once the dose for the phase 3 studies was selected.
 Patients in the control arm received efavirenz 600 mg once daily in addition to a BR in both parts of the study.
 The BR consisted of 2 investigator-selected N(t)RTIs: zidovudine plus lamivudine or tenofovir disoproxil fumarate plus emtricitabine.
 
-Study TMC278-C204 enrolled 368 HIV-1 infected treatment-naïve adult patients who had a plasma HIV-1 RNA ≥5,000 copies/ml, previously received ≤2 weeks of treatment with an N(t)RTI or protease inhibitor, had no prior use of NNRTIs and were screened for susceptibility to N(t)RTI and for absence of specific NNRTI resistance-associated mutations.
+Study TMC278-C204 enroled 368 HIV-1 infected treatment-naïve adult patients who had a plasma HIV-1 RNA ≥5,000 copies/ml, previously received ≤2 weeks of treatment with an N(t)RTI or protease inhibitor, had no prior use of NNRTIs and were screened for susceptibility to N(t)RTI and for absence of specific NNRTI resistance-associated mutations.
 
 At 96 weeks, the proportion of patients with < 50 HIV-1 RNA copies/ml receiving rilpivirine 25 mg (N=93) compared to patients receiving efavirenz (N=89) was 76% and 71%, respectively.
 The mean increase from baseline in CD4+ counts was 146 × 106 cells/l in patients receiving rilpivirine 25 mg and 160 × 106 cells/l in patients receiving efavirenz.
@@ -178,19 +190,21 @@ There were no safety concerns identified in the week 240 analyses.
 
 Paediatric population
 
-The pharmacokinetics, safety, tolerability and efficacy of rilpivirine 25 mg once daily, in combination with an investigator-selected BR containing two NRTIs, was evaluated in trial TMC278-C213, a single-arm, open-label Phase II trial in antiretroviral treatment-naïve HIV-1 infected adolescent subjects weighing at least 32 kg.
+In treatment-naïve paediatric subjects 12 to less than 18 years
+The pharmacokinetics, safety, tolerability and efficacy of rilpivirine 25 mg once daily, in combination with an investigator-selected BR containing two NRTIs, was evaluated in trial TMC278-C213
+Cohort 1, a single-arm, open-label phase 2 trial in antiretroviral treatment-naïve HIV-1 infected adolescent subjects weighing at least 32 kg.
 This analysis included 36 patients who had completed at least 48 weeks of treatment or discontinued earlier.
 
 The 36 subjects had a median age of 14.5 years (range: 12 to 17 years), and were 55.6% female, 88.9% Black and 11.1% Asian.
 The median baseline plasma HIV-1 RNA was 4.8 log10 copies per ml, and the median baseline CD4+ cell count was 414 × 106 cells/l (range: 25 to 983 × 106 cells/l).
 
-Table 6 summarizes the week 48 and week 240 virologic outcome results for trial TMC278-C213.
+Table 6 summarises the week 48 and week 240 virologic outcome results for trial TMC278-C213 Cohort 1.
 Six subjects discontinued due to virological failure up to week 48 and 3 subjects discontinued beyond week 48.
 One subject discontinued due to an adverse event at week 48, and no additional subjects discontinued due to adverse events in the week 240 analysis.
+Table 6: Virologic outcome in adolescent subjects in TMC278-C213 Cohort 1 – week 48 and week 240 analysis; ITT-TLOVR*
 
-| Table 6: Virologic outcome in adolescent subjects in the TMC278-C213 trial – week 48 and week 240 analysis; ITT-TLOVR* |  |  |
-| --- | --- | --- |
 |  | Week 48 N=36 | Week 240 N=32 |
+| --- | --- | --- |
 | Response (confirmed < 50 HIV-1 RNA copies/ml)§ | 72.2% (26/36) | 43.8% (14/32) |
 | ≤100,000 | 78.6% (22/28) | 48% (12/25) |
 | > 100,000 | 50% (4/8) | 28.6% (2/7) |
@@ -206,7 +220,28 @@ N=number of subjects per treatment group.
 § Subjects achieved virologic response (two consecutive viral loads < 50 copies/ml) and maintained it through week 48 and week 240.
 ± Virologic failure in efficacy analysis: includes subjects who were rebounder (confirmed viral load ≥50 copies/ml after being responder) or who were never suppressed (no confirmed viral load < 50 copies/ml, either ongoing or discontinued due to lack or loss of efficacy).
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with rilpivirine in one or more subsets of the paediatric population in the treatment of Human Immunodeficiency Virus (HIV-1) infection (see section 4.2 for information on paediatric use).
+Treatment-naïve paediatric subjects 6 to less than 12 years of age
+The pharmacokinetics, safety, tolerability and efficacy of rilpivirine weight-adjusted doses 12.5, 15, and 25 mg once daily, in combination with an investigator-selected BR containing two NRTIs, was evaluated in trial TMC278-C213 Cohort 2, a single-arm, open-label phase 2 trial in antiretroviral treatment-naïve HIV-1 infected paediatric subjects 6 to less than 12 years of age and weighing at least 17 kg.
+The week 48 analysis included 18 subjects, 17 (94.4%) subjects completed the 48-week treatment period, and 1 (5.6%) subject discontinued the study early due to reaching a virologic endpoint.
+The 18 subjects had a median age of 9.0 years (range 6 to 11 years) and the median weight at baseline was 25 kg (range 17 to 51 kg).
+88.9% were Black and 38.9% were female.
+The median baseline plasma viral load was 55 400 (range 567-149 000) copies/ml, and the median absolute baseline CD4+ cell count was 432.5 × 106 cells/l (range 12-2 068 × 106 cells/l).
+
+The number of subjects with HIV-1 RNA <50 copies/ ml at week 48 was 13/18 (72.2%), while 3/18 (16.7%) subjects had HIV-1 RNA ≥50 copies/ml at week 48.
+Two subjects had missing viral load data at week 48 but remained on study.
+The viral load for these 2 subjects was <50 copies/ml, post-week 48.
+The median increase in CD4+ from baseline was 220 × 106 cells/l (range -520 to 635 x 106 cells/l) at week 48.
+
+Virologically suppressed paediatric subjects 2 to less than 12 years of age
+The pharmacokinetics, safety, tolerability and efficacy of rilpivirine weight-adjusted doses 12.5, 15, and 25 mg, in combination with an investigator-selected BR, was evaluated in TMC278HTX2002, a single-arm, open-label phase 2 trial in virologically suppressed HIV-1 infected paediatric subjects 2 to less than 12 years of age and weighing at least 10 kg.
+All participants completed the 48-week treatment.
+
+The 26 subjects had a median age of 9.9 years, 61.5% male, 50% Black, 26.9% Asian and 23.1% White.
+The median weight at baseline was 28.1 kg (range 16 to 60 kg).
+Baseline plasma HIV-1 viral load was undetectable (<50 copies/ml) in 25 (96.2%) subjects and 1 (3.8%) subject had a baseline plasma viral load ≥50 copies/ml (125 copies/ml).
+The median absolute baseline CD4+ cell count was 881.5 × 106 cells/l (range 458 to 1327 × 106 cells/l).
+All 26 subjects treated with rilpivirine (in combination with BR) were virologically suppressed (plasma viral load <50 copies/ml) at week 48.
+The median change in CD4+ cell count from baseline was - 27.5 × 106 cells/l (range -275 to 279 x 106 cells/l) at week 48.
 
 Pregnancy
 Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 pregnant women during the second and third trimesters, and postpartum.
@@ -215,3 +250,28 @@ The virologic response was generally preserved throughout the study: of the 12 s
 No mother to child transmission occurred in all 10 infants born to the mothers who completed the trial and for whom the HIV status was available.
 Rilpivirine was well tolerated during pregnancy and postpartum.
 There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1 infected adults (see sections 4.2, 4.4 and 5.2).
+
+[EDURANT 2.5 mg dispersible tablets]
+
+Table 4 displays selected baseline disease characteristics of the patients in the rilpivirine and efavirenz arms.
+
+Table 4: Baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in the ECHO and THRIVE trials (pooled analysis)
+
+Table 5 below shows the results of the week 48 and the week 96 efficacy analysis for patients treated with rilpivirine and patients treated with efavirenz from the pooled data from the ECHO and THRIVE trials.
+
+Table 5: Virologic outcome in adult subjects in the ECHO and THRIVE trials
+
+From the week 96 pooled resistance analysis, the resistance outcome for patients with protocol defined virological failure, and paired genotypes (baseline and failure) is shown in Table 6.
+
+Table 6: Resistance outcome by background NRTI regimen used
+
+Table 7 summarises the week 48 and week 240 virologic outcome results for trial TMC278-C213 Cohort 1.
+
+Table 7: Virologic outcome in adolescent subjects in TMC278-C213 Cohort 1 – week 48 and week 240 analysis; ITT-TLOVR*
+
+The number of subjects with HIV-1 RNA <50 copies/ ml at week 48 was 13/18 (72.2%), while 3/18 (16.7%) subjects had HIV-1 RNA≥50 copies/ml at week 48.
+The viral load for these 2 participants was <50 copies/ml, post-week 48.
+
+The pharmacokinetics, safety, tolerability and efficacy of rilpivirine weight-adjusted doses 12.5, 15, and 25 mg once daily, in combination with an investigator-selected BR, was evaluated in TMC278HTX2002, a single-arm, open-label phase 2 trial in virologically suppressed HIV-1 infected paediatric subjects 2 to less than 12 years of age and weighing at least 10 kg.
+
+Baseline plasma HIV-1 viral load was undetectable (<50 copies/ml) in 25 (96.2%) subjects and 1 (3.8%) participant had a baseline plasma viral load ≥50 copies/ml (125 copies/ml).

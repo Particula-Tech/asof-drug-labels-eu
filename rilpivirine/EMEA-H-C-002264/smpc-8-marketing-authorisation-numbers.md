@@ -1,3 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER
 
 EU/1/11/736/001
+
+[EDURANT 2.5 mg dispersible tablets]
+
+EU/1/11/736/002
