@@ -15,37 +15,49 @@ At clinically relevant concentrations, macitentan and its active metabolite do n
 
 In vivo studies
 
-Strong CYP3A4 inducers: Concomitant treatment with rifampicin 600 mg daily, a potent inducer of CYP3A4, reduced the steady-state exposure to macitentan by 79% but did not affect the exposure to the active metabolite.
+Strong CYP3A4 inducers
+Concomitant treatment with rifampicin 600 mg daily, a potent inducer of CYP3A4, reduced the steady-state exposure to macitentan by 79% but did not affect the exposure to the active metabolite.
 Reduced efficacy of macitentan in the presence of a potent inducer of CYP3A4 such as rifampicin should be considered.
 The combination of macitentan with strong CYP3A4 inducers should be avoided (see section 4.4).
 
-Ketoconazole: In the presence of ketoconazole 400 mg once daily, a strong CYP3A4 inhibitor, exposure to macitentan increased approximately 2-fold.
+Ketoconazole
+In the presence of ketoconazole 400 mg once daily, a strong CYP3A4 inhibitor, exposure to macitentan increased approximately 2-fold.
 The predicted increase was approximately 3-fold in the presence of ketoconazole 200 mg twice daily using physiologically based pharmacokinetic (PBPK) modelling.
 The uncertainties of such modelling should be considered.
 Exposure to the active metabolite of macitentan was reduced by 26%.
 Caution should be exercised when macitentan is administered concomitantly with strong CYP3A4 inhibitors (see section 4.4).
-
-Fluconazole: In the presence of fluconazole 400 mg daily, a moderate dual inhibitor of CYP3A4 and CYP2C9, exposure to macitentan may increase approximately 3.8-fold based on PBPK modelling.
+Fluconazole
+In the presence of fluconazole 400 mg daily, a moderate dual inhibitor of CYP3A4 and CYP2C9, exposure to macitentan may increase approximately 3.8-fold based on PBPK modelling.
 However, there was no clinically relevant change in exposure to the active metabolite of macitentan.
 The uncertainties of such modelling should be considered.
 Caution should be exercised when macitentan is administered concomitantly with moderate dual inhibitors of CYP3A4 and CYP2C9 (e.g., fluconazole and amiodarone) (see section 4.4).
+
 Caution should also be exercised when macitentan is administered concomitantly with both a moderate CYP3A4 inhibitor (e.g., ciprofloxacin, cyclosporine, diltiazem, erythromycin, verapamil) and moderate CYP2C9 inhibitor (e.g., miconazole, piperine) (see section 4.4).
 
-Warfarin: Macitentan given as multiple doses of 10 mg once daily had no effect on exposure to S-warfarin (CYP2C9 substrate) or R-warfarin (CYP3A4 substrate) after a single dose of 25 mg warfarin.
+Warfarin
+Macitentan given as multiple doses of 10 mg once daily had no effect on exposure to S-warfarin (CYP2C9 substrate) or R-warfarin (CYP3A4 substrate) after a single dose of 25 mg warfarin.
 The pharmacodynamic effect of warfarin on International Normalised Ratio (INR) was not affected by macitentan.
 The pharmacokinetics of macitentan and its active metabolite were not affected by warfarin.
 
-Sildenafil: At steady-state, the exposure to sildenafil 20 mg three times a day was increased by 15% during concomitant administration of macitentan 10 mg once daily.
+Sildenafil
+At steady-state, the exposure to sildenafil 20 mg three times a day was increased by 15% during concomitant administration of macitentan 10 mg once daily.
 Sildenafil, a CYP3A4 substrate, did not affect the pharmacokinetics of macitentan, while there was a 15% reduction in the exposure to the active metabolite of macitentan.
 These changes are not considered clinically relevant.
 In a placebo-controlled trial in patients with PAH, the efficacy and safety of macitentan in combination with sildenafil were demonstrated.
 
-Cyclosporine A: Concomitant treatment with cyclosporine A 100 mg twice daily, a combined CYP3A4 and OATP inhibitor, did not alter the steady-state exposure to macitentan and its active metabolite to a clinically relevant extent.
+Cyclosporine A
+Concomitant treatment with cyclosporine A 100 mg twice daily, a combined CYP3A4 and OATP inhibitor, did not alter the steady-state exposure to macitentan and its active metabolite to a clinically relevant extent.
 
-Hormonal contraceptives: Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).
+Hormonal contraceptives
+Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).
 
-Breast cancer resistance protein (BCRP) substrate drugs: Macitentan 10 mg once daily did not affect the pharmacokinetics of a BCRP substrate drug (riociguat 1 mg; rosuvastatin 10 mg).
+Breast cancer resistance protein (BCRP) substrate drugs
+Macitentan 10 mg once daily did not affect the pharmacokinetics of a BCRP substrate drug (riociguat 1 mg; rosuvastatin 10 mg).
 
 Paediatric population
 
 Interaction studies have only been performed in adults.
+
+[Opsumit 2.5 mg dispersible tablets]
+
+In a placebo-controlled trial in adult patients with PAH, the efficacy and safety of macitentan in combination with sildenafil were demonstrated.

@@ -1,5 +1,8 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/893/001
-
 EU/1/13/893/002
+
+[Opsumit 2.5 mg dispersible tablets]
+
+EU/1/13/893/004

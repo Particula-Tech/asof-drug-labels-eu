@@ -10,9 +10,9 @@ Liver enzyme tests should be obtained prior to initiation of Opsumit.
 
 Patients should be monitored for signs of hepatic injury and monthly monitoring of ALT and AST is recommended.
 If sustained, unexplained, clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin > 2 × ULN, or by clinical symptoms of liver injury (e.g., jaundice), Opsumit treatment should be discontinued.
-
 Reinitiation of Opsumit may be considered following the return of hepatic enzyme levels to within the normal range in patients who have not experienced clinical symptoms of liver injury.
 The advice of a hepatologist is recommended.
+
 Haemoglobin concentration
 
 Decrease in haemoglobin concentrations has been associated with endothelin receptor antagonists (ERAs) including macitentan (see section 4.8).
@@ -54,7 +54,8 @@ Therefore, monitoring of blood pressure and haemoglobin should be considered.
 There is no clinical experience with the use of macitentan in PAH patients with severe renal impairment.
 Caution is recommended in this population.
 There is no experience with the use of macitentan in patients undergoing dialysis, therefore Opsumit is not recommended in this population (see sections 4.2 and 5.2).
-Excipients
+
+Excipients with known effects
 
 Opsumit contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -62,4 +63,11 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 Opsumit contains soya bean lecithin.
 If a patient is hypersensitive to soya, Opsumit must not be used (see section 4.3).
 
+Other excipients
+
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
+[Opsumit 2.5 mg dispersible tablets]
+
+Opsumit dispersible tablets contain isomalt.
+Patients with rare hereditary problems of fructose intolerance should not take this medicine.
