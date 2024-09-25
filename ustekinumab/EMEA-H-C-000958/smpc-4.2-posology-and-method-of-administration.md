@@ -160,6 +160,6 @@ For further instructions on preparation and special precautions for handling, se
 [STELARA 45 mg solution for injection in pre-filled pen]
 
 The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients.
-See section 4.2 of the pre-filled syringe SmPC for posology and method of adminstation in paediatic patients 6 years and older with psoriasis.
+See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
 
 STELARA 45 mg and 90 mg pre-filled pens are for subcutaneous injection only.

@@ -82,6 +82,7 @@ Clinical remission is defined as CDAI score < 150; Clinical response is defined 
 † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
 ‡ Patients who failed conventional therapy but not anti-TNFα therapy
 § Patients who are anti-TNFα refractory/intolerant a p < 0.01 b p < 0.05 c nominally significant (p < 0.05)
+
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks.
 Loss of response was defined as a CDAI score ≥220 points and a ≥100 point increase from the CDAI score at baseline.
 In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
@@ -111,6 +112,7 @@ Health-related quality of life was assessed by Inflammatory Bowel Disease Questi
 At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo.
 These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo.
 Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
 Ulcerative colitis
 The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥2).
 The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
@@ -380,7 +382,10 @@ Table 6 Number of patients who achieved clinical response in Psoriatic arthritis
 | Number of patients > 100 kg | 52 | 52 | 50 | 30 | 29 | 31 |
 | ACR 20 response, N (%) | 8 (15%) | 20 (38%) | 23 (46%) | 4 (13%) | 13 (45%) | 12 (39%) |
 | Number of patients with ≥3% BSAd | 41 | 40 | 38 | 26 | 22 | 24 |
-| PASI 75 response, N (%) | 2 (5%) | 19 (48%) | 20 (53%) | 0 | 10 (45%) | 13 (54%) |
+
+PASI 75
+2 (5%) 19 (48%) 20 (53%) 0 10 (45%) 13 (54%)
+response, N (%)
 
 a p < 0.001 b p < 0.05 c p = NS d Number of patients with ≥3% BSA psoriasis skin involvement at baseline
 
@@ -416,6 +421,7 @@ There was significant improvement in DLQI scores in the ustekinumab groups as co
 In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24.
 The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo.
 Improvements in FACIT scores were maintained through week 52.
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
 
 Paediatric plaque psoriasis
@@ -580,6 +586,26 @@ Table 3: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 The key efficacy results are shown in Table 4 below.
 
 Table 4 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
+
+|  | Psoriatic arthritis Study 1 |  |  | Psoriatic arthritis Study 2 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | PBO | 45 mg | 90 mg | PBO | 45 mg | 90 mg |
+| Number of patients randomised | 206 | 205 | 204 | 104 | 103 | 105 |
+| ACR 20 response, N (%) | 47 (23%) | 87 (42%)a | 101 (50%)a | 21 (20%) | 45 (44%)a | 46 (44%)a |
+| ACR 50 response, N (%) | 18 (9%) | 51 (25%)a | 57 (28%)a | 7 (7%) | 18 (17%)b | 24 (23%)a |
+| ACR 70 response, N (%) | 5 (2%) | 25 (12%)a | 29 (14%)a | 3 (3%) | 7 (7%)c | 9 (9%)c |
+| Number of patients with ≥3% BSAd | 146 | 145 | 149 | 80 | 80 | 81 |
+| PASI 75 response, N (%) | 16 (11%) | 83 (57%)a | 93 (62%)a | 4 (5%) | 41 (51%)a | 45 (56%)a |
+| PASI 90 response, N (%) | 4 (3%) | 60 (41%)a | 65 (44%)a | 3 (4%) | 24 (30%)a | 36 (44%)a |
+| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%) | 40 (28%)a | 62 (42%)a | 2 (3%) | 24 (30%)a | 31 (38%)a |
+| Number of patients ≤100 kg | 154 | 153 | 154 | 74 | 74 | 73 |
+| ACR 20 response, N (%) | 39 (25%) | 67 (44%) | 78 (51%) | 17 (23%) | 32 (43%) | 34 (47%) |
+| Number of patients with ≥3% BSAd | 105 | 105 | 111 | 54 | 58 | 57 |
+| PASI 75 response, N (%) | 14 (13%) | 64 (61%) | 73 (66%) | 4 (7%) | 31 (53%) | 32 (56%) |
+| Number of patients > 100 kg | 52 | 52 | 50 | 30 | 29 | 31 |
+| ACR 20 response, N (%) | 8 (15%) | 20 (38%) | 23 (46%) | 4 (13%) | 13 (45%) | 12 (39%) |
+| Number of patients with ≥3% BSAd | 41 | 40 | 38 | 26 | 22 | 24 |
+| PASI 75 response, N (%) | 2 (5%) | 19 (48%) | 20 (53%) | 0 | 10 (45%) | 13 (54%) |
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis.
 The pre-filled pen has not been studied in the paediatric psoriasis population and is not recommended for use by paediatric patients.

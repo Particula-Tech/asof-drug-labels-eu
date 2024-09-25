@@ -59,7 +59,7 @@ No data are available on the secondary transmission of infection by live vaccine
 Before live viral or live bacterial vaccination, treatment with STELARA should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination.
 Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for six months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6).
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6).
 If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 Patients receiving STELARA may receive concurrent inactivated or non-live vaccinations.

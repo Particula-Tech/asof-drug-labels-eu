@@ -1,10 +1,10 @@
 # 6.1 List of excipients
 
-EDTA disodium salt dihydrate
+EDTA disodium salt dihydrate (E385)
 L-histidine
 L-histidine monohydrochloride monohydrate
 L-methionine
-Polysorbate 80
+Polysorbate 80 (E433)
 Sucrose
 Water for injection
 

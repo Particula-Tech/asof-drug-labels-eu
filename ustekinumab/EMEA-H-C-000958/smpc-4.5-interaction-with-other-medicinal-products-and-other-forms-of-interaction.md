@@ -2,7 +2,7 @@
 
 Live vaccines should not be given concurrently with STELARA.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for six months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6).
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6).
 If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 No interaction studies have been performed in humans.

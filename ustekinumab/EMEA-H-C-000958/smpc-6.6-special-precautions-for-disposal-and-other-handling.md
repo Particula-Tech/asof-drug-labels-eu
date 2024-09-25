@@ -48,5 +48,6 @@ When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch (13 mm)
 
 The solution in the STELARA pre-filled pen should not be shaken.
 
+STELARA does not contain preservatives; therefore any unused medicinal product remaining in the pre-filled pen should not be used.
 STELARA is supplied as a sterile, single-use pre-filled pen.
 The pre-filled pen must never be re-used.

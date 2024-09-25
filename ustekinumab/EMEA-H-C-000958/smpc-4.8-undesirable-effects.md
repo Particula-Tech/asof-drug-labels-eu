@@ -98,6 +98,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [STELARA 45 mg solution for injection]
 
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
+
 Table 3 List of adverse reactions
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 1.0 years for ulcerative colitis studies.
@@ -110,3 +111,5 @@ During the controlled periods of the psoriasis and psoriatic arthritis clinical 
 Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 
 Table 1: List of adverse reactions
+
+During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in <1% of patients (see section 4.4).

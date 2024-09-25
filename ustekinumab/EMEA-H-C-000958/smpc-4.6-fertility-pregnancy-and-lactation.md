@@ -4,15 +4,17 @@ Women of childbearing potential
 Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
 
 Pregnancy
-There are no adequate data from the use of ustekinumab in pregnant women.
+Data from a moderate number of prospectively collected pregnancies following exposure to STELARA with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
+
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
+
+However, the available clinical experience is limited.
 As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 
 Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy.
 The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for 6 months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5).
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5).
 If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
-
 Breast-feeding
 Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts.
 It is not known if ustekinumab is absorbed systemically after ingestion.
