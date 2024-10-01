@@ -6,10 +6,6 @@ PCTFE/PVC blisters with aluminium foil backing in a pack containing 28 x 0.5 mg 
 
 PCTFE/PVC blisters with aluminium foil backing in a pack containing 56 x 0.5 mg film-coated tablets in secondary heat sealed card packaging.
 
-PVC blisters with aluminium foil backing in a pack containing 28 x 0.5 mg film-coated tablets in secondary heat sealed card packaging.
-
-PVC blisters with aluminium foil backing in a pack containing 56 x 0.5 mg film-coated tablets in secondary heat sealed card packaging.
-
 High-density polyethylene (HDPE) bottle with polypropylene child resistant closure and an aluminium foil/polyethylene induction seal containing 56 x 0.5 mg film-coated tablets
 
 Not all pack sizes may be marketed.
@@ -27,18 +23,6 @@ PCTFE/PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg fi
 PCTFE/PVC blisters with aluminium foil backing in a pack containing 112 x 1 mg film-coated tablets in a carton.
 
 PCTFE/PVC blisters with aluminium foil backing in a pack containing 140 x 1 mg film-coated tablets in a carton.
-PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coated tablets in secondary heat sealed card packaging.
-
-PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in secondary heat sealed card packaging.
-
-PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coated tablets in a carton.
-
-PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in a carton.
-
-PVC blisters with aluminium foil backing in a pack containing 112 x 1 mg film-coated tablets in a carton.
-
-PVC blisters with aluminium foil backing in a pack containing 140 x 1 mg film-coated tablets in a carton.
-
 High-density polyethylene (HDPE) bottle with polypropylene child resistant closure and an aluminium foil / polyethylene induction seal containing 56 x 1 mg film-coated tablets
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
@@ -50,14 +34,6 @@ PCTFE/PVC blisters with aluminium foil backing containing 1 clear blister of 11 
 PCTFE/PVC blisters with aluminium foil backing containing 1 clear blister of 11 x 0.5 mg film-coated tablets and a second clear blister containing 14 x 1 mg film-coated tablets in a carton.
 PCTFE/PVC blisters with aluminium foil backing containing 1 clear blister of 11 x 0.5 mg and 14 x 1 mg film-coated tablets and 1 clear blister of 28 or 2 clear blisters of 14 x 1 mg film-coated tablets in secondary heat sealed card packaging.
 
-PVC blisters with aluminium foil backing containing 1 clear blister of 11 x 0.5 mg film-coated tablets and a second clear blister of 14 x 1 mg film-coated tablets in secondary heat sealed card packaging.
-
-PVC blisters with aluminium foil backing containing 1 clear blister of 11 x 0.5 mg film-coated tablets and a second clear blister containing 14 x 1 mg film-coated tablets in a carton.
-
-PVC blisters with aluminium foil backing containing 1 clear blister of 11 x 0.5 mg and 14 x 1 mg film-coated tablets and 1 clear blister of 28 or 2 clear blisters of 14 x 1 mg film-coated tablets in secondary heat sealed card packaging.
-
 One outer carton containing:
 
 PCTFE/PVC blisters with aluminium foil backing containing one clear blister of 11 x 0.5 mg and 14 x 1 mg film-coated tablets and 1 clear blister of 28 or 2 clear blisters of 14 x 1 mg film-coated tablets in one secondary heat sealed card pack and PCTFE/PVC blisters with aluminium foil backing in two secondary heat sealed card packs each containing 56 x 1 mg film-coated tablets.
-
-PVC blisters with aluminium foil backing containing one clear blister of 11 x 0.5 mg and 14 x 1 mg film-coated tablets and 1 clear blister of 28 or 2 clear blisters of 14 x 1 mg film-coated tablets in one secondary heat sealed card pack and PVC blisters with aluminium foil backing in two secondary heat sealed card packs each containing 56 x 1 mg film-coated tablets.
