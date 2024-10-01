@@ -75,6 +75,7 @@ Doses above 28 mg/kg are not recommended because there is only limited experienc
 In patients treated with doses greater than 21 mg/kg, dose reductions in steps of 3.5 to 7 mg/kg should be considered when control has been achieved (e.g. serum ferritin levels persistently ≤2,500 µg/l and showing a decreasing trend over time).
 In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 3.5 to 7 mg/kg should be considered to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.
 If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered (see section 4.4).
+
 Non-transfusion-dependent thalassaemia syndromes
 
 Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] ≥5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 µg/l).
@@ -107,7 +108,6 @@ Interruption <3 mg Fe/g dw or <300 µg/l
 Retreatment Not recommended
 
 *LIC is the preferred method of iron overload determination.
-
 Starting dose
 The recommended initial daily dose of EXJADE film-coated tablets in patients with non-transfusion-dependent thalassaemia syndromes is 7 mg/kg body weight.
 
@@ -119,6 +119,7 @@ Doses of EXJADE film-coated tablets above 14 mg/kg are not recommended because t
 In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2,000 µg/l, dosing of EXJADE film-coated tablets should not exceed 7 mg/kg.
 
 For patients in whom the dose was increased to >7 mg/kg, dose reduction to 7 mg/kg or less is recommended when LIC is <7 mg Fe/g dw or serum ferritin is ≤2,000 µg/l.
+
 Treatment cessation
 Once a satisfactory body iron level has been achieved (LIC <3 mg Fe/g dw or serum ferritin
 <300 µg/l), treatment should be stopped.
@@ -148,7 +149,6 @@ In addition to monthly serum ferritin assessments, LIC should be monitored every
 Children from birth to 23 months:
 The safety and efficacy of EXJADE in children from birth to 23 months of age have not been established.
 No data are available.
-
 Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
 
@@ -162,6 +162,7 @@ For oral use.
 The film-coated tablets should be swallowed whole with some water.
 For patients who are unable to swallow whole tablets, the film-coated tablets may be crushed and administered by sprinkling the full dose onto soft food, e.g. yogurt or apple sauce (pureed apple).
 The dose should be immediately and completely consumed, and not stored for future use.
+
 The film-coated tablets should be taken once a day, preferably at the same time each day, and may be taken on an empty stomach or with a light meal (see sections 4.5 and 5.2).
 
 [EXJADE 90 mg granules in sachet]
