@@ -2,23 +2,23 @@
 
 Due to the teratogenic potential, lenalidomide must be prescribed under a Pregnancy Prevention Programme (see section 4.4) unless there is reliable evidence that the patient does not have childbearing potential.
 
-Women of childbearing potential / Contraception in males and females
+UWomen of childbearing potential / Contraception in males and females
 Women of childbearing potential should use effective method of contraception.
 If pregnancy occurs in a woman treated with lenalidomide, treatment must be stopped and the patient should be referred to a physician specialised or experienced in teratology for evaluation and advice.
 If pregnancy occurs in a partner of a male patient taking lenalidomide, it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
 
 Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2).
 As a precaution and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and has no contraception.
-Pregnancy
+UPregnancy
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
 
 Lenalidomide induced malformation in monkeys similar to those described with thalidomide (see section 5.3).
 Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is contraindicated during pregnancy (see section 4.3).
 
-Breast-feeding
+UBreast-feeding
 It is not known whether lenalidomide is excreted in breast milk.
 Therefore, breast-feeding should be discontinued during therapy with lenalidomide.
 
-Fertility
+UFertility
 A fertility study in rats with lenalidomide doses up to 500 mg/kg (approximately 200 to 500 times the human doses of 25 mg and 10 mg, respectively, based on body surface area) produced no adverse effects on fertility and no parental toxicity.
