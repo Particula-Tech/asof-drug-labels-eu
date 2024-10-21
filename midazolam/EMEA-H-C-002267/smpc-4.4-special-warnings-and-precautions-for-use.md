@@ -1,5 +1,15 @@
 # 4.4 Special warnings and precautions for use
 
+Special caution should be exercised when administering midazolam to high-risk patients:
+
+- adults over 60 years of age
+- chronically ill or debilitated patients, e.g.
+- patients with chronic respiratory insufficiency
+- patients with chronic renal failure, impaired hepatic function or with impaired cardiac function
+- paediatric patients with cardiovascular instability.
+
+These high-risk patients may require lower dosages.
+
 Respiratory insufficiency
 
 Midazolam should be used with caution in patients with chronic respiratory insufficiency because midazolam may further depress respiration.
@@ -15,7 +25,6 @@ Midazolam should be used with caution in patients with chronic renal failure, im
 Midazolam may accumulate in patients with chronic renal failure or impaired hepatic function whilst in patients with impaired cardiac function it may cause decreased clearance of midazolam.
 
 Concomitant use with other benzodiazepines
-
 Debilitated patients are more prone to the central nervous system (CNS) effects of benzodiazepines and, therefore, lower doses may be required.
 
 Medical history of alcohol or drug abuse

@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Treatment of prolonged, acute, convulsive seizures in infants, toddlers, children and adolescents (from 3 months to < 18 years).
+Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults.
 
 BUCCOLAM must only be used by parents/carers where the patient has been diagnosed to have epilepsy.
 

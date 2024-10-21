@@ -31,7 +31,6 @@ Metabolism of midazolam and other benzodiazepines is accelerated by xanthines.
 Dopaminergic medicinal products
 
 Midazolam may cause inhibition of levodopa.
-
 Muscle relaxants
 
 E.g. baclofen.
@@ -42,6 +41,7 @@ Nabilone
 Co-administration with midazolam may cause enhanced sedation or respiratory and cardiovascular depression.
 
 Medicinal products that inhibit CYP3A4
+
 Medicinal product interactions following oromucosal administration of midazolam are likely to be similar to those observed after intravenous midazolam rather than oral administration.
 
 Food
@@ -76,7 +76,6 @@ A single dose of diltiazem increased the plasma concentrations of intravenous mi
 Various medicinal products
 
 Atorvastatin showed a 1.4-fold increase in plasma concentrations of intravenous midazolam compared to control group.
-
 Medicinal products that induce CYP3A4
 
 Rifampicin
@@ -85,6 +84,7 @@ Rifampicin
 The terminal half-life decreased by about 50-60%.
 
 Herbs
+
 St John’s Wort decreased plasma concentrations of midazolam by about 20-40% associated with a decrease in terminal half life of about 15-17%.
 Depending on the specific St John's Wort extract, the CYP3A4-inducing effect may vary.
 

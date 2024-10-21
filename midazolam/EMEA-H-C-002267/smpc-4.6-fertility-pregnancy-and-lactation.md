@@ -17,5 +17,4 @@ Midazolam is excreted in low quantities (0.6%) in human milk.
 As a result it may not be necessary to stop breast feeding following a single dose of midazolam.
 
 Fertility
-
 Animal studies did not show an impairment of fertility (see section 5.3).

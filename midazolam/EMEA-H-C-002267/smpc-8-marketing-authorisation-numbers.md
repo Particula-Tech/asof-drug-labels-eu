@@ -14,7 +14,6 @@ BUCCOLAM 7.5 mg oromucosal solution
 
 EU/1/11/709/003
 EU/1/11/709/007
-
 BUCCOLAM 10 mg oromucosal solution
 
 EU/1/11/709/004

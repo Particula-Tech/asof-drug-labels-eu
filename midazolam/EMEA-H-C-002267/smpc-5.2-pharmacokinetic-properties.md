@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-Simulated pharmacokinetic parameters for the recommended posology in children aged 3 months to less than 18 years, based on a population pharmacokinetic study are provided in tabulated format below:
+Simulated pharmacokinetic parameters for the recommended posology in children aged 3 months to less than 18 years, based on a population pharmacokinetic study, as well as pharmacokinetic parameters for the recommended posology in adults, based on a bioavailability study in healthy adult subjects, are provided in tabulated format below.
 
 | Dose | Age | Parameter | Mean | SD |
 | --- | --- | --- | --- | --- |
@@ -12,14 +12,17 @@ Simulated pharmacokinetic parameters for the recommended posology in children ag
 |  |  | Cmax (ng/ml) | 140 | 60 |
 | 10 mg | 10 yrs < 18 yrs | AUC0-inf (ng.h/ml) | 189 | 96 |
 |  |  | Cmax (ng/ml) | 87 | 44 |
+| 10 mg | > 18 yrs | AUC0-inf (ng.h/ml) (n=22) | 259 | 62 |
+|  |  | Cmax (ng/ml) (n=22) | 71 | 29 |
+
+Simulated pharmacokinetic parameters for the recommended posology in adults (not elderly, not obese), based on a pharmacokinetic study, suggested that the dose of 10 mg in all adults lead to similar exposure to that of all pediatrics age groups at their corresponding therapeutic doses.
 
 Absorption
 
 After oromucosal administration midazolam is absorbed rapidly.
-Maximum plasma concentration is reached within 30 minutes in children.
+Maximum plasma concentration is reached within 30 minutes.
 The absolute bioavailability of oromucosal midazolam is about 75% in adults.
 The bioavailability of oromucosal midazolam has been estimated at 87% in children with severe malaria and convulsions.
-
 Distribution
 
 Midazolam is highly lipophilic and distributes extensively.
@@ -36,7 +39,8 @@ Biotransformation
 Midazolam is almost entirely eliminated by biotransformation.
 The fraction of the dose extracted by the liver has been estimated to be 30-60%.
 Midazolam is hydroxylated by the cytochrome P4503A4 isozyme and the major urinary and plasma metabolite is alpha-hydroxy-midazolam.
-Following oromucosal administration in children the area under the curve ratio for alpha-hydroxy midazolam to midazolam is 0.46.
+Following oromucosal administration the area under the curve ratio for alpha-hydroxy midazolam to midazolam is 0.46 in children and 0.28 in adults.
+
 In a population pharmacokinetic study, the metabolite levels are shown to be higher in younger than older paediatric patients and thus likely to be of more importance in children than in adults.
 
 Elimination
@@ -48,9 +52,14 @@ Less than 1% of the dose is recovered in urine as unchanged medicinal product.
 
 Pharmacokinetics in special populations
 
-Obese
+Elderly
 
-The mean half-life is greater in obese than in non-obese patients (5.9 versus 2.3 hours).
+Exposure to midazolam after oromucosal administration to adults between 60 and 70 years of age is similar to young adults.
+Exposure in older adults after oromucosal administration is unknown but may increase because after intravenous administration the elimination half-life may be prolonged up to four times.
+
+Obese
+The mean half life of midazolam after oromucosal administration to adults with a BMI between 30 and 34 is similar to adults with a BMI between 25 and 30 (8.4 versus 5.5 hours).
+The half life in adults with BMI above 34 is unknown but may increase because after intravenous administration the mean half-life is greater in obese than in non-obese patients (5.9 versus 2.3 hours).
 This is due to an increase of approximately 50% in the volume of distribution corrected for total body weight.
 The clearance is not significantly different in obese and non-obese patients.
 
@@ -63,7 +72,6 @@ Renal impairment
 The elimination half-life in patients with chronic renal failure is similar to that in healthy volunteers.
 
 The elimination half-life of midazolam is prolonged up to six times in the critically ill.
-
 Cardiac insufficiency
 
 The elimination half-life is longer in patients with congestive heart failure compared with that in healthy subjects (see section 4.4).

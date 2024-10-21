@@ -2,13 +2,13 @@
 
 Summary of the safety profile
 
-Published clinical studies show that oromucosal midazolam was administered to approx 443 children with seizures.
+Published clinical studies show that oromucosal midazolam was administered to approximately 443 children and 224 adults with seizures.
 Respiratory depression occurs at a rate of up to 5%, although this is a known complication of convulsive seizures as well as being related to midazolam use.
 One episode of pruritus was possibly attributed to the use of buccal midazolam.
 
 Tabulated list of adverse reactions
 
-The table below lists the adverse reactions reported to occur when oromucosal midazolam was administered to children in clinical studies and postmarketing experience.
+The table below lists the adverse reactions reported to occur when oromucosal midazolam was administered in clinical studies and postmarketing experience.
 
 The frequency of adverse reactions is classified as follows:
 Common: ≥ 1/100 to < 1/10
@@ -35,6 +35,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Description of selected adverse reactions
 
 An increased risk for falls and fractures has been recorded in elderly benzodiazepine users.
+
 Life-threatening incidents are more likely to occur in those with pre-existing respiratory insufficiency or impaired cardiac function, particularly when a high dosage is administered (see section 4.4).
 
 Reporting of suspected adverse reactions

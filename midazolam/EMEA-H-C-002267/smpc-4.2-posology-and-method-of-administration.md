@@ -10,12 +10,15 @@ Standard doses are indicated below:
 | > 6 months to < 1 year | 2.5 mg | Yellow |
 | 1 year to < 5 years | 5 mg | Blue |
 | 5 years to < 10 years | 7.5 mg | Purple |
-| 10 years to < 18 years | 10 mg | Orange |
+| 10 years to adults | 10 mg | Orange |
 
 Carers should only administer a single dose of midazolam.
 If the seizure has not stopped within 10 minutes after administration of midazolam, emergency medical assistance must be sought and the empty syringe given to the healthcare professional to provide information on the dose received by the patient.
 
 A second or repeat dose when seizures re-occur after an initial response should not be given without prior medical advice (see section 5.2).
+
+For patients at increased risk of respiratory depression from benzodiazepines, administration of BUCCOLAM under healthcare professional supervision should be considered prior to starting treatment with BUCCOLAM.
+This administration may be performed in the absence of a seizure.
 
 Special populations
 
@@ -36,14 +39,19 @@ Paediatric population
 The safety and efficacy of midazolam in children aged 0 to 3 months has not been established.
 No data are available.
 
-Method of administration
+Elderly
 
+The elderly are more sensitive to the effects of benzodiazepines.
+In patients from 60 years and in elderly patients BUCCOLAM should be used with caution.
+
+Method of administration
 BUCCOLAM is for oromucosal use.
 The full amount of solution should be inserted slowly into the space between the gum and the cheek.
 Laryngo-tracheal insertion should be avoided to prevent accidental aspiration of the solution.
 If necessary (for larger volumes and/or smaller patients), approximately half the dose should be given slowly into one side of the mouth, then the other half given slowly into the other side.
 
 For detailed instructions on how to administer the medicinal product, see section 6.6.
+
 Precautions to be taken before handling or administering the medicinal product
 
 No needle, intravenous tubing or any other device for parenteral administration should be attached to the oral syringe.
