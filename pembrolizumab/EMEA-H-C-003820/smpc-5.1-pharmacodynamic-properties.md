@@ -2462,6 +2462,87 @@ Pembrolizumab + Chemotherapy
 Placebo + Chemotherapy
 
 Endometrial carcinoma
+KEYNOTE-868 (NRG-GY018): Controlled study of combination therapy for treatment of patients with primary advanced or recurrent EC
+The efficacy of pembrolizumab in combination with paclitaxel and carboplatin was investigated in KEYNOTE-868 (NRG-GY018), a randomised, multicentre, double-blind, placebo-controlled study in 810 patients with advanced or recurrent endometrial carcinoma including those with dMMR and pMMR tumours.
+Patients had not received prior systemic therapy or had received prior chemotherapy in the adjuvant setting.
+Patients who had received prior adjuvant chemotherapy were eligible if their chemotherapy-free interval was at least 12 months.
+Patients with endometrial sarcoma, including carcinosarcoma or patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
+Randomisation was stratified according to MMR status, ECOG PS (0 or 1 vs. 2), and prior adjuvant chemotherapy.
+Patients were randomised (1:1) to one of the following treatment arms:
+
+- Pembrolizumab 200 mg every 3 weeks, paclitaxel 175 mg/m2 and carboplatin AUC
+
+5 mg/mL/min for 6 cycles, followed by pembrolizumab 400 mg every 6 weeks for up to 14 cycles.
+
+- Placebo every 3 weeks, paclitaxel 175 mg/m2 and carboplatin AUC 5 mg/mL/min for 6 cycles, followed by placebo every 6 weeks for up to 14 cycles.
+
+All study medications were administered as an intravenous infusion on Day 1 of each treatment cycle.
+Treatment continued until disease progression, unacceptable toxicity or a maximum of 20 cycles (up to approximately 24 months).
+Patients with measurable disease who had RECIST-defined stable disease or partial response at the completion of cycle 6 were permitted to continue receiving paclitaxel and carboplatin with pembrolizumab or placebo for up to 10 cycles as determined by the investigator.
+Assessment of tumour status was performed every 9 weeks for the first 9 months and then every 12 weeks thereafter.
+
+Among the 810 randomised patients, 222 (27%) had dMMR tumour status and 588 (73%) had pMMR tumour status.
+
+The dMMR population characteristics were: median age of 66 years (range: 37 to 86), 55% age 65 or older; 79% White, 9% Black and 3% Asian; 5% Hispanic or Latino; 64% ECOG PS of 0, 33% ECOG PS of 1 and 3% ECOG PS of 2; 61% had recurrent disease and 39% had primary or persistent disease; 5% received prior adjuvant chemotherapy and 43% received prior radiotherapy.
+The histologic subtypes were endometrioid carcinoma (24% grade 1, 43% grade 2, and 14% grade 3), adenocarcinoma Not Otherwise Specified (NOS) (11%), and other (8% including dedifferentiated/undifferentiated, serous and mixed epithelial).
+
+The pMMR population characteristics were: median age of 66 years (range: 29 to 94), 54% age 65 or older; 72% White, 16% Black, and 5% Asian; 6% Hispanic or Latino; 67% ECOG PS of 0, 30% ECOG PS of 1 and 3% ECOG PS of 2; 56% had recurrent disease and 44% had primary or persistent disease; 26% received prior adjuvant chemotherapy and 41% received prior radiotherapy.
+The histologic subtypes were endometrioid carcinoma (17% grade 1, 19% grade 2, and 16% grade 3), serous (26%), adenocarcinoma NOS (10%), clear cell carcinoma (7%), and other (5% including mixed epithelial and dedifferentiated/undifferentiated).
+
+The primary efficacy outcome measure was PFS as assessed by the investigator according to RECIST 1.1 in the dMMR and pMMR populations.
+Secondary efficacy outcome measures included OS, ORR and response duration in the dMMR and pMMR populations.
+The study demonstrated statistically significant improvements in PFS for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy in both the dMMR and pMMR populations.
+The median follow-up time was 13.6 months (range: 0.6 to 39.4 months) and 8.7 months (range: 0.1 to 37.2 months) in the dMMR and pMMR populations, respectively.
+OS endpoint was not formally assessed within multiplicity control.
+OS results were not mature.
+Efficacy results by MMR status are summarised in Table 45.
+The Kaplan-Meier curves for PFS by MMR status are shown in Figures 42 and 43, respectively.
+Table 45: Efficacy results in KEYNOTE-868 (NRG-GY018)
+
+| Endpoint | dMMR Population |  | pMMR Population |  |
+| --- | --- | --- | --- | --- |
+|  | Pembrolizumab with chemotherapy* n=110 | Placebo with chemotherapy* n=112 | Pembrolizumab with chemotherapy* n=294 | Placebo with chemotherapy* n=294 |
+| PFS |  |  |  |  |
+| Number (%) of patients with event | 29 (26%) | 60 (54%) | 95 (32%) | 138 (47%) |
+| Median in months (95% CI) | NR (30.7, NR) | 8.3 (6.5, 12.3) | 13.1 (10.6, 19.5) | 8.7 (8.4, 11.0) |
+| Hazard ratio† (95% CI) | 0.34 (0.22, 0.53) |  | 0.57 (0.44, 0.74) |  |
+| p-Value‡ | < 0.0001 |  | < 0.0001 |  |
+| OS |  |  |  |  |
+| Number (%) of patients with event | 10 (9%) | 17 (15%) | 45 (15%) | 54 (18%) |
+| Median in months (95% CI) | NR (NR, NR) | NR (NR, NR) | 28.0 (21.4, NR) | 27.4 (19.5, NR) |
+| Hazard ratio† (95% CI) | 0.55 (0.25, 1.19) |  | 0.79 (0.53, 1.17) |  |
+| Objective response rate |  |  |  |  |
+| Number of participants with measurable disease at baseline | n=95 | n=95 | n=220 | n=235 |
+| ORR¶ % (95% CI) | 78% (68, 86) | 69% (59, 79) | 61% (55, 68) | 51% (45, 58) |
+| Response duration |  |  |  |  |
+| Median in months (range) | NR (0.0+, 33.0+) | 4.4 (0.0+, 32.8+) | 7.1 (0.0+, 32.8+) | 6.4 (0.0+, 20.1+) |
+
+* Chemotherapy (paclitaxel and carboplatin)
+† Based on the stratified Cox proportional hazard model
+‡ One-sided p-value based on stratified log-rank test (compared to an alpha boundary of 0.00207 for dMMR and 0.00116 for pMMR)
+¶ Response: Best objective response as confirmed complete response or partial response
+NR = not reached
+Figure 42: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in dMMR population
+
+Treatment arm HR (95% CI)
+Pembrolizumab + Chemotherapy 0.34 (0.22, 0.53)
+Chemotherapy
+
+Time in Months
+Number at Risk
+Pembrolizumab + Chemotherapy
+Chemotherapy
+Figure 43: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in pMMR population
+
+Treatment arm HR (95% CI)
+Pembrolizumab + Chemotherapy 0.57 (0.44, 0.74)
+Chemotherapy
+
+Time in Months
+Number at Risk
+Pembrolizumab + Chemotherapy
+Chemotherapy
+
 KEYNOTE-775: Controlled study of combination therapy in advanced EC patients previously treated with systemic chemotherapy
 The efficacy of pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-775, a randomised, multicentre, open-label, active-controlled study conducted in patients with advanced EC who had been previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings.
 Participants may have received up to 2 platinum-containing therapies in total, as long as one was given in the neoadjuvant or adjuvant treatment setting.
@@ -2490,9 +2571,9 @@ Secondary efficacy outcome measures included ORR, as assessed by BICR using RECI
 At the pre-specified interim analysis, with a median follow-up time of 11.4 months (range: 0.3 to 26.9 months), the study demonstrated a statistically significant improvement in OS and PFS.
 The pre-specified final OS analysis with approximately 16 months of additional follow-up duration from the interim analysis (overall median follow-up time of 14.7 months [range: 0.3 to 43.0 months]) was performed without multiplicity adjustment.
 Efficacy results by MMR subgroups were consistent with overall study results.
-PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 45.
-Kaplan-Meier curves for final OS and interim PFS analyses are shown in Figures 42 and 43, respectively.
-Table 45: Efficacy results in KEYNOTE-775
+PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 46.
+Kaplan-Meier curves for final OS and interim PFS analyses are shown in Figures 44 and 45, respectively.
+Table 46: Efficacy results in KEYNOTE-775
 
 | Endpoint | Pembrolizumab 200 mg every 3 weeks Lenvatinib n=411 | Chemotherapy* n=416 |
 | --- | --- | --- |
@@ -2523,7 +2604,7 @@ At the pre-specified interim analysis of OS with a median follow-up time of 11.4
 § Response: Best objective response as confirmed complete response or partial response
 ¶ Based on Miettinen and Nurminen method stratified by MMR Status, ECOG performance status, geographic region, and history of pelvic radiation
 # Based on Kaplan-Meier estimation
-Figure 42: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-775 (intent to treat population)
+Figure 44: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-775 (intent to treat population)
 
 Treatment arm OS rate at 12 months OS rate at 24 months HR (95% CI) nominal p-value Pembrolizumab + Lenvatinib 63% 41% 0.65 (0.55, 0.77) <0.0001 Chemotherapy 49% 23%
 
@@ -2531,7 +2612,7 @@ Time in Months
 Number at Risk
 Pembrolizumab + Lenvatinib
 Chemotherapy
-Figure 43: Kaplan-Meier curve for progression free-survival by treatment arm in KEYNOTE-775 (intent to treat population)
+Figure 45: Kaplan-Meier curve for progression free-survival by treatment arm in KEYNOTE-775 (intent to treat population)
 
 Treatment arm PFS rate at 6 months PFS rate at 12 months HR (95% CI) p-value
 Pembrolizumab + Lenvatinib 54% 31% 0.56 (0.47, 0.66) <0.0001
@@ -2543,6 +2624,70 @@ Pembrolizumab + Lenvatinib:
 Chemotherapy:
 
 Cervical cancer
+KEYNOTE-A18: Controlled study of combination therapy with CRT in patients with locally advanced cervical cancer
+The efficacy of pembrolizumab in combination with cisplatin and external beam radiation therapy (EBRT) followed by brachytherapy (BT) was investigated in KEYNOTE-A18, a multicentre, randomised, double-blind, placebo-controlled study that enrolled 1 060 patients with locally advanced cervical cancer who had not previously received any definitive surgery, radiation, or systemic therapy for cervical cancer.
+There were 601 patients with FIGO (International Federation of Gynaecology and Obstetrics) 2014 Stage III - IVA (tumour involvement of the lower vagina with or without extension onto pelvic sidewall or hydronephrosis/non-functioning kidney or has spread to adjacent pelvic organs) with either node-positive or node-negative disease and 459 patients with FIGO 2014
+Stage IB2 - IIB (tumour lesions >4 cm or clinically visible lesions that have spread beyond the uterus but have not extended onto the pelvic wall or to the lower third of vagina) with node-positive disease.
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+Randomisation was stratified by planned type of EBRT (Intensity-modulated radiation therapy [IMRT] or volumetric modulated arc therapy [VMAT] vs. non-IMRT and non-VMAT), stage at screening of cervical cancer (FIGO 2014 Stage IB2 - IIB vs. Stage III - IVA) and planned total radiotherapy dose ([EBRT + BT dose] of
+< 70 Gy vs. ≥ 70 Gy as per equivalent dose [EQD2]).
+Patients were randomised (1:1) to one of the two treatment arms:
+
+- Pembrolizumab 200 mg IV every 3 weeks (5 cycles) concurrent with cisplatin 40 mg/m2 IV weekly (5 cycles, an optional sixth infusion could be administered per local practice) and radiotherapy (EBRT followed by BT), followed by pembrolizumab 400 mg IV every 6 weeks (15 cycles).
+- Placebo IV every 3 weeks (5 cycles) concurrent with cisplatin 40 mg/m2 IV weekly
+
+(5 cycles, an optional sixth infusion could be administered per local practice) and radiotherapy (EBRT followed by BT), followed by placebo IV every 6 weeks (15 cycles).
+
+Treatment continued until RECIST v1.1-defined progression of disease as determined by the investigator or unacceptable toxicity.
+Assessment of tumour status was performed every 12 weeks for the first two years, every 24 weeks in year 3, and then annually.
+
+Among the 601 patients with FIGO 2014 Stage III - IVA disease enrolled in KEYNOTE-A18, the baseline characteristics were: median age of 51 years (range: 22 to 87), 16% age 65 or older;
+36% White, 1% Black, 34% Asian, 38% Hispanic or Latino; 68% ECOG performance status of 0 and 32% ECOG performance status of 1; 93% with CPS ≥ 1; 71% had positive pelvic and/or positive para-aortic lymph node(s), 29% had neither positive pelvic nor para-aortic lymph node, 86% IMRT or VMAT EBRT, 90% ≥ 70 Gy (EQD2).
+Eighty-four percent had squamous cell carcinoma and 16% had non-squamous histology.
+
+The primary efficacy outcomes were PFS (as assessed by investigator according to RECIST v1.1 or histopathologic confirmation) and OS.
+The study demonstrated statistically significant improvements in PFS [0.70 (95% CI 0.55, 0.89; p-Value 0.0020)] from the first pre-specified interim analysis and OS [0.67 (95% CI 0.50, 0.90; p-Value 0.0040)] from the second pre-specified interim analysis in the overall population for patients randomised to pembrolizumab with CRT compared to placebo with CRT.
+Table 47 summarises key efficacy measures from the second pre-specified interim analysis in patients with FIGO 2014 Stage III - IVA disease with median follow-up time of 26.6 months
+(range: 0.9 to 41.7 months).
+The Kaplan-Meier curves in patients with FIGO 2014 Stage III - IVA disease for OS and PFS based on this analysis are shown in Figures 46 and 47, respectively.
+
+Table 47: Efficacy results in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+
+| Endpoint | Pembrolizumab 200 mg every 3 weeks and 400 mg every 6 weeks with CRT n=296 |  | Placebo with CRT n=305 |
+| --- | --- | --- | --- |
+| OS |  |  |  |
+| Number (%) of patients with event | 43 (15%) | 73 (24%) |  |
+| Median in months (95% CI) | NR (NR, NR) | NR (NR, NR) |  |
+| Hazard ratio* (95% CI) | 0.57 (0.39, 0.83) |  |  |
+| PFS by investigator |  |  |  |
+| Number (%) of patients with event | 79 (27%) | 125 (41%) |  |
+| Median in months (95% CI) | NR (NR, NR) | NR (26.3, NR) |  |
+| Hazard ratio* (95% CI) | 0.57 (0.43, 0.76) |  |  |
+
+* Based on the stratified Cox proportional hazard model
+CRT = Chemoradiotherapy
+NR = not reached
+Figure 46: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+
+Treatment arm HR (95% CI)
+Pembrolizumab + CRT 0.57 (0.39, 0.83)
+CRT
+
+Time in Months
+Number at Risk
+Pembrolizumab + CRT
+CRT
+Figure 47: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+
+Treatment arm HR (95% CI)
+Pembrolizumab + CRT 0.57 (0.43, 0.76)
+CRT
+
+Time in Months
+Number at Risk
+Pembrolizumab + CRT
+CRT
+
 KEYNOTE-826: Controlled study of combination therapy in patients with persistent, recurrent, or metastatic cervical cancer
 The efficacy of pembrolizumab in combination with paclitaxel and cisplatin or paclitaxel and carboplatin, with or without bevacizumab, was investigated in KEYNOTE-826, a multicentre, randomised, double-blind, placebo-controlled study that enrolled 617 patients with persistent, recurrent, or first-line metastatic cervical cancer who had not been treated with chemotherapy except when used concurrently as a radio-sensitising agent.
 Patients were enrolled regardless of tumour PD-L1 expression status.
@@ -2562,7 +2707,6 @@ Paclitaxel 175 mg/m2 + cisplatin 50 mg/m2 + bevacizumab 15 mg/kg
 Paclitaxel 175 mg/m2 + carboplatin AUC 5 mg/mL/min
 4.
 Paclitaxel 175 mg/m2 + carboplatin AUC 5 mg/mL/min + bevacizumab 15 mg/kg
-
 All study medications were administered as an intravenous infusion.
 All study treatments were administered on Day 1 of each 3-week treatment cycle.
 Cisplatin could be administered on Day 2 of each 3-week treatment cycle.
@@ -2580,9 +2724,9 @@ Secondary efficacy outcome measures were ORR and duration of response, according
 At a pre-specified interim analysis, the study demonstrated statistically significant improvements in OS (HR 0.64; 95% CI 0.50, 0.81;
 p-Value = 0.0001) and PFS (HR 0.62; 95% CI 0.50, 0.77; p-Value < 0.0001) for patients whose tumours expressed PD-L1 with a CPS ≥ 1 randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab.
 The study also demonstrated statistically significant improvements in OS and PFS in the overall population.
-Table 46 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months.
-The Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 44 and 45.
-Table 46: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CPS ≥ 1)
+Table 48 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months.
+The Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 48 and 49.
+Table 48: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint | Pembrolizumab 200 mg every 3 weeks plus Chemotherapy* with or without bevacizumab n=273 | Placebo plus Chemotherapy* with or without bevacizumab n=275 |
 | --- | --- | --- |
@@ -2610,7 +2754,7 @@ Table 46: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CP
 ‡ Nominal p-Value based on stratified log-rank test
 ¶ Response: Best objective response as confirmed complete response or partial response
 # Based on Kaplan-Meier estimation
-Figure 44: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
+Figure 48: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
 
 Treatment arm OS rate at 12 months OS rate at 24 months HR (95% CI) p-value Pembrolizumab+Chemotherapy* 76% 54% 0.60 (0.49, 0.74) <0.0001 Chemotherapy* 63% 39%
 
@@ -2620,7 +2764,7 @@ Pembrolizumab+Chemotherapy*
 Chemotherapy*
 
 * Chemotherapy (paclitaxel and cisplatin or paclitaxel and carboplatin) with or without bevacizumab
-Figure 45: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
+Figure 49: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
 
 Treatment arm PFS rate at 12 months PFS rate at 24 months HR (95% CI) p-value Pembrolizumab+Chemotherapy* 46% 36% 0.58 (0.47, 0.71) <0.0001
 Chemotherapy* 34% 19%
@@ -2661,8 +2805,8 @@ At this interim analysis, there was no statistically significant difference with
 The median follow-up time was 15.4 months (range: 0.3 to 41.6 months).
 At the first interim analysis conducted on the first 264 patients randomised in the overall population (133 patients in the pembrolizumab arm and 131 in the placebo arm), a statistically significant improvement was observed in ORR (74.4% vs. 51.9%, representing a 22.7% difference in ORR, [95%CI: 11.2, 33.7]; p-Value 0.00006).
 
-Table 47 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 46 and 47 show the Kaplan-Meier curves for PFS and OS.
-Table 47: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
+Table 49 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 50 and 51 show the Kaplan-Meier curves for PFS and OS.
+Table 49: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint | Pembrolizumab Trastuzumab and Chemotherapy n=298 | Placebo Trastuzumab and Chemotherapy n=296 |  |
 | --- | --- | --- | --- |
@@ -2692,7 +2836,7 @@ Table 47: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (C
 ‡ Response: Best objective response as confirmed complete response or partial response
 # Nominal p-value based on unstratified Miettinen and Nurminen method; no formal test was performed in patients with PD-L1 expression (CPS ≥ 1).
 ¶ Based on Kaplan-Meier estimation
-Figure 46: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
+Figure 50: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
 
 Treatment arm PFS Rate at 12 months PFS Rate at 24 months HR (95% CI) p-value
 
@@ -2704,7 +2848,7 @@ Time in Months
 Number at Risk
 Pembrolizumab + SOC
 SOC
-Figure 47: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
+Figure 51: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
 
 Treatment arm OS Rate at 12 months OS Rate at 18 months HR (95% CI) p-value
 Pembrolizumab + SOC 69.2% 56.9% 0.79 (0.64, 0.98) 0.0143
@@ -2745,8 +2889,8 @@ Additional secondary efficacy outcome measures included PFS, ORR, and DOR as ass
 
 The study demonstrated a statistically significant improvement in OS (HR 0.78; 95% CI 0.70, 0.87; p-Value < 0.0001), PFS (HR 0.76; 95% CI 0.67, 0.85; p-Value < 0.0001) and ORR (51% [95% CI 47.7, 54.8] vs 42% [95% CI 38.5, 45.5]; p-Value 0.00009) in patients randomised to pembrolizumab in combination with chemotherapy compared with placebo in combination with chemotherapy in the overall population.
 The median follow-up time was 12 months (range: 0.1 to 45.9 months).
-Table 48 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 48 and 49 show the Kaplan-Meier curves for OS and PFS.
-Table 48: Efficacy results in KEYNOTE-859 for patients with PD L1 expression (CPS ≥ 1)
+Table 50 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 52 and 53 show the Kaplan-Meier curves for OS and PFS.
+Table 50: Efficacy results in KEYNOTE-859 for patients with PD L1 expression (CPS ≥ 1)
 
 | Endpoint | Pembrolizumab Fluoropyrimidine and Platinum Chemotherapy n=618 | Placebo Fluoropyrimidine and Platinum Chemotherapy n=617 |
 | --- | --- | --- |
@@ -2774,7 +2918,7 @@ Table 48: Efficacy results in KEYNOTE-859 for patients with PD L1 expression (CP
 ‡ One sided p-Value based on stratified log-rank test
 § Response: Best objective response as confirmed complete response or partial response
 ¶ One sided p-Value based on stratified Miettinen and Nurminen method
-Figure 48: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
+Figure 52: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
 
 Treatment arm OS Rate at 12 months OS Rate at 24 months HR (95% CI) p-value
 
@@ -2786,7 +2930,7 @@ Time in Months
 Number at Risk
 Pembro + Chemo
 Chemo
-Figure 49: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
+Figure 53: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
 
 Treatment arm PFS Rate at 12 months PFS Rate at 24 months HR (95% CI) p-value
 
@@ -2799,9 +2943,9 @@ Number at Risk
 Pembro + Chemo
 Chemo
 
-An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to < 10 or CPS ≥ 10 in both arms (see Table 49).
+An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to < 10 or CPS ≥ 10 in both arms (see Table 51).
 
-Table 49: Efficacy results by PD-L1 expression in KEYNOTE-859
+Table 51: Efficacy results by PD-L1 expression in KEYNOTE-859
 
 | Endpoint | Pembrolizumab combination therapy n=337 | Chemotherapy n=345 | Pembrolizumab combination therapy n=279 | Chemotherapy n=272 |
 | --- | --- | --- | --- | --- |
@@ -2836,8 +2980,8 @@ The study population characteristics were median age of 64 years (range: 23 to 8
 
 The primary efficacy outcome measure was OS and the secondary efficacy measures were PFS, ORR and DOR as assessed by BICR using RECIST 1.1.
 The study demonstrated a statistically significant improvement in OS at final analysis for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy.
-Table 50 summarises key efficacy measures and Figures 50 and 51 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
-Table 50: Efficacy results in KEYNOTE-966
+Table 52 summarises key efficacy measures and Figures 54 and 55 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
+Table 52: Efficacy results in KEYNOTE-966
 
 | Endpoint | Pembrolizumab 200 mg every 3 weeks with gemcitabine/cisplatin n=533 | Placebo with gemcitabine/cisplatin n=536 |
 | --- | --- | --- |
@@ -2869,7 +3013,7 @@ The PFS result did not meet the pre-specified one-sided significance level of 0.
 The ORR result did not meet the pre-specified one-sided significance level of 0.0125
 § Based on patients with objective response that is confirmed complete response or partial response
 ¶ Based on Kaplan-Meier estimate
-Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-966 (intent to treat population)
+Figure 54: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-966 (intent to treat population)
 
 Treatment arm OS rate at 12 months OS rate at 24 months HR (95% CI) p-value
 Pembrolizumab + Chemotherapy 52% 25% 0.83 (0.72, 0.95) 0.0034
@@ -2879,7 +3023,7 @@ Time in Months
 Number at Risk
 Pembrolizumab + Chemotherapy
 Placebo + Chemotherapy
-Figure 51: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-966 (intent to treat population)
+Figure 55: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-966 (intent to treat population)
 
 Treatment arm PFS rate at 6 months PFS rate at 12 months HR (95% CI) p-value Pembrolizumab + Chemotherapy 52% 24% 0.87 (0.76, 0.99) 0.0171
 Placebo + Chemotherapy 46% 19%
@@ -2905,7 +3049,7 @@ In patients with solid tumours and other lymphomas, the ORR was 5.8%, no patient
 In the Hodgkin lymphoma population (n=22), in patients aged 11 years to 17 years, the baseline characteristics were median age 15 years; 64% male; 68% White; 77% had a Lansky/Karnofsky scale 90-100 and 23% had scale 70-80.
 Eighty-six percent had two or more prior lines of therapy and 64% had Stage 3 or higher.
 In these paediatric patients with cHL, the ORR assessed by BICR according to the IWG 2007 criteria was 54.5%, 1 patient (4.5%) had a complete response and 11 patients (50.0%) had a partial response, and the ORR assessed by the Lugano 2014 criteria was 63.6%, 4 patients (18.2%) had a complete response and 10 patients (45.5%) had a partial response.
-Data from clinical trials in adolescent melanoma patients is very limited and extrapolation from adult data has been used to establish efficacy.
+Data from clinical studies in adolescent melanoma patients is very limited and extrapolation from adult data has been used to establish efficacy.
 Among the 5 adolescent participants with advanced melanoma treated on KEYNOTE-051, no patient had a complete or a partial response, and 1 patient had stable disease.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of Hodgkin lymphoma (see section 4.2 for information on paediatric use).

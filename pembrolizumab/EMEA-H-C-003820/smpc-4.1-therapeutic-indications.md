@@ -72,17 +72,21 @@ KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of lo
 
 Endometrial carcinoma (EC)
 
+KEYTRUDA, in combination with carboplatin and paclitaxel, is indicated for the first-line treatment of primary advanced or recurrent endometrial carcinoma in adults who are candidates for systemic therapy.
+
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of advanced or recurrent endometrial carcinoma in adults who have disease progression on or following prior treatment with a platinum-containing therapy in any setting and who are not candidates for curative surgery or radiation.
 
 Cervical cancer
+
+KEYTRUDA, in combination with chemoradiotherapy (external beam radiation therapy followed by brachytherapy), is indicated for the treatment of FIGO 2014 Stage III - IVA locally advanced cervical cancer in adults who have not received prior definitive therapy.
 
 KEYTRUDA, in combination with chemotherapy with or without bevacizumab, is indicated for the treatment of persistent, recurrent, or metastatic cervical cancer in adults whose tumours express PD-L1 with a CPS ≥ 1.
 
 Gastric or gastro-oesophageal junction (GEJ) adenocarcinoma
 
 KEYTRUDA, in combination with trastuzumab, fluoropyrimidine and platinum-containing chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic HER2-positive gastric or gastro-oesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1.
-
 KEYTRUDA, in combination with fluoropyrimidine and platinum-containing chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic HER2-negative gastric or gastro-oesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1 (see section 5.1).
+
 Biliary tract carcinoma (BTC)
 
 KEYTRUDA, in combination with gemcitabine and cisplatin, is indicated for the first-line treatment of locally advanced unresectable or metastatic biliary tract carcinoma in adults.

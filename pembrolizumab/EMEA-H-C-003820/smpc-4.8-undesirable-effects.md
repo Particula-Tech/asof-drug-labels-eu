@@ -12,12 +12,12 @@ The majority of adverse reactions reported for monotherapy were of Grades 1 or 2
 The most serious adverse reactions were immune-mediated adverse reactions and severe infusion-related reactions (see section 4.4).
 The incidences of immune-mediated adverse reactions were 37% all Grades and 9% for Grades 3-5 for pembrolizumab monotherapy in the adjuvant setting and 25% all Grades and 6% for Grades 3-5 in the metastatic setting.
 No new immune-mediated adverse reactions were identified in the adjuvant setting.
-
-Pembrolizumab in combination with chemotherapy (see section 4.2)
+Pembrolizumab in combination with chemotherapy or chemoradiotherapy (CRT) (see section 4.2)
 When pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components prior to initiation of treatment.
-The safety of pembrolizumab in combination with chemotherapy has been evaluated in 5 183 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
-In this patient population, the most frequent adverse reactions were anaemia (52%), nausea (52%), fatigue (35%), diarrhoea (33%), constipation (32%), vomiting (28%), decreased appetite (28%), neutrophil count decreased (27%) and neutropenia (25%).
-Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 69% for pembrolizumab combination therapy and 61% for chemotherapy alone, in patients with HNSCC were 85% for pembrolizumab combination therapy and 84% for chemotherapy plus cetuximab, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 82% for pembrolizumab combination and 75% for chemotherapy, with or without bevacizumab, in patients with gastric cancer were 74% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 68% for chemotherapy with or without trastuzumab, and in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone.
+
+The safety of pembrolizumab in combination with chemotherapy or CRT has been evaluated in 6 093 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
+In this patient population, the most frequent adverse reactions were anaemia (53%), nausea (52%), diarrhoea (36%), fatigue (35%), constipation (32%), vomiting (28%), neutrophil count decreased (28%) and decreased appetite (27%), .
+Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 69% for pembrolizumab combination therapy and 61% for chemotherapy alone, in patients with HNSCC were 85% for pembrolizumab combination therapy and 84% for chemotherapy plus cetuximab, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 77% for pembrolizumab combination therapy (chemotherapy with or without bevacizumab or in combination with CRT) and 71% for chemotherapy with or without bevacizumab or CRT alone, in patients with gastric cancer were 74% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 68% for chemotherapy with or without trastuzumab, in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone, and in patients with EC were 59% for pembrolizumab combination therapy and 46% for chemotherapy alone.
 
 Pembrolizumab in combination with tyrosine kinase inhibitor (TKI) (see section 4.2)
 When pembrolizumab is administered in combination with axitinib or lenvatinib, refer to the SmPC for axitinib or lenvatinib prior to initiation of treatment.
@@ -30,7 +30,7 @@ Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in 
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
 
 Tabulated summary of adverse reactions
-Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
+Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
@@ -38,7 +38,7 @@ Adverse reactions known to occur with pembrolizumab or combination therapy compo
 For additional safety information when pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components.
 Table 2: Adverse reactions in patients treated with pembrolizumab†
 
-|  | Monotherapy | In combination with chemotherapy | In combination with axitinib or lenvatinib |
+| MedDRA SOC and frequency category | Monotherapy | In combination with chemotherapy or chemoradiotherapy | In combination with axitinib or lenvatinib |
 | --- | --- | --- | --- |
 | Infections and infestations |  |  |  |
 | Very common |  |  | urinary tract infection |
@@ -46,8 +46,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Blood and lymphatic system disorders |  |  |  |
 | Very common | anaemia | anaemia, neutropenia, thrombocytopenia | anaemia |
 | Common | thrombocytopenia, neutropenia, lymphopenia | febrile neutropenia, leukopenia, lymphopenia | neutropenia, thrombocytopenia, lymphopenia, leukopenia |
-| Uncommon | leukopenia, immune thrombocytopenia, eosinophilia | eosinophilia | eosinophilia |
-| Rare | haemophagocytic lymphohistiocytosis, haemolytic anaemia, pure red cell aplasia | haemolytic anaemia, immune thrombocytopenia |  |
+| Uncommon | leukopenia, immune thrombocytopenia, eosinophilia | haemolytic anaemia⁎, eosinophilia | eosinophilia |
+| Rare | haemolytic anaemia⁎, haemophagocytic lymphohistiocytosis, pure red cell aplasia | immune thrombocytopenia |  |
 | Immune system disorders |  |  |  |
 | Common | infusion-related reaction⁎ | infusion-related reaction⁎ | infusion-related reaction⁎ |
 | Uncommon | sarcoidosis⁎ |  |  |
@@ -55,7 +55,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Not known | solid organ transplant rejection |  |  |
 | Endocrine disorders |  |  |  |
 | Very common | hypothyroidism⁎ | hypothyroidism⁎ | hypothyroidism |
-| Common | hyperthyroidism | adrenal insufficiency⁎, thyroiditis⁎, hyperthyroidism⁎ | adrenal insufficiency⁎, hyperthyroidism, thyroiditis⁎ |
+| Common | hyperthyroidism | adrenal insufficiency⁎, hyperthyroidism⁎, thyroiditis⁎ | adrenal insufficiency⁎, hyperthyroidism, thyroiditis⁎ |
 | Uncommon | adrenal insufficiency⁎, hypophysitis⁎, thyroiditis⁎ | hypophysitis⁎ | hypophysitis⁎ |
 | Rare | hypoparathyroidism | hypoparathyroidism | hypoparathyroidism |
 | Metabolism and nutrition disorders |  |  |  |
@@ -66,14 +66,14 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Very common |  | insomnia |  |
 | Common | insomnia |  | insomnia |
 | Nervous system disorders |  |  |  |
-| Very common | headache | neuropathy peripheral, headache | headache, dysgeusia |
-| Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | dizziness, dysgeusia, lethargy | dizziness, neuropathy peripheral, lethargy |
+| Very common | headache | neuropathy peripheral, headache, dizziness | headache, dysgeusia |
+| Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | dysgeusia, lethargy | dizziness, neuropathy peripheral, lethargy |
 | Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, epilepsy | myasthenic syndrome⁎, encephalitis⁎ |
-| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome, Guillain-Barré syndrome⁎, optic neuritis | optic neuritis |
+| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome⁎, Guillain-Barré syndrome⁎, optic neuritis, meningitis (aseptic) | optic neuritis |
 | Eye disorders |  |  |  |
 | Common | dry eye | dry eye | dry eye |
-| Uncommon | uveitis⁎ |  | uveitis⁎ |
-| Rare | Vogt-Koyanagi-Har ada syndrome | uveitis⁎ | Vogt-Koyanagi-Harad a syndrome |
+| Uncommon | uveitis⁎ | uveitis⁎ | uveitis⁎ |
+| Rare | Vogt-Koyanagi-Har ada syndrome |  | Vogt-Koyanagi-Harad a syndrome |
 | Cardiac disorders |  |  |  |
 | Common | cardiac arrhythmia‡ (including atrial fibrillation) | cardiac arrhythmia‡ (including atrial fibrillation) | cardiac arrhythmia‡ (including atrial fibrillation) |
 | Uncommon | myocarditis, pericardial effusion, pericarditis | myocarditis⁎, pericardial effusion, pericarditis | myocarditis, pericardial effusion |
@@ -86,7 +86,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Very common | dyspnoea, cough | dyspnoea, cough | dyspnoea, cough |
 | Common | pneumonitis⁎ | pneumonitis⁎ | pneumonitis⁎ |
 | Gastrointestinal disorders |  |  |  |
-| Very common | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation | diarrhoea, vomiting, nausea, abdominal pain⁎, constipation | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation |
+| Very common | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation | diarrhoea, nausea, vomiting, abdominal pain⁎, constipation | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation |
 | Common | colitis⁎, dry mouth | colitis⁎, gastritis⁎, dry mouth | colitis⁎, pancreatitis⁎, gastritis⁎, dry mouth |
 | Uncommon | pancreatitis⁎, gastritis⁎, gastrointestinal ulceration⁎ | pancreatitis⁎, gastrointestinal ulceration⁎ | gastrointestinal ulceration⁎ |
 | Rare | pancreatic exocrine insufficiency, small intestinal perforation, coeliac disease | pancreatic exocrine insufficiency, small intestinal perforation, coeliac disease | small intestinal perforation |
@@ -96,9 +96,9 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Rare | cholangitis sclerosing | cholangitis sclerosing⁎ |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
 | Very common | pruritus⁎, rash⁎ | alopecia, pruritus⁎, rash⁎ | rash⁎, pruritus⁎ |
-| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, erythema, dermatitis, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
-| Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
-| Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, lichenoid keratosis⁎, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
+| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, dermatitis, erythema, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
+| Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, lichenoid keratosis⁎, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
+| Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Very common | musculoskeletal pain⁎, arthralgia | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
 | Common | myositis⁎, pain in extremity, arthritis⁎ | myositis⁎, pain in extremity, arthritis⁎ | arthritis⁎ |
@@ -109,23 +109,24 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Uncommon | nephritis⁎ | nephritis⁎, cystitis noninfective |  |
 | Rare | cystitis noninfective |  | cystitis noninfective |
 | General disorders and administration site conditions |  |  |  |
-| Very common | fatigue, asthenia, oedema⁎, pyrexia | fatigue, asthenia, pyrexia | fatigue, asthenia, oedema⁎, pyrexia |
-| Common | influenza-like illness, chills | oedema⁎, influenza-like illness, chills | influenza-like illness, chills |
+| Very common | fatigue, asthenia, oedema⁎, pyrexia | fatigue, asthenia, pyrexia, oedema⁎ | fatigue, asthenia, oedema⁎, pyrexia |
+| Common | influenza-like illness, chills | influenza-like illness, chills | influenza-like illness, chills |
 | Investigations |  |  |  |
-| Very common |  | alanine aminotransferase increased, aspartate aminotransferase increased | lipase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
-| Common | alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased, blood creatinine increased | blood bilirubin increased, blood alkaline phosphatase increased, blood creatinine increased, hypercalcaemia | amylase increased, blood bilirubin increased, blood alkaline phosphatase increased, hypercalcaemia |
+| Very common |  | alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased | lipase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
+| Common | alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased, blood creatinine increased | blood bilirubin increased, blood alkaline phosphatase increased, hypercalcaemia | amylase increased, blood bilirubin increased, blood alkaline phosphatase increased, hypercalcaemia |
 | Uncommon | amylase increased | amylase increased |  |
 
 †Adverse reaction frequencies presented in Table 2 may not be fully attributable to pembrolizumab alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
 ‡Based upon a standard query including bradyarrhythmias and tachyarrhythmias.
 ⁎The following terms represent a group of related events that describe a medical condition rather than a single event:
 
+- haemolytic anaemia (autoimmune haemolytic anaemia and Coombs negative haemolytic anaemia)
 - infusion-related reaction (drug hypersensitivity, anaphylactic reaction, anaphylactoid reaction, hypersensitivity, infusion-related hypersensitivity reaction, cytokine release syndrome and serum sickness)
 - sarcoidosis (cutaneous sarcoidosis and pulmonary sarcoidosis)
 - hypothyroidism (myxoedema, immune-mediated hypothyroidism and autoimmune hypothyroidism)
 - adrenal insufficiency (Addison’s disease, adrenocortical insufficiency acute and secondary adrenocortical insufficiency)
 - thyroiditis (autoimmune thyroiditis, silent thyroiditis, thyroid disorder, thyroiditis acute and immune-mediated thyroiditis)
-- hyperthyroidism (Basedow’s disease)
+- hyperthyroidism (Graves' disease)
 - hypophysitis (hypopituitarism and lymphocytic hypophysitis)
 - type 1 diabetes mellitus (diabetic ketoacidosis)
 - myasthenic syndrome (myasthenia gravis, including exacerbation)
@@ -139,13 +140,13 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 - pneumonitis (interstitial lung disease, organising pneumonia, immune-mediated pneumonitis, immune-mediated lung disease and autoimmune lung disease)
 - abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower)
 - colitis (colitis microscopic, enterocolitis, enterocolitis haemorrhagic, autoimmune colitis and immune-mediated enterocolitis)
-- gastritis (gastritis erosive and gastritis haemorrhagic)
+- gastritis (gastritis erosive, gastritis haemorrhagic and immune-mediated gastritis)
 - pancreatitis (autoimmune pancreatitis, pancreatitis acute and immune-mediated pancreatitis)
 - gastrointestinal ulceration (gastric ulcer and duodenal ulcer)
 - hepatitis (autoimmune hepatitis, immune-mediated hepatitis, drug induced liver injury and acute hepatitis)
 - cholangitis sclerosing (immune-mediated cholangitis)
 - pruritus (urticaria, urticaria papular and pruritus genital)
-- rash (rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash)
+- rash (rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash)
 - severe skin reactions (exfoliative rash, pemphigus, and Grade ≥ 3 of the following: cutaneous vasculitis, dermatitis bullous, dermatitis exfoliative, dermatitis exfoliative generalised, erythema multiforme, lichen planus, oral lichen planus, pemphigoid, pruritus, pruritus genital, rash, rash erythematous, rash maculo-papular, rash pruritic, rash pustular, skin necrosis and toxic skin eruption)
 - vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid)
 - lichenoid keratosis (lichen planus and lichen sclerosus)
@@ -270,11 +271,11 @@ Of these patients, 55% had no recurrence of ALT > 3 times ULN, and of those pati
 There were no Grade 5 hepatic events.
 
 Laboratory abnormalities
-In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 9.4% for lymphocytes decreased, 7.4% for sodium decreased, 5.8% for haemoglobin decreased, 5.3% for phosphate decreased, 5.3% for glucose increased, 3.3% for ALT increased, 3.1% for AST increased, 2.6% for alkaline phosphatase increased, 2.3% for potassium decreased, 2.1% for potassium increased, 1.9% for neutrophils decreased, 1.8% for platelets decreased, 1.8% for calcium increased, 1.7% for bilirubin increased, 1.5% for calcium decreased, 1.4% for albumin decreased, 1.3% for creatinine increased, 1.2% for glucose decreased, 0.8% for leucocytes decreased, 0.7% for magnesium increased, 0.5% for sodium increased, 0.4% for haemoglobin increased, and 0.2% for magnesium decreased.
+In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 9.9% for lymphocytes decreased, 7.3% for sodium decreased, 5.7% for haemoglobin decreased, 4.6% for glucose increased, 4.5% for phosphate decreased, 3.1% for ALT increased, 2.9% for AST increased, 2.6% for alkaline phosphatase increased, 2.2% for potassium decreased, 2.1% for neutrophils decreased, 1.7% for bilirubin increased, 1.7% for platelets decreased, 1.7% for potassium increased, 1.6% for calcium increased, 1.4% for albumin decreased, 1.3% for calcium decreased, 1.2% for creatinine increased, 0.8% for leukocytes decreased, 0.8% for magnesium increased, 0.6% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
 
-In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 39.9% for neutrophils decreased, 25.5% for lymphocytes decreased, 23.3% for leucocytes decreased, 20.8% for haemoglobin decreased, 13.7% for platelets decreased, 10.4% for sodium decreased, 7.7% for potassium decreased, 7.3% for phosphate decreased, 5.7% for ALT increased, 5.5% for glucose increased, 5.3% for AST increased, 3.6% for bilirubin increased, 3.5% for calcium decreased, 3.4% for potassium increased, 3.1% for creatinine increased, 2.8% for alkaline phosphatase increased, 2.6% for albumin decreased, 1.7% for calcium increased, 1.0% for glucose decreased, 0.5% for sodium increased and 0.1% for haemoglobin increased.
+In patients treated with pembrolizumab in combination with chemotherapy or CRT, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 37.8% for neutrophils decreased, 31.1% for lymphocytes decreased, 24.7% for leukocytes decreased, 20.7% for haemoglobin decreased, 12.5% for platelets decreased, 9.3% for sodium decreased, 7.9% for potassium decreased, 7.3% for phosphate decreased, 5.5% for glucose increased, 5.2% for ALT increased, 4.7% for AST increased, 3.5% for calcium decreased, 3.2% for bilirubin increased, 3.0% for potassium increased, 3.0% for creatinine increased, 2.4% for alkaline phosphatase increased, 2.3% for albumin decreased, 1.6% for calcium increased, 0.9% for glucose decreased and 0.4% for sodium increased.
 
-In patients treated with pembrolizumab in combination with axitinib or lenvatinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.0% for lipase increased (not measured in patients treated with pembrolizumab and axitinib), 12.0% for lymphocyte decreased, 11.4% for sodium decreased, 11.2% for amylase increased, 11.2% for triglycerides increased, 10.4% for ALT increased, 8.9% for AST increased, 7.8% for glucose increased, 6.8% for phosphate decreased, 6.1% for potassium decreased, 5.1% for potassium increased, 4.5% for cholesterol increased, 4.4% for creatinine increased, 4.2% for haemoglobin decreased, 4.0% for magnesium decreased, 3.5% for neutrophils decreased, 3.1% for alkaline phosphatase increased, 3.0% for platelets decreased, 2.8% for bilirubin increased, 2.2% for calcium decreased, 1.7% for white blood cells decreased, 1.6% for magnesium increased, 1.5% for prothrombin INR increased, 1.4% for glucose decreased, 1.2% for albumin decreased, 1.2% for calcium increased, 0.4% for sodium increased, and 0.1% for haemoglobin increased.
+In patients treated with pembrolizumab in combination with axitinib or lenvatinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.0% for lipase increased (not measured in patients treated with pembrolizumab and axitinib), 12.3% for lymphocyte decreased, 11.4% for sodium decreased, 11.2% for amylase increased, 11.2% for triglycerides increased, 10.4% for ALT increased, 8.9% for AST increased, 7.8% for glucose increased, 6.8% for phosphate decreased, 6.1% for potassium decreased, 5.1% for potassium increased, 4.5% for cholesterol increased, 4.4% for creatinine increased, 4.2% for haemoglobin decreased, 4.0% for neutrophils decreased, 3.1% for alkaline phosphatase increased, 3.0% for platelets decreased, 2.8% for bilirubin increased, 2.2% for calcium decreased, 2.2% for magnesium increased, 1.7% for leukocytes decreased, 1.5% for magnesium decreased, 1.5% for prothrombin INR increased, 1.4% for glucose decreased, 1.2% for albumin decreased, 1.0% for calcium increased, 0.4% for sodium increased, and 0.1% for haemoglobin increased.
 
 Immunogenicity
 In clinical studies in patients treated with pembrolizumab 2 mg/kg bw every three weeks, 200 mg every three weeks, or 10 mg/kg bw every two or three weeks as monotherapy, 36 (1.8%) of 2 034 evaluable patients tested positive for treatment-emergent antibodies to pembrolizumab, of which 9 (0.4%) patients had neutralising antibodies against pembrolizumab.
