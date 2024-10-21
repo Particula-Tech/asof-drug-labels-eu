@@ -14,8 +14,6 @@ If stored in the refrigerator, allow the solution to reach ambient temperature b
 
 Unopened vial
 
-2 years.
-
 During the shelf-life, the product in unpunctured vials may be stored at ambient temperature (≤30 °C) for a single period of up to 24 hours.
 Once the product has been taken out of the refrigerator, it must not be returned to the refrigerator (see section 6.6).
 

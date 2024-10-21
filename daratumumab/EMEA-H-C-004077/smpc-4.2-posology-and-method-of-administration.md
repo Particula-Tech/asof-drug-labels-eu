@@ -214,13 +214,34 @@ For information on the VMP dose and dosing schedule when administered with DARZA
 
 The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 3.
 
+Dosing schedule in combination with bortezomib, lenalidomide and dexamethasone (4-week cycle regimens) for treatment of newly diagnosed patients eligible for autologous stem cell transplant (ASCT)
+
 The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 4.
+
+Table 4: DARZALEX dosing schedule in combination with bortezomib, lenalidomide and dexamethasone ([VRd]; 4-week cycle dosing regimen)
+
+| Treatment phase | Weeks | Schedule |
+| --- | --- | --- |
+| Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
+|  | Weeks 9 to 16a | every two weeks (total of 4 doses) |
+| Stop for high dose chemotherapy and ASCT |  |  |
+| Consolidation | Weeks 17 to 24b | every two weeks (total of 4 doses) |
+| Maintenance | Week 25 onwards until disease progressionc | every four weeks |
+
+b Week 17 corresponds to re-initiation of treatment following recovery from ASCT.
+c DARZALEX can be discontinued for patients who have achieved MRD negativity that is sustained for 12 months and have been treated on maintenance for at least 24 months.
+Dexamethasone should be administered at 40 mg on days 1-4 and days 9-12 of each 28-day cycle during induction and consolidation (cycles 1-6).
+
+The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 5.
+
+Table 5: DARZALEX dosing schedule in combination with bortezomib and dexamethasone (Vd) (3-week cycle dosing regimen)
 
 AL amyloidosis
 Dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle regimens)
 
-The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 5.
-Table 5: DARZALEX dosing schedule for AL amyloidosis in combination with bortezomib, cyclophosphamide and dexamethasone ([VCd];4-week cycle dosing regimen)a
+The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 6.
+
+Table 6: DARZALEX dosing schedule for AL amyloidosis in combination with bortezomib, cyclophosphamide and dexamethasone ([VCd]; 4-week cycle dosing regimen)a
 
 | Weeks | Schedule |
 | --- | --- |

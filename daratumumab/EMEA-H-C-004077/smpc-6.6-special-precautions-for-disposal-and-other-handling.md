@@ -29,6 +29,7 @@ Prepare the solution for infusion using aseptic technique as follows:
 [DARZALEX 1800 mg solution for injection]
 
 DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
+
 DARZALEX solution for subcutaneous injection should be a clear to opalescent and colourless to yellow solution.
 
 DARZALEX solution for subcutaneous injection is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
@@ -44,5 +45,4 @@ Prepared syringe
 
 Prepare the dosing syringe in controlled and validated aseptic conditions.
 Once transferred from the vial into the syringe, store DARZALEX solution for subcutaneous injection for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and ambient light (see section 6.3).
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

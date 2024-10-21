@@ -91,7 +91,6 @@ The incidence of any grade IRRs was 42%, with 36% of patients experiencing IRRs 
 The median time to onset of a reaction was 1.8 hours (range: 0.1 to 5.4 hours).
 The incidence of infusion interruptions due to reactions was 30%.
 Median durations of infusions were 4.2 h for week 1-day 1, 4.2 h for week 1-day 2, and 3.4 hours for the subsequent infusions.
-
 Infections
 In patients receiving DARZALEX combination therapy, grade 3 or 4 infections were reported as follows:
 Relapsed/refractory patient studies: DVd: 21%, Vd: 19%; DRd: 28%, Rd: 23%; DPd: 28%
@@ -124,7 +123,9 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
 
 [DARZALEX 1800 mg solution for injection]
 
@@ -134,93 +135,91 @@ Serious adverse reactions were pneumonia, bronchitis, upper respiratory tract in
 The safety profile of the DARZALEX subcutaneous formulation was similar to that of intravenous formulation with the exception of a lower rate of IRRs.
 In the phase III study MMY3012, neutropenia was the only adverse reaction reported at ≥5% higher frequency for DARZALEX subcutaneous formulation compared to intravenous daratumumab (grade 3 or 4: 13% vs 8%, respectively).
 
-Table 6 summarises the adverse reactions that occurred in patients receiving DARZALEX subcutaneous formulation or intravenous formulation of daratumumab.
+Table 7 summarises the adverse reactions that occurred in patients receiving DARZALEX subcutaneous formulation or intravenous formulation of daratumumab.
 
-The data reflects exposure to DARZALEX subcutaneous formulation (1800 mg) in 639 patients with multiple myeloma (MM).
-The data includes 260 patients from a phase III active-controlled study (MMY3012) who received DARZALEX solution for subcutaneous injection as monotherapy and 149 patients from a phase III active-controlled study (MMY3013) who received DARZALEX subcutaneous formulation in combination with pomalidomide and dexamethasone (D-Pd).
+The data reflects exposure to DARZALEX subcutaneous formulation (1800 mg) in 990 patients with multiple myeloma (MM).
+The data includes 260 patients from a phase III active-controlled study (MMY3012) who received DARZALEX solution for subcutaneous injection as monotherapy,
+149 patients from a phase III active-controlled study (MMY3013) who received DARZALEX subcutaneous formulation in combination with pomalidomide and dexamethasone (D-Pd), and 351 patients from a phase III active-controlled study (MMY3014) who received DARZALEX subcutaneous formulation in combination with bortezomib, lenalidomide and dexamethasone (D-VRd).
 The data also reflects three open-label, clinical studies in which patients received DARZALEX solution for subcutaneous injection either as monotherapy (N=31, MMY1004 and MMY1008) and MMY2040 in which patients received DARZALEX solution for subcutaneous injection in combination with either bortezomib, melphalan and prednisone (D-VMP, n=67), lenalidomide and dexamethasone (D-Rd, n=65) or bortezomib, lenalidomide and dexamethasone (D-VRd, n=67).
 Additionally, data reflect exposure to 193 patients with newly diagnosed AL amyloidosis from a phase III active-controlled study (AMY3001) in which patients received DARZALEX subcutaneous formulation in combination with bortezomib, cyclophosphamide and dexamethasone (D-VCd).
 
 The safety data also reflects exposure to intravenous daratumumab (16 mg/kg) in 2324 patients with multiple myeloma including 1910 patients who received intravenous daratumumab in combination with background regimens and 414 patients who received intravenous daratumumab as monotherapy.
-Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 6: Adverse reactions in multiple myeloma and AL amyloidosis patients treated with intravenous daratumumab or subcutaneous daratumumab
+Table 7: Adverse reactions in multiple myeloma and AL amyloidosis patients treated with intravenous daratumumab or subcutaneous daratumumab
 
 | System organ class | Adverse reaction | Frequency | Incidence (%) |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | Any grade | Grade 3-4 |
-| Infections and infestations | Upper respiratory tract infectiona | Very common | 37 | 2 |
-|  | Pneumoniaa |  | 17 | 10 |
+| Infections and infestations | Upper respiratory tract infectiona | Very common | 39 | 2 |
+|  | COVID-19a, g |  | 21 | 5 |
+|  | Pneumoniaa |  | 18 | 11 |
 |  | Bronchitisa |  | 14 | 1 |
-|  | Urinary tract infection | Common | 6 | 1 |
+|  | Urinary tract infection | Common | 7 | 1 |
 |  | Influenza |  | 4 | 1# |
-|  | Sepsisa |  | 4 | 3 |
-|  | COVID-19g |  | 7 | 4 |
+|  | Sepsisa |  | 4 | 4 |
 |  | Cytomegalovirus infectiona | Uncommon | < 1 | < 1# |
 |  | Hepatitis B Virus reactivationa |  | < 1 | < 1 |
-| Blood and lymphatic system disorders | Neutropeniaa | Very common | 39 | 33 |
-|  | Thrombocytopeniaa |  | 29 | 17 |
-|  | Anaemiaa |  | 27 | 12 |
-|  | Lymphopeniaa |  | 14 | 11 |
+| Blood and lymphatic system disorders | Neutropeniaa | Very common | 43 | 37 |
+|  | Thrombocytopeniaa |  | 31 | 18 |
+|  | Anaemiaa |  | 27 | 11 |
+|  | Lymphopeniaa |  | 13 | 10 |
 |  | Leukopeniaa |  | 11 | 6 |
-| Immune system disorders | Hypogammaglobulinemiaa | Common | 2 | < 1# |
+| Immune system disorders | Hypogammaglobulinemiaa | Common | 3 | < 1# |
 |  | Anaphylactic reactionb | Rare | - | - |
-| Metabolism and nutrition disorders | Decreased appetite | Very common | 10 | 1 |
+| Metabolism and nutrition disorders | Decreased appetite | Very common | 10 | < 1 |
 |  | Hyperglycaemia | Common | 6 | 3 |
-|  | Hypocalcaemia |  | 5 | 1 |
+|  | Hypocalcaemia |  | 6 | 1 |
 |  | Dehydration |  | 2 | 1# |
-| Psychiatric disorders | Insomnia | Very common | 15 | 1# |
-| Nervous system disorders | Peripheral sensory neuropathy | Very common | 26 | 3 |
+| Psychiatric disorders | Insomnia | Very common | 16 | 1# |
+| Nervous system disorders | Peripheral sensory neuropathy | Very common | 29 | 3 |
 |  | Headache |  | 10 | < 1# |
 |  | Dizziness | Common | 9 | < 1# |
 |  | Paraesthesia |  | 9 | < 1 |
 |  | Syncope |  | 3 | 2# |
 | Cardiac disorders | Atrial fibrillation | Common | 3 | 1 |
 | Vascular disorders | Hypertensiona | Common | 9 | 4 |
-| Respiratory, thoracic and mediastinal disorders | Cougha | Very common | 21 | < 1# |
+| Respiratory, thoracic and mediastinal disorders | Cougha | Very common | 22 | < 1# |
 |  | Dyspnoeaa |  | 18 | 2 |
 |  | Pulmonary oedemaa | Common | 1 | < 1 |
-| Gastrointestinal disorders | Diarrhoea | Very common | 29 | 4 |
+| Gastrointestinal disorders | Diarrhoea | Very common | 32 | 4 |
 |  | Constipation |  | 28 | 1 |
 |  | Nausea |  | 22 | 1# |
-|  | Vomiting |  | 14 | 1# |
+|  | Vomiting |  | 13 | 1# |
 |  | Pancreatitisa | Common | 1 | < 1 |
-| Skin and subcutaneous tissue disorders | Rash | Very common | 10 | 1# |
+| Skin and subcutaneous tissue disorders | Rash | Very common | 12 | 1# |
 |  | Pruritus | Common | 6 | < 1# |
-| Musculoskeletal and connective tissue disorders | Back pain | Very common | 16 | 2 |
-|  | Muscle spasms |  | 11 | < 1# |
-|  | Arthralgia |  | 10 | < 1# |
+| Musculoskeletal and connective tissue disorders | Back pain | Very common | 17 | 2 |
+|  | Arthralgia |  | 13 | 1 |
+|  | Muscle spasms |  | 12 | < 1# |
 |  | Musculoskeletal chest pain | Common | 6 | < 1# |
-| General disorders and administration site conditions | Fatigue | Very common | 23 | 4 |
-|  | Oedema peripherala |  | 22 | 1 |
-|  | Pyrexia |  | 21 | 1 |
-|  | Asthenia |  | 18 | 2 |
+| General disorders and administration site conditions | Fatigue | Very common | 23 | 3 |
+|  | Oedema peripherala |  | 23 | 1 |
+|  | Pyrexia |  | 22 | 1 |
+|  | Asthenia |  | 19 | 2 |
 |  | Chills | Common | 8 | < 1# |
-|  | Injection site reactionsd,e |  | 8 | 0 |
+|  | Injection site reactionsd,e |  | 7 | 0 |
 | Injury, poisoning and procedural complications | Infusion-related reactionsc |  |  |  |
 |  | Daratumumab intravenousf | Very common | 39 | 5 |
-|  | Daratumumab subcutaneouse | Common | 9 | 1# |
+|  | Daratumumab subcutaneouse | Common | 8 | 1 |
 
 # No grade 4.
 a Indicates a grouping of terms.
 b Based on post-marketing adverse reactions.
 c Infusion-related reactions includes terms determined by investigators as related to infusion/injection of daratumumab.
 d Injection site reactions includes terms determined by investigators as related to injection of daratumumab.
-e Frequency based on daratumumab subcutaneous studies only (N=832).
+e Frequency based on daratumumab subcutaneous studies only (N=1183).
 f Frequency based on daratumumab intravenous studies only (N=2324).
-Note: Based on 3156 multiple myeloma and AL amyloidosis patients treated with daratumumab intravenous or daratumumab subcutaneous.
-g Incidence is based on a subset of patients who received at least one dose of study treatment on or after 01 February 2020 (the start of the COVID-19 pandemic) from studies MMY3003, MMY3006, MMY3008 and MMY3013.
+g Incidence is based on a subset of patients who received at least one dose of study treatment on or after 01 February 2020 (the start of the COVID-19 pandemic) from studies MMY3003, MMY3006, MMY3008 and MMY3013, and all patients from study MMY3014 (N=752).
+Note: Based on 3507 multiple myeloma and AL amyloidosis patients treated with daratumumab intravenous or daratumumab subcutaneous.
 
-In clinical studies (monotherapy and combination treatments; N=832) with DARZALEX subcutaneous formulation, the incidence of any grade IRRs was 8.2% with the first injection of DARZALEX
-(1800 mg, week 1), 0.4% with the week 2 injection, and 1.1% with subsequent injections.
-Grade 3 IRRs were seen in 0.8% of patients.
-No patients had grade 4 IRRs.
+In clinical studies (monotherapy and combination treatments; N=1183) with DARZALEX subcutaneous formulation, the incidence of any grade IRRs was 8.2% with the first injection of DARZALEX (1800 mg, week 1), 0.4% with the week 2 injection, and 1.1% with subsequent injections.
+Grades 3 and 4 IRRs were seen in 0.8% and 0.1% of patients, respectively.
 
-Signs and symptoms of IRR may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, blurred vision and hypotension.
+Signs and symptoms of IRR may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritus, chills, vomiting, nausea, blurred vision and hypotension.
 Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, tachycardia and ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma) (see section 4.4).
 
 Injection site reactions (ISRs)
-In clinical studies (N=832) with DARZALEX subcutaneous formulation, the incidence of any grade injection site reaction was 7.7%.
+In clinical studies (N=1183) with DARZALEX subcutaneous formulation, the incidence of any grade injection site reaction was 7.0%.
 There were no grade 3 or 4 ISRs.
 The most common (> 1%) ISR at the site of injection was erythema.
 
@@ -233,10 +232,10 @@ In active-controlled studies, discontinuations from treatment due to infections 
 In patients with multiple myeloma receiving intravenous daratumumab combination therapy, the following were reported:
 Grade 3 or 4 infections:
 Grade 5 (fatal) infections:
-
 In patients with multiple myeloma receiving DARZALEX subcutaneous formulation combination therapy, the following were reported:
-Grade 3 or 4 infections: DPd: 28%, Pd: 23%
-Grade 5 (fatal) infections: DPd: 5%, Pd: 3%
+Grade 3 or 4 infections: DPd: 28%, Pd: 23%; D-VRd: 35%, VRd: 27%
+Grade 5 (fatal) infections: DPd: 5%, Pd: 3%; D-VRd: 2%, VRd: 3%
+Key: D=daratumumab; Vd=bortezomib-dexamethasone; Rd=lenalidomide-dexamethasone; Pd=pomalidomide-dexamethasone; VMP=bortezomib-melphalan-prednisone; VTd=bortezomib-thalidomide-dexamethasone; VRd=bortezomib-lenalidomide-dexamethasone.
 
 In patients with AL amyloidosis receiving DARZALEX subcutaneous formulation combination therapy, the following were reported:
 Grade 3 or 4 infections: D-VCd: 17%, VCd:10%
@@ -253,7 +252,9 @@ Exposure-adjusted incidence rates (number of patients with the event per 100 pat
 
 With a median follow-up of 11.4 months, overall deaths (D-VCd 14% vs. VCd 15%) in study AMY3001 were primarily due to AL amyloidosis-related cardiomyopathy in both treatment arms.
 
-Of the 3549 patients who received daratumumab (n=832 subcutaneous; n=2717 intravenous) at the recommended dose, 38% were 65 to less than 75 years of age, and 16% were 75 years of age or older.
+Of the 4041 patients who received daratumumab (n=1225 subcutaneous; n=2816 intravenous) at the recommended dose, 37% were 65 to less than 75 years of age, and 15% were 75 years of age or older.
 Among patients with relapsed and refractory multiple myeloma (n=1976), the most common serious adverse reactions that occurred more frequently in elderly (≥65 years of age) were pneumonia and sepsis.
 Among patients with newly diagnosed multiple myeloma who are ineligible for autologous stem cell transplant (n=777), the most common serious adverse reaction that occurred more frequently in elderly (≥75 years of age) was pneumonia.
-Among patients with newly diagnosed AL amyloidosis (n=193), the most common serious adverse reaction that occurred more frequently in elderly (≥65 years of age) was pneumonia.
+Among patients with newly diagnosed multiple myeloma who are eligible for autologous stem cell transplant (n=351), the most common serious adverse reaction that occurred more frequently in elderly (≥65 years of age) was pneumonia.
+Among patients with newly diagnosed AL amyloidosis (n=193), the most common serious adverse reaction that occurred more frequently in elderly
+(≥65 years of age) was pneumonia.

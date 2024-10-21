@@ -66,6 +66,8 @@ Highest trough concentrations for DARZALEX solution for subcutaneous injection a
 
 In patients with multiple myeloma, the simulated trough concentrations following 6 weekly doses of 1800 mg DARZALEX solution for subcutaneous injection for combination therapy were similar to 1800 mg DARZALEX solution for subcutaneous injection monotherapy.
 
+In patients with newly diagnosed multiple myeloma eligible for ASCT, daratumumab exposure in a combination study with bortezomib, lenalidomide and dexamethasone (MMY3014) was similar to that in monotherapy, with the maximum Ctrough (cycle 3 day 1 pre-dose) mean ± SD of 526±209 µg/mL following the recommended 1800 mg administration of DARZALEX solution for subcutaneous injection weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
+
 In patients with multiple myeloma, daratumumab exposure in a combination study with pomalidomide and dexamethasone (study MMY3013) was similar to that in monotherapy, with the maximum Ctrough (cycle 3 day 1 pre-dose) mean ± SD of 537 ± 277 µg/mL following the recommended 1800 mg administration of DARZALEX solution for subcutaneous injection (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
 
 Absorption and distribution
@@ -76,6 +78,7 @@ At the recommended dose of 1800 mg in AL amyloidosis patients, the absolute bioa
 The model predicted mean estimate of the volume of distribution for the central compartment was 5.25 L (36.9% CV) and peripheral compartment (V2) was 3.78 L in daratumumab monotherapy, and the modeled mean estimate of the volume of distribution for V1 was 4.36 L (28.0% CV) and V2 was 2.80 L when daratumumab was administered in combination with pomalidomide and dexamethasone in multiple myeloma patients.
 In AL amyloidosis patients, the model estimated apparent volume of distribution after subcutaneous administration is 10.8 L (3.1% CV).
 These results suggest that daratumumab is primarily localised to the vascular system with limited extravascular tissue distribution.
+
 Metabolism and elimination
 
 Daratumumab exhibits both concentration and time-dependent pharmacokinetics with parallel linear and nonlinear (saturable) elimination that is characteristic of target-mediated clearance.
@@ -84,9 +87,10 @@ In AL amyloidosis patients, the apparent clearance after subcutaneous administra
 The model-based geometric mean for half-life associated with linear elimination is 20.4 days (22.4% CV) in daratumumab monotherapy and 19.7 days (15.3% CV) when daratumumab was administered in combination with pomalidomide and dexamethasone in multiple myeloma patients and 27.5 days (74.0% CV) in AL amyloidosis patients.
 For the monotherapy and combination regimens, the steady state is achieved at approximately 5 months into every 4 weeks dosage at the recommended dose and schedule (1800 mg; once weekly for 8 weeks, every 2 weeks for 16 weeks, and then every 4 weeks thereafter).
 
-A population PK analysis was conducted using data from DARZALEX solution for subcutaneous injection monotherapy and combination therapy multiple myeloma studies, and the predicted PK exposures are summarised in table 17.
+A population PK analysis was conducted using data from DARZALEX solution for subcutaneous injection monotherapy and combination therapy multiple myeloma studies, and the predicted PK exposures are summarised in table 19.
+Daratumumab exposures were similar between patients treated with DARZALEX solution for subcutaneous injection monotherapy and combination therapies.
 
-Table 17: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1800 mg) or intravenous daratumumab (16 mg/kg) monotherapy in patients with multiple myeloma
+Table 19: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1800 mg) or intravenous daratumumab (16 mg/kg) monotherapy in patients with multiple myeloma
 
 | PK parameters | Cycles | subcutaneous daratumumab Median (5th; 95th percentile) | intravenous daratumumab Median (5th; 95th percentile) |
 | --- | --- | --- | --- |
@@ -97,10 +101,22 @@ Table 17: Daratumumab exposure following administration of DARZALEX subcutaneous
 | AUC0-7 days (µg/mL•day) | Cycle 1, 1st weekly dose | 720 (293; 1274) | 1187 (773; 1619) |
 |  | Cycle 2, last weekly dose | 4017 (1515; 7564) | 4019 (1740; 6370) |
 
+The predicted PK expsosures for 526 patients with transplant eligible multiple myeloma who received DARZALEX solution for subcutaneous injection in combination with VRd are summarised in table 20.
+Table 20: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1800 mg) in combination with VRd in patients with transplant eligible multiple myeloma
+
+| PK parameters | Cycles | subcutaneous daratumumab Median (5th; 95th percentile) |
+| --- | --- | --- |
+| Ctrough (µg/mL) | Cycle 1, 1st weekly dose | 113 (66; 171) |
+|  | Cycle 2, last weekly dose (cycle 3 day 1 Ctrough) | 651 (413; 915) |
+| Cmax (µg/mL) | Cycle 1, 1st weekly dose | 117 (67; 179) |
+|  | Cycle 2, last weekly dose | 678 (431; 958) |
+| AUC0-7 days (µg/mL•day) | Cycle 1, 1st weekly dose | 643 (322; 1027) |
+|  | Cycle 2, last weekly dose | 4637 (2941; 6522) |
+
 A population PK analysis, using data from DARZALEX solution for subcutaneous injection combination therapy in AL amyloidosis patients, was conducted with data from 211 patients.
 At the recommended dose of 1800 mg, predicted daratumumab concentrations were slightly higher, but generally within the same range, in comparison with multiple myeloma patients.
 
-Table 18: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1800 mg) in patients with AL amyloidosis
+Table 21: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1800 mg) in patients with AL amyloidosis
 
 | PK parameters | Cycles | subcutaneous daratumumab Median (5th; 95th percentile) |
 | --- | --- | --- |

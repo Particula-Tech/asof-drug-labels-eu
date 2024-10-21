@@ -77,7 +77,7 @@ A detailed history with regard to HFI symptoms has to be taken of each patient p
 [DARZALEX 1800 mg solution for injection]
 
 DARZALEX solution for subcutaneous injection can cause severe and/or serious IRRs, including anaphylactic reactions.
-In clinical studies, approximately 9% (74/832) of patients experienced an IRR.
+In clinical studies, approximately 8% (95/1183) of patients experienced an IRR.
 Most IRRs occurred following the first injection and were grade 1-2.
 IRRs occurring with subsequent injections were seen in 1% of patients (see section 4.8).
 
@@ -85,7 +85,7 @@ The median time to onset of IRRs following DARZALEX injection was 3.2 hours (ran
 The majority of IRRs occurred on the day of treatment.
 Delayed IRRs have occurred in 1% of patients.
 
-Signs and symptoms of IRRs may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, hypotension and blurred vision.
+Signs and symptoms of IRRs may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritus, chills, vomiting, nausea, hypotension and blurred vision.
 Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension, tachycardia and ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma) (see section 4.8).
 
 Patients should be pre-medicated with antihistamines, antipyretics, and corticosteroids as well as monitored and counselled regarding IRRs, especially during and following the first and second injections.
