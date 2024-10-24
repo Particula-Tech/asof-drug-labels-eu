@@ -30,6 +30,7 @@ Evidence from healthy volunteer studies suggests that Tecfidera-associated flush
 In two healthy volunteer studies, the administration of 325 mg (or equivalent) non-enteric coated acetylsalicylic acid, 30 minutes prior to Tecfidera, dosing over 4 days and over 4 weeks, respectively, did not alter the pharmacokinetic profile of Tecfidera.
 Potential risks associated with acetylsalicylic acid therapy should be considered prior to co-administration with Tecfidera in patients with RRMS.
 Long term (> 4 weeks) continuous use of acetylsalicylic acid has not been studied (see sections 4.4 and 4.8).
+
 Concurrent therapy with nephrotoxic medicinal products (such as aminoglycosides, diuretics, non-steroidal anti-inflammatory drugs or lithium) may increase the potential of renal adverse reactions (e.g. proteinuria see section 4.8) in patients taking Tecfidera (see section 4.4 Blood/laboratory tests).
 
 Consumption of moderate amounts of alcohol did not alter exposure to dimethyl fumarate and was not associated with an increase in adverse reactions.

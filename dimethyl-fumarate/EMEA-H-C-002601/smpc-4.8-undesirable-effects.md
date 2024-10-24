@@ -18,9 +18,9 @@ The adverse reactions are presented as MedDRA preferred terms under the MedDRA S
 The incidence of the adverse reactions below is expressed according to the following categories:
 
 - Very common (≥ 1/10)
-- Common (≥ 1/100 to< 1/10)
-- Uncommon (≥ 1/1,000 to <1/100)
-- Rare (≥ 1/10,000 to <1/1,000)
+- Common (≥ 1/100 to < 1/10)
+- Uncommon (≥ 1/1,000 to < 1/100)
+- Rare (≥ 1/10,000 to < 1/1,000)
 - Very rare (< 1/10,000)
 - Not known (frequency cannot be estimated from the available data)
 
@@ -52,7 +52,7 @@ The incidence of the adverse reactions below is expressed according to the follo
 |  | Gastrointestinal disorder | Common |
 | Hepatobiliary disorders | Aspartate aminotransferase increased | Common |
 |  | Alanine aminotransferase increased | Common |
-|  | Drug-induced liver injury | Not known |
+|  | Drug-induced liver injury | Rare |
 | Skin and subcutaneous tissue disorders | Pruritus | Common |
 |  | Rash | Common |
 |  | Erythema | Common |
@@ -94,6 +94,7 @@ Discontinuations due to elevated hepatic transaminases were
 Elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN, were not observed in placebo-controlled studies.
 
 Increase of liver enzymes and cases of drug-induced liver injury (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN), have been reported in post marketing experience following Tecfidera administration, which resolved upon treatment discontinuation.
+
 Lymphopenia
 
 In the placebo-controlled studies, most patients (> 98%) had normal lymphocyte counts prior to initiating treatment.
@@ -129,7 +130,6 @@ However, PML also occurred in patients with mild lymphopenia.
 Additionally, the majority of PML cases in the post-marketing setting have occurred in patients > 50 years.
 
 Herpes zoster infections
-
 Herpes zoster infections have been reported with Tecfidera.
 In the long-term extension study, in which 1,736 MS patients were treated, approximately 5% experienced one or more events of herpes zoster, of which 42% were mild, 55% were moderate, and 3% were severe.
 The time to onset from first Tecfidera dose ranged from approximately 3 months to 10 years.
@@ -168,7 +168,6 @@ These adverse events were reported in the following percentages in paediatric pa
 - Dysmenorrhea was reported in 17% of patients treated with Tecfidera versus 7% of patients treated with interferon beta-1a.
 
 In a small 24-week open-label uncontrolled study in paediatric patients with RRMS aged 13 to 17 years (120 mg twice a day for 7 days followed by 240 mg twice a day for the remainder of treatment; n=22), followed by a 96-week extension study (240 mg twice per day; n=20), the safety profile appeared similar to that observed in adult patients.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

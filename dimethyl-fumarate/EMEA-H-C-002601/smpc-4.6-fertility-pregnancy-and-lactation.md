@@ -2,9 +2,14 @@
 
 Pregnancy
 
-There are no or limited amount of data from the use of dimethyl fumarate in pregnant women.
+A moderate amount of data on pregnant women are available (between 300-1,000 pregnancy outcomes), based on a pregnancy registry and post-marketing spontaneous reports.
+In the Tecfidera pregnancy registry, 289 prospectively collected pregnancy outcomes were documented in patients with MS who were exposed to dimethyl fumarate.
+The median duration of exposure to dimethyl fumarate was 4.6 gestational weeks with limited exposure after the sixth gestational week (44 pregnancy outcomes).
+Exposure to dimethyl fumarate during such early pregnancy indicates no malformative or foeto/neonatal toxicity compared to the general population.
+The risk of longer dimethyl fumarate exposure or exposure in later stages of pregnancy is not known.
+
 Animal studies have shown reproductive toxicity (see section 5.3).
-Tecfidera is not recommended during pregnancy and in women of childbearing potential not using appropriate contraception (see section 4.5).
+As a precautionary measure, it is preferable to avoid the use of Tecfidera during pregnancy.
 Tecfidera should be used during pregnancy only if clearly needed and if the potential benefit justifies the potential risk to the foetus.
 
 Breast-feeding

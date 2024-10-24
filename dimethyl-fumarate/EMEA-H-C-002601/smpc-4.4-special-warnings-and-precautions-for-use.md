@@ -8,7 +8,7 @@ The clinical implications of these changes are unknown.
 Assessment of renal function (e.g. creatinine, blood urea nitrogen and urinalysis) is recommended prior to treatment initiation, after 3 and 6 months of treatment, every 6 to 12 months thereafter and as clinically indicated.
 
 Hepatic function
-Drug-induced liver injury, including liver enzyme increase (≥ 3 upper limit of normal (ULN)) and elevation of total bilirubin levels (≥ 2 ULN) can result from treatment with dimethyl fumarate.
+Drug-induced liver injury, including liver enzyme increase (≥ 3 times upper limit of normal (ULN)) and elevation of total bilirubin levels (≥ 2 × ULN) can result from treatment with dimethyl fumarate.
 The time to onset can be days, several weeks or longer.
 Resolution of the adverse reactions has been observed after treatment was discontinued.
 Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
@@ -143,3 +143,7 @@ Progression might involve symptoms such as polyuria, polydipsia and proximal mus
 In rare cases, hypophosphataemic osteomalacia with non-localised bone pain, elevated alkaline phosphatase in serum and stress fractures may occur.
 Importantly, Fanconi syndrome can occur without elevated creatinine levels or low glomerular filtration rate.
 In case of unclear symptoms, Fanconi syndrome should be considered and appropriate examinations should be performed.
+
+Excipients
+
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium free’.

@@ -113,7 +113,7 @@ For patients previously treated with placebo, the adjusted ARR decreased from 0.
 
 In study ENDORSE, the majority of patients (> 75%) did not have confirmed disability progression (measured as 6-month sustained disability progression).
 Pooled results from the three studies demonstrated Tecfidera treated patients had consistent and low rates of confirmed disability progression with slight increase in mean EDSS scores across ENDORSE.
-MRI assessments (up to year 6, including 752 patients who had previously been included in the MRI cohort of studies DEFINE and CONFIRM showed that the majority of patients (approximately 90%) had no Gd-enhancing lesions.
+MRI assessments (up to year 6, including 752 patients who had previously been included in the MRI cohort of studies DEFINE and CONFIRM) showed that the majority of patients (approximately 90%) had no Gd-enhancing lesions.
 Over the 6 years, the annual adjusted mean number of new or newly enlarging T2 and new T1 lesions remained low.
 
 Efficacy in patients with high disease activity
