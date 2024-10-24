@@ -7,7 +7,7 @@ The most important adverse reactions include bone marrow depression, most freque
 Tabulated list of adverse reactions
 
 The adverse reactions are listed below according to system organ class and frequency.
-The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) (including isolated cases), not known (cannot be estimated from the available data).
+The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 | System organ class | Frequency | Adverse reactions |
 | --- | --- | --- |
@@ -16,13 +16,14 @@ The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/10
 |  | Very rare | Cases of progressive multifocal leukoencephalopathy (PML) caused by the JC virus have been reported after using azathioprine in combination with other immunosuppressants (see section 4.4) |
 | Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Rare | Neoplasms including lymphoproliferative disorders, skin cancers (malignant melanomas and non-melanomas), sarcomas (Kaposi’s and non-Kaposi’s), uterine cancer, cervix carcinoma, acute myeloid leukaemia and myelodysplastic syndrome (see also section 4.4) |
 |  | Very rare | Hepatosplenic T-cell lymphoma (in IBD patients using other anti- TNF drugs concomitantly) |
-| Blood and lymphatic system disorders | Very common | Leukopenia |
+| Blood and lymphatic system disorders | Very common | Leukopenia, bone marrow depression |
 |  | Common | Thrombocytopenia |
 |  | Uncommon | Anaemia |
-|  | Rare | Agranulocytosis, pancytopenia, aplastic anaemia, anaemia megaloblastic and bone marrow failure |
+|  | Rare | Agranulocytosis, pancytopenia, aplastic anaemia, megaloblastic anaemia and erythroid hypoplasia |
 |  | Very rare | Haemolytic anaemia |
 | Immune system disorders | Uncommon | Hypersensitivity |
 |  | Very rare | Stevens-Johnson syndrome and toxic epidermal necrolysis |
+| Metabolism and nutrition disorders | Not known | Pellagra (see section 4.4) |
 | Respiratory, thoracic and mediastinal disorders | Very rare | Pneumonitis (reversible) |
 | Gastrointestinal disorders | Common | Nausea, vomiting |
 |  | Uncommon | Pancreatitis |
@@ -49,7 +50,6 @@ These occur particularly in patients predisposed to myelosuppression, such as th
 
 Reversible, dose-related macrocytosis and increase in red cell haemoglobin content have occurred in association with azathioprine therapy.
 Megaloblastic bone marrow changes have also been observed but severe megaloblastic anaemia and erythroid hypoplasia are rare.
-
 Immune system disorders
 Several different clinical syndromes, which appear to be idiosyncratic manifestations of hypersensitivity, have been described occasionally following administration of azathioprine.
 Clinical features include general malaise, dizziness, nausea, vomiting, diarrhoea, fever, rigors, exanthema, erythema nodosum, vasculitis, myalgia, arthralgia, hypotension, renal dysfunction, hepatic dysfunction and cholestasis.
@@ -77,6 +77,7 @@ If there is any exacerbation of symptoms in these patients, a possible causal re
 Hepatobiliary disorders
 Dose-dependent cholestasis and deterioration of liver function have occasionally been reported in association with azathioprine therapy and are usually reversible on discontinuation of therapy.
 This may be associated with features of a hypersensitivity reaction.
+
 Rare, but life-threatening hepatic damage associated with chronic administration of azathioprine has been described primarily in transplant patients.
 Histological findings include sinusoidal dilatation, peliosis hepatis, veno-occlusive disease and nodular regenerative hyperplasia.
 In some cases, withdrawal of azathioprine has resulted in either temporary or permanent improvement in liver histology and the symptoms.

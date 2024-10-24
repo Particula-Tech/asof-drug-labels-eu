@@ -64,8 +64,8 @@ Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 18.0 67.0 67.0 6.75 134.0 13.50 201.0 20.00 268.0 26.75 335.0 33.50
 
 *50th percentile for boys extracted from WHO (0-10 years) and UK (11-18 years) growth charts
-†Doses less than or equal to 30 mg to be drawn up using the 3 ml (red) oral syringe with 0.1 ml (1mg) graduations.
-Doses greater than 30 mg to be drawn up using the 12 ml (white) oral syringe with 0.25 ml (2.5mg) graduations (shaded cells).
+†Doses less than or equal to 30 mg to be drawn up using the 3 ml oral syringe with 0.1 ml (1mg) graduations.
+Doses greater than 30 mg to be drawn up using the 10 ml oral syringe with 0.25 ml (2.5mg) graduations (shaded cells).
 
 Special populations
 
@@ -118,7 +118,7 @@ Method of administration
 
 Jayempi is for oral use and requires redispersing by shaking prior to dosing.
 
-To measure the dose in ml in accordance with the prescribed posology, two oral syringes are included in the pack; 3 ml (with red plunger) and 12 ml (with white plunger).
+To measure the dose in ml in accordance with the prescribed posology, two oral syringes are included in the pack; 3 ml and 10 ml.
 The oral syringes are graduated in 0.1 ml (1 mg) and 0.25 ml (2.5 mg) steps respectively.
 
 The healthcare professional should advise the patient or carer which syringe to use to ensure that the correct volume is administered.

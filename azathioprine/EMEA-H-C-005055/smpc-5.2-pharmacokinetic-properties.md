@@ -26,6 +26,7 @@ Approximately 30% of azathioprine is bound to plasma proteins.
 
 Azathioprine and its metabolites pass through the central nervous system.
 6-MP concentration in the cerebrospinal fluid are low or negligible after intravenous or oral use.
+
 Biotransformation
 
 Azathioprine is rapidly metabolised in vivo by glutathione S-transferase into the metabolites 6-MP and 1-methyl-4-nitro-5-thioimidazole.
@@ -37,7 +38,6 @@ Azathioprine is also metabolised by aldehyde oxidase to the probably active 8-hy
 Furthermore, various inactive metabolites are also formed in further metabolic processes.
 
 There are indications that polymorphisms in the genes which encode the various enzyme systems involved in the metabolism of azathioprine may predict adverse reactions in azathioprine therapy.
-
 Thiopurine methyl transferase (TPMT)
 
 TPMT activity is inversely related to red blood cell 6-mercaptopurine-derived thioguanine nucleotide concentration, with higher thioguanine nucleotide concentrations resulting in greater reductions in white blood cell and neutrophil counts.
@@ -67,6 +67,7 @@ Special populations
 Elderly patients
 
 No specific studies have been carried out in the elderly (see section 4.2).
+
 Overweight children
 
 In a clinical trial in the United States, 18 children between the ages of 3 and 14 were evenly split into two groups; the crucial factor was whether the ratio of weight to height was greater or less than the 75th percentile.
@@ -80,7 +81,6 @@ Studies with azathioprine showed no difference in the pharmacokinetics of 6-MP i
 Since little is known about the active metabolites of azathioprine in renal dysfunction, a dose reduction in patients with impaired renal function should be considered (see section 4.2).
 
 Azathioprine and/or its metabolites are removed by haemodialysis, with approximately 45% of the radioactive metabolites being removed during an 8-hour dialysis session.
-
 Hepatic impairment
 
 In case of hepatic impairment, the metabolism of azathioprine is altered.

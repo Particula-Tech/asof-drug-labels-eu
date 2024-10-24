@@ -13,6 +13,7 @@ This also applies to patients with reduced fertility due to chronic uraemia, as 
 
 Case reports indicate that intrauterine devices (IUD) (coil or T-shaped ‘copper coil’) can fail under azathioprine therapy.
 Therefore, other or additional contraceptive methods should be recommended.
+
 It is known that considerable amounts of azathioprine and its metabolites pass through the placenta and amniotic sac, and are thereby transferred from the mother to the foetus.
 
 Blood count changes (leucopenia and/or thrombocytopenia) have been reported in a number of neonates whose mothers received azathioprine during pregnancy.
@@ -24,6 +25,10 @@ Moreover, data is available on spontaneous abortions after both maternal and pat
 
 Chromosomal abnormalities, which disappear with time, have been demonstrated in lymphocytes of the offspring of patients treated with azathioprine.
 Except in extremely rare cases, no overt physical evidence of abnormality has been observed in the offspring of patients treated with azathioprine.
+
+Cholestasis of pregnancy has occasionally been reported in association with azathioprine therapy.
+Early diagnosis and discontinuation of azathioprine may minimise the effects on the foetus.
+However, the maternal benefit and the effects on the foetus should be carefully assessed if cholestasis of pregnancy is confirmed (see section 4.4).
 
 Breast-feeding
 

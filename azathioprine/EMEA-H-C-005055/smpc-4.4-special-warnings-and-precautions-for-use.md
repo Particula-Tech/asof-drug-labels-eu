@@ -21,6 +21,9 @@ It should be controlled more frequently:
 In particular, patients with impaired liver function require special monitoring when using azathioprine, as life-threatening liver damages have been reported (see section 4.8).
 This is particularly important in patients with severe impaired liver function and azathioprine should only be used after a careful benefit/risk analysis.
 
+Cholestasis of pregnancy has occasionally been reported in association with azathioprine therapy (see section 4.6).
+If cholestasis of pregnancy occurs, case by case assessment is necessary considering the risk-benefit profile of the product (potential withdrawal/dose reduction).
+
 Azathioprine is hepatotoxic, thus regular liver function tests should be repeated during the treatment.
 More frequent tests are recommended in patients with liver disease and in those who may be undergoing therapy with a possible hepatotoxic adverse reaction.
 The patients should be advised to discontinue azathioprine immediately if jaundice occurs.
@@ -31,14 +34,14 @@ At the first sign of an abnormal change in the blood count, treatment should be 
 
 Patients receiving azathioprine must be advised to inform their doctor immediately about any evidence of infection, unexpected bruising or bleeding or other signs of myelosuppression.
 Myelosuppression is reversible if azathioprine is discontinued promptly.
-
 Thiopurine methyltransferase (TPMT)
 
 About 10% of patients have decreased activity of the enzyme thiopurine methyltransferase (TPMT) as a result of genetic polymorphism.
 Especially in homozygous individuals, the degradation of azathioprine is impaired, so there is a higher risk of myelotoxic effects.
+
 This effect can be enhanced by co-administration with medicinal products which inhibit the enzyme TPMT, e.g. olsalazine, mesalazine and sulfasalazine (see section 4.5).
 Also a possible link between decreased TPMT activity and secondary leukaemia and myelodysplasia has been reported in individual patients receiving 6-mercaptopurine (the active metabolite of azathioprine) in combination with other cytotoxics (see section 4.8).
-Testing for TMPT deficiency is recommended before treatment, in particular for azathioprine therapy in high doses as well as with rapid deterioration of the blood count.
+Testing for TPMT deficiency is recommended before treatment, in particular for azathioprine therapy in high doses as well as with rapid deterioration of the blood count.
 
 Patients with the NUDT15 variant
 
@@ -73,8 +76,8 @@ It is difficult to assess the role of azathioprine in the development of these a
 
 Chromosomal abnormalities, which disappear with time, have been demonstrated in lymphocytes from the offspring of patients treated with azathioprine.
 Except in extremely rare cases, no overt physical evidence of abnormality has been observed in the offspring of patients treated with azathioprine.
-
 Azathioprine and long-wave ultraviolet (UV) light have been shown to have a synergistic clastogenic effect in patients treated with azathioprine for a range of disorders.
+
 Carcinogenicity
 
 Patients receiving immunosuppressive therapy, including azathioprine, are at increased risk of developing lymphoproliferative disorders and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi’s and non-Kaposi’s) and uterine cervical cancers in situ (see section 4.8).
@@ -109,11 +112,18 @@ Neuromuscular blocking agents
 
 Special caution is required when azathioprine is given concomitantly with neuromuscular blocking agents such as atracurium, rocuronium, cisatracurium or suxamethonium (also known as succinylcholine) (see section 4.5).
 Anaesthesiologists should check whether their patients are administered azathioprine prior to surgery.
-
 Vaccination
 
 Vaccination with live vaccines can cause infections in immunocompromised patients.
 Therefore, it is recommended that patients are not administered with any live vaccine until at least 3 months after the end of treatment with azathioprine (see section 4.5).
+
+Metabolic and nutritional disorders
+
+The administration of purine analogues (azathioprine and mercaptopurine) may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency/pellagra.
+Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease (Crohn's disease, ulcerative colitis).
+The diagnosis of pellagra should be considered in patients with a localised pigmented rash (dermatitis), gastroenteritis (diarrhoea), and extensive neurological deficits including cognitive deterioration (dementia).
+Appropriate medical care with niacin/nicotinamide supplementation must be initiated, and dose reduction or discontinuation of azathioprine must be considered.
+
 Ribavirin
 
 Concomitant use of ribavirin and azathioprine is not recommended.

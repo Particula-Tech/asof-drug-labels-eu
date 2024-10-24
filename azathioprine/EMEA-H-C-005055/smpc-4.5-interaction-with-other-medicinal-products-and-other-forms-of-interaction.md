@@ -9,7 +9,6 @@ A decreased immune response to inactivated or toxoid vaccines is likely.
 This has been observed with hepatitis B vaccine among patients treated with a combination of azathioprine and corticosteroids.
 Therefore, the vaccination success should always be checked with a titre determination.
 A small clinical study has indicated that standard therapeutic doses of azathioprine do not deleteriously affect the immune response to a polyvalent pneumococcal vaccine (as assessed on the basis of mean anti-capsular specific antibody concentration).
-
 Effects of concomitantly administered medicinal products on azathioprine
 
 Ribavirin
@@ -22,7 +21,8 @@ Cytostatic/ myelosuppressive agents
 Where possible, concomitant administration of cytostatic medicinal products, or medicinal products which may have a myelosuppressive effect, such as penicillamine, should be avoided (see section 4.4).
 There are conflicting clinical reports of interactions, resulting in serious haematological abnormalities, between azathioprine and trimethoprim/sulfamethoxazole.
 There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine and ACE Inhibitors.
-It has been suggested that cimetidine and indomethacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
+It has been suggested that cimetidine and indometacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
+
 Allopurinol/ oxipurinol/ thiopurinol and other xanthine oxidase inhibitors
 
 Xanthine oxidase activity is inhibited by allopurinol, oxipurinol and thiopurinol which results in reduced conversion of biologically active 6-thioinosinic acid to biologically inactive 6-thiouric acid.
@@ -40,6 +40,10 @@ Methotrexate
 20 mg/m2 oral methotrexate increased the AUC of 6-mercaptopurine by approximately 31% and 2 or 5 g/m2 intravenous methotrexate increased the AUC of 6-mercaptopurine by 69% and 93% respectively.
 Therefore, when azathioprine is administered concomitantly with high-dose methotrexate, the dose should be adjusted to maintain a suitable white blood cell count.
 
+Infliximab
+
+An interaction has been observed between azathioprine and infliximab.
+Patients receiving ongoing azathioprine experienced transient increases in thioguanine nucleotide levels (an active metabolite of azathioprine) and a decrease in the mean leukocyte count in the initial weeks following infliximab infusion, which returned to previous levels after 3 months.
 Effects of azathioprine on concomitantly administered medicinal products
 
 Anticoagulants

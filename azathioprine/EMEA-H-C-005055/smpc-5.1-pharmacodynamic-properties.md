@@ -10,9 +10,7 @@ TGNs and other metabolites (e.g. 6-methylmercaptopurine ribonucleotides) inhibit
 The TGNs are also incorporated into nucleic acids and this contributes to the immunosuppressive effects of the medicinal product.
 Other potential mechanisms of azathioprine include:
 
-- The inhibition of many pathways in nucleic acid biosynthesis, hence preventing proliferation
-
-and activity of cells involved in the immune response (B and T lymphocytes).
+- The inhibition of many pathways in nucleic acid biosynthesis, hence preventing proliferation and activity of cells involved in the immune response (B and T lymphocytes).
 
 Because of these mechanisms, the therapeutic effect of azathioprine may be evident only after several weeks or months of treatment (see section 4.2).
 
