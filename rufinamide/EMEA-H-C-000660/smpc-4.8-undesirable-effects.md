@@ -52,22 +52,56 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Inovelon 40 mg/ml oral suspension]
 
+System Organ
+Class Very Common Common Uncommon Rare
+Infections and Pneumonia
+infestations Influenza
+Nasopharyngitis
+Ear infection
+Sinusitis
+Rhinitis
+Immune system
+disorders Hypersensitivity*
+Metabolism and Anorexia
+nutrition Eating disorder
+disorders Decreased appetite
+Psychiatric Anxiety
+disorders Insomnia
+Nervous system Somnolence* Status epilepticus*
+disorders Headache Convulsion
+Dizziness* Coordination
+Abnormal*
+Nystagmus
+Psychomotor
+hyperactivity
+Tremor
+Eye Disorders Diplopia
+Vision blurred
+Ear and Vertigo
+Labyrinth
+disorders
+Respiratory, Epistaxis
+thoracic and
+mediastinal
+Gastrointestinal Nausea Abdominal pain
+disorders upper
+Vomiting Constipation
+Dyspepsia
+Diarrhoea
+Hepatobiliary Hepatic enzyme
+disorders increase
+Skin and Rash*
+subcutaneous Acne
+tissue disorders
+Musculoskeletal Back pain
+and connective
+tissue and bone
+Reproductive Oligomenorrhoea
+system and
+breast disorders
+
 | System Organ Class | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Pneumonia Influenza Nasopharyngitis Ear infection Sinusitis Rhinitis |  |  |
-| Immune system disorders |  |  | Hypersensitivity* |  |
-| Metabolism and nutrition disorders |  | Anorexia Eating disorder Decreased appetite |  |  |
-| Psychiatric disorders |  | Anxiety |  |  |
-|  |  | Insomnia |  |  |
-| Nervous system disorders | Somnolence* Headache Dizziness* | Status epilepticus* Convulsion Coordination Abnormal* Nystagmus Psychomotor hyperactivity Tremor |  |  |
-| Eye Disorders |  | Diplopia Vision blurred |  |  |
-| Ear and Labyrinth disorders |  | Vertigo |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Epistaxis |  |  |
-| Gastrointestinal disorders | Nausea Vomiting | Abdominal pain upper Constipation Dyspepsia Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Hepatic enzyme increase |  |
-| Skin and subcutaneous tissue disorders |  | Rash* Acne |  |  |
-| Musculoskeletal and connective tissue and bone disorders |  | Back pain |  |  |
-| Reproductive system and breast disorders |  | Oligomenorrhoea |  |  |
 | General disorders and administration site conditions | Fatigue | Gait disturbance* |  |  |
 | Investigations |  | Weight decrease |  |  |
 | Injury, poisoning and procedural complications |  | Head injury Contusion |  |  |

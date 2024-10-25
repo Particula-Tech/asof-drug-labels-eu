@@ -40,6 +40,10 @@ Lactose
 
 Inovelon contains lactose, therefore patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
+Sodium content
+
+This medicine contains less than 1 mmol sodium (23 mg) per daily dose, i.e. is essentially ‘sodium-free’.
+
 Suicidal ideation
 
 Suicidal ideation and behaviour have been reported in patients treated with antiepileptic agents in several indications.
@@ -55,6 +59,13 @@ Parahydroxybenzoates
 
 Inovelon oral suspension contains parahydroxybenzoates which may cause allergic reactions (possibly delayed).
 
-Sorbitol
+Sorbitol (E420)
+Each mL of Inovelon oral suspension contains 175 mg sorbitol (E420).
+Patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
+Caution should be exercised when combining Inovelon oral suspension with other antiepileptic medications containing sorbitol, since a combined intake of over 1 gram of sorbitol may affect absorption of some drugs.
 
-Inovelon oral suspension also contains sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.
+Benzoic Acid (E210)
+
+Each mL of Inovelon oral suspension contains less than 0.01 mg benzoic acid (E210).
+Benzoic acid can displace bilirubin from albumin, leading to increase in bilirubinaemia.
+This may increase neonatal jaundice which may develop into kernicterus (non-conjugated bilirubin deposits in the brain tissue).

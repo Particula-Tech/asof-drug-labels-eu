@@ -7,5 +7,6 @@ Not all pack sizes may be marketed.
 [Inovelon 40 mg/ml oral suspension]
 
 Oriented-polyethylene terephthalate (o-PET) bottle with a child-resistant polypropylene (PP) closure; each bottle contains 460 ml of suspension in an outer cardboard carton.
+
 Each carton contains one bottle, two identical calibrated oral dosing syringes and a press-in-bottle adapter (PIBA).
 The oral dosing syringes are graduated in 0.5 ml increments.

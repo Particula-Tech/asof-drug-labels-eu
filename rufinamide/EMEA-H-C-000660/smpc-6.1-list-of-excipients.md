@@ -3,17 +3,17 @@
 Core
 
 Lactose monohydrate
-Cellulose, microcrystalline
+Cellulose, microcrystalline (E460)
 Maize starch
-Croscarmellose sodium
-Hypromellose
-Magnesium stearate
+Croscarmellose sodium (E468)
+Hypromellose (E464)
+Magnesium stearate (E470b)
 Sodium laurilsulfate
 Silica colloidal, anhydrous
 
 Film coating
 
-Hypromellose
+Hypromellose (E464)
 Macrogols (8000)
 Titanium dioxide (E171)
 Talc
@@ -23,14 +23,16 @@ Ferric oxide red (E172)
 
 Microcrystalline cellulose (E460)
 Carmellose sodium (E466)
-Hydroxyethylcellulose
+
 Citric acid, anhydrous (E330)
-Simeticone emulsion, 30% containing benzoic acid, cyclotetrasiloxane, dimethicone, glycol stearate and glyceryl distearate, methylcellulose, PEG-40 stearate (polyethylene glycol stearate), polysorbate 65, silica gel, sorbic acid, sulphuric acid and water.
+Simethicone emulsion, 30% containing purified water, silicone oil, polysorbate 65 (E436), methylcellulose (E461), silica gel, polyethylene glycol stearate, sorbic acid (E200), benzoic acid (E210) and sulfuric acid (E513).
 Poloxamer 188
-Methyl parahydroxybenzoate (E218)
-Propyl parahydroxybenzoate (E216)
-Propylene glycol (E1520).
-Potassium sorbate (E202)
-Sorbitol (E420), liquid (non-crystallising)
 Orange flavour
-Water
+Hydroxyethylcellulose
+Methyl parahydroxybenzoate (E218)
+Potassium sorbate (E202)
+Propyl parahydroxybenzoate
+Propylene glycol (E1520).
+
+Sorbitol (E420), liquid (non-crystallising)
+Purified water

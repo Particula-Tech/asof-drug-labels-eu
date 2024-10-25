@@ -21,6 +21,6 @@ Each ml of oral suspension contains 40 mg rufinamide.
 1 bottle of 460 ml contains 18400 mg rufinamide.
 
 Each ml of oral suspension contains:
+175 mg sorbitol (E420)
 1.2 mg methyl parahydroxybenzoate (E218),
-0.3 mg propyl parahydroxybenzoate (E216),
-250 mg sorbitol (E420)
+0.3 mg propyl parahydroxybenzoate), less than 0.01 mg benzoic acid (E210)

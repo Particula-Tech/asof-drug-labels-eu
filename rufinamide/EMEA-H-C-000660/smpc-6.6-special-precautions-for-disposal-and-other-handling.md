@@ -14,5 +14,4 @@ The cap fits properly when the PIBA is in place.
 
 Nasogastric tube (NG): Polyvinyl chloride (PVC) tube of not greater than 40 cm in length and diameter of tube 5 Fr.
 To ensure adequate dosing, after administration of the oral suspension, the enteral feeding tube must be flushed at least once with 1 ml of water.
-
 Any unused medicinal product to waste material should be disposed of in accordance with local requirements (see section 5.3).
