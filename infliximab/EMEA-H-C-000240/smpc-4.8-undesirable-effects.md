@@ -88,10 +88,11 @@ Common: Chest pain, fatigue, fever, injection site reaction, chills, oedema.
 Uncommon: Impaired healing.
 Rare: Granulomatous lesion.
 Investigations
-Uncommon: Autoantibody positive.
+Uncommon: Autoantibody positive, weight increased1.
 Rare: Complement factor abnormal.
 * including bovine tuberculosis (disseminated BCG infection), see section 4.4
-
+1 At month 12 of the controlled period for adult clinical trials across all indications, the median weight increase was 3.50 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects.
+The median weight increase for inflammatory bowel disease indications was 4.14 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects, and the median weight increase for rheumatology indications was 3.40 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects.
 Description of selected adverse drug reactions
 
 Infusion-related reactions
@@ -127,17 +128,17 @@ Delayed hypersensitivity
 In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and headache.
-
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval (see section 4.4).
 
-In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
+In a 1-year clinical study with repeated infusions in patients with Crohn’s disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
+
 Immunogenicity
 Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
 In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 14% of patients with any immunosuppressant therapy, and in 24% of patients without immunosuppressant therapy.
 In rheumatoid arthritis patients who received the recommended repeated treatment dose regimens with methotrexate, 8% of patients developed antibodies to infliximab.
 In psoriatic arthritis patients who received 5 mg/kg with and without methotrexate, antibodies occurred overall in 15% of patients (antibodies occurred in 4% of patients receiving methotrexate and in 26% of patients not receiving methotrexate at baseline).
-In Crohn's disease patients who received maintenance treatment, antibodies to infliximab occurred overall in 3.3% of patients receiving immunosuppressants and in 13.3% of patients not receiving immunosuppressants.
+In Crohn’s disease patients who received maintenance treatment, antibodies to infliximab occurred overall in 3.3% of patients receiving immunosuppressants and in 13.3% of patients not receiving immunosuppressants.
 The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
@@ -162,7 +163,6 @@ In clinical studies with infliximab in which 5,780 patients were treated, repres
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6,234 patients-years (3,210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
 Cases of malignancies, including lymphoma, have also been reported in the post-marketing setting (see section 4.4).
-
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 adult patients were treated with Remicade at doses similar to those used in rheumatoid arthritis and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65%-10.6%].
@@ -194,17 +194,15 @@ Proportion of patients with increased ALT activity in clinical studies
 
 | Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | placebo | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
-| Rheumatoi d arthritis1 | 375 | 1,087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
+|  | placeb o | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
+| Rheumatoid arthritis1 | 375 | 1,087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
 | Crohn’s disease2 | 324 | 1034 | 53.7 | 54.0 | 2.2% | 4.9% | 0.0% | 1.5% |
 | Paediatric Crohn’s disease | N/A | 139 | N/A | 53.0 | N/A | 4.4% | N/A | 1.5% |
 | Ulcerative colitis | 242 | 482 | 30.1 | 30.8 | 1.2% | 2.5% | 0.4% | 0.6% |
 | Paediatric Ulcerative colitis | N/A | 60 | N/A | 49.4 | N/A | 6.7% | N/A | 1.7% |
 | Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
 | Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
-
-Plaque 281 1,175 16.1 50.1 0.4% 7.7% 0.0% 3.4%
-psoriasis
+| Plaque psoriasis | 281 | 1,175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
 
 1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
 2 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
@@ -240,13 +238,13 @@ Paediatric Crohn’s disease patients
 The following adverse reactions were reported more commonly in paediatric Crohn’s disease patients in the REACH study (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leucopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
 In addition, bone fracture (6.8%) was reported, however, a causal association has not been established.
 Other special considerations are discussed below.
-
 Infusion-related reactions
 In REACH, 17.5% of randomised patients experienced 1 or more infusion reactions.
 There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.
 
 Immunogenicity
 Antibodies to infliximab were detected in 3 (2.9%) paediatric patients.
+
 Infections
 In the REACH study, infections were reported in 56.3% of randomised subjects treated with infliximab.
 Infections were reported more frequently for subjects who received q8 week as opposed to q12 week infusions (73.6% and 38.0%, respectively), while serious infections were reported for 3 subjects in the q8 week and 4 subjects in the q12 week maintenance treatment group.
@@ -280,11 +278,11 @@ Overall proportions of adverse events and infusion reactions were similar betwee
 
 Post-marketing experience
 Post-marketing spontaneous serious adverse reactions with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive auto-antibodies (see sections 4.4 and 4.8).
-
 Additional information on special populations
 Elderly
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
 In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65 (see section 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
