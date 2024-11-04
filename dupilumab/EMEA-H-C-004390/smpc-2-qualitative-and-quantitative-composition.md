@@ -10,6 +10,11 @@ Each single-use pre-filled pen contains 300 mg of dupilumab in 2 mL solution (15
 
 Dupilumab is a fully human monoclonal antibody produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.
 
+Excipients with known effect
+
+This medicine contains 4 mg of polysorbate 80 in each 300 mg dose (2mL).
+Polysorbates may cause allergic reactions.
+
 For the full list of excipients, see section 6.1.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
@@ -21,3 +26,5 @@ Each single-use pre-filled syringe contains 200 mg of dupilumab in 1.14 mL solut
 Dupilumab 200 mg solution for injection in pre-filled pen
 
 Each single-use pre-filled pen contains 200 mg of dupilumab in 1.14 mL solution (175 mg/mL).
+
+This medicine contains 2.28 mg of polysorbate 80 in each 200 mg dose (1.14mL).

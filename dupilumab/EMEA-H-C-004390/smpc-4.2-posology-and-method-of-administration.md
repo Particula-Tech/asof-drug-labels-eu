@@ -21,14 +21,11 @@ Table 1: Dose of dupilumab for subcutaneous administration in adolescent patient
 
 Children 6 to 11 years of age
 The recommended dose of dupilumab for children 6 to 11 years of age is specified in Table 2.
-
 Table 2: Dose of dupilumab for subcutaneous administration in children 6 to 11 years of age with atopic dermatitis
 
-Body weight of Initial dose Subsequent doses
-patient
-
-| 15 kg to less than 60 kg | 300 mg (one 300 mg injection) on Day 1, followed by 300 mg on Day 15 | 300 mg every 4 weeks (Q4W)*, starting 4 weeks after Day 15 dose |
+| Body weight of patient | Initial dose | Subsequent doses |
 | --- | --- | --- |
+| 15 kg to less than 60 kg | 300 mg (one 300 mg injection) on Day 1, followed by 300 mg on Day 15 | 300 mg every 4 weeks (Q4W)*, starting 4 weeks after Day 15 dose |
 | 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every other week (Q2W) |
 
 *the dose may be increased to 200 mg Q2W in patients with body weight of 15 kg to less than 60 kg based on physician’s assessment.
@@ -73,6 +70,7 @@ For paediatric patients (6 to 11 years old) with asthma and co-morbid severe ato
 
 Patients receiving concomitant oral corticosteroids may reduce their steroid dose once clinical improvement with dupilumab has occurred (see section 5.1).
 Steroid reductions should be accomplished gradually (see section 4.4).
+
 Dupilumab is intended for long-term treatment.
 The need for continued therapy should be considered at least on an annual basis as determined by physician assessment of the patient’s level of asthma control.
 
@@ -94,13 +92,16 @@ Consideration should be given to discontinuing treatment in patients who have sh
 
 Eosinophilic esophagitis (EoE)
 
-The recommended dose of dupilumab for patients 12 years of age and older is 300 mg given every week (QW).
+The recommended dose of dupilumab for adults, adolescents and children 1 year of age and older, weighing at least 15 kg, is specified in Table 5.
 
-Dupilumab 300 mg QW has not been studied in patients with EoE weighing less than 40 kg.
+Table 5: Dose of dupilumab for subcutaneous administration in adults, adolescents and children 1 year of age and older with EoE
+
+Body Weight Dose
+15 to less than 30 kg 200 mg every other week (Q2W)
+30 to less than 40 kg 300 mg every other week (Q2W)
+40 kg or more 300 mg every week (QW)
 
 Dupilumab is intended for long-term treatment.
-Dupilumab 300 mg QW has been studied up to 52 weeks.
-Dosing beyond 52 weeks has not been studied.
 
 Chronic obstructive pulmonary disease (COPD)
 
@@ -113,12 +114,12 @@ Consideration should be given to discontinuing treatment in patients who have sh
 Missed dose
 
 If a weekly dose is missed, administer the dose as soon as possible, starting a new schedule based on this date.
-
 If an every other week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, wait until the next dose on the original schedule.
 
 If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
+
 Special populations
 
 Elderly
@@ -148,7 +149,7 @@ No data are available.
 The safety and efficacy of dupilumab in children with PN below the age of 18 years have not been established.
 No data are available.
 
-The safety and efficacy of dupilumab in children with EoE below the age of 12 years have not been established.
+The safety and efficacy of dupilumab in children with EoE below the age of 1 year, or with a body weight < 15 kg have not been established.
 
 The safety and efficacy of dupilumab in children with COPD below the age of 18 years have not been established.
 No data are available.
@@ -165,22 +166,17 @@ Dupilumab is administered by subcutaneous injection into the thigh or abdomen, e
 If somebody else administers the injection, the upper arm can also be used.
 
 Each pre-filled syringe or pre-filled pen is for single use only.
-
 For indications that require an initial dose of 600 mg (see Posology in section 4.2), two 300 mg injections should be administered consecutively in different injection sites.
 
 It is recommended to rotate the injection site with each injection.
 Dupilumab should not be injected into skin that is tender, damaged or has bruises or scars.
+
 A patient may self-inject dupilumab or the patient's caregiver may administer dupilumab if their healthcare professional determines that this is appropriate.
 Proper training should be provided to patients and/or caregivers on the preparation and administration of dupilumab prior to use according to the Instructions for Use (IFU) section at the end of the package leaflet.
 In children 12 years of age and older, it is recommended that dupilumab is administered by or under supervision of an adult.
 In children 6 months to less than 12 years of age, dupilumab should be given by a caregiver.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
-
-| Body weight of patient | Initial dose | Subsequent doses |
-| --- | --- | --- |
-| 15 kg to less than 60 kg | 300 mg (one 300 mg injection) on Day 1, followed by 300 mg on Day 15 | 300 mg every 4 weeks (Q4W)*, starting 4 weeks after Day 15 dose |
-| 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every other week (Q2W) |
 
 - An initial dose of 400 mg (two 200 mg injections), followed by 200 mg given every other week administered as subcutaneous injection.
 

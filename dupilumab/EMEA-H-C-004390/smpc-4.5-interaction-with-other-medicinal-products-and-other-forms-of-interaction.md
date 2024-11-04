@@ -10,5 +10,6 @@ For information on live vaccines see section 4.4.
 
 In a clinical study of atopic dermatitis patients, the effects of dupilumab on the pharmacokinetics (PK) of CYP substrates were evaluated.
 The data gathered from this study did not indicate clinically relevant effects of dupilumab on CYP1A2, CYP3A, CYP2C19, CYP2D6, or CYP2C9 activity.
+
 An effect of dupilumab on the PK of co-administered medicinal products is not expected.
 Based on the population analysis, commonly co-administered medicinal products had no effect on dupilumab pharmacokinetics on patients with moderate to severe asthma.

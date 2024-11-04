@@ -19,7 +19,6 @@ Biotransformation
 
 Specific metabolism studies were not conducted because dupilumab is a protein.
 Dupilumab is expected to degrade to small peptides and individual amino acids.
-
 Elimination
 
 Dupilumab elimination is mediated by parallel linear and nonlinear pathways.
@@ -27,6 +26,7 @@ At higher concentrations, dupilumab elimination is primarily through a non-satur
 After the last steady state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4W, or 200 mg Q4W dupilumab, the median times to decrease below the lower limit of detection, estimated by population PK analysis, ranged from 9-13 weeks in adults and adolescents and are approximately 1.5 times and 2.5 times longer in paediatric patients 6 to 11 years of age and paediatric patients less than 6 years of age, respectively .
 
 Linearity/non-linearity
+
 Due to nonlinear clearance, dupilumab exposure, as measured by area under the concentration-time curve, increases with dose in a greater than proportional manner following single SC doses from 75-600 mg.
 
 Special populations
@@ -67,6 +67,7 @@ Dupilumab, as a monoclonal antibody, is not expected to undergo significant rena
 No clinical studies have been conducted to evaluate the effect of renal impairment on the pharmacokinetics of dupilumab.
 Population PK analysis did not identify mild or moderate renal impairment as having a clinically meaningful influence on the systemic exposure of dupilumab.
 Very limited data are available in patients with severe renal impairment.
+
 Body weight
 Dupilumab trough concentrations were lower in subjects with higher body weight with no meaningful impact on efficacy.
 There were only 6 patients exposed to dupilumab with body weight ≥130 kg in CRSwNP clinical studies.
@@ -96,9 +97,9 @@ No age-related pharmacokinetic difference was observed in adolescent patients af
 
 In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
 The volume of distribution for dupilumab of approximately 3.7 L was estimated by population PK analysis.
-Steady-state
+Steady-state concentrations were achieved by week 12.
+The mean ± SD steady-state trough concentration was
 
-concentrations were achieved by week 12. The mean ± SD steady-state trough concentration was
 58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively. Simulation of a 300 mg Q4W subcutaneous
 dose in children aged 6 to 11 years with body weight of ≥ 15 kg to < 30 kg and ≥ 30 kg to < 60 kg
 resulted in predicted steady-state trough concentrations similar to the observed trough concentrations
@@ -120,13 +121,18 @@ Eosinophilic esophagitis
 A total of 35 adolescents aged 12 to 17 years with eosinophilic esophagitis weighing ≥40 kg were enrolled in TREET Parts A and B, receiving 300 mg every week dosing (QW).
 The mean ± SD steady-state trough concentration of dupilumab was 227 ± 95.3 mcg/mL.
 
+In a clinical study (EoE KIDS Part A), dupilumab pharmacokinetics were investigated in 36 children 1 to 11 years of age with EoE receiving dupilumab [≥5 to <15 kg (100 mg Q2W), ≥15 to <30 kg (200 mg Q2W), and ≥30 to <60 kg (300 mg Q2W)], the mean ± SD steady-state trough concentration of dupilumab was 163±60.8 mcg/mL.
+
+Simulations for paediatric patients 1 to 11 years of age were conducted with a population pharmacokinetic model to predict trough concentrations of dupilumab at steady-state as follows: ≥15 to <30 kg receiving 200 mg Q2W (170±78 mcg/mL); ≥30 to <40 kg receiving 300 mg Q2W (158±63 mcg/mL); or ≥40 kg receiving 300 mg QW (276±99 mcg/mL).
+Steady-state trough concentrations were also simulated for adult and paediatric patients 12 to 17 years of age and patients from ≥30 to <40 kg receiving 300 mg Q2W (159±61 mcg/mL).
+
 COPD
 COPD does not normally occur in children.
 The pharmacokinetics of dupilumab have not been studied in paediatric patients (<18 years of age) with COPD.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
-The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis and asthma.
+The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis, asthma, and EoE.
 
 The absolute bioavailability of dupilumab following a SC dose is similar between AD and asthma patients, ranging between 61 % and 64 %, as determined by a population pharmacokinetics (PK) analysis.
 
@@ -136,3 +142,7 @@ Across clinical trials, the mean ±SD steady-state trough concentrations ranged 
 After the last steady state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4W, or 200 mg Q4W dupilumab, the median times to decrease below the lower limit of detection, estimated by population PK analysis, ranged from 9-13 weeks in adults and adolescents and are approximately 1.5 times and 2.5 times longer in paediatric patients 6 to 11 years of age and paediatric subjects less than 6 years of age, respectively.
 
 For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+
+Steady-state
+
+concentrations were achieved by week 12. The mean ± SD steady-state trough concentration was

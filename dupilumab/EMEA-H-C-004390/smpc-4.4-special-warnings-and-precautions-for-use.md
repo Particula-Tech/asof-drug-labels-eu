@@ -33,8 +33,9 @@ Patients being treated for asthma may present with serious systemic eosinophilia
 These events usually, but not always, may be associated with the reduction of oral corticosteroid therapy.
 
 Helminth infection
+
 Patients with known helminth infections were excluded from participation in clinical studies.
-Dupilumab may influence the immune response against helminth infections by inhibiting IL-4/IL-13 signaling.
+Dupilumab may influence the immune response against helminth infections by inhibiting IL-4/IL-13 signalling.
 Patients with pre-existing helminth infections should be treated before initiating dupilumab.
 If patients become infected while receiving treatment with dupilumab and do not respond to anti-helminth treatment, treatment with dupilumab should be discontinued until infection resolves.
 Cases of enterobiasis were reported in children 6 to 11 years old who participated in the paediatric asthma development program (see section 4.8).
@@ -63,11 +64,15 @@ Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose, that is to say essentially ‘sodium-free’.
 
-[Dupixent 200 mg solution for injection in pre-filled syringe]
+Polysorbate 80 (E433)
 
-Acute asthma exacerbations
-Dupilumab should not be used to treat acute asthma symptoms or acute exacerbations.
+This medicine contains 4 mg of polysorbate 80 in each 300 mg dose (2mL).
+Polysorbates may cause allergic reactions.
+
+[Dupixent 200 mg solution for injection in pre-filled syringe]
 
 Patients on dupilumab who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 200 mg dose, that is to say essentially ‘sodium-free’.
+
+This medicine contains 2.28 mg of polysorbate 80 in each 200 mg dose (1.14 mL).
