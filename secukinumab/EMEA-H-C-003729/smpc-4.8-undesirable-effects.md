@@ -27,13 +27,15 @@ Table 3 List of adverse reactions in clinical studies1) and post-marketing exper
 |  | Not known | Mucosal and cutaneous candidiasis (including oesophageal candidiasis) |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
 | Immune system disorders | Rare | Anaphylactic reactions |
+|  |  | Angioedema |
 | Nervous system disorders | Common | Headache |
 | Eye disorders | Uncommon | Conjunctivitis |
 | Respiratory, thoracic and mediastinal disorders | Common | Rhinorrhoea |
 | Gastrointestinal disorders | Common | Diarrhoea |
-|  | Common | Nausea |
+|  |  | Nausea |
 |  | Uncommon | Inflammatory bowel disease |
-| Skin and subcutaneous tissue disorders | Uncommon | Urticaria |
+| Skin and subcutaneous tissue disorders | Common | Eczema |
+|  | Uncommon | Urticaria |
 |  |  | Dyshidrotic eczema |
 |  | Rare | Exfoliative dermatitis2) |
 |  |  | Hypersensitivity vasculitis |
@@ -66,9 +68,6 @@ Non-serious infections with usual response to standard care and not requiring di
 The frequency of neutropenia in psoriatic arthritis, axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and hidradenitis suppurativa was similar to psoriasis.
 
 Rare cases of neutropenia <0.5x109/l (CTCAE grade 4) were reported.
-
-Hypersensitivity reactions
-In clinical studies, urticaria and rare cases of anaphylactic reaction to secukinumab were observed (see also section 4.4).
 
 Immunogenicity
 In psoriasis, psoriatic arthritis, axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and hidradenitis suppurativa clinical studies, less than 1% of patients treated with secukinumab developed antibodies to secukinumab up to 52 weeks of treatment.

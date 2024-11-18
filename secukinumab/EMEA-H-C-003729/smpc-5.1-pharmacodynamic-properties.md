@@ -222,8 +222,8 @@ These improvements were maintained for 52 weeks (studies 1 and 2).
 
 Forty percent of the participants in studies 1 and 2 completed the Psoriasis Symptom Diary©.
 For the participants completing the diary in each of these studies, statistically significant improvements at week 12 from baseline compared to placebo in patient-reported signs and symptoms of itching, pain and scaling were demonstrated.
-
 Statistically significant improvements at week 4 from baseline in patients treated with secukinumab compared to patients treated with ustekinumab (CLEAR) were demonstrated in the DLQI and these improvements were maintained for up to 52 weeks.
+
 Statistically significant improvements in patient-reported signs and symptoms of itching, pain and scaling at week 16 and week 52 (CLEAR) were demonstrated in the Psoriasis Symptom Diary© in patients treated with secukinumab compared to patients treated with ustekinumab.
 
 Statistically significant improvements (decreases) at week 12 from baseline in the scalp psoriasis study were demonstrated in patient reported signs and symptoms of scalp itching, pain and scaling compared to placebo.
@@ -341,6 +341,7 @@ Table 10 Summary of clinical response in moderate to severe paediatric psoriasis
 | * non-responder imputation was used to handle missing values |  |  |  |  |
 
 These outcomes in the paediatric moderate to severe plaque psoriasis population confirmed the predictive assumptions based on the efficacy and exposure response relationship in adult patients, mentioned above.
+
 In the low dose group, 50% and 70.7% of patients achieved a CDLQI 0 or 1 score at weeks 12 and 52, respectively.
 In the high dose group, 61.9% and 70.3% achieved a CDLQI 0 or 1 score at weeks 12 and 52, respectively.
 
@@ -711,12 +712,12 @@ Patient distribution by weight and age at randomisation is described in Table 14
 Table 14 Patient distribution by weight and age for paediatric psoriasis study 1
 
 The response was maintained throughout the 52 week time period (see Table 15).
-
 In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 15).
 
 Table 15 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
 
 Patient distribution by weight and age at randomisation is described in Table 16.
+
 Table 16 Patient distribution by weight and age for paediatric psoriasis study 2
 
 Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 17).
