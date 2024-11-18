@@ -16,6 +16,7 @@ Caution should be exercised when administering omalizumab in these patient popul
 
 Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of omalizumab therapy in allergic asthma or CRSwNP is not recommended.
 Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
+
 Immune system disorders
 
 Allergic reactions type I
@@ -30,7 +31,6 @@ Patients should be informed that such reactions are possible, and prompt medical
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8).
 The clinical relevance of anti-omalizumab antibodies is not well understood.
-
 Serum sickness
 Serum sickness and serum sickness-like reactions, which are delayed allergic type III reactions, have been seen in patients treated with humanised monoclonal antibodies including omalizumab.
 The suggested pathophysiologic mechanism includes immune-complex formation and deposition due to development of antibodies against omalizumab.
@@ -55,6 +55,7 @@ In patients at chronic high risk of helminth infection, a placebo-controlled tri
 The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1 000 patients.
 However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic.
 If patients do not respond to recommended anti-helminth treatment, discontinuation of omalizumab should be considered.
+
 Latex-sensitive individuals (pre-filled syringe)
 
 The removable needle cap of the pre-filled syringe contains a derivative of natural rubber latex.

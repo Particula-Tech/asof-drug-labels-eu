@@ -17,7 +17,6 @@ See Table 1 for a conversion chart and Tables 2 and 3 for the dose determination
 Patients whose baseline IgE levels or body weight in kilograms are outside the limits of the dose table should not be given omalizumab.
 
 The maximum recommended dose is 600 mg omalizumab every two weeks.
-
 Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of injections** and total injection volume for each administration
 
 | Dose (mg) | Number of syringes/pens* |  |  | Number of injections | Total injection volume (ml) |
@@ -34,6 +33,7 @@ Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of i
 
 *Xolair 300 mg pre-filled syringe and all dose strengths of Xolair pre-filled pen are not intended for use in patients <12 years of age.
 **This table represents the least number of injections for the patients, however there are other syringe/pen dosing combinations possible to achieve the desired dose.
+
 Table 2 ADMINISTRATION EVERY 4 WEEKS.
 Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
@@ -102,6 +102,7 @@ No data are available.
 
 In CRSwNP, the safety and efficacy of omalizumab in patients below the age of 18 years have not been established.
 No data are available.
+
 Method of administration
 
 For subcutaneous administration only.
@@ -111,7 +112,6 @@ Xolair 300 mg pre-filled syringe and all dose strengths of Xolair pre-filled pen
 Xolair 75 mg pre-filled syringe and Xolair 150 mg pre-filled syringe may be used in children 6 to 11 years of age with allergic asthma.
 
 If more than one injection is needed to achieve the required dose, injections should be divided across two or more injection sites (Table 1).
-
 Patients with no known history of anaphylaxis may self-inject Xolair or be injected by a caregiver from the 4th dose onwards if a physician determines that this is appropriate (see section 4.4).
 The patient or the caregiver must have been trained in the correct injection technique and the recognition of the early signs and symptoms of serious allergic reactions.
 

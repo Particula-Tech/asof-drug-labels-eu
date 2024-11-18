@@ -41,7 +41,6 @@ Table 4 Adverse reactions in allergic asthma and CRSwNP
 **: In children 6 to <12 years of age
 #: Common in nasal polyp trials
 †: Unknown in allergic asthma trials
-
 Description of selected adverse reactions
 
 Immune system disorders
@@ -51,6 +50,7 @@ Anaphylaxis
 Anaphylactic reactions were rare in clinical trials.
 However, post-marketing data following a cumulative search in the safety database retrieved a total of 898 anaphylaxis cases.
 Based on an estimated exposure of 566 923 patient treatment years, this results in a reporting rate of approximately 0.20%.
+
 Arterial thromboembolic events (ATE)
 In controlled clinical trials and during interim analyses of an observational study, a numerical imbalance of ATE was observed.
 The definition of the composite endpoint ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause).
