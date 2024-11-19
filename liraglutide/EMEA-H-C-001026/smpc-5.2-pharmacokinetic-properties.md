@@ -26,18 +26,19 @@ Elimination
 Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or faeces.
 Only a minor part of the administered radioactivity was excreted as liraglutide-related metabolites in urine or faeces (6% and 5%, respectively).
 The urine and faeces radioactivity was mainly excreted during the first 6–8 days, and corresponded to three minor metabolites, respectively.
+
 The mean clearance following subcutaneous administration of a single dose liraglutide is approximately 1.2 l/h with an elimination half-life of approximately 13 hours.
 
 Special populations
 
 Elderly patients
 Age had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results from a pharmacokinetic study in healthy subjects and population pharmacokinetic data analysis of patients (18 to 80 years).
-
 Gender
 Gender had no clinically meaningful effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic data analysis of male and female patients and a pharmacokinetic study in healthy subjects.
 
 Ethnic origin
 Ethnic origin had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analysis which included patients of White, Black, Asian and Hispanic groups.
+
 Obesity
 Population pharmacokinetic analysis suggests that body mass index (BMI) has no significant effect on the pharmacokinetics of liraglutide.
 

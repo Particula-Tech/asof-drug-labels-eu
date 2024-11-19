@@ -19,11 +19,11 @@ The mechanism of blood glucose lowering also involves a minor delay in gastric e
 Liraglutide reduces body weight and body fat mass through mechanisms involving reduced hunger and lowered energy intake, GLP-1 is a physiological regulator of appetite and food intake, but the exact mechanism of action is not entirely clear.
 
 In animal studies, peripheral administration of liraglutide led to uptake in specific brain regions involved in regulation of appetite, where liraglutide via specific activation of the GLP-1 receptor (GLP-1R) increased key satiety and decreased key hunger signals, thereby leading to lower body weight.
+
 GLP-1 receptors are also expressed in specific locations in the heart, vasculature, immune system, and kidneys.
 In mouse models of atherosclerosis, liraglutide prevented aortic plaque progression and reduced inflammation in the plaque.
 In addition, liraglutide had a beneficial effect on plasma lipids.
 Liraglutide did not reduce the plaque size of already established plaques.
-
 Pharmacodynamic effects
 
 Liraglutide has 24-hour duration of action and improves glycaemic control by lowering fasting and postprandial blood glucose in patients with type 2 diabetes mellitus.
@@ -36,6 +36,7 @@ Five double-blind, randomised, controlled clinical phase 3a adult trials were co
 Treatment with liraglutide produced clinically and statistically significant improvements in glycosylated haemoglobin A1c (HbA1c), fasting plasma glucose and postprandial glucose compared with placebo.
 
 These trials included 3,978 exposed patients with type 2 diabetes mellitus (2,501 patients treated with liraglutide), 53.7% men and 46.3% women, 797 patients (508 treated with liraglutide) were ≥65 years of age and 113 patients (66 treated with liraglutide) were ≥75 years of age.
+
 Additional trials were conducted with liraglutide that included 1,901 patients in four unblinded, randomised, controlled clinical trials (including 464, 658, 323 and 177 patients per trial) and one double-blind, randomised, controlled clinical trial in patients with type 2 diabetes mellitus and moderate renal impairment (279 patients).
 
 A large cardiovascular outcomes trial (the LEADER trial) was also conducted with liraglutide in 9,340 patients with type 2 diabetes mellitus at high cardiovascular risk.
@@ -57,7 +58,8 @@ Table 2 Liraglutide clinical phase 3 trials in monotherapy (52 weeks) and in com
 | Add-on to metformin (2,000 mg/day) |  |  |  |  |  |  |
 | Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo Glimepiride 4 mg/day | 240 242 121 242 | 8.3 8.4 8.4 8.4 | -0.97† -1.00† 0.09 -0.98 | 35.31, 52.82 42.41, 66.32 10.81, 22.52 36.31, 56.02 | 88.5 88.0 91.0 89.0 | -2.58** -2.79** -1.51 0.95 |
 | Add-on to glimepiride (4 mg/day) |  |  |  |  |  |  |
-| Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo Rosiglitazone 4 mg/day | 228 234 114 231 | 8.5 8.5 8.4 8.4 | -1.08** -1.13** 0.23 -0.44 | 34.51, 57.42 41.61, 55.92 7.51, 11.82 21.91, 36.12 | 80.0 83.0 81.9 80.6 | 0.32** -0.23** -0.10 2.11 |
+| Liraglutide 1.2 mg | 228 | 8.5 | -1.08** | 34.51, 57.42 | 80.0 | 0.32** |
+| Liraglutide 1.8 mg Placebo Rosiglitazone 4 mg/day | 234 114 231 | 8.5 8.4 8.4 | -1.13** 0.23 -0.44 | 41.61, 55.92 7.51, 11.82 21.91, 36.12 | 83.0 81.9 80.6 | -0.23** -0.10 2.11 |
 | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) |  |  |  |  |  |  |
 | Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo | 177 178 175 | 8.48 8.56 8.42 | -1.48 -1.48 -0.54 | 57.51 53.71 28.11 | 95.3 94.9 98.5 | -1.02 -2.02 0.60 |
 | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day) |  |  |  |  |  |  |
@@ -96,7 +98,6 @@ In the LEADER trial, (see subsection Cardiovascular evaluation), 873 patients we
 The mean HbA1c at baseline was 8.7% for liraglutide and placebo.
 At week 26, the estimated mean change in HbA1c was -1.4% and -0.5% for liraglutide and placebo, respectively, with an estimated treatment difference of -0.9 [-1.00; -0.70]95% CI.
 The safety profile of liraglutide in combination with premix insulin was overall comparable to that observed for placebo in combination with premix insulin (see section 4.8).
-
 Use in patients with renal impairment
 In a double-blind trial comparing the efficacy and safety of liraglutide 1.8 mg versus placebo as add-on to insulin and/or OAD in patients with type 2 diabetes and moderate renal impairment, liraglutide was superior to placebo treatment in reducing HbA1c after 26 weeks (-1.05% vs -0.38%).
 Significantly more patients achieved HbA1c below 7% with liraglutide compared with placebo (52.8% vs 19.5%).
@@ -142,12 +143,12 @@ The duration of observation was a minimum of 3.5 years and up to a maximum of 5 
 The study population included patients ≥65 years (n=4,329) and ≥75 years (n=836) and patients with mild (n=3,907), moderate (n=1,934) or severe (n=224) renal impairment.
 The mean age was 64 years and the mean BMI was 32.5 kg/m².
 The mean duration of diabetes was 12.8 years.
-
 The primary endpoint was the time from randomisation to first occurrence of any major adverse cardiovascular events (MACE): CV death, non-fatal myocardial infarction or non-fatal stroke.
 Liraglutide was superior in preventing MACE vs placebo (Figure 1).
 The estimated hazard ratio was consistently below 1 for all 3 MACE components.
 
 Liraglutide also significantly reduced the risk of expanded MACE (primary MACE, unstable angina pectoris leading to hospitalisation, coronary revascularisation, or hospitalisation due to heart failure) and other secondary endpoints (Figure 2).
+
 Placebo
 Victoza
 

@@ -37,4 +37,5 @@ Victoza must not be administered intravenously or intramuscularly.
 Victoza is administered once daily at any time, independent of meals, and can be injected subcutaneously in the abdomen, in the thigh or in the upper arm.
 The injection site and timing can be changed without dose adjustment.
 However, it is preferable that Victoza is injected around the same time of the day, when the most convenient time of the day has been chosen.
+Injection sites should always be rotated in order to reduce the risk of injection site amyloid deposits (see section and 4.8).
 For further instructions on administration, see section 6.6.

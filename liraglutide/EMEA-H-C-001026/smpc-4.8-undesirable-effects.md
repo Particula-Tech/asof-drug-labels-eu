@@ -20,19 +20,19 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-term cardiovascular outcome trial (LEADER) and spontaneous (post-marketing) reports
 
-| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Nasopharyngitis Bronchitis |  |  |  |
-| Immune system disorders |  |  |  | Anaphylactic reactions |  |
-| Metabolism and nutrition disorders |  | Hypoglycaemia Anorexia Appetite decreased | Dehydration |  |  |
-| Nervous system disorders |  | Headache Dizziness | Dysgeusia |  |  |
-| Cardiac disorders |  | Increased heart rate |  |  |  |
-| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
-| Hepatobiliary disorders |  |  | Cholelithiasis Cholecystitis |  |  |
-| Skin and subcutaneous tissue disorder |  | Rash | Urticaria Pruritus |  |  |
-| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |
-| General disorders and administration site conditions |  | Fatigue Injection site reactions | Malaise |  |  |
-| Investigations |  | Increased lipase* Increased amylase* |  |  |  |
+| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Nasopharyngitis Bronchitis |  |  |  |  |
+| Immune system disorders |  |  |  | Anaphylacti c reactions |  |  |
+| Metabolism and nutrition disorders |  | Hypoglycaemia Anorexia Appetite decreased | Dehydratio n |  |  |  |
+| Nervous system disorders |  | Headache Dizziness | Dysgeusia |  |  |  |
+| Cardiac disorders |  | Increased heart rate |  |  |  |  |
+| Gastrointesti nal disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophage al reflux disease Abdominal discomfort Toothache | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |  |
+| Hepatobiliar y disorders |  |  | Cholelithias is Cholecystiti s |  |  |  |
+| Skin and subcutaneou s tissue disorder |  | Rash | Urticaria Pruritus |  |  | Cutaneous amyloidosis |
+| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |  |
+| General disorders and administratio n site conditions |  | Fatigue Injection site reactions | Malaise |  |  |  |
+| Investigation s |  | Increased lipase* Increased amylase* |  |  |  |  |
 
 * From controlled phase 3b and 4 clinical trials only where they were measured.
 
@@ -55,12 +55,16 @@ When combining liraglutide with metformin, 20.7% of patients reported at least o
 When combining liraglutide with a sulfonylurea, 9.1% of patients reported at least one episode of nausea and 7.9% of patients reported at least one episode of diarrhoea.
 Most episodes were mild to moderate and occurred in a dose-dependent fashion.
 With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
+
 Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
 Patients with mild and moderate renal impairment (creatinine clearance 60–90 ml/min and 30–59 ml/min, respectively) may experience more gastrointestinal effects when treated with liraglutide.
 
 Cholelithiasis and cholecystitis
 Few cases of cholelithiasis (0.4%) and cholecystitis (0.1%) have been reported during long-term, controlled phase 3a clinical trials with liraglutide.
 In the LEADER trial, the frequency of cholelithiasis and cholecystitis was 1.5% and 1.1% for liraglutide and 1.1% and 0.7% for placebo, respectively (see section 5.1).
+
+Cutaneous amyloidosis
+Cutaneous amyloidosis may occur at the injection site (See section 4.2)”
 
 Withdrawal
 The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
@@ -85,7 +89,6 @@ Overall, frequency, type and severity of adverse reactions in adolescents and ch
 Rate of confirmed hypoglycaemic episodes was higher with liraglutide (0.58 events/patient year) compared to placebo (0.29 events/patient year).
 In patients treated with insulin prior to a confirmed hypoglycaemic episode the rate was higher with liraglutide (1.82 events/patient year) compared to placebo (0.91 events/patient years).
 No severe hypoglycaemic episodes occurred in the liraglutide treatment group.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
