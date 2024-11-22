@@ -7,7 +7,6 @@ Mechanism of action
 Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A), a transmembrane glycoprotein found at presynaptic level in neurons and in endocrine cells.
 Although the exact role of this protein remains to be elucidated it has been shown to modulate exocytosis of neurotransmitters.
 Binding to SV2A is believed to be the primary mechanism for brivaracetam anticonvulsant activity.
-
 Clinical efficacy and safety
 
 The efficacy of brivaracetam for the adjunctive therapy of partial onset seizures (POS) was established in 3 randomized, double-blind, placebo-controlled, fixed-dose, multi-center clinical studies in subjects 16 years of age and older.
@@ -22,6 +21,7 @@ The median baseline seizure frequency across the 3 studies was 9 seizures per 28
 Patients had a mean duration of epilepsy of approximately 23 years.
 The efficacy outcomes are summarized in Table 2.
 Overall, brivaracetam was efficacious for the adjunctive treatment of partial onset seizures in patients 16 years of age and older between 50 mg/day and 200 mg/day.
+
 Table 2: Key Efficacy Outcomes for Partial Onset Seizure Frequency per 28 Days
 
 | Study | Placebo | Brivaracetam * Statistically significant (p-value) |  |  |
@@ -54,6 +54,7 @@ Figure 1 shows the percentage of patients (excluding patients with concomitant l
 Patients with more than a 25 % increase in POS are shown at left as “worse”.
 Patients with an improvement in percent reduction in baseline POS frequency are shown in the 4 right-most categories.
 The percentages of patients with at least a 50 % reduction in seizure frequency were 20.3 %, 34.2 %, 39.5 %, and 37.8 % for placebo, 50 mg/day, 100 mg/day, and 200 mg/day, respectively.
+
 Figure 1: Proportion of patients by category of seizure response for brivaracetam and placebo over 12 weeks across all three double-blind pivotal clinical studies
 
 In a pooled analysis of the three pivotal clinical studies, no differences in efficacy (measured as 50 % responder rate) was observed within the dose range of 50 mg/day to 200 mg/day when brivaracetam is combined with inducing or non-inducing AEDs.
@@ -76,7 +77,6 @@ The lower efficacy observed in these patients compared to the leveticacetam-naï
 Elderly (65 years of age and above)
 The three pivotal double-blind placebo-controlled clinical studies included 38 elderly patients aged between 65 and 80 years.
 Although data are limited, the efficacy was comparable to younger subjects.
-
 Open label extension studies
 Across all studies, 81.7 % of the patients who completed randomized studies were enrolled in the long-term open-label extension studies.
 From entry into the randomized studies,5.3 % of the subjects exposed to brivaracetam for 6 months (n=1,500) were seizure free compared to 4.6 % and 3.7 % for subjects exposed for 12 months (n=1,188) and 24 months (n=847), respectively.

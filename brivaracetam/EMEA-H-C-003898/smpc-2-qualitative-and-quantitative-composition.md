@@ -48,7 +48,7 @@ For the full list of excipients, see section 6.1.
 
 Each ml contains 10 mg brivaracetam.
 
-Each ml of oral solution contains 168 mg sorbitol (E420), 1 mg methyl parahydroxybenzoate (E218)and maximum 5.5 mg propylene glycol (E1520).
+Each ml of oral solution contains 168 mg sorbitol (E420), 1 mg methyl parahydroxybenzoate (E218) and maximum 5.5 mg propylene glycol (E1520).
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

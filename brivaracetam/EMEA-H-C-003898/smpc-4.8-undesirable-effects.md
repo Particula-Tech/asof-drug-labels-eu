@@ -11,11 +11,11 @@ The adverse reactions most frequently resulting in discontinuation of brivaracet
 
 Tabulated list of adverse reactions
 
-In the table below, adverse reactions, which were identified based on review of the three placebo-controlled, fixed-dose studies safety database in subjects ≥ 16 years of age, are listed by System Organ Class and frequency.
-The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
+In the table below, adverse reactions, which were identified based on review of the three placebo-controlled, fixed-dose studies safety database in subjects ≥ 16 years of age and from post-marketing experience, are listed by System Organ Class and frequency.
+The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and not known (frequency cannot be estimated from available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| System organ class | Frequency | Adverse reactions from clinical studies |
+| System organ class | Frequency | Adverse reactions |
 | --- | --- | --- |
 | Infections and infestations | Common | Influenza |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
@@ -27,7 +27,10 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Common | Convulsion, vertigo |
 | Respiratory, thoracic and mediastinal disorders | Common | Upper respiratory tract infections, cough |
 | Gastrointestinal disorders | Common | Nausea, vomiting, constipation |
+| Skin and subcutaneous tissue disorders | Not known | Stevens-Johnson syndrome(1) |
 | General disorders and administration site conditions | Common | Fatigue |
+
+(1) Adverse reactions reported in post marketing experience.
 
 Description of selected adverse reactions
 

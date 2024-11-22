@@ -21,7 +21,6 @@ A second disposition pathway involves hydroxylation mediated by CYP2C19 (see sec
 
 Brivaracetam plasma concentrations may increase when coadministered with CYP2C19 strong inhibitors (e.g. fluconazole, fluvoxamine), but the risk of a clinically relevant CYP2C19-mediated interaction is considered to be low.
 Limited clinical data are available implying that coadministration of cannabidiol may increase the plasma exposure of brivaracetam, possibly through CYP2C19 inhibition, but the clinical relevance is uncertain.
-
 Rifampicin
 In healthy subjects, coadministration with the strong enzyme inducer rifampicin (600 mg/day for 5 days), decreased brivaracetam area under the plasma concentration curve (AUC) by
 45 %.
@@ -29,6 +28,7 @@ Prescribers should consider adjusting the brivaracetam dose in patients starting
 
 Strong enzyme inducing AEDs
 Brivaracetam plasma concentrations are decreased when coadministered with strong enzyme inducing AEDs (carbamazepine, phenobarbital, phenytoin) but no dose adjustment is required (see table 1).
+
 Other enzyme inducers
 Other strong enzyme inducers (such as St John´s wort (Hypericum perforatum)) may also decrease the systemic exposure of brivaracetam.
 Therefore, starting or ending treatment with St John’s wort should be done with caution.
@@ -50,7 +50,6 @@ Antiepileptic drugs
 
 Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies, in a population pharmacokinetic analysis of placebo-controlled phase 2-3 clinical studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
 The effect of the interactions on the plasma concentration is summarised in table 1 (increase is indicated as “↑” and decrease as “↓”, area under the plasma concentration versus time curve as “AUC”, maximum observed concentration as Cmax).
-
 Table 1: Pharmacokinetic interactions between brivaracetam and other AEDs
 
 | AED coadministered | Influence of AED on brivaracetam plasma concentration | Influence of brivaracetam on AED plasma concentration |
@@ -70,6 +69,7 @@ Table 1: Pharmacokinetic interactions between brivaracetam and other AEDs
 | Zonisamide | No data available | None |
 
 a based on a study involving the administration of a supratherapeutic dose of 400 mg/day brivaracetam.
+
 Carbamazepine
 Brivaracetam is a moderate reversible inhibitor of epoxide hydrolase resulting in an increased concentration of carbamazepine epoxide, an active metabolite of carbamazepine.
 In controlled clinical studies, the carbamazepine epoxide plasma concentration increased by a mean of 37 %, 62 % and 98 % with little variability at brivaracetam doses of 50 mg/day, 100 mg/day and 200 mg/day respectively.

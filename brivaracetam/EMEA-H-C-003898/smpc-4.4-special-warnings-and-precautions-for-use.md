@@ -13,6 +13,12 @@ Hepatic impairment
 There are limited clinical data on the use of brivaracetam in patients with pre-existing hepatic impairment.
 Dose adjustments are recommended for patients with hepatic impairment (see section 4.2).
 
+Severe cutaneous adverse reactions (SCARs)
+
+Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), which can be life-threatening or fatal, have been reported in association with brivaracetam treatment.
+At the time of the prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions.
+If signs and symptoms suggestive of these reactions appear, brivaracetam should be withdrawn immediately and an alternative treatment should be considered.
+
 Excipients
 
 Lactose intolerance
@@ -29,6 +35,7 @@ Brivaracetam oral solution contains less than 1 mmol sodium (23mg) per ml, that 
 Fructose intolerance
 This medicine contains 168 mg sorbitol (E420) in each ml.
 Patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
+
 Excipients which may cause intolerance
 The oral solution contains methyl parahydroxybenzoate (E218), which may cause allergic reactions (possibly delayed).
 Brivaracetam oral solution contains propylene glycol (E1520).

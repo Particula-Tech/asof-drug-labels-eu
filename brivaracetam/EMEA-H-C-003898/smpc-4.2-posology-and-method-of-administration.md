@@ -110,8 +110,7 @@ Likewise a volume of 1.13 ml would need to be rounded down to a delivered volume
 
 |  | Volumes of oral solution to be taken per administration for adolescents and children weighing 50 kg or more, and adults |  |  |  |
 | --- | --- | --- | --- | --- |
-| Prescribed dose | For a dose of 50 mg/day | For a dose of 100 mg/day | For a dose of 150 mg/day | For a dose of 200 mg/day |
-|  | 25 mg/intake | 50 mg/intake | 75 mg/intake | 100 mg/intake |
+| Prescribed dose | For a dose of 50 mg/day 25 mg/intake | For a dose of 100 mg/day 50 mg/intake | For a dose of 150 mg/day 75 mg/intake | For a dose of 200 mg/day 100 mg/intake |
 | Recommended syringe | 5 ml |  | 10 ml |  |
 | Weight | Volume administered |  | Volume administered |  |
 | 50 kg or more | 2.5 ml (25 mg) | 5 ml (50 mg) | 7.5 ml (75 mg) | 10 ml (100 mg) |
