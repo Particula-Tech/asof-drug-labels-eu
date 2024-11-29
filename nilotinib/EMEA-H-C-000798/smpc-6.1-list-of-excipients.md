@@ -43,7 +43,6 @@ Propylene glycol
 Dehydrated ethanol
 Isopropyl alcohol
 Ammonium hydroxide
-
 Tasigna 200 mg hard capsules
 
 Capsule content
@@ -52,6 +51,7 @@ Crospovidone Type A
 Poloxamer 188
 Colloidal anhydrous silica
 Magnesium stearate
+
 Capsule shell
 Gelatin
 Titanium dioxide (E171)
