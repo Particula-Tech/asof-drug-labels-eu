@@ -22,21 +22,20 @@ Overall, the safety profile observed in patients with active AS treated with tof
 
 Ulcerative colitis
 The most commonly reported adverse reactions in patients receiving tofacitinib 10 mg twice daily in the induction studies were headache, nasopharyngitis, nausea, and arthralgia.
-In the induction and maintenance studies, across tofacitinib and placebo treatment groups, the most common categories of serious adverse reactions were gastrointestinal disorders and infections, and the most common serious adverse reaction was worsening of UC.
 
+In the induction and maintenance studies, across tofacitinib and placebo treatment groups, the most common categories of serious adverse reactions were gastrointestinal disorders and infections, and the most common serious adverse reaction was worsening of UC.
 Overall, the safety profile observed in patients with UC treated with tofacitinib was consistent with the safety profile of tofacitinib in the RA indication.
 
 Tabulated list of adverse reactions
 
-The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to
-< 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 8: Adverse reactions
 
 | System organ class | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 | Very rare <1/10,000 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococca l bacteraemia Mycobacteriu m avium complex infection Atypical mycobacterial infection |  |
+| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococc al bacteraemia Mycobacteriu m avium complex infection Atypical mycobacteria l infection |  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Lung cancer Non-melanoma skin cancers | Lymphoma |  |  |
 | Blood and lymphatic system disorders | Lymphopenia Anaemia | Leukopenia Neutropenia |  |  |  |
 | Immune system disorders |  |  |  |  | Hypersensitivity * Angioedema* Urticaria* |
@@ -48,8 +47,8 @@ Table 8: Adverse reactions
 | Respiratory, thoracic and mediastinal disorders | Cough | Dyspnoea Sinus congestion |  |  |  |
 | Gastrointestinal disorders | Abdominal pain Vomiting Diarrhoea Nausea Gastritis Dyspepsia |  |  |  |  |
 | Hepatobiliary disorders |  | Hepatic steatosis Hepatic enzyme increased Transaminases increased Gamma glutamyl-transferase increased | Liver function test abnormal |  |  |
-| Skin and subcutaneous tissue disorders | Rash | Erythema Pruritus |  |  |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Joint swelling Tendonitis | Musculoskeleta l pain |  |  |
+| Skin and subcutaneous tissue disorders | Rash Acne | Erythema Pruritus |  |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Joint swelling Tendonitis | Musculoskelet al pain |  |  |
 | General disorders and administration site conditions | Oedema peripheral | Pyrexia Fatigue |  |  |  |
 | Investigations | Blood creatine phosphokinase increased | Blood creatinine increased Blood cholesterol increased Low density lipoprotein increased Weight increased |  |  |  |
 | Injury, poisoning and procedural complications |  | Ligament sprain Muscle strain |  |  |  |
@@ -70,15 +69,13 @@ In tofacitinib-treated patients where PE was observed, the majority (97%) had VT
 
 Ankylosing spondylitis
 In the combined Phase 2 and Phase 3 randomised controlled clinical studies, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
-
 Ulcerative colitis (UC)
 In the UC ongoing extension trial, cases of PE and DVT have been observed in patients using tofacitinib 10 mg twice daily and with underlying VTE risk factor(s).
 
 Overall infections
 
 Rheumatoid arthritis
-In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2%
-(100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients).
+In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2% (100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients).
 In controlled phase 3 clinical studies with background DMARDs, the rates of infections over 0-3 months in the 5 mg twice daily (total 973 patients) and 10 mg twice daily (total 969 patients) tofacitinib plus DMARD group were 21.3% (207 patients) and 21.8% (211 patients), respectively, compared to 18.4% (103 patients) in the placebo plus DMARD group (total 559 patients).
 
 The most commonly reported infections were upper respiratory tract infections and nasopharyngitis (3.7% and 3.2%, respectively).
@@ -166,6 +163,7 @@ In the clinical studies in UC, changes in ANC observed with tofacitinib treatmen
 
 Platelets
 Patients in the Phase 3 controlled clinical studies (RA, PsA, AS, UC) were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
+
 Liver enzyme tests
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were uncommonly observed in RA patients.
 In those patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tofacitinib, or reduction in tofacitinib dose, resulted in decrease or normalisation of liver enzymes.
@@ -176,7 +174,8 @@ In this study, AST elevations greater than 3x ULN were observed in 1.65%, 0.41% 
 In the RA phase 3 monotherapy study (0-24 months) (study VI, see section 5.1), ALT elevations greater than 3x ULN were observed in 7.1%, 3.0%, and 3.0% of patients receiving MTX, tofacitinib 5 mg and 10 mg twice daily, respectively.
 In this study, AST elevations greater than 3x ULN were observed in 3.3%, 1.6% and 1.5% of patients receiving MTX, tofacitinib 5 mg and 10 mg twice daily, respectively.
 
-In the controlled portion of the RA phase 3 studies on background DMARDs (0-3 months) (studies II-V, see section 5.1), ALT elevations greater than 3x ULN were observed in 0.9%, 1.24% and 1.14% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
+In the controlled portion of the RA phase 3 studies on background DMARDs (0-3 months)
+(studies II-V, see section 5.1), ALT elevations greater than 3x ULN were observed in 0.9%, 1.24% and 1.14% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
 In these studies, AST elevations greater than 3x ULN were observed in 0.72%, 0.5% and 0.31% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
 
 In the RA long-term extension studies, on monotherapy, ALT elevations greater than 3x ULN were observed in 1.1% and 1.4% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
@@ -193,6 +192,7 @@ In the clinical studies in UC, changes in liver enzyme tests observed with tofac
 Lipids
 Elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were first assessed at 1 month following initiation of tofacitinib in the controlled double-blind clinical studies of RA.
 Increases were observed at this time point and remained stable thereafter.
+
 Changes in lipid parameters from baseline through the end of the study (6-24 months) in the controlled clinical studies in RA are summarised below:
 
 - Mean LDL cholesterol increased by 15% in the tofacitinib 5 mg twice daily arm and 20% in the tofacitinib 10 mg twice daily arm at month 12, and increased by 16% in the tofacitinib 5 mg twice daily arm and 19% in the tofacitinib 10 mg twice daily arm at month 24.
@@ -227,6 +227,7 @@ Malignancies excluding NMSC
 Rheumatoid arthritis
 In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years of age or older with at least one additional cardiovascular risk factor, the incidence rates (95% CI) for lung cancer for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors were 0.23 (0.12, 0.40), 0.32 (0.18, 0.51), and 0.13 (0.05, 0.26) patients with events per 100 patient-years, respectively (see sections 4.4 and 5.1).
 The study required at least 1500 patients to be followed for 3 years.
+
 The incidence rates (95% CI) for lymphoma for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors were 0.07 (0.02, 0.18), 0.11 (0.04, 0.24), and 0.02 (0.00, 0.10) patients with events per 100 patient-years, respectively (see sections 4.4 and 5.1).
 
 Paediatric population
@@ -255,8 +256,7 @@ Both patients were on background MTX therapy and each event resolved after disco
 Laboratory tests
 
 Changes in laboratory tests in JIA patients in the clinical development program were consistent with those seen in adult RA patients.
-Patients in the JIA pivotal study were required to have a platelet count
-≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
+Patients in the JIA pivotal study were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
 
 Reporting of suspected adverse reactions
 
@@ -270,7 +270,7 @@ Table 7: Adverse reactions
 
 | System organ class | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 | Very rare <1/10,000 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococcal bacteraemia Mycobacterium avium complex infection Atypical mycobacterial infection |  |
+| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococca l bacteraemia Mycobacteriu m avium complex infection Atypical mycobacterial infection |  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Lung cancer Non-melanoma skin cancers | Lymphoma |  |  |
 | Blood and lymphatic system disorders | Lymphopenia Anaemia | Leukopenia Neutropenia |  |  |  |
 | Immune system disorders |  |  |  |  | Hypersensitivity * Angioedema* Urticaria* |
@@ -282,11 +282,14 @@ Table 7: Adverse reactions
 | Respiratory, thoracic and mediastinal disorders | Cough | Dyspnoea Sinus congestion |  |  |  |
 | Gastrointestinal disorders | Abdominal pain Vomiting Diarrhoea Nausea Gastritis Dyspepsia |  |  |  |  |
 | Hepatobiliary disorders |  | Hepatic steatosis Hepatic enzyme increased Transaminases increased Gamma glutamyl-transferase increased | Liver function test abnormal |  |  |
-| Skin and subcutaneous tissue disorders | Rash | Erythema Pruritus |  |  |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Joint swelling Tendonitis | Musculoskeleta l pain |  |  |
+| Skin and subcutaneous tissue disorders | Rash Acne | Erythema Pruritus |  |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Joint swelling Tendonitis | Musculoskelet al pain |  |  |
 | General disorders and administration site conditions | Oedema peripheral | Pyrexia Fatigue |  |  |  |
 | Investigations | Blood creatine phosphokinase increased | Blood creatinine increased Blood cholesterol increased Low density lipoprotein increased Weight increased |  |  |  |
 | Injury, poisoning and procedural complications |  | Ligament sprain Muscle strain |  |  |  |
+
+The incidence rates (95% CI) for PE for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors were 0.17 (0.08-0.33), 0.50 (0.32-0.74), and 0.06
+(0.01-0.17) patients with events per 100 patient-years, respectively.
 
 In the combined Phase 2 and Phase 3 randomised controlled clinical trials, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
 
@@ -301,6 +304,4 @@ Patients in the Phase 3 controlled clinical studies (RA, PsA, AS) were required 
 
 [XELJANZ 1 mg/mL oral solution]
 
-The adverse reactions listed in the table below are from clinical studies in adult patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to
-
-Patients in the JIA pivotal study were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
+The adverse reactions listed in the table below are from clinical studies in adult patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).

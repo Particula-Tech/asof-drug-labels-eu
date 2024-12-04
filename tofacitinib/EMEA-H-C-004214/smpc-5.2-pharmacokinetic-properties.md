@@ -35,7 +35,6 @@ The available data have also shown that there are no major differences in tofaci
 An approximate linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients.
 However, this difference is not considered to be clinically relevant.
 The between-subject variability (percentage coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
-
 Results from population PK analysis in patients with active PsA, moderate to severe UC or AS were consistent with those in patients with RA.
 
 Renal impairment
@@ -64,7 +63,8 @@ Paediatric population
 Pharmacokinetics in paediatric patients with juvenile idiopathic arthritis
 Population PK analysis based on results from both tofacitinib 5 mg film-coated tablets twice daily and tofacitinib oral solution weight-based equivalent twice daily indicated that tofacitinib clearance and volume of distribution both decreased with decreasing body weight in JIA patients.
 The available data indicated that there were no clinically relevant differences in tofacitinib exposure (AUC), based on age, race, gender, patient type or baseline disease severity.
-The between-subject variability (% coefficient of variation) in (AUC) was estimated to be approximately 24%.
+The between-subject variability
+(% coefficient of variation) in (AUC) was estimated to be approximately 24%.
 
 [XELJANZ 11 mg prolonged-release tablets]
 

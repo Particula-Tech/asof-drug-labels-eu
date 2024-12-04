@@ -5,7 +5,6 @@ Secondary effects from immunosuppression, such as bacterial and viral infections
 Lymphoma was observed in 3 of 8 adult monkeys at 6 or 3 times the clinical tofacitinib exposure level (unbound AUC in humans at a dose of 5 mg or 10 mg twice daily), and 0 of 14 juvenile monkeys at 5 or 2.5 times the clinical exposure level of 5 mg or 10 mg twice daily.
 Exposure in monkeys at the no observed adverse effect level (NOAEL) for the lymphomas was approximately 1 or 0.5 times the clinical exposure level of 5 mg or 10 mg twice daily.
 Other findings at doses exceeding human exposures included effects on the hepatic and gastrointestinal systems.
-
 Tofacitinib is not mutagenic or genotoxic based on the results of a series of in vitro and in vivo tests for gene mutations and chromosomal aberrations.
 
 The carcinogenic potential of tofacitinib was assessed in 6-month rasH2 transgenic mouse carcinogenicity and 2-year rat carcinogenicity studies.
