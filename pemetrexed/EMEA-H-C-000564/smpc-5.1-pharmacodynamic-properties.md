@@ -12,11 +12,9 @@ Polyglutamation is a time- and concentration-dependent process that occurs in tu
 Polyglutamated metabolites have an increased intracellular half-life resulting in prolonged drug action in malignant cells.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with ALIMTA in all subsets of the paediatric population in the granted indications (see Section 4.2).
-
 Clinical efficacy
 
 Mesothelioma
-
 EMPHACIS, a multicentre, randomised, single-blind phase 3 study of ALIMTA plus cisplatin versus cisplatin in chemonaive patients with malignant pleural mesothelioma, has shown that patients treated with ALIMTA and cisplatin had a clinically meaningful 2.8-month median survival advantage over patients receiving cisplatin alone.
 
 During the study, low-dose folic acid and vitamin B12 supplementation was introduced to patients’ therapy to reduce toxicity.
@@ -32,7 +30,8 @@ Efficacy of ALIMTA plus cisplatin vs. cisplatin in malignant pleural mesotheliom
 | Efficacy parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
 | Median overall survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
 | Log Rank p-valuea | 0.020 |  | 0.051 |  |
-| Median time to tumour progression (months) (95 % CI) | 5.7 (4.9 - 6.5) | 3.9 (2.8 - 4.4) | 6.1 (5.3 - 7.0) | 3.9 (2.8 - 4.5) |
+| Median time to tumour progression (months) (95 % CI) | 5.7 | 3.9 | 6.1 | 3.9 |
+|  | (4.9 - 6.5) | (2.8 - 4.4) | (5.3 - 7.0) | (2.8 - 4.5) |
 | Log Rank p-valuea | 0.001 |  | 0.008 |  |
 | Time to treatment failure (months) (95 % CI) | 4.5 (3.9 - 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
 | Log Rank p-valuea | 0.001 |  | 0.001 |  |
@@ -51,7 +50,6 @@ ALIMTA at a dose of 500 mg/m2 was studied as a single-agent in 64 chemonaive pat
 The overall response rate was 14.1 %.
 
 NSCLC, second-line treatment
-
 A multicentre, randomised, open label phase 3 study of ALIMTA versus docetaxel in patients with locally advanced or metastatic NSCLC after prior chemotherapy has shown median survival times of 8.3 months for patients treated with ALIMTA (Intent To Treat population n = 283) and 7.9 months for patients treated with docetaxel (ITT n = 288).
 Prior chemotherapy did not include ALIMTA.
 An analysis of the impact of NSCLC histology on the treatment effect on overall survival was in favour of ALIMTA versus docetaxel for other than predominantly squamous histologies (n = 399, 9.3 versus 8.0 months, adjusted HR = 0.78; 95% CI = 0 .61-1.00, p = 0.047) and was in favour of docetaxel for squamous cell carcinoma histology (n = 172, 6.2 versus 7.4 months, adjusted HR = 1.56;
@@ -74,7 +72,6 @@ Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 Abbreviations: CI = confidence interval; HR = hazard ratio; ITT = intent to treat; n = total population size.
 
 NSCLC, first-line treatment
-
 A multicentre, randomised, open-label, Phase 3 study of ALIMTA plus cisplatin versus gemcitabine plus cisplatin in chemonaive patients with locally advanced or metastatic (Stage IIIb or IV) non-small cell lung cancer (NSCLC) showed that ALIMTA plus cisplatin (Intent-To-Treat [ITT] population n = 862) met its primary endpoint and showed similar clinical efficacy as gemcitabine plus cisplatin (ITT n = 863) in overall survival (adjusted hazard ratio 0.94; 95% CI = 0.84-1.05).
 All patients included in this study had an ECOG performance status 0 or 1.
 
@@ -92,9 +89,11 @@ Efficacy of ALIMTA + cisplatin vs. gemcitabine + cisplatin in first-line non-sma
 
 ITT population and histology subgroups ALIMTA + cisplatin Median overall survival in months (95% CI) Gemcitabine + cisplatin ratio (HR) (95% CI) Adjusted hazard Superiority p-value
 ITT population 10.3 N=862 10.3 N=863 0.94a 0.259
-(N = 1725) (9.8 – 11.2) (9.6 – 10.9) (0.84 – 1.05)
+(N = 1725) (9.8 – 11.2) (9.6 – 10.9) (0.84 –
+1.05)
 Adenocarcinoma 12.6 N=436 10.9 N=411 0.84 0.033
-(N=847) (10.7 – 13.6) (10.2 – 11.9) (0.71–0.99)
+(N=847) (10.7 – (10.2 – (0.71–0.99)
+13.6) 11.9)
 Large cell 10.4 N=76 6.7 N=77 0.67 0.027
 (N=153) (8.6 – 14.1) (5.5 – 9.0) (0.48–0.96)
 Other 8.6 N=106 9.2 N=146 1.08 0.586

@@ -51,6 +51,8 @@ Cases of radiation recall have been reported in patients who received radiothera
 Excipients
 
 ALIMTA 100 mg powder for concentrate for solution for infusion
+
 This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium- free’.
 ALIMTA 500 mg powder for concentrate for solution for infusion
+
 This medicinal product contains 54 mg sodium per vial, equivalent to 2,7 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.

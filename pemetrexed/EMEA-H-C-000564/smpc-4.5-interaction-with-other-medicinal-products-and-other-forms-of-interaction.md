@@ -5,9 +5,8 @@ Concomitant administration of nephrotoxic drugs (e.g. aminoglycoside, loop diure
 This combination should be used with caution.
 If necessary, creatinine clearance should be closely monitored.
 
-Concomitant administration of substances that are also tubularly secreted (e.g. probenecid, penicillin) could potentially result in delayed clearance of pemetrexed.
+Concomitant administration of pemetrexed with OAT3 (organic anion transporter 3) inhibitors (e.g. probenecid, penicillin, proton pump inhibitors (PPIs)) results in delayed clearance of pemetrexed.
 Caution should be made when these drugs are combined with pemetrexed.
-If necessary, creatinine clearance should be closely monitored.
 
 In patients with normal renal function (creatinine clearance > 80 ml/min), high doses of non-steroidal anti-inflammatory drugs (NSAIDs, such as ibuprofen > 1600 mg/day) and acetylsalicylic acid at higher dose (> 1.3 g daily) may decrease pemetrexed elimination and, consequently, increase the occurrence of pemetrexed adverse reactions.
 Therefore, caution should be made when administering higher doses of NSAIDs or acetylsalicylic acid, concurrently with pemetrexed to patients with normal function (creatinine clearance > 80 ml/min).
@@ -21,6 +20,7 @@ Pemetrexed undergoes limited hepatic metabolism.
 Results from in vitro studies with human liver microsomes indicated that pemetrexed would not be predicted to cause clinically significant inhibition of the metabolic clearance of drugs metabolised by CYP3A, CYP2D6, CYP2C9, and CYP1A2.
 
 Interactions common to all cytotoxics
+
 Due to the increased thrombotic risk in patients with cancer, the use of anticoagulation treatment is frequent.
 The high intra-individual variability of the coagulation status during diseases and the possibility of interaction between oral anticoagulants and anticancer chemotherapy require increased frequency of INR (International Normalised Ratio) monitoring, if it is decided to treat the patient with oral anticoagulants.
 

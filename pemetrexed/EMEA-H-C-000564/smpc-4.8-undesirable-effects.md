@@ -25,8 +25,8 @@ Frequencies of all grades adverse drug events regardless of causality from the p
 | Eye disorders |  | Conjunctivitis Dry eye Lacrimation increased Keratoconjunc tivitis sicca Eyelid oedema Ocular surface disease |  |  |  |  |
 | Cardiac disorders |  | Cardiac failure Arrhythmia | Angina Myocardial infarction Coronary artery disease Arrhythmia supraventricul ar |  |  |  |
 | Vascular disorders |  |  | Peripheral ischaemiac |  |  |  |
-| Respiratory, |  |  | Pulmonary |  |  |  |
 
+Respiratory, Pulmonary
 thoracic and embolism
 mediastinal Interstitial
 disorders pneumonitisbd
@@ -90,6 +90,7 @@ complications pneumonitis
 a with and without neutropenia b in some cases fatal c sometimes leading to extremity necrosis d with respiratory insufficiency eseen only in combination with cisplatin f mainly of the lower limbs
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
