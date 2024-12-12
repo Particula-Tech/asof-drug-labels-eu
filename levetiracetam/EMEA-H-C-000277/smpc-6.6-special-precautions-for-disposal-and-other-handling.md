@@ -35,7 +35,6 @@ Preparation and administration of Keppra concentrate for solution for infusion
 This medicinal product is for single use only, any unused solution should be discarded.
 
 Keppra concentrate for solution for infusion was found to be physically compatible and chemically stable for at least 24 hours when mixed with the following diluents and stored in PVC bags at controlled room temperature 15-25 °C.
-
 Diluents:
 
 - Sodium chloride 9 mg/ml (0.9%) solution for injection

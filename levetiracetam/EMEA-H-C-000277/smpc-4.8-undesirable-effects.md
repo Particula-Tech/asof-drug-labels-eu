@@ -15,28 +15,37 @@ Adverse reactions are presented in the order of decreasing seriousness and their
 | MedDRA SOC | Frequency category |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare | Very rare |
-| Infections and infestations | Nasopharyng itis |  |  | Infection |  |
+| Infections and infestations | Nasopharyngit is |  |  | Infection |  |
 | Blood and lymphatic system disorders |  |  | Thrombocytop enia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
-| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS), Hypersensitivity (including angioedema and anaphylaxis) |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS)(1), Hypersensitivity (including angioedema and anaphylaxis) |  |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder** |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome* |  |
+|  | Very common | Common | Uncommon | Rare | Very rare |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder(2) |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome(3) |  |
 | Eye disorders |  |  | Diplopia, vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |  |
 | Cardiac disorders |  |  |  | Electrocardiogra m QT prolonged |  |
-|  | Very common | Common | Uncommon | Rare | Very rare |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |  |
-| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
+| Gastrointestin al disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |  |
 | Renal and Urinary Disorders |  |  |  | Acute Kidney injury |  |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |  |
-| Musculoskeleta l and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased* |  |
+|  | Very common | Common | Uncommon | Rare | Very rare |
+| Musculoskelet al and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased(3) |  |
 | General disorders and administration site conditions |  | Asthenia/ fatigue |  |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |  |
 
-* Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients. **Very rare cases of development of obsessive-compulsive disorders (OCD) in patients with underlying history of OCD or psychiatric disorders have been observed in post-marketing surveillance.
+(1) See Description of selected adverse reactions.
+(2) Very rare cases of development of obsessive-compulsive disorders (OCD) in patients with underlying history of OCD or psychiatric disorders have been observed in post-marketing surveillance.
+(3) Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients.
 
 Description of selected adverse reactions
+
+Multiorgan hypersensitivity reactions
+Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported rarely in patients treated with levetiracetam.
+Clinical manifestations may develop 2 to 8 weeks after starting treatment.
+These reactions are variable in expression, but typically present with fever, rash, facial oedema, lymphadenopathies, haematologic abnormalities and can be associated with involvement of different organ systems, mostly the liver.
+If multiorgan hypersensitivity reaction is suspected, levetiracetam should be discontinued.
 
 The risk of anorexia is higher when levetiracetam is coadministered with topiramate.
 In several cases of alopecia, recovery was observed when levetiracetam was discontinued.
@@ -79,20 +88,20 @@ The adverse reaction profile presented below is based on the analysis of pooled 
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Infections and infestations | Nasopharyng itis |  |  | Infection |  |
 | Blood and lymphatic system disorders |  |  | Thrombocytop enia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
-| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS), Hypersensitivity (including angioedema and anaphylaxis) |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS)(1), Hypersensitivity (including angioedema and anaphylaxis) |  |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder** |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome* |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder(2) |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome(3) |  |
 | Eye disorders |  |  | Diplopia, vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |  |
 | Cardiac disorders |  |  |  | Electrocardiogra m QT prolonged |  |
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |  |
-| Gastrointestina l disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
+| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |  |
 | Renal and Urinary Disorders |  |  |  | Acute Kidney injury |  |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |  |
-| Musculoskeleta l and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased* |  |
+| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased(3) |  |
 | General disorders and administration site conditions |  | Asthenia/ fatigue |  |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |  |
 
@@ -103,21 +112,21 @@ The adverse reaction profile presented below is based on the analysis of pooled 
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Infections and infestations | Nasopharyng itis |  |  | Infection |  |
 | Blood and lymphatic system disorders |  |  | Thrombocytop enia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
-| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS), Hypersensitivity (including angioedema and anaphylaxis) |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS)(1), Hypersensitivity (including angioedema and anaphylaxis) |  |
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder** |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome* |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder(2) |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome(3) |  |
 | Eye disorders |  |  | Diplopia, vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |  |
 | Cardiac disorders |  |  |  | Electrocardiogra m QT prolonged |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |  |
-| Gastrointestina l disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
+| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |  |
 | Renal and Urinary Disorders |  |  |  | Acute Kidney injury |  |
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |  |
-| Musculoskelet al and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased* |  |
+| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased(3) |  |
 | General disorders and administration site conditions |  | Asthenia/ fatigue |  |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |  |
 
@@ -127,11 +136,11 @@ The adverse reaction profile presented below is based on the analysis of pooled 
 | --- | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Infections and infestations | Nasopharyng itis |  |  | Infection |  |
-| Blood and lymphatic system disorders |  |  | Thrombocytop enia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
-| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS), Hypersensitivity (including angioedema and anaphylaxis) |  |
+| Blood and lymphatic system disorders |  |  | Thrombocyto penia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS)(1), Hypersensitivity (including angioedema and anaphylaxis) |  |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |  |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation, | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder** |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/atax ia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome* |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation, | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsiv e disorder(2) |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/atax ia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome(3) |  |
 | Eye disorders |  |  | Diplopia, vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |  |
 | Cardiac disorders |  |  |  | Electrocardiogra m QT prolonged |  |
@@ -141,7 +150,7 @@ The adverse reaction profile presented below is based on the analysis of pooled 
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |  |
 | Renal and Urinary Disorders |  |  |  | Acute Kidney injury |  |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |  |
-| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased* |  |
+| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysi s and blood creatine phosphokinase increased(3) |  |
 | General disorders and administration site conditions |  | Asthenia/ fatigue |  |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |  |
 
@@ -152,24 +161,24 @@ The adverse reaction profile presented below is based on the analysis of pooled 
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Infections and infestations | Nasopharyng itis |  |  | Infection |  |
 | Blood and lymphatic system disorders |  |  | Thrombocytop enia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
-| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS), Hypersensitivity (including angioedema and anaphylaxis) |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS)(1), Hypersensitivity (including angioedema and anaphylaxis) |  |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |  |
 
 | MedDRA SOC | Frequency category |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Very common | Common | Uncommon | Rare | Very rare |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness / irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder** |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome* |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness / irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder(2) |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/ataxi a, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome(3) |  |
 | Eye disorders |  |  | Diplopia, vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |  |
 | Cardiac disorders |  |  |  | Electrocardiogra m QT prolonged |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough |  |  |  |
-| Gastrointestin al disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
+| Gastrointestinal disorders |  | Abdominal pain, diarrhoea, dyspepsia, vomiting, nausea |  | Pancreatitis |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal | Hepatic failure, hepatitis |  |
 | Renal and Urinary Disorders |  |  |  | Acute Kidney injury |  |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |  |
 |  | Very common | Common | Uncommon | Rare | Very rare |
-| Musculoskelet al and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased* |  |
+| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased(3) |  |
 | General disorders and administration site conditions |  | Asthenia/ fatigue |  |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |  |
 
@@ -182,11 +191,11 @@ Since there was limited exposure for Keppra intravenous use and since oral and i
 |  | Very common | Common | Uncommon | Rare | Very rare |
 | Infections and infestations | Nasopharyng itis |  |  | Infection |  |
 | Blood and lymphatic system disorders |  |  | Thrombocytop enia, leukopenia | Pancytopenia, neutropenia, agranulocytosis |  |
-| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS), Hypersensitivity (including angioedema and anaphylaxis) |  |
+| Immune system disorders |  |  |  | Drug reaction with eosinophilia and systemic symptoms (DRESS)(1), Hypersensitivity (including angioedema and anaphylaxis) |  |
 | Metabolism and nutrition disorders |  | Anorexia | Weight decreased, weight increase | Hyponatraemia |  |
 |  | Very common | Common | Uncommon | Rare | Very rare |
-| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder** |
-| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/atax ia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome* |  |
+| Psychiatric disorders |  | Depression, hostility/ aggression, anxiety, insomnia, nervousness /irritability | Suicide attempt, suicidal ideation, psychotic disorder, abnormal behaviour, hallucination, anger, confusional state, panic attack, affect lability/mood swings, agitation | Completed suicide, personality disorder, thinking abnormal, delirium | Obsessive compulsive disorder(2) |
+| Nervous system disorders | Somnolence, headache | Convulsion, balance disorder, dizziness, lethargy, tremor | Amnesia, memory impairment, coordination abnormal/atax ia, paraesthesia, disturbance in attention | Choreoathetosis, dyskinesia, hyperkinesia, gait disturbance, encephalopathy, seizures aggravated, Neuroleptic malignant syndrome(3) |  |
 | Eye disorders |  |  | Diplopia, vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo |  |  |  |
 | Cardiac disorders |  |  |  | Electrocardiogra m QT prolonged |  |
@@ -196,6 +205,6 @@ Since there was limited exposure for Keppra intravenous use and since oral and i
 | Renal and Urinary Disorders |  |  |  | Acute Kidney injury |  |
 | Skin and subcutaneous tissue disorders |  | Rash | Alopecia, eczema, pruritus, | Toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme |  |
 |  | Very common | Common | Uncommon | Rare | Very rare |
-| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased* |  |
+| Musculoskeletal and connective tissue disorders |  |  | Muscular weakness, myalgia | Rhabdomyolysis and blood creatine phosphokinase increased(3) |  |
 | General disorders and administration site conditions |  | Asthenia/ fatigue |  |  |  |
 | Injury, poisoning and procedural complications |  |  | Injury |  |  |

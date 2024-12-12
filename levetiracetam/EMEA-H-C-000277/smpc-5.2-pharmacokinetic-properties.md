@@ -10,7 +10,6 @@ Due to its complete and linear absorption, plasma levels can be predicted from t
 Therefore, there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
-
 Adults and adolescents
 
 Absorption
@@ -93,8 +92,7 @@ The apparent body clearance was 1.1 ml/min/kg.
 
 Infants and children (1 month to 4 years)
 
-Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children
-(1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children (1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
 The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 ml/min/kg) than for adults (0.96 ml/min/kg).
 
 In the population pharmacokinetic analysis conducted in patients from 1 month to 16 years of age, body weight was significantly correlated to apparent clearance (clearance increased with an increase in body weight) and apparent volume of distribution.

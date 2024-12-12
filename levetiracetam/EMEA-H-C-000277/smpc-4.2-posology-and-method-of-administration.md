@@ -199,7 +199,7 @@ Dose recommendations for infants aged from 1 month to less than 6 months:
 | --- | --- | --- |
 | 4 kg | 28 mg (0.3 ml) twice daily | 84 mg (0.85 ml) twice daily |
 | 5 kg | 35 mg (0.35 ml) twice daily | 105 mg (1.05 ml) twice daily |
-| 7 kg | 49 mg (0.5 ml)twice daily | 147 mg (1.5 ml) twice daily |
+| 7 kg | 49 mg (0.5 ml) twice daily | 147 mg (1.5 ml) twice daily |
 
 Three presentations are available:
 
@@ -207,7 +207,7 @@ Three presentations are available:
 
 This presentation should be prescribed for children aged 4 years and older, adolescents and adults.
 
-- A 150 ml bottle with a 3 ml oral syringe (delivering up to 300 mg levetiracetam) graduated every 0.1 ml (corresponding to 10 mg)
+- A 150 ml bottle with a 5 ml oral syringe (delivering up to 500 mg levetiracetam) graduated every 0.1 ml (corresponding to 10 mg) from 0.3 ml to 5 ml and every 0.25 ml (corresponding to 25 mg) from 0.25 ml to 5 ml.
 
 In order to ensure the accuracy of the dosing, this presentation should be prescribed for infants and young children aged from 6 months to less than 4 years.
 

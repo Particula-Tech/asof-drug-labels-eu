@@ -22,7 +22,7 @@ Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60
 
 300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 10 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
 
-150 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 3 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
+150 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 5 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
 
 150 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a 1 ml graduated oral syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
 

@@ -5,6 +5,7 @@ Croscarmellose sodium
 Macrogol 6000
 Silica colloidal anhydrous
 Magnesium stearate
+
 Film-coating
 Polyvinyl alcohol-part.hydrolyzed
 Titanium dioxide (E171)
