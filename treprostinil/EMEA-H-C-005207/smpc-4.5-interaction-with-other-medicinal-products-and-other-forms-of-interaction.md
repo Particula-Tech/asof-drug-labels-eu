@@ -25,7 +25,9 @@ Also other CYP2C8 inducers (e.g. phenytoin, carbamazepine, phenobarbital and St.
 In case a CYP2C8 inhibitor is added to or omitted from the patient’s treatment after the titration phase, a dose adjustment of treprostinil has to be considered.
 
 Concomitant administration with bosentan
+
 In a pharmacokinetic study in humans, in which bosentan (250 mg/day) and treprostinil diolamine (oral dose of 2 mg/day) were administered concomitantly, no pharmacokinetic interaction between treprostinil and bosentan was observed.
 
 Concomitant administration with sildenafil
+
 In a pharmacokinetic study in humans, in which sildenafil (60mg/day) and treprostinil diolamine (oral dose of 2 mg/day) were administered concomitantly, no pharmacokinetic interaction between treprostinil and sildenafil was observed.

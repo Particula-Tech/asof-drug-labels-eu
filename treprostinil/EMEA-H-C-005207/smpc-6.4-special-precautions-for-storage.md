@@ -2,4 +2,4 @@
 
 This medicinal product does not require any special storage conditions.
 
-For in-use storage times and conditions see section 6.3.
+For storage conditions after first opening of the medicinal product, see section 6.3.
