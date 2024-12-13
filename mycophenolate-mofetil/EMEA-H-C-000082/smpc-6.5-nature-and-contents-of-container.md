@@ -16,10 +16,10 @@ CellCept 500 mg powder for concentrate for solution for infusion is available in
 [CellCept 1 g/5 ml powder for oral suspension]
 
 Each bottle contains 35 g mycophenolate mofetil in 110 g powder for oral suspension.
-When reconstituted, the volume of the suspension is 175 mL, providing a usable volume of 160 – 165 ml.
+When reconstituted, the volume of the suspension is 175 ml, providing a usable volume of 160 – 165 ml.
 5 ml of the reconstituted suspension contains 1 g of mycophenolate mofetil.
 A bottle adapter and 2 oral dispensers are also provided.
 
 [CellCept 500 mg film-coated tablets]
 
-CellCept 500 mg film-coated tablets: 1 carton contains 50 tablets (in blister packs of 10) multipacks containing 150 (3 packs of 50) tablets Not all pack sizes may be marketed.
+CellCept 500 mg film-coated tablets: 1 carton contains 50 tablets (in blister packs of 10) multipacks containing 150 (3 packs of 50) tablets

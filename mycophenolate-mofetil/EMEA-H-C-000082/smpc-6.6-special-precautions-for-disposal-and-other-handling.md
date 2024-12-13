@@ -1,5 +1,6 @@
 # 6.6 Special precautions for disposal
 
+This medicinal product may pose a risk to the environment (see section 5.3).
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [CellCept 500 mg powder for concentrate for solution for infusion]
@@ -7,7 +8,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 Preparation of Infusion Solution (6 mg/ml)
 
 CellCept 500 mg powder for concentrate for solution for infusion does not contain an antibacterial preservative; therefore, reconstitution and dilution of the product must be performed under aseptic conditions.
-
 CellCept 500 mg powder for concentrate for solution for infusion must be prepared in two steps: the first step is a reconstitution step with glucose intravenous infusion 5% and the second step is a dilution step with glucose intravenous infusion 5%.
 A detailed description of the preparation is given below:
 
@@ -20,7 +20,7 @@ c. Inspect the resulting solution for particulate matter and discolouration prio
 Discard the vial if particulate matter or discolouration is observed.
 
 Step 2 a. Further dilute the content of the two reconstituted vials (approx. 2 x 15 ml) into 140 ml of glucose intravenous infusion 5%.
-The final concentration of the solution is 6 mg/mL mycophenolate mofetil.
+The final concentration of the solution is 6 mg/ml mycophenolate mofetil.
 
 b. Inspect the infusion solution for particulate matter or discolouration.
 Discard the infusion solution if particulate matter or discolouration is observed.

@@ -14,7 +14,10 @@ The haematopoietic and lymphoid systems were the primary organs affected in toxi
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day for renal transplant recipients.
 Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose.
 Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure).
-The nonclinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
+The non-clinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
+
+Environmental Risk Assessment (ERA)
+Environmental risk assessment studies have shown that the active substance, MPA may pose a risk for groundwater via bank filtration.
 
 [CellCept 500 mg powder for concentrate for solution for infusion]
 
