@@ -17,9 +17,9 @@ All patients should be monitored for a period of 6 hours for signs and symptoms 
 Continuous (real time) ECG monitoring during this 6 hour period is recommended.
 
 The same precautions as for the first dose are recommended when patients are switched from the 0.25 mg to the 0.5 mg daily dose.
-
 Should post-dose bradyarrhythmia-related symptoms occur, appropriate clinical management should be initiated and monitoring should be continued until the symptoms have resolved.
 Should a patient require pharmacological intervention during the first-dose monitoring, overnight monitoring in a medical facility should be instituted and the first-dose monitoring should be repeated after the second dose of Gilenya.
+
 If the heart rate at 6 hours is the lowest since the first dose was administered (suggesting that the maximum pharmacodynamic effect on the heart may not yet be manifest), monitoring should be extended by at least 2 hours and until heart rate increases again.
 Additionally, if after 6 hours, the heart rate is <45 bpm in adults, <55 bpm in paediatric patients aged 12 years and above, or <60 bpm in paediatric patients aged 10 to below 12 years, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved.
 The occurrence at any time of third degree AV block should also lead to extended monitoring (at least overnight monitoring).
@@ -44,11 +44,11 @@ Because of the potential additive effect on heart rate, treatment with Gilenya s
 In such patients, treatment with Gilenya should be considered only if the anticipated benefits outweigh the potential risks.
 If treatment with Gilenya is considered, advice from a cardiologist should be sought regarding the switch to non heart-rate lowering medicinal products prior to initiation of treatment.
 If the heart-rate-lowering treatment cannot be stopped, cardiologist’s advice should be sought to determine appropriate first dose monitoring, at least overnight extended monitoring is recommended (see also section 4.5).
-
 QT interval
 
 In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTcI, with the upper limit of the 90% CI ≤13.0 ms. There is no dose- or exposure-response relationship of fingolimod and QTcI prolongation.
 There is no consistent signal of increased incidence of QTcI outliers, either absolute or change from baseline, associated with fingolimod treatment.
+
 The clinical relevance of this finding is unknown.
 In the multiple sclerosis studies, clinically relevant effects on prolongation of the QTc-interval have not been observed but patients at risk for QT prolongation were not included in clinical studies.
 
@@ -58,7 +58,7 @@ Immunosuppressive effects
 
 Fingolimod has an immunosuppressive effect that predisposes patients to an infection risk, including opportunistic infections that can be fatal, and increases the risk of developing lymphomas and other malignancies, particularly those of the skin.
 Physicians should carefully monitor patients, especially those with concurrent conditions or known factors, such as previous immunosuppressive therapy.
-If this risk is suspected, discontinuation of treatment should be considered by the physician on a case-by-case basis (see also section 4.4 “Infections” and “Cutaneous neoplasms” and section 4.8 “Lymphomas”).
+If this risk is suspected, discontinuation of treatment should be considered by the physician on a case-by-case basis (see also section 4.4 “Infections” and “Cutaneous malignancies” and section 4.8 “Lymphomas”).
 
 Infections
 
@@ -80,10 +80,10 @@ Suspension of Gilenya should be considered if a patient develops a serious infec
 
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
-
 Herpes viral infection
 Serious, life-threatening, and sometimes fatal cases of encephalitis, meningitis or meningoencephalitis caused by herpes simplex and varicella zoster viruses have occurred with Gilenya at any time during treatment.
 If herpes encephalitis, meningitis or meningoencephalitis occur, Gilenya should be discontinued and appropriate treatment for the respective infection should be administered.
+
 Patients need to be assessed for their immunity to varicella (chickenpox) prior to Gilenya treatment.
 It is recommended that patients without a health care professional confirmed history of chickenpox or documentation of a full course of vaccination with varicella vaccine undergo antibody testing to varicella zoster virus (VZV) before initiating fingolimod therapy.
 A full course of vaccination for antibody-negative patients with varicella vaccine is recommended prior to commencing treatment with Gilenya (see section 4.8).
@@ -96,21 +96,26 @@ If cryptococcal meningitis is diagnosed, fingolimod should be suspended and appr
 A multidisciplinary consultation (i.e. infectious disease specialist) should be undertaken if re-initiation of fingolimod is warranted.
 
 Progressive multifocal leukoencephalopathy
-Progressive multifocal leukoencephalopathy (PML) has been reported under fingolimod treatment since marketing authorisation (see section 4.8).
+PML has been reported under fingolimod treatment since marketing authorisation (see section 4.8).
 PML is an opportunistic infection caused by John Cunningham virus (JCV), which may be fatal or result in severe disability.
-Cases of PML have occurred after approximately 2-3 years of monotherapy treatment without previous exposure to natalizumab.
-Although the estimated risk appears to increase with cumulative exposure over time, an exact relationship with the duration of treatment is unknown.
-Additional PML cases have occurred in patients who had been treated previously with natalizumab, which has a known association with PML.
+The majority of PML cases have occurred after 2 or more years of fingolimod treatment.
+In addition to duration of fingolimod exposure, other potential risk factors for PML include prior therapy with immunosuppressants or immunomodulators, and/or severe lymphopenia (<0.5x109/l).
+Patients at increased risk should be closely monitored for any signs or symptoms of PML.
 PML can only occur in the presence of a JCV infection.
 If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody testing has not been studied in fingolimod-treated patients.
-It should also be noted that a negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection.
+A negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection.
 Before initiating treatment with fingolimod, a baseline MRI should be available (usually within 3 months) as a reference.
-MRI findings may be apparent before clinical signs or symptoms.
 During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions.
-MRI may be considered as part of increased vigilance in patients considered at increased risk of PML.
+MRI findings may be apparent before clinical signs or symptoms.
+Annual MRIs may be considered as part of increased vigilance especially in patients at increased risk of PML.
 Cases of asymptomatic PML based on MRI findings and positive JCV DNA in the cerebrospinal fluid have been reported in patients treated with fingolimod.
 If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment with fingolimod should be suspended until PML has been excluded.
+If PML is confirmed, treatment with fingolimod must be permanently discontinued (see also section 4.3).
 
+Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with sphingosine 1-phosphate (S1P) receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment.
+IRIS presents as a clinical decline in the patient’s condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI.
+The time to onset of IRIS in patients with PML was usually from weeks to months after S1P receptor modulator discontinuation.
+Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 Human papilloma virus infection
 Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting (see section 4.8).
 Due to the immunosuppressive properties of fingolimod, vaccination against HPV should be considered prior to treatment initiation with fingolimod taking into account vaccination recommendations.
@@ -121,6 +126,7 @@ Macular oedema
 Macular oedema with or without visual symptoms has been reported in 0.5% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
 An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation.
 If patients report visual disturbances at any time while on therapy, evaluation of the fundus, including the macula, should be carried out.
+
 Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8).
 Fingolimod has not been studied in multiple sclerosis patients with concomitant diabetes mellitus.
 It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
@@ -144,7 +150,6 @@ Serum transaminase levels returned to normal within approximately 2 months after
 Fingolimod has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
-
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment.
 In the absence of clinical symptoms, liver transaminases and serum bilirubin should be monitored at months 1, 3, 6, 9 and 12 on therapy and periodically thereafter until 2 months after Gilenya discontinuation.
 In the absence of clinical symptoms, if liver transaminases are greater than 3 but less than 5 times the ULN without increase in serum bilirubin, more frequent monitoring including serum bilirubin and alkaline phosphatase (ALP) measurement should be instituted to determine if further increases occur and in order to discern if an alternative aetiology of hepatic dysfunction is present.
@@ -156,6 +161,7 @@ Patients who develop symptoms suggestive of hepatic dysfunction, such as unexpla
 Treatment should not be resumed unless a plausible alternative aetiology for the signs and symptoms of liver injury can be established.
 
 Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking Gilenya, caution in the use of Gilenya should be exercised in patients with a history of significant liver disease.
+
 Blood pressure effects
 
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
@@ -176,7 +182,6 @@ Symptoms reported included sudden onset of severe headache, nausea, vomiting, al
 Symptoms of PRES are usually reversible but may evolve into ischaemic stroke or cerebral haemorrhage.
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
 If PRES is suspected, Gilenya should be discontinued.
-
 Prior treatment with immunosuppressive or immunomodulatory therapies
 
 There have been no studies performed to evaluate the efficacy and safety of fingolimod when switching patients from teriflunomide, dimethyl fumarate or alemtuzumab treatment to Gilenya.
@@ -197,6 +202,7 @@ Alemtuzumab has profound and prolonged immunosuppressive effects.
 As the actual duration of these effects is unknown, initiating treatment with Gilenya after alemtuzumab is not recommended unless the benefits of such treatment clearly outweigh the risks for the individual patient.
 
 A decision to use prolonged concomitant treatment with corticosteroids should be taken after careful consideration.
+
 Co-administration with potent CYP450 inducers
 
 The combination of fingolimod with potent CYP450 inducers should be used with caution.
@@ -218,7 +224,6 @@ The cases reported were heterogeneous in nature, mainly non-Hodgkin’s lymphoma
 Cases of cutaneous T-cell lymphoma (mycosis fungoides) have been observed.
 A fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma has also been observed.
 If lymphoma is suspected, treatment should be discontinued.
-
 Women of childbearing potential
 
 Due to risk to the foetus, fingolimod is contraindicated during pregnancy and in women of childbearing potential not using effective contraception.
@@ -236,12 +241,15 @@ In the post-marketing setting, severe exacerbation of disease has been observed 
 This has generally been observed within 12 weeks after stopping fingolimod, but has also been reported up to 24 weeks after fingolimod discontinuation.
 Caution is therefore indicated when stopping fingolimod therapy.
 If discontinuation of fingolimod is deemed necessary, the possibility of recurrence of exceptionally high disease activity should be considered and patients should be monitored for relevant signs and symptoms and appropriate treatment initiated as required (see “Stopping therapy” below).
+
 Stopping therapy
 
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2).
 Lymphocyte counts progressively return to normal range within 1-2 months of stopping therapy in most patients (see section 5.1) although full recovery can take significantly longer in some patients.
 Starting other therapies during this interval will result in concomitant exposure to fingolimod.
 Use of immunosuppressants soon after the discontinuation of Gilenya may lead to an additive effect on the immune system and caution is therefore indicated.
+
+After stopping fingolimod in the setting of PML, it is recommended to monitor patients for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see “Progressive multifocal leukoencephalopathy” above).
 
 Caution is also indicated when stopping fingolimod therapy due to the risk of a rebound (see “Return of disease activity (rebound) after fingolimod discontinuation” above).
 If discontinuation of Gilenya is deemed necessary, patients should be monitored during this time for relevant signs of a possible rebound.
@@ -250,7 +258,6 @@ Interference with serological testing
 
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
-
 Paediatric population
 
 The safety profile in paediatric patients is similar to that in adults and the warnings and precautions for adults therefore also apply to paediatric patients.

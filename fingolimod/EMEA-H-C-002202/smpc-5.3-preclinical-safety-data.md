@@ -18,9 +18,9 @@ Drug exposure in rabbits at these doses was similar to that in patients.
 
 In rats, F1 generation pup survival was decreased in the early postpartum period at doses that did not cause maternal toxicity.
 However, F1 body weights, development, behaviour, and fertility were not affected by treatment with fingolimod.
+
 Fingolimod was excreted in milk of treated animals during lactation at concentrations 2-fold to 3-fold higher than that found in maternal plasma.
 Fingolimod and its metabolites crossed the placental barrier in pregnant rabbits.
-
 Juvenile animal studies
 
 Results from two toxicity studies in juvenile rats showed slight effects on neurobehavioural response, delayed sexual maturation and a decreased immune response to repeated stimulations with keyhole limpet haemocyanin (KLH), which were not considered adverse.

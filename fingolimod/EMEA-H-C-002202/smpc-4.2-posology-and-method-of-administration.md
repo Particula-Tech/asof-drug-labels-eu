@@ -40,7 +40,6 @@ Paediatric population
 The safety and efficacy of fingolimod in children aged below 10 years have not yet been established.
 No data are available.
 There are very limited data available in children between 10–12 years old (see sections 4.4, 4.8 and 5.1).
-
 Method of administration
 
 This medicinal product is for oral use.

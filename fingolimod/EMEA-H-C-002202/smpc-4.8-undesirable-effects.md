@@ -7,7 +7,7 @@ The most frequent adverse reactions (incidence ≥10%) at the 0.5 mg dose were h
 Tabulated list of adverse reactions
 
 Adverse reactions reported in clinical trials and derived from post-marketing experience via spontaneous case reports or literature cases are shown below.
-Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 | Infections and infestations |  |
@@ -27,7 +27,7 @@ Within each frequency grouping, adverse reactions are presented in the order of 
 | Uncommon: | Thrombocytopenia |
 | Not known: | Autoimmune haemolytic anaemia*** Peripheral oedema*** |
 | Immune system disorders |  |
-| Not known: | Hypersensitivity reactions, including rash, urticaria and angioedema upon treatment initiation*** |
+| Not known: | Hypersensitivity reactions, including rash, urticaria and angioedema upon treatment initiation*** Immune reconstitution inflammatory syndrome (IRIS)** |
 | Psychiatric disorders |  |
 | Common: | Depression |
 | Uncommon: | Depressed mood |
@@ -64,7 +64,7 @@ Within each frequency grouping, adverse reactions are presented in the order of 
 | Very common: | Hepatic enzyme increased (increased alanine transaminase, gamma glutamyltransferase, aspartate transaminase) |
 | Common: | Weight decreased*** Blood triglycerides increased |
 | Uncommon: | Neutrophil count decreased |
-| * The frequency category was based on an estimated exposure of approximately 10,000 patients to fingolimod in all clinical trials. ** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse reactions from spontaneous reports and literature **** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials. |  |
+| * The frequency category was based on an estimated exposure of approximately 10 000 patients to fingolimod in all clinical trials. ** PML, IRIS and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse reactions from spontaneous reports and literature **** The frequency category and risk assessment were based on an estimated exposure of more than 24 000 patients to fingolimod 0.5 mg in all clinical trials. |  |
 
 Description of selected adverse reactions
 
@@ -72,8 +72,8 @@ Infections
 In multiple sclerosis clinical studies the overall rate of infections (65.1%) at the 0.5 mg dose was similar to placebo.
 However, lower respiratory tract infections, primarily bronchitis and to a lesser extent herpes infection and pneumonia were more common in fingolimod-treated patients.
 Some cases of disseminated herpes infection, including fatal cases, have been reported even at the 0.5 mg dose.
-In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported, some of which have been fatal (see section 4.4).
 
+In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported, some of which have been fatal (see section 4.4).
 Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting (see section 4.4).
 Due to the immunosuppressive properties of fingolimod, vaccination against HPV should be considered prior to treatment initiation with fingolimod taking into account vaccination recommendations.
 Cancer screening, including Pap test, is recommended as per standard of care.

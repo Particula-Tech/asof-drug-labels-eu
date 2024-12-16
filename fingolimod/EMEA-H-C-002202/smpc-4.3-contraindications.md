@@ -2,6 +2,7 @@
 
 - Immunodeficiency syndrome.
 - Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies).
+- Suspected or confirmed progressive multifocal leukoencephalopathy (PML) (see section 4.4).
 - Severe active infections, active chronic infections (hepatitis, tuberculosis).
 - Active malignancies.
 - Severe liver impairment (Child-Pugh class C).

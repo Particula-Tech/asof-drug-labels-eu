@@ -6,6 +6,7 @@ Anti-neoplastic, immunomodulatory or immunosuppressive therapies should not be c
 
 Caution should also be exercised when switching patients from long-acting therapies with immune effects such as natalizumab, teriflunomide or mitoxantrone (see section 4.4).
 In multiple sclerosis clinical studies the concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
+
 Vaccination
 
 During and for up to two months after treatment with Gilenya vaccination may be less effective.
@@ -17,7 +18,6 @@ Fingolimod has been studied in combination with atenolol and diltiazem.
 When fingolimod was used with atenolol in an interaction study in healthy volunteers, there was an additional 15% reduction of heart rate at fingolimod treatment initiation, an effect not seen with diltiazem.
 Treatment with Gilenya should not be initiated in patients receiving beta blockers, or other substances which may decrease heart rate, such as class Ia and III antiarrhythmics, calcium channel blockers (such as verapamil or diltiazem), ivabradine, digoxin, anticholinesteratic agents or pilocarpine because of the potential additive effects on heart rate (see sections 4.4 and 4.8).
 If treatment with Gilenya is considered in such patients, advice from a cardiologist should be sought regarding the switch to non-heart-rate lowering medicinal products or appropriate monitoring for treatment initiation, at least overnight monitoring is recommended, if the heart-rate-lowering medication cannot be stopped.
-
 Pharmacokinetic interactions of other substances on fingolimod
 
 Fingolimod is metabolised mainly by CYP4F2.

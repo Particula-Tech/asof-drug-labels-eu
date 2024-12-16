@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AA27
+Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AE01
 
 Mechanism of action
 
@@ -48,7 +48,7 @@ Both studies included adult patients who had experienced ≥2 relapses in the pr
 Expanded Disability Status Score (EDSS) was between 0 and 5.5.
 A third study targeting the same adult patient population was completed after registration of Gilenya.
 
-Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1,272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo).
+Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1 272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo).
 Median values for baseline characteristics were: age 37 years, disease duration 6.7 years, and EDSS score 2.0.
 Outcome results are shown in Table 1.
 There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards either endpoint.
@@ -72,7 +72,7 @@ In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25
 After 12 months (month 36), 856 patients (93%) were still enrolled.
 Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study).
 The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
-Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
+Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1 083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
 
 Table 2 Study D2309 (FREEDOMS 2): main results
@@ -89,11 +89,10 @@ Table 2 Study D2309 (FREEDOMS 2): main results
 | Median (mean) % change in brain volume over 24 months | -0.71 (-0.86)** | -1.02 (-1.28) |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |  |  |
 
-Study D2302 (TRANSFORMS) was a 1-year randomised, double-blind, double-dummy, active (interferon beta-1a)-controlled Phase III study of 1,280 patients (n=429 on 0.5 mg, 420 on 1.25 mg, 431 on interferon beta-1a, 30 µg by intramuscular injection once weekly).
+Study D2302 (TRANSFORMS) was a 1-year randomised, double-blind, double-dummy, active (interferon beta-1a)-controlled Phase III study of 1 280 patients (n=429 on 0.5 mg, 420 on 1.25 mg, 431 on interferon beta-1a, 30 µg by intramuscular injection once weekly).
 Median values for baseline characteristics were: age 36 years, disease duration 5.9 years, and EDSS score 2.0.
 Outcome results are shown in Table 3.
 There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards study endpoints.
-
 Table 3 Study D2302 (TRANSFORMS): main results
 
 |  | Fingolimod 0.5 mg | Interferon beta-1a, 30 μg |
@@ -109,7 +108,7 @@ Table 3 Study D2302 (TRANSFORMS): main results
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |  |  |
 
 Patients who completed the 12-month core TRANSFORMS study could enter a dose-blinded extension (D2302E1) and receive fingolimod.
-In total, 1,030 patients entered, however, 3 of these patients did not receive treatment (n=356 continued on 0.5 mg, 330 continued on 1.25 mg, 167 switched from interferon beta-1a to 0.5 mg and 174 from interferon beta-1a to 1.25 mg).
+In total, 1 030 patients entered, however, 3 of these patients did not receive treatment (n=356 continued on 0.5 mg, 330 continued on 1.25 mg, 167 switched from interferon beta-1a to 0.5 mg and 174 from interferon beta-1a to 1.25 mg).
 After 12 months (month 24), 882 patients (86%) were still enrolled.
 Between months 12 and 24, the ARR for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.20 (0.19 in the core study).
 The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg was 0.33 (0.48 in the core study).
@@ -117,6 +116,7 @@ The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg w
 Pooled results of Studies D2301 and D2302 showed a consistent and statistically significant reduction in annualised relapse rate compared to comparator in subgroups defined by gender, age, prior multiple sclerosis therapy, disease activity or disability levels at baseline.
 
 Further analyses of clinical trial data demonstrate consistent treatment effects in highly active subgroups of relapsing remitting multiple sclerosis patients.
+
 Paediatric population
 
 The efficacy and safety of once-daily doses of fingolimod 0.25 mg or 0.5 mg (dose selected based on body weight and exposure measurements) have been established in paediatric patients aged 10 to
@@ -128,7 +128,6 @@ Median values for baseline characteristics were: age 16 years, median disease du
 The majority of patients were Tanner stage 2 or higher (94.4%) and were >40 kg (95.3%).
 Overall, 180 (84%) of patients completed the core phase on study drug (n=99 [92.5%] on fingolimod, 81 [75%] on interferon beta-1a).
 Outcome results are shown in Table 4.
-
 Table 4 Study D2311 (PARADIGMS): main results
 
 |  | Fingolimod 0.25 mg or 0.5 mg | Interferon beta-1a 30 µg |
