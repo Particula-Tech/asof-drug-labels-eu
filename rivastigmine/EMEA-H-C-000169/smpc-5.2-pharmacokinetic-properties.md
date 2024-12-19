@@ -12,11 +12,11 @@ Distribution
 
 Protein binding of rivastigmine is approximately 40%.
 It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8–2.7 l/kg.
+
 Biotransformation
 
 Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite.
 In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
-
 Based on in vitro studies, no pharmacokinetic interaction is expected with medicinal products metabolised by the following cytochromes isoemzymes: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, CYP2C19, or CYP2B6.
 Based on evidence from animal studies the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 Total plasma clearance of rivastigmine was approximately 130 l/h after a 0.2 mg intravenous dose and decreased to 70 l/h after a 2.7 mg intravenous dose.
@@ -58,7 +58,6 @@ Although less pronounced than with the oral formulation, exposure to rivastigmin
 The fluctuation index (FI), a measure of the relative difference between peak and trough concentrations ((Cmax-Cmin)/Cavg), was 0.58 for Exelon 4.6 mg/24 h transdermal patches, 0.77 for Exelon 9.5 mg/24 h transdermal patches and 0.72 for Exelon 13.3 mg/24 h transdermal patches, thus demonstrating a much smaller fluctuation between trough and peak concentrations than for the oral formulation (FI = 3.96 (6 mg/day) and 4.15 (12 mg/day)).
 
 The dose of rivastigmine released from the transdermal patch over 24 hours (mg/24 h) cannot be directly equated to the amount (mg) of rivastigmine contained in a capsule with respect to plasma concentration produced over 24 hours.
-
 The single-dose inter-subject variability in rivastigmine pharmacokinetic parameters (normalised to dose/kg bodyweight) was 43% (Cmax) and 49% (AUC0-24h) after transdermal administration versus 74% and 103%, respectively, after the oral form.
 The inter-patient variability in a steady-state study in Alzheimer’s dementia was at most 45% (Cmax) and 43% (AUC0-24h) after use of the transdermal patch, and 71% and 73%, respectively, after administration of the oral form.
 
@@ -85,7 +84,6 @@ Less NAP226-90 is formed following application of the transdermal patch, presuma
 
 Unchanged rivastigmine is found in trace amounts in the urine; renal excretion of the metabolites is the major route of elimination after transdermal patch administration.
 Following administration of oral 14C-rivastigmine, renal elimination was rapid and essentially complete (>90%) within 24 hours.
-
 A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer’s disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses for up to 12 mg/day.
 
 Age had no impact on the exposure to rivastigmine in Alzheimer’s disease patients treated with Exelon transdermal patches.

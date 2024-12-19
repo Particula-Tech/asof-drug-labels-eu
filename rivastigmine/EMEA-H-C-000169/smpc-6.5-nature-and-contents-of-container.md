@@ -18,7 +18,6 @@ Exelon 9 mg/5 cm2, 18 mg/10 cm2 and 27 mg/15 cm2 transdermal patches are individ
 Exelon 4.6 mg/24 h transdermal patch
 
 Available in packs containing 7, 30 or 42 sachets and in multipacks containing 60, 84 or 90 sachets.
-
 Exelon 9.5 mg/24 h transdermal patch
 
 Exelon 13.3 mg/24 h transdermal patch

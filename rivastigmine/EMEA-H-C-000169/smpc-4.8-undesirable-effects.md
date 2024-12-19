@@ -11,6 +11,7 @@ Adverse reactions in Table 1 and Table 2 are listed according to MedDRA system o
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 The following adverse reactions, listed below in Table 1, have been accumulated in patients with Alzheimer’s dementia treated with Exelon.
+
 Table 1
 
 Infections and infestations
@@ -45,6 +46,9 @@ Rare Seizures
 Very rare Extrapyramidal symptoms (including worsening of
 
 Parkinson’s disease)
+
+Not known Pleurothotonus (Pisa syndrome)
+
 Cardiac disorders
 
 Rare Angina pectoris
@@ -93,8 +97,7 @@ Common Weight loss
 
 The following additional adverse reactions have been observed with Exelon transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
 
-Table 2 shows the adverse reactions reported during clinical studies conducted in patients with dementia associated with Parkinson’s disease treated with Exelon capsules.
-
+Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson’s disease treated with Exelon capsules.
 Table 2
 
 Metabolism and nutrition disorders
@@ -123,6 +126,7 @@ Common Dyskinesia
 Common Hypokinesia
 Common Cogwheel rigidity
 Uncommon Dystonia
+Not Known Pleurothotonus (Pisa syndrome)
 
 Cardiac disorders
 
@@ -161,8 +165,8 @@ Common Gait disturbance
 Common Parkinson gait
 
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson’s disease treated with Exelon transdermal patches: agitation (common).
-Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson’s disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
 
+Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson’s disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
 Table 3
 
 | Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson’s disease | Exelon n (%) | Placebo n (%) |
@@ -184,6 +188,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Application site skin reactions (usually mild to moderate application site erythema), are the most frequent adverse reactions observed with the use of Exelon transdermal patch.
 The next most common adverse reactions are gastrointestinal in nature including nausea and vomiting.
+
 Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category.
 
 Table 1 displays the adverse reactions reported in 1,670 patients with Alzheimer’s dementia treated in randomised, double-blind, placebo and active-controlled clinical studies with Exelon transdermal patches for a duration of 24-48 weeks and from post-marketing data.
@@ -200,7 +205,9 @@ Not known Hallucinations, restlessness, nightmares
 Common Headache, syncope, dizziness
 Uncommon Psychomotor hyperactivity
 Very rare Extrapyramidal symptoms
-Not known Worsening of Parkinson’s disease, seizure, tremor, somnolence
+Not known Worsening of Parkinson’s disease, seizure, tremor, somnolence,
+
+pleurothotonus (Pisa syndrome)
 
 Uncommon Bradycardia
 Not known Atrioventricular block, atrial fibrillation, tachycardia, sick sinus
@@ -230,6 +237,7 @@ application site pruritus*, application site oedema*, application site dermatiti
 Rare Fall
 
 *In a 24-week controlled study in Japanese patients, application site erythema, application site oedema and application site pruritus were reported as “very common”.
+
 Description of selected adverse reactions
 
 When doses higher than 13.3 mg/24 h were used in the above-mentioned placebo-controlled study, insomnia and cardiac failure were observed more frequently than with 13.3 mg/24 h or placebo, suggesting a dose effect relationship.
