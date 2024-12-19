@@ -31,7 +31,6 @@ As pregabalin clearance is directly proportional to creatinine clearance (see se
 CLcr(ml/min) = 1.23×[140 - age (years)] × weight (kg) (× 0.85 for female patients)
 
  serum creatinine (µmol/l) 
-
 Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4 hours).
 For patients receiving haemodialysis, the pregabalin daily dose should be adjusted based on renal function.
 In addition to the daily dose, a supplementary dose should be given immediately following every 4 hour haemodialysis treatment (see Table 1).

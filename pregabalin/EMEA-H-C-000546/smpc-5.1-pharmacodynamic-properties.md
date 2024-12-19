@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Anti-epileptics, other anti-epileptics ATC code: N03AX16
+Pharmacotherapeutic group: Analgesics, other analgesics and antipyretics ATC code: N02BF02
 
 The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(aminomethyl)-5-methylhexanoic acid].
 

@@ -71,7 +71,7 @@ Cases of abuse and misuse have been reported.
 Patients with a history of substance abuse may be at higher risk for pregabalin misuse, abuse and dependence, and pregabalin should be used with caution in such patients.
 Before prescribing pregabalin, the patient’s risk of misuse, abuse or dependence should be carefully evaluated.
 
-Patients treated with pregabalin should be monitored for symptoms of pregabalin misuse, abuse or dependence, such as development of tolerance, dose escalation and drug-seeking behaviour.
+Patients treated with pregabalin should be monitored for signs and symptoms of pregabalin misuse, abuse or dependence, such as development of tolerance, dose escalation and drug-seeking behaviour.
 
 Withdrawal symptoms
 After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed.
