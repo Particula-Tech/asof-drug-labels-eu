@@ -5,10 +5,11 @@ Women of childbearing potential/Contraception in males and females
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving TAGRISSO.
 Patients should be advised to use effective contraception for the following periods after completion of treatment with this medicinal product: at least 2 months for females and 4 months for males.
 A risk for decreased exposure of hormonal contraceptives cannot be excluded.
+
 Pregnancy
 
 There are no or limited amount of data from the use of osimertinib in pregnant women.
-Studies in animals have shown reproductive toxicity (embryolethality, reduced foetal growth, and neonatal death, see section 5.3).
+Studies in animals have shown reproductive toxicity (embryo lethality, reduced foetal growth, and neonatal death, see section 5.3).
 Based on its mechanism of action and preclinical data, osimertinib may cause foetal harm when administered to a pregnant woman.
 TAGRISSO should not be used during pregnancy unless the clinical condition of the woman requires treatment with osimertinib.
 

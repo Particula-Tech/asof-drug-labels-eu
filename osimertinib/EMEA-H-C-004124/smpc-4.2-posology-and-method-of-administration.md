@@ -2,7 +2,7 @@
 
 Treatment with TAGRISSO should be initiated by a physician experienced in the use of anticancer therapies.
 
-When considering the use of TAGRISSO, EGFR mutation status (in tumour specimens for adjuvant treatment and tumour or plasma specimens for locally advanced or metastatic setting) should be determined using a validated test method (see section 4.4).
+When considering the use of TAGRISSO, EGFR mutation status (in tumour specimens for adjuvant treatment or for treatment of locally advanced, unresectable tumours and tumour or plasma specimens for locally advanced or metastatic setting) should be determined using a validated test method (see section 4.4).
 
 Posology
 
@@ -31,12 +31,16 @@ Dosing interruption and/or dose reduction may be required based on individual sa
 If dose reduction is necessary, then the dose should be reduced to 40 mg taken once daily.
 
 Dose reduction guidelines for adverse reactions toxicities are provided in Table 1.
+
 Table 1.
 Recommended dose modifications for TAGRISSO
 
 | Target organ | Adverse reactiona | Dose modification |
 | --- | --- | --- |
-| Pulmonaryb | ILD/Pneumonitis | Discontinue TAGRISSO (see Section 4.4) |
+| Pulmonaryb | ILD/Pneumonitisc | Permanently discontinue TAGRISSO |
+|  | Grade 1 Radiation Pneumonitis | Consider withholding or continue TAGRISSO, as clinically indicated |
+|  | Grade 2 Radiation Pneumonitis | Withhold TAGRISSO until symptoms resolve. TAGRISSO may be restarted. Permanently discontinue if symptoms do not resolve after 4 weeks or Grade 2 Radiation Pneumonitis recurs |
+|  | Grade 3 or 4 Radiation Pneumonitis | Permanently discontinue TAGRISSO |
 | Cardiacb | QTc interval greater than 500 msec on at least 2 separate ECGs | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then restart at a reduced dose (40 mg) |
 |  | QTc interval prolongation with signs/symptoms of serious arrhythmia | Permanently discontinue TAGRISSO |
 | Cutaneousb | Stevens-Johnson Syndrome and Toxic epidermal necrolysis | Permanently discontinue TAGRISSO |
@@ -47,6 +51,7 @@ Recommended dose modifications for TAGRISSO
 
 a Note: The intensity of clinical adverse events graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
 b Refer to section 4.4.
+c ILD/Pneumonitis including ILD/Pneumonitis following definitive platinum-based chemoradiation therapy.
 ECGs: Electrocardiograms; QTc: QT interval corrected for heart rate
 
 Combination therapy
@@ -62,9 +67,10 @@ No dose adjustment is required due to patient age, body weight, gender, ethnicit
 
 Hepatic impairment
 
-Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
+Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5 times ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
 The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment.
 Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
+
 Renal impairment
 
 Based on clinical studies and population PK analysis, no dose adjustments are necessary in patients with mild, moderate, or severe renal impairment.
@@ -87,5 +93,5 @@ An additional half a glass of water should be added to ensure that no residue re
 No other liquids should be added.
 
 If administration via nasogastric tube is required, the same process as above should be followed but using volumes of 15 mL for the initial dispersion and 15 mL for the residue rinses.
-The resulting 30 mL of liquid should be administered as per the naso-gastric tube manufacturer’s instructions with appropriate water flushes.
+The resulting 30 mL of liquid should be administered as per the nasogastric tube manufacturer’s instructions with appropriate water flushes.
 The dispersion and residues should be administered within 30 minutes of the addition of the tablets to water.

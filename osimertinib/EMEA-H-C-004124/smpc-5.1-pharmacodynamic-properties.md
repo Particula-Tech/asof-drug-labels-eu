@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors; ATC code: L01EB04.
+Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors.
+ATC code: L01EB04.
 
 Mechanism of action
 
@@ -22,9 +23,10 @@ A pharmacokinetic/pharmacodynamic analysis predicted a drug-related QTc interval
 Clinical efficacy and safety
 
 Adjuvant treatment of EGFR mutation-positive NSCLC, with or without prior adjuvant chemotherapy – ADAURA
+
 The efficacy and safety of TAGRISSO for the adjuvant treatment of patients with EGFR mutation-positive (Ex19del or L858R) NSCLC who have had complete tumour resection with or without prior adjuvant chemotherapy was demonstrated in a randomised, double-blind, placebo-controlled study (ADAURA).
 
-Eligible patients with resectable tumors stage IB – IIIA (according to American Joint Commission on Cancer [AJCC] 7th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
+Eligible patients with resectable tumors stage IB-IIIA (according to American Joint Commission on Cancer [AJCC] 7th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
 
 Patients were randomised 1:1 to receive TAGRISSO (n=339, 80 mg orally once daily) or placebo (n=343) following recovery from surgery and standard adjuvant chemotherapy where given.
 Patients not receiving adjuvant chemotherapy were randomised within 10 weeks and patients receiving adjuvant chemotherapy within 26 weeks following surgery.
@@ -36,13 +38,12 @@ DFS by investigator assessment in the stage IB-IIIA population (overall populati
 Other additional efficacy outcome measures included DFS rate, overall survival (OS), OS rate, and time to deterioration in health-related quality of life (HRQoL) SF-36.
 
 The baseline demographic and disease characteristics of the overall population were: median age 63 years (range 30-86 years), ≥75 years old (11%), female (70%), Asian (64%), never smokers (72%), World Health Organization (WHO) performance status of 0 (64%) or 1 (36%), stage IB (31%), stage II (34%), and IIIA (35%).
-With regards to EGFR mutation status 55% were exon 19 deletions and 45% were exon 21 L858R substitution mutations; 9 patients (1%) also had a concurrent de novo T790M mutation.
-The majority (60%) of patients received adjuvant chemotherapy prior to randomization (26% IB; 71% IIA; 73% IIB; 80% IIIA).
+With regards to EGFR mutation status, 55% were exon 19 deletions and 45% were exon 21 L858R substitution mutations; 9 patients (1%) also had a concurrent de novo T790M mutation.
+The majority (60%) of patients received adjuvant chemotherapy prior to randomisation (26% IB; 71% IIA; 73% IIB; 80% IIIA).
 At the time of the DFS analysis, 205 (61%) patients were still on active treatment; of the 73 (11%) patients who had the opportunity to complete the 3-year treatment period, 40 (12%) were in the osimertinib arm and 33 (10%) in the placebo arm.
 
 There were 37 patients who had disease recurrence on TAGRISSO.
-The most commonly reported sites of recurrence were: lung (19 patients); lymph nodes (10 patients) and central nervous system (CNS)
-(5 patients).
+The most commonly reported sites of recurrence were: lung (19 patients); lymph nodes (10 patients) and central nervous system (CNS) (5 patients).
 There were 157 patients who had disease recurrence on placebo.
 The most commonly reported sites were: lung (61 patients); lymph nodes (48 patients) and CNS (34 patients).
 
@@ -69,18 +70,18 @@ Efficacy results from ADAURA by investigator assessment
 
 HR=Hazard Ratio; CI=Confidence Interval; NC=Not Calculable
 DFS results based on investigator assessment.
-A HR< 1 favours TAGRISSO.
+A HR <1 favours TAGRISSO.
 Median follow-up time for DFS was 22.1 months for patients receiving TAGRISSO, 14.9 months for patients receiving placebo (stage II-IIIA population) and 16.6 months for patients receiving placebo (stage IB-IIIA population).
 DFS results are from the primary analysis (17 January 2020).
-a Adjusted for an interim analysis (33% maturity) a p-value < 0.0094 was required to achieve statistical significance.
+a Adjusted for an interim analysis (33% maturity) a p-value <0.0094 was required to achieve statistical significance.
 b Adjusted for an interim analysis (29% maturity) a p-value <0.0088 was required to achieve statistical significance.
 c The number of patients at risk at 36 months was 18 patients in the TAGRISSO arm and 9 patients in the placebo arm (stage II-IIIA population).
 d The number of patients at risk at 36 months was 27 patients in the TAGRISSO arm and 20 patients in the placebo arm (stage IB-IIIA population).
 
-The final analysis of OS (data cut-off [DCO]: 27 January 2023) demonstrated a statistically significant improvement in OS for patients treated with TAGRISSO compared to placebo for both the stage II-IIIA population (100 OS events [21% maturity]; HR=0.49; 95.03% CI: 0.33, 0.73; p-value=0.0004) and the overall population (IB-IIIA; 124 OS events [18% maturity]; HR=0.49; 95.03% CI: 0.34, 0.70; p-value
-< 0.0001).
+The final analysis of OS (data cut-off [DCO]: 27 January 2023) demonstrated a statistically significant improvement in OS for patients treated with TAGRISSO compared to placebo for both the stage II-IIIA population (100 OS events [21% maturity]; HR=0.49; 95.03% CI: 0.33, 0.73; p-value=0.0004) and the overall population (IB-IIIA; 124 OS events [18% maturity]; HR=0.49; 95.03% CI: 0.34, 0.70; p-value <0.0001).
 For both populations, the median OS was not reached in either treatment arm and the 95% CIs were not calculable.
 The median follow-up time for OS in all patients was 59.9 months (stage II-IIIA population) and 60.4 months (stage IB-IIIA population) in the TAGRISSO arm and 56.2 months (stage II-IIIA population) and 59.4 months (stage IB-IIIA population) in the placebo arm.
+
 Figure 1.
 Kaplan-Meier curve of disease-free survival in stage II-IIIA patients by investigator assessment
 
@@ -114,18 +115,19 @@ Hazard Ratio = 0.20 99.12% CI (0.14, 0.30)
 
 P-value <0.0001
 
-TAGRISSO
-Placebo
+Number at risk
+
+TAGRISSO TAGRISSO
+Placebo Placebo
 
 Time from randomisation (months)
-Number at risk
-TAGRISSO
-Placebo
+
 + Censored patients.
 The values at the base of the figure indicate number of subjects at risk.
 NC = Not Calculable.
 
 The DFS benefit of TAGRISSO compared to placebo was consistent across all predefined subgroups analysed, including ethnicity, age, gender, and EGFR mutation type (Ex19Del or L858R).
+
 Figure 3.
 Kaplan-Meier curve of overall survival in stage II-IIIA patients
 
@@ -156,7 +158,7 @@ Placebo
 + Censored patients.
 The values at the base of the figure indicate number of subjects at risk.
 
-An exploratory analysis of CNS DFS (time to CNS recurrence or death) for patients on TAGRISSO compared to patients on placebo showed a HR of 0.18 (95% CI: 0.10, 0.33; p <0.0001) for the overall population (stage IB-IIIA).
+An exploratory analysis of CNS DFS (time to CNS recurrence or death) for patients on TAGRISSO compared to patients on placebo showed a HR of 0.18 (95% CI: 0.10, 0.33; p<0.0001) for the overall population (stage IB-IIIA).
 
 Patient-reported outcomes
 
@@ -164,27 +166,102 @@ Health-related quality of life (HRQL) in ADAURA was assessed using the Short For
 SF-36v2 was administered at 12 weeks, 24 weeks and then every 24 weeks relative to randomisation until treatment completion or discontinuation.
 Overall, HRQL was maintained in both arms up to 30 months, with at least 70% of patients in the stage II-IIIA population not experiencing a clinically meaningful deterioration in the physical component of the SF-36 or death (70% vs 76% for TAGRISSO vs placebo), or in the mental component of the SF-36 or death (70% vs 71% for TAGRISSO vs placebo).
 
+Locally advanced, unresectable EGFR mutation-positive NSCLC – LAURA
+
+The efficacy and safety of TAGRISSO for the treatment of patients with EGFR mutation-positive, locally advanced, unresectable NSCLC, who had not progressed during or following definitive platinum-based chemoradiation therapy, were evaluated in a randomised, double-blind, placebo-controlled study (LAURA).
+Patients were to receive concurrent chemoradiation therapy (CCRT) or sequential chemoradiation therapy (SCRT) regimens, where at least 2 cycles or 5 weekly doses of platinum-based chemotherapy and a total dose of radiation of 60 Gy ±10% (54 Gy to 66 Gy), were to be completed ≤6 weeks prior to randomisation.
+Patient tumour tissue samples were required to have an EGFR exon 19 deletion or exon 21 L858R mutation, as identified by central or local testing using a certified/approved test.
+Patients were randomised (2:1) to receive either TAGRISSO 80 mg orally once daily (n=143) or placebo (n=73).
+Randomisation was stratified by prior chemoradiation strategy (CCRT vs SCRT), tumour staging prior to chemoradiation (IIIA vs IIIB/IIIC), and by the China cohort.
+Patients continued to receive study treatment until intolerance to therapy or confirmed disease progression.
+Cross-over from placebo to TAGRISSO was permitted upon progressive disease.
+
+The primary efficacy endpoint was progression-free survival (PFS) as assessed by blinded independent central review (BICR).
+Additional efficacy endpoints included OS and CNS PFS as assessed by neuroradiologist BICR.
+
+The baseline demographic and disease characteristics of the overall study population were: median age 63 years (range 36-84 years), ≥75 years old (13%), female (61%), Asian (82%), White (14%), never smokers (70%).
+Baseline WHO performance status was 0 (51%) or 1 (49%); 35% of patients had stage IIIA, 49% of patients had stage IIIB and 16% of patients had stage IIIC NSCLC.
+With regard to EGFR mutation status, 54% were exon 19 deletions and 45% were exon 21 L858R mutations.
+Prior to randomisation, 89% of patients received CCRT and 11% of patients received SCRT.
+All patients received platinum-based chemotherapy (55% carboplatin-based chemotherapy and 44% cisplatin-based chemotherapy).
+The median total dose of radiation was 60 Gy for patients in both arms.
+
+Treatment with TAGRISSO following platinum-based chemoradiation therapy resulted in a statistically significant improvement in PFS compared to placebo (56% maturity; HR=0.16; 95% CI: 0.10, 0.24; P<0.001, median 39.1 months and 5.6 months, respectively).
+
+Per protocol, all patients underwent baseline magnetic resonance imaging (MRI) brain scans and all but one patient had scheduled on-treatment MRI brain scans.
+A lower proportion of patients had new CNS lesions by neuroradiologist review in the TAGRISSO arm compared to the placebo arm (17/143 [12%] vs. 26/73 [36%], respectively).
+
+At the time of the interim analysis of OS (DCO: 05 January 2024), statistical significance was not reached.
+Fifty out of 62 patients (80.6%) in placebo arm were treated with TAGRISSO post-BICR confirmed disease progression.
+
+Efficacy results from LAURA are summarised in Table 4, and the Kaplan-Meier curve for PFS is shown in Figure 5.
+
+Table 4.
+Efficacy results from LAURA
+
+| Efficacy Parameter | TAGRISSO (N=143) | Placebo (N=73) |
+| --- | --- | --- |
+| Progression-Free Survivala |  |  |
+| Number (%) of events | 57 (40) | 63 (86) |
+| Median PFS, months (95% CI) | 39.1 (31.5, NC) | 5.6 (3.7, 7.4) |
+| HR (95% CI); P-value | 0.16 (0.10, 0.24); P<0.001 |  |
+| Overall Survival |  |  |
+| Number (%) of deaths | 28 (20) | 15 (21) |
+| Median OS, months (95% CI) | 54.0 (46.5, NC) | NC (42.1, NC) |
+| HR (95% CI); P-value | 0.81 (0.42, 1.56); P=0.530a |  |
+
+HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
+PFS results as assessed by BICR.
+Median follow-up time for PFS in all patients was 22.0 months in the TAGRISSO arm and 5.6 months in the placebo arm.
+a Adjusted for an interim analysis (20% maturity) a p-value <0.000036 was required to achieve statistical significance.
+
+Figure 5.
+Kaplan-Meier Curves of Progression-Free Survival as assessed by BICR in LAURA
+
+TAGRISSO (N=143)
+Median 39.1 months
+
+Placebo (N=73)
+Median 5.6 months
+
+Hazard Ratio=0.16
+95% CI (0.10, 0.24)
+
+P-value <0.001
+
+TAGRISSO
+Placebo
+
+Time from randomisation (months)
+
+Number at risk
+TAGRISSO
+Placebo
++ Censored patients.
+The values at the base of the figure indicate number of patients at risk.
+
 Previously untreated EGFR mutation-positive locally advanced or metastatic NSCLC
 
-FLAURA – Monotherapy
+FLAURA– Monotherapy
 
 The efficacy and safety of TAGRISSO for the treatment of patients with EGFR mutation-positive locally advanced, not amenable to curative surgery or radiotherapy, or metastatic NSCLC, who had not received previous systemic treatment for advanced disease, was demonstrated in a randomised, double-blind, active-controlled study (FLAURA).
 Patient tumour tissue samples were required to have one of the two common EGFR mutations known to be associated with EGFR TKI sensitivity (Ex19del or L858R), as identified by local or central testing.
+
 Patients were randomised 1:1 to receive either TAGRISSO (n=279, 80 mg orally once daily) or EGFR TKI comparator (n=277; gefitinib 250 mg orally once daily or erlotinib 150 mg orally once daily).
 Randomisation was stratified by EGFR mutation type (Ex19del or L858R) and ethnicity (Asian or non-Asian).
 Patients received study therapy until intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit.
 For patients receiving EGFR TKI comparator, post-progression crossover to open-label TAGRISSO was permitted provided tumour samples tested positive for the T790M mutation.
-The primary efficacy endpoint was progression-free survival (PFS) as assessed by investigator.
+The primary efficacy endpoint was PFS as assessed by investigator.
 
 The baseline demographic and disease characteristics of the overall study population were: median age 64 years (range 26-93 years), ≥75 years old (14%), female (63%), White (36%), Asian (62%), never smokers (64%), WHO performance status of 0 or 1 (100%), metastatic bone disease (36%), extra-thoracic visceral metastases (35%), CNS metastases (21%, identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases).
 
 TAGRISSO demonstrated a clinically meaningful and statistically significant improvement in PFS compared to EGFR TKI comparator (median 18.9 months and 10.2 months, respectively, HR=0.46, 95% CI: 0.37, 0.57; P<0.0001).
-Efficacy results from FLAURA by investigator assessment are summarised in Table 4, and the Kaplan-Meier curve for PFS is shown in Figure 5.
-The final analysis of OS (58% maturity) demonstrated a statistically significant improvement with an HR of 0.799 (95.05% CI: 0.641, 0.997) and a clinically meaningful longer median survival time in patients randomised to TAGRISSO compared to EGFR TKI comparator (Table 4 and Figure 6).
+Efficacy results from FLAURA by investigator assessment are summarised in Table 5, and the Kaplan-Meier curve for PFS is shown in Figure 6.
+The final analysis of OS, (58% maturity) demonstrated a statistically significant improvement with an HR of 0.799 (95.05% CI: 0.641, 0.997) and a clinically meaningful longer median survival time in patients randomised to TAGRISSO compared to EGFR TKI comparator (Table 5 and Figure 7).
 A greater proportion of patients treated with TAGRISSO were alive at 12, 18, 24 and 36 months (89%, 81%, 74% and 54% respectively) compared to patients treated with EGFR TKI comparator (83%, 71%, 59% and 44% respectively).
 Analysis of post-progression endpoints demonstrated that the PFS benefit was preserved through subsequent lines of therapy.
 
-Table 4.
+Table 5.
 Efficacy results from FLAURA by investigator assessment
 
 | Efficacy parameter | TAGRISSO (N=279) | EGFR TKI comparator (gefitinib or erlotinib) (N=277) |
@@ -224,8 +301,8 @@ PFS, ORR, DoR, PFS2, TFST and TSST results are from DCO 12 June 2017.
 OS results are from DCO 25 June 2019.
 A HR <1 favours TAGRISSO, an Odds ratio of >1 favours TAGRISSO.
 a Adjusted for an interim analysis (25% maturity) a p-value <0.0495 was required to achieve statistical significance.
-b ORR results by Blinded Independent Central Review (BICR) were consistent with those reported via investigator assessment; ORR by BICR assessment was 78% (95% CI: 73, 83) on TAGRISSO and 70% (95% CI: 65, 76) on EGFR TKI comparator.
-Figure 5.
+b ORR results by BICR were consistent with those reported via investigator assessment; ORR by BICR assessment was 78% (95% CI: 73, 83) on TAGRISSO and 70% (95% CI: 65, 76) on EGFR TKI comparator.
+Figure 6.
 Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA
 
 TAGRISSO (N=279) Median 18.9 months
@@ -246,7 +323,8 @@ TAGRISSO
 SoC
 + Censored patients.
 The values at the base of the figure indicate number of subjects at risk.
-Figure 6.
+
+Figure 7.
 Kaplan-Meier curves of overall survival in FLAURA
 
 TAGRISSO (N=279)
@@ -268,21 +346,21 @@ TAGRISSO
 SoC
 + Censored patients.
 The values at the base of the figure indicate number of subjects at risk.
-
 The PFS benefit of TAGRISSO compared to EGFR TKI comparator was consistent across all predefined subgroups analysed, including ethnicity, age, gender, smoking history, CNS metastases status at study entry and EGFR mutation type (Exon 19 deletion or L858R).
 
 CNS metastases efficacy data in FLAURA study
 
 Patients with CNS metastases not requiring steroids and with stable neurologic status for at least two weeks after completion of the definitive therapy and steroids were eligible to be randomised in the FLAURA study.
 Of 556 patients, 200 patients had available baseline brain scans.
-A Blinded Independent Central Review (BICR) assessment of these scans resulted in a subgroup of 128/556 (23%) patients with CNS metastases and these data are summarised in Table 5.
-CNS efficacy by RECIST v1.1 in FLAURA demonstrated a statistically significant improvement in CNS PFS (HR=0.48, 95% CI 0.26, 0.86; P=0.014).
-Table 5.
+A Blinded Independent Central Review (BICR) assessment of these scans resulted in a subgroup of 128/556 (23%) patients with CNS metastases and these data are summarised in Table 6.
+CNS efficacy by RECIST v1.1 in FLAURA demonstrated a statistically significant improvement in CNS PFS (HR=0.48, 95% CI: 0.26, 0.86; P=0.014).
+
+Table 6.
 CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in FLAURA
 
 | Efficacy parameter | TAGRISSO N=61 | EGFR TKI comparator (gefitinib or erlotinib) N=67 |
 | --- | --- | --- |
-| CNS progression-free survivala |  |  |
+| CNS progression-free survival a |  |  |
 | Number of events (%) | 18 (30) | 30 (45) |
 | Median CNS PFS, months (95% CI) | NC (16.5, NC) | 13.9 (8.3, NC) |
 | HR (95% CI); P-value | 0.48 (0.26, 0.86); P=0.014 |  |
@@ -290,13 +368,15 @@ CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in
 | CNS progression free and alive at 12 months (%) (95% CI) | 77 (62, 86) | 56 (42, 68) |
 
 HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
-A HR <1 favours TAGRISSO, an Odds ratio of >1 favours TAGRISSO a CNS PFS determined by RECIST v1.1 by CNS BICR (CNS measurable and non-measurable lesions at baseline by BICR) n=61 for TAGRISSO and n=67 for EGFR TKI comparator; responses are unconfirmed.
+A HR <1 favours TAGRISSO, an Odds ratio of >1 favours TAGRISSO.
+a CNS PFS determined by RECIST v1.1by CNS BICR (CNS measurable and non-measurable lesions at baseline by BICR) n=61 for TAGRISSO and n=67 for EGFR TKI comparator; responses are unconfirmed.
 
-A pre-specified PFS subgroup based on CNS metastases status (identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases) at study entry was performed in FLAURA and is shown in Figure 7.
+A pre-specified PFS subgroup based on CNS metastases status (identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases) at study entry was performed in FLAURA and is shown in Figure 8.
 Irrespective of CNS lesion status at study entry, patients in the TAGRISSO arm demonstrated an efficacy benefit over those in the EGFR TKI comparator arm and there were fewer patients with new CNS lesions in the TAGRISSO arm compared to the EGFR TKI comparator arm (TAGRISSO, 11/279 [3.9%] compared to EGFR TKI comparator, 34/277 [12.3%]).
 In the subset of patients without CNS lesions at baseline, there were a lower number of new CNS lesions in the TAGRISSO arm compared to the EGFR TKI comparator arm (7/226 [3.1%] vs. 15/214 [7.0%], respectively).
-Figure 7.
+Figure 8.
 Overall PFS by investigator assessment by CNS metastases status at study entry, Kaplan-Meier plot (full analysis set) in FLAURA
+
 CNS Metastases = No CNS Metastases = Yes
 
 TAGRISSO (N=226) TAGRISSO (N=53) Median 19.1 months Median 15.2 months
@@ -365,13 +445,11 @@ With regard to tumour EGFR mutation type at randomisation, 60.5% were exon 19 de
 
 TAGRISSO in combination with pemetrexed and platinum-based chemotherapy demonstrated a statistically significant improvement in PFS compared to TAGRISSO monotherapy.
 The PFS benefit was consistent across all subgroups analysed.
-At the time of the second interim analysis of OS (DCO
-08 January 2024), statistical significance was not reached.
+At the time of the second interim analysis of OS (DCO 08 January 2024), statistical significance was not reached.
 
-Efficacy results from FLAURA2 by investigator assessment are summarised in Table 6, the
-Kaplan -Meier curve for PFS is shown in Figure 8 and the Kaplan-Meier curve for OS is shown in Figure 9.
+Efficacy results from FLAURA2 by investigator assessment are summarised in Table 7, the Kaplan-Meier curve for PFS is shown in Figure 9 and the Kaplan-Meier curve for OS is shown in Figure 10.
 
-Table 6.
+Table 7.
 Efficacy results from FLAURA2 by investigator assessment
 
 | Efficacy parameter | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279) | TAGRISSO (N=278) |
@@ -386,17 +464,19 @@ Efficacy results from FLAURA2 by investigator assessment
 | HR (95% CI); P-value | 0.75 (0.57, 0.97); P=0.0280b |  |
 
 HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
-PFSbased on RECIST investigator assessment.
+PFS based on RECIST investigator assessment.
 Median follow-up time for PFS in all patients was 19.5 months in the TAGRISSO with pemetrexed and platinum-based chemotherapy arm and 16.5 months in the TAGRISSO monotherapy arm.
 PFS results are from DCO 03 April 2023 (51% maturity).
 OS results are from DCO 08 January 2024 (41% maturity).
 a PFS results by BICR were consistent with those reported via investigator assessment.
 b Based on the second interim analysis (41% maturity) a p-value <0.000001 was required to achieve statistical significance.
 
-Figure 8.
-Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA2
+Figure 9.
+Kaplan-Meier curves of progression-free survival as assessed by investigator in
 
-TAGRISSO + Chemo (N=279) Median 25.5 months
+FLAURA2 TAGRISSO + Chemo (N=279)
+
+Median 25.5 months
 
 TAGRISSO (N=278)
 Median 16.7 months
@@ -416,7 +496,7 @@ TAGRISSO
 + Censored patients.
 Chemo = Pemetrexed and platinum-based chemotherapy.
 The values at the base of the figure indicate number of patients at risk.
-Figure 9.
+Figure 10.
 Kaplan-Meier Curves of Overall Survival in FLAURA2
 
 TAGRISSO + Chemo (N=279)
@@ -448,7 +528,7 @@ Based on an exploratory analysis, CNS response rate was >65% in both treatment a
 Median DoR was not reached in the TAGRISSO with pemetrexed and platinum-based chemotherapy arm and was 26.2 months in the TAGRISSO monotherapy arm.
 In the cEFR subgroup, 47.5% of patients in the TAGRISSO with pemetrexed and platinum-based chemotherapy arm had a CNS complete response compared to 15.8% of patients in the TAGRISSO monotherapy arm.
 
-Pre-treated T790M-positive NSCLC patients-AURA3
+Pre-treated T790M-positive NSCLC patients – AURA3
 
 The efficacy and safety of TAGRISSO for the treatment of patients with locally advanced or metastatic T790M NSCLC whose disease has progressed on or after EGFR TKI therapy, was demonstrated in a randomised, open-label, active-controlled Phase 3 study (AURA3).
 All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas EGFR mutation test performed in a central laboratory prior to randomisation.
@@ -463,15 +543,15 @@ Chemotherapy consisted of pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrex
 Patients whose disease has not progressed after four cycles of platinum-based chemotherapy may receive pemetrexed maintenance therapy (pemetrexed 500 mg/m2 on Day 1 of every 21-day cycle).
 Subjects on the chemotherapy arm who had objective radiological progression (by the investigator and confirmed by independent central imaging review) were given the opportunity to begin treatment with TAGRISSO.
 
-The baseline demographic and disease characteristics of the overall study population were: median age 62, ≥75 years old (15%), female (64%), white (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
+The baseline demographic and disease characteristics of the overall study population were: median age 62, ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with CNS metastases (identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
 AURA3 demonstrated a statistically significant improvement in PFS in the patients treated with TAGRISSO compared to chemotherapy.
-Efficacy results from AURA3 by investigator assessment are summarised in Table 7, and the Kaplan-Meier curve for PFS is shown in Figure 10.
+Efficacy results from AURA3 by investigator assessment are summarised in Table 8, and the Kaplan-Meier curve for PFS is shown in Figure 11.
 No statistically significant difference was observed between the treatment arms at the final OS analysis.
 
-Table 7.
+Table 8.
 Efficacy results from AURA3 by investigator assessment
 
 | Efficacy parameter | TAGRISSO (N=279) | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin) (N=140) |
@@ -490,14 +570,14 @@ Efficacy results from AURA3 by investigator assessment
 | Duration of response (DoR)b |  |  |
 | Median DoR, months (95% CI) | 9.7 (8.3, 11.6) | 4.1 (3.0, 5.6) |
 
-HR=Hazard Ratio; CI=confidence interval; NC=non-calculable; OS=Overall Survival
+HR=Hazard Ratio; CI=Confidence Interval; NC=Non-calculable; OS=Overall Survival
 All efficacy results based on RECIST investigator assessment.
 a The final analysis of OS was performed at 67% maturity.
 The CI for the HR has been adjusted for previous interim analyses.
 The OS analysis was not adjusted for the potentially confounding effects of crossover (99 [71%] patients on the chemotherapy arm received subsequent osimertinib treatment).
-b ORR and DoR results by investigator assessment were consistent with those reported via BICR; ORR by BICR assessment was 64.9% [95% CI: 59.0, 70.5] on osimertinib and 34.3% [95% CI: 25.6, 42.8] on chemotherapy; DoR by BICR assessment was 11.2 months (95% CI: 8.3, NC) on osimertinib and 3.1 months (95% CI: 2.9, 4.3) on chemotherapy.
+b ORR and DoR results by investigator assessment were consistent with those reported via BICR; ORR by BICR assessment was 64.9% [95% CI: 59.0, 70.5] on osimertinib and 34.3 % [95% CI: 25.6, 42.8] on chemotherapy; DoR by BICR assessment was 11.2 months (95% CI: 8.3, NC) on osimertinib and 3.1 months (95% CI: 2.9, 4.3) on chemotherapy.
 
-Figure 10.
+Figure 11.
 Kaplan-Meier curves of progression-free survival as assessed by investigator in AURA3
 
 A sensitivity analysis of PFS was conducted by a BICR and showed a median PFS of 11.0 months with TAGRISSO compared with 4.2 months with chemotherapy.
@@ -508,8 +588,8 @@ Clinically meaningful improvements in PFS with HRs less than 0.50 in favour of p
 CNS metastases efficacy data in AURA3 study
 
 Patients with asymptomatic, stable brain metastases not requiring steroids for at least 4 weeks prior to the start of study treatment were eligible to be randomised in the study.
-A BICR assessment of CNS efficacy by RECIST v1.1 in the subgroup of 116/419 (28%) patients identified to have CNS metastases on a baseline brain scan are summarised in Table 8.
-Table 8.
+A BICR assessment of CNS efficacy by RECIST v1.1 in the subgroup of 116/419 (28%) patients identified to have CNS metastases on a baseline brain scan are summarised in Table 9.
+Table 9.
 CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in AURA3
 
 | Efficacy parameter | TAGRISSO | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin) |
@@ -520,7 +600,7 @@ CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in
 | CNS duration of responseb |  |  |
 | Median CNS DoR, months (95% CI) | 8.9 (4.3, NC) | 5.7 (NC, NC) |
 | CNS disease control rate |  |  |
-| CNS disease control rate | 87% (65/75) (77, 93) | 68% (28/41) (52, 82) |
+| CNS disease control rate % (n/N) (95% CI) | 87% (65/75) (77, 93) | 68% (28/41) (52, 82) |
 | Odds ratio (95% CI); P-value | 3 (1.2, 7.9); P=0.021 |  |
 | CNS progression-free survivalc | N=75 | N=41 |
 | Number of events (% maturity) | 19 (25) | 16 (39) |
@@ -532,8 +612,8 @@ b Based on patients with response only; DoR defined as the time from the date of
 c CNS Progression Free Survival determined by RECIST v1.1 by CNS BICR in the full analysis set population (CNS measurable and non-measurable lesions at baseline by BICR) n=75 for TAGRISSO and n=41 for Chemotherapy.
 A HR <1 favours TAGRISSO.
 
-A pre-specified PFS subgroup analysis based on CNS metastases status at study entry was performed in AURA3 and is shown in Figure 11.
-Figure 11.
+A pre-specified PFS subgroup analysis based on CNS metastases status at study entry was performed in AURA3 and is shown in Figure 12.
+Figure 12.
 Overall PFS by investigator assessment by CNS metastases status at study entry, Kaplan-Meier plot (full analysis set) in AURA3
 
 AURA3 demonstrated a statistically significant improvement in PFS for patients receiving TAGRISSO compared to those receiving chemotherapy irrespective of CNS metastases status at study entry.
@@ -546,26 +626,26 @@ The C30 was assessed every 6 weeks before and after progression.
 
 Key lung cancer symptoms analysis
 
-TAGRISSO improved patient-reported lung cancer symptoms compared to chemotherapy by demonstrating a statistically significant difference in mean change from baseline versus chemotherapy during the overall time period from randomisation until 6 months for 5 pre-specified primary PRO symptoms (appetite loss, cough, chest pain, dyspnoea, and fatigue) as shown in Table 9.
+TAGRISSO improved patient-reported lung cancer symptoms compared to chemotherapy by demonstrating a statistically significant difference in mean change from baseline versus chemotherapy during the overall time period from randomisation until 6 months for 5 pre-specified primary PRO symptoms (appetite loss, cough, chest pain, dyspnoea, and fatigue) as shown in Table 10.
 
-Table 9.
+Table 10.
 Mixed Model Repeated Measures – Key lung cancer symptoms - mean change from baseline in TAGRISSO patients compared with chemotherapy
 
 |  | Appetite Loss |  | Cough |  | Chest Pain |  | Dyspnoea |  | Fatigue |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Arms | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) |
+| Arms | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) |
 | N | 239 | 97 | 228 | 113 | 228 | 113 | 228 | 113 | 239 | 97 |
 | Adj Mean | -5.51 | 2.73 | -12.22 | -6.69 | -5.15 | 0.22 | -5.61 | 1.48 | -5.68 | 4.71 |
-| Estimated Difference (95%CI) | -8.24 (-12.88, 3.60) |  | -5.53 (-8.89, -2.17) |  | -5.36 (-8.20, -2.53) |  | -7.09 (-9.86, -4.33) |  | -10.39 (-14.55, -6.23) |  |
-| p-value | p <0.001 |  | p=0.001 |  | p<0.001 |  | p<0.001 |  | p<0.001 |  |
+| Estimated Differenc e (95%CI) | -8.24 (-12.88, 3.60) |  | -5.53 (-8.89, -2.17) |  | -5.36 (-8.20, -2.53) |  | -7.09 (-9.86, -4.33) |  | -10.39 (-14.55, -6.23) |  |
+| p-value | p<0.001 |  | p=0.001 |  | p<0.001 |  | p<0.001 |  | p<0.001 |  |
 
 Adjusted mean and estimated differences obtained from a Mixed Model Repeated Measures (MMRM) analysis.
 The model included patient, treatment, visit, treatment-by-visit interaction, baseline symptom score, and baseline symptom score-by-visit interaction and used an unstructured covariance matrix.
 HRQL and physical functioning improvement analysis
 
-Patients on TAGRISSO had significantly greater chances of achieving a clinically meaningful improvement of greater than or equal to 10 points on the global health status and physical functioning of the EORTC-C30 questionnaire compared with chemotherapy during the study period Odds Ratio (OR) global health status: 2.11, (95% CI 1.24, 3.67, p=0.007); OR physical functioning 2.79 (95% CI 1.50, 5.46, p=0.002).
+Patients on TAGRISSO had significantly greater chances of achieving a clinically meaningful improvement of greater than or equal to 10 points on the global health status and physical functioning of the EORTC-C30 questionnaire compared with chemotherapy during the study period Odds Ratio (OR) global health status: 2.11, (95% CI: 1.24, 3.67, p=0.007); OR physical functioning 2.79 (95% CI: 1.50, 5.46, p=0.002).
 
-Pre-treated T790M-positive NSCLC patients - AURAex and AURA2
+Pre-treated T790M-positive NSCLC patients – AURAex and AURA2
 
 Two single-arm, open-label clinical studies, AURAex (Phase 2 Extension cohort, (n=201)) and AURA2 (n=210) were conducted in patients with EGFR T790M mutation-positive lung cancer who have progressed on one or more prior systemic therapies, including an EGFR TKI.
 All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas EGFR mutation test performed in a central laboratory prior to treatment.
@@ -585,12 +665,11 @@ The median duration of follow up for PFS was 12.6 months.
 In the 411 pre-treated EGFR T790M mutation-positive patients, the total ORR by BICR was 66% (95% CI: 61, 71).
 In patients with a confirmed response by BICR, the median DoR was 12.5 months (95% CI: 11.1, NE).
 The ORR by BICR in AURAex was 62% (95% CI: 55, 68) and 70% (95% CI: 63, 77) in AURA2.
-The median PFS was 11.0 months 95% CI (9.6, 12.4).
+The median PFS was 11.0 months (95% CI: 9.6, 12.4).
 
 Objective response rates by BICR above 50% were observed in all predefined subgroups analysed, including line of therapy, ethnicity, age and region.
 
-In the evaluable for response population, 85% (223/262) had documentation of response at the time of the first scan (6 weeks); 94% (247/262) had documentation of response at the time of the second scan
-(12 weeks).
+In the evaluable for response population, 85% (223/262) had documentation of response at the time of the first scan (6 weeks); 94% (247/262) had documentation of response at the time of the second scan (12 weeks).
 
 CNS metastases efficacy data in Phase 2 studies (AURAex and AURA2)
 

@@ -2,7 +2,6 @@
 
 Al/Al perforated unit dose blisters.
 Cartons of 30 x 1 tablets (3 blisters).
-
 Al/Al perforated unit dose blisters.
 Cartons of 28 x 1 tablets (4 blisters).
 

@@ -4,7 +4,7 @@ The main findings observed in repeat dose toxicity studies in rats and dogs comp
 These findings occurred at plasma concentrations that were below those seen in patients at the 80 mg therapeutic dose.
 The findings present following 1 month of dosing were largely reversible within 1 month of cessation of dosing with the exception of partial recovery for some of the corneal changes.
 
-Lens fibre degeneration was found in the 104-week carcinogenicity rat study at exposures 0.2-times the human AUC, at the recommended clinical dose of 80 mg once a day.
+Lens fibre degeneration was found in the 104-week carcinogenicity rat study at exposures 0.2 times the human AUC, at the recommended clinical dose of 80 mg once a day.
 Lens opacities were first noted from week 52 of this study and showed a gradual increase in incidence and severity with increased duration of dosing.
 The clinical relevance of this finding cannot be ruled out.
 
@@ -21,7 +21,6 @@ Reproductive toxicity
 Degenerative changes were present in the testes in rats and dogs exposed to osimertinib for ≥1 month and there was a reduction in male fertility in rats following exposure to osimertinib for 3 months.
 These findings were seen at clinically relevant plasma concentrations.
 Pathology findings in the testes seen following 1 month dosing were reversible in rats; however, a definitive statement on reversibility of these lesions in dogs cannot be made.
-
 Based on studies in animals, female fertility may be impaired by treatment with osimertinib.
 In repeat dose toxicity studies, an increased incidence of anoestrus, corpora lutea degeneration in the ovaries and epithelial thinning in the uterus and vagina were seen in rats exposed to osimertinib for ≥1 month at clinically relevant plasma concentrations.
 Findings in the ovaries seen following 1 month dosing were reversible.

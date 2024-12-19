@@ -2,38 +2,37 @@
 
 Assessment of EGFR mutation status
 
-When considering the use of TAGRISSO as adjuvant treatment after complete tumour resection in patients with NSCLC, it is important that the EGFR mutation positive status (exon 19 deletions (Ex19del) or exon 21 L858R substitution mutations (L858R)) indicates treatment eligibility.
+When considering the use of TAGRISSO as adjuvant treatment after complete tumour resection in patients with NSCLC, EGFR mutation positive status (exon 19 deletions [Ex19del] or exon 21 L858R substitution mutations [L858R]) indicates treatment eligibility.
 A validated test should be performed in a clinical laboratory using tumour tissue DNA from biopsy or surgical specimen.
 
+When considering the use of TAGRISSO in patients with locally advanced, unresectable NSCLC and whose disease has not progressed during or following platinum-based chemoradiation therapy, EGFR mutation positive status (exon 19 deletions or exon 21 [L858R] substitution mutations) indicates treatment eligibility.
+A validated test should be performed in a clinical laboratory using tumour tissue DNA from a biopsy specimen.
 When considering the use of TAGRISSO as a treatment for locally advanced or metastatic NSCLC, it is important that the EGFR mutation positive status is determined.
 A validated test should be performed using either tumour DNA derived from a tissue sample or circulating tumour DNA (ctDNA) obtained from a plasma sample.
 
-Positive determination of EGFR mutation status (activating EGFR mutations for first-line treatment, exon 19 deletion or exon 21 (L858R) substitution mutations when TAGRISSO is given in combination with pemetrexed and platinum-based chemotherapy for first-line treatment or T790M mutations following progression on or after EGFR TKI therapy) using either a tissue-based or plasma-based test indicates eligibility for treatment with TAGRISSO.
+Positive determination of EGFR mutation status (activating EGFR mutations for first-line treatment, exon 19 deletion or exon 21 (L858R) substitution mutations when TAGRISSO is given in combination with pemetrexed and platinum-based chemotherapy for first-line treatment, or T790M mutations following progression on or after EGFR TKI therapy) using either a tissue-based or plasma-based test, indicates eligibility for treatment with TAGRISSO.
 However, if a plasma-based ctDNA test is used and the result is negative, it is advisable to follow-up with a tissue test wherever possible due to the potential for false negative results using a plasma-based test.
 
 Only robust, reliable and sensitive tests with demonstrated utility for the determination of EGFR mutation status should be used.
 
 Interstitial Lung Disease (ILD)
 
-Severe, life-threatening or fatal ILD or ILD-like adverse reactions (e.g. pneumonitis) have been observed in patients treated with TAGRISSO in clinical studies.
+Severe, life-threatening or fatal ILD or ILD-like adverse reactions (e.g. pneumonitis) have been observed in patients treated with TAGRISSO in clinical studies, including TAGRISSO following definitive platinum-based chemoradiation therapy.
 Most cases improved or resolved with interruption of treatment.
-Patients with a past medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from clinical studies (see section 4.8).
-
-ILD or ILD-like adverse reactions were reported in 4.0% of the 1813 patients who received TAGRISSO monotherapy in the ADAURA, FLAURA, FLAURA2 and AURA studies.
-Seven fatal cases were reported in the locally advanced or metastatic setting.
-No fatal cases were reported in the adjuvant setting.
-The incidence of ILD was 11.2% in patients of Japanese ethnicity, 2.3% in patients of non-Japanese Asian ethnicity and 2.7% in non-Asian patients (see section 4.8).
-
-ILD or ILD-like adverse reactions were reported in 3.3% and were fatal in 0.4% (n=1) of the 276 patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy in FLAURA2.
-The incidence of ILD was 14.9% in patients of Japanese ethnicity and 1.7% in non-Asian patients; no patients of non-Japanese Asian ethnicity had an event of ILD in the FLAURA2 combination arm.
-The median time from first dose to onset of ILD or ILD-like adverse reactions was 161 days.
+Patients with a past medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD, were excluded from clinical studies (see section 4.8).
 
 Careful assessment of all patients with an acute onset and/or unexplained worsening of pulmonary symptoms (dyspnoea, cough, fever) should be performed to exclude ILD.
 Treatment with this medicinal product should be interrupted pending investigation of these symptoms.
 If ILD is diagnosed, TAGRISSO should be discontinued and appropriate treatment initiated as necessary.
 Reintroduction of TAGRISSO should be considered only after careful consideration of the individual patient’s benefits and risk.
 
+Radiation pneumonitis
+
+Radiation pneumonitis is usually observed for up to a year after patients receive radiation therapy to the lungs.
+For TAGRISSO dose modification guidance for radiation pneumonitis following definitive platinum-based chemoradiation therapy, refer to section 4.2.
+
 Severe Cutaneous Adverse Reactions (SCARs)
+
 Case reports of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported with frequency categories of rare and not known, respectively, in association with TAGRISSO treatment.
 Before initiating treatment, patients should be advised of signs and symptoms of SJS and TEN.
 If signs and symptoms suggestive of SJS or TEN appear, TAGRISSO should be interrupted.
@@ -43,7 +42,7 @@ QTc interval prolongation
 
 QTc interval prolongation occurs in patients treated with TAGRISSO.
 QTc interval prolongation may lead to an increased risk for ventricular tachyarrhythmias (e.g. torsade de pointes) or sudden death.
-No QTc related arrythmias were reported in ADAURA, FLAURA, FLAURA2, or AURA studies (see section 4.8).
+No QTc related arrythmias were reported in ADAURA, LAURA, FLAURA, FLAURA2 or AURA studies (see section 4.8).
 Patients with clinically important abnormalities in rhythm and conduction as measured by resting electrocardiogram (ECG) (e.g. QTc interval greater than 470 msec) were excluded from these studies (see section 4.8).
 
 When possible, the use of TAGRISSO in patients with congenital long QT syndrome should be avoided.
@@ -57,11 +56,12 @@ Across clinical studies, left ventricular ejection fraction (LVEF) decreases gre
 In patients with cardiac risk factors and those with conditions that can affect LVEF, cardiac monitoring, including an assessment of LVEF at baseline and during treatment, should be considered.
 In patients who develop relevant cardiac signs/symptoms during treatment, cardiac monitoring including LVEF assessment should be considered.
 In an adjuvant placebo-controlled study (ADAURA), 1.5% (5/325) of patients treated with TAGRISSO and 1.5% (5/331) of patients treated with placebo experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
+In the LAURA study, following platinum-based chemoradiation therapy, 3.0% (4/135) of patients treated with TAGRISSO and no patients treated with placebo, who had both a baseline and post-baseline LVEF assessment, experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 In the FLAURA2 study, 8.0% (21/262) of patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, who had baseline and at least one follow-up LVEF assessment, experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 
 Keratitis
 
-Keratitis was reported in 0.6% (n=10) of the 1813 patients treated with TAGRISSO monotherapy in the ADAURA, FLAURA, FLAURA2 and AURA studies.
+Keratitis was reported in 0.6% (n=11) of the 1956 patients treated with TAGRISSO monotherapy in the ADAURA, FLAURA, FLAURA2, LAURA and AURA studies.
 Patients presenting with signs and symptoms suggestive of keratitis such as acute or worsening: eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain and/or red eye should be referred promptly to an ophthalmology specialist (see section 4.2 Table 1).
 
 Aplastic anaemia

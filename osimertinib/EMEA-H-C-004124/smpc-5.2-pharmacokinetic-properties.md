@@ -59,7 +59,7 @@ These exposure changes due to body weight or baseline albumin differences are no
 Hepatic impairment
 
 Osimertinib is eliminated mainly via the liver.
-In a clinical study, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score =5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score =8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO.
+In a clinical study, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score=5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score=8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO.
 The geometric mean ratio (90% CI) of osimertinib AUC and Cmax was 63.3% (47.3, 84.5) and 51.4% (36.6, 72.3) in patients with mild hepatic impairment and 68.4% (49.6, 94.2) and 60.7% (41.6, 88.6) in patients with moderate hepatic impairment; for the metabolite AZ5104 the AUC and Cmax were 66.5% (43.4, 101.9) and 66.3% (45.3, 96.9) in patients with mild hepatic impairment and 50.9% (31.7, 81.6) and 44.0% (28.9, 67.1) in patients with moderate hepatic impairment, compared to the exposure in patients with normal hepatic function.
 Based on population PK analysis, there was no relationship between markers of hepatic function (ALT, AST, bilirubin) and osimertinib exposure.
 The hepatic impairment marker serum albumin showed an effect on the PK of osimertinib.
