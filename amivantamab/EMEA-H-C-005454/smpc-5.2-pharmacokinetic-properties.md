@@ -17,17 +17,19 @@ Based on the individual amivantamab PK parameter estimates in population PK anal
 Special populations
 
 Elderly
-No clinically meaningful differences in the pharmacokinetics of amivantamab were observed based on age (27-87 years).
+No clinically meaningful differences in the pharmacokinetics of amivantamab were observed based on age (21-88 years).
 
 Renal impairment
-No clinically meaningful effect on the pharmacokinetics of amivantamab was observed in patients with mild (60 ≤ creatinine clearance [CrCl] < 90 mL/min) and moderate (29 ≤ CrCl < 60 mL/min) renal impairment.
-The effect of severe renal impairment (15 ≤ CrCl < 29 mL/min) on amivantamab pharmacokinetics is unknown.
+No clinically meaningful effect on the pharmacokinetics of amivantamab was observed in patients with mild (60 ≤ creatinine clearance [CrCl] < 90 mL/min), moderate (29 ≤ CrCl < 60 mL/min) or severe (15 ≤ CrCl < 29 mL/min) renal impairment.
+Data in patients with severe renal impairment are limited (n=1), but there is no evidence to suggest that dose adjustment is required in these patients.
+The effect of end-stage renal disease (CrCl < 15 mL/min) on amivantamab pharmacokinetics is unknown.
 
 Hepatic impairment
 Changes in hepatic function are unlikely to have any effect on the elimination of amivantamab since IgG1-based molecules such as amivantamab are not metabolised through hepatic pathways.
 
-No clinically meaningful effect in the pharmacokinetics of amivantamab was observed based on mild hepatic impairment [(total bilirubin ≤ULN and AST > ULN) or (ULN < total bilirubin ≤1.5 x ULN)].
-The effect of moderate (total bilirubin 1.5 to 3 times ULN) and severe (total bilirubin > 3 times ULN) hepatic impairment on amivantamab pharmacokinetics is unknown.
+No clinically meaningful effect in the pharmacokinetics of amivantamab was observed based on mild [(total bilirubin ≤ULN and AST > ULN) or (ULN < total bilirubin ≤1.5 x ULN)] or moderate (1.5×ULN < total bilirubin ≤3×ULN and any AST) hepatic impairment.
+Data in patients with moderate hepatic impairment are limited (n=1), but there is no evidence to suggest that dose adjustment is required in these patients.
+The effect of severe (total bilirubin > 3 times ULN) hepatic impairment on amivantamab pharmacokinetics is unknown.
 
 Paediatric population
 The pharmacokinetics of Rybrevant in paediatric patients have not been investigated.

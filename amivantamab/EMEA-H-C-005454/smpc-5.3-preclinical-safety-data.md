@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of repeated dose toxicity.
-
 Carcinogenicity and mutagenicity
 No animal studies have been performed to establish the carcinogenic potential of amivantamab.
 Routine genotoxicity and carcinogenicity studies are generally not applicable to biologic pharmaceuticals as large proteins cannot diffuse into cells and cannot interact with DNA or chromosomal material.

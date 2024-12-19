@@ -134,9 +134,79 @@ Table 8: Adverse reactions in patients receiving amivantamab in combination with
 | Oedema* |  | 40 | 1.3 |
 | Pyrexia |  | 14 | 0 |
 | Injury, poisoning and procedural complications |  |  |  |
-| Infusion related reaction | Very common | 50 | 3.0 |
+| Infusion related reaction | Very common | 51 | 3.0 |
 
 * Grouped terms
+
+Summary of the safety profile
+In the dataset of amivantamab in combination with lazertinib (N=421), the most frequent adverse reactions in all grades were rash (89%), nail toxicity (71%), infusion-related reactions (63%), hypoalbuminaemia (48%), hepatotoxicity (47%), oedema (47%), stomatitis (43%), venous thromboembolism (37%), paraesthesia (lazertinib) (34%), fatigue (32%), diarrhoea (29%), constipation (29%), dry skin (26%), pruritis (24%), decreased appetite (24%), hypocalcaemia (21%), nausea (21%) and other eye disorders (21%).
+The most frequent serious adverse reactions included venous thromboembolism (11%), pneumonia (4.0%), rash (3.1%), ILD/pneumonitis (2.9%), hepatotoxicity (2.4%), COVID-19 (2.4%), and IRR and pleural effusion (2.1%).
+Twenty-three percent of patients discontinued Rybrevant due to adverse reactions.
+The most frequent adverse reactions leading to Rybrevant discontinuation were rash (5.5%), infusion related reactions (4.5%), nail toxicity (3.6%), ILD (2.9%) and VTE (2.9%).
+
+Table 9 summarises the adverse drug reactions that occurred in patients receiving amivantamab in combination with lazertinib.
+
+The data reflects exposure to amivantamab in combination with lazertinib in 421 patients with locally advanced or metastatic non-small cell lung cancer.
+Patients received amivantamab 1050 mg (for patients < 80 kg) or 1400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter.
+The median exposure to study treatment in the amivantamab and lazertinib combination group was 18.5 months (range: 0.2 to 31.4 months).
+
+Adverse reactions observed during clinical studies are listed below by frequency category.
+Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1000 to < 1/100); rare (≥1/10000 to < 1/1000); very rare (< 1/10000); and not known (frequency cannot be estimated from the available data).
+
+Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
+Table 9: Amivantamab adverse reactions in patients receiving amivantamab in combination with lazertinib
+
+| System organ class Adverse reaction | Frequency category | Any Grade (%) | Grade 3-4 (%) |
+| --- | --- | --- | --- |
+| Metabolism and nutrition disorders |  |  |  |
+| Hypoalbuminaemia* | Very common | 48 | 5 |
+| Decreased appetite |  | 24 | 1.0 |
+| Hypocalcaemia |  | 21 | 2.1 |
+| Hypokalaemia |  | 14 | 3.1 |
+| Hypomagnesaemia | Common | 5.0 | 0 |
+| Nervous system disorders |  |  |  |
+| Paraesthesia*‡ | Very common | 34 | 1.7 |
+| Dizziness* |  | 13 | 0 |
+| Vascular disorders |  |  |  |
+| Venous thromboembolism* | Very common | 37 | 11 |
+| Eye disorders |  |  |  |
+| Other eye disorders* | Very common | 21 | 0.5 |
+| Visual impairment* | Common | 4.5 | 0 |
+| Keratitis |  | 2.6 | 0.5 |
+| Growth of eyelashes* |  | 1.9 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |
+| Interstitial lung disease/Pneumonitis * | Common | 3.1 | 1.2 |
+| Gastrointestinal disorders |  |  |  |
+| Stomatitis* | Very common | 43 | 2.4 |
+| Diarrhoea |  | 29 | 2.1 |
+| Constipation |  | 29 | 0 |
+| Nausea |  | 21 | 1.2 |
+| Vomiting |  | 12 | 0.5 |
+| Abdominal pain* |  | 11 | 0 |
+| Haemorrhoids | Common | 10 | 0.2 |
+| Hepatobiliary disorders |  |  |  |
+| Hepatotoxicity† | Very common | 47 | 9 |
+| Skin and subcutaneous tissue disorders |  |  |  |
+| Rash* | Very common | 89 | 27 |
+| Nail toxicity* |  | 71 | 11 |
+| Dry skin* |  | 26 | 1.0 |
+| Pruritus |  | 24 | 0.5 |
+| Palmar-plantar erythrodysaesthesia syndrome | Common | 6 | 0.2 |
+| Urticaria |  | 1.2 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+| Muscle spasms | Very common | 17 | 0.5 |
+| Myalgia |  | 13 | 0.7 |
+| General disorders and administration site conditions |  |  |  |
+| Oedema* | Very common | 47 | 2.9 |
+| Fatigue* |  | 32 | 3.8 |
+| Pyrexia |  | 12 | 0 |
+| Injury, poisoning and procedural complications |  |  |  |
+| Infusion related reaction | Very common | 63 | 6 |
+
+* Grouped terms
+‡ Assessed as ADR for lazertinib only.
+† The most common events included increased ALT (36%), increased AST (29%) and increase blood alkaline phosphatase (12%).
 
 Description of selected adverse reactions
 
@@ -151,13 +221,26 @@ Greater than 94% of IRRs were Grade 1-2.
 A majority of IRRs occurred at the first infusion with a median time to onset of 60 minutes (range 0-7 hours), and the majority occurring within 2 hours of infusion start.
 Occasionally an IRR can occur at re-initiation of amivantamab after prolonged dose interruptions of more than 6 weeks.
 
+In patients treated with amivantamab in combination with lazertinib, infusion-related reactions occurred in 63% of patients.
+Ninety-four percent of IRRs were Grade 1-2.
+A majority of IRRs occurred at the first infusion with a median time to onset of 1 hour, and the majority occurring within 2 hours of infusion start.
+The most frequent signs and symptoms include chills, dyspnoea, nausea, flushing, chest discomfort, and vomiting (see section 4.4)
+Occasionally an IRR can occur at re-initiation of amivantamab after prolonged dose interruptions of more than 6 weeks.
+
 Interstitial lung disease
 Interstitial lung disease or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors.
-Interstitial lung disease or pneumonitis was reported in 2.6% of patients treated with amivantamab monotherapy and 2.3 % of patients treated with amivantamab in combination with carboplatin and pemetrexed.
+Interstitial lung disease or pneumonitis was reported in 2.6% of patients treated with amivantamab monotherapy, 2.3 % of patients treated with amivantamab in combination with carboplatin and pemetrexed and 3.1% of patients treated with amivantamab in combination with lazertinib, including 1 (0.2%) fatal case.
 Patients with a medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from the clinical study (see section 4.4).
 
+Venous thromboembolic (VTE) events with concomitant use with lazertinib
+When Rybrevant is used in combination with lazertinib, VTE events, including deep venous thrombosis (DVT) and pulmonary embolism (PE), were reported in 37% of the 421 patients receiving Rybrevant in combination with lazertinib.
+Most cases were Grade 1 or 2, with Grade 3-4 events occurring in 11% of patients receiving Rybrevant in combination with lazertinib and deaths occurring in 0.5% of patients receiving Rybrevant in combination with lazertinib.
+For information on prophylactic anticoagulants and management of VTE events, see sections 4.2 and 4.4.
+In patients receiving Rybrevant in combination with lazertinib, the median time to first onset of a VTE event was 84 days.
+VTE events led to Rybrevant treatment discontinuation in 2.9% of patients.
+
 Skin and nail reactions
-Rash (including dermatitis acneiform), pruritus, and dry skin occurred in 86% of patients treated with amivantamab alone.
+Rash (including dermatitis acneiform), pruritus, and dry skin occurred in 76% of patients treated with amivantamab alone.
 Most cases were Grade 1 or 2, with Grade 3 rash events occurring in 3% of patients.
 Rash leading to amivantamab discontinuation occurred in 0.3% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
@@ -170,6 +253,14 @@ Rash leading to amivantamab discontinuation occurred in 2.3% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
 Nail toxicity occurred in patients treated with amivantamab in combination with carboplatin and pemetrexed.
 Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 4.3% of patients (see section 4.4).
+
+Rash (including dermatitis acneiform), occurred in 89% of patients treated with amivantamab in combination with lazertinib.
+Most cases were Grade 1 or 2, with Grade 3 rash events occurring in 27% of patients.
+Rash leading to amivantamab discontinuation occurred in 5.5% of patients.
+Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
+Nail toxicity occurred in patients treated with amivantamab in combination with lazertinib.
+Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 11% of patients (see section 4.4).
+
 Eye disorders
 Eye disorders, including keratitis (0.5%), occurred in 9% of patients treated with amivantamab alone.
 Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.
@@ -178,8 +269,11 @@ All events were Grade 1-2.
 Eye disorders, including keratitis (0.3%), occurred in 11% of patients treated with amivantamab in combination with carboplatin and pemetrexed.
 Other reported adverse reactions included growth of eyelashes, visual impairment, uveitis, and other eye disorders.
 All events were Grade 1-2 (see section 4.4).
+Eye disorders, including keratitis (2.6%) occurred in patients treated with amivantamab in combination with lazertinib.
+Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.
+Most events were Grade 1-2 (see section 4.4).
 
-Other special populations
+Special populations
 
 Elderly
 There are limited clinical data with amivantamab in patients 75 years of age or over (see section 5.1).
@@ -188,7 +282,7 @@ No overall differences in safety were observed between patients ≥65 years of a
 
 Immunogenicity
 As with all therapeutic proteins, there is the potential for immunogenicity.
-In clinical studies of patients with locally advanced or metastatic NSCLC treated with amivantamab, 4 of the 865 (0.5%) participants who were treated with Rybrevant and evaluable for the presence of anti-drug antibodies (ADA), tested positive for treatment-emergent anti-amivantamab antibodies.
+In clinical studies of patients with locally advanced or metastatic NSCLC treated with amivantamab, 4 of the 1862 (0.2%) participants who were treated with Rybrevant and evaluable for the presence of anti-drug antibodies (ADA), tested positive for treatment-emergent anti-amivantamab antibodies.
 There was no evidence of an altered pharmacokinetic, efficacy, or safety profile due to anti-amivantamab antibodies.
 
 Reporting of suspected adverse reactions
