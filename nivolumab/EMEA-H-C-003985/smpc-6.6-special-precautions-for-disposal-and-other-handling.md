@@ -25,6 +25,9 @@ Based on this prescribed dose, calculate the total dose to be given (please see 
 Nivolumab in combination with ipilimumab in MPM
 The prescribed dose for the patient is 360 mg given regardless of body weight.
 
+Nivolumab in combination with ipilimumab in advanced colorectal cancer
+The prescribed dose for the patient can be based on body weight (3 mg/kg) or can be 240 mg given regardless of body weight.
+
 Nivolumab in combination with ipilimumab in OSCC
 The prescribed dose for the patient can be based on body weight (3 mg/kg) or 360 mg given regardless of body weight.
 
@@ -85,7 +88,7 @@ Use a separate infusion line for the infusion.
 
 Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm).
 
-OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 µm to 1.2 µm.
+OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 μm to 1.2 μm.
 
 After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
 

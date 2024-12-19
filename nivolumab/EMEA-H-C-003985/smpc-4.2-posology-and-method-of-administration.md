@@ -5,6 +5,10 @@ Treatment must be initiated and supervised by physicians experienced in the trea
 PD-L1 testing
 If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, and 5.1).
 
+MSI/MMR testing
+If specified in the indication, patient selection for treatment with OPDIVO based on MSI-H/dMMR tumour status should be assessed by a CE-marked IVD with the corresponding intended purpose.
+If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
+
 Posology
 
 OPDIVO as monotherapy
@@ -52,20 +56,35 @@ Malignant pleural mesothelioma
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes every 3 weeks in combination with 1 mg/kg ipilimumab administered intravenously over 30 minutes every 6 weeks.
 Treatment is continued for up to 24 months in patients without disease progression.
 
-Renal cell carcinoma and dMMR or MSI-H colorectal cancer
+Renal cell carcinoma
 The recommended dose is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
-This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks (RCC only), as presented in Table 3.
+This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 3.
 For the monotherapy phase, the first dose of nivolumab should be administered;
 
 - 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
-- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks (RCC only).
+- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
 
-Table 3: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for RCC and dMMR or MSI-H CRC
+Table 3: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for RCC
 
 |  | Combination phase, every 3 weeks for 4 dosing cycles | Monotherapy phase |
 | --- | --- | --- |
-| Nivolumab | 3 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes (RCC only) |
+| Nivolumab | 3 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Ipilimumab | 1 mg/kg over 30 minutes | - |
+
+dMMR or MSI-H colorectal cancer
+The recommended dose for first-line treatment of dMMR or MSI-H CRC is 240 mg of nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for a maximum of 4 doses, followed by nivolumab monotherapy administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 4.
+For the monotherapy phase, the first dose of nivolumab should be administered 3 weeks after the last dose of the combination of nivolumab and ipilimumab.
+Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+The recommended dose in patients who received prior fluoropyrimidine-based combination chemotherapy for dMMR or MSI-H CRC is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses, followed by nivolumab monotherapy administered intravenously 240 mg every 2 weeks, as presented in Table 4.
+For the monotherapy phase, the first dose of nivolumab should be administered 3 weeks after the last dose of the combination of nivolumab and ipilimumab.
+Table 4: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for dMMR or MSI-H CRC
+
+|  |  | Combination phase, every 3 weeks for 4 dosing cycles | Monotherapy phase |
+| --- | --- | --- | --- |
+| Nivolumab | First-line | 240 mg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes |
+|  | After prior fluoropyrimidine-based combination chemotherapy | 3 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes |
+| Ipilimumab |  | 1 mg/kg over 30 minutes | - |
 
 Oesophageal squamous cell carcinoma
 The recommended dose is either 3 mg/kg nivolumab every 2 weeks or 360 mg nivolumab every 3 weeks administered intravenously over 30 minutes in combination with 1 mg/kg ipilimumab administered intravenously over 30 minutes every 6 weeks.
@@ -75,7 +94,8 @@ OPDIVO in combination with cabozantinib
 
 Renal cell carcinoma
 The recommended dose is nivolumab administered intravenously at either 240 mg every 2 weeks or 480 mg every 4 weeks in combination with 40 mg cabozantinib administered orally every day.
-Table 4: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
+
+Table 5: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
 
 |  | Combination phase |
 | --- | --- |
@@ -97,7 +117,6 @@ The recommended dose is 360 mg nivolumab administered intravenously over 30 minu
 Oesophageal squamous cell carcinoma
 The recommended dose of nivolumab is 240 mg every 2 weeks or 480 mg every 4 weeks administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
-
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy administered every 3 weeks or 240 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine-and platinum-based chemotherapy administered every 2 weeks (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
@@ -114,16 +133,17 @@ For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 For OPDIVO in combination with cabozantinib, OPDIVO should be continued until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 Cabozantinib should be continued until disease progression or unacceptable toxicity.
 Refer to the Summary of Product Characteristics (SmPC) for cabozantinib.
+
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
 Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in combination with other therapeutic agents.
 Dosing delay or discontinuation may be required based on individual safety and tolerability.
-Guidelines for permanent discontinuation or withholding of doses are described in Table 5.
+Guidelines for permanent discontinuation or withholding of doses are described in Table 6.
 Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4.
 When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
 
-Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+Table 6: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 Immune-related Severity Treatment modification
 
@@ -136,6 +156,10 @@ resolve, radiographic abnormalities
 Immune-related improve, and management with
 pneumonitis corticosteroids is complete
 Grade 3 or 4 pneumonitis Permanently discontinue treatment
+Immune-related Severity Treatment modification
+
+adverse reaction
+
 Grade 2 diarrhoea or colitis Withhold dose(s) until symptoms
 
 resolve and management with corticosteroids, if needed, is complete
@@ -167,10 +191,6 @@ nephritis and renal with corticosteroids is complete
 dysfunction
 
 Grade 4 creatinine elevation Permanently discontinue treatment
-Immune-related Severity Treatment modification
-
-adverse reaction
-
 Symptomatic Grade 2 or 3 Withhold dose(s) until symptoms
 hypothyroidism, hyperthyroidism, resolve and management with
 hypophysitis, corticosteroids (if needed for symptoms
@@ -208,6 +228,10 @@ Immune-related corticosteroids is completec
 myocarditis
 
 Grade 3 or 4 myocarditis Permanently discontinue treatment
+Immune-related Severity Treatment modification
+
+adverse reaction
+
 Grade 3 (first occurrence) Withhold dose(s)
 
 Other immune-related Grade 4 or recurrent Grade 3; persistent
@@ -234,9 +258,10 @@ If dosing is resumed after a delay, either the combination treatment or OPDIVO m
 When OPDIVO is administered in combination with chemotherapy, refer to the SmPC of the other combination therapy agents regarding dosing.
 If any agents are withheld, the other agents may be continued.
 If dosing is resumed after a delay, either the combination treatment, OPDIVO monotherapy or chemotherapy alone could be resumed based on the evaluation of the individual patient.
+
 OPDIVO in combination with cabozantinib in RCC
 When OPDIVO is used in combination with cabozantinib, the above treatment modifications in
-Table 5 also apply to the OPDIVO component.
+Table 6 also apply to the OPDIVO component.
 In addition, for liver enzyme elevations, in patients with RCC being treated with OPDIVO in combination with cabozantinib:
 
 - If ALT or AST > 3 times ULN but ≤ 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both OPDIVO and cabozantinib should be withheld until these adverse reactions recover to Grades 0-1.
@@ -253,7 +278,6 @@ Currently available data of OPDIVO as monotherapy or in combination with ipilimu
 
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see section 5.2).
-
 Renal impairment
 Based on the population pharmacokinetic (PK) results, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.
@@ -266,7 +290,7 @@ OPDIVO must be administered with caution in patients with moderate (total biliru
 Method of administration
 
 OPDIVO is for intravenous use only.
-It is to be administered as an intravenous infusion over a period of 30 or 60 minutes depending on the dose (see Tables 1, 2, 3 and 4).
+It is to be administered as an intravenous infusion over a period of 30 or 60 minutes depending on the dose (see Tables 1, 2, 3, 4 and 5).
 The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 μm.
 
 OPDIVO must not be administered as an intravenous push or bolus injection.

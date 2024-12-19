@@ -6,6 +6,9 @@ In order to improve the traceability of biological medicinal products, the name 
 Assessment of PD-L1 status
 When assessing the PD-L1 status of the tumour, it is important that a well-validated and robust methodology is used.
 
+Assessment of MSI/MMR status
+When assessing the MSI-H and dMMR status of the tumour, it is important that a well-validated and robust methodology is used.
+
 Immune-related adverse reactions
 When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
@@ -67,6 +70,7 @@ Patients should be monitored for signs and symptoms of hepatitis such as transam
 Infectious and disease-related aetiologies should be ruled out.
 
 For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+
 For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld.
 Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
@@ -101,6 +105,7 @@ Nivolumab or nivolumab in combination with ipilimumab must be permanently discon
 For symptomatic Grade 2 adrenal insufficiency, nivolumab or nivolumab in combination with ipilimumab should be withheld, and physiologic corticosteroid replacement should be initiated as needed.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency.
 Monitoring of adrenal function and hormone levels should continue to ensure appropriate corticosteroid replacement is utilised.
+
 For symptomatic Grade 2 or 3 hypophysitis, nivolumab or nivolumab in combination with ipilimumab should be withheld, and hormone replacement should be initiated as needed.
 Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the pituitary gland is suspected.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
@@ -115,7 +120,6 @@ Immune-related skin adverse reactions
 Severe rash has been observed with nivolumab in combination with ipilimumab and, less commonly, with nivolumab as monotherapy (see section 4.8).
 Nivolumab or nivolumab in combination with ipilimumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
-
 Rare cases of SJS and TEN some of them with fatal outcome have been observed.
 If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment.
 If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
@@ -167,6 +171,7 @@ Before initiating treatment with the combination, physicians are advised to care
 
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
+
 Adjuvant treatment of melanoma
 There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1):
 
@@ -185,7 +190,6 @@ First-line treatment of NSCLC
 Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1).
 Limited data are available in elderly patients (≥ 75 years) (see section 5.1).
 In these patients, nivolumab in combination with ipilimumab and chemotherapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis.
-
 Treatment of NSCLC after prior chemotherapy
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
 Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
@@ -215,7 +219,6 @@ In the absence of data, nivolumab in combination with cabozantinib should be use
 When nivolumab is given with cabozantinib, higher frequencies of Grades 3 and 4 ALT and AST elevations have been reported relative to nivolumab monotherapy in patients with advanced RCC (see section 4.8).
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for cabozantinib).
-
 Classical Hodgkin lymphoma
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -235,6 +238,7 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
+
 Urothelial carcinoma
 Treatment of advanced urothelial carcinoma
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
@@ -247,7 +251,6 @@ In the absence of data, nivolumab should be used with caution in these populatio
 dMMR or MSI-H colorectal cancer
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Oesophageal squamous cell carcinoma
 First-line treatment of OSCC
 Patients with a baseline performance score ≥ 2, any history of concurrent brain metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the clinical trial in OSCC (see sections 4.5 and 5.1).
@@ -279,7 +282,7 @@ Patients with undetermined status were allowed in the study and represented 40.3
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
 This medicinal product contains 10 mg sodium per 4 mL vial, 25 mg sodium per 10 mL vial, 30 mg sodium per 12 mL vial or 60 mg sodium per 24 mL vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.
-
+Sodium intake could vary in case sodium chloride is used for the dilution steps.
 Patient alert card
 All prescribers of OPDIVO must be familiar with the physician information and management guidelines.
 The prescriber must discuss the risks of OPDIVO therapy with the patient.
