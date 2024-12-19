@@ -1,6 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential / Contraception in males and females
+Women of childbearing potential/Contraception in males and females
 Women of childbearing potential have to use effective contraception during and for at least 6 months after treatment.
 Men should be advised not to father a child while receiving treatment and must use effective contraception during and for at least 3 months after treatment.
 

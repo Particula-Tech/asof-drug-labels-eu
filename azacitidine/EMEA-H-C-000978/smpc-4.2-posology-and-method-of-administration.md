@@ -59,10 +59,10 @@ If bone marrow cellularity is ≤ 50%, treatment should be delayed and the dose 
 Following dose modifications, the next cycle duration should return to 28 days.
 
 Special populations
+
 Elderly patients
 No specific dose adjustments are recommended for the elderly.
 Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
-
 Patients with renal impairment
 Azacitidine can be administered to patients with renal impairment without initial dose adjustment (see section 5.2).
 If unexplained reductions in serum bicarbonate levels to less than 20 mmol/L occur, the dose should be reduced by 50% on the next cycle.

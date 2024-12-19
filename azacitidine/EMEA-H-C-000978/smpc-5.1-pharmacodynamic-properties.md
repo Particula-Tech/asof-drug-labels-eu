@@ -32,15 +32,20 @@ Log-Rank p = 0.0001
 HR = 0.58 [95% CI: 0.43-0.77]
 Deaths: AZA = 82, CCR = 113
 
-months
+50.8%
+24.46 months
 
-months
+15.02 months
+AZA CCR
+26.2%
 
 Time (months) from Randomization
-# at risk
 
-KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval;
-HR = hazard ratio
+# at risk
+AZA
+CCR
+
+KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = hazard ratio
 
 The survival benefits of Vidaza were consistent regardless of the CCR treatment option (BSC alone, low-dose cytarabine plus BSC or standard induction chemotherapy plus BSC) utilised in the control arm.
 
@@ -55,6 +60,7 @@ Vidaza treatment was also associated with a reduction in cytopenias, and their r
 Vidaza treatment led to a reduced need for red blood cell (RBC) and platelet transfusions.
 Of the patients in the azacitidine group who were RBC transfusion dependent at baseline, 45.0% of these patients became RBC transfusion independent during the treatment period, compared with 11.4% of the patients in the combined CCR groups (a statistically significant (p < 0.0001) difference of 33.6% (95% CI: 22.4, 44.6).
 In patients who were RBC transfusion dependent at baseline and became independent, the median duration of RBC transfusion independence was 13 months in the azacitidine group.
+
 Response was assessed by the investigator or by the Independent Review Committee (IRC).
 Overall response (complete remission [CR] + partial remission [PR]) as determined by the investigator was 29% in the azacitidine group and 12% in the combined CCR group (p = 0.0001).
 Overall response (CR + PR) as determined by the IRC in AZA PH GL 2003 CL 001 was 7% (12/179) in the azacitidine group compared with 1% (2/179) in the combined CCR group (p = 0.0113).
@@ -85,11 +91,26 @@ At baseline 60.7% were classified as AML not otherwise specified, 32.4% AML with
 In the ITT analysis of 488 patients (241 Vidaza and 247 CCR), Vidaza treatment was associated with a median survival of 10.4 months versus 6.5 months for those receiving CCR treatment, a difference of 3.8 months, with a stratified log-rank p-value of 0.1009 (two-sided).
 The hazard ratio for the treatment effect was 0.85 (95% CI = 0.69, 1.03).
 The one-year survival rates were 46.5% in patients receiving Vidaza versus 34.3% in patients receiving CCR.
+
+Treatment Azacitidine CCR Censored
+
+Unstratified Log_rank p = 0.0829, Stratified Log_rank p = 0.1009
+Median of Surv.: Azacitidine = 10.4 (8.0.
+12.7), CCR = 6.5 (5.0, 8.6)
+Events N(%): Azacitidine =193(80.1), CCR = 201(81.4)
+Censored N(%): Azacitidine 48(19.9), CCR = 46(18.6)
+Unstratified HR = 0.84 [95%CI; 0.69 – 1.02], Stratified HR = 0.85 [95%CI: 0.69 – 1.03]
+
+Time (month) from Randomization
+Number at risk
+CCR
+Azacitidine
+
 The Cox PH model adjusted for pre-specified baseline prognostic factors defined a HR for Vidaza versus CCR of 0.80 (95% CI = 0.66, 0.99; p = 0.0355).
 
 In addition, although the study was not powered to demonstrate a statistically significant difference when comparing azacitidine to the preselection CCR treatment groups, the survival of Vidaza treated patients was longer when compared to CCR treatment options BSC alone, low-dose cytarabine plus BSC and were similar when compared to standard intensive chemotherapy plus BSC.
 
-In all pre-specified subgroups (age [< 75 years and ≥ 75 years], gender, race, ECOG performance status [0 or 1 and 2] , baseline cytogenetic risk [intermediate and poor], geographic region, WHO classification of AML [including AML with myelodysplasia-related changes], baseline WBC count
+In all pre-specified subgroups (age [< 75 years and ≥ 75 years], gender, race, ECOG performance status [0 or 1 and 2], baseline cytogenetic risk [intermediate and poor], geographic region, WHO classification of AML [including AML with myelodysplasia-related changes], baseline WBC count
 [≤ 5 x109/L and > 5 x 109/L], baseline bone marrow blasts [≤ 50% and > 50%] and prior history of MDS), there was a trend in OS benefit in favour of Vidaza.
 In a few pre-specified subgroups, the OS HR reached statistical significance including patients with poor cytogenetic risk, patients with AML with myelodysplasia-related changes, patients < 75 years, female patients and white patients.
 

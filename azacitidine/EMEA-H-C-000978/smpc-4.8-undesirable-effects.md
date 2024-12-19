@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 Adult population with MDS, CMML and AML (20-30% marrow blasts)
 Adverse reactions considered to be possibly or probably related to the administration of Vidaza have occurred in 97% of patients.
 
@@ -12,6 +13,7 @@ The most commonly reported adverse reactions with azacitidine treatment were hae
 Adult population aged 65 years or older with AML with > 30% marrow blasts
 The most common serious adverse reactions (≥ 10%) noted from AZA-AML-001 within the azacitidine treatment arm included febrile neutropenia (25.0%), pneumonia (20.3%), and pyrexia (10.6%).
 Other less frequently reported serious adverse reactions in the azacitidine treatment arm included sepsis (5.1%), anaemia (4.2%), neutropenic sepsis (3.0%), urinary tract infection (3.0%), thrombocytopenia (2.5%), neutropenia (2.1%), cellulitis (2.1%), dizziness (2.1%) and dyspnoea (2.1%).
+
 The most commonly reported (≥ 30%) adverse reactions with azacitidine treatment were gastrointestinal events, including constipation (41.9%), nausea (39.8%), and diarrhoea (36.9%; usually Grade 1-2), general disorders and administration site conditions including pyrexia (37.7%; usually Grade 1-2) and haematological events, including febrile neutropenia (32.2%) and neutropenia (30.1%; usually Grade 3-4).
 
 Tabulated list of adverse reactions
@@ -27,7 +29,7 @@ Table 1: Adverse reactions reported in patients with MDS or AML treated with aza
 | System Organ Class | Very common | Common | Uncommon | Rare | Not Known |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | pneumonia* (including bacterial, viral and fungal), nasopharyngitis | sepsis* (including bacterial, viral and fungal), neutropenic sepsis*, respiratory tract infection (includes upper and bronchitis), urinary tract infection, cellulitis, diverticulitis, oral fungal infection, sinusitis, pharyngitis, rhinitis, herpes simplex, skin infection |  |  | necrotising fasciitis* |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | differentiation syndrome*,a |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | differentiation syndrome*, a |
 | Blood and lymphatic system disorders | febrile neutropenia*, neutropenia, leukopenia, thrombocytopenia, anaemia | pancytopenia*, bone marrow failure |  |  |  |
 | Immune system disorders |  |  | hypersensitivity reactions |  |  |
 | Metabolism and nutrition disorders | anorexia, decreased appetite, hypokalemia | dehydration |  | tumour lysis syndrome |  |
@@ -36,10 +38,10 @@ Table 1: Adverse reactions reported in patients with MDS or AML treated with aza
 | Eye disorders |  | eye haemorrhage, conjunctival haemorrhage |  |  |  |
 | Cardiac disorders |  | pericardial effusion | pericarditis |  |  |
 | Vascular disorders |  | hypotension*, hypertension, orthostatic hypotension, haematoma |  |  |  |
-| Respiratory, thoracic and mediastinal disorders | dyspnoea, epistaxis | pleural effusion, dyspnoea exertional, pharyngolaryngeal pain |  | interstitial lung disease |  |
+| Respiratory, thoracic and mediastinal disorders | dyspnoea, epistaxis | pleural effusion, dyspnoea exertional, pharyngolarynge al pain |  | interstitial lung disease |  |
 | Gastrointestinal disorders | diarrhoea, vomiting, constipation, nausea, abdominal pain (includes upper and abdominal discomfort) | gastrointestinal haemorrhage* (includes mouth haemorrhage), haemorrhoidal haemorrhage, stomatitis, gingival bleeding, dyspepsia |  |  |  |
 | Hepatobiliary disorders |  |  | hepatic failure*, progressive hepatic coma |  |  |
-| Skin and subcutaneous tissue disorders | petechiae, pruritus (includes generalized), rash, ecchymosis | purpura, alopecia, urticaria, erythema, rash macular | acute febrile neutrophilic dermatosis, pyoderma gangrenosum |  |  |
+| Skin and subcutaneous tissue disorders | petechiae, pruritus (includes generalized), rash, ecchymosis | purpura, alopecia, urticaria, erythema, rash macular | acute febrile neutrophilic dermatosis, pyoderma gangrenosum |  | cutaneous vasculitis |
 | Musculoskeletal and connective tissue disorders | arthralgia, musculoskeletal pain (includes back, bone and pain in extremity) | muscle spasms, myalgia |  |  |  |
 | Renal and urinary disorders |  | renal failure*, haematuria, elevated serum creatinine | renal tubular acidosis |  |  |
 | General disorders and administration site conditions | pyrexia*, fatigue, asthenia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage (at injection site), malaise, chills, catheter site hemorrhage |  | injection site necrosis (at injection site) |  |
@@ -48,6 +50,7 @@ Table 1: Adverse reactions reported in patients with MDS or AML treated with aza
 * = rarely fatal cases have been reported a = see section 4.4
 
 Description of selected adverse reactions
+
 Haematologic adverse reactions
 The most commonly reported (≥ 10%) haematological adverse reactions associated with azacitidine treatment include anaemia, thrombocytopenia, neutropenia, febrile neutropenia and leukopenia, and were usually Grade 3 or 4.
 There is a greater risk of these events occurring during the first 2 cycles, after which they occur with less frequency in patients with restoration of haematological function.
