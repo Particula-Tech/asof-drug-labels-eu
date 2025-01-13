@@ -49,7 +49,7 @@ Table 2: Adverse Drug Reactions (ADRs) for Adolescents
 | Immune System Disorders |  |  | Hypersensitivity |  |  |
 | Endocrine disorders |  | Hyperprolactinaemia (including blood prolactin increased) | Autoimmune thyroiditis Hyperandrogenism Hypothyroidism |  |  |
 | Metabolism and nutrition disorders |  | Decreased appetite Increased appetite | Hyperinsulinemia |  |  |
-| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) Hallucination (visual) Homicidal ideation Impulsive behaviour Initial insomnia Libido decreased Libido increased Listless Mental status changes Obsessive thoughts |  |  |
+| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) Hallucination (visual) Homicidal ideation Impulsive behaviour Initial insomnia Libido decreased Libido increased Listlessness Mental status changes Obsessive thoughts |  |  |
 
 System Organ Very Common Uncommon Rare Frequency
 Class Common not known
