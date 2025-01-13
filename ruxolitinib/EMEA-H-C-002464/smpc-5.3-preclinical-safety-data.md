@@ -14,7 +14,6 @@ Based on unbound AUC, the exposure at the NOAEL (no observed adverse effect leve
 The effects were generally more severe when administration was initiated earlier in the postnatal period.
 Other than bone development, the effects of ruxolitinib in juvenile rats were similar to those in adult rats.
 Juvenile rats are more sensitive than adult rats to ruxolitinib toxicity.
-
 Ruxolitinib decreased foetal weight and increased post-implantation loss in animal studies.
 There was no evidence of a teratogenic effect in rats and rabbits.
 However, the exposure margins compared to the highest clinical dose were low and the results are therefore of limited relevance for humans.

@@ -10,4 +10,8 @@ Jakavi is indicated for the treatment of adult patients with polycythaemia vera 
 
 Graft versus host disease (GvHD)
 
-Jakavi is indicated for the treatment of patients aged 12 years and older with acute graft versus host disease or chronic graft versus host disease who have inadequate response to corticosteroids or other systemic therapies (see section 5.1).
+Acute GvHD
+Jakavi is indicated for the treatment of adults and paediatric patients aged 28 days and older with acute graft versus host disease who have inadequate response to corticosteroids or other systemic therapies (see section 5.1).
+
+Chronic GvHD
+Jakavi is indicated for the treatment of adults and paediatric patients aged 6 months and older with chronic graft versus host disease who have inadequate response to corticosteroids or other systemic therapies (see section 5.1).

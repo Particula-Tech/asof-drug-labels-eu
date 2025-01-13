@@ -5,16 +5,16 @@ Absorption
 Ruxolitinib is a Biopharmaceutical Classification System (BCS) class 1 compound, with high permeability, high solubility and rapid dissolution characteristics.
 In clinical studies, ruxolitinib is rapidly absorbed after oral administration with maximal plasma concentration (Cmax) achieved approximately 1 hour post-dose.
 Based on a human mass balance study, oral absorption of ruxolitinib, as ruxolitinib or metabolites formed under first-pass, is 95% or greater.
-Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5-200 mg.
+Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5 to 200 mg.
 There was no clinically relevant change in the pharmacokinetics of ruxolitinib upon administration with a high-fat meal.
 The mean Cmax was moderately decreased (24%) while the mean AUC was nearly unchanged (4% increase) on dosing with a high-fat meal.
 
 Distribution
 
-The mean volume of distribution at steady state is approximately 75 litres in MF and PV patients.
+The mean volume of distribution at steady state is approximately 75 litres in MF and PV patients, 67.5 litres in adolescent and adult acute GvHD patients and 60.9 litres in adolescent and adult chronic GvHD patients.
+The mean volume of distribution at steady state is approximately 30 litres in paediatric patients with acute or chronic GvHD and with a body surface area (BSA) below 1 m2.
 At clinically relevant concentrations of ruxolitinib, binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 A whole body autoradiography study in rats has shown that ruxolitinib does not penetrate the blood-brain barrier.
-
 Biotransformation
 
 Ruxolitinib is mainly metabolised by CYP3A4 (>50%), with additional contribution from CYP2C9.
@@ -35,22 +35,32 @@ Unchanged parent substance accounted for less than 1% of the excreted total radi
 Linearity/non-linearity
 
 Dose proportionality was demonstrated in the single and multiple dose studies.
+
 Special populations
 
-Effects of body surface area, age, gender or race
+Effects of age, gender or race
 Based on studies in healthy subjects, no relevant differences in ruxolitinib pharmacokinetics were observed with regard to gender and race.
+
+Population pharmacokinetics
 In a population pharmacokinetic evaluation in MF patients, no relationship was apparent between oral clearance and patient age or race.
 The predicted oral clearance was 17.7 l/h in women and 22.1 l/h in men, with 39% inter-subject variability in MF patients.
 Clearance was 12.7 l/h in PV patients, with a 42% inter-subject variability and no relationship was apparent between oral clearance and gender, patient age or race, based on a population pharmacokinetic evaluation in PV patients.
-Clearance was 10.4 l/h in patients with acute GvHD and 7.8 l/h in patients with chronic GvHD, with a 49% inter-subject variability.
+Clearance was 10.4 l/h in adolescent and adult patients with acute GvHD and 7.8 l/h in adolescent and adult patients with chronic GvHD, with a 49% inter-subject variability.
+In paediatric patients with acute or chronic GvHD and with a BSA below 1 m2, clearance was between 6.5 and 7 l/h.
 No relationship was apparent between oral clearance and gender, patient age or race, based on a population pharmacokinetic evaluation in GvHD patients.
-Exposure was increased in GvHD patients with a low body surface area (BSA).
+At a dose of 10 mg twice daily, exposure was increased in GvHD patients with a low BSA.
 In subjects with a BSA of 1 m2, 1.25 m2 and 1.5 m2, the predicted mean exposure (AUC) was respectively 31%, 22% and 12% higher than the typical adult (1.79 m2).
 
 Paediatric population
 The pharmacokinetics of Jakavi in paediatric patients <18 years old with MF and PV have not been established.
-The pharmacokinetics profile observed in adolescent patients with acute or chronic GvHD was comparable to the overall patient population (see section 5.1, “Paediatric population”).
-Ruxolitinib has not yet been evaluated in paediatric patients with acute or chronic GvHD below the age of 12.
+
+As in adult patients with GvHD, ruxolitinib was rapidly absorbed after oral administration in paediatric patients with GvHD.
+Dosing in children between 6 and 11 years old at 5 mg twice daily achieved comparable exposure to a dose of 10 mg twice daily in adolescents and adults with acute and chronic GvHD, confirming the exposure matching approach implemented as part of the extrapolation assumption.
+In children between 2 and 5 years old with acute and chronic GvHD, the exposure matching approach suggested a dose of 8 mg/m2 twice daily.
+Ruxolitinib has not been evaluated in paediatric patients with acute or chronic GvHD below the age of 2 years, therefore modelling which accounts for age-related aspects in younger patients has been used to predict the exposure in these patients, based on the data from adult patients.
+
+Based on a pooled population pharmacokinetic analysis in paediatric patients with acute or chronic GvHD, clearance of ruxolitinib decreased with decreasing BSA.
+After correcting for the BSA effect, other demographic factors such as age, body weight and body mass index did not have clinically significant effects on the exposure of ruxolitinib.
 
 Renal impairment
 Renal function was determined using both Modification of Diet in Renal Disease (MDRD) and urinary creatinine.
@@ -63,7 +73,15 @@ Dosing only on dialysis days reduces the metabolite exposure, but also the pharm
 Hepatic impairment
 Following a single ruxolitinib dose of 25 mg in patients with varying degrees of hepatic impairment, the mean AUC for ruxolitinib was increased in patients with mild, moderate and severe hepatic impairment by 87%, 28% and 65%, respectively, compared to patients with normal hepatic function.
 There was no clear relationship between AUC and the degree of hepatic impairment based on Child-Pugh scores.
-The terminal elimination half-life was prolonged in patients with hepatic impairment compared to healthy controls (4.1-5.0 hours versus 2.8 hours).
+The terminal elimination half-life was prolonged in patients with hepatic impairment compared to healthy controls (4.1 to 5.0 hours versus 2.8 hours).
 A dose reduction of approximately 50% is recommended for MF and PV patients with hepatic impairment (see section 4.2).
 
 In GvHD patients with hepatic impairment not related to GvHD, the starting dose of ruxolitinib should be reduced by 50%.
+
+[Jakavi 5 mg/ml oral solution]
+
+The mean volume of distribution at steady state is approximately 67.5 litres in adolescent and adult acute GvHD patients and 60.9 litres in adolescent and adult chronic GvHD patients.
+
+Clearance was 10.4 l/h in adolescent and adult patients with acute GvHD and 7.8 l/h in adolescent and adult patients with chronic GvHD, with a 49% intersubject variability.
+
+A dose modification is recommended in patients with severe renal impairment.

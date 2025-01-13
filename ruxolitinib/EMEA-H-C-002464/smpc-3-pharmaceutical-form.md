@@ -13,3 +13,9 @@ Ovaloid curved white to almost white tablets of approximately 15.0 x 7.0 mm with
 
 Jakavi 20 mg tablets
 Elongated curved white to almost white tablets of approximately 16.5 x 7.4 mm with “NVR” debossed one one side and “L20” debossed on the other side.
+
+[Jakavi 5 mg/ml oral solution]
+
+Oral solution.
+
+Clear, colourless to light yellow solution, which may have some small colourless particles or a small amount of sediment in it.
