@@ -51,18 +51,25 @@ Physicians should assess the risk of depression and suicide considering the pati
 Physicians should advise patients (and caregivers where appropriate) to contact their health care provider about new or worsening psychiatric symptoms.
 In patients who experience such symptoms, treatment discontinuation should be considered.
 
+Severe cutaneous adverse reactions
+
+Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported in association with Benlysta treatment.
+Patients should be advised of the signs and symptoms of SJS and TEN and monitored closely for skin reactions.
+If signs and symptoms suggestive of these reactions appear, Benlysta should be withdrawn immediately, and an alternative treatment should be considered.
+If the patient has developed SJS or TEN with the use of Benlysta, treatment with Benlysta must not be restarted in this patient at any time.
+
 Progressive multifocal leukoencephalopathy
 
 Progressive multifocal leukoencephalopathy (PML) has been reported with Benlysta treatment for SLE.
 Physicians should be particularly alert to symptoms suggestive of PML that patients may not notice (e.g., cognitive, neurological or psychiatric symptoms or signs).
-Patients should be monitored for any of these new or worsening symptoms or signs, and if such symptoms/signs occur, referral to a neurologist and appropriate diagnostic measures for PML should be considered.
-If PML is suspected, further dosing must be suspended until PML has been excluded.
+Patients should be monitored for any of these new or worsening symptoms or signs, and if such symptoms/signs occur, referral to a neurologist and appropriate diagnostic measures for PML should be considered as clinically indicated.
+If PML is suspected, immunosuppressant therapy, including Benlysta, must be suspended until PML has been excluded.
+If PML is confirmed, immunosuppressant therapy, including Benlysta, must be discontinued.
 
 Immunisation
 
 Live vaccines should not be given for 30 days before, or concurrently with Benlysta, as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving Benlysta.
-
 Because of its mechanism of action, belimumab may interfere with the response to immunisations.
 However, in a small study evaluating the response to a 23-valent pneumococcal vaccine, overall immune responses to the different serotypes were similar in SLE patients receiving Benlysta compared with those receiving standard immunosuppressive treatment at the time of vaccination.
 There are insufficient data to draw conclusions regarding response to other vaccines.

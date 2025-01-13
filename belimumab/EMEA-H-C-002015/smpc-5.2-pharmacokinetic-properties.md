@@ -77,7 +77,7 @@ In patients with lupus nephritis, due to renal disease activity, belimumab clear
 
 Paediatric population: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 patients from a study in paediatric patients with SLE.
 Following intravenous administration of 10 mg/kg on Days 0, 14 and 28, and at 4-week intervals thereafter, belimumab exposures were similar between paediatric and adult SLE subjects.
-Steady-state geometric mean Cmax, Cmin, and AUC values were 305 µg/mL, 42 µg/mL, and 2569 day•µg/mL in the 5- to 11-year-old-group, and 317 µg/mL, 52 µg/mL, and 3126 day•µg/mL in the 12- to 17-year-old-group (n = 43).
+Steady-state geometric mean Cmax, Cmin, and AUC values were 305 μg/mL, 42 μg/mL, and 2569 day•μg/mL in the 5- to 11-year-old-group, and 317 μg/mL, 52 μg/mL, and 3126 day•μg/mL in the 12- to 17-year-old-group (n = 43).
 
 Within the overall SLE intravenous study population, age did not affect belimumab exposure in the population pharmacokinetic analysis.
 However, given the small number of subjects ≥ 65 years, an effect of age cannot be ruled out conclusively.
