@@ -1,3 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V., Paasheuvelweg 25, 1105 BP Amsterdam, the Netherlands
+Sanofi Winthrop Industrie
+82 Avenue Raspail
+94250 Gentilly
+France
