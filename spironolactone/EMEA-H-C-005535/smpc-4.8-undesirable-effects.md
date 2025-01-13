@@ -3,7 +3,6 @@
 Summary of the safety profile
 
 The most frequent adverse reactions of spironolactone include: hyperkalaemia, reported in 17.5% of patients, particularly in patients with renal impairment or if receiving ACE-inhibitors or angiotensin II antagonists concomitantly; gynaecomastia and breast pain, reported in 9% of males.
-
 The following undesirable effects have been observed in clinical trials and reported during treatment with spironolactone with the following frequencies: very common (≥ 1/10); common (≥ 1/100 to
 < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); not known (cannot be estimated from the available data).
 Table 2 presented below is according to the MedDRA system organ classification and frequency.
@@ -32,11 +31,8 @@ Table 2 Tabulated list of adverse reactions
 | Reproductive system and breast disorders | Common | Gynaecomastia*, Breast pain** |
 |  | Uncommon | Menstrual disorder |
 |  | Not known | Impotence |
-| General | Common | Malaise |
-
-disorders and Not known Drug fever
-administration
-site conditions
+| General disorders and administration site conditions | Common | Malaise |
+|  | Not known | Drug fever |
 
 * Gynaecomastia may develop in association with the use of spironolactone.
 Development appears to be related to both dose level and duration of therapy and is normally reversible when the medicinal product is discontinued.

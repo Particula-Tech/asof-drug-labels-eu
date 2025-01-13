@@ -7,8 +7,8 @@ Mechanism of action
 Spironolactone, as a competitive aldosterone antagonist, increases sodium excretion whilst reducing potassium loss at the distal renal tubule.
 It has a gradual and prolonged action, maximum response being usually attained after 2 to 3 days treatment.
 Combination of spironolactone with a conventional, more proximally acting diuretic usually enhances diuresis without excessive potassium loss.
-
 Clinical efficacy and safety
+
 Severe heart failure
 
 RALES was a multinational, double-blind study in 1 663 patients with an ejection fraction of ≤ 35%, a history of New York Heart Association (NYHA) Class IV heart failure within 6 months, and Class III-IV heart failure at the time of randomization.

@@ -36,3 +36,5 @@ Caution should be exercised in the management of patients subjected to regional 
 Spironolactone enhances the metabolism of antipyrine.
 
 In fluorimetric assays, spironolactone may interfere with the estimation of compounds with similar fluorescence characteristics.
+
+Spironolactone may reduce mitotane plasma levels in adrenocortical carcinoma patients treated with mitotane and should not be used concomitantly with mitotane.
