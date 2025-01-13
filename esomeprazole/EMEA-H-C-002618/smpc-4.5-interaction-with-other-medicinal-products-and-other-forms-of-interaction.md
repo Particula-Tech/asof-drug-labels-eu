@@ -46,7 +46,6 @@ Medicinal products metabolised by CYP2C19
 Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme.
 Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed.
 In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
-
 Warfarin
 Concomitant administration of 40 mg esomeprazole to warfarin-treated patients in a clinical study showed that coagulation times were within the accepted range.
 However, post-marketing, a few isolated cases of elevated INR of clinical significance have been reported during concomitant treatment.
@@ -54,6 +53,7 @@ Monitoring is recommended when initiating and ending concomitant esomeprazole tr
 
 Clopidogrel
 Results from studies in healthy subjects have shown a pharmacokinetic (PK)/pharmacodynamic (PD) interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg orally daily) resulting in decreased exposure to the active metabolite of clopidogrel by an average of 40%, and resulting in decreased maximum inhibition of (ADP induced) platelet aggregation by an average of 14%.
+
 In a study in healthy subjects, there was a decreased exposure by almost 40% of the active metabolite of clopidogrel when a fixed dose combination of esomeprazole 20 mg + acetylsalicylic acid 81 mg was given with clopidogrel compared to clopidogrel alone.
 However, the maximum levels of inhibition of (ADP induced) platelet aggregation in these subjects were the same in both groups.
 
@@ -84,7 +84,6 @@ Esomeprazole has been shown to have no clinically relevant effects on the pharma
 
 Naproxen or rofecoxib
 Studies evaluating concomitant administration of esomeprazole and either naproxen or rofecoxib did not identify any clinically relevant pharmacokinetic interactions during short-term studies.
-
 Effects of other medicinal products on the pharmacokinetics of esomeprazole
 Medicinal products which inhibit CYP2C19 and/or CYP3A4
 Esomeprazole is metabolised by CYP2C19 and CYP3A4.
@@ -93,6 +92,7 @@ Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 a
 The CYP2C19 and CYP3A4 inhibitor voriconazole increased omeprazole AUCt by 280%.
 A dose adjustment of esomeprazole is not regularly required in either of these situations.
 However, dose adjustment should be considered in patients with severe hepatic impairment and if long-term treatment is indicated.
+
 Medicinal products which induce CYP2C19 and/or CYP3A4
 Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John’s wort (Hypericum perforatum)) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
 

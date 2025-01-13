@@ -17,6 +17,7 @@ After repeated administration with 20 mg esomeprazole once daily for five days, 
 After five days of oral dosing with 20 mg and 40 mg of esomeprazole, intragastric pH above 4 was maintained for a mean time of 13 hours and 17 hours, respectively over 24 hours in symptomatic gastroesophageal reflux disease (GERD) patients.
 The proportion of patients maintaining an intragastric pH above 4 for at least 8, 12 and 16 hours respectively were for esomeprazole 20 mg 76%, 54% and 24%.
 Corresponding proportions for esomeprazole 40 mg were 97%, 92% and 56%.
+
 Using AUC as a surrogate parameter for plasma concentration, a relationship between inhibition of acid secretion and exposure has been shown.
 
 During treatment with antisecretory medicinal products, serum gastrin increases in response to the decreased acid secretion.

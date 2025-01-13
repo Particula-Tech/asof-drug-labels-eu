@@ -40,6 +40,13 @@ Proton pump inhibitors are associated with very infrequent cases of SCLE.
 If lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the patient should seek medical help promptly and the health care professional should consider stopping Nexium Control.
 SCLE after previous treatment with a proton pump inhibitor may increase the risk of SCLE with other proton pump inhibitors.
 
+Severe cutaneous adverse reactions (SCARs)
+Severe cutaneous adverse reactions (SCARs) such as erythema multiforme (EM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS) which can be life-threatening or fatal, have been reported very rarely in association with esomeprazole treatment.
+
+Patients should be advised of the signs and symptoms of the severe skin reaction EM/SJS/TEN/DRESS and should seek medical advice from their physician immediately when observing any indicative signs or symptoms.
+Esomeprazole should be discontinued immediately upon signs and symptoms of severe skin reactions and additional medical care/close monitoring should be provided as needed.
+Re-challenge should not be undertaken in patients with EM/SJS/TEN/DRESS.
+
 Sucrose
 This medicinal product contains sugar spheres (sucrose).
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.

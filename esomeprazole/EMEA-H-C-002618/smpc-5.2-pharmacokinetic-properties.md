@@ -32,7 +32,6 @@ The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d
 The area under the plasma concentration-time curve increases with repeated administration of esomeprazole.
 This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration.
 This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
-
 Special patient populations
 Poor metabolisers
 Approximately 2.9±1.5% of the population lack a functional CYP2C19 enzyme and are called poor metabolisers.
@@ -45,6 +44,7 @@ Gender
 Following a single dose of 40 mg esomeprazole the mean are under the plasma concentration-time curve is approximately 30% higher in females than in males.
 No gender difference is seen after repeated once-daily administration.
 These findings have no implications for the posology of esomeprazole.
+
 Hepatic impairment
 The metabolism of esomeprazole in patients with mild to moderate liver dysfunction may be impaired.
 The metabolic rate is decreased in patients with severe liver dysfunction resulting in a doubling of the area under the plasma concentration-time curve of esomeprazole.
