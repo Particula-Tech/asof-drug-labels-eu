@@ -32,7 +32,7 @@ The infusion must be permanently discontinued in these patients (see section 4.3
 
 Severe IRRs
 
-If a patient experiences a severe IRR (such as dyspnea) or a complex of flushing, fever, and throat pain symptoms, the infusion should be interrupted immediately, and the patient should receive symptomatic treatment.
+If a patient experiences a severe IRR (such as dyspnoea) or a complex of flushing, fever, and throat pain symptoms, the infusion should be interrupted immediately, and the patient should receive symptomatic treatment.
 The infusion should be restarted only after all symptoms have resolved.
 The initial infusion rate at restart should be half of the infusion rate at the time of onset of the reaction.
 No infusion adjustment is necessary for subsequent new infusions, unless the patient experiences an IRR.
@@ -91,7 +91,7 @@ Patients may start treatment using intravenous or subcutaneous ocrelizumab.
 After dilution, treatment is administered as an intravenous infusion through a dedicated line.
 Infusions should not be administered as an intravenous push or bolus.
 
-If patients did not experience a serious infusion-related reaction (IRR) with any previous ocrelizumab infusion, a shorter (2-hour) infusion can be administered for subsequent doses (Table 1, Option 2).
+If patients did not experience a serious infusion-related reaction (IRR) with any previous ocrelizumab infusion, a shorter (2-hour) infusion can be administered for subsequent doses (see Table 1, Option 2).
 Table 1: Dose and schedule
 
 |  |  | Amount of ocrelizumab to be administered | Infusion instructions |

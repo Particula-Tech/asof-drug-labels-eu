@@ -18,8 +18,7 @@ Pharmacodynamic effects
 Treatment with ocrelizumab leads to rapid depletion of CD19+ B cells in blood by 14 days post treatment (first time-point of assessment) as an expected pharmacologic effect.
 This was sustained throughout the treatment period.
 For the B-cell counts, CD19 is used, as the presence of ocrelizumab interferes with the recognition of CD20 by the assay.
-
-In the Phase III studies, between each dose of ocrelizumab, up to 5% of patients showed B-cell repletion (> lower limit of normal (LLN) or baseline) at least at one time point.
+In the Phase III studies, between each dose of ocrelizumab, up to 5% of patients showed B-cell repletion (>LLN or baseline) at least at one time point.
 The extent and duration of B-cell depletion was consistent in the PPMS and RMS trials.
 
 The longest follow up time after the last infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 – 175 weeks).
@@ -213,10 +212,10 @@ The impact of treatment-emergent ADAs on safety and efficacy cannot be assessed 
 Immunisations
 
 In a randomised open-label study in RMS patients (N=102), the percentage of patients with a positive response to tetanus vaccine at 8 weeks after vaccination was 23.9% in the ocrelizumab group compared to 54.5% in the control group (no disease-modifying therapy except interferon-beta).
-Geometric mean anti-tetanus toxoid specific antibody titers at 8 weeks were 3.74 and 9.81 IU/ml, respectively.
+Geometric mean anti-tetanus toxoid specific antibody titres at 8 weeks were 3.74 and 9.81 IU/ml, respectively.
 Positive response to ≥5 serotypes in 23-PPV at 4 weeks after vaccination was 71.6% in the ocrelizumab group and 100% in the control group.
 In patients treated with ocrelizumab a booster vaccine (13-PCV) given 4 weeks after 23-PPV did not markedly enhance the response to 12 serotypes in common with 23-PPV.
-The percentage of patients with seroprotective titers against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with ocrelizumab and 75.0−97.0% in the control group, respectively.
+The percentage of patients with seroprotective titres against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with ocrelizumab and 75.0−97.0% in the control group, respectively.
 See sections 4.4 and 4.5.
 
 Paediatric population
@@ -230,7 +229,7 @@ Subcutaneous ocrelizumab contains recombinant human hyaluronidase (rHuPH20), an 
 
 This was sustained throughout the treatment period with intravenous ocrelizumab.
 
-In the Phase III studies, between each dose of intravenous ocrelizumab, up to 5% of patients showed B-cell repletion (> lower limit of normal (LLN) or baseline) at least at one time point.
+In the Phase III studies, between each dose of intravenous ocrelizumab, up to 5% of patients showed B-cell repletion (> LLN or baseline) at least at one time point.
 
 The longest follow up time after the last intravenous infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 - 175 weeks).
 
@@ -239,7 +238,6 @@ Subcutaneous formulation
 OCARINA II
 Study CN42097 (OCARINA II) was a multi-center, randomised, open-label, parallel arm trial conducted to evaluate the pharmacokinetics, pharmacodynamics, safety, immunogenicity, radiological and clinical effects of subcutaneous ocrelizumab compared with intravenous ocrelizumab in patients with either RMS or PPMS.
 OCARINA II was designed to demonstrate non-inferiority of treatment with subcutaneous ocrelizumab versus intravenous ocrelizumab based on the primary PK endpoint of area under the concentration time curve (AUC) up to week 12 post-injection/infusion (AUCw1-12).
-
 A total of 236 patients with RMS or PPMS (213 patients with RMS, 23 patients with PPMS) were randomised in a 1:1 ratio to the subcutaneous arm or intravenous arm.
 During the controlled period (Day 0 to Week 24), patients received either a single 920 mg subcutaneous injection at study Day 1 or two 300 mg intravenous infusions at study Day 1 and 14.
 After the controlled period, all patients had the opportunity to receive further subcutaneous injections of 920 mg ocrelizumab at Weeks 24 and 48 (Dose 2 and 3, respectively).
@@ -305,4 +303,4 @@ Patients in MS trials (WA21092, WA21093 and WA25046) were tested at multiple tim
 In a randomised open-label study in RMS patients (N=102), the percentage of patients with a positive response to tetanus vaccine at 8 weeks after vaccination was 23.9% in the intravenous ocrelizumab group compared to 54.5% in the control group (no disease-modifying therapy except interferon-beta).
 Positive response to ≥5 serotypes in 23-PPV at 4 weeks after vaccination was 71.6% in the intravenous ocrelizumab group and 100% in the control group.
 In patients treated with intravenous ocrelizumab a booster vaccine (13-PCV) given 4 weeks after 23-PPV did not markedly enhance the response to 12 serotypes in common with 23-PPV.
-The percentage of patients with seroprotective titers against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with intravenous ocrelizumab and 75.0−97.0% in the control group, respectively.
+The percentage of patients with seroprotective titres against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with intravenous ocrelizumab and 75.0−97.0% in the control group, respectively.
