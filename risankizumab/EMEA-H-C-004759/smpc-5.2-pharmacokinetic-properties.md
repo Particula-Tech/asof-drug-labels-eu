@@ -11,7 +11,6 @@ With dosing of 150 mg at week 0, week 4, and every 12 weeks thereafter, estimate
 
 Bioequivalence was demonstrated between a single risankizumab 150 mg injection and two risankizumab 75 mg injections in pre-filled syringe.
 Bioequivalence was also demonstrated between risankizumab 150 mg pre-filled syringe and pre-filled pen.
-
 Distribution
 
 The mean (±standard deviation) steady-state volume of distribution (Vss) of risankizumab was 11.4 (±2.7) L in Phase 3 studies in subjects with psoriasis, indicating that the distribution of risankizumab is primarily confined to the vascular and interstitial spaces.
@@ -25,6 +24,7 @@ Elimination
 
 The mean (±standard deviation) systemic clearance (CL) of risankizumab was 0.3 (±0.1) L/day in Phase 3 studies in subjects with psoriasis.
 The mean terminal elimination half-life of risankizumab ranged from 28 to 29 days in Phase 3 studies in subjects with psoriasis.
+
 As an IgG1 monoclonal antibody, risankizumab is not expected to be filtered by glomerular filtration in the kidneys or to be excreted as an intact molecule in the urine.
 
 Linearity/non-linearity
@@ -49,7 +49,6 @@ Elderly
 Of the 2 234 subjects with plaque psoriasis exposed to risankizumab, 243 were 65 years or older and 24 subjects were 75 years or older.
 Of the 1 542 subjects with psoriatic arthritis exposed to risankizumab, 246 were 65 years or older and 34 subjects were 75 years or older.
 No overall differences in risankizumab exposure were observed between older and younger subjects who received risankizumab.
-
 Patients with renal or hepatic impairment
 
 No specific studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab.
@@ -76,7 +75,6 @@ Risankizumab exhibited linear pharmacokinetics with dose-proportional increase i
 
 Following subcutaneous dosing of risankizumab, peak plasma concentrations were achieved between 3-14 days after dosing with an estimated absolute bioavailability of 74-89%.
 With dosing of 150 mg at week 0, week 4 and every 12 weeks thereafter, estimated steady-state peak and trough plasma concentrations are 12 and 2 µg/mL, respectively.
-
 In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at weeks 0, 4, and 8 followed by 360 mg subcutaneous maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 156 and 38.8 µg/mL respectively during the induction period (weeks 8-12) and steady-state median peak and trough concentrations are estimated to be 28.0 and 8.13 µg/mL respectively during the maintenance period (weeks 40-48).
 
 In subjects with ulcerative colitis treated with 1 200 mg intravenous induction dose at weeks 0, 4, and 8 followed by 180 mg or 360 mg subcutaneous maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 350 and 87.7 µg/mL respectively during the induction period (weeks 8-12) and steady-state median peak and trough concentrations are estimated to be 19.6 and 4.64 µg/mL for the 180 mg subcutaneous dose and 39.2 and 9.29 µg/mL for the 360 mg subcutaneous dose, respectively, during the maintenance period (weeks 40-48).

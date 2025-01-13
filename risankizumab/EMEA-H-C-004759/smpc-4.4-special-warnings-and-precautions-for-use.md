@@ -27,7 +27,8 @@ If a patient has received live vaccination (viral or bacterial), it is recommend
 Patients treated with risankizumab should not receive live vaccines during treatment and for at least 21 weeks after treatment (see section 5.2).
 Hypersensitivity
 
-If a serious hypersensitivity reaction, including anaphylaxis, occurs, administration of risankizumab should be discontinued immediately and appropriate therapy initiated.
+Serious hypersensitivity reactions, including anaphylaxis, have been reported with use of risankizumab (see section 4.8).
+If a serious hypersensitivity reaction occurs, administration of risankizumab should be discontinued immediately and appropriate therapy initiated.
 
 Excipients with known effect
 

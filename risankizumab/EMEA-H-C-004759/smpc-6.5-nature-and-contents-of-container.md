@@ -37,6 +37,7 @@ The administration device is designed for use with the provided 360 mg cartridge
 Skyrizi 360 mg is available in packs containing 1 cartridge and 1 on-body injector.
 
 Skyrizi 180 mg solution for injection in cartridge
+
 A 180 mg solution in a single use cartridge made with cyclic olefin resin with coated chlorobutyl rubber septum and coated chlorobutyl rubber piston as product-contact materials, and a resin cap.
 The administration device is designed for use with the provided 180 mg cartridge.
 

@@ -21,6 +21,7 @@ Table 1: List of adverse reactions
 | Skin and subcutaneous tissue disorders | Common | Pruritus Rash Eczema |
 |  | Uncommon | Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
+| Immune system disorders | Rare | Anaphylactic reactions |
 | a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, fungal skin infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, rash |  |  |
 
 Description of selected adverse reactions
@@ -71,6 +72,7 @@ The most frequently reported adverse reactions were upper respiratory infections
 | Skin and subcutaneous tissue disorders | Common | Pruritus Rash Eczema |
 |  | Uncommon | Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
+| Immune system disorders | Rare | Anaphylactic reactions |
 | a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, tinea infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia, malaise e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, hypersensitivity, nodule, rash, urticaria, vesicles, warmth; infusion site erythema, extravasation, reaction, swelling |  |  |
 
 Psoriasis
