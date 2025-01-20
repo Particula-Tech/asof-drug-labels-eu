@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC cod
 Mechanism of action
 Isatuximab is an IgG1-derived monoclonal antibody that binds to a specific extracellular epitope of CD38 receptor.
 CD38 is a transmembrane glycoprotein that is highly expressed on multiple myeloma cells.
-
 In vitro, isatuximab acts through IgG Fc-dependent mechanisms including: antibody dependent cell mediated cytotoxicity (ADCC), antibody dependent cellular phagocytosis (ADCP), and complement dependent cytotoxicity (CDC).
 Furthermore, isatuximab can also trigger tumour cell death by induction of apoptosis via an Fc-independent mechanism.
 
@@ -14,13 +13,15 @@ Isatuximab inhibits the cADPR production from extracellular nicotinamide adenine
 
 In vitro, isatuximab can activate NK cells in the absence of CD38 positive target tumour cells.
 In vivo, a decrease in absolute counts of total CD16+ and CD56+ NK cells, CD19+ B-cells, CD4+ T-cells and TREG (CD3+, CD4+, CD25+, CD127-) was observed in peripheral blood of patients treated with isatuximab monotherapy.
-
 In multiple myeloma patients, SARCLISA monotherapy induced clonal expansion of the T-cell receptor repertoire indicating an adaptive immune response.
 
 The combination of isatuximab and pomalidomide in vitro enhances cell lysis of CD38 expressing multiple myeloma cells by effector cells (ADCC), and by direct tumour cell killing compared to that of isatuximab alone.
 In vivo animal experiments using a human multiple myeloma xenograft model in mice demonstrated that the combination of isatuximab and pomalidomide results in enhanced antitumour activity compared to the activity of isatuximab or pomalidomide alone.
 
 Clinical efficacy and safety
+
+Relapsed and/or refractory multiple myeloma
+
 ICARIA-MM (EFC14335)
 
 The efficacy and safety of SARCLISA in combination with pomalidomide and dexamethasone were evaluated in ICARIA-MM (EFC14335), a multicentre, multinational, randomised, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
@@ -48,8 +49,9 @@ The median duration of treatment was 41.0 weeks for the Isa-Pd group compared to
 Progression-free survival (PFS) was the primary efficacy endpoint of ICARIA-MM.
 The improvement in PFS represented a 40.4% reduction in the risk of disease progression or death in patients treated with Isa-Pd.
 
-Efficacy results are presented in Table 7 and Kaplan-Meier curves for PFS and OS are provided in Figures 1 and 2:
-Table 7: Efficacy of SARCLISA in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+Efficacy results are presented in Table 10 and Kaplan-Meier curves for PFS and OS are provided in Figures 1 and 2:
+
+Table 10: Efficacy of SARCLISA in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
 | Endpoint | SARCLISA + pomalidomide + dexamethasone N =154 | Pomalidomide + dexamethasone N = 153 |
 | --- | --- | --- |
@@ -87,16 +89,15 @@ Insufficient data is available to conclude on the efficacy of Isa-Pd in patients
 
 The median time to first response in responders was 35 days in the Isa-Pd group versus 58 days in the Pd group.
 At a median follow-up time of 52.44 months, final median overall survival was 24.57 months in the Isa-Pd group and 17.71 months in the Pd group (HR=0.776; 95% CI: 0.594 to 1.015).
-
 Figure 1: Kaplan-Meier Curves of PFS – ITT population – ICARIA-MM (assessment by the IRC)
 
 Figure 2: Kaplan-Meier Curves of OS – ITT population – ICARIA-MM
-Cut-off date = 11 October 2018
+
+Cut-off date = 07 February 2023
 
 In the ICARIA-MM (EFC14335) study, a weight-based volume was used for isatuximab infusion.
 The fixed volume infusion method as described in section 4.2 was evaluated in study TCD14079 Part B and pharmacokinetics simulations confirmed minimal differences between the pharmacokinetics following injection applying a volume based on patient weight and a fixed volume of 250 mL (see section 5.2).
 In study TCD14079 part B, there were no new safety signals or differences in efficacy and safety as compared to ICARIA-MM.
-
 IKEMA (EFC15246)
 
 The efficacy and safety of SARCLISA in combination with carfilzomib and dexamethasone were evaluated in IKEMA (EFC15246), a multicentre, multinational, randomized, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
@@ -126,15 +127,13 @@ The median duration of treatment was 80.0 weeks for the Isa-Kd group compared to
 Progression-free survival (PFS) was the primary efficacy endpoint of IKEMA.
 With a median follow-up time of 20.73 months, the primary analysis of PFS showed a statistically significant improvement in PFS represented by a 46.9% reduction in the risk of disease progression or death in patients treated with Isa-Kd compared to patients treated with Kd.
 
-Efficacy results are presented in Table 8 and Kaplan-Meier curves for PFS are provided in the Figure 3:
-
-Table 8: Efficacy of SARCLISA in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+Efficacy results are presented in Table 11 and Kaplan-Meier curves for PFS and OS are provided in the Figures 3 and 4:
+Table 11: Efficacy of SARCLISA in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
 | Endpoint | SARCLISA + carfilzomib + dexamethasone N =179 | Carfilzomib + dexamethasone N = 123 |
 | --- | --- | --- |
 | Progression-Free Survivala Median (months) [95% CI] Hazard ratiob [99% CI] p-value (Stratified Log-Rank test)b | NR 19.15 [NR -NR] [15.77-NR] 0.531 [0.318-0.889] 0.0013 |  |
-| Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% |  |
-| Very Good Partial Response (VGPR) Partial Response (PR) | 33.0% 28.5% 14.0% 26.8% |  |
+| Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% 33.0% 28.5% 14.0% 26.8% |  |
 | VGPR or better (sCR+CR+VGPR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e CRf [95% CI]d | 72.6% 56.1% [0.6547-0.7901] [0.4687 -0.6503] 0.0021 39.7% 27.6% [0.3244-0.4723] [0.1996 to 0.3643] |  |
 | Minimal Residual Disease negative rateg [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e | 29.6% 13.0% [0.2303-0.3688] [0.0762-0.2026] 0.0008 |  |
 | Duration of Responseh *(PR or better) Median in months [95% CI]i Hazard ratiob [95% CI] | NR [NR-NR] NR [14.752-NR] 0.425 [0.269-0.672] |  |
@@ -159,10 +158,14 @@ In the sensitivity analysis without censoring for further anti-myeloma therapy, 
 Insufficient data is available to conclude on the efficacy of Isa-Kd in patients previously treated with daratumumab (1 patient in the isatuximab arm and no patient in the comparator arm).
 
 The median time to first response was 1.08 months in the Isa-Kd group and 1.12 months in the Kd group.
-With a median follow-up time of 20.73 months, 17.3% patients in the Isa-Kd arm and 20.3% patients in the Kd arm had died.
+The median time to next anti-myeloma treatment was 43.99 months in the Isa-Kd group and 25.00 months in the Kd group (HR=0.583; 95% CI: 0.429 to 0.792).
+
 Figure 3 – Kaplan-Meier Curves of PFS – ITT population – IKEMA (assessment by the IRC)
 
 Cut-off date = 07 February 2020.
+Figure 4: Kaplan-Meier Curves of OS – ITT population – IKEMA
+
+Cut-off date = 07 February 2023
 
 Among patients with eGFR (MDRD) <50 mL/min/1.73 m2 at baseline, complete renal response (≥60 mL/min/1.73 m2 at ≥1 postbaseline assessment) was observed for 52.0% (13/25) of patients in the Isa-Kd group and 30.8% (4/13) in the Kd group.
 Sustained complete renal response (≥60 days) occurred in 32.0% (8/25) of patients in the Isa-Kd group and in 7.7% (1/13) in the Kd group.
@@ -171,7 +174,95 @@ In the 4 patients in the Isa-Kd group and the 3 patients in the Kd group with se
 At a median follow-up time of 43.96 months, final PFS analysis showed a median PFS of 35.65 months for Isa-Kd group compared to 19.15 months for Kd group, with a hazard ratio of 0.576 (95.4% CI: 0.418 to 0.792).
 Final complete response, determined using a validated isatuximab-specific IFE assay (Sebia Hydrashift) (see section 4.5), was 44.1% in Isa-Kd group compared to 28.5% in Kd group, with odds ratio 2.094 (95% CI: 1.259 to 3.482, descriptive p=0.0021).
 In 26.3% of patients in Isa-Kd group, both MRD negativity and CR were met compared to 12.2% in Kd group, with odds ratio 2.571 (95% CI: 1.354 to 4.882, descriptive p=0.0015).
+At a median follow-up time of 56.61 months, median overall survival was not reached in the Isa-Kd group (95% CI: 52.172 to NR) and was 50.60 months in Kd group (95% CI: 38.932 to NR) (HR=0.855; 95% CI: 0.608 to 1.202).
+
+Newly diagnosed multiple myeloma
+
+IMROZ (EFC12522)
+
+The efficacy and safety of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone were evaluated in IMROZ (EFC12522), a multicentre, international, randomized, open-label, 2-arm, phase III study in patients with newly diagnosed multiple myeloma (NDMM) who are not eligible for stem cell transplantation.
+Patients over the age of 80 years were excluded, as well as patients with comorbidities that do not allow transplant procedures in patients with NDMM, based on investigator’s medical assessment (e.g., lung or coronary heart disease).
+
+A total of 446 patients were randomized in a 3:2 ratio to receive either SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd, 265 patients) or bortezomib, lenalidomide, and dexamethasone (VRd, 181 patients) administered in both groups during 4 cycles of 42-day for the induction period.
+After completion of cycle 4, patients entered the continuous treatment period starting from cycle 5, 28-day cycles administered up to disease progression or unacceptable toxicity.
+During the continuous treatment period, patients of the Isa-VRd group received SARCLISA in combination with lenalidomide, and dexamethasone (Isa-Rd), and patients in the VRd group received lenalidomide, and dexamethasone (Rd).
+
+During the induction period (cycle 1 to 4, 42-day cycles), SARCLISA 10 mg/kg was administered as an I.V. infusion on day 1, 8, 15, 22, and 29, in the first cycle and on day 1, 15, and 29, from cycle 2 to 4.
+Bortezomib was administered subcutaneously at the dose of 1.3 mg/m² on days 1, 4, 8, 11, 22, 25, 29, and 32 of each cycle.
+Lenalidomide was administered per os at the dose of 25 mg/day from day 1 to 14 and from day 22 to 35 of each cycle.
+Dexamethasone (I.V. on the days of isatuximab infusions, and PO on the other days) 20 mg/day was given on days 1, 2, 4, 5, 8, 9, 11, 12, 15, 22, 23, 25, 26, 29, 30, 32, and 33 of each cycle, and administered on days 1, 4, 8, 11, 15, 22, 25, 29, and 32 of each cycle for patients ≥75 years old.
+
+During the continuous treatment period (from cycle 5, 28-day cycles), SARCLISA 10 mg/kg was administered as an I.V. infusion on day 1 and 15 from cycle 5 to 17, and on day 1 from cycle 18.
+Lenalidomide was administered per os at the dose of 25 mg/day from day 1 to 21 of each cycle.
+Dexamethasone (I.V. on the days of isatuximab infusions, and PO on the other days) 20 mg/day was given on days 1, 8, 15, and 22 of each cycle.
+
+Overall, demographic and disease characteristics at baseline were similar between the two treatment groups.
+The median patient age was 72 years (range 60-80), 26% of patients were ≥75 years.
+ECOG PS was 0 in 46.4% of patients in the Isa-VRd group and 43.6% in the VRd group, 1 in 42.3% in the Isa-VRd group and 45.9% in the VRd group, and 2 in 10.9% in the Isa-VRd group and 10.5% in the VRd group,and 3 in 0.4% in the Isa-VRd group and 0% in the VRd group.
+The proportion of patients with renal impairment (eGFR<60 mL/min/1.73m2) was 24.9% in the Isa-VRd group versus 34.3% in the VRd group.
+The Revised International Staging System (R-ISS) stage at study entry was I in 24.9%, II in 61.5%, and III in 10.2% of patients.
+Overall, 15.1% of patients had high-risk chromosomal abnormalities at study entry; del(17p), t(4;14), and t(14;16) were present in 5.7%, 7.9% and 1.9% of patients, respectively.
+In addition, 1q21+ was present in 35.8% of patients.
+
+The median duration of treatment was 53.2 months for the Isa-VRd group compared to 31.3 months for the VRd group.
+
+Progression-free survival (PFS) was the primary efficacy endpoint of IMROZ.
+With a median follow-up time of 59.73 months, the pre-planned second interim analysis of PFS showed a statistically significant improvement in PFS representing a 40.4% reduction in the risk of disease progression or death in patients treated with Isa-VRd compared to patients treated with VRd.
+
+Efficacy results are presented in Table 12 and Kaplan-Meier curves for PFS are provided in Figure 5:
+
+Table 12*: Efficacy of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+
+| Endpoint | SARCLISA + bortezomib + lenalidomide + dexamethasone N =265 | Bortezomib + lenalidomide + dexamethasone N = 181 |
+| --- | --- | --- |
+| Progression-Free Survival a Median (months) [95% CI] Hazard ratio b [98.5% CI] | NR 54.34 [NR-NR] [45.21-NR] 0.596 [0.406-0.876] |  |
+| p-value (Stratified Log-Rank test)b | 0.0009 |  |
+| CR or better (sCR and CR) [95% CI]c | 74.7% 64.1% [0.6904-0.7984] [0.5664-0.7107] |  |
+| p-value (Stratified Log-Rank test)b | 0.0160 |  |
+| Minimal Residual Disease negativityd and CR [95% CI]c | 55.5% 40.9% [0.4927-0.6155] [0.3365-0.4842] |  |
+| p-value (stratified Cochran-Mantel-Haenszel)b | 0.0026 |  |
+| Overall Response Ratee Responders (sCR+CR+VGPR+PR) [95% CI]c | 91.3% [0.8726-0.9442] | 92.3% [0.8736-0.9571] |
+| Stringent Complete Response (sCR) Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 10.9% 63.8% 14.3% | 5.5% 58.6% 18.8% |
+|  | 2.3% | 9.4% |
+| a PFS results were assessed by an Independent Response Committee based on central laboratory data |  |  |
+| for M-protein and central radiologic imaging review using the International Myeloma Working Group |  |  |
+| (IMWG) criteria. |  |  |
+| b Stratified by age (<70 years vs ≥70 years) and Revised International Staging System (R-ISS) stage (I |  |  |
+| or II vs. III or not classified) according to IRT |  |  |
+| c Estimated using Clopper-Pearson method. |  |  |
+| d Based on a sensitivity level of 10-5 by NGS in ITT population. |  |  |
+| e sCR, CR, VGPR, and PR were evaluated by the IRC using the IMWG response criteria. Results |  |  |
+| should be interpreted descriptively. |  |  |
+| * Cut-off date of 26 September 2023. Median follow-up time=59.73 months. |  |  |
+| NR: not reached |  |  |
+
+PFS improvement in the Isa-VRd group was confirmed by the sensitivity analyses sand was observed across most subgroups of patients, including patients with 1q21+ chromosomal abnormality (HR=0.407; 95% CI: 0.253 to 0.653), ≥70 years (HR=0.671; 95% CI: 0.463 to 0.972), with baseline eGFR (MDRD) < 60 mL/min/1.73 m² (HR=0.63; 95% CI: 0.371 to 1.068), and with ECOG PS>1 (HR=0.606; 95% CI: (0.246 to 1.493).
+NGS MRD negativity (10-5 sensitivity threshold) was reached in 58.1% of patients in the Isa-VRd group with a median time to first NGS MRD negativity of 196.5 days (range: 87-1834).
+In the VRd group, NGS MRD negativity (10-5 sensitivity threshold) was reached in 43.6% of patients with a median time to first NGS MRD negativity of 197.0 days (range: 107-1512).
+Sustained NGS MRD negativity rate for at least 12 months occurred in 46.8% of patients in the Isa-VRd group and in 24.3% in the VRd group.
+The median time to progression was not reached in the Isa-VRd group and was 59.70 months (95% CI: 48.164 to NR) in the VRd group (HR=0.414; 95% CI: 0.286 to 0.598).
+The median duration of response was not reached in the Isa-VRd group and was 58.25 months (95% CI: 44.583 to NR) in the VRd group.
+The median time to first response was 1.51 months in the Isa-VRd group and 1.48 months in the VRd group.
+In the Isa-VRd group, 52.1% of patients discontinued the study treatment, 14.3% due to disease progression.
+In the VRd group, 75.7% of patients discontinued the study treatment.
+37% due to disease progression.
+The median time to next anti-myeloma treatment was not reached in the Isa-VRd group and was 63.57 months in the VRd group (HR=0.376; 95% CI: 0.265 to 0.534).
+Median overall survival was not reached for either treatment group.
+Based on the descriptive analysis of overall survival data, 26% of patients in the Isa-VRd group and 32.6% of patients in the VRd group had died (HR=0.776; 99.97% CI: 0.407 to 1.48).
+
+Figure 5 – Kaplan-Meier Curves of PFS – ITT population – IMROZ (assessment by the IRC)
+
+Cutoff date = 26-September-2023.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with SARCLISA in one or more subsets of the paediatric population in the treatment of malignant neoplasms of the haematopoietic and lymphoid tissue.
 See section 4.2 for information on paediatric use.
+
+A phase 2, single-arm, study in 67 paediatric patients was conducted in 3 separate disease cohorts.
+Fifty-nine patients with relapsed or refractory T-acute lymphoblastic leukaemia (T-ALL, 11 patients), B-acute lymphoblastic leukemia (B-ALL, 25 patients), and acute myeloid leukaemia (AML, 23 patients) were evaluable for efficacy.
+For patients with T-ALL and B-ALL, the treatment consisted of one induction cycle and one consolidation cycle.
+For patients with AML, the treatment consisted of up to two induction cycles.
+The median age was 8 years (range 17 months to 17 years).
+Patients were treated with SARCLISA in combination with standard chemotherapies (e.g., antimetabolites, anthracyclines, and alkylating agents).
+At interim analysis, complete response rate (the primary efficacy endpoint, defined as complete response, CR, or complete response with incomplete peripheral recovery, CRi), did not meet the pre-specified statistical threshold in the 3 cohorts with 52.0% of B-ALL patients, 45.5% of T-ALL patients, and 60.9% of AML patients reaching complete response (CR+CRi).
+The study was stopped after the prespecified interim analysis.
