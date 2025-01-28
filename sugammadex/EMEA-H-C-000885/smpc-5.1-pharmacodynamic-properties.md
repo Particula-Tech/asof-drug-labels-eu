@@ -10,6 +10,7 @@ This results in the reversal of neuromuscular blockade induced by rocuronium or 
 Pharmacodynamic effects:
 Sugammadex has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response studies of rocuronium induced blockade (0.6, 0.9, 1.0 and 1.2 mg/kg rocuronium bromide with and without maintenance doses) and vecuronium induced blockade (0.1 mg/kg vecuronium bromide with or without maintenance doses) at different time points/depths of blockade.
 In these studies a clear dose-response relationship was observed.
+
 Clinical efficacy and safety:
 Sugammadex can be administered at several time points after administration of rocuronium or vecuronium bromide:
 

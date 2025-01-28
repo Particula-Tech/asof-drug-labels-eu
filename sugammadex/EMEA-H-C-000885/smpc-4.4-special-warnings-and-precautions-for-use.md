@@ -57,8 +57,7 @@ If neuromuscular blockade is reversed, while anaesthesia is continued, additiona
 
 Marked bradycardia:
 In rare instances, marked bradycardia has been observed within minutes after the administration of sugammadex for reversal of neuromuscular blockade.
-Bradycardia may occasionally lead to cardiac arrest.
-(see section 4.8.)
+Bradycardia may occasionally lead to cardiac arrest (see section 4.8).
 Patients should be closely monitored for haemodynamic changes during and after reversal of neuromuscular blockade.
 Treatment with anti-cholinergic agents such as atropine should be administered if clinically significant bradycardia is observed.
 Hepatic impairment:

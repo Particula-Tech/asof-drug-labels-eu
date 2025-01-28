@@ -6,8 +6,8 @@ The causality of adverse events is therefore difficult to assess.
 The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥ 1/100 to < 1/10)).
 
 Table 2: Tabulated list of adverse reactions
-The safety of sugammadex has been evaluated in 3,519 unique subjects across a pooled phase I-III safety database.
-The following adverse reactions were reported in placebo controlled trials where subjects received anaesthesia and/or neuromuscular blocking agents (1,078 subject exposures to sugammadex versus 544 to placebo):
+The safety of sugammadex has been evaluated in 3 519 unique subjects across a pooled phase I-III safety database.
+The following adverse reactions were reported in placebo controlled trials where subjects received anaesthesia and/or neuromuscular blocking agents (1 078 subject exposures to sugammadex versus 544 to placebo):
 [Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare
 (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000)]
 
@@ -24,6 +24,7 @@ In clinical trials of surgical patients these reactions were reported uncommonly
 These reactions varied from isolated skin reactions to serious systemic reactions (i.e. anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex.
 Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia, swelling of tongue, swelling of pharynx, bronchospasm and pulmonary obstructive events.
 Severe hypersensitivity reactions can be fatal.
+In post-marketing reports, hypersensitivity has been observed for sugammadex as well as for sugammadex-rocuronium complex.
 
 Airway complication of anaesthesia:
 Airway complications of anaesthesia included bucking against the endotracheal tube, coughing, mild bucking, arousal reaction during surgery, coughing during the anaesthetic procedure or during surgery, or anaesthetic procedure-related spontaneous breath of patient.
@@ -50,7 +51,6 @@ There was a single case of adjudicated anaphylaxis after the first dose of sugam
 There was no evidence of increased frequency or severity of hypersensitivity with repeat dosing of sugammadex.
 In a previous study of similar design, there were three adjudicated cases of anaphylaxis, all after sugammadex 16 mg/kg (incidence 2.0%).
 In the Pooled Phase 1 database, AEs considered common (≥ 1/100 to < 1/10) or very common (≥ 1/10) and more frequent among subjects treated with sugammadex than in the placebo group, include dysgeusia (10.1%), headache (6.7%), nausea (5.6%), urticaria (1.7%), pruritus (1.7%), dizziness (1.6%), vomiting (1.2%) and abdominal pain (1.0%).
-
 Additional information on special populations
 
 Pulmonary patients:
@@ -67,7 +67,7 @@ In one dedicated clinical trial in morbidly obese patients, the safety profile w
 
 Patients with severe systemic disease
 
-In a trial in patients who were assessed as American Society of Anesthesiologists (ASA) Class 3 or 4 (patients with severe systemic disease or patients with severe systemic disease that is a constant threat to life), the adverse reaction profile in these ASA Class 3 and 4 patients was generally similar to that of adult patients in pooled Phase 1 to 3 studies (see Table 2). see section 5.1.
+In a trial in patients who were assessed as American Society of Anesthesiologists (ASA) Class 3 or 4 (patients with severe systemic disease or patients with severe systemic disease that is a constant threat to life), the adverse reaction profile in these ASA Class 3 and 4 patients was generally similar to that of adult patients in pooled Phase 1 to 3 studies (see Table 2), see section 5.1.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

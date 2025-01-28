@@ -19,7 +19,7 @@ Clinicians should be aware that the recovery of the T4/T1 ratio to 0.9 could the
 Intravenous administration of fusidic acid:
 The use of fusidic acid in the pre-operative phase may give some delay in the recovery of the T4/T1 ratio to 0.9.
 No recurrence of neuromuscular blockade is expected in the post-operative phase, since the infusion rate of fusidic acid is over a period of several hours and the blood levels are cumulative over 2-3 days.
-For re-administration of sugammadex see section 4.2.
+For re-administration of sugammadex, see section 4.2.
 
 Interactions potentially affecting the efficacy of other medicinal products (capturing interactions): Due to the administration of sugammadex, certain medicinal products could become less effective due to a lowering of the (free) plasma concentrations.
 If such a situation is observed, the clinician is advised to consider the re-administration of the medicinal product, the administration of a therapeutically equivalent medicinal product (preferably from a different chemical class) and/or non-pharmacological interventions as appropriate.
