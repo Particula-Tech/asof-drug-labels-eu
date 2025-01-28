@@ -49,20 +49,15 @@ Studies in patients with hepatic impairment have not been conducted.
 Caution should be exercised when considering the use of sugammadex in patients with severe hepatic impairment or when hepatic impairment is accompanied by coagulopathy (see section 4.4).
 For mild to moderate hepatic impairment: as sugammadex is mainly excreted renally no dose adjustments are required.
 
-Paediatric population
+Paediatric population (birth to 17 years of age)
 
-Children and adolescents (2-17 years):
 Bridion 100 mg/mL may be diluted to 10 mg/mL to increase the accuracy of dosing in the paediatric population (see section 6.6).
 Routine reversal:
 A dose of 4 mg/kg sugammadex is recommended for reversal of rocuronium induced blockade if recovery has reached at least 1-2 PTC.
 A dose of 2 mg/kg is recommended for reversal of rocuronium induced blockade at reappearance of T2 (see section 5.1).
 
 Immediate reversal:
-Immediate reversal in children and adolescents has not been investigated.
-
-Term newborn infants and infants:
-There is only limited experience with the use of sugammadex in infants (30 days to 2 years), and term newborn infants (less than 30 days) have not been studied.
-The use of sugammadex in term newborn infants and infants is therefore not recommended until further data become available.
+Immediate reversal has not been investigated in the paediatric population.
 
 Method of administration
 

@@ -10,7 +10,6 @@ This results in the reversal of neuromuscular blockade induced by rocuronium or 
 Pharmacodynamic effects:
 Sugammadex has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response studies of rocuronium induced blockade (0.6, 0.9, 1.0 and 1.2 mg/kg rocuronium bromide with and without maintenance doses) and vecuronium induced blockade (0.1 mg/kg vecuronium bromide with or without maintenance doses) at different time points/depths of blockade.
 In these studies a clear dose-response relationship was observed.
-
 Clinical efficacy and safety:
 Sugammadex can be administered at several time points after administration of rocuronium or vecuronium bromide:
 
@@ -53,7 +52,7 @@ Table 5: Time (minutes) from administration of sugammadex or neostigmine at reap
 For immediate reversal:
 The time to recovery from succinylcholine-induced neuromuscular blockade (1 mg/kg) was compared with sugammadex (16 mg/kg, 3 minutes later) – induced recovery from rocuronium-induced neuromuscular blockade (1.2 mg/kg).
 
-Table 6: Time (minutes) from administration of rocuronium and sugammadex or succinylcholine to recovery of the T1 10 %
+Table 6: Time (minutes) from administration of rocuronium and sugammadex or succinylcholine to recovery of the T1 10%
 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
@@ -82,10 +81,18 @@ Patients received 2 mg/kg or 4 mg/kg sugammadex, as appropriate for level of blo
 Pooled across depth of block and neuromuscular blocking agent, the median time to recover to a train-of-four (TOF) ratio ≥ 0.9 in patients dosed by actual body weight (1.8 minutes) was statistically significantly faster (p < 0.0001) compared to patients dosed by ideal body weight (3.3 minutes).
 
 Paediatric Population:
+2 to < 17 years of age:
 A trial of 288 patients aged 2 to < 17 years investigated the safety and efficacy of sugammadex versus neostigmine as a reversal agent for neuromuscular blockade induced by rocuronium or vecuronium.
-Recovery from moderate block to a TOF ratio of ≥ 0.9 was significantly faster in the sugammadex 2 mg/kg group compared with the neostigmine group (geometric mean of 1.6 minutes for sugammadex 2 mg/kg and 7.5 minutes for neostigmine, ratio of geometric means 0.22, 95 % CI (0.16, 0.32), (p<0.0001)).
+Recovery from moderate block to a TOF ratio of ≥ 0.9 was significantly faster in the sugammadex 2 mg/kg group compared with the neostigmine group (geometric mean of 1.6 minutes for sugammadex 2 mg/kg and 7.5 minutes for neostigmine, ratio of geometric means 0.22, 95% CI (0.16, 0.32), (p<0.0001)).
 Sugammadex 4 mg/kg achieved reversal from deep block with a geometric mean of 2.0 minutes, similar to results observed in adults.
 These effects were consistent for all age cohorts studied (2 to < 6; 6 to < 12; 12 to < 17 years of age) and for both rocuronium and vecuronium.
+See section 4.2.
+
+Birth to < 2 years of age:
+A trial of 145 patients from birth to < 2 years of age investigated the safety and efficacy of sugammadex versus neostigmine as a reversal agent for neuromuscular blockade induced by rocuronium or vecuronium.
+Time to neuromuscular recovery from moderate block was significantly faster (p=0.0002) in participants dosed with sugammadex 2 mg/kg compared with neostigmine (median of 1.4 minutes for sugammadex 2 mg/kg and 4.4 minutes for neostigmine; hazard ratio=2.40, 95% CI: 1.37, 4.18).
+Sugammadex 4 mg/kg achieved rapid neuromuscular recovery from deep block with a median of 1.1 minutes.
+These effects were consistent for all age cohorts studied (birth to 27 days; 28 days to < 3 months; 3 months to < 6 months and 6 months to < 2 years).
 See section 4.2.
 
 Patients with severe systemic disease:

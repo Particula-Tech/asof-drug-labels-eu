@@ -14,12 +14,11 @@ The use of lower than recommended doses may lead to an increased risk of recurre
 Effect on haemostasis:
 In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time international normalised ratio [PT(INR)] by 11 and 22% respectively.
 These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
-Based on the clinical data-base (N=3,519) and on a specific study in 1184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
+Based on the clinical data-base (N=3 519) and on a specific study in 1 184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri-or post-operative bleeding complications.
 
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran.
 In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant.
 Caution should be exercised when considering the use of sugammadex in patients receiving therapeutic anticoagulation for a pre-existing or co-morbid condition.
-
 An increased risk of bleeding cannot be excluded in patients:
 
 - with hereditary vitamin K dependent clotting factor deficiencies;
@@ -59,10 +58,9 @@ If neuromuscular blockade is reversed, while anaesthesia is continued, additiona
 Marked bradycardia:
 In rare instances, marked bradycardia has been observed within minutes after the administration of sugammadex for reversal of neuromuscular blockade.
 Bradycardia may occasionally lead to cardiac arrest.
-(See section 4.8.)
+(see section 4.8.)
 Patients should be closely monitored for haemodynamic changes during and after reversal of neuromuscular blockade.
 Treatment with anti-cholinergic agents such as atropine should be administered if clinically significant bradycardia is observed.
-
 Hepatic impairment:
 Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted.
 Patients with severe hepatic impairment should be treated with great caution.
@@ -82,4 +80,4 @@ Drug hypersensitivity reactions:
 Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions (see section 4.8).
 
 Sodium:
-This medicinal product contains up to 9.7 mg sodium per mL, equivalent to 0.5 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains up to 9.7 mg sodium per mL, equivalent to 0.5% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

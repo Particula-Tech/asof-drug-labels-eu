@@ -11,6 +11,7 @@ As a result recurrence of neuromuscular blockade might be observed.
 In this situation the patient must be ventilated.
 Administration of the medicinal product which caused displacement should be stopped in case of an infusion.
 In situations when potential displacement interactions can be anticipated, patients should be carefully monitored for signs of recurrence of neuromuscular blockade (approximately up to 15 minutes) after parenteral administration of another medicinal product occurring within a period of 7.5 hours after sugammadex administration.
+
 Toremifene:
 For toremifene, which has a relatively high binding affinity for sugammadex and for which relatively high plasma concentrations might be present, some displacement of vecuronium or rocuronium from the complex with sugammadex could occur.
 Clinicians should be aware that the recovery of the T4/T1 ratio to 0.9 could therefore be delayed in patients who have received toremifene on the same day of the operation.
