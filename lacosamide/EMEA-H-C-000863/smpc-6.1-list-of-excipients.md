@@ -3,6 +3,7 @@
 Tablet core
 
 microcrystalline cellulose hydroxypropylcellulose hydroxypropylcellulose (low substituted) silica, colloidal, anhydrous crospovidone (polyplasdone XL-10 Pharmaceutical Grade) magnesium stearate
+
 Tablet coat
 
 Vimpat 50 mg film-coated tablets

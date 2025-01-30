@@ -12,8 +12,7 @@ Patients should not take a double dose.
 | Adolescents and children weighing 50 kg or more, and adults |  |  |
 | --- | --- | --- |
 | Starting dose | Titration (incremental steps) | Maximum recommended dose |
-| Monotherapy: 50 mg twice a day (100 mg/day) or 100 mg twice a day (200 mg/day) | 50 mg twice a day (100 mg/day) | Monotherapy: up to 300 mg twice a day (600 mg/day) |
-| Adjunctive therapy: 50 mg twice a day (100 mg/day) | at weekly intervals | Adjunctive therapy: up to 200 mg twice a day (400 mg/day) |
+| Monotherapy: 50 mg twice a day (100 mg/day) or 100 mg twice a day (200 mg/day) Adjunctive therapy: 50 mg twice a day (100 mg/day) | 50 mg twice a day (100 mg/day) at weekly intervals | Monotherapy: up to 300 mg twice a day (600 mg/day) Adjunctive therapy: up to 200 mg twice a day (400 mg/day) |
 | Alternate initial dosage* (If applicable): 200 mg single loading dose followed by 100 mg twice a day (200 mg/day) |  |  |
 | *A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted. It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8). Administration of a loading dose has not been studied in acute conditions such as status epilepticus. |  |  |
 | Children from 2 years of age and adolescents weighing less than 50 kg* |  |  |
@@ -135,8 +134,7 @@ No data are available.
 | Adolescents and children weighing 50 kg or more, and adults |  |  |
 | --- | --- | --- |
 | Starting dose | Titration (incremental steps) | Maximum recommended dose |
-| Monotherapy: 50 mg twice a day (100 mg/day) or 100 mg twice a day (200 mg/day) | 50 mg twice a day (100 mg/day) | Monotherapy: up to 300 mg twice a day (600 mg/day) |
-| Adjunctive therapy: 50 mg twice a day (100 mg/day) | at weekly intervals | Adjunctive therapy: up to 200 mg twice a day (400 mg/day) |
+| Monotherapy: 50 mg twice a day (100 mg/day) or 100 mg twice a day (200 mg/day) Adjunctive therapy: 50 mg twice a day (100 mg/day) | 50 mg twice a day (100 mg/day) at weekly intervals | Monotherapy: up to 300 mg twice a day (600 mg/day) Adjunctive therapy: up to 200 mg twice a day (400 mg/day) |
 | Alternate initial dosage* (If applicable): 200 mg single loading dose followed by 100 mg twice a day (200 mg/day) |  |  |
 | * A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted. It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8). Administration of a loading dose has not been studied in acute conditions such as status epilepticus. |  |  |
 

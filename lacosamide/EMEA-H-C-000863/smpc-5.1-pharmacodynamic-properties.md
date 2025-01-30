@@ -34,7 +34,6 @@ Conversion to monotherapy
 The efficacy and safety of lacosamide in conversion to monotherapy has been assessed in a historical-controlled, multicentre, double-blind, randomised study.
 In this study, 425 patients aged 16 to 70 years with uncontrolled partial-onset seizures taking stable doses of 1 or 2 marketed antiepileptic medicinal products were randomised to be converted to lacosamide monotherapy (either 400 mg/day or 300 mg/day in a 3:1 ratio).
 In treated patients who completed titration and started withdrawing antiepileptic medicinal products (284 and 99 respectively), monotherapy was maintained in 71.5 % and 70.7 % of patients respectively for 57-105 days (median 71 days), over the targeted observation period of 70 days.
-
 Adjunctive therapy
 The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomised, placebo-controlled clinical studies with a 12-week maintenance period.
 Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy studies, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
@@ -62,7 +61,6 @@ The percent reduction over placebo based on analysis of covariance was 31.72 %
 (95 % CI: 16.342, 44.277).
 Overall, the proportion of subjects with at least a 50 % reduction in partial-onset seizure frequency per 28 days from baseline to the maintenance period was 52.9 % in the lacosamide group compared with 33.3 % in the placebo group.
 The quality of life assessed by the Pediatric Quality of Life Inventory indicated that subjects in both lacosamide and placebo groups had a similar and stable health-related quality of life during the entire treatment period.
-
 Clinical efficacy and safety (primary generalized tonic-clonic seizures)
 
 The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures (PGTCS) was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center clinical study.

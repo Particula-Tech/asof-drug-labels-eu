@@ -34,25 +34,13 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal |
-
-System organ class Very Common Uncommon Not known
-common
-necrolysis(1)
-Musculoskeletal Muscle spasms
-and connective
-tissue disorders
-General disorders Gait disturbance
-and administration Asthenia
-site conditions Fatigue
-Irritability
-Feeling drunk
-Injury, poisoning Fall
-and procedural Skin laceration
-complications Contusion
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
+| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
+| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
+| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
 
 (1) Adverse reactions reported in post marketing experience.
 (2) See Description of selected adverse reactions.
@@ -78,7 +66,6 @@ Multiorgan hypersensitivity reactions
 Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported in patients treated with some antiepileptic medicinal products.
 These reactions are variable in expression, but typically present with fever and rash and can be associated with involvement of different organ systems.
 If multiorgan hypersensitivity reaction is suspected, lacosamide should be discontinued.
-
 Paediatric population
 
 The safety profile of lacosamide in placebo-controlled (255 patients from 1 month to less than 4 years of age and 343 patients from 4 years to less than 17 years of age) and in open-label clinical studies (847 patients from 1 month to less than or equal to 18 years of age) in adjunctive therapy in paediatric patients with partial-onset seizures was consistent with the safety profile observed in adults.
@@ -103,22 +90,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
-| System organ class | Very common | Common | Uncommon | Not known |
-| --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
-| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
-| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
-| Eye disorders | Diplopia | Vision blurred |  |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
-| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
-
 These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
 
 [Vimpat 10 mg/ml syrup]
@@ -135,7 +106,7 @@ These reactions are variable in expression but typically present with fever and 
 | Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |

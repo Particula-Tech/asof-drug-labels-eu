@@ -56,7 +56,6 @@ Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma co
 The higher exposure was partly due to a reduced renal function in the studied subjects.
 The decrease in non-renal clearance in the patients of the study was estimated to give a 20 % increase in the AUC of lacosamide.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
-
 Elderly (over 65 years of age)
 In a study in elderly men and women including 4 patients > 75 years of age, AUC was about 30 and 50 % increased compared to young men, respectively.
 This is partly related to lower body weight.
@@ -64,6 +63,7 @@ The body weight normalized difference is 26 and 23 %, respectively.
 An increased variability in exposure was also observed.
 The renal clearance of lacosamide was only slightly reduced in elderly subjects in this study.
 A general dose reduction is not considered to be necessary unless indicated due to reduced renal function (see section 4.2).
+
 Paediatric population
 The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in six placebo-controlled randomised clinical studies and five open-label studies in 1655 adult and paediatric patients with epilepsy aged 1 month to 17 years.
 Three of these studies were performed in adults, 7 in pediatric patients, and 1 in a mixed population.
