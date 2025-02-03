@@ -8,15 +8,15 @@ A: To administer, the nasal spray should be removed from the packaging, by pulli
 
 B: Hold the nasal spray with your thumb on the bottom of the plunger and a finger on either side of the nozzle (see figure 1B).
 
-- Do not pull or push on the plunger.
-- Do not test or pre-spray; each nasal spray has only one dose.
+•Do not pull or push on the plunger.
+•Do not test or pre-spray; each nasal spray has only one dose.
 
 (Figure 1B)
 
 C: Insert tip of nasal spray into a nostril until your fingers touch your nose (see figure 1C).
 
-- Keep the nozzle straight into the nose pointed toward your forehead.
-- Do not angle the nasal spray to the inner or outer walls of the nose
+•Keep the nozzle straight into the nose pointed toward your forehead.
+•Do not angle the nasal spray to the inner or outer walls of the nose
 
 (Figure 1C)
 
