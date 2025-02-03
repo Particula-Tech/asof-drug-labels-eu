@@ -31,6 +31,7 @@ Primary endpoint was the peak and trough change from baseline in IOP between tre
 Baseline demographic and disease characteristics were similar between groups, with an overall mean age (SD) of 63.1 years (11.16).
 The majority (61.5%) of participants were women and 96.4% were White.
 75.8% (n=291) of patients had a primary OAG and 21.1% (n=81) had OHT; the remaining had a pseudo-exfoliative glaucoma (2.1%) and pigmentary glaucoma (1.0%).
+
 Efficacy
 The primary endpoint was met as the non-inferiority of Catiolanze versus the preserved latanoprost 0.005% solution was demonstrated at Week 12 (see table 1).
 The Least square (LS) mean treatment difference between the Catiolanze and the preserved latanoprost solution groups at the peak and trough timepoints were -0.6 (95% CI -1.2, -0.1) and -0.5 (95% CI -1.0, 0.1), respectively.
@@ -55,7 +56,7 @@ Table 1 Efficacy results: MMRM on observed cases (study Eye, full analysis set)
 |  | P-Value | 0.0006 |  |
 
 CFS, Corneal fluorescein staining; CI, confidence interval; FAS, full analysis set; n, number of patients; LS mean, Least square mean; MMRN, mixed-effects model for repeated measures; SE, standard error.
-The analysis is applied to all patients in the FAS with baseline CFS score ≥1 for CFS..
+The analysis is applied to all patients in the FAS with baseline CFS score ≥1 for CFS.
 Statistical significance (P<0.05) shown in bold.
 Figure Efficacy Results: IOP RAW Mean Change from Baseline with SE by Analysis Visit and Timepoint (Study Eye, Open Label Population)
 

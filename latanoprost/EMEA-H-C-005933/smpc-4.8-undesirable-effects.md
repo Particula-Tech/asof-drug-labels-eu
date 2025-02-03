@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 The majority of adverse reactions relate to the ocular system.
 In an open 5-year safety study with preserved latanoprost eye drops, solution, 33% of patients developed iris pigmentation (see section 4.4).
 Other ocular adverse reactions are generally transient and occur on dose administration.
@@ -24,32 +25,17 @@ The adverse reactions are categorised by frequency as follows: very common (≥1
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  |  | Herpetic keratitis*§ |  |
 | Nervous system disorders |  |  | Headache*; dizziness* |  |  |
-| Eye disorders | Iris hyperpigmentation | Mild to moderate conjunctival hyperaemia¥ Eye irritation (burning grittiness, itching, stinging, foreign body sensation and abnormal sensation)¥; Punctate keratitis, mostly without symptoms; eye pain; Photophobia; Conjunctivitis* | Eyelid oedema¥; eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation and number of eyelashes)¥; blepharitis¥; dry eye; keratitis*; vision blurred¥; macular oedema including cystoid macular oedema*; uveitis* | Iritis*; corneal oedema*; corneal erosion; periorbital oedema; trichiasis*; distichiasis; iris cyst*§; localised skin reaction on the eyelids; darkening of the palpebral skin of the eyelids; pseudopemphigoid of ocular conjunctiva*§ | Periorbital and lid changes resulting in deepening of the eyelid sulcus |
-
-Cardiac Angina; Angina
-disorders palpitations* unstable
-Respiratory, Asthma*; Asthma
-thoracic and dyspnoea* exacerbation
-mediastinal
-disorders
-Gastrointestinal Nausea*;
-disorders vomiting*
-Skin and Rash Pruritis
-subcutaneous
-tissue disorder
-Musculoskeleta Myalgia*;
-l arthralgia*
-and connective
-tissue disorders
-General Chest pain*
-disorders and
-administration
-site conditions
+| Eye disorders | Iris hyperpigmentati on | Mild to moderate conjunctival hyperaemia¥ Eye irritation (burning grittiness, itching, stinging, foreign body sensation and abnormal sensation)¥; Punctate keratitis, mostly without symptoms; eye pain; Photophobia; Conjunctivitis* | Eyelid oedema¥; eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation and number of eyelashes)¥; blepharitis¥; dry eye; keratitis*; vision blurred¥; macular oedema including cystoid macular oedema*; uveitis* | Iritis*; corneal oedema*; corneal erosion; periorbital oedema; trichiasis*; distichiasis; iris cyst*§; localised skin reaction on the eyelids; darkening of the palpebral skin of the eyelids; pseudopemphigoid of ocular conjunctiva*§ | Periorbital and lid changes resulting in deepening of the eyelid sulcus |
+| Cardiac disorders |  |  | Angina; palpitations* |  | Angina unstable |
+| Respiratory, thoracic and mediastinal disorders |  |  | Asthma*; dyspnoea* | Asthma exacerbation |  |
+| Gastrointestin al disorders |  |  | Nausea*; vomiting* |  |  |
+| Skin and subcutaneous tissue disorder |  |  | Rash | Pruritis |  |
+| Musculoskele tal and connective tissue disorders |  |  | Myalgia*; arthralgia* |  |  |
+| General disorders and administration site conditions |  |  | Chest pain* |  |  |
 
 *ADR identified post-marketing
 §ADR frequency estimated using “The Rule of 3”
 ¥ADR frequency estimated from studies specific to Catiolanze eye drops emulsion
-
 Description of selected adverse reactions
 
 No information is provided.

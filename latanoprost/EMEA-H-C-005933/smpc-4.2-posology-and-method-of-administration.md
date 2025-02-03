@@ -11,10 +11,10 @@ The dose of Catiolanze should not exceed once daily since it has been shown that
 
 Missed dose
 If one dose is missed, treatment should continue with the next dose as normal.
-
 Paediatric population
 The safety of Catiolanze in children aged less than 4 years old has not been established as no data for this formulation (emulsion) are available.
 Currently available safety data for the active substance latanoprost are described in sections 4.8 and 5.1.
+
 Method of administration
 
 Ocular use.

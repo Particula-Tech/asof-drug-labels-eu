@@ -4,6 +4,7 @@ The ocular as well as systemic toxicity of latanoprost has been investigated in 
 Generally, latanoprost is well tolerated with a safety margin between clinical ocular dose and systemic toxicity of at least 1 000 times.
 High doses of latanoprost, approximately 100 times the clinical dose/kg body weight, administered intravenously to unanaesthetised monkeys have been shown to increase the respiration rate probably reflecting bronchoconstriction of short duration.
 In animal studies, latanoprost has not been found to have sensitising properties.
+
 In the eye, no toxic effects have been detected with latanoprost doses of up to 100 micrograms/eye/day in rabbits or monkeys (clinical dose is approximately 1.5 micrograms/eye/day).
 In monkeys, however, latanoprost has been shown to induce increased pigmentation of the iris.
 The mechanism of increased pigmentation seems to be stimulation of melanin production in melanocytes of the iris with no proliferative changes observed.

@@ -10,7 +10,6 @@ Breast-feeding
 
 Latanoprost and its metabolites may pass into breast milk.
 Catiolanze should therefore not be used in breast-feeding women or breast feeding should be stopped.
-
 Fertility
 
 Latanoprost has not been found to have any effect on male or female fertility in animal studies (see section 5.3).

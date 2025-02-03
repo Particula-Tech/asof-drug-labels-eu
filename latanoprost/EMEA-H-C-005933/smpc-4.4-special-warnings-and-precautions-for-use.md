@@ -49,7 +49,6 @@ Catiolanze should be used with caution in aphakic patients, in pseudophakic pati
 Iritis/ uveitis
 
 Catiolanze should be used with caution in patients with known predisposing risk factors for iritis/uveitis.
-
 Patients with asthma
 
 There is limited experience with latanoprost in patients with asthma, but some cases of exacerbation of asthma and/or dyspnoea were reported with latanoprost in post marketing experience.
@@ -59,6 +58,7 @@ Periorbital skin discolouration
 
 Periorbital skin discolouration has been observed with latanoprost, the majority of reports being in Japanese patients.
 Experience to date shows that periorbital skin discolouration is not permanent and in some cases has reversed while continuing treatment with latanoprost.
+
 Eyelash changes
 
 Latanoprost may gradually change eyelashes and vellus hair in the treated eye and surrounding areas; these changes include increased length, thickness, pigmentation, number of lashes or hairs and misdirected growth of eyelashes.
