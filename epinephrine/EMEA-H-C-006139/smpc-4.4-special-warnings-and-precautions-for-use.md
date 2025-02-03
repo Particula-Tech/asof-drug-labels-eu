@@ -10,6 +10,7 @@ It is strongly advised to also educate the patient’s immediate associates (e.g
 For children under 12 years of age, the caregiver should administer EURneffy or determine that the child is properly instructed in the use of EURneffy and is fully capable of administration themselves.
 
 Patients with a cold or a congested nose can use this medicinal product, even in these conditions, however the pharmacokinetic profile may be different (see section 5.2).
+
 Warnings for patients about anaphylaxis
 
 Patients should be instructed to recognise symptoms of systemic allergic reactions and anaphylaxis that may occur within minutes after exposure and which may consist of flushing, apprehension, syncope, tachycardia, thready or unobtainable pulse associated with a fall in blood pressure, convulsions, vomiting, diarrhoea and abdominal cramps, involuntary voiding, wheezing, dyspnoea due to laryngeal spasm, pruritus, rashes, urticaria, or angioedema.

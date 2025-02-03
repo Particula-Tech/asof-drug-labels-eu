@@ -1,9 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-ARS Pharmaceuticals IRL, Limited
-The Black Church
-Saint Mary’s Place North
-Dublin 7
-Co. Dublin
-D07 P4AX
-Ireland
+ALK-Abelló A/S
+Bøge Allé 6-8
+2970 Hørsholm
+Denmark

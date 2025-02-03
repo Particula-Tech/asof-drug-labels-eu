@@ -11,6 +11,7 @@ The patient should be advised to immediately seek emergency medical assistance f
 In the absence of clinical improvement after approximately 10 minutes, or if deterioration occurs or symptoms reappear after the initial treatment, a second dose should be administered in the same nostril together with emergency medical help.
 A maximum of 4 mg (two doses) may be given unless instructed by a medical professional to give additional doses.
 It is recommended that patients should always carry two nasal sprays to treat an allergy emergency.
+
 Elderly
 No pharmacokinetic data are available after nasal administration of adrenaline in patients aged 65 years or older.
 No dose adjustment is required.

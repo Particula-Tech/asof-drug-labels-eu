@@ -52,10 +52,9 @@ In a clinical trial of paediatric subjects, 16 subjects between 8 and 17 years o
 The most common adverse reactions included: nasal discomfort and intranasal paraesthesia (25.0%); sneezing (18.8%); fatigue, feeling jittery, paraesthesia, rhinalgia, and rhinorrhoea (12.5%); and epistaxis, lacrimation increased, oropharyngeal pain, and pharyngeal paraesthesia (6.3%).
 
 There were no clinically relevant differences in the safety between the paediatric and adult populations treated with EURneffy 2 mg.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

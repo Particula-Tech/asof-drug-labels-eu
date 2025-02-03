@@ -7,18 +7,19 @@ The integrated pharmacokinetic parameters of adrenaline are summarized in Table 
 
 Table 2: Mean (CV%) and geometric mean plasma PK parameters following one or two doses of adrenaline (integrated analysis)
 
-| Treatment | N | tmax (min) median (range) | Cmax (pg/mL) |  | AUClast (min*pg/mL) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Mean(%CV) | Geo.mean | Mean(%CV) | Geo.mean |
-| EURneffy 2 mg IN (HCP administration) | 78 | 20.5 (2 - 150) | 485 (70.6) | 361 | 40900 (67.5) | 32600 |
-| EURneffy 2 mg IN (self-administration) | 32 | 30 (10 - 240) | 448 (67.1) | 342 | 50365 (55.5) | 41077 |
-| EURneffy 2 mg IN (pediatrics) | 16 | 25.0 (2.5 - 120) | 540 (70.7) | 433 | 35500 (76.3) | 27800 |
-| EURneffy 2 mg twice (L/R) | 39 | 30 (6 - 150) | 1000 (93.1) | 706 | 86000 (77) | 66700 |
-| EURneffy 2 mg twice (R/R) | 39 | 30 (4 - 150) | 992 (75.3) | 729 | 86500 (60.5) | 69900 |
-| Adrenaline 0.3 mg IM | 178 | 45 (3.9 -360) | 277 (65.4) | 234 | 27900 (38.7) | 26100 |
-| Adrenaline 0.3 mg IM twice | 70 | 45 (6 - 180) | 436 (48.8) | 386 | 47500 (32.6) | 45300 |
-| EpiPen 0.3 mg | 77 | 10 (2 - 45) | 581 (75.6) | 447 | 31600 (39.3) | 29200 |
-| EpiPen 0.3 mg twice | 78 | 20 (4 - 360) | 754 (64.7) | 630 | 55000 (47.9) | 29200 |
+Treatment N median (range) tmax (min) Mean(%CV) Cmax (pg/mL) Geo.mean Mean(%CV) AUClast (min*pg/mL) Geo.mean
+EURneffy 2 mg IN
+78 20.5 (2 - 150) 485 (70.6) 361 40900 (67.5) 32600
+(HCP administration)
+(self-administration) EURneffy 2 mg IN 32 30 (10 - 240) 448 (67.1) 342 50365 (55.5) 41077
+EURneffy 2 mg IN (pediatrics) 16 25.0 (2.5 - 120) 540 (70.7) 433 35500 (76.3) 27800
+EURneffy 2 mg twice (L/R) 39 30 (6 - 150) 1000 (93.1) 706 86000 (77) 66700
+EURneffy 2 mg twice
+(R/R) 39 30 (4 - 150) 992 (75.3) 729 86500 (60.5) 69900
+Adrenaline 0.3 mg IM 178 45 (3.9 -360) 277 (65.4) 234 27900 (38.7) 26100
+Adrenaline 0.3 mg IM twice 70 45 (6 - 180) 436 (48.8) 386 47500 (32.6) 45300
+EpiPen 0.3 mg 77 10 (2 - 45) 581 (75.6) 447 31600 (39.3) 29200
+EpiPen 0.3 mg twice 78 20 (4 - 360) 754 (64.7) 630 55000 (47.9) 29200
 
 IN: intranasal; IM: intramuscular
 
@@ -29,6 +30,7 @@ In subjects with rhinitis (congestion and nasal oedema), adrenaline is absorbed 
 Biotransformation
 
 Adrenaline is rapidly inactivated in the body, mostly in the liver by the enzymes catechol-O-methyltransferase (COMT) and monoamine oxidase (MAO).
+
 Elimination
 
 Much of a dose of adrenaline is excreted as metabolites in urine.
