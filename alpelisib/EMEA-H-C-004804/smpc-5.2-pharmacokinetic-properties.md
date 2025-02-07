@@ -15,7 +15,7 @@ Alpelisib absorption is affected by food.
 In healthy volunteers after a single 300 mg oral dose of alpelisib, compared to the fasted state, a high-fat high-calorie (HFHC) meal (985 calories with 58.1 g of fat) increased AUCinf by 73% and Cmax by 84%, and a LFLC meal (334 calories with 8.7 g of fat) increased AUCinf by 77% and Cmax by 145%.
 No significant difference was found for AUCinf between LFLC and HFHC with a geometric mean ratio of 0.978 (CI: 0.876, 1.09), showing that neither fat content nor overall calorific intake has a considerable impact on absorption.
 The increase in gastrointestinal solubility by bile, secreted in response to food intake, is the potential cause of the food effect.
-Hence, Piqray should be taken immediately after food at approximately same time each day.
+Hence, Piqray should be taken immediately after food at approximately the same time each day.
 
 Distribution
 
@@ -50,7 +50,7 @@ CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 substrates
 In a drug-drug interaction study, co-administration of repeated doses of alpelisib 300 mg with a single dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail, showed that there is no clinically signficant pharmacokinetic interaction.
 The data from CYP2B6 substrate (bupropion) should be interpreted with caution due to the small sample size.
 
-In healthy subjects, co-administration of a CYP2C9 substrate (S-warfarin) -with repeated doses of 300 mg alpelisib at steady state, increased S-warfarin exposure on average by 34% and 19% for AUCinf and Cmax respectively, compared to administration of S-warfarin alone.
+In healthy subjects, co-administration of a CYP2C9 substrate (S-warfarin) - with repeated doses of 300 mg alpelisib at steady state, increased S-warfarin exposure on average by 34% and 19% for AUCinf and Cmax respectively, compared to administration of S-warfarin alone.
 This indicates that alpelisib is a mild inhibitor of CYP2C9.
 
 In a drug-drug interaction study with the sensitive CYP3A4 and P-gp substrate everolimus, in patients with advanced solid tumours, AUC increased by 11.2%.
@@ -59,7 +59,7 @@ No clinically meaningful change is expected as a result of drug interaction with
 CYP3A4 inducers
 In a drug-drug interaction study co-administration of alpelisib and rifampin, a strong CYP3A4 inducer, confirmed that there is a clinically significant pharmacokinetic interaction between alpelisib and strong CYP3A4 inducers (see section 4.5).
 
-Transporter--based interaction
+Transporter-based interaction
 
 Based on in vitro data, inhibition of the renal organic anion transporter OAT3 by alpelisib (and/or its metabolite BZG791) cannot be discarded in patients at the therapeutic dose.
 

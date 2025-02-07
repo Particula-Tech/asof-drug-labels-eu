@@ -3,7 +3,7 @@
 Safety pharmacology and repeated dose toxicity
 
 The majority of the observed alpelisib effects were related to the pharmacological activity of alpelisib as a p110α-specific inhibitor of the PI3K pathway, such as the influence on the glucose homeostasis resulting in hyperglycaemia and the risk of increased blood pressure.
-The bone marrow and lymphoid tissue, pancreas and some reproductive organs of both genders were the main target organs for adverse effects.
+The bone marrow and lymphoid tissue, pancreas and some reproductive organs of both genders were the main target organs for adverse events.
 Effects on bone marrow and lymphoid tissue were generally reversible on cessation of treatment.
 Effects on the pancreas and reproductive organs did not fully reverse but showed a tendency towards reversion.
 In exploratory rat studies evidence of inflammatory changes of the skin was found.
@@ -23,7 +23,7 @@ Reproductive toxicity
 Embryo-foetal development studies in rats and rabbits have demonstrated that oral administration of alpelisib during organogenesis induced embryotoxicity, foetotoxicity and teratogenicity.
 In rats and rabbits, following prenatal exposure to alpelisib, increased incidences of pre- and post-implantation losses, reduced foetal weights and increased incidences of foetal abnormalities (enlarged brain ventricle, decreased bone ossification and skeletal malformations) were observed starting at exposures below those in humans at the highest recommended dose of 300 mg, indicating potential clinical relevance.
 
-In repeated dose toxicity studies, adverse effects were observed in reproductive organs, such as vaginal or uterine atrophy and oestrus cycle variations in rats, decreases in prostate and testes weight in rats and dogs and prostate atrophy in dogs at clinically relevant doses based on AUC.
+In repeated dose toxicity studies, adverse events were observed in reproductive organs, such as vaginal or uterine atrophy and oestrus cycle variations in rats, decreases in prostate and testes weight in rats and dogs and prostate atrophy in dogs at clinically relevant doses based on AUC.
 
 In fertility studies conducted in male and female rats, similar effects on fertility were observed.
 In females, increased pre- and post-implantation losses, which led to reduced numbers of implantation sites and live embryos, were observed at exposure levels (AUC) approximately twice the recommended human dose of 300 mg.

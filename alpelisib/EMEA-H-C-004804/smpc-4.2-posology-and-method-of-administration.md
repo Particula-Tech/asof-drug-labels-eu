@@ -2,19 +2,18 @@
 
 Treatment with Piqray should be initiated by a physician experienced in the use of anticancer therapies.
 
-Patients with HR-positive, HER2-negative advanced breast cancer should be selected for treatment with Piqray based on the presence of a PIK3CA mutation in tumour or plasma specimens, using a validated test.
+Patients with HR-positive, HER2-negative advanced breast cancer should be selected based on the presence of a PIK3CA mutation in tumour or plasma specimens, using a validated test.
 If a mutation is not detected in a plasma specimen, tumour tissue should be tested if available.
 
 Posology
 
 The recommended dose is 300 mg alpelisib (2x 150 mg film-coated tablets) taken once daily on a continuous basis.
-Piqray should be taken immediately after food, at approximately the same time each day (see section 5.2).
 The maximum recommended daily dose of Piqray is 300 mg.
 
-If a dose of Piqray is missed, it can be taken immediately following food and within 9 hours after the time it is usually administered.
+If a dose is missed, it can be taken immediately following food and within 9 hours after the time it is usually administered.
 After more than 9 hours, the dose should be skipped for that day.
-On the next day, Piqray should be taken at the usual time.
-If the patient vomits after taking the Piqray dose, the patient should not take an additional dose on that day and should resume the usual dosing schedule the next day at the usual time.
+On the next day, the dose should be taken at the usual time.
+If the patient vomits after taking the dose, the patient should not take an additional dose on that day and should resume the usual dosing schedule the next day at the usual time.
 
 Piqray should be co-administered with fulvestrant.
 The recommended dose of fulvestrant is 500 mg administered intramuscularly on days 1, 15 and 29, and once monthly thereafter.
@@ -29,7 +28,7 @@ If dose reduction is required, the dose reduction guidelines for ADRs are listed
 A maximum of 2 dose reductions are recommended, after which the patient should be permanently discontinued from treatment with Piqray.
 Dose reduction should be based on the worst preceding toxicity.
 
-Table 1 Recommended dose reduction guidelines for ADRs for Piqray1
+Table 1 Recommended dose reduction guidelines for ADRs1
 
 | Piqray dose level | Dose and schedule | Number and strength of tablets |
 | --- | --- | --- |
@@ -39,7 +38,7 @@ Table 1 Recommended dose reduction guidelines for ADRs for Piqray1
 | 1 Only one dose reduction is permitted for pancreatitis. |  |  |
 
 Tables 2-5 summarise the recommendations for dose interruption, reduction or discontinuation of Piqray in the management of specific ADRs.
-The clinical judgement of the treating physician, including confirmation of laboratory values if deemed necessary, should guide the management plan of each patient based on the individual benefit/risk assessment for treatment with Piqray.
+The clinical judgement of the treating physician, including confirmation of laboratory values if deemed necessary, should guide the management plan of each patient based on the individual benefit/risk assessment.
 
 Hyperglycaemia
 Consultation with a healthcare professional experienced in the treatment of hyperglycaemia should always be considered and is recommended for patients who are pre-diabetic or those with fasting glucose (FG) >250 mg/dl or 13.9 mmol/l, body mass index (BMI) ≥30 or age ≥75 years.
@@ -57,8 +56,7 @@ Table 2 Dose modification and management for hyperglycaemia
 | 1 Fasting glucose levels reflect hyperglycaemia grading according to CTCAE Version 4.03 CTCAE = Common Terminology Criteria for Adverse Events. 2 Applicable antidiabetic medicinal products, such as metformin, SGLT2 inhibitors or insulin sensitisers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), should be initiated and the respective prescribing information should be reviewed for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the phase III clinical study with the following guidance: Metformin should be initiated at 500 mg once daily. Based on tolerability, the metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1 000 mg with the evening meal, followed by further increase to 1 000 mg twice daily if needed (see section 4.4). 3 As recommended in the phase III clinical study, insulin may be used for 1-2 days until hyperglycaemia resolves. However, this may not be necessary in the majority of cases of alpelisib-induced hyperglycaemia, given the short half-life of alpelisib and the expectation that glucose levels will normalise following interruption of Piqray. |  |
 
 Baseline diabetic and pre-diabetic status, baseline BMI ≥30 and baseline age ≥75 years have been found to be risk factors for hyperglycaemia in patients treated with alpelisib.
-These risk factors were present in 74.7% of patients with any grade of hyperglycaemia and in 86.2% of patients with grade 3 or 4 hyperglycaemia (see section 4.4).
-
+These risk factors were present in 74.9% of patients with any grade of hyperglycaemia and in 84.7% of patients with grade 3 or 4 hyperglycaemia (see section 4.4).
 Rash
 Oral antihistamine administration may be considered prophylactically, at the time of initiation of treatment with Piqray.
 Additionally, antihistamines are recommended to manage symptoms of rash.
@@ -121,3 +119,5 @@ Piqray is for oral use.
 The tablets should be swallowed whole.
 They should not be chewed, crushed or split prior to swallowing.
 Tablets that are broken, cracked or otherwise not intact should not be ingested.
+
+The tablets should be taken immediately after food, at approximately the same time each day (see section 5.2).

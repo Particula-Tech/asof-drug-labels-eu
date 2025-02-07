@@ -8,11 +8,11 @@ Women of childbearing potential/Contraception in males and females
 Females of reproductive potential should be advised that animal studies and the mechanism of action have shown that alpelisib can be harmful to the developing foetus.
 Embryo-foetal development studies in rats and rabbits have demonstrated that oral administration of alpelisib during organogenesis induced embryotoxicity, foetotoxicity and teratogenicity (see section 5.3).
 
-In case females of reproductive potential take Piqray, they should use effective contraception (e.g. double-barrier method) when taking Piqray and for at least 1 week after stopping treatment with Piqray.
-
-Male patients with sexual partners who are pregnant, possibly pregnant or who could become pregnant should use condoms during sexual intercourse while taking Piqray and for at least 1 week after stopping treatment with Piqray.
+In case females of reproductive potential take Piqray, they should use effective contraception (e.g. double-barrier method) during therapy and for at least 1 week after stopping treatment with Piqray.
+Male patients with sexual partners who are pregnant, possibly pregnant or who could become pregnant should use condoms during sexual intercourse while taking Piqray and for at least 1 week after stopping treatment.
 
 Please refer to section 4.6 of the prescribing information for fulvestrant.
+
 Pregnancy
 
 Piqray is not indicated and is not to be used in women who are, or may be, pregnant (see section 4.1).
