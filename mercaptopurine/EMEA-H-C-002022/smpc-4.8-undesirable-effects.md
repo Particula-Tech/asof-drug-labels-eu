@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 
-The main adverse reaction of treatment with 6-mercaptopurine is bone marrow suppression leading to leucopenia and thrombocytopenia.
+The main adverse reaction of treatment with mercaptopurine is bone marrow suppression leading to leucopenia and thrombocytopenia.
 
 For mercaptopurine there is a lack of modern clinical documentation which can serve as support for accurately determining the frequency of adverse reactions.
 
@@ -24,8 +24,9 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Rare | Facial oedema |
 | Metabolism and nutrition disorders | Common | Anorexia |
 |  | Not known | Hypoglycaemia†, pellagra (see section 4.4) |
-| Gastrointestinal disorders | Common | Diarrhoea, vomiting, nausea |
-|  | Uncommon | Pancreatitis, oral ulceration |
+| Gastrointestinal disorders | Common | Diarrhoea, vomiting, nausea, pancreatitis* |
+|  | Uncommon | Oral ulceration |
+|  | Rare | Pancreatitis |
 |  | Very rare | Intestinal ulceration |
 |  | Not known | Stomatitis, cheilitis |
 | Hepatobiliary disorders | Common | Biliary stasis, hepatotoxicity |
@@ -42,13 +43,12 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Description of selected adverse reactions
 
-6-mercaptopurine is hepatotoxic in animals and man.
+Mercaptopurine is hepatotoxic in animals and man.
 The histological findings in man have shown hepatic necrosis and biliary stasis.
 
 The incidence of hepatotoxicity varies considerably and can occur with any dose but more frequently when the recommended dose is exceeded.
-
 Monitoring of liver function tests may allow early detection of hepatotoxicity.
-This is usually reversible if 6-mercaptopurine therapy is stopped soon enough but fatal liver damage has occurred.
+This is usually reversible if mercaptopurine therapy is stopped soon enough but fatal liver damage has occurred.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

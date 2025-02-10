@@ -7,5 +7,5 @@ Sucrose
 Sodium methyl parahydroxybenzoate (E219)
 Sodium ethyl parahydroxybenzoate (E215)
 Potassium sorbate (E202)
-Sodium hydroxide
+Sodium hydroxide (for pH-adjustment)
 Purified water
