@@ -12,7 +12,6 @@ The blood glucose-lowering effect of insulin is due to the facilitated uptake of
 Pharmacodynamic effects
 Tresiba is a basal insulin that forms soluble multi-hexamers upon subcutaneous injection, resulting in a depot from which insulin degludec is continuously and slowly absorbed into the circulation leading to a flat and stable glucose-lowering effect of Tresiba (see figure 1).
 During a period of 24 hours with once-daily treatment, the glucose-lowering effect of Tresiba, in contrast to insulin glargine, was evenly distributed between the first and second 12 hours (AUCGIR,0-12h,SS/AUCGIR,total,SS = 0.5).
-
 Time since injection (hours)
 Treatment IDeg 0.6 units/kg
 Figure 1 Glucose infusion rate profile, smoothed, steady state - Mean profile 0-24 hours - IDeg 100 units/mL 0.6 units/kg - Trial 1987
@@ -37,7 +36,6 @@ While improvements in HbA1c were non-inferior compared to other insulin products
 
 In a prospectively planned meta-analysis across seven open-label treat-to-target confirmatory trials in patients with type 1 and type 2 diabetes mellitus, Tresiba was superior in terms of a lower number of treatment-emergent confirmed hypoglycaemic episodes (driven by a benefit in type 2 diabetes mellitus, see Table 1) and nocturnal confirmed hypoglycaemic episodes compared to insulin glargine (100 units/ml) (administered according to label).
 The reduction in hypoglycaemia was achieved at a lower average FPG level with Tresiba than with insulin glargine.
-
 Table 1 Hypoglycaemia meta-analysis outcomes
 
 |  | Confirmed hypoglycaemiaa |  |
@@ -81,7 +79,6 @@ Table 2 Results from open-label clinical trials in type 1 diabetes mellitus
 1 In a once-daily regimen + insulin aspart to cover mealtime insulin requirements
 2 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
-
 Table 3 Results from open-label clinical trials in insulin naïve type 2 diabetes mellitus (insulin initiation)
 
 |  | 52 weeks of treatment |  | 26 weeks of treatment |  |
@@ -132,7 +129,6 @@ Table 4 Results from open-label clinical trials in type 2 diabetes mellitus: lef
 2 Once-daily regimen ± metformin SU/glinide ± pioglitazone
 3 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
-
 Table 5 Results from an open-label clinical trial with flexible dosing of Tresiba in type 2 diabetes mellitus
 
 |  | 26 weeks of treatment |  |  |  |
@@ -169,7 +165,6 @@ The rate of hypoglycaemic episodes (per patient year of exposure) was statistica
 Furthermore, two 64-week controlled, double-blind, randomised, cross-over, treat-to-target trials were conducted in patients with at least one risk factor for hypoglycaemia and with type 1 diabetes mellitus (501 patients) or type 2 diabetes mellitus (721 patients).
 Patients were randomised to either Tresiba or insulin glargine (100 units/mL) followed by cross-over.
 The trials evaluated the rate of hypoglycaemia upon treatment with Tresiba compared to insulin glargine (100 units/mL) (see Table 6).
-
 Table 6 Results from the double-blind, cross-over clinical trials in type 1 and type 2 diabetes mellitus
 
 |  | Type 1 diabetes mellitus |  | Type 2 diabetes mellitus |  |
@@ -226,7 +221,6 @@ CV: Cardiovascular.
 MI: Myocardial infarction.
 CI: 95% confidence interval.
 Figure 2 Forest plot of analysis of the composite 3-point MACE and individual cardiovascular endpoints in DEVOTE
-
 At baseline, HbA1c was 8.4% in both treatment groups and after 2 years HbA1c was 7.5% both with Tresiba and insulin glargine.
 Tresiba was superior compared to insulin glargine in terms of a lower rate of severe hypoglycaemic events and a lower proportion of subjects experiencing severe hypoglycaemia.
 The rate of nocturnal severe hypoglycaemia was significantly lower for Tresiba compared to insulin glargine (Table 7).

@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Novo Nordisk A/S
-Novo Allé
-DK-2880 Bagsværd
+Novo Alle 1
+DK-2880 Bagsvaerd
 Denmark

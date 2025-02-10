@@ -28,7 +28,6 @@ There is no gender difference in the pharmacokinetic properties of this medicina
 
 Elderly, race, renal and hepatic impairment
 There is no difference in the pharmacokinetics of insulin degludec between elderly and younger adult patients, between races or between healthy subjects and patients with renal or hepatic impairment.
-
 Paediatric population
 Pharmacokinetic properties of insulin degludec in children (1-11 years) and adolescents (12-18 years) were at steady state comparable to those observed in adults with type 1 diabetes mellitus.
 Total exposure after a single dose was, however, higher in children and adolescents than in adults with type 1 diabetes mellitus.

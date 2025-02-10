@@ -16,7 +16,7 @@ It is recommended to optimise glycaemic control via dose adjustment based on fas
 
 Adjustment of dose may be necessary if patients undertake increased physical activity, change their usual diet or during concomitant illness.
 
-Tresiba 100 units/mL and Tresiba 200 units/mL solution for injection in a pre-filled pen
+Tresiba 100 units/mL and Tresiba 200 units/mL FlexTouch solution for injection in a pre-filled pen
 Tresiba is available in two strengths.
 For both, the needed dose is dialled in units.
 The dose steps, however, differ between the two strengths of the medicinal product.
@@ -26,6 +26,10 @@ The dose steps, however, differ between the two strengths of the medicinal produ
   The dose is provided in half the volume of 100 units/mL basal insulin products.
 
 The dose counter shows the number of units regardless of strength and no dose conversion should be done when transferring a patient to a new strength.
+
+Tresiba 100 units/mL FlexPen solution for injection in a pre-filled pen
+
+- With Tresiba 100 units/mL a dose of 1–60 units per injection, in steps of 1 unit, can be administered.
 
 Flexibility in dosing time
 On occasions when administration at the same time of the day is not possible, Tresiba allows for flexibility in the timing of insulin administration (see section 5.1).
@@ -40,7 +44,6 @@ The recommended daily starting dose is 10 units followed by individual dosage ad
 
 Patients with type 1 diabetes mellitus
 Tresiba is to be used once daily with mealtime insulin and requires subsequent individual dosage adjustments.
-
 Transfer from other insulin medicinal products
 Close glucose monitoring is recommended during the transfer and in the following weeks.
 Doses and timing of concurrent rapid-acting or short-acting insulin products or other concomitant antidiabetic treatment may need to be adjusted.
@@ -86,16 +89,18 @@ Tresiba must not be drawn from the cartridge of the pre-filled pen into a syring
 
 Tresiba is administered subcutaneously by injection in the thigh, the upper arm or the abdominal wall.
 Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see sections 4.4 and 4.8).
-
 Patients should be instructed to always use a new needle.
 The re-use of insulin pen needles increases the risk of blocked needles, which may cause under- or overdosing.
 In the event of blocked needles, patients must follow the instructions described in the instructions for use accompanying the package leaflet (see section 6.6).
 
-Tresiba 100 units/mL and Tresiba 200 units/mL solution for injection in a pre-filled pen
-Tresiba comes in a pre-filled pen (FlexTouch) designed to be used with NovoFine or NovoTwist injection needles.
+Tresiba 100 units/mL and Tresiba 200 units/mL FlexTouch solution for injection in a pre-filled pen Tresiba comes in a pre-filled pen designed to be used with NovoFine or NovoTwist injection needles.
 
 - The 100 units/mL pre-filled pen delivers 1–80 units in steps of 1 unit.
 - The 200 units/mL pre-filled pen delivers 2–160 units in steps of 2 units.
 
-Tresiba 100 units/mL solution for injection in a cartridge
-Tresiba comes in a cartridge (Penfill) designed to be used with Novo Nordisk insulin delivery systems and NovoFine or NovoTwist injection needles.
+Tresiba 100 units/mL Penfill solution for injection in a cartridge
+Tresiba comes in a cartridge designed to be used with Novo Nordisk insulin delivery systems and NovoFine or NovoTwist injection needles.
+
+Tresiba 100 units/mL FlexPen solution for injection in a pre-filled pen
+Tresiba comes in a pre-filled pen designed to be used with NovoFine or NovoTwist injection needles.
+Tresiba FlexPen delivers 1–60 units in steps of 1 unit.

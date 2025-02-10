@@ -25,7 +25,6 @@ In type 1 diabetes mellitus, untreated hyperglycaemic events eventually lead to 
 
 Transfer from other insulin medicinal products
 Transferring a patient to another type, brand or manufacturer of insulin must be done under medical supervision and may result in the need for a change in dosage.
-
 Skin and subcutaneous tissue disorders
 Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis.
 There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions.
