@@ -4,6 +4,7 @@ Summary of the safety profile
 
 Type 2 diabetes mellitus
 A total of 15 582 patients with type 2 diabetes were included in clinical studies to evaluate the safety of empagliflozin, of which 10 004 patients received empagliflozin, either alone or in combination with metformin, a sulphonylurea, pioglitazone, DPP-4 inhibitors, or insulin.
+
 In 6 placebo-controlled trials of 18 to 24 weeks duration, 3 534 patients were included of which 1 183 were treated with placebo and 2 351 with empagliflozin.
 The overall incidence of adverse events in patients treated with empagliflozin was similar to placebo.
 The most frequently reported adverse reaction was hypoglycaemia when used with sulphonylurea or insulin (see description of selected adverse reactions).
@@ -62,10 +63,13 @@ The genital tract infections were mild or moderate in intensity.
 
 In the EMPEROR heart failure studies, the frequency of these infections was more pronounced in patients with diabetes mellitus (empagliflozin 10 mg: 2.3%; placebo: 0.8%) than in patients without diabetes mellitus (empagliflozin 10 mg: 1.7%; placebo: 0.7%) when treated with empagliflozin compared to placebo.
 
+Cases of phimosis/acquired phimosis have been reported concurrent with genital infections and in some cases, circumcision was required.
+
 Increased urination
 Increased urination (including the predefined terms pollakiuria, polyuria, and nocturia) was observed at higher frequencies in patients treated with empagliflozin (empagliflozin 10 mg: 3.5%, empagliflozin 25 mg: 3.3%) compared to placebo (1.4%).
 Increased urination was mostly mild or moderate in intensity.
 The frequency of reported nocturia was similar for placebo and empagliflozin (<1%).
+
 In the EMPEROR heart failure studies, increased urination was observed at similar frequencies in patients treated with empagliflozin and placebo (empagliflozin 10 mg: 0.9%, placebo 0.5%).
 
 Urinary tract infection

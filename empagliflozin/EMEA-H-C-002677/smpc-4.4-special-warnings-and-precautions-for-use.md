@@ -23,8 +23,12 @@ Treatment with empagliflozin may be restarted when the ketone values are normal 
 
 Before initiating empagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
+Prolonged ketoacidosis and prolonged glucosuria have been observed with empagliflozin.
+Ketoacidosis may last longer after discontinuation of empagliflozin than expected from the plasma half-life (see section 5.2).
+Empagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of ketoacidosis.
 Patients who may be at higher risk of ketoacidosis include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
+
 Restarting SGLT2 inhibitor treatment in patients with previous ketoacidosis while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
 Jardiance should not be used in patients with type 1 diabetes.
@@ -59,14 +63,14 @@ The effect of empagliflozin on urinary glucose excretion is associated with osmo
 Patients aged 75 years and older may be at an increased risk of volume depletion.
 A higher number of these patients treated with empagliflozin had adverse reactions related to volume depletion as compared to placebo (see section 4.8).
 Therefore, special attention should be given to their volume intake in case of co-administered medicinal products which may lead to volume depletion (e.g. diuretics, ACE inhibitors).
-
 Complicated urinary tract infections
 
 Cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with empagliflozin (see section 4.8).
 Temporary interruption of empagliflozin should be considered in patients with complicated urinary tract infections.
+
 Necrotising fasciitis of the perineum (Fournier’s gangrene)
 
-Cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients with diabetes mellitus taking SGLT2 inhibitors.
+Cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients taking SGLT2 inhibitors, including empagliflozin.
 This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
 
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
@@ -87,6 +91,7 @@ A causal relationship between empagliflozin and hepatic injury has not been esta
 Elevated haematocrit
 
 Haematocrit increase was observed with empagliflozin treatment (see section 4.8).
+Patients with pronounced elevations in haematocrit should be monitored and investigated for underlying haematological disease.
 
 Chronic kidney disease
 
@@ -105,7 +110,6 @@ Interference with 1,5-anhydroglucitol (1,5-AG) assay
 
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
 Use of alternative methods to monitor glycaemic control is advised.
-
 Lactose
 
 The tablets contain lactose.

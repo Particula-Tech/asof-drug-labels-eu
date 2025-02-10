@@ -342,8 +342,7 @@ Table 9: Results at 24 week in a placebo-controlled study of empagliflozin in re
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 1 Mean adjusted for baseline value
-2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure
-* p<0.0001
+2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure * p<0.0001
 
 Cardiovascular outcome
 The double-blind, placebo-controlled EMPA-REG OUTCOME study compared pooled doses of empagliflozin 10 mg and 25 mg with placebo as adjunct to standard care therapy in patients with type 2 diabetes and established cardiovascular disease.
@@ -362,7 +361,7 @@ The effect of empagliflozin on the primary combined endpoint of CV death, non-fa
 
 The efficacy for preventing cardiovascular mortality has not been conclusively established in patients using empagliflozin concomitantly with DPP-4 inhibitors or in Black patients because the representation of these groups in the EMPA-REG OUTCOME study was limited.
 
-Table 10:Treatment effect for the primary composite endpoint, its components and mortalitya
+Table 10: Treatment effect for the primary composite endpoint, its components and mortalitya
 
 |  | Placebo | Empagliflozinb |
 | --- | --- | --- |
@@ -555,7 +554,7 @@ Primary causes of CKD were diabetic nephropathy/diabetic kidney disease (31%), g
 Empagliflozin was superior in reducing the risk of the primary composite endpoint of kidney disease progression or CV death compared with placebo (see Table 14).
 Additionally, empagliflozin significantly reduced the risk of all-cause hospitalisation (first and recurrent).
 
-Table 14:Treatment effect for the primary composite and key secondary endpoints included in the pre-specified confirmatory testing and its components
+Table 14: Treatment effect for the primary composite and key secondary endpoints included in the pre-specified confirmatory testing and its components
 
 |  | Placebo | Empagliflozin 10 mg |
 | --- | --- | --- |

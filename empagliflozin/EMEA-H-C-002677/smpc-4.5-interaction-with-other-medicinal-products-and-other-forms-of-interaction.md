@@ -32,7 +32,6 @@ These changes were not considered to be clinically meaningful.
 Empagliflozin exposure was similar with and without co-administration with verapamil, a P-gp inhibitor, indicating that inhibition of P-gp does not have any clinically relevant effect on empagliflozin.
 
 Interaction studies suggest that the pharmacokinetics of empagliflozin were not influenced by co-administration with metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide and hydrochlorothiazide.
-
 Effects of empagliflozin on other medicinal products
 Empagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased.
 Serum concentration of lithium should be monitored more frequently after empagliflozin initiation and dose changes.
