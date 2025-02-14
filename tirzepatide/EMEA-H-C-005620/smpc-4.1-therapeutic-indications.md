@@ -15,3 +15,5 @@ Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased phys
 
 - ≥ 30 kg/m2 (obesity) or
 - ≥ 27 kg/m2 to < 30 kg/m2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
+
+For trial results with respect to obstructive sleep apnoea (OSA), see section 5.1.

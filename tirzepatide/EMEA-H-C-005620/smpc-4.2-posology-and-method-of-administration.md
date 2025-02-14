@@ -21,10 +21,10 @@ Missed doses
 If a dose is missed, it should be administered as soon as possible within 4 days after the missed dose.
 If more than 4 days have passed, skip the missed dose and administer the next dose on the regularly scheduled day.
 In each case, patients can then resume their regular once weekly dosing schedule.
-
 Changing the dosing schedule
 
 The day of weekly administration can be changed, if necessary, as long as the time between two doses is at least 3 days.
+
 Special populations
 
 Elderly, gender, race, ethnicity or body weight

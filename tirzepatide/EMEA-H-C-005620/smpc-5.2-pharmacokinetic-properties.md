@@ -32,10 +32,9 @@ The primary excretion routes of tirzepatide metabolites are via urine and faeces
 Intact tirzepatide is not observed in urine or faeces.
 
 Special populations
-
 Age, gender, race, ethnicity, body weight
 
-Age, gender, race, ethnicity, or body weight, do not have a clinically relevant effect on the pharmacokinetics (PK) of tirzepatide.
+Age, gender, race, ethnicity, or body weight do not have a clinically relevant effect on the pharmacokinetics (PK) of tirzepatide.
 Based on a population PK analysis, the exposure of tirzepatide increases with decreasing body weight; however, the effect of body weight on the PK of tirzepatide does not appear to be clinically relevant.
 
 Renal impairment
@@ -43,6 +42,7 @@ Renal impairment
 Renal impairment does not impact the PK of tirzepatide.
 The PK of tirzepatide after a single 5 mg dose was evaluated in patients with different degrees of renal impairment (mild, moderate, severe, ESRD) compared with subjects with normal renal function and no clinically relevant differences were observed.
 This was also shown for patients with both type 2 diabetes mellitus and renal impairment based on data from clinical studies.
+
 Hepatic impairment
 
 Hepatic impairment does not impact the PK of tirzepatide.

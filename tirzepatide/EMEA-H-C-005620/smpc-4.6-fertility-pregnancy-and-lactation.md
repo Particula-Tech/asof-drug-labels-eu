@@ -1,10 +1,16 @@
 # 4.6 Fertility, pregnancy and lactation
 
+Women of childbearing potential
+
+Women of childbearing potential are recommended to use contraception when treated with tirzepatide.
+
 Pregnancy
 
 There are no or a limited amount of data from the use of tirzepatide in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Tirzepatide is not recommended during pregnancy and in women of childbearing potential not using contraception.
+If a patient wishes to become pregnant, or pregnancy occurs, tirzepatide should be discontinued.
+Tirzepatide should be discontinued at least 1 month before a planned pregnancy due to the long half-life (see section 5.2).
 
 Breast-feeding
 

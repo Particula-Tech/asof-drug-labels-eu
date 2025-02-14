@@ -5,11 +5,11 @@ Acute pancreatitis
 Tirzepatide has not been studied in patients with a history of pancreatitis, and should be used with caution in these patients.
 
 Acute pancreatitis has been reported in patients treated with tirzepatide.
-
 Patients should be informed of the symptoms of acute pancreatitis.
 If pancreatitis is suspected, tirzepatide should be discontinued.
 If the diagnosis of pancreatitis is confirmed, tirzepatide should not be restarted.
 In the absence of other signs and symptoms of acute pancreatitis, elevations in pancreatic enzymes alone are not predictive of acute pancreatitis (see section 4.8).
+
 Hypoglycaemia
 
 Patients receiving tirzepatide in combination with an insulin secretagogue (for example, a sulphonylurea) or insulin may have an increased risk of hypoglycaemia.
@@ -29,6 +29,11 @@ Tirzepatide has not been studied in patients with severe gastrointestinal diseas
 Diabetic retinopathy
 
 Tirzepatide has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy or diabetic macular oedema, and should be used with caution in these patients with appropriate monitoring.
+
+Aspiration in association with general anaesthesia or deep sedation
+
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation.
+Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 
 Sodium content
 
