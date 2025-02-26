@@ -6,7 +6,6 @@ Mechanism of action
 
 Caffeine is structurally related to the methylxanthines theophylline and theobromine.
 Most of its effects have been attributed to antagonism of adenosine receptors, both A1 and A2A subtypes, demonstrated in receptor binding assays and observed at concentrations approximating those achieved therapeutically in this indication.
-
 Pharmacodynamic effects
 
 Caffeine’s main action is as a CNS stimulant.

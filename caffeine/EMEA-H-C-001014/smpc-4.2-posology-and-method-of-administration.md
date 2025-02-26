@@ -17,7 +17,6 @@ The dose expressed as caffeine base is one-half the dose when expressed as caffe
 | Maintenance dose* | 0.25 mL/kg body weight | 5 mg/kg body weight | Intravenous infusion (over 10 minutes) or by oral administration | Every 24 hours* |
 
 * Beginning 24 hours after the loading dose
-
 In preterm newborn infants with insufficient clinical response to the recommended loading dose, a second loading dose of 10 -20 mg/kg maximum may be given after 24 hours.
 Higher maintenance doses of 10 mg/kg body weight could be considered in case of insufficient response, taking into account the potential for accumulation of caffeine due to the long half- life in preterm newborn infants and the progressively increasing capacity to metabolise caffeine in relation to post-menstrual age (see section 5.2).
 Where clinically indicated, caffeine plasma levels should be monitored.
@@ -52,7 +51,6 @@ It is recommended that caffeine citrate administration should be stopped when th
 If the patient has recurrent apnoea, caffeine citrate administration can be restarted with either a maintenance dose or a half loading dose, depending upon the time interval from stopping caffeine citrate to recurrence of apnoea.
 Because of the slow elimination of caffeine in this patient population, there is no requirement for dose tapering on cessation of treatment.
 As there is a risk for recurrence of apnoeas after cessation of caffeine citrate treatment monitoring of the patient should be continued for approximately one week.
-
 Hepatic and renal impairment
 
 There is limited experience in patients with renal and hepatic impairment.

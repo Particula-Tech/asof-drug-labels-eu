@@ -15,7 +15,6 @@ Breast-feeding mothers of newborn infants treated with caffeine citrate should n
 Theophylline
 
 In newborns previously treated with theophylline, baseline plasma caffeine concentrations should be measured prior to initiation of treatment with caffeine citrate because preterm infants metabolise theophylline to caffeine.
-
 Seizures
 
 Caffeine is a central nervous system stimulant and seizures have been reported in cases of caffeine overdose.
@@ -47,6 +46,7 @@ Caffeine citrate should be used with caution in infants suffering gastro-oesopha
 Caffeine citrate causes a generalised increase in metabolism, which may result in higher energy and nutrition requirements during therapy.
 
 The diuresis and electrolyte loss induced by caffeine citrate may necessitate correction of fluid and electrolyte disturbances.
+
 Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
