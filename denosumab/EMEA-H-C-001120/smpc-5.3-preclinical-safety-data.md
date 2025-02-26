@@ -24,6 +24,7 @@ In preclinical bone quality studies in monkeys on long-term denosumab treatment,
 Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
 
 In male mice genetically engineered to express huRANKL (knock-in mice), which were subjected to a transcortical fracture, denosumab delayed the removal of cartilage and remodelling of the fracture callus compared to control, but biomechanical strength was not adversely affected.
+
 Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body weight, reduced bone growth and lack of tooth eruption.
 In neonatal rats, inhibition of RANKL (target of denosumab therapy) with high doses of a construct of osteoprotegerin bound to Fc (OPG-Fc) was associated with inhibition of bone growth and tooth eruption.
 These changes were partially reversible in this model when dosing with RANKL inhibitors was discontinued.

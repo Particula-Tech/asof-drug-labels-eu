@@ -37,7 +37,7 @@ Hypocalcaemia
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following Prolia administration.
 Declines of serum calcium levels (less than 1.88 mmol/L) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy.
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported, predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy.
 Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4).
 Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
@@ -55,8 +55,11 @@ Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis d
 Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment.
 The risk of ONJ increased with duration of exposure to denosumab.
 
+The risk of ONJ has also been assessed in a retrospective cohort study among 76,192 postmenopausal women newly initiating treatment with Prolia.
+The incidence of ONJ was 0.32% (95% confidence interval [CI]: 0.26, 0.39) among patients using denosumab up to 3 years and 0.51% (95% CI: 0.39, 0.65) among patients using denosumab up to 5 years of follow-up.
+
 Atypical fractures of the femur
-In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with denosumab (see section 4.4).
+In the osteoporosis clinical trial programme, atypical femoral fractures were reported rarely in patients treated with denosumab (see section 4.4).
 
 Diverticulitis
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT), an imbalance in diverticulitis adverse events was observed (1.2% denosumab, 0% placebo).

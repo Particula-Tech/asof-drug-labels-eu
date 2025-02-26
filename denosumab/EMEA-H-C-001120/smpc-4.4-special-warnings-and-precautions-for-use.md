@@ -13,16 +13,18 @@ Precautions for use
 Hypocalcaemia
 It is important to identify patients at risk for hypocalcaemia.
 Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy.
-Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose.
+Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks, after the initial dose.
 If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured.
 Patients should be encouraged to report symptoms indicative of hypocalcaemia.
-In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal cases) has been reported (see section 4.8), with most cases occurring in the first weeks of initiating therapy, but it can occur later.
+In the post-marketing setting, severe symptomatic hypocalcaemia (resulting in hospitalisation, life-threatening events, and fatal cases) have been reported.
+While most cases occurred in the first few weeks of initiating therapy, it has also occurred later.
 
 Concomitant glucocorticoid treatment is an additional risk factor for hypocalcaemia.
 
 Renal impairment
 Patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia.
 The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment.
+Severe and fatal cases have been reported.
 Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
 
 Skin infections

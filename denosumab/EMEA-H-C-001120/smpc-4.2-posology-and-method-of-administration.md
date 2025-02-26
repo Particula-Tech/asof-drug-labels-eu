@@ -16,7 +16,7 @@ No dose adjustment is required in elderly patients.
 Renal impairment
 No dose adjustment is required in patients with renal impairment (see section 4.4 for recommendations relating to monitoring of calcium).
 
-No data is available in patients with long-term systemic glucocorticoid therapy and severe renal impairment (GFR < 30 mL/min).
+No data is available in patients with long-term systemic glucocorticoid therapy and severe renal impairment Glomerular filtration rate (GFR < 30 mL/min).
 
 Hepatic impairment
 The safety and efficacy of denosumab have not been studied in patients with hepatic impairment (see section 5.2).

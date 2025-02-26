@@ -25,10 +25,10 @@ However, the trend is not considered clinically important, since pharmacodynamic
 Linearity/non-linearity
 
 In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmacokinetics, with lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
-
 Renal impairment
 
 In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab.
+
 Hepatic impairment
 
 No specific study in patients with hepatic impairment was performed.
