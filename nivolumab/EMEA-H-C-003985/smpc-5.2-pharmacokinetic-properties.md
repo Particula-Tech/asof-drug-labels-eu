@@ -3,10 +3,10 @@
 Nivolumab monotherapy
 The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg.
 The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μg/mL, respectively, based on a population PK analysis.
+
 Nivolumab CL in cHL patients was approximately 32% lower relative to NSCLC.
 Nivolumab baseline CL in adjuvant melanoma patients was approximately 40% lower and steady state CL approximately 20% lower relative to advanced melanoma.
 With available safety data, these decreases in CL were not clinically meaningful.
-
 The metabolic pathway of nivolumab has not been characterised.
 Nivolumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
@@ -39,6 +39,7 @@ No clinically important differences in the CL of nivolumab were found between pa
 Data from patients with severe renal impairment are too limited to draw conclusions on this population (see section 4.2).
 
 Hepatic impairment
-The effect of hepatic impairment on the CL of nivolumab was evaluated in patients with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST > ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 92) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 804) in the population PK analyses.
-No clinically important differences in the CL of nivolumab were found between patients with mild hepatic impairment and normal hepatic function.
-Nivolumab has not been studied in patients with moderate (total bilirubin > 1.5 × to 3 × ULN and any AST) or severe hepatic impairment (total bilirubin > 3 × ULN and any AST) (see section 4.2).
+The effect of hepatic impairment on the CL of nivolumab was evaluated in patients with different tumour types (NSCLC, SCLC, melanoma, RCC, SCCHN, UC, GC, and cHL) with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST > ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 351) and in patients with moderate hepatic impairment (total bilirubin > 1.5 × to 3 × ULN and any AST; n = 10) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 3096) in a population PK analysis.
+No clinically important differences in the CL of nivolumab were found between patients with mild or moderate hepatic impairment and normal hepatic function.
+Similar results were observed in patients with HCC (mild hepatic impairment: n = 152; moderate hepatic impairment: n = 13).
+Nivolumab has not been studied in patients with severe hepatic impairment (total bilirubin > 3 × ULN and any AST) (see section 4.2).

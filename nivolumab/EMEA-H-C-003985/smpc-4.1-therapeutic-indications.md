@@ -71,3 +71,7 @@ OPDIVO as monotherapy is indicated for the adjuvant treatment of adult patients 
 Gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma
 
 OPDIVO in combination with fluoropyrimidine- and platinum-based combination chemotherapy is indicated for the first-line treatment of adult patients with HER2-negative advanced or metastatic gastric, gastro-oesophageal junction or oesophageal adenocarcinoma whose tumours express PD-L1 with a combined positive score (CPS) ≥ 5.
+
+Hepatocellular carcinoma (HCC)
+
+OPDIVO in combination with ipilimumab is indicated for the first-line treatment of adult patients with unresectable or advanced hepatocellular carcinoma.

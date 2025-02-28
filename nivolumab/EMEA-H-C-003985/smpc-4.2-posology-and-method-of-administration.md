@@ -59,7 +59,7 @@ Treatment is continued for up to 24 months in patients without disease progressi
 Renal cell carcinoma
 The recommended dose is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
 This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 3.
-For the monotherapy phase, the first dose of nivolumab should be administered;
+For the monotherapy phase, the first dose of nivolumab should be administered:
 
 - 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
 - 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
@@ -90,12 +90,27 @@ Oesophageal squamous cell carcinoma
 The recommended dose is either 3 mg/kg nivolumab every 2 weeks or 360 mg nivolumab every 3 weeks administered intravenously over 30 minutes in combination with 1 mg/kg ipilimumab administered intravenously over 30 minutes every 6 weeks.
 Treatment is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
+Hepatocellular carcinoma
+The recommended dose is 1 mg/kg nivolumab in combination with 3 mg/kg ipilimumab administered intravenously every 3 weeks for up to 4 doses.
+This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks (see sections 5.1 and 5.2), as presented in Table 5.
+Treatment is recommended until disease progression, unacceptable toxicity, or up to 24 months.
+For the monotherapy phase, the first dose of nivolumab should be administered:
+
+- 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks or 480 mg every 4 weeks.
+
+Table 5: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for HCC
+
+|  | Combination phase, every 3 weeks for 4 dosing cycles | Monotherapy phase |
+| --- | --- | --- |
+| Nivolumab | 1 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes |
+| Ipilimumab | 3 mg/kg over 30 minutes | - |
+
 OPDIVO in combination with cabozantinib
 
 Renal cell carcinoma
 The recommended dose is nivolumab administered intravenously at either 240 mg every 2 weeks or 480 mg every 4 weeks in combination with 40 mg cabozantinib administered orally every day.
 
-Table 5: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
+Table 6: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
 
 |  | Combination phase |
 | --- | --- |
@@ -117,6 +132,7 @@ The recommended dose is 360 mg nivolumab administered intravenously over 30 minu
 Oesophageal squamous cell carcinoma
 The recommended dose of nivolumab is 240 mg every 2 weeks or 480 mg every 4 weeks administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy administered every 3 weeks or 240 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine-and platinum-based chemotherapy administered every 2 weeks (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
@@ -139,11 +155,10 @@ It is recommended to continue treatment with nivolumab or nivolumab in combinati
 
 Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in combination with other therapeutic agents.
 Dosing delay or discontinuation may be required based on individual safety and tolerability.
-Guidelines for permanent discontinuation or withholding of doses are described in Table 6.
+Guidelines for permanent discontinuation or withholding of doses are described in Table 7.
 Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4.
 When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
-
-Table 6: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+Table 7: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 Immune-related Severity Treatment modification
 
@@ -151,14 +166,13 @@ adverse reaction
 
 Grade 2 pneumonitis Withhold dose(s) until symptoms
 
-resolve, radiographic abnormalities
+resolve, radiographic abnormalities improve, and
 
-Immune-related improve, and management with
-pneumonitis corticosteroids is complete
-Grade 3 or 4 pneumonitis Permanently discontinue treatment
-Immune-related Severity Treatment modification
+Immune-related management with corticosteroids
+pneumonitis is complete
+Grade 3 or 4 pneumonitis Permanently discontinue
 
-adverse reaction
+treatment
 
 Grade 2 diarrhoea or colitis Withhold dose(s) until symptoms
 
@@ -171,54 +185,89 @@ Immune-related colitis resolve and management with
 
 corticosteroids is complete
 
-- OPDIVO+ipilimumaba Permanently discontinue treatment
-Grade 4 diarrhoea or colitis Permanently discontinue treatment
+- OPDIVO+ipilimumaba Permanently discontinue
+
+treatment
+
+Grade 4 diarrhoea or colitis Permanently discontinue
+
+treatment
+
 Immune-related Grade 2 elevation in aspartate Withhold dose(s) until laboratory
-hepatitis aminotransferase (AST), alanine values return to baseline and
-aminotransferase (ALT), or total management with corticosteroids, if
-NOTE: for RCC bilirubin needed, is complete
+hepatitis without HCC aminotransferase (AST), alanine values return to baseline and
+
+aminotransferase (ALT), or total bilirubin management with corticosteroids,
+
+NOTE: for RCC if needed, is complete
 patients treated
-with OPDIVO in Grade 3 or 4 elevation in AST, ALT, or Permanently discontinue treatment
-combination with total bilirubin
-cabozantinib with liver
-enzyme elevations, see
-dosing guidelines
-following this table.
+with OPDIVO in Grade 3 or 4 elevation in AST, ALT, or total Permanently discontinue
+combination with bilirubin treatment
+cabozantinib with
+liver enzyme
+elevations, see dosing
+guidelines following
+this table.
+If AST/ALT is within normal limits at Withhold dose(s) until laboratory
+
+baseline and increases to > 3 and ≤ 10 times values return to baseline and
+
+ULN management with corticosteroids,
+or if needed, is complete
+
+Baseline AST/ALT is > 1 and ≤ 3 times ULN and increases to > 5 and ≤ 10 times ULN
+
+Immune-related or
+
+hepatitis with HCC Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN.
+
+AST/ALT increases to > 10 times ULN Permanently discontinue
+or treatment
+
+Total bilirubin increases to > 3 times ULN
+
 Grade 2 or 3 creatinine elevation Withhold dose(s) until creatinine
-Immune-related returns to baseline and management
-nephritis and renal with corticosteroids is complete
+
+returns to baseline and
+
+Immune-related management with corticosteroids
+nephritis and renal is complete
 
 dysfunction
 
-Grade 4 creatinine elevation Permanently discontinue treatment
-Symptomatic Grade 2 or 3 Withhold dose(s) until symptoms
-hypothyroidism, hyperthyroidism, resolve and management with
-hypophysitis, corticosteroids (if needed for symptoms
-Grade 2 adrenal insufficiency of acute inflammation) is complete.
-Grade 3 diabetes Treatment should be continued in the
+Grade 4 creatinine elevation Permanently discontinue
 
-presence of hormone replacement
+treatment
 
-Immune-related therapyb as long as no symptoms are
-endocrinopathies present
+Immune-related Severity Treatment modification
+
+adverse reaction
+Symptomatic Grade 2 or 3 hypothyroidism, Withhold dose(s) until symptoms
+
+hyperthyroidism, hypophysitis, resolve and management with
+Grade 2 adrenal insufficiency corticosteroids (if needed for
+Grade 3 diabetes symptoms of acute inflammation)
+
+is complete.
+Treatment should be continued in the presence of
+
+Immune-related hormone replacement therapyb as
+endocrinopathies long as no symptoms are present
 
 Grade 4 hypothyroidism
-Grade 4 hyperthyroidism
 
-Grade 4 hypophysitis Permanently discontinue treatment
+Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Permanently discontinue treatment
 
-Grade 3 or 4 adrenal insufficiency
 Grade 4 diabetes
 
 Grade 3 rash Withhold dose(s) until symptoms
 
-resolve and management with corticosteroids is complete Immune-related skin
+resolve and management with corticosteroids is complete
 
-adverse reactions Grade 4 rash Permanently discontinue treatment
+adverse reactions Immune-related skin Grade 4 rash Permanently discontinue treatment
 
-Stevens-Johnson syndrome (SJS) or Permanently discontinue treatment (see
+Stevens-Johnson syndrome (SJS) or toxic Permanently discontinue
 
-toxic epidermal necrolysis (TEN) section 4.4)
+epidermal necrolysis (TEN) treatment (see section 4.4)
 Grade 2 myocarditis Withhold dose(s) until symptoms
 
 resolve and management with
@@ -227,19 +276,18 @@ Immune-related corticosteroids is completec
 
 myocarditis
 
-Grade 3 or 4 myocarditis Permanently discontinue treatment
-Immune-related Severity Treatment modification
+Grade 3 or 4 myocarditis Permanently discontinue
 
-adverse reaction
+treatment
 
 Grade 3 (first occurrence) Withhold dose(s)
 
 Other immune-related Grade 4 or recurrent Grade 3; persistent
 
-adverse reactions Grade 2 or 3 despite treatment
-modification; inability to reduce Permanently discontinue treatment
+adverse reactions Grade 2 or 3 despite treatment modification; Permanently discontinue
+inability to reduce corticosteroid dose treatment
 
-corticosteroid dose to 10 mg prednisone or equivalent per day
+to 10 mg prednisone or equivalent per day
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
 b Recommendation for the use of hormone replacement therapy is provided in section 4.4.
@@ -261,7 +309,7 @@ If dosing is resumed after a delay, either the combination treatment, OPDIVO mon
 
 OPDIVO in combination with cabozantinib in RCC
 When OPDIVO is used in combination with cabozantinib, the above treatment modifications in
-Table 6 also apply to the OPDIVO component.
+Table 7 also apply to the OPDIVO component.
 In addition, for liver enzyme elevations, in patients with RCC being treated with OPDIVO in combination with cabozantinib:
 
 - If ALT or AST > 3 times ULN but ≤ 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both OPDIVO and cabozantinib should be withheld until these adverse reactions recover to Grades 0-1.
@@ -278,14 +326,15 @@ Currently available data of OPDIVO as monotherapy or in combination with ipilimu
 
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see section 5.2).
+
 Renal impairment
 Based on the population pharmacokinetic (PK) results, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.
 
 Hepatic impairment
-Based on the population PK results, no dose adjustment is required in patients with mild hepatic impairment (see section 5.2).
-Data from patients with moderate or severe hepatic impairment are too limited to draw conclusions on these populations.
-OPDIVO must be administered with caution in patients with moderate (total bilirubin > 1.5 × to 3 × the upper limit of normal [ULN] and any AST) or severe (total bilirubin > 3 × ULN and any AST) hepatic impairment.
+Based on the population PK results, no dose adjustment is required in patients with mild or moderate hepatic impairment (see section 5.2).
+Data from patients with severe hepatic impairment are too limited to draw conclusions on this population.
+OPDIVO must be administered with caution in patients with severe (total bilirubin > 3 × ULN and any AST) hepatic impairment.
 
 Method of administration
 
