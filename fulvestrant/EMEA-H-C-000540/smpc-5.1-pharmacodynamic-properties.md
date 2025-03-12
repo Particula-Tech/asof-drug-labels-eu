@@ -202,6 +202,7 @@ Time (Month)
 Number of patients at risk
 PAL+FUL 347 276 245 215 189 168 137 69 38 12 2 1
 PCB+FUL 174 112 83 62 51 43 29 15 11 4 1
+
 FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
 
 A reduction in the risk of disease progression or death in the Faslodex plus palbociclib arm was observed in all individual patient subgroups defined by stratification factors and baseline characteristics.
@@ -225,8 +226,8 @@ Kaplan-Meier plot of overall survival (intent-to-treat population) – PALOMA3 s
 0 6 12 18 24 30 36 42 48 54
 Time (Month)
 Number of patients at risk
-
 PAL+FUL 347 321 286 247 209 165 148 126 17
+
 PCB+FUL 174 155 135 115 86 68 57 43 7
 
 FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
