@@ -12,6 +12,13 @@ Pack size of 1 vial + 1 filter needle.
 
 [Eylea 114.3 mg/ml solution for injection]
 
+Eylea 114.3 mg/ml solution for injection
+
 Vial (type I glass) with a grey rubber stopper (chlorobutyl) sealed with an aluminium cap with white lid, and a 18 G, 5-micron filter needle.
 Each vial contains 0.263 ml solution.
 Pack size of 1 vial and 1 filter needle.
+
+Eylea 114.3 mg/ml solution for injection in pre-filled syringe
+
+Pre-filled syringe (type I glass) with a grey plunger stopper (elastomeric rubber), a white Luer-lock adaptor with a grey tip cap (elastomeric rubber) and a blue OcuClick dosing system (PC/ABS plastic).
+Each pre-filled syringe contains 0.184 ml solution.

@@ -8,6 +8,7 @@ There are no data on the use of aflibercept in pregnant women.
 Studies in animals have shown embryo-foetal toxicity (see section 5.3).
 
 Although the systemic exposure after ocular administration is very low, Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the foetus.
+
 Breast-feeding
 Based on very limited human data, aflibercept may be excreted in human milk at low levels.
 Aflibercept is a large protein molecule and the amount of medication absorbed by the infant is expected to be minimal.

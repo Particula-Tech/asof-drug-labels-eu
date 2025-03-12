@@ -493,7 +493,8 @@ Pharmacotherapeutic group: Ophthalmologicals / Antineovascularisation agents, AT
 VEGF acts via two receptor tyrosine kinases, VEGFR-1 and VEGFR-2, present on the surface of endothelial cells.
 PlGF can act independently to activate the VEGFR-1 to promote an inflammatory response within the retina, and is known to increase in pathological states such as nAMD, diabetic retinopathy (DR), DME, and retinal vein occlusion (RVO).
 
-In animal studies, aflibercept can prevent pathological neovascularization and vascular leakage in a number of different models of ocular disease.
+In animal studies, aflibercept can prevent pathological neovascularization and vascular leakage in a
+number of different models of ocular disease.
 
 nAMD
 
@@ -501,10 +502,9 @@ nAMD is characterised by pathological choroidal neovascularisation (CNV).
 Leakage of blood and fluid from CNV may cause retinal oedema and/or sub-/intra-retinal haemorrhage, resulting in loss of visual acuity.
 
 The pharmacodynamic effects of aflibercept 114.3 mg/ml administered every 12 (8Q12) and every 16 (8Q16) weeks are described in comparison with aflibercept 40 mg/ml administered every 8 weeks (2Q8) for the nAMD indication.
-These effects are shown as the change in CNV size from baseline to week 12; change in total lesion area from baseline to weeks 48 and 60; and change from baseline in central retinal thickness (CRT).
+These effects are shown as the change in CNV size from baseline to week 12; change in total lesion area from baseline to weeks 48, 60, and 96; and change from baseline in central retinal thickness (CRT).
 
 In the pooled group of patients treated with 8Q12 or 8Q16, reductions in CNV size (LS mean, based on a mixed model for repeated measurements [MMRM]) at week 12 were -1.63 mm2 compared to -1.17 mm2 for patients treated with 2Q8.
-
 Table 2: Pharmacodynamic parameter (full analysis set) in the PULSAR study
 
 | Efficacy outcomes | Week | Eylea 8Q12 (N = 335) | Eylea 8Q16 (N = 338) | Eylea 2Q8 (N = 336) |
@@ -517,12 +517,18 @@ Table 2: Pharmacodynamic parameter (full analysis set) in the PULSAR study
 | Arithmetic mean (SD), observed | 60 | -0.5 (2.8) | -0.4 (3.2) | -0.3 (3.2) |
 | LS mean (SE) A |  | -0.48 (0.20) | -0.54 (0.21) | -0.24 (0.20) |
 | Difference in LS means (95% CI) A,B |  | -0.24 (-0.72, 0.24) | -0.29 (-0.79, 0.20) |  |
+| Arithmetic mean (SD), observed | 96 | -0.3 (3.3) | -0.3 (3.2) | -0.2 (3.4) |
+| LS mean (SE) A |  | -0.43 (0.20) | -0.42 (0.20) | -0.18 (0.20) |
+| Difference in LS means (95% CI) A,B |  | -0.25 (-0.72, 0.21) | -0.24 (-0.71, 0.22) |  |
 
 A LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
 B Absolute difference is Eylea 8Q12- or 8Q16-groups minus 2Q8-groups, respectively.
 LS: Least square
 SE: Standard error
-Figure 1: LS mean change in central retinal thickness (CRT) from baseline through week 60 (full analysis set) in the PULSAR study
+
+Figure 1: LS mean change in central retinal thickness (CRT) from baseline through week 96 (full analysis set) in the PULSAR study
+
+-146.82 -148.75 -151.97
 
 weeks
 
@@ -531,21 +537,25 @@ DME
 Diabetic macular oedema is characterised by increased vasopermeability and damage to the retinal capillaries which may result in loss of visual acuity.
 
 The pharmacodynamic effects of aflibercept 114.3 mg/ml administered every 12 (8Q12) and every 16 (8Q16) weeks are described in comparison with aflibercept 40 mg/ml administered every 8 weeks (2Q8) for the DME indication.
-These effects are shown as the change in the leakage area from baseline to weeks 48 and 60.
-
+These effects are shown as the change in the leakage area from baseline to weeks 48, 60, and 96.
 Table 3: Pharmacodynamic parameter (full analysis set) in the PHOTON study
 
 | Efficacy Outcomes | Week | Eylea 8Q12 (N = 328) | Eylea 8Q16 (N = 163) | Eylea 2Q8 (N = 167) |
 | --- | --- | --- | --- | --- |
-| Change in leakage area from baseline [mm2] |  |  |  |  |
+| Change in leakage areaA from baseline [mm2] |  |  |  |  |
 | Arithmetic mean (SD), observed | 48 | -13.9 (13.91) | -9.4 (11.50) | -9.2 (12.11) |
 |  | 60 | -13.9 (13.54) | -12.0 (13.26) | -14.4 (12.89) |
+|  | 96 | -12.8 (10.98) | -9.4 (10.61) | -11.9 (11.26) |
 
-Figure 2: LS mean change in central retinal thickness (CRT) from baseline through week 60 (full analysis set) in the PHOTON study
+A based on fluorescein angiography measurement
+
+Figure 2: LS mean change in central retinal thickness (CRT) from baseline through week 96 (full analysis set) in the PHOTON study
+
+-158.39 -191.26 -193.99
 
 Immunogenicity
-After dosing with Eylea 114.3 mg/ml for up to 48 weeks treatment-emergent antibodies to
-Eylea 114.3 mg/ml were detected in 1.2% to 3.8% of patients treated for DME and nAMD.
+After dosing with Eylea 114.3 mg/ml for up to 96 weeks treatment-emergent antibodies to
+Eylea 114.3 mg/ml were detected in 2.5% to 4.4% of patients treated for DME and nAMD.
 No evidence of anti-drug antibodies impact on pharmacokinetics, efficacy or safety was observed.
 
 Study objectives
@@ -557,7 +567,6 @@ The secondary objectives were to determine the effect of Eylea 114.3 mg/ml versu
 The primary efficacy endpoint was the change from baseline in BCVA measured by the early treatment diabetic retinopathy study (ETDRS) letter score at week 48.
 The key secondary endpoints were the change in BCVA from baseline at week 60 and the proportion of patients with no intraretinal fluid (IRF) and no subretinal fluid (SRF) in central subfield at week 16.
 Further secondary endpoints were the proportion of patients gaining at least 15 letters in BCVA from baseline at week 48, the proportion of patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) at week 48, and the change from baseline in National Eye Institute Visual Functioning Questionnaire-25 (NEI-VFQ-25) total score at week 48, among others.
-
 In the PULSAR study a total of 1 009 patients were treated.
 The patients were assigned in a 1:1:1 ratio to 1 of 3 parallel treatment groups:
 1.
@@ -580,6 +589,7 @@ Regardless of whether patient intervals were maintained or shortened in year 1, 
 For patients who did not meet the criteria for shortening or extension of the interval, the dosing interval was maintained.
 The minimum interval between injections was 8 weeks in all groups.
 Patients with bilateral disease were eligible to receive Eylea 40 mg/ml treatment or another anti-VEGF medicinal product in their fellow eye.
+
 Patient characteristics at baseline
 Patient ages ranged from 50 to 96 years with a mean of 74.5 years.
 Approximately 92% (309/335) and 87% (295/338) of the patients randomised to the 8Q12- and 8Q16-groups, respectively, were 65 years of age or older and approximately 51% (172/335) and 51% (171/338) were 75 years of age or older.
@@ -588,9 +598,13 @@ Results
 Patients in the 8Q12-, 8Q16- and 2Q8-groups who completed week 48 received a median (mean) of 6.0 (6.1), 5.0 (5.2) and 7.0 (6.9) injections, respectively.
 At week 48, in the 8Q12-group, 79.4% of patients maintained Q12 intervals while in the 8Q16-group 76.6% of patients maintained Q16 intervals.
 Patients in the 8Q12-, 8Q16- and 2Q8-groups who completed week 60 received a median (mean) of 7.0 (7.1), 6.0 (6.2) and 9.0 (8.8) injections, respectively.
-At week 60, 43.1% of patients in the 8Q12-group were extended to a dosing interval of 16 weeks, and 38.5% of patients in the 8Q16-group were extended to a dosing interval of 20 weeks.
+At week 60, 43.1% of patients in the 8Q12-group were extended to a treatment interval of 16 weeks, and 38.5% of patients in the 8Q16-group were extended to a treatment interval of 20 weeks.
+Patients in the 8Q12-, 8Q16- and 2Q8-groups who completed week 96 received a median (mean) of 9.0 (9.7), 8.0 (8.2) and 13.0 (12.8) injections, respectively.
+At week 96, in the pooled 8Q12- and 8Q16-groups 71.0% of patients had attained treatment intervals of ≥16 weeks, 46.8% of patients had attained treatment intervals of ≥20 weeks, and 27.8% of patients had attained treatment intervals of 24 weeks, while maintaining visual and anatomic outcomes.
 
 Treatment with 8Q12 and 8Q16 was shown to be non-inferior and clinically equivalent to treatment with 2Q8 in terms of the primary efficacy endpoint ‘mean change in BCVA at week 48’ and the key secondary efficacy endpoint ‘mean change in BCVA at week 60’.
+The treatment effect with
+Eylea 114.3 mg/ml in mean change in BCVA was maintained through week 96.
 
 Furthermore, treatment with Eylea (pooled 8Q12- and 8Q16-groups) was shown to be superior to treatment with 2Q8 in terms of the key secondary efficacy endpoint ‘proportion of patients with no intraretinal fluid (IRF) and no subretinal fluid (SRF) in the central subfield at week 16’ (see table 4).
 Table 4: Efficacy outcomes from the PULSAR study
@@ -606,6 +620,9 @@ Table 4: Efficacy outcomes from the PULSAR study
 | LS mean (SE) A |  | 6.37 (0.74) | 6.31 (0.66) | 7.23 (0.68) |
 | Difference in LS means (95% CI) A,B |  | -0.86 (-2.57, 0.84) | -0.92 (-2.51, 0.66) |  |
 | p-value (one-sided non-inferiority test at a margin of 4 letters) A,B |  | 0.0002 | <0.0001 |  |
+| Arithmetic mean (SD), observed | 96 | 5.9 (14.2) | 5.6 (13.7) | 7.4 (13.8) |
+| LS mean (SE) A |  | 5.59 (0.77) | 5.52 (0.75) | 6.60 (0.73) |
+| Difference in LS means (95% CI) A,B |  | -1.01 (-2.82, 0.80) | -1.08 (-2.87, 0.71) |  |
 | Patients with no IRF and no SRF in the central subfield D |  |  |  |  |
 | Proportion (LOCF) | 16 | 63.3% |  | 51.6% |
 | Adjusted difference in proportion (95% CI) B,C |  | 11.7% (5.3%, 18.2%) |  |  |
@@ -614,26 +631,75 @@ Table 4: Efficacy outcomes from the PULSAR study
 | Adjusted difference in proportion (95% CI) B,C |  | 11.7% (4.5%, 18.9%) | 7.5% (0.1%, 14.8%) |  |
 | Proportion (LOCF) | 60 | 74.6% | 72.2% | 74.6% |
 | Adjusted difference in proportion (95% CI) B,C |  | 0.0% (-6.6%, 6.7%) | -2.2% (-8.9%, 4.4%) |  |
+| Proportion (LOCF) | 96 | 69.6% | 63.6% | 66.5% |
+| Adjusted difference in proportion (95% CI) B,C |  | 3.0% (-4.1%, 10.1%) | -3.0% (-10.2%, 4.2%) |  |
+
+| Efficacy outcomes | Week | Eylea 8Q12 (N = 335) | Eylea 8Q16 (N = 338) | Eylea 2Q8 (N = 336) |
+| --- | --- | --- | --- | --- |
 | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D |  |  |  |  |
 | Proportion (LOCF) | 48 | 56.9% | 54.3% | 57.9% |
 | Adjusted difference in proportion (95% CI) B,C |  | -0.2% (-6.6%, 6.2%) | -2.2% (-8.4%, 4.0%) |  |
 | Proportion (LOCF) | 60 | 56.3% | 54.6% | 58.2% |
 | Adjusted difference in proportion (95% CI) B,C |  | -1.1% (-7.5%, 5.3%) | -2.3% (-8.7%, 4.1%) |  |
+| Proportion (LOCF) | 96 | 53.3% | 53.1% | 56.7% |
+| Adjusted difference in proportion (95% CI) B,C |  | -2.7% (-9.4%, 4.0%) | -2.4% (-9.1%, 4.2%) |  |
 | Patients who gained at least 15 letters in BCVA from baseline D |  |  |  |  |
 | Proportion (LOCF) | 48 | 20.7% | 21.7% | 22.1% |
 | Adjusted difference in proportion (95% CI) B,C |  | -1.7% (-7.8%, 4.3%) | -0.9% (-7.0%, 5.1%) |  |
 | Proportion (LOCF) | 60 | 23.7% | 23.1% | 23.3% |
 | Adjusted difference in proportion (95% CI) B,C |  | 0.1% (-6.2%, 6.3%) | -0.7% (-6.9%, 5.5%) |  |
+| Proportion (LOCF) | 96 | 22.2% | 22.8% | 24.2% |
+| Adjusted difference in proportion (95% CI) B,C |  | -2.4% (-8.4%, 3.6%) | -2.0% (-8.0%, 4.1%) |  |
+| Last intended treatment intervals |  |  |  |  |
+| Patients at ≥Q12 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 87.8% |  | n/a |
+| Proportion |  | 86.6% | 89.0% | n/a |
+| Patients at ≥Q16 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 71.0% |  | n/a |
+| Proportion |  | 63.6% | 78.4% | n/a |
+| Patients at ≥Q20 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 46.8% |  | n/a |
+| Proportion |  | 40.5% | 53.1% | n/a |
+| Patients at Q24 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 27.8% |  | n/a |
+| Proportion |  | 24.7% | 30.8% | n/a |
 
 C Mantel-Haenszel weighted treatment difference with stratification variables used for randomization (geographical region, categorical baseline BCVA) and CI calculated using normal approximation.
 D Full analysis set
-Figure 3: LS mean change in BCVA as measured by ETDRS letter score from baseline through week 60 (full analysis set) in the PULSAR study
+E Safety analysis set; patients considered as completer for the respective timepoint
+
+Treatment intervals were analysed in a pre-specified exploratory manner.
+Figure 3: LS mean change in BCVA as measured by ETDRS letter score from baseline through week 96 (full analysis set) in the PULSAR study
+
++6.60 +5.59 +5.52
+
+Figure 4: Last intended treatment interval at week 96
+
+pooled 8Q12- and 8Q16-groups
+
+27.8% Q24
+
+46.8%
+≥Q20
+
+71.0%
+
+19.0% Q20 ≥Q16
+
+87.8%
+≥Q12
+
+24.2% Q16
+
+16.8% Q12
+
+12.2% Q8
 
 Aflibercept at all doses (8Q12, 8Q16, 2Q8) demonstrated meaningful increase from baseline in the pre-specified secondary efficacy endpoint national eye institute visual function questionnaire (NEI VFQ-25).
-No clinically meaningful differences were found between the 8Q12-, 8Q16- and 2Q8-groups in changes of NEI VFQ-25 total score at week 48 from baseline.
+No clinically meaningful differences were found between the 8Q12-, 8Q16- and 2Q8-groups in changes of NEI VFQ-25 total score at week 48 and week 96 from baseline.
 
 Efficacy results in evaluable subgroups for age, gender, geographic region, ethnicity, race, baseline BCVA, and lesion type were consistent with the results in the overall population.
-Efficacy was generally maintained through week 60.
+Efficacy was generally maintained through week 96.
 
 The safety and efficacy of Eylea 114.3 mg/ml were assessed in a randomised, multi-centre, double-masked, active-controlled study (PHOTON) in patients with DME.
 
@@ -659,9 +725,12 @@ The proportion of patients who were treated previously for DME was balanced betw
 Patients in the 8Q12-, 8Q16- and 2Q8-groups who completed week 48 received a median (mean) of 6.0 (6.0), 5.0 (5.0) and 8.0 (7.9) injections, respectively.
 At week 48, in the 8Q12-group, 91.0% of patients maintained Q12 intervals while in the 8Q16-group 89.1% of patients maintained Q16 intervals.
 Patients in the 8Q12-, 8Q16- and 2Q8-groups who completed week 60 received a median (mean) of 7.0 (7.0), 6.0 (6.0) and 10.0 (9.8) injections, respectively.
-At week 60, 42.6% of patients in the 8Q12-group were extended to a dosing interval of 16 weeks, and 34.2% of patients in the 8Q16-group were extended to a dosing interval of 20 weeks.
+At week 60, 42.6% of patients in the 8Q12-group were extended to a treatment interval of 16 weeks, and 34.2% of patients in the 8Q16-group were extended to a treatment interval of 20 weeks.
+Patients in the 8Q12-, 8Q16- and 2Q8-groups who completed week 96 received a median (mean) of 9.0 (9.5), 8.0 (7.8) and 14.0 (13.8) injections, respectively.
+At week 96, in the pooled 8Q12- and 8Q16-groups 72.4% of patients had attained treatment intervals of ≥16 weeks, 44.3% of patients had attained treatment intervals of ≥20 weeks, and 26.8% of patients had attained treatment intervals of 24 weeks, while maintaining visual and anatomic outcomes.
 
 Treatment with Eylea (both 8Q12- and 8Q16-groups) was shown to be non-inferior and clinically equivalent to treatment with 2Q8 in terms of the primary efficacy endpoint ‘mean change in BCVA at week 48’ and the key secondary efficacy endpoint ‘mean change in BCVA at week 60’.
+The treatment effect with Eylea 114.3 mg/ml in mean change in BCVA was maintained through week 96.
 Table 5: Efficacy outcomes from the PHOTON study
 
 | Efficacy outcomes | Week | Eylea 8Q12 (N = 328) | Eylea 8Q16 (N = 163) | Eylea 2Q8 (N = 167) |
@@ -675,19 +744,56 @@ Table 5: Efficacy outcomes from the PHOTON study
 | LS mean (SE) A |  | 8.52 (0.63) | 7.64 (0.75) | 9.40 (0.77) |
 | Difference in LS means (95% CI) A,B |  | -0.88 (-2.67, 0.91) | -1.76 (-3.71, 0.19) |  |
 | p-value (one-sided non-inferiority test at a margin of 4 letters) A,B |  | 0.0003 | 0.0122 |  |
+| Arithmetic mean (SD), observed | 96 | 8.82 (9.93) | 7.50 (9.86) | 8.41 (11.10) |
+| LS mean (SE) A |  | 8.15 (0.63) | 6.59 (0.77) | 7.70 (0.89) |
+| Difference in LS means (95% CI) A,B |  | -0.45 (-1.55, 2.45) | -1.11 (-3.27, 1.05) |  |
 | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D |  |  |  |  |
 | Proportion (LOCF) | 48 | 65.3% | 62.6% | 63.0% |
 | Adjusted difference in proportion (95% CI) B,C |  | 2.45% (-6.47%, 11.36%) | -0.67% (-11.16%, 9.82%) |  |
 | Proportion (LOCF) | 60 | 64.7% | 62.0% | 60.6% |
 | Adjusted difference in proportion (95% CI) B,C |  | 4.34% (-4.72%, 13.40%) | 1.63% (-8.91%, 12.17%) |  |
+| Proportion (LOCF) | 96 | 66.9% | 61.3% | 63.0% |
+| Adjusted difference in proportion (95% CI) B,C |  | 4.01% (-4.99%, 13.01%) | -1.51% (-11.91%, 8.89%) |  |
 | Patients who gained at least 15 letters in BCVA from baseline D |  |  |  |  |
 | Proportion (LOCF) | 48 | 18.7% | 16.6% | 23.0% |
 | Adjusted difference in proportion (95% CI) B,C |  | -4.64% (-12.30%, 3.02%) | -7.14% (-15.45%, 1.17%) |  |
 | Proportion (LOCF) | 60 | 21.5% | 16.0% | 26.1% |
 | Adjusted difference in proportion (95% CI) B,C |  | -5.01% (-13.04%, 3.02%) | -10.78% (-19.27%, -2.29%) |  |
+| Proportion (LOCF) | 96 | 24.5% | 19.6% | 26.1% |
+| Adjusted difference in proportion (95% CI) B,C |  | -1.88% (-10.03%, 6.28%) | -7.07% (-15.94%, 1.80%) |  |
+| Last intended treatment intervals |  |  |  |  |
+| Patients at ≥Q12 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 92.9% |  | n/a |
+| Proportion |  | 91.8% | 95.0% | n/a |
+| Patients at ≥Q16 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 72.4% |  | n/a |
+| Proportion |  | 64.1% | 87.8% | n/a |
+| Patients at ≥Q20 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 44.3% |  | n/a |
+| Proportion |  | 43.0% | 46.8% | n/a |
+| Patients at Q24 treatment interval E |  |  |  |  |
+| Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 26.8% |  | n/a |
+| Proportion |  | 23.8% | 32.4% | n/a |
 
-Figure 4: LS mean change in BCVA as measured by ETDRS letter score from baseline through week 60 (full analysis set) in the PHOTON study
+Figure 5: LS mean change in BCVA as measured by ETDRS letter score from baseline through week 96 (full analysis set) in the PHOTON study
 
++8.15 +7.70 +6.59
+
+Figure 6: Last intended treatment interval at week 96
+
+26.8% Q24
+
+44.3%
+
+17.5% Q20 72.4% ≥Q16
+
+92.9%
+
+28.1% Q16
+
+20.5% Q12
+
+7.1% Q8
 Eylea at all doses (8Q12, 8Q16, 2Q8) demonstrated meaningful increase from baseline in the pre-specified secondary efficacy endpoint national eye institute visual function questionnaire (NEI VFQ-25).
 
 Efficacy results in evaluable subgroups for age, gender, geographic region, ethnicity, race, baseline BCVA and baseline CRT and prior DME treatment were consistent with the results in the overall population.

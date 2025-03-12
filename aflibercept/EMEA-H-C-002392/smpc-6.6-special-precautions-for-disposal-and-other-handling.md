@@ -62,11 +62,11 @@ The vial is for single use in one eye only.
 The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
 
 Filter needle:
-BD Blunt Filter (Fill) Needle, not for skin injection.
-Do not autoclave the BD Blunt Filter (Fill) Needle.
+Blunt Filter (Fill) Needle, not for skin injection.
+Do not autoclave the Blunt Filter (Fill) Needle.
 The filter needle is non-pyrogenic.
 Do not use it if individual packaging is damaged.
-Discard the used BD Blunt Filter (Fill) Needle in approved sharps collector.
+Discard the used Blunt Filter (Fill) Needle in approved sharps collector.
 Caution: Re-use of the filter needle may lead to infection or other illness/injury.
 
 Instructions for use of vial:
@@ -95,15 +95,18 @@ Extraction of multiple doses from a single vial may increase the risk of contami
 
 [Eylea 114.3 mg/ml solution for injection]
 
+Eylea 114.3 mg/ml solution for injection
+
 Do not use if the package or its components are expired, damaged, or have been tampered with.
 Check the label on the vial to make sure you have the strength of Eylea that you intended to use.
 The 8 mg dose requires use of the Eylea 114.3 mg/ml vial.
 
 18 G, 5-micron filter needle:
 
-- Do not autoclave BD blunt filter (fill) needle.
+- Do not autoclave blunt filter (fill) needle.
 
 The intravitreal injection should be performed with a 30 G × ½ inch injection needle (not included).
+Use of a smaller size needle (higher gauge) than the recommended 30 G × ½ inch injection needle may result in increased injection forces.
 
 1. Prior to administration visually inspect the solution for injection.
 Do not use the vial if particulates, cloudiness, or discolouration are visible.
@@ -138,3 +141,85 @@ dose line for
 0.07 ml
 flat plunger
 edge
+
+Eylea 114.3 mg/ml solution for injection in pre-filled syringe
+
+The pre-filled syringe with OcuClick dosing system is for single use in one eye only.
+Extraction of multiple doses from a single pre-filled syringe with OcuClick dosing system may increase the risk of contamination and subsequent infection.
+
+Check the label on the pre-filled syringe with OcuClick dosing system to make sure you have the strength of Eylea that you intended to use.
+The 8 mg dose requires use of the Eylea 114.3 mg/ml pre-filled syringe.
+
+Pre-filled syringe with integrated OcuClick dosing system description
+syringe cap
+Luer-lock
+plunger stopper
+90° view
+finger grip
+OcuClick
+dosing
+system
+plunger rod
+guide
+slot
+1. Prepare
+When ready to administer Eylea 114.3mg/ml, open the carton and remove the sterile blister.
+Keep the syringe in the sterile tray until you are ready to attach the injection needle.
+Use aseptic technique to carry out steps 2-9.
+2. Remove syringe
+Remove the syringe from the sterilised blister.
+3. Inspect syringe and solution for injection
+Do not use the pre-filled syringe if
+- particulates, cloudiness, or discolouration are visible
+- any part of the pre-filled syringe with OcuClick dosing system is damaged or loose
+- the syringe cap is detached from the Luer-lock.
+4. Snap off syringe cap
+To snap off (do not twist off) the syringe cap,
+hold the syringe in one hand and the syringe cap
+with the thumb and forefinger of the other hand. SNAP!
+Note: Do not pull back on the plunger rod.
+5. Attach needle
+Firmly twist the 30 G × ½ inch injection needle
+onto the Luer-lock syringe tip.
+6. Dislodge air bubbles
+Holding the syringe with the needle pointing up,
+check the syringe for bubbles. If there are
+bubbles, gently tap the syringe with your finger
+until the bubbles rise to the top.
+TAP!
+7. Expel air and excess volume to prime
+The syringe does not have a dose line because it is designed to set the dose mechanically as
+explained in the steps below.
+Priming and setting the dose must be done using the following steps.
+To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger rod
+(left picture below) until it stops, i.e. when the guide on the plunger rod reaches the finger grip
+(right picture below).
+Ensure bubbles air
+are at the top bubble
+so they can be
+expelled. plunger rod
+solution
+finger grip fully
+depressed
+plunger rod plunger
+guide guide
+8. Set the dose
+Turn the end of the plunger rod 90 degrees
+clockwise or counter clockwise until the guide CLICK!
+of the plunger rod aligns with the slot. You may
+hear a ‘click’.
+Note: Now the device is ready to dose. Do not
+push the plunger rod before insertion into the
+eye. slot
+plunger
+rod
+9. Administer the injection
+Insert the needle into the ocular injection site.
+Inject the solution by pushing in the plunger rod
+until it stops, i.e. until the guide is completely
+within the slot. guide
+Do not apply additional pressure once the guide slot
+is within the slot. It is normal to see a small
+amount of residual solution left in the syringe.
+10. The pre-filled syringe is for single dose administration and single use only.
+After injection discard the used syringe into a sharps container.

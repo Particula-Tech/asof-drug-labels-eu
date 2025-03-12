@@ -2,7 +2,6 @@
 
 Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
 Intravitreal injection-related reactions
 Intravitreal injections, including those with Eylea, have been associated with endophthalmitis, intraocular inflammation, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.8).
 Proper aseptic injection techniques must always be used when administering Eylea.
@@ -67,7 +66,11 @@ This lack of information should be considered by the physician when treating suc
 In myopic CNV there is no experience with Eylea in the treatment of non-Asian patients, patients who have previously undergone treatment for myopic CNV, and patients with extrafoveal lesions.
 
 Information about excipients
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ’sodium-free’.
+This medicinal product contains
+
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ’sodium-free’
+- 0.003 mg of polysorbate 20 in each 0.01 ml dose or 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml.
+  Polysorbates may cause allergic reactions.
 
 [Eylea 40 mg/mL solution for injection in a vial.]
 
@@ -75,6 +78,8 @@ Patients should be instructed to report any symptoms suggestive of endophthalmit
 
 The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
 The excess volume must be discarded prior to administration (see sections 4.2 and 6.6).
+
+- 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml.
 
 [Eylea 114.3 mg/ml solution for injection]
 
@@ -119,3 +124,5 @@ Women of childbearing potential
 Women of childbearing potential have to use effective contraception during treatment and for at least 4 months after the last intravitreal injection with Eylea 114.3 mg/ml (see section 4.6).
 
 There is only limited experience with Eylea treatment in diabetic patients with an HbA1c over 12 % or with proliferative diabetic retinopathy.
+
+This medicinal product contains 0.021 mg of polysorbate 20 in each 0.07 ml dose which is equivalent to 0.3 mg/ml.

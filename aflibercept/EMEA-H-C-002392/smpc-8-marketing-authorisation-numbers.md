@@ -8,4 +8,5 @@ EU/1/12/797/002
 
 [Eylea 114.3 mg/ml solution for injection]
 
-EU/1/12/797/003
+EU/1/12/797/003 - Eylea 114.3 mg/ml solution for injection
+EU/1/12/797/004 - Eylea 114.3 mg/ml solution for injection in pre-filled syringe

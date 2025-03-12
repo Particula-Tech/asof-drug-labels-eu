@@ -3,7 +3,6 @@
 Eylea is for intravitreal injection only.
 
 Eylea must only be administered by a qualified physician experienced in administering intravitreal injections.
-
 Posology
 
 wet AMD
@@ -12,6 +11,7 @@ The recommended dose for Eylea is 2 mg aflibercept, equivalent to 0.05 mL.
 
 Eylea treatment is initiated with one injection per month for three consecutive doses.
 The treatment interval is then extended to two months.
+
 Based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be maintained at two months or further extended using a treat-and-extend dosing regimen, where injection intervals are increased in 2- or 4-weekly increments to maintain stable visual and/or anatomic outcomes.
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 
@@ -47,10 +47,10 @@ Based on the physician’s judgement of visual and/or anatomic outcomes, the tre
 There are limited data for treatment intervals longer than 4 months.
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 Treatment intervals shorter than 4 weeks have not been studied (see section 5.1).
-
 The schedule for monitoring should be determined by the treating physician.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
+
 Myopic choroidal neovascularisation
 
 The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 0.05 mL.
@@ -97,6 +97,7 @@ If required, sterile equipment for paracentesis should be available.
 Following intravitreal injection, adult patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
 Patients with ROP should be observed by healthcare professionals for any signs suggestive of endophthalmitis (e.g. redness/irritation of the eye, ocular discharge, lid swelling, photophobia).
 Parents and caregivers should also be instructed to observe and report any signs suggestive of endophthalmitis without delay.
+
 Each pre-filled syringe should only be used for the treatment of a single eye.
 Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
@@ -144,7 +145,7 @@ Eylea must only be administered by a qualified physician experienced in intravit
 
 The recommended dose is 8 mg aflibercept, equivalent to 0.07 ml solution.
 The posology is the same for the nAMD and DME indications.
-The 8 mg dose requires use of the Eylea 114.3 mg/ml vial.
+The 8 mg dose requires use of Eylea 114.3 mg/ml.
 
 Eylea treatment is initiated with 1 injection per month for 3 consecutive doses.
 Injection intervals may then be extended up to every 4 months based on the physician’s judgement of visual and/or anatomic outcomes.
@@ -173,4 +174,5 @@ A different scleral site should be used for subsequent injections.
 
 Following intravitreal injection, patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
 
+Each vial or pre-filled syringe should only be used for the treatment of a single eye.
 After injection, discard any unused product or waste material in accordance with local requirements.

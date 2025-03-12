@@ -13,22 +13,26 @@ Tabulated list of adverse reactions
 
 The safety data described below include all adverse reactions from the eight phase III studies in the indications wet AMD, CRVO, BRVO, DME and myopic CNV with a reasonable possibility of causality to the injection procedure or medicinal product.
 
-The adverse reactions are listed by system organ class and frequency using the following convention:
-
-Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000)
+The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
+
 Table 1: All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
 
-| System Organ Class | Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- | --- |
-| Immune system disorders |  |  | Hypersensitivity*** |  |
-| Eye disorders | Visual acuity reduced, Retinal haemorrhage, Conjunctival haemorrhage, Eye pain | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema | Blindness, Cataract traumatic, Vitritis, Hypopyon |
+| System Organ Class | Frequency | Adverse reaction |
+| --- | --- | --- |
+| Immune system disorders | Uncommon | Hypersensitivity*** |
+| Eye disorders | Very common | Visual acuity reduced, Retinal haemorrhage, Conjunctival haemorrhage, Eye pain |
+|  | Common | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia |
+|  | Uncommon | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema |
+|  | Rare | Blindness, Cataract traumatic, Vitritis, Hypopyon |
+|  | Not known | Scleritis**** |
 
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.
-** Culture positive and culture negative endophthalmitis
+** Culture positive and culture negative endophthalmitis.
 *** During the post-marketing period, reports of hypersensitivity included rash, pruritus, urticaria, and isolated cases of severe anaphylactic/anaphylactoid reactions.
+**** From post-marketing reporting.
 
 Description of selected adverse reactions
 
@@ -42,10 +46,10 @@ A low incidence rate of arterial thromboembolic events was observed in the Eylea
 Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
 
 As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
+
 Paediatric population
 The safety of Eylea for the treatment of ROP was evaluated in a 6-month phase III study, which included 75 preterm infants treated with aflibercept 0.4 mg at baseline.
 The long-term safety profile in preterm infants has not been established.
-
 Adverse reactions reported in more than one patient treated with aflibercept 0.4 mg were retinal detachment, retinal haemorrhage, conjunctival haemorrhage, injection site haemorrhage, intraocular pressure increased and eyelid oedema.
 
 Adverse reactions established for adult indications are considered applicable to preterm infants with ROP, though not all were observed in the phase III study.
@@ -58,15 +62,13 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Eylea 40 mg/mL solution for injection in a vial.]
 
-The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000)
-
 A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO and myopic CNV.
 
 [Eylea 114.3 mg/ml solution for injection]
 
-Serious adverse reactions were cataract (4.0%), retinal haemorrhage (2.6%), intraocular pressure increased (2.4%), vitreous haemorrhage (1.0%), cataract subcapsular (0.5%), retinal detachment (0.4%), and retinal tear (0.3%).
+Serious adverse reactions were cataract (8.2%), retinal haemorrhage (3.6%), intraocular pressure increased (2.8%), vitreous haemorrhage (1.2%), cataract subcapsular (0.9%), cataract nuclear (0.6%), retinal detachment (0.6%), and retinal tear (0.5%).
 
-The most frequently observed adverse reactions in patients treated with Eylea 114.3 mg/ml were cataract (4.0%), vitreous floaters (3.5%), visual acuity reduced (3.2%), conjunctival haemorrhage (3.1%), vitreous detachment (2.9%), retinal haemorrhage (2.6%), and intraocular pressure increased (2.4%).
+The most frequently observed adverse reactions in patients treated with Eylea 114.3 mg/ml were cataract (8.2%), visual acuity reduced (4.4%), vitreous floaters (4.0%), conjunctival haemorrhage (3.8%), vitreous detachment (3.7%), retinal haemorrhage (3.6%), intraocular pressure increased (2.8%), and eye pain (2.0%).
 
 The safety profile observed in the 3 clinical studies was similar in patients treated with
 Eylea 114.3 mg/ml (N=1 217) and Eylea 40 mg/ml (N=556), and in patients with nAMD and DME.
@@ -75,19 +77,23 @@ A total of 1 217 patients treated with Eylea 114.3 mg/ml constituted the safety 
 The safety data described below include all adverse reactions with a reasonable possibility of causality to the injection procedure or medicinal product reported.
 
 The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare
-(≥1/10 000 to <1/1 000).
+(≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 1: All treatment-emergent adverse reactions reported in patients with nAMD or DME treated with Eylea 114.3 mg/ml in phase II/III studies or during post-marketing surveillance
 
-Table 1: All treatment-emergent adverse reactions reported in patients with nAMD or DME treated with Eylea 114.3 mg/ml in phase II/III studies
-
-| System organ class | Common | Uncommon | Rare |
-| --- | --- | --- | --- |
-| Immune system disorders |  | Hypersensitivity* |  |
-| Eye disorders | Cataract, Intraocular pressure increased, Vitreous floaters, Vitreous detachment, Vitreous haemorrhage, Retinal haemorrhage, Visual acuity reduced, Eye pain, Conjunctival haemorrhage, Punctate keratitis | Retinal detachment, Retinal tear, Retinal pigment epithelial tear, Detachment of the retinal pigment epithelium, Iritis, Iridocyclitis, Vitritis, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Vision blurred, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Injection site haemorrhage, Conjunctival hyperaemia | Blindness, Uveitis, Eyelid oedema, Injection site irritation, Corneal oedema |
+| System organ class | Frequency | Adverse reaction |
+| --- | --- | --- |
+| Immune system disorders | Common | Hypersensitivity* |
+| Eye disorders | Common | Cataract, Intraocular pressure increased, Vitreous floaters, Vitreous detachment, Vitreous haemorrhage, Retinal haemorrhage, Visual acuity reduced, Eye pain, Conjunctival haemorrhage, Punctate keratitis, Corneal abrasion |
+|  | Uncommon | Retinal detachment, Retinal tear, Retinal pigment epithelial tear, Detachment of the retinal pigment epithelium, Uveitis, Iritis, Iridocyclitis, Vitritis, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Vision blurred, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Injection site haemorrhage, Conjunctival hyperaemia, Eyelid oedema, Ocular hyperaemia, Injection site irritation |
+|  | Rare | Corneal oedema, Lenticular opacities, Retinal degeneration, Eyelid irritation |
+|  | Not known | Scleritis** |
 
 * Reports of hypersensitivity included rash, pruritus, urticaria.
+** From post-marketing reporting.
+
 The following adverse reactions of Eylea 40 mg/ml are also considered expected with
-Eylea 114.3 mg/ml but have not been reported in the clinical studies with Eylea 114.3 mg/ml: ocular hyperaemia, retinal degeneration, abnormal sensation in eye, lenticular opacities, corneal epithelium defect, anterior chamber flare, eyelid irritation, endophthalmitis, traumatic cataract, hypopyon, severe anaphylactic/anaphylactoid reactions.
+Eylea 114.3 mg/ml but have not been reported in the clinical studies with Eylea 114.3 mg/ml: abnormal sensation in eye, corneal epithelium defect, anterior chamber flare, endophthalmitis, blindness, traumatic cataract, hypopyon, severe anaphylactic/anaphylactoid reactions.
 
 Product-class-related adverse reactions
 Arterial thromboembolic events (ATEs) are adverse reactions potentially related to systemic VEGF inhibition.
