@@ -19,7 +19,6 @@ Special clinical conditions
 Due to lack of relevant experience, treatment with roflumilast should not be initiated or existing treatment with roflumilast should be stopped in patients with severe immunological diseases (e.g. HIV infection, multiple sclerosis, lupus erythematosus, progressive multifocal leukoencephalopathy), severe acute infectious diseases, cancers (except basal cell carcinoma), or patients being treated with immunosuppressive medicinal products (i.e. methotrexate, azathioprine, infliximab, etanercept, or oral corticosteroids to be taken long-term; except short-term systemic corticosteroids).
 Experience in patients with latent infections such as tuberculosis, viral hepatitis, herpes viral infection and herpes zoster is limited.
 Patients with congestive heart failure (NYHA grades 3 and 4) have not been studied and therefore treatment of these patients is not recommended.
-
 Psychiatric disorders
 
 Roflumilast is associated with an increased risk of psychiatric disorders such as insomnia, anxiety, nervousness and depression.
