@@ -31,8 +31,8 @@ Administer the infusion solution over 30 minutes (see section 4.2).
 Once reconstituted, the infusion solution should be used as soon as possible.
 
 Do not store any unused portion of the reconstituted solution or infusion solution for reuse.
-Each vial is for single use only.
 
+Each vial is for single use only.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Entyvio 108 mg solution for injection in pre-filled syringe]

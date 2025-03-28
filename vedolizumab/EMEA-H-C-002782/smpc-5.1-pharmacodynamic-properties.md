@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: immunosuppressants, selective immunosuppressants, ATC code: L04AA33.
+Pharmacotherapeutic group: immunosuppressants, monoclonal antibodies, ATC code: L04AG05.
 
 Mechanism of action
 
@@ -30,7 +30,7 @@ Infusion related reactions after vedolizumab infusion are reported in subjects w
 
 Pharmacodynamic effects
 
-In clinical trials with intravenous vedolizumab at doses ranging from 2 to 10 mg/kg, > 95% saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
+In clinical trials with intravenous vedolizumab at doses ranging from 0.2 to 10 mg/kg, > 95% saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
 
 Vedolizumab did not affect CD4+ and CD8+ trafficking into the CNS as evidenced by the lack of change in the ratio of CD4+/CD8+ in cerebrospinal fluid pre- and post-vedolizumab administration in healthy human volunteers.
 These data are consistent with investigations in nonhuman primates which did not detect effects on immune surveillance of the CNS.
@@ -48,7 +48,6 @@ Primary endpoint was the proportion of patients with clinical response (defined 
 ≥ 3 points and ≥ 30% from baseline with an accompanying decrease in rectal bleeding subscore of
 ≥ 1 point or absolute rectal bleeding subscore of ≤ 1 point) at week 6.
 Table 2 shows the results from the primary and secondary endpoints evaluated.
-
 Table 2.
 Week 6 efficacy results of GEMINI 1
 
@@ -63,6 +62,7 @@ Mucosal healing¶ 25% 41%‡
 ‡p < 0.05
 §Clinical remission: Complete Mayo score of ≤ 2 points and no individual subscore > 1 point
 ¶Mucosal healing: Mayo endoscopic subscore of ≤ 1 point
+
 The beneficial effect of vedolizumab on clinical response, remission and mucosal healing was observed both in patients with no prior TNFα antagonist exposure as well as in those who had failed prior TNFα antagonist therapy.
 
 In GEMINI 1, 2 cohorts of patients received vedolizumab at week 0 and week 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg.
@@ -97,7 +97,6 @@ Exploratory analyses provide additional data on key subpopulations studied.
 Approximately one-third of patients had failed prior TNFα antagonist therapy.
 Among these patients, 37% receiving vedolizumab every 8 weeks, 35% receiving vedolizumab every 4 weeks, and 5% receiving placebo achieved clinical remission at week 52.
 Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%, 48%, 8%), durable clinical remission (21%, 13%, 3%) and corticosteroid-free clinical remission (23%, 32%, 4%) were seen in the prior TNFα antagonist failure population treated with vedolizumab every 8 weeks, vedolizumab every 4 weeks and placebo, respectively.
-
 Patients who failed to demonstrate response at week 6 remained in the study and received vedolizumab every 4 weeks.
 Clinical response using partial Mayo scores was achieved at week 10 and week 14 by greater proportions of vedolizumab patients (32% and 39%, respectively) compared with placebo patients (15% and 21%, respectively).
 
@@ -106,6 +105,7 @@ In these patients, clinical remission was achieved in 25% of patients at week 28
 
 Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks.
 In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
+
 In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
 
 Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures.
@@ -131,6 +131,7 @@ The GEMINI 3 Study was a second randomised, double-blind, placebo-controlled stu
 Patients (n = 416), which included approximately 75% TNFα antagonist failures patients, were randomised in a double-blind fashion (1:1) to receive either vedolizumab 300 mg or placebo at weeks 0, 2, and 6.
 The primary endpoint was the proportion of patients in clinical remission at week 6 in the TNFα antagonist failure subpopulation.
 As noted in Table 4, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
+
 Table 4.
 Efficacy results for GEMINI 2 and 3 studies at week 6 and week 10
 Study
@@ -428,7 +429,7 @@ Week 52 efficacy results in patients who failed TNFα antagonist therapy in VISI
 Endpoint n = 59 n = 151 Placebo
 Clinical remission 28.8% 46.4% 17.6 (3.8, 31.4)
 Enhanced clinical response 45.8% 49.0% 3.2 (-11.8, 18.2)
-remission** Corticosteroid-free 15.0% 46.2% 31.2 (5.2, 54.5)
+Corticosteroid-free remission** 15.0% 46.2% 31.2 (5.2, 54.5)
 
 ** Patients who had failed prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 20 for placebo and n = 52 for subcutaneous vedolizumab
 

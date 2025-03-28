@@ -7,6 +7,8 @@ Pregnancy
 
 There are limited amount of data from the use of vedolizumab in pregnant women.
 
+In a small prospective observational study the rate of major birth defects was 7.4% in 99 women with ulcerative colitis or Crohn’s disease treated with vedolizumab and 5.6% in 76 women with ulcerative colitis or Crohn’s disease treated with other biologic agents (adjusted relative risk (RR) 1.07, 95% Confidence Interval (CI): 0.33, 3.52).
+
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
 As a precautionary measure, it is preferable to avoid the use of vedolizumab during pregnancy unless the benefits clearly outweigh any potential risk to both the mother and foetus.
