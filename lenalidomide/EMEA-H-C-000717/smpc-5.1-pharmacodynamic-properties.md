@@ -449,7 +449,8 @@ Table 14: Summary of follicular lymphoma efficacy data- Study CC-5013-NHL-007
 | p-value | < 0.0001c |  |
 | Objective responsed (CR +PR), n (%) (IRC, 2007 IWGRC) 95% CIf | 118 (80.3) (72.9, 86.4) | 82 (55.4) (47.0, 63.6) |
 | Complete responsed, n (%) (IRC, 2007 IWGRC) 95% CIf | 51 (34.7) (27.0, 43.0) | 29 (19.6) (13.5, 26.9) |
-| Duration of responsed (median) (months) 95% CIa | 36.6 (24.9, NE) | 15.5 (11.2, 25.0) |
+| Duration of responsed (median) (months) 95% CIa | 36.6 | 15.5 |
+|  | (24.9, NE) | (11.2, 25.0) |
 | Overall Survivald, e (OS) |  |  |
 | OS rate at 5 years, n (%) 95% CI | 126 (85.9) (78.6, 90.9) | 114 (77.0) (68.9, 83.3) |
 | HR [95% CI] | 0.49 (0.28, 0.85)b |  |

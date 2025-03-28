@@ -3,6 +3,7 @@
 Lenalidomide has an asymmetric carbon atom and can therefore exist as the optically active forms S(-) and R(+).
 Lenalidomide is produced as a racemic mixture.
 Lenalidomide is generally more soluble in organic solvents but exhibits the greatest solubility in 0.1N HCl buffer.
+
 Absorption
 Lenalidomide is rapidly absorbed following oral administration in healthy volunteers, under fasting conditions, with maximum plasma concentrations occurring between 0.5 and 2 hours post-dose.
 In patients, as well as in healthy volunteers, the maximum concentration (Cmax) and area-under-the-concentration time curve (AUC) increase proportionally with increases in dose.
@@ -35,7 +36,6 @@ The contribution of renal excretion to total clearance in subjects with normal r
 Lenalidomide is poorly metabolized as 82% of the dose is excreted unchanged in urine.
 Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
 The renal clearance of lenalidomide exceeds the glomerular filtration rate and therefore is at least actively secreted to some extent.
-
 At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in healthy volunteers and ranges from 3 to 5 hours in patients with multiple myeloma, myelodysplastic syndromes or mantle cell lymphoma.
 
 Older people

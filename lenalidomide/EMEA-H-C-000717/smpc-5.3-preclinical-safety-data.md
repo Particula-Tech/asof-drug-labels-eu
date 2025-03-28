@@ -15,6 +15,7 @@ Mild suppression of white blood cell count was observed at 1 mg/kg/day correspon
 
 In vitro (bacterial mutation, human lymphocytes, mouse lymphoma, Syrian Hamster Embryo cell transformation) and in vivo (rat micronucleus) mutagenicity studies revealed no drug related effects at either the gene or chromosomal level.
 Carcinogenicity studies with lenalidomide have not been conducted.
+
 Developmental toxicity studies were previously conducted in rabbits.
 In these studies, rabbits were administered 3, 10 and 20 mg/kg/day orally.
 An absence of the intermediate lobe of the lung was observed at 10 and 20 mg/kg/day with dose dependence and displaced kidneys were observed at 20 mg/kg/day.
