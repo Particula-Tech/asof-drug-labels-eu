@@ -9,27 +9,28 @@ For all indications described below:
 - If less than 12 hours has elapsed since missing a dose, the patient can take the dose.
   If more than 12 hours has elapsed since missing a dose at the normal time, the patient should not take the dose, but take the next dose at the normal time on the following day.
 
-UPosology
-UNewly diagnosed multiple myeloma (NDMM)
+Posology
+Newly diagnosed multiple myeloma (NDMM)
 
-- ULenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
+- Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
 
-Lenalidomide treatment must not be started if the Absolute Neutrophil Count (ANC) is < 1.0 x 10P9P/L, and/or platelet counts are < 50 x 10P9P/L.
+Lenalidomide treatment must not be started if the Absolute Neutrophil Count (ANC) is < 1.0 x 109/L, and/or platelet counts are < 50 x 109/L.
 
 Recommended dose
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
+
 The recommended dose of dexamethasone is 40 mg orally once daily on days 1, 8, 15 and 22 of repeated 28-day cycles.
 Patients may continue lenalidomide and dexamethasone therapy until disease progression or intolerance.
 
 - Dose reduction steps
 
-|  | LenalidomidePa | DexamethasonePa |
+|  | Lenalidomidea | Dexamethasonea |
 | --- | --- | --- |
 | Starting dose | 25 mg | 40 mg |
 | Dose level -1 | 20 mg | 20 mg |
 | Dose level -2 | 15 mg | 12 mg |
 | Dose level -3 | 10 mg | 8 mg |
-| Dose level- 4 | 5 mg | 4 mg |
+| Dose level -4 | 5 mg | 4 mg |
 | Dose level -5 | 2.5 mg | Not applicable |
 
 ª Dose reduction for both products can be managed independently
@@ -37,39 +38,39 @@ Patients may continue lenalidomide and dexamethasone therapy until disease progr
 - Thrombocytopenia
 
 When platelets Recommended course
-Falls to < 25 x 10P9P/L Stop lenalidomide dosing for remainder of cycleª
-Returns to ≥ 50 x 10P9P/L Decrease by one dose level when dosing
+Falls to < 25 x 109/L Stop lenalidomide dosing for remainder of cycleª
+Returns to ≥ 50 x 109/L Decrease by one dose level when dosing resumed
 
-resumed at next cycle ª If Dose limiting toxicity (DLT) occurs on > day15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
+at next cycle ª If Dose limiting toxicity (DLT) occurs on > day 15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
 When ANC Recommended courseª
-First falls to < 0.5 x 10P9P/L Interrupt lenalidomide treatment
+First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
-Returns to ≥ 1 x 10P9P/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
+Returns to ≥ 1 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
 
-Returns to ≥ 0.5 x 10P9P/L when dose-dependent Resume lenalidomide at dose level -1 once daily
+Returns to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at dose level -1 once daily
 
 haematological toxicities other than neutropenia are observed
 
-For each subsequent drop below < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at next lower dose level
+When ANC Recommended courseª
+For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
-once daily.S
-PaP At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
+once daily.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
-For hematologic toxicity the dose of lenalidomide may be re-introduced to the next higher dose level (up to the starting dose) upon improvement in bone marrow function (no hematologic toxicity for at least 2 consecutive cycles: ANC ≥1,5 x 10P9P/L with a platelet count ≥ 100 x 10P9P/L at the beginning of a new cycle).
+For hematologic toxicity the dose of lenalidomide may be re-introduced to the next higher dose level (up to the starting dose) upon improvement in bone marrow function (no hematologic toxicity for at least 2 consecutive cycles: ANC ≥ 1,5 x 109/L with a platelet count ≥ 100 x 109/L at the beginning of a new cycle).
 
-- ULenalidomide in combination with bortezomib and dexamethasone followed by lenalidomide and dexamethasone until disease progression in patients who are not eligible for transplant
+- Lenalidomide in combination with bortezomib and dexamethasone followed by lenalidomide and dexamethasone until disease progression in patients who are not eligible for transplant
 
 Initial treatment: Lenalidomide in combination with bortezomib and dexamethasone
-
 Lenalidomide in combination with bortezomib and dexamethasone must not be started if the ANC is
-< 1.0 x 10P9P/L, and/or platelet counts are < 50 x 10P9P/L.
+< 1.0 x 109/L, and/or platelet counts are < 50 x 109/L.
 
 The recommended starting dose is lenalidomide 25 mg orally once daily days 1-14 of each 21-day cycle in combination with bortezomib and dexamethasone.
-Bortezomib should be administered via subcutaneous injection (1.3 mg/mP2P body surface area) twice weekly on days 1, 4, 8 and 11 of each 21-day.
+Bortezomib should be administered via subcutaneous injection (1.3 mg/m2 body surface area) twice weekly on days 1, 4, 8 and 11 of each 21-day.
 For additional information on the dose, schedule and dose adjustments of medicinal products administered with lenalidomide, see Section 5.1 and the corresponding Summary of Product Characteristics.
 
 Up to eight 21-day treatment cycles (24 weeks of initial treatment) are recommended.
@@ -80,13 +81,13 @@ Treatment should be continued until disease progression or unacceptable toxicity
 
 - Dose reduction steps
 
-|  | LenalidomidePa |
+|  | Lenalidomidea |
 | --- | --- |
 | Starting dose | 25 mg |
 | Dose level -1 | 20 mg |
 | Dose level -2 | 15 mg |
 | Dose level -3 | 10 mg |
-| Dose level- 4 | 5 mg |
+| Dose level -4 | 5 mg |
 | Dose level -5 | 2.5 mg |
 
 ª Dose reduction for all products can be managed independently
@@ -94,34 +95,36 @@ Treatment should be continued until disease progression or unacceptable toxicity
 - Thrombocytopenia
 
 When platelets Recommended course
-Falls to < 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 50 x 10P9P/L Resume lenalidomide at dose level -1 once daily
-For each subsequent drop below 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 50 x 10P9P/L Resume lenalidomide at next lower dose level
+Falls to < 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 50 x 109/L Resume lenalidomide at dose level -1 once daily
+For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 50 x 109/L Resume lenalidomide at next lower dose level
 
 once daily
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended coursePa
-First falls to < 0.5 x 10P9P/L Interrupt lenalidomide treatment
+When ANC Recommended coursea
+First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
-Returns to ≥ 1 x 10P9P/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
+Returns to ≥ 1 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
 
-Returns to ≥ 0.5 x 10P9P/L when dose-dependent Resume lenalidomide at dose level -1 once daily
+When ANC Recommended coursea
+Returns to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at dose level -1 once daily
 
 haematological toxicities other than neutropenia are observed
 
-For each subsequent drop below < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at next lower dose level
+For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
-once daily.S
-PaP At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
+once daily.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
-- ULenalidomide in combination with melphalan and prednisone followed by lenalidomide maintenance in patients who are not eligible for transplant
+- Lenalidomide in combination with melphalan and prednisone followed by lenalidomide maintenance in patients who are not eligible for transplant
 
-Lenalidomide treatment must not be started if the ANC is < 1.5 x 10P9P/L, and/or platelet counts are
-< 75 x 10P9P/L.
+Lenalidomide treatment must not be started if the ANC is < 1.5 x 109/L, and/or platelet counts are
+< 75 x 109/L.
+
 Recommended dose
 The recommended starting dose is lenalidomide 10 mg orally once daily on days 1 to 21 of repeated 28-day cycles for up to 9 cycles, melphalan 0.18 mg/kg orally on days 1 to 4 of repeated 28-day cycles, prednisone 2 mg/kg orally on days 1 to 4 of repeated 28-day cycles.
 Patients who complete 9 cycles or who are unable to complete the combination therapy due to intolerance are treated with lenalidomide monotherapy as follows: 10 mg orally once daily on days 1 to 21 of repeated 28-day cycles given until disease progression.
@@ -140,37 +143,37 @@ Patients who complete 9 cycles or who are unable to complete the combination the
 - Thrombocytopenia
 
 When platelets Recommended course
-First falls to < 25 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 25 x 10P9P/L Resume lenalidomide and melphalan at dose
+First falls to < 25 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 25 x 109/L Resume lenalidomide and melphalan at dose
 
 level -1
 
-For each subsequent drop below 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 30 x 10P9P/L Resume lenalidomide at next lower dose level
+For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -2 or -3) once daily.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
 When ANC Recommended courseª
-First falls to < 0.5 x 10P9P/L Interrupt lenalidomide treatment
+First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
-Returns to ≥ 0.5 x 10P9P/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
+Returns to ≥ 0.5 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
 
-Returns to ≥ 0.5 x 10P9P/L when dose-dependent Resume lenalidomide at dose level -1 once daily
+Returns to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at dose level -1 once daily
 
 haematological toxicities other than neutropenia are observed
 
-For each subsequent drop below < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at next lower dose level
+For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
 once daily.
-PaP At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
-- ULenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
+- Lenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
 
 Lenalidomide maintenance should be initiated after adequate haematologic recovery following ASCT in patients without evidence of progression.
-Lenalidomide must not be started if the ANC is < 1.0 x 10P9P/L, and/or platelet counts are < 75 x 10P9P/L.
+Lenalidomide must not be started if the ANC is < 1.0 x 109/L, and/or platelet counts are < 75 x 109/L.
 
 Recommended dose
 The recommended starting dose is lenalidomide 10 mg orally once daily continuously (on days 1 to 28 of repeated 28-day cycles) given until disease progression or intolerance.
@@ -178,42 +181,41 @@ After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg o
 
 - Dose reduction steps
 
-|  | Starting dose (10 mg) | If dose increased (15 mg)Pa |
+|  | Starting dose (10 mg) | If dose increased (15 mg)a |
 | --- | --- | --- |
 | Dose level -1 | 5 mg | 10 mg |
 | Dose level -2 | 5 mg (days 1-21 every 28 days) | 5 mg |
 | Dose level -3 | Not applicable | 5 mg (days 1-21 every 28 days) |
 |  | Do not dose below 5 mg (days 1-21 every 28 days) |  |
 
-Pa PAfter 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
+a After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
 
 - Thrombocytopenia
 
 When platelets Recommended course
-Falls to < 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 30 x 10P9P/L Resume lenalidomide at dose level -1 once daily
-For each subsequent drop below 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 30 x 10P9P/L Resume lenalidomide at next lower dose level
+Falls to < 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 30 x 109/L Resume lenalidomide at dose level -1 once daily
+For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
 
 once daily
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended coursePa
-Falls to < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at dose level -1 once daily
-For each subsequent drop below < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at next lower dose level
+| When ANC | Recommended coursea |
+| --- | --- |
+| Falls to < 0.5 x 109/L Returns to ≥ 0.5 x 109/L | Interrupt lenalidomide treatment Resume lenalidomide at dose level -1 once daily |
+| For each subsequent drop below < 0.5 x 109/L Returns to ≥ 0.5 x 109/L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
 
-once daily
-PaP At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
-UMultiple myeloma with at least one prior therapy
-Lenalidomide treatment must not be started if the ANC < 1.0 x 10P9P/L, and/or platelet counts < 75 x 10P9P/L or, dependent on bone marrow infiltration by plasma cells, platelet counts < 30 x 10P9P/L.
+Multiple myeloma with at least one prior therapy
+Lenalidomide treatment must not be started if the ANC < 1.0 x 109/L, and/or platelet counts < 75 x 109/L or, dependent on bone marrow infiltration by plasma cells, platelet counts < 30 x 109/L.
 
 Recommended dose
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
 The recommended dose of dexamethasone is 40 mg orally once daily on days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy and then 40 mg once daily on days 1 to 4 every 28 days.
+
 Prescribing physicians should carefully evaluate which dose of dexamethasone to use, taking into account the condition and disease status of the patient.
 
 - Dose reduction steps
@@ -227,34 +229,34 @@ Prescribing physicians should carefully evaluate which dose of dexamethasone to 
 - Thrombocytopenia
 
 When platelets Recommended course
-First falls to < 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 30 x 10P9P/L Resume lenalidomide at dose level -1
-For each subsequent drop below 30 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 30 x 10P9P/L Resume lenalidomide at next lower dose level
+First falls to < 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 30 x 109/L Resume lenalidomide at dose level -1
+For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -2 or -3) once daily.
 Do not dose below 5 mg once daily.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended coursePa
-First falls to < 0.5 x 10P9P/L Interrupt lenalidomide treatment
+When ANC Recommended coursea
+First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
-Returns to ≥ 0.5 x 10P9P/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
+Returns to ≥ 0.5 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
 
-Returns to ≥ 0.5 x 10P9P/L when dose-dependent Resume lenalidomide at dose level -1 once daily
+Returns to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at dose level -1 once daily
 
 haematological toxicities other than neutropenia are observed
 
-For each subsequent drop below < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at next lower dose level
+For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -1, -2 or -3) once daily.
 Do not dose below 5 mg once daily.
-PaP At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
-UMyelodysplastic syndromes (MDS)
-Lenalidomide treatment must not be started if the ANC < 0.5 x 10P9P/L and/or platelet counts < 25 x 10P9P/L.
+Myelodysplastic syndromes (MDS)
+Lenalidomide treatment must not be started if the ANC < 0.5 x 109/L and/or platelet counts < 25 x 109/L.
 
 Recommended dose
 The recommended starting dose of lenalidomide is 10 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
@@ -270,26 +272,23 @@ The recommended starting dose of lenalidomide is 10 mg orally once daily on days
 - Thrombocytopenia
 
 When platelets Recommended course
-Falls to < 25 x 10P9P/L Interrupt lenalidomide treatment
+Falls to < 25 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 25 x 109/L - < 50 x 109/L on at least Resume lenalidomide at next lower dose level
 
-Returns to ≥ 25 x 10P9P/L - < 50 x 10P9P/L on at least 2 Resume lenalidomide at next lower dose level
-
-occasions for ≥ 7 days or when the platelet count (dose level -1, -2 or -3)
-
-recovers to ≥ 50 x 10P9P/L at any time
+2 occasions for ≥ 7 days or when the platelet count (dose level -1, -2 or -3) recovers to ≥ 50 x 109/L at any time
 
 - Absolute neutrophil count (ANC) - neutropenia
 
 When ANC Recommended course
-Falls to < 0.5 x 10P9P/L Interrupt lenalidomide treatment
-Returns to ≥ 0.5 x 10P9P/L Resume lenalidomide at next lower dose level
+Falls to < 0.5 x 109/L Interrupt lenalidomide treatment
+Returns to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -1, -2 or -3)
 
 Discontinuation of lenalidomide
-Patients without at least a minor erythroid response within 4 months of therapy initiation, demonstrated by at least a 50% reduction in transfusion requirements or, if not transfused, a 1g/dl rise in haemoglobin, should discontinue lenalidomide treatment.
+Patients without at least a minor erythroid response within 4 months of therapy initiation, demonstrated by at least a 50% reduction in transfusion requirements or, if not transfused, a 1 g/dl rise in haemoglobin, should discontinue lenalidomide treatment.
 
-UMantle cell lymphoma (MCL)
+Mantle cell lymphoma (MCL)
 Recommended dose
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
 
@@ -301,26 +300,26 @@ The recommended starting dose of lenalidomide is 25 mg orally once daily on days
 | Dose Level -2 | 15 mg once daily on days 1 to 21, every 28 days |
 | Dose Level -3 | 10 mg once daily on days 1 to 21, every 28 days |
 | Dose Level -4 | 5 mg once daily on days 1 to 21, every 28 days |
-| Dose Level -5 | 2.5 mg once daily on days 1 to 21, every 28 daysP1 5 mg every other day on days 1 to 21, every 28 days |
+| Dose Level -5 | 2.5 mg once daily on days 1 to 21, every 28 days1 5 mg every other day on days 1 to 21, every 28 days |
 
-P1 P- In countries where the 2.5 mg capsule is available.
+1 - In countries where the 2.5 mg capsule is available.
 
 - Thrombocytopenia
 
 When platelets Recommended course
-Falls to < 50 x 10P9P/L Interrupt lenalidomide treatment and conduct
+Falls to < 50 x 109/L Interrupt lenalidomide treatment and conduct
 
 Complete Blood Count (CBC) at least every 7 days
 
-Returns to ≥ 60 x 10P9P/L Resume lenalidomide at next lower level (dose
+Returns to ≥ 60 x 109/L Resume lenalidomide at next lower level (dose
 
 level -1)
 
-For each subsequent drop below 50 x 10P9P/L Interrupt lenalidomide treatment and conduct the
+For each subsequent drop below 50 x 109/L Interrupt lenalidomide treatment and conduct the
 
 CBC at least every 7 days
 
-Returns to ≥60 x 10P9P/L Resume lenalidomide at next lower level (dose
+Returns to ≥ 60 x 109/L Resume lenalidomide at next lower level (dose
 
 level -2, -3, -4 or -5).
 Do not dose below dose level -5
@@ -328,34 +327,33 @@ Do not dose below dose level -5
 - Absolute neutrophil count (ANC) - neutropenia
 
 When ANC Recommended course
-Falls to < 1 x 10P9P/L for at least 7 days or Interrupt lenalidomide treatment and conduct the
-Falls to < 1 x 10P9P/L with associated fever (body CBC at least every 7 days
+Falls to < 1 x 109/L for at least 7 days or Interrupt lenalidomide treatment and conduct the
+Falls to < 1 x 109/L with associated fever (body CBC at least every 7 days
 
 temperature ≥ 38.5°C) or
-Falls to < 0.5 x 10P9P/L
+Falls to < 0.5 x 109/L
 
-Returns to ≥ 1 x 10P9P/L Resume lenalidomide at next lower dose level
+Returns to ≥ 1 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -1)
-For each subsequent drop below 1 x 10P9P/L for at least Interrupt lenalidomide treatment
-7 days or drop to < 1 x 10P9P/L with associated fever
-(body temperature ≥ 38.5°C) or drop to < 0.5 x 10P9P/L
+For each subsequent drop below 1 x 109/L for at least Interrupt lenalidomide treatment
+7 days or drop to < 1 x 109/L with associated fever
+(body temperature ≥ 38.5°C) or drop to < 0.5 x 109/L
 
-Returns to ≥1 x 10P9P/L Resume Lenalidomide at next lower dose level
+Returns to ≥ 1 x 109/L Resume Lenalidomide at next lower dose level
 
 (dose level -2, -3, -4, -5).
 Do not dose below dose level -5
-
-UFollicular lymphoma (FL)
-Lenalidomide treatment must not be started if the ANC is < 1 x 10P9P/L, and/or platelet count < 50 x 10P9P/L, unless secondary to lymphoma infiltration of bone marrow.
+Follicular lymphoma (FL)
+Lenalidomide treatment must not be started if the ANC is < 1 x 109/L, and/or platelet count < 50 x 109/L, unless secondary to lymphoma infiltration of bone marrow.
 
 Recommended dose
 The recommended starting dose of lenalidomide is 20 mg, orally once daily on days 1 to 21 of repeated 28-day cycles for up to 12 cycles of treatment.
-The recommended starting dose of rituximab is 375 mg/mP2P intravenously (IV) every week in Cycle 1 (days 1, 8, 15, and 22) and day 1 of every 28-day cycle for cycles 2 through 5.
+The recommended starting dose of rituximab is 375 mg/m2 intravenously (IV) every week in Cycle 1 (days 1, 8, 15, and 22) and day 1 of every 28-day cycle for cycles 2 through 5.
 
 - Dose reduction steps
 
-| Starting doseP | 20 mg once daily on days 1-21, every 28 days |
+| Starting dose | 20 mg once daily on days 1-21, every 28 days |
 | --- | --- |
 | Dose Level -1 | 15 mg once daily on days 1-21, every 28 days |
 | Dose Level -2 | 10 mg once daily on days 1-21, every 28 days |
@@ -366,48 +364,50 @@ For dose adjustments due to toxicity with rituximab, refer to the corresponding 
 - Thrombocytopenia
 
 When platelets Recommended course
-Falls to < 50 x 10P9P/L Interrupt lenalidomide treatment and conduct
+Falls to < 50 x 109/L Interrupt lenalidomide treatment and conduct
 
 CBC at least every 7 days
 
-Returns to ≥ 50 x 10P9P/L Resume at next lower dose level (dose level -1)
-For each subsequent drop below 50 x 10P9P/L Interrupt lenalidomide treatment and conduct
+Returns to ≥ 50 x 109/L Resume at next lower dose level (dose level -1)
+For each subsequent drop below 50 x 109/L Interrupt lenalidomide treatment and conduct
 
 CBC at least every 7 days
 
-Returns to ≥ 50 x 10P9P/L Resume lenalidomide at next lower dose level
+Returns to ≥ 50 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -2, -3).
 Do not dose below dose level -3.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended course ª
-Falls < 1.0 x 10P9P/L for at least 7 days or Interrupt lenalidomide treatment and conduct
-Falls to < 1.0 x 10P9P/L with associated fever (body CBC at least every 7 days
+When ANC Recommended courseª
+Falls < 1.0 x 109/L for at least 7 days or Interrupt lenalidomide treatment and conduct
+Falls to < 1.0 x 109/L with associated fever (body CBC at least every 7 days
 
 temperature ≥ 38.5°C) or
-Falls to < 0.5 x 10P9P/L
+Falls to < 0.5 x 109/L
 
-Returns to ≥ 1.0 x 10P9P/L Resume lenalidomide at next lower dose level
+Returns to ≥ 1.0 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -1)
-For each subsequent drop below 1.0 x 10P9P/L for at least Interrupt lenalidomide treatment and conduct 7 days or drop to < 1.0 x 10P9P/L with associated fever CBC at least every 7 days
-(body temperature ≥ 38.5°C) or drop to < 0.5 x 10P9P/L
+For each subsequent drop below 1.0 x 109/L for at least Interrupt lenalidomide treatment and conduct 7 days or drop to < 1.0 x 109/L with associated fever CBC at least every 7 days
+(body temperature ≥ 38.5°C) or drop to < 0.5 x 109/L
 
-Returns to ≥1.0 x 10P9P/L Resume lenalidomide at next lower dose level
+Returns to ≥ 1.0 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -2, -3).
-Do not dose below dose level-3 ª At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add G-CSF
+Do not dose below dose level -3 ª At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add G-CSF
 
-UMantle cell lymphoma (MCL) or follicular lymphoma (FL)
+Mantle cell lymphoma (MCL) or follicular lymphoma (FL)
 Tumour lysis syndrome (TLS)
 All patients should receive TLS prophylaxis (allopurinol, rasburicase or equivalent as per institutional guidelines) and be well hydrated (orally) during the first week of the first cycle or for a longer period if clinically indicated.
 To monitor for TLS, patients should have a chemistry panel drawn weekly during the first cycle and as clinically indicated.
+
 Lenalidomide may be continued (maintain dose) in patients with laboratory TLS or Grade 1 clinical TLS, or at the physician’s discretion, reduce dose by one level and continue lenalidomide.
 Vigorous intravenous hydration should be provided and appropriate medical management according to the local standard of care, until correction of electrolyte abnormalities.
 Rasburicase therapy may be needed to reduce hyperuricaemia.
 Hospitalisation of the patient will be at physician’s discretion.
+
 In patients with Grade 2 to 4 clinical TLS, interrupt lenalidomide and obtain a chemistry panel weekly or as clinically indicated.
 Vigorous intravenous hydration should be provided and appropriate medical management according to the local standard of care, until correction of electrolyte abnormalities.
 Rasburicase therapy and hospitalisation will be at physician’s discretion.
@@ -420,19 +420,19 @@ In patients with Grade 3 or 4 TFR, withhold treatment with lenalidomide and init
 When TFR resolves to ≤ Grade 1, restart lenalidomide treatment at the same dose level for the rest of the cycle.
 Patients may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR (see section 4.4).
 
-UAll indications
+All indications
 For other Grade 3 or 4 toxicities judged to be related to lenalidomide, treatment should be stopped and only restarted at next lower dose level when toxicity has resolved to ≤ Grade 2 depending on the physician’s discretion.
 
 Lenalidomide interruption or discontinuation should be considered for Grade 2 or 3 skin rash.
 Lenalidomide must be discontinued for angioedema, anaphylactic reaction, Grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected and should not be resumed following discontinuation from these reactions.
 
-USpecial populations
+Special populations
 
-- UPaediatric population
+- Paediatric population
 
 Revlimid should not be used in children and adolescents from birth to less than 18 years because of safety concerns (see section 5.1).
 
-- UElderly
+- Elderly
 
 Currently available pharmacokinetic data are described in section 5.2.
 Lenalidomide has been used in clinical trials in multiple myeloma patients up to 91 years of age, in myelodysplastic syndromes patients up to 95 years of age and in mantle cell lymphoma patients up to 88 years of age (see section 5.1).
@@ -447,7 +447,6 @@ For patients older than 75 years of age treated with lenalidomide in combination
 No dose adjustment is proposed for patients older than 75 years who are treated with lenalidomide in combination with melphalan and prednisone.
 
 In patients with newly diagnosed multiple myeloma aged 75 years and older who received lenalidomide, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation.
-
 Lenalidomide combined therapy was less tolerated in newly diagnosed multiple myeloma patients older than 75 years of age compared to the younger population.
 These patients discontinued at a higher rate due to intolerance (Grade 3 or 4 adverse events and serious adverse events), when compared to patients < 75 years.
 
@@ -465,25 +464,27 @@ Follicular lymphoma
 For follicular lymphoma patients treated with lenalidomide in combination with rituximab, the overall rate of adverse events is similar for patients aged 65 years or over compared with patients under 65 years of age.
 No overall difference in efficacy was observed between the two age groups.
 
-- UPatients with renal impairment
+- Patients with renal impairment
 
 Lenalidomide is primarily excreted by the kidney; patients with greater degrees of renal impairment can have impaired treatment tolerance (see section 4.4).
 Care should be taken in dose selection and monitoring of renal function is advised.
 
 No dose adjustments are required for patients with mild renal impairment and multiple myeloma, myelodysplastic syndromes, mantle cell lymphoma, or follicular lymphoma.
+
 The following dose adjustments are recommended at the start of therapy and throughout treatment for patients with moderate or severe impaired renal function or end stage renal disease.
+
 There are no phase 3 trial experiences with End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis).
+
 Multiple myeloma
 
 | Renal function (CLcr) | Dose adjustment |
 | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once dailyP1 |
-| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once dailyP2 15 mg every other day |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily1 |
+| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
-P1 PThe dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
-P2P In countries where the 7.5 mg capsule is available.
-
+1 The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
+2 In countries where the 7.5 mg capsule is available.
 Myelodysplastic syndromes
 
 | Renal function (CLcr) | Dose adjustment |  |
@@ -504,32 +505,34 @@ Mantle cell lymphoma
 
 | Renal function (CLcr) | Dose adjustment (days 1 to 21 of repeated 28-day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once dailyP1 |
-| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once dailyP2 15 mg every other day |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily1 |
+| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
-P1P The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
-P2P In countries where the 7.5 mg capsule is available.
+1 The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
+2 In countries where the 7.5 mg capsule is available.
+
 Follicular lymphoma
 
 | Renal function (CLcr) | Dose adjustment (days 1 to 21 of repeated 28-day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤ CLcr < 60 mL/min) | 10 mg once dailyP1, 2 |
+| Moderate renal impairment (30 ≤ CLcr < 60 mL/min) | 10 mg once daily1, 2 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 5 mg once daily |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
 ¹ The dose may be escalated to 15 mg once daily after 2 cycles if the patient has tolerated therapy.
-P2 PFor patients on a starting dose of 10 mg, in case of dose reduction to manage Grade 3 or 4 neutropenia or thrombocytopenia, or other Grade 3 or 4.
+2 For patients on a starting dose of 10 mg, in case of dose reduction to manage Grade 3 or 4 neutropenia or thrombocytopenia, or other Grade 3 or 4.
 Toxicity judged to be related to lenalidomide do not dose below 5 mg every other day or 2.5 mg once daily.
 
 After initiation of lenalidomide therapy, subsequent lenalidomide dose modification in renally impaired patients should be based on individual patient treatment tolerance, as described above.
 
-- UPatients with hepatic impairment
+- Patients with hepatic impairment
 
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.
 
-UMethod of administration
+Method of administration
 Oral use.
+
 Revlimid capsules should be taken orally at about the same time on the scheduled days.
 The capsules should not be opened, broken or chewed.
 The capsules should be swallowed whole, preferably with water, either with or without food.

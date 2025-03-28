@@ -5,7 +5,8 @@ Findings from this study indicate that lenalidomide produced external malformati
 
 Various visceral effects (discoloration, red foci at different organs, small colourless mass above atrio-ventricular valve, small gall bladder, malformed diaphragm) were also observed in single foetuses.
 
-Lenalidomide has a potential for acute toxicity; minimum lethal doses after oral administration were > 2000 mg/kg/day in rodents.
+Lenalidomide has a potential for acute toxicity; minimum lethal doses after oral administration were
+> 2000 mg/kg/day in rodents.
 Repeated oral administration of 75, 150 and 300 mg/kg/day to rats for up to 26 weeks produced a reversible treatment-related increase in kidney pelvis mineralisation in all 3 doses, most notably in females.
 The no observed adverse effect level (NOAEL) was considered to be less than 75 mg/kg/day, and is approximately 25-fold greater than the human daily exposure based on AUC exposure.
 Repeated oral administration of 4 and 6 mg/kg/day to monkeys for up to 20 weeks produced mortality and significant toxicity (marked weight loss, reduced red and white blood cell and platelet counts, multiple organ haemorrhage, gastrointestinal tract inflammation, lymphoid, and bone marrow atrophy).
@@ -14,7 +15,6 @@ Mild suppression of white blood cell count was observed at 1 mg/kg/day correspon
 
 In vitro (bacterial mutation, human lymphocytes, mouse lymphoma, Syrian Hamster Embryo cell transformation) and in vivo (rat micronucleus) mutagenicity studies revealed no drug related effects at either the gene or chromosomal level.
 Carcinogenicity studies with lenalidomide have not been conducted.
-
 Developmental toxicity studies were previously conducted in rabbits.
 In these studies, rabbits were administered 3, 10 and 20 mg/kg/day orally.
 An absence of the intermediate lobe of the lung was observed at 10 and 20 mg/kg/day with dose dependence and displaced kidneys were observed at 20 mg/kg/day.
