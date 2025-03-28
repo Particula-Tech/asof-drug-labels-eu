@@ -40,3 +40,7 @@ Tecentriq in combination with nab-paclitaxel is indicated for the treatment of a
 Hepatocellular carcinoma (HCC)
 
 Tecentriq, in combination with bevacizumab, is indicated for the treatment of adult patients with advanced or unresectable HCC who have not received prior systemic therapy (see section 5.1).
+
+[Tecentriq 1 875 mg solution for injection]
+
+Tecentriq as monotherapy is indicated as adjuvant treatment following complete resection and platinum-based chemotherapy for adult patients with NSCLC with a high risk of recurrence whose tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR-mutant or ALK-positive NSCLC (see section 5.1 for selection criteria).

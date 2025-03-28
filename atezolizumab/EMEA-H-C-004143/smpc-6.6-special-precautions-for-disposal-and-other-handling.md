@@ -17,7 +17,6 @@ Do not shake.
 Instructions for dilution
 
 For the recommended dose of 840 mg: fourteen mL of Tecentriq concentrate should be withdrawn from the vial and diluted into a polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE), or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
-
 For the recommended dose of 1 200 mg: twenty mL of Tecentriq concentrate should be withdrawn from the vial and diluted into a polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE) or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
 
 For the recommended dose of 1 680 mg: twenty-eight mL of Tecentriq concentrate should be withdrawn from two vials of Tecentriq 840 mg and diluted into a polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE), or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.

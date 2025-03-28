@@ -11,7 +11,6 @@ The systemic accumulation in area under the curve, maximum concentration and tro
 Absorption
 
 Atezolizumab is administered as an intravenous infusion.
-
 Distribution
 
 A population pharmacokinetic analysis indicates that central compartment volume of distribution is 3.28 L and volume at steady-state is 6.91 L in the typical patient.
@@ -37,6 +36,7 @@ No dedicated studies of atezolizumab have been conducted in elderly patients.
 The effect of age on the pharmacokinetics of atezolizumab was assessed in a population pharmacokinetic analysis.
 Age was not identified as a significant covariate influencing atezolizumab pharmacokinetics based on patients of age range of 21-89 years (n=472), and median of 62 years of age.
 No clinically important difference was observed in the pharmacokinetics of atezolizumab among patients < 65 years (n=274), patients between 65−75 years (n=152) and patients > 75 years (n=46) (see section 4.2).
+
 Paediatric population
 
 The pharmacokinetic results from one early-phase, multi-centre open-label study that was conducted in paediatric (< 18 years, n=69) and young adult patients (18-30 years, n=18), show that the clearance and volume of distribution of atezolizumab were comparable between paediatric patients receiving 15 mg/kg bw and young adult patients receiving 1 200 mg of atezolizumab every 3 weeks when normalized by body weight, with exposure trending lower in paediatric patients as body weight decreased.
@@ -49,17 +49,12 @@ No dedicated studies of atezolizumab have been conducted in patients with renal 
 In the population pharmacokinetic analysis, no clinically important differences in the clearance of atezolizumab were found in patients with mild (estimated glomerular filtration rate [eGFR] 60 to 89 mL/min/1.73 m2; n=208) or, moderate (eGFR 30 to 59 mL/min/1.73 m2; n=116) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73 m2; n=140) renal function.
 Only a few patients had severe renal impairment (eGFR 15 to 29 mL/min/1.73 m2; n=8) (see section 4.2).
 The effect of severe renal impairment on the pharmacokinetics of atezolizumab is unknown.
-
 Hepatic impairment
 
 No dedicated studies of atezolizumab have been conducted in patients with hepatic impairment.
-In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x
-
-ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and
-AST ≤ ULN). No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN
-and any AST). Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction
-
-Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
+In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
+No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN and any AST).
+Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
 The effect of severe hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
 
 [Tecentriq 1 875 mg solution for injection]
@@ -69,7 +64,6 @@ Atezolizumab model-predicted exposure metrics following 1 875 mg Q3W subcutaneou
 Atezolizumab cycle 1 Ctrough (i.e., pre-dose cycle 2) showed non-inferiority of atezolizumab within Tecentriq solution for injection to intravenous atezolizumab, with a geometric mean ratio (GMR) of 1.05 (90% CI: 0.88–1.24).
 
 The GMR for cycle 1 model-predicted for AUC from 0 to 21 days (AUC0-21d) was 0.87 (90% CI: 0.83–0.92).
-
 The maximum systemic accumulation ratio following 1 875 mg Q3W of Tecentriq solution for injection is 2.2.
 
 The model-predicted Ctrough and AUC at steady state were comparable for subcutaneous Tecentriq and intravenous atezolizumab (see Table 23).
@@ -107,5 +101,3 @@ Only a few patients had severe renal impairment (eGFR 15 to 29 mL/min/1.73 m2; n
 No clinically relevant differences in the clearance of subcutaneous atezolizumab were found in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n = 111) or moderate (eGFR 30 to 59 mL/min/1.73 m2; n = 32) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73 m2; n = 103) renal function.
 
 In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of intravenous or subcutaneously administered atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
-No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN and any AST).
-Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).

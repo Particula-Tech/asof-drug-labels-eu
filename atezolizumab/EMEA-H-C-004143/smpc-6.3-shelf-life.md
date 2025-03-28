@@ -14,7 +14,6 @@ If not used immediately, in-use storage times and conditions prior to use are th
 [Tecentriq 1 875 mg solution for injection]
 
 2 years.
-
 Prepared syringe
 
 Once transferred from the vial into the syringe, Tecentriq solution for injection is physically and chemically stable for up to 30 days at 2 °C to 8 °C and for up to 8 hours at ≤ 30 °C in diffuse daylight and from the time of preparation.

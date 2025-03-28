@@ -24,10 +24,16 @@ Further details on serious adverse reactions are provided in section 4.4.
 
 Tabulated list of adverse reactions
 
-The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab given as monotherapy or as combination therapy.
-Adverse reactions known to occur with atezolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
-The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
+The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of
+
+frequency in Table 3 for atezolizumab given as monotherapy or as combination therapy. Adverse
+reactions known to occur with atezolizumab or chemotherapies given alone may occur during
+treatment with these medicinal products in combination, even if these reactions were not reported in
+clinical trials with combination therapy. The following categories of frequency have been used: very
+
+common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
@@ -67,16 +73,16 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Common | pneumonitist, hypoxiaag, nasopharyngitisam | dysphonia |
 | Gastrointestinal disorders |  |  |
 | Very common | nausea, vomiting, diarrhoeau | nausea, vomiting, diarrhoeau, constipation |
-| Common | colitisv, abdominal pain, dysphagia, oropharyngeal painw, dry mouth | stomatitis, dysgeusia |
+| Common | colitisv, abdominal pain, dysphagia, oropharyngeal painw, dry mouth | stomatitis, dysgeusia, colitisv |
 | Uncommon | pancreatitisx |  |
 | Rare | Coeliac disease | Coeliac disease |
 | Hepatobiliary disorders |  |  |
 | Common | AST increased, ALT increased, hepatitisy | AST increased, ALT increased |
 | Skin and subcutaneous tissue disorders |  |  |
 | Very common | rashz, pruritus | rashz, pruritus, alopeciaah |
-| Common | dry skin |  |
-| Uncommon | severe cutaneous adverse reactionsak, psoriasisan | severe cutaneous adverse reactionsak, psoriasisan |
-| Rare | pemphigoid | pemphigoid |
+| Common | dry skinap |  |
+| Uncommon | severe cutaneous adverse reactionsak, psoriasisan, lichen disordersaq | severe cutaneous adverse reactionsak, psoriasisan |
+| Rare | pemphigoid | pemphigoid, lichen disordersaq |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain | arthralgia, musculoskeletal painaa, back pain |
 | Common | musculoskeletal painaa |  |
@@ -90,6 +96,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Common | influenza like illness, chills |  |
 | Investigations |  |  |
 | Common |  | blood alkaline phosphatase increased |
+| Uncommon | blood creatine phosphokinase increased |  |
 
 a Includes reports of urinary tract infection, cystitis, pyelonephritis, escherichia urinary tract infection, urinary tract infection bacterial, kidney infection, pyelonephritis acute, pyelonephritis chronic, pyelitis, renal abscess, streptococcal urinary tract infection, urethritis, urinary tract infection fungal, urinary tract infection pseudomonal.
 b Includes reports of pneumonia, bronchitis, lower respiratory tract infection, infectious pleural effusion, tracheobronchitis, atypical pneumonia, lung abscess, infective exacerbation of chronic obstructive airways disease, paracancerous pneumonia, pyopneumothorax, pleural infection, post procedural pneumonia.
@@ -130,8 +137,8 @@ ak Includes reports of dermatitis bullous, exfoliative rash, erythema multiforme
 al Includes reports of cystitis noninfective and immune-mediated cystitis.
 am Includes reports of nasopharyngitis, nasal congestion and rhinorrhoea.
 an Includes reports of psoriasis, dermatitis psoriasiform.
-ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive.
-
+ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive. ap Includes reports of dry skin, xerosis.
+aq Includes reports of lichenoid keratosis, lichen sclerosus and lichen planus.
 Description of selected adverse reactions
 
 The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical trials (see section 5.1).
@@ -184,7 +191,6 @@ Adrenal insufficiency occurred in 0.5% (25/5 039) of patients who received atezo
 The median time to onset was 6.2 months (range: 3 days to 21.4 months).
 Adrenal insufficiency led to discontinuation of atezolizumab in 5 (0.1%) patients.
 Adrenal insufficiency requiring the use of corticosteroids occurred in 0.4% (20/5 039) of patients receiving atezolizumab monotherapy.
-
 Hypophysitis
 
 Hypophysitis occurred in 0.2% (9/5 039) of patients who received atezolizumab monotherapy.
@@ -221,6 +227,7 @@ Immune-mediated meningoencephalitis
 Meningoencephalitis occurred in 0.4% (22/5 039) of patients who received atezolizumab monotherapy.
 The median time to onset was 15 days (range: 0 days to 12.5 months).
 The median duration was 24 days (range: 6 days to 14.5+ months; + denotes a censored value).
+
 Meningoencephalitis requiring the use of corticosteroids occurred in 0.2% (12/5 039) of patients receiving atezolizumab and eight patients (0.2%) discontinued atezolizumab.
 
 Immune-mediated neuropathies
@@ -239,7 +246,6 @@ Facial paresis occurred in < 0.1% (1/5 039) of patients who received atezolizuma
 The time to onset was 29 days.
 The duration was 1.1 months.
 The event did not require the use of corticosteroids and the event did not lead to discontinuation of atezolizumab.
-
 Immune-mediated myelitis
 
 Myelitis occurred in < 0.1% (1/5 039) of patients who received atezolizumab monotherapy.
@@ -274,6 +280,7 @@ Nephritis occurred in 0.2% (11/5 039) of patients who received atezolizumab.
 The median time to onset was 5.1 months (range: 3 days to 17.5 months).
 Nephritis led to discontinuation of atezolizumab in 5 (≤ 0.1%) patients.
 Five (0.1%) patients required the use of corticosteroids.
+
 Immune-mediated myositis
 
 Myositis occurred in 0.6% (32/5 039) of patients who received atezolizumab monotherapy.
@@ -325,6 +332,7 @@ Paediatric population
 
 The safety of atezolizumab in children and adolescents has not been established.
 No new safety signals were observed in a clinical trial with 69 paediatric patients (< 18 years) and the safety profile was comparable to adults.
+
 Elderly
 
 No overall differences in safety were observed between patients < 65, 65-74, and 75-84 years of age receiving atezolizumab monotherapy.
@@ -351,7 +359,13 @@ The most common adverse reactions
 
 The safety profile of Tecentriq solution for injection was overall similar to the known safety profile of the intravenous formulation, with an additional adverse reaction of injection site reaction (4.5% in the subcutaneous Tecentriq arm vs 0% in the intravenous atezolizumab arm).
 
-The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab (intravenous and subcutaneous) given as monotherapy or as combination therapy.
+The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab (intravenous and subcutaneous) given as monotherapy or as
+
+combination therapy. Adverse reactions known to occur with atezolizumab or chemotherapies given
+alone may occur during treatment with these medicinal products in combination, even if these
+reactions were not reported in clinical trials with combination therapy. The following categories of
+
+frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
 | --- | --- | --- |
@@ -390,16 +404,16 @@ The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and ca
 | Common | pneumonitist, hypoxiaag, nasopharyngitisam | dysphonia |
 | Gastrointestinal disorders |  |  |
 | Very common | nausea, vomiting, diarrhoeau | nausea, vomiting, diarrhoeau, constipation |
-| Common | colitisv, abdominal pain, dysphagia, oropharyngeal painw, dry mouth | stomatitis, dysgeusia |
+| Common | colitisv, abdominal pain, dysphagia, oropharyngeal painw, dry mouth | stomatitis, dysgeusia, colitisv |
 | Uncommon | pancreatitisx |  |
 | Rare | Coeliac disease | Coeliac disease |
 | Hepatobiliary disorders |  |  |
 | Common | AST increased, ALT increased, hepatitisy | AST increased, ALT increased |
 | Skin and subcutaneous tissue disorders |  |  |
 | Very common | rashz, pruritus | rashz, pruritus, alopeciaah |
-| Common | dry skin |  |
-| Uncommon | severe cutaneous adverse reactionsak, psoriasisan | severe cutaneous adverse reactionsak, psoriasisan |
-| Rare | pemphigoid | pemphigoid |
+| Common | dry skinaq |  |
+| Uncommon | severe cutaneous adverse reactionsak, psoriasisan, lichen disordersar | severe cutaneous adverse reactionsak, psoriasisan |
+| Rare | pemphigoid | pemphigoid, lichen disordersar |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain | arthralgia, musculoskeletal painaa, back pain |
 | Common | musculoskeletal painaa |  |
@@ -413,9 +427,12 @@ The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and ca
 | Common | influenza like illness, chills, injection site reactionap |  |
 | Investigations |  |  |
 | Common |  | blood alkaline phosphatase increased |
+| Uncommon | blood creatine phosphokinase increased |  |
 
 ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive ap Reported in a study outside the pooled dataset (subcutaneous administration related).
-The frequency is based on exposure to Tecentriq solution for injection in IMscin001 and includes reports of injection site reaction, injection site pain, injection site erythema, and injection site rash.
+The frequency is based on exposure to Tecentriq solution for injection in IMscin001 and IMscin002 and includes reports of injection site reaction, injection site pain, injection site erythema, and injection site rash.
+aq Includes reports of dry skin, xerosis.
+ar Includes reports of lichenoid keratosis, lichen sclerosus and lichen planus.
 
 The median duration was 1 months (range: 0 day to 52.1+ months; + denotes a censored value).
 

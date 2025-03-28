@@ -205,12 +205,12 @@ Infusion-related reactions have been observed with atezolizumab (see section 4.8
 The rate of infusion should be reduced or treatment should be interrupted in patients with Grade 1 or 2 infusion-related reactions.
 Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion-related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
-
 Disease-specific precautions
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
+
 Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
@@ -239,9 +239,9 @@ Patients treated with bevacizumab have an increased risk of haemorrhage, and cas
 In patients with HCC, screening for and subsequent treatment of oesophageal varices should be performed as per clinical practice prior to starting treatment with the combination of atezolizumab and bevacizumab.
 Bevacizumab should be permanently discontinued in patients who experience Grade 3 or 4 bleeding with the combination treatment.
 Please refer to the bevacizumab Summary of Product Characteristics.
-
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
+
 Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.

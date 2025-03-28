@@ -84,6 +84,7 @@ Table 2: Dose modification advice for Tecentriq
 |  | Grade 1 or 2 | Reduce infusion rate or interrupt. Treatment may be resumed when the event is resolved |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
 
+ALT = alanine aminotransferase; AST = aspartate aminotransferase; ULN = upper limit of normal.
 Note: Toxicity should be graded with the current version of National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE).
 1 Regardless of severity
 2 Conduct a detailed cardiac evaluation to determine the aetiology and manage appropriately
@@ -123,14 +124,16 @@ It is important to check the product labels to ensure that the correct formulati
 Tecentriq intravenous formulation is not intended for subcutaneous administration and should be administered via an intravenous infusion only.
 The infusions must not be administered as an intravenous push or bolus.
 
-The initial dose of Tecentriq must be administered over 60 minutes.
+Patients currently receiving intravenous Tecentriq can switch to atezolizumab solution for injection or vice versa.
+
+The initial dose of intravenous Tecentriq must be administered over 60 minutes.
 If the first infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
 
 For instructions on dilution and handling of the medicinal product before administration, see section 6.6.
 
 [Tecentriq 1 875 mg solution for injection]
 
-Patients currently receiving intravenous atezolizumab may transition to Tecentriq solution for injection.
+Patients currently receiving intravenous atezolizumab can switch to Tecentriq solution for injection and vice versa.
 
 The recommended dose of Tecentriq solution for injection is 1 875 mg administered every three weeks, as presented in Table 1.
 
@@ -159,33 +162,37 @@ Table 1: Recommended dose for Tecentriq by subcutaneous administration
 | --- | --- | --- |
 | Pneumonitis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
-| Hepatitis in patients without HCC | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+| Hepatitis in patients without HCC | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or |
+|  | or blood bilirubin > 1.5 to 3 x ULN) | Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
 | Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to > 3 x to ≤ 10x ULN or If AST/ALT is > 1 to ≤ 3 x ULN at baseline and increases to > 5x to ≤ 10x ULN or If AST/ALT is > 3 x to ≤ 5 x ULN at baseline and increases to >8 x to ≤ 10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | If AST/ALT increases to > 10 x ULN or total bilirubin increases to > 3 x ULN | Permanently discontinue Tecentriq |
 | Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 Diarrhoea or Colitis (life threatening; urgent intervention indicated) | Permanently discontinue Tecentriq |
+
+| Immune-mediated adverse reaction | Severity | Treatment modification |
+| --- | --- | --- |
 | Hypothyroidism or hyperthyroidism | Symptomatic | Withhold Tecentriq Hypothyroidism: Treatment may be resumed when symptoms are controlled by thyroid replacement therapy and TSH levels are decreasing Hyperthyroidism: Treatment may be resumed when symptoms are controlled by anti-thyroid medicinal product and thyroid function is improving |
 | Adrenal insufficiency | Symptomatic | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and patient is stable on replacement therapy |
 | Hypophysitis | Grade 2 or 3 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and patient is stable on replacement therapy |
 |  | Grade 4 | Permanently discontinue Tecentriq |
 | Type 1 diabetes mellitus | Grade 3 or 4 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L) | Withhold Tecentriq Treatment may be resumed when metabolic control is achieved on insulin replacement therapy |
-| Rash/Severe cutaneous adverse reactions | Grade 3 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to |
-|  | or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+| Rash/Severe cutaneous adverse reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or confirmed Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Permanently discontinue Tecentriq |
-| Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome, Meningoencephalitis, and Facial paresis | Facial paresis Grade 1 or 2 | Withhold Tecentriq Treatment may be resumed if the event fully resolves. If the event does not fully resolve while withholding Tecentriq, permanently discontinue Tecentriq |
+| Myasthenic syndrome/myasthenia | Facial paresis Grade 1 or 2 | Withhold Tecentriq |
+| gravis, Guillain-Barré syndrome, Meningoencephalitis, and Facial paresis |  | Treatment may be resumed if the event fully resolves. If the event does not fully resolve while withholding Tecentriq, permanently discontinue Tecentriq |
 |  | All Grades Myasthenic syndrome/myasthenia gravis, Guillain Barré syndrome and Meningoencephalitis or Facial paresis Grade 3 or 4 | Permanently discontinue Tecentriq |
 | Myelitis | Grade 2, 3, or 4 | Permanently discontinue Tecentriq |
 | Pancreatitis | Grade 3 or 4 serum amylase or lipase levels increased (> 2 x ULN) or Grade 2 or 3 pancreatitis | Withhold Tecentriq Treatment may be resumed when serum amylase and lipase levels improve to Grade 0 or Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
-
-| Immune-mediated adverse reaction | Severity | Treatment modification |
-| --- | --- | --- |
 | Myocarditis | Grade 2 or above | Permanently discontinue Tecentriq |
 | Nephritis | Grade 2: (creatinine level > 1.5 to 3.0 x baseline or > 1.5 to 3.0 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (creatinine level > 3.0 x baseline or > 3.0 x ULN) | Permanently discontinue Tecentriq |
 | Myositis | Grade 2 or 3 | Withhold Tecentriq |
 |  | Grade 4 or Grade 3 recurrent myositis | Permanently discontinue Tecentriq |
+
+| Immune-mediated adverse reaction | Severity | Treatment modification |
+| --- | --- | --- |
 | Pericardial disorders | Grade 1 pericarditis | Withhold Tecentriq2 |
 |  | Grade 2 or above | Permanently discontinue Tecentriq |
 | Haemophagocytic lymphohistiocytosis | Suspected haemophagocytic lymphohistiocytosis1 | Permanently discontinue Tecentriq |
