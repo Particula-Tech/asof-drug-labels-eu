@@ -60,12 +60,8 @@ MG-ADL and QMG responders during cycle 1 in AChR-Ab seropositive population (mIT
 Population Efgartigimod alfa Placebo P-value Difference
 n/N (%) n/N (%) Efgartigimod alfa-
 Placebo (95% CI)
-AChR-Ab 44/65 (67.7) 19/64 (29.7) < 0.0001 38.0 (22.1; 54.0)
-MG-ADL
-seropositive
-AChR-Ab 41/65 (63.1) 9/64 (14.1) < 0.0001 49.0 (34.5; 63.5)
-QMG
-seropositive
+MG-ADL AChR-Ab seropositive 44/65 (67.7) 19/64 (29.7) < 0.0001 38.0 (22.1; 54.0)
+QMG AChR-Ab seropositive 41/65 (63.1) 9/64 (14.1) < 0.0001 49.0 (34.5; 63.5)
 
 AChR-Ab = acetylcholine receptor-antibody; MG-ADL = Myasthenia Gravis Activities of Daily Living;
 QMG = Quantitative Myasthenia Gravis; mITT = modified intent-to-treat; n = number of patients for whom the observation was reported; N = number of patients in the analysis set; CI = confidence interval;
@@ -79,10 +75,8 @@ MG-ADL and QMG responders during cycle 2 in AChR-Ab seropositive population (mIT
 
 Population Efgartigimod alfa Placebo
 n/N (%) n/N (%)
-AChR-Ab
-MG-ADL seropositive 36/51 (70.6) 11/43 (25.6)
-AChR-Ab
-QMG seropositive 24/51 (47.1) 5/43 (11.6)
+MG-ADL AChR-Ab seropositive 36/51 (70.6) 11/43 (25.6)
+QMG AChR-Ab seropositive 24/51 (47.1) 5/43 (11.6)
 
 AChR-Ab = acetylcholine receptor-antibody; MG-ADL = Myasthenia Gravis Activities of Daily Living;
 QMG = Quantitative Myasthenia Gravis; mITT = modified intent-to-treat; n = number of patients for whom the observation was reported; N = number of patients in the analysis set.
@@ -92,7 +86,6 @@ Exploratory data shows that onset of response was observed within 2 weeks of ini
 In the double-blind placebo-controlled study, the earliest possible time to initiating the subsequent treatment cycle was 8 weeks after the initial infusion of the first treatment cycle.
 In the overall population the mean time to the second treatment cycle in the efgartigimod alfa intravenous group was 13 weeks (SD 5.5 weeks) and the median time was 10 weeks (8-26 weeks) from the initial infusion of the first treatment cycle.
 In the open-label extension study the earliest possible time of initiation of the subsequent treatment cycles was 7 weeks.
-
 In patients that responded to treatment, the duration of clinical improvement was 5 weeks in 5/44 (11%) patients, 6-7 weeks in 14/44 (32%) of patients, 8-11 weeks in 10/44 (23%) patients and 12 weeks or more in 15/44 (34%) patients.
 
 [Vyvgart 1 000 mg solution for injection]
@@ -115,11 +108,6 @@ Patients were treated with efgartigimod alfa intravenous 10 mg/kg administered o
 Population Efgartigimod Placebo P-value Difference
 alfa n/N (%) Efgartigimod alfa-
 n/N (%) Placebo (95% CI)
-MG-ADL AChR-Ab seropositive 44/65 (67.7) 19/64 (29.7) < 0.0001 38.0 (22.1; 54.0)
-QMG AChR-Ab seropositive 41/65 (63.1) 9/64 (14.1) < 0.0001 49.0 (34.5; 63.5)
-
-MG-ADL AChR-Ab seropositive 36/51 (70.6) 11/43 (25.6)
-QMG AChR-Ab seropositive 24/51 (47.1) 5/43 (11.6)
 
 In the double-blind placebo-controlled study (ARGX-113-1704), the earliest possible time to initiating the subsequent treatment cycle was 8 weeks after the initial infusion of the first treatment cycle.
 In the open-label extension study (ARGX-113-1705) the earliest possible time of initiation of the subsequent treatment cycles was 7 weeks.
@@ -161,8 +149,8 @@ MG-ADL and QMG responders at day 29 in AChR-Ab seropositive population
 Efgartigimod alfa SC Efgartigimod alfa IV Difference
 n/N (%) n/N (%) Efgartigimod alfa SC-
 Efgartigimod alfa IV (95% CI)
-MG-ADL 32/45 (71.1) 33/46 (71.7) −0.6 (−19.2 to 17.9)
-QMG 31/45 (68.9) 24/45 (53.3) 15.6 (−4.3 to 35.4)
+MG-ADL 32/45 (71.1) 33/46 (71.7) -0.6 (-19.2 to 17.9)
+QMG 31/45 (68.9) 24/45 (53.3) 15.6 (-4.3 to 35.4)
 
 QMG = Quantitative Myasthenia Gravis; SC = subcutaneous; IV = intravenous; mITT = modified intent-to-treat; n = number of patients for whom the observation was reported; N = number of patients in the analysis set;
 CI = confidence interval;

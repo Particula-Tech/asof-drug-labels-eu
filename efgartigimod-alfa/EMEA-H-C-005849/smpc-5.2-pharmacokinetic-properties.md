@@ -36,6 +36,7 @@ The effect of renal function marker estimated glomerular filtration rate [eGFR] 
 No specific dose adjustment is recommended in patients with mild renal impairment.
 
 There is insufficient data on the impact of moderate renal impairment (eGFR 30-59 mL/min/1.73 m2) and severe renal impairment (eGFR < 30 mL/min/1.73 m2) on efgartigimod alfa pharmacokinetic parameters.
+
 Hepatic impairment
 No dedicated pharmacokinetic study has been performed in patients with hepatic impairment.
 

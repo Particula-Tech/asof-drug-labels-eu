@@ -21,6 +21,7 @@ Adverse reactions
 |  | Urinary tract infections | Common |
 |  | Bronchitis | Common |
 | Immune system disorders | Anaphylactic reaction a | Not known |
+| Gastrointestinal disorders | Nausea a | Common |
 | Musculoskeletal and connective tissue disorders | Myalgia | Common |
 | Injury, poisoning and procedural complications* | Procedural headache | Common |
 
@@ -68,12 +69,14 @@ Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 t
 |  | Urinary tract infections | Common |
 |  | Bronchitis | Common |
 | Immune system disorders | Anaphylactic reaction a | Not known |
+| Gastrointestinal disorders | Nausea b | Common |
 | Musculoskeletal and connective tissue disorders | Myalgia | Common |
-| General disorders and administration site conditions* | Injection site reactions b, c | Very common |
-| Injury, poisoning and procedural complications* | Procedural headache d | Common |
+| General disorders and administration site conditions* | Injection site reactions c, d | Very common |
+| Injury, poisoning and procedural complications* | Procedural headache e | Common |
 
-* See paragraph “Description of selected adverse reactions” a From spontaneous post-marketing reporting with intravenous route of administration b Subcutaneous administration only.
-c (e.g. injection site rash, injection site erythema, injection site pruritus, injection site pain) d Intravenous administration only.
+* See paragraph “Description of selected adverse reactions” a From spontaneous post-marketing reporting with intravenous route of administration b From spontaneous post-marketing reporting.
+c Subcutaneous administration only.
+d (e.g. injection site rash, injection site erythema, injection site pruritus, injection site pain) e Intravenous administration only.
 
 Injection site reactions
 
