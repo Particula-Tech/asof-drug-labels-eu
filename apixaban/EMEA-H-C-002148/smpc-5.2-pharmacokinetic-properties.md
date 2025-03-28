@@ -122,6 +122,7 @@ This is consistent with the previously documented relationship in adults.
 In adults, plasma protein binding in humans is approximately 87%.
 
 In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 15 below; each corresponds to an eGFR < 30 mL/min/1.73 m2 BSA for patients ≥ 2 years of age.
+
 Table 15: eGFR eligibility thresholds for study CV185325
 
 Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.

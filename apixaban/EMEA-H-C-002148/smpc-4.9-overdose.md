@@ -9,6 +9,7 @@ In controlled clinical studies, orally-administered apixaban in healthy adult su
 In healthy adult subjects, administration of activated charcoal 2 and 6 hours after ingestion of a 20 mg dose of apixaban reduced mean apixaban AUC by 50% and 27%, respectively, and had no impact on Cmax.
 Mean half-life of apixaban decreased from 13.4 hours when apixaban was administered alone to 5.3 hours and 4.9 hours, respectively, when activated charcoal was administered 2 and 6 hours after apixaban.
 Thus, administration of activated charcoal may be useful in the management of apixaban overdose or accidental ingestion.
+
 Haemodialysis decreased apixaban AUC by 14% in subjects with end-stage renal disease (ESRD), when a single dose of apixaban 5 mg was administered orally.
 Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.
 
