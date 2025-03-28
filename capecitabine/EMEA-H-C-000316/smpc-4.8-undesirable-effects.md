@@ -19,9 +19,8 @@ Table 4 lists ADRs associated with the use of capecitabine monotherapy based on 
 ADRs are added to the appropriate frequency grouping according to the overall incidence from the pooled analysis.
 Table 4 Summary of related ADRs reported in patients treated with capecitabine monotherapy
 
-| Body System | Very Common | Common | Uncommon | Rare/Very Rare (Post-Marketing |
+| Body System | Very Common All grades | Common All grades | Uncommon Severe and/or Life-threatening (grade 3-4) or considered medically relevant | Rare/Very Rare (Post-Marketing Experience) |
 | --- | --- | --- | --- | --- |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant | Experience) |
 | Infections and infestations | - | Herpes viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |  |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |  |
 | Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leukopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |  |
@@ -30,7 +29,6 @@ Table 4 Summary of related ADRs reported in patients treated with capecitabine m
 | Psychiatric disorders | - | Insomnia, Depression | Confusional state, Panic attack, Depressed mood, Libido decreased |  |
 | Nervous system disorders | - | Headache, Lethargy Dizziness, Parasthesia Dysgeusia | Aphasia, Memory impairment, Ataxia, Syncope, Balance disorder, Sensory disorder, Neuropathy peripheral | Toxic leukoencephalopathy (very rare) |
 | Eye disorders | - | Lacrimation increased, Conjunctivitis, Eye irritation | Visual acuity reduced, Diplopia | Lacrimal duct stenosis (rare), Corneal disorders(rare), keratitis (rare), punctate keratitis (rare) |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant | Experience) |
 | Ear and labyrinth disorders | - | - | Vertigo, Ear pain |  |
 | Cardiac disorders | - | - | Angina unstable, Angina pectoris, Myocardial ischaemia/infarction, Atrial fibrillation, Arrhythmia, Tachycardia, Sinus tachycardia, Palpitations | Ventricular fibrillation (rare), QT prolongation (rare), Torsade de pointes (rare), Bradycardia (rare), Vasospasm (rare) |
 | Vascular disorders | - | Thrombophlebitis | Deep vein thrombosis, Hypertension, Petechiae, Hypotension, Hot flush, Peripheral coldness |  |
@@ -38,7 +36,6 @@ Table 4 Summary of related ADRs reported in patients treated with capecitabine m
 | Gastrointestin al disorders | Diarrhoea, Vomiting, Nausea, Stomatitis, Abdominal pain | Gastrointestinal haemorrhage, Constipation, Upper abdominal pain, Dyspepsia, Flatulence, Dry mouth | Intestinal obstruction, Ascites, Enteritis, Gastritis, Dysphagia, Abdominal pain lower, Oesophagitis, Abdominal discomfort, Gastrooesophageal reflux disease, Colitis, Blood in stool |  |
 | Hepatobiliary disorders | - | Hyperbilirubinem ia, Liver function test abnormalities | Jaundice | Hepatic failure (rare), Cholestatic hepatitis (rare) |
 | Skin and subcutaneous tissue disorders | Palmar-plantar erythro-dysaesthesia syndrome** | Rash, Alopecia, Erythema, Dry skin, Pruritus, Skin hyper-pigmentation, Rash macular, Skin desquamation, Dermatitis, Pigmentation disorder, Nail disorder | Blister, Skin ulcer, Rash, Urticaria, Photosensitivity reaction, Palmar erythema, Swelling face, Purpura, Radiation recall syndrome | Cutaneous lupus erythematosus (rare), Severe skin reactions such as Stevens-Johnson Syndrome and toxic Epidermal Necrolysis (very rare) (see section 4.4.) |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant | Experience) |
 | Muskuloskelet al and connective tissue disorders | - | Pain in extremity, Back pain, Arthralgia | Joint swelling, Bone pain, Facial pain, Musculoskeletal stiffness, Muscular weakness |  |
 | Renal and urinary disorders | - | - | Hydronephrosis, Urinary incontinence, Haematuria, Nocturia, Blood creatinine increased |  |
 | Reproductive system and breast disorders | - | - | Vaginal haemorrhage |  |

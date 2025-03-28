@@ -69,27 +69,20 @@ Although sensitivity analyses show that differences in regimen schedules and tim
 
 Table 7 Key efficacy results for the non-inferiority analysis of Study NO16966
 
-PRIMARY ANALYSIS
-XELOX/XELOX+P/ FOLFOX-4/FOLFOX-4+P/
-XELOX+BV FOLFOX-4+BV
-(EPP*: N=967; ITT**: N=1017) (EPP*: N = 937; ITT**: N= 1017)
-HR
-Population Median Time to Event (Days) (97.5% CI)
-Parameter: Progression-free Survival
-EPP 241 259 1.05 (0.94; 1.18)
-ITT 244 259 1.04 (0.93; 1.16)
-Parameter: Overall Survival
-EPP 577 549 0.97 (0.84; 1.14)
-ITT 581 553 0.96 (0.83; 1.12)
-ADDITIONAL 1 YEAR OF FOLLOW UP
-HR
-Population Median Time to Event (Days) (97.5% CI)
-Parameter: Progression-free Survival
-EPP 242 259 1.02 (0.92; 1.14)
-ITT 244 259 1.01 (0.91; 1.12)
-Parameter: Overall Survival
-EPP 600 594 1.00 (0.88; 1.13)
-ITT 602 596 0.99 (0.88; 1.12)
+| PRIMARY ANALYSIS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| XELOX/XELOX+P/ XELOX+BV (EPP*: N=967; ITT**: N=1017) |  |  | FOLFOX-4/FOLFOX-4+P/ FOLFOX-4+BV (EPP*: N = 937; ITT**: N= 1017) |  |
+| Population | Median Time to Event (Days) |  |  | HR (97.5% CI) |
+| Parameter: Progression-free Survival |  |  |  |  |
+| EPP ITT | 241 244 | 259 259 |  | 1.05 (0.94; 1.18) 1.04 (0.93; 1.16) |
+| Parameter: Overall Survival |  |  |  |  |
+| EPP ITT | 577 581 | 549 553 |  | 0.97 (0.84; 1.14) 0.96 (0.83; 1.12) |
+| ADDITIONAL 1 YEAR OF FOLLOW UP |  |  |  |  |
+| Population | Median Time to Event (Days) |  |  | HR (97.5% CI) |
+| Parameter: Progression-free Survival |  |  |  |  |
+| EPP ITT | 242 244 | 259 259 |  | 1.02 (0.92; 1.14) 1.01 (0.91; 1.12) |
+| Parameter: Overall Survival |  |  |  |  |
+| EPP ITT | 600 602 | 594 596 |  | 1.00 (0.88; 1.13) 0.99 (0.88; 1.12) |
 
 *EPP=eligible patient population; **ITT=intent-to-treat population
 In a randomised, controlled phase III study (CAIRO), the effect of using capecitabine at a starting dose of 1000 mg/m2 for 2 weeks every 3 weeks in combination with irinotecan for the first-line treatment of patients with metastatic colorectal cancer was studied.
@@ -150,26 +143,20 @@ The results indicate that XELOX is equivalent to FOLFOX-4 in terms of overall su
 The median follow up at the time of the primary analyses in the intent-to-treat population was 2.1 years; data from analyses following an additional 6 months of follow up are also included in table 9.
 Table 9 Key efficacy results for the non-inferiority analysis of Study NO16967
 
-PRIMARY ANALYSIS
-XELOX FOLFOX-4
-(PPP*: N=251; ITT**: N=313) (PPP*: N = 252; ITT**: N= 314)
-HR
-Population Median Time to Event (Days) (95% CI)
-Parameter: Progression-free Survival
-PPP 154 168 1.03 (0.87; 1.24)
-ITT 144 146 0.97 (0.83; 1.14)
-Parameter: Overall Survival
-PPP 388 401 1.07 (0.88; 1.31)
-ITT 363 382 1.03 (0.87; 1.23)
-ADDITIONAL 6 MONTHS OF FOLLOW UP
-HR
-Population Median Time to Event (Days) (95% CI)
-Parameter: Progression-free Survival
-PPP 154 166 1.04 (0.87; 1.24)
-ITT 143 146 0.97 (0.83; 1.14)
-Parameter: Overall Survival
-PPP 393 402 1.05 (0.88; 1.27)
-ITT 363 382 1.02 (0.86; 1.21)
+| PRIMARY ANALYSIS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| XELOX (PPP*: N=251; ITT**: N=313) |  |  | FOLFOX-4 (PPP*: N = 252; ITT**: N= 314) |  |
+| Population | Median Time to Event (Days) |  |  | HR (95% CI) |
+| Parameter: Progression-free Survival |  |  |  |  |
+| PPP ITT | 154 144 | 168 146 |  | 1.03 (0.87; 1.24) 0.97 (0.83; 1.14) |
+| Parameter: Overall Survival |  |  |  |  |
+| PPP ITT | 388 363 | 401 382 |  | 1.07 (0.88; 1.31) 1.03 (0.87; 1.23) |
+| ADDITIONAL 6 MONTHS OF FOLLOW UP |  |  |  |  |
+| Population | Median Time to Event (Days) |  |  | HR (95% CI) |
+| Parameter: Progression-free Survival |  |  |  |  |
+| PPP ITT | 154 143 | 166 146 |  | 1.04 (0.87; 1.24) 0.97 (0.83; 1.14) |
+| Parameter: Overall Survival |  |  |  |  |
+| PPP ITT | 393 363 | 402 382 |  | 1.05 (0.88; 1.27) 1.02 (0.86; 1.21) |
 
 *PPP=per-protocol population; **ITT=intent-to-treat population
 

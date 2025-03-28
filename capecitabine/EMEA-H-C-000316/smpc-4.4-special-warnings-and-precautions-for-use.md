@@ -91,9 +91,10 @@ Initial dose reduction may impact the efficacy of treatment.
 In the absence of serious toxicity, subsequent doses may be increased with careful monitoring.
 
 Testing for DPD deficiency
-
 Phenotype and/or genotype testing prior to the initiation of treatment with Xeloda is recommended despite uncertainties regarding optimal pre-treatment testing methodologies.
 Consideration should be given to applicable clinical guidelines.
+Impaired kidney function can lead to increased blood uracil levels with risk for misdiagnosis of DPD deficiency in patients with moderate renal impairment.
+Capecitabine is contraindicated in patients with severe renal impairment (see section 4.3).
 
 Genotypic characterisation of DPD deficiency
 
@@ -118,13 +119,12 @@ For phenotypic characterisation of DPD deficiency, the measurement of pre-therap
 Elevated pre-treatment uracil concentrations are associated with an increased risk of toxicity.
 Despite uncertainties on uracil thresholds defining complete and partial DPD deficiency, a blood uracil level ≥ 16 ng/mL and < 150 ng/mL should be considered indicative of partial DPD deficiency and associated with an increased risk for fluoropyrimidine toxicity.
 A blood uracil level ≥ 150 ng/mL should be considered indicative of complete DPD deficiency and associated with a risk for life-threatening or fatal fluoropyrimidine toxicity.
+Blood uracil levels should be interpreted with caution in patients with impaired kidney function (see ‘Testing for DPD deficiency’ above).
+Ophthalmologic complications: Patients should be carefully monitored for ophthalmological complications such as keratitis and corneal disorders, especially if they have a prior history of eye disorders.
+Treatment of eye disorders should be initiated as clinically appropriate.
 
-Ophthalmologic complications: Patients should be carefully monitored for ophthalmological
-complications such as keratitis and corneal disorders, especially if they have a prior history of eye
-disorders. Treatment of eye disorders should be initiated as clinically appropriate.
-Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-Johnson syndrome and
-Toxic Epidermal Necrolysis. Xeloda should be permanently discontinued in patients who experience a
-severe skin reaction during treatment.
+Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-Johnson syndrome and Toxic Epidermal Necrolysis.
+Xeloda should be permanently discontinued in patients who experience a severe skin reaction during treatment.
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
