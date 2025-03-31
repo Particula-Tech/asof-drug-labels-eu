@@ -14,6 +14,7 @@ Dystonia
 Axial dystonia including antecollis, camptocormia and pleurothotonus (Pisa Syndrome) has occasionally been reported in patients with Parkinson’s disease following initiation or incremental dose increase of pramipexole.
 Although dystonia may be a symptom of Parkinson’s disease, the symptoms in these patients have improved after reduction or withdrawal of pramipexole.
 If dystonia occurs, the dopaminergic medication regimen should be reviewed and an adjustment in the dose of pramipexole considered.
+
 Sudden onset of sleep and somnolence
 Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly.

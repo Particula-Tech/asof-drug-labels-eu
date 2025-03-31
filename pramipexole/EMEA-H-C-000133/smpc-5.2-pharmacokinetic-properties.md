@@ -7,7 +7,7 @@ Concomitant administration with food did not reduce the extent of pramipexole ab
 Pramipexole shows linear kinetics and a small inter-patient variation of plasma levels.
 
 Distribution
-In humans, the protein binding of pramipexole is very low (< 20%) and the volume of distribution is large (400 l). High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
+In humans, the protein binding of pramipexole is very low (< 20%) and the volume of distribution is large (400 L). High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
 
 Biotransformation
 Pramipexole is metabolised in man only to a small extent.
@@ -15,7 +15,7 @@ Pramipexole is metabolised in man only to a small extent.
 Elimination
 Renal excretion of unchanged pramipexole is the major route of elimination.
 Approximately 90% of 14C-labelled dose is excreted through the kidneys while less than 2% is found in the faeces.
-The total clearance of pramipexole is approximately 500 ml/min and the renal clearance is approximately 400 ml/min.
+The total clearance of pramipexole is approximately 500 mL/min and the renal clearance is approximately 400 mL/min.
 The elimination half-life (t½) varies from 8 hours in the young to 12 hours in the elderly.
 
 [SIFROL 0.26 mg prolonged-release tablets]

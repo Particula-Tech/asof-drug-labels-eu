@@ -8,7 +8,6 @@ EU/1/97/050/003-004
 
 SIFROL 0.35 mg tablets
 EU/1/97/050/011-012
-
 SIFROL 0.7 mg tablets
 EU/1/97/050/005-006
 

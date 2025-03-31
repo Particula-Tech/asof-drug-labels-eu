@@ -13,12 +13,12 @@ Providing patients do not experience intolerable undesirable effects, the dose s
 | Ascending dose schedule of SIFROL |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Week | Dose (mg of base) | Total Daily Dose (mg of base) | Dose (mg of salt) | Total Daily Dose (mg of salt) |
-| 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
-| 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.35 | 1.1 | 3 x 0.5 | 1.50 |
+| 1 | 3 × 0.088 | 0.264 | 3 × 0.125 | 0.375 |
+| 2 | 3 × 0.18 | 0.54 | 3 × 0.25 | 0.75 |
+| 3 | 3 × 0.35 | 1.1 | 3 × 0.5 | 1.50 |
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg of base (0.75 mg of salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg (of salt) per day (see section 4.8).
+However, it should be noted that the incidence of somnolence is increased at doses higher than 1.1 mg of base (1.5 mg of salt) per day (see section 4.8).
 
 Maintenance treatment
 The individual dose of pramipexole should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
@@ -37,16 +37,16 @@ Renal impairment
 The elimination of pramipexole is dependent on renal function.
 The following dose schedule is suggested for initiation of therapy:
 
-Patients with a creatinine clearance above 50 ml/min require no reduction in daily dose or dosing frequency.
+Patients with a creatinine clearance above 50 mL/min require no reduction in daily dose or dosing frequency.
 
-In patients with a creatinine clearance between 20 and 50 ml/min, the initial daily dose of SIFROL should be administered in two divided doses, starting at 0.088 mg of base (0.125 mg of salt) twice a day (0.176 mg of base/0.25 mg of salt daily).
+In patients with a creatinine clearance between 20 and 50 mL/min, the initial daily dose of SIFROL should be administered in two divided doses, starting at 0.088 mg of base (0.125 mg of salt) twice a day (0.176 mg of base/0.25 mg of salt daily).
 A maximum daily dose of 1.57 mg pramipexole base (2.25 mg of salt) should not be exceeded.
 
-In patients with a creatinine clearance less than 20 ml/min, the daily dose of SIFROL should be administered in a single dose, starting at 0.088 mg of base (0.125 mg of salt) daily.
+In patients with a creatinine clearance less than 20 mL/min, the daily dose of SIFROL should be administered in a single dose, starting at 0.088 mg of base (0.125 mg of salt) daily.
 A maximum daily dose of 1.1 mg pramipexole base (1.5 mg of salt) should not be exceeded.
 
 If renal function declines during maintenance therapy the SIFROL daily dose should be reduced by the same percentage as the decline in creatinine clearance, i.e. if creatinine clearance declines by 30%, then the SIFROL daily dose should be reduced by 30%.
-The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 ml/min and as a single daily dose if creatinine clearance is less than 20 ml/min.
+The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 mL/min and as a single daily dose if creatinine clearance is less than 20 mL/min.
 
 Hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
@@ -82,7 +82,7 @@ This effect was found to be similar across all doses.
 
 Renal impairment
 The elimination of pramipexole is dependent on renal function.
-Patients with a creatinine clearance above 20 ml/min require no reduction in daily dose.
+Patients with a creatinine clearance above 20 mL/min require no reduction in daily dose.
 The use of SIFROL has not been studied in haemodialysis patients, or in patients with severe renal impairment.
 
 Hepatic impairment
@@ -116,6 +116,7 @@ Doses should be increased gradually from a starting dose of 0.26 mg of base (0.3
 
 If a further dose increase is necessary the daily dose should be increased by 0.52 mg of base (0.75 mg of salt) at weekly intervals up to a maximum dose of 3.15 mg of base (4.5 mg of salt) per day.
 However, it should be noted that the incidence of somnolence is increased at doses higher than 1.05 mg of base (1.5 mg of salt) per day (see section 4.8).
+
 Patients already taking SIFROL tablets may be switched to SIFROL prolonged-release tablets overnight, at the same daily dose.
 After switching to SIFROL prolonged-release tablets, the dose may be adjusted depending on the patient’s therapeutic response (see section 5.1).
 
@@ -131,13 +132,11 @@ After 12 hours, the missed dose should be left out and the next dose should be t
 Pramipexole should be tapered off at a rate of 0.52 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.52 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.26 mg of base (0.375 mg of salt) per day (see section 4.4).
 
-The following dose schedule is suggested:
-
-In patients with a creatinine clearance between 30 and 50 ml/min, treatment should be started with 0.26 mg SIFROL prolonged-release tablets every other day.
+In patients with a creatinine clearance between 30 and 50 mL/min, treatment should be started with 0.26 mg SIFROL prolonged-release tablets every other day.
 Caution should be exercised and careful assessment of therapeutic response and tolerability should be made before increasing to daily dosing after one week.
 If a further dose increase is necessary, doses should be increased by 0.26 mg pramipexole base at weekly intervals up to a maximum dose of 1.57 mg pramipexole base (2.25 mg of salt) per day.
 
-The treatment of patients with a creatinine clearance below 30 ml/min with SIFROL prolonged-release tablets is not recommended as no data are available for this patient population.
+The treatment of patients with a creatinine clearance below 30 mL/min with SIFROL prolonged-release tablets is not recommended as no data are available for this patient population.
 The use of SIFROL tablets should be considered.
 
 If renal function declines during maintenance therapy, the recommendations given above should be followed.
