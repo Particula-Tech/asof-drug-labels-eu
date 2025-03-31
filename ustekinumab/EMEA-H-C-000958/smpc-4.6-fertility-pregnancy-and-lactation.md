@@ -15,6 +15,7 @@ Ustekinumab crosses the placenta and has been detected in the serum of infants b
 The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5).
 If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
 Breast-feeding
 Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts.
 It is not known if ustekinumab is absorbed systemically after ingestion.

@@ -7,14 +7,15 @@ The most serious adverse reaction that has been reported for STELARA is serious 
 The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis.
 
 Tabulated list of adverse reactions
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,709 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn’s disease and 825 patients with ulcerative colitis).
-This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies for at least 6 months or 1 year (4,577 and 3,253 patients respectively with psoriasis, psoriatic arthritis, Crohn’s disease or ulcerative colitis) and exposure for at least 4 or 5 years (1,482 and 838 patients with psoriasis respectively).
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn’s disease and 826 patients with ulcerative colitis).
+This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn’s disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients).
+2,194 patients with psoriasis, Crohn’s disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn’s disease were exposed for at least 5 years.
 
-Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 2 List of adverse reactions
+Table 3 List of adverse reactions
 
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Common: Upper respiratory tract infection, nasopharyngitis,
@@ -54,7 +55,6 @@ General disorders and Common: Fatigue, injection site erythema, injection site p
 administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia
 
 * See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 Description of selected adverse reactions
 
 Infections
@@ -62,8 +62,8 @@ In the placebo-controlled studies of patients with psoriasis, psoriatic arthriti
 In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients.
 Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 1.0 years for ulcerative colitis studies.
-The rate of infection was 0.91 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (199 serious infections in 11,581 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 2.3 years for ulcerative colitis studies.
+The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
@@ -71,24 +71,26 @@ Malignancies
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up).
 The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,561 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 1.0 years for ulcerative colitis studies.
-Malignancies excluding non-melanoma skin cancers were reported in 62 patients in 11,561 patient-years of follow-up (incidence of 0.54 per 100 patient-years of follow-up for ustekinumab-treated patients).
-The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.93 [95% confidence interval: 0.71, 1.20], adjusted for age, gender and race).
-The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, colorectal, melanoma and breast cancers.
-The incidence of non-melanoma skin cancer was 0.49 per 100 patient-years of follow-up for ustekinumab-treated patients (56 patients in
-11,545 patient-years of follow-up).
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 2.3 years for ulcerative colitis studies.
+Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients).
+The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race).
+The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers.
+The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up).
 The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 Hypersensitivity and infusion reactions
 In Crohn’s disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
 In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
 Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
-
 Paediatric population
 Paediatric patients 6 years and older with plaque psoriasis
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis.
 The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks.
 In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
+
+Paediatric patients weighing at least 40 kg with Crohn’s disease
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn’s disease up to week 240 and week 52, respectively.
+In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn’s disease.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -97,19 +99,23 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [STELARA 45 mg solution for injection]
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
-
-Table 3 List of adverse reactions
-
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 1.0 years for ulcerative colitis studies.
+This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn’s disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year ( 3,648 patients).
+2,194 patients with psoriasis, Crohn’s disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn’s disease were exposed for at least 5 years.
 
 Hypersensitivity reactions
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in < 1% of patients (see section 4.4).
 
 [STELARA 45 mg solution for injection in pre-filled pen]
 
-Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
+2,194 patients with psoriasis, Crohn’s disease or ulcerative colitis were exposed for atleast 4 years while 1,148 patients with psoriasis or Crohn’s disease were exposed for at least 5 years.
 
+Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 Table 1: List of adverse reactions
+
+General disorders and Common : Fatigue, injection site erythema, injection site pain
+
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 15,205 patient-years of exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 2.3 years for ulcerative colitis studies.
+The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in
+15,165 patient-years of follow-up).
 
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in <1% of patients (see section 4.4).

@@ -28,14 +28,13 @@ The risk of malignancy may be higher in psoriasis patients who have been treated
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA.
 Thus, caution should be exercised when considering the use of STELARA in these patients.
 
-All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of non-melanoma skin cancer (see section 4.8).
+All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
 Systemic and respiratory hypersensitivity reactions
 Systemic
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment.
 Anaphylaxis and angioedema have occurred.
 If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
-
 Infusion-related reactions
 Infusion-related reactions were observed in clinical trials (see section 4.8).
 Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting.
@@ -98,10 +97,16 @@ STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘s
 STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion.
 This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
+Polysorbate 80
+STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.40 mg/mL.
+Polysorbates may cause allergic reactions.
+
 [STELARA 45 mg solution for injection]
 
 Latex sensitivity
 The needle cover on the syringe in the STELARA pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
+
+STELARA contains 0.04 mg (90 mg/1.0mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL.
 
 [STELARA 45 mg solution for injection in pre-filled pen]
 

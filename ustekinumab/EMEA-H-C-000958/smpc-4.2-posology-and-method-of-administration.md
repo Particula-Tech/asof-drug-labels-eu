@@ -2,13 +2,14 @@
 
 STELARA concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease or ulcerative colitis.
 STELARA concentrate for solution for infusion should only be used for the intravenous induction dose.
-
 Posology
 
+Adults
 Crohn’s Disease and Ulcerative Colitis
 STELARA treatment is to be initiated with a single intravenous dose based on body weight.
 The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in
 Table 1 (see section 6.6 for preparation).
+
 Table 1 Initial intravenous dosing of STELARA
 
 Body weight of patient at the time of Recommended dosea Number of 130 mg
@@ -30,7 +31,25 @@ STELARA has not been studied in these patient populations.
 No dose recommendations can be made.
 
 Paediatric population
-The safety and efficacy of STELARA for the treatment of Crohn’s disease or ulcerative colitis in children less than 18 years have not yet been established.
+Paediatric Crohn's disease (patients weighing at least 40 kg)
+STELARA treatment is to be initiated with a single intravenous dose based on body weight.
+The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in
+Table 2 (see section 6.6 for preparation).
+
+Table 2 Initial intravenous dosing of STELARA
+
+Body weight of patient at the time of Recommended dosea Number of 130 mg
+dosing STELARA Vials
+≥40 kg to ≤55 kg 260 mg 2
+> 55 kg to ≤85 kg 390 mg 3
+> 85 kg 520 mg 4
+
+a Approximately 6 mg/kg
+
+The first subcutaneous dose should be given at week 8 following the intravenous dose.
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in prefilled syringe SmPC.
+
+The safety and efficacy of STELARA for the treatment of Crohn’s disease in paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established.
 No data are available.
 
 Method of administration
@@ -69,8 +88,7 @@ Table 1 Recommended dose of STELARA for paediatric psoriasis
 | --- | --- |
 | < 60 kg | 0.75 mg/kg |
 | ≥60-≤100 kg | 45 mg |
-
-> 100 kg 90 mg
+| > 100 kg | 90 mg |
 
 To calculate the volume of injection (mL) for patients < 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2.
 The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe.
@@ -145,7 +163,12 @@ In patients who have responded to treatment with STELARA, corticosteroids may be
 
 In Crohn’s disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-The safety and efficacy of STELARA in treatment of Crohn’s disease or ulcerative colitis in children less than 18 years have not yet been established.
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
+
+Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with STELARA.
+In patients who have responded to treatment with STELARA, these medications maybe reduced or discontinued in accordance with standard of care.
+
+The safety and efficacy of STELARA in treatment of Crohn’s disease for paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established.
 
 STELARA 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.
@@ -160,6 +183,8 @@ For further instructions on preparation and special precautions for handling, se
 [STELARA 45 mg solution for injection in pre-filled pen]
 
 The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients.
-See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
+See section 4.2 of the pre-filled syringe SmPC for posology and method of adminstation in paediatic patients 6 years and older with psoriasis.
+
+See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients weighing at least 40 kg with Crohn’s disease.
 
 STELARA 45 mg and 90 mg pre-filled pens are for subcutaneous injection only.

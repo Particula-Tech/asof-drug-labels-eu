@@ -7,7 +7,6 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 Biotransformation
 The exact metabolic pathway for ustekinumab is unknown.
-
 Elimination
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg.
 Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn’s disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
@@ -17,7 +16,7 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
-No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients.
+No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients weighing less than 40 kg.
 
 In patients with Crohn’s disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution.
 Additionally in Crohn’s disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian).
@@ -26,6 +25,12 @@ Concomitant use of immunomodulators did not have a significant impact on ustekin
 
 Regulation of CYP450 enzymes
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
+
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn’s disease (n=18).
+No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn’s disease (see section 4.5).
+
+Paediatric population
+Serum ustekinumab concentrations in paediatric Crohn’s disease patients weighing at least 40 kg, treated with the recommended weight-based dose were generally comparable to those in the adult Crohn’s disease population treated with the adult weight-based dose.
 
 [STELARA 45 mg solution for injection]
 
@@ -69,6 +74,7 @@ In ulcerative colitis, population PK model based simulations demonstrated that a
 Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
 No specific studies have been conducted in elderly patients.
+
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
 
 The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates.
@@ -79,6 +85,8 @@ The bioavailability of ustekinumab following administration by syringe or pre-fi
 
 Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose.
 Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
+
+The steady-state serum concentrations in paediatric patients with Crohn’s disease weighing at least 40 kg were comparable to those in the adult Crohn’s disease population.
 
 [STELARA 45 mg solution for injection in pre-filled pen]
 

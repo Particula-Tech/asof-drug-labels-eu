@@ -37,6 +37,7 @@ The solution is clear to slightly opalescent, colourless to light yellow and may
 This appearance is not unusual for proteinaceous solutions.
 Before administration, STELARA should be allowed to reach room temperature (approximately half an hour).
 Detailed instructions for use are provided in the package leaflet.
+
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used.
 STELARA is supplied as a sterile, single-use vial or single-use pre-filled syringe.
 The syringe, needle and vial must never be re-used.
