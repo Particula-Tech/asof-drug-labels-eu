@@ -65,7 +65,7 @@ Ketoconazole is contraindicated in patients with acute or chronic hepatic impair
 The treatment must not be initiated in patients with liver enzymes levels above 2 times the upper limit of normal
 
 Paediatric population
-The safety and efficacy of Ketoconazole HRA in children aged less than 12 years have not been established.
+The safety and efficacy of Ketoconazole Esteve in children aged less than 12 years have not been established.
 Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Method of administration

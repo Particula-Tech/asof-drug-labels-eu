@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-HRA Pharma Rare Diseases
-200 avenue de Paris
-92320 CHATILLON
+Esteve RD France SAS
+25 Boulevard Romain Rolland
+92120 MONTROUGE
 France

@@ -88,13 +88,13 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Warfarin and other coumarin-like drugs | Potential ↑in plasma concentrations of warfarin | Careful monitoring INR (international normalised ratio) monitoring recommended. |
 | Edoxaban | AUC: ↑ 1.8-fold Cmax: ↑ 1.8-fold | Dose of edoxaban needs to be reduced when used concomitantly, please consult edoxaban SmPC. |
 | Anticonvulsants |  |  |
-| Carbamazepine Phenytoin | Potential ↑in plasma concentrations of carbamazepine and phenytoin Potential ↓ in plasma concentrations of ketoconazole are expected. (CYP3A enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole HRA ”). |
+| Carbamazepine Phenytoin | Potential ↑in plasma concentrations of carbamazepine and phenytoin Potential ↓ in plasma concentrations of ketoconazole are expected. (CYP3A enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole Esteve ”). |
 | Antidiabetics |  |  |
 | Repaglinide | Repaglinide: AUC: ↑ 1.2-fold Cmax: ↑ 1.2-fold | Careful monitoring. Dose adjustement of repaglinide may be required. |
 | Saxagliptin | Saxagliptin: AUC: ↑ 2.5-fold Cmax: ↑ 1.6-fold Associated with a decrease in corresponding values for the active metabolite | Careful monitoring. Dose adjustment of saxagliptin may be required. |
 | Tolbutamide | Tolbutamide: AUC: ↑ 1.7-fold | Careful monitoring. Dose adjustment of tolbutamide may be required. |
 | Anti-infectives |  |  |
-| Rifabutin Rifampicin Isoniazid | Potential ↑ in plasma concentrations of rifabutine. Potencial ↓ in plasma concentrations of ketoconazole are expected. (CYP3A4 enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole HRA ”) |
+| Rifabutin Rifampicin Isoniazid | Potential ↑ in plasma concentrations of rifabutine. Potencial ↓ in plasma concentrations of ketoconazole are expected. (CYP3A4 enzyme induction) | Not recommended. (See also “Effects of other medicinal products on the metabolism of Ketoconazole Esteve ”) |
 | Telithromycin Clarithromycin | Telithromycine: AUC: ↑ 2-fold Cmax: ↑1.5-fold Potential ↑in plasma concentrations of clarithromycin | Not recommended. Contraindicated in patients with severe renal impairment due to the risk of QT interval prolongation and serious hepatic adverse reactions (see section 4.3). |
 | Isavuconazole | AUC: ↑ 5-fold Cmax: ↑ 1.1 -fold | Not recommended due to increased risk of isavuconazole adverse reactions, please consult isavuconazole SmPC |
 | Praziquantel | ↑in plasma concentrations of praziquantel have been observed | Careful monitoring. Dose adjustment of praziquantel may be required. |
@@ -127,7 +127,7 @@ The following list is not an inclusive list of interactions between ketoconazole
 | Nevirapine | Ketoconazole: AUC: ↓0.28-fold Cmax: ↓0.56-fold Nevirapine: plasma levels: ↑1.15-1.28-fold compared to historical controls (CYP3A enzyme induction) | Not recommended |
 | Maraviroc | Maraviroc: AUC: ↑ 5-fold Cmax: ↑ 3.4-fold | Careful monitoring. Maraviroc dose should be decreased to 150 mg twice daily. |
 | Indinavir | Indinavir (600mg TID): AUC= 0.8-fold Cmin: ↑ 1.3-fold (Relative to Indinavir 800 mg TID alone) | Careful monitoring. Dose reduction of indinavir to 600 mg every 8 hours should be considered. |
-| Ritonavir | Ketoconazole: AUC: ↑3.4-fold Cmax: ↑1.6-fold (CYP3A enzyme inhibition) | A dose reduction of ketoconazole should be considered when co-administered with ritonavir dosed as an antiretroviral medicinal product or as a pharmacokinetic enhancer. (See also “Effects of other medicinal products on the metabolism of ketoconazole HRA ”). |
+| Ritonavir | Ketoconazole: AUC: ↑3.4-fold Cmax: ↑1.6-fold (CYP3A enzyme inhibition) | A dose reduction of ketoconazole should be considered when co-administered with ritonavir dosed as an antiretroviral medicinal product or as a pharmacokinetic enhancer. (See also “Effects of other medicinal products on the metabolism of ketoconazole Esteve ”). |
 | Beta Blockers |  |  |
 | Nadolol | ↑in plasma concentrations of nadolol have been observed | Careful monitoring. Dose adjustment of nadolol may be required. |
 | Calcium Channel Blockers |  |  |

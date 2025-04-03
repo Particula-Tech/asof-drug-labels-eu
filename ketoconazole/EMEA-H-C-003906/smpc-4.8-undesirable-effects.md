@@ -55,7 +55,7 @@ Adrenal insufficiency
 Adrenal insufficiency may occur in patients on ketoconazole without corticosteroid substitution (block-only regimen) or if there is an insufficient glucocorticoid replacement therapy (for the patients treated with a block-and-replace regimen).
 Monitor and instruct patients on the signs and symptoms associated with hypocortisolism (e.g. weakness, fatigue, anorexia, nausea, vomiting, hypotension, hyperkalemia, hyponatraemia, hyperkalaemia or hypoglycaemia).
 Adrenal insufficiency may be detected by periodic clinical assessment and monitoring of plasma/serum or salivary cortisol levels.
-In case of adrenal insufficiency, Ketoconazole HRA treatment should be temporarily discontinued or the dose reduced and, if needed, a corticosteroid substitution therapy added.
+In case of adrenal insufficiency, Ketoconazole Esteve treatment should be temporarily discontinued or the dose reduced and, if needed, a corticosteroid substitution therapy added.
 
 Paediatric population
 Frequency of hepatotoxicity could be higher in adolescents than in adults.
