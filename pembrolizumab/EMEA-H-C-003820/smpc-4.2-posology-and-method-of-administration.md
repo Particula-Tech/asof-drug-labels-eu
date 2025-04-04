@@ -51,8 +51,8 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
 |  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
-| Hepatitis NOTE: for RCC patients treated with pembrolizumab in | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
-| combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
+| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
 |  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
 | Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
@@ -77,7 +77,6 @@ For Grade 4 haematological toxicity, only in patients with cHL, KEYTRUDA should 
 KEYTRUDA in combination with axitinib in RCC
 For RCC patients treated with KEYTRUDA in combination with axitinib, see the SmPC regarding dosing of axitinib.
 When used in combination with pembrolizumab, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer (see section 5.1).
-
 For liver enzyme elevations, in patients with RCC being treated with KEYTRUDA in combination with axitinib:
 
 - If ALT or AST ≥ 3 times ULN but < 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both KEYTRUDA and axitinib should be withheld until these adverse reactions recover to Grades 0-1.

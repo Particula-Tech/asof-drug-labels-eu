@@ -11,6 +11,7 @@ Immune-mediated adverse reactions, including severe and fatal cases, have occurr
 Most immune-mediated adverse reactions occurring during treatment with pembrolizumab were reversible and managed with interruptions of pembrolizumab, administration of corticosteroids and/or supportive care.
 Immune-mediated adverse reactions have also occurred after the last dose of pembrolizumab.
 Immune-mediated adverse reactions affecting more than one body system can occur simultaneously.
+
 For suspected immune-mediated adverse reactions, adequate evaluation to confirm aetiology or exclude other causes should be ensured.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
@@ -37,7 +38,6 @@ Immune-mediated hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
 Corticosteroids should be administered (initial dose of 0.5-1 mg/kg/day (for Grade 2 events) and 1-2 mg/kg/day (for Grade ≥ 3 events) prednisone or equivalent followed by a taper) and, based on severity of liver enzyme elevations, pembrolizumab should be withheld or discontinued (see section 4.2).
-
 Immune-mediated nephritis
 Nephritis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in renal function, and other causes of renal dysfunction excluded.
@@ -47,6 +47,7 @@ Immune-mediated endocrinopathies
 Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
 Long-term hormone replacement therapy may be necessary in cases of immune-mediated endocrinopathies.
+
 Adrenal insufficiency (primary and secondary) has been reported in patients receiving pembrolizumab.
 Hypophysitis has also been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of adrenal insufficiency and hypophysitis (including hypopituitarism) and other causes excluded.
@@ -75,7 +76,6 @@ Immune-mediated skin adverse reactions
 Immune-mediated severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld for Grade 3 skin reactions until recovery to Grade ≤ 1 or permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered (see section 4.2).
-
 Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving pembrolizumab (see section 4.8).
 For suspected SJS or TEN, pembrolizumab should be withheld and the patient should be referred to a specialised unit for assessment and treatment.
 If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (see section 4.2).
@@ -83,7 +83,8 @@ If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (se
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
 
 Other immune-mediated adverse reactions
-The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective and hypoparathyroidism (see sections 4.2 and 4.8).
+The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective, hypoparathyroidism and pericarditis (see sections 4.2 and 4.8).
+
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
@@ -124,6 +125,7 @@ Use of pembrolizumab in urothelial carcinoma patients who have received prior pl
 Physicians should consider the delayed onset of pembrolizumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In urothelial carcinoma, a higher number of deaths within 2 months was observed in pembrolizumab compared to chemotherapy (see section 5.1).
 Factors associated with early deaths were fast progressive disease on prior platinum therapy and liver metastases.
+
 Use of pembrolizumab in urothelial carcinoma for patients who are considered ineligible for cisplatin-containing chemotherapy and whose tumours express PD-L1 with CPS ≥ 10
 The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, for whom the benefit has been assessed in a comparative study (KEYNOTE-361).
 In KEYNOTE-361, a higher number of deaths within 6 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
@@ -145,7 +147,6 @@ Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in patients with HNSCC whose tumours express PD-L1 (see section 5.1).
-
 Use of pembrolizumab for treatment of patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma
 A direct comparison of pembrolizumab when used in combination with lenvatinib to pembrolizumab monotherapy is not available.
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with lenvatinib) before initiating treatment in patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma.
@@ -179,7 +180,6 @@ Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (
 There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
-
 Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
