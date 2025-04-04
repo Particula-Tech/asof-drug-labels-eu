@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R gating (class III), G970R or R117H mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-110 (see section 5.1).
+Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R gating (Class III), G970R or R117H mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-110 (see section 5.1).
 
 In study 770-111, four patients with the G970R mutation were included.
 In three of four patients the change in the sweat chloride test was < 5 mmol/L and this group did not demonstrate a clinically relevant improvement in FEV1 after 8 weeks of treatment.
@@ -12,7 +12,6 @@ Therefore, use of ivacaftor as monotherapy in these patients is not recommended.
 Less evidence of a positive effect of ivacaftor has been shown for patients with an R117H-7T mutation associated with less severe disease in study 770-110 (see section 5.1).
 
 Ivacaftor in a combination regimen with tezacaftor/ivacaftor should not be prescribed in patients with CF who are heterozygous for the F508del mutation and have a second CFTR mutation not listed in section 4.1.
-
 Elevated transaminases and hepatic injury
 
 In a patient with cirrhosis and portal hypertension, liver failure leading to transplantation has been reported while receiving ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
@@ -44,6 +43,13 @@ Patients (and caregivers) should be alerted about the need to monitor for depres
 Renal impairment
 
 Caution is recommended while using ivacaftor in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
+
+Mutations unlikely to respond to modulator therapy
+
+Patients with a genotype consisting of two CFTR mutations that are known not to produce CFTR protein (i.e., two Class I mutations) are not expected to respond to CFTR modulator therapy.
+Clinical studies comparing ivacaftor/tezacaftor/elexacaftor to tezacaftor/ivacaftor or ivacaftor
+
+No clinical study has been conducted to directly compare ivacaftor/tezacaftor/elexacaftor to tezacaftor/ivacaftor or ivacaftor in patients not harbouring F508del variants.
 
 Patients after organ transplantation
 
@@ -82,14 +88,13 @@ Lactose
 
 This medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [Kalydeco 13.4 mg granules in sachet]
 
-Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R gating (class III) or G970R mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-108 (see section 5.1).
+Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R gating (Class III) or G970R mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-108 (see section 5.1).
 
 Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor as monotherapy and in combination regimens with ivacaftor/tezacaftor/elexacaftor.
 
@@ -100,6 +105,8 @@ Patients with severe hepatic impairment should not be treated with ivacaftor in 
 For patients with moderate hepatic impairment, use of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor is not recommended.
 
 Depression (including suicidal ideation and suicide attempt) has been reported in patients while receiving ivacaftor, mainly in a combination regimen with ivacaftor/tezacaftor/elexacaftor, usually occurring within three months of treatment initiation and in patients with a history of psychiatric disorders.
+
+No clinical study has been conducted to directly compare ivacaftor/tezacaftor/elexacaftor to tezacaftor/ivacaftor or ivacaftor in patients not harbouring F508del variant.
 
 Exposure to ivacaftor is increased when co-administered with strong or moderate CYP3A inhibitors.
 Treatment with ivacaftor monotherapy is not recommended in patients aged 1 month to less than 6 months taking strong or moderate CYP3A inhibitors.

@@ -31,7 +31,7 @@ M1 and M6 are the two major metabolites of ivacaftor in humans.
 M1 has approximately one-sixth the potency of ivacaftor and is considered pharmacologically active.
 M6 has less than one-fiftieth the potency of ivacaftor and is not considered pharmacologically active.
 
-The effect of the CYP3A4*22 heterozygous genotype on ivacaftor, tezacaftor and elexacaftor exposure is consistent with the effect of co-administration of a weak CYP3A4 inhibitor, which is not clinically relevant.
+The effect of the CYP3A4*22 heterozygous genotype on ivacaftor, tezacaftor, and elexacaftor exposure is consistent with the effect of co-administration of a weak CYP3A4 inhibitor, which is not clinically relevant.
 No dose-adjustment of ivacaftor, tezacaftor, or elexacaftor is considered necessary.
 The effect in CYP3A4*22 homozygous genotype patients is expected to be stronger.
 However, no data are available for such patients.
@@ -60,7 +60,6 @@ In subjects with moderately impaired hepatic function (Child-Pugh Class B, score
 
 The impact of severe hepatic impairment (Child-Pugh Class C, score 10 to15) on the pharmacokinetics of ivacaftor has not been studied.
 The magnitude of increase in exposure in these patients is unknown but is expected to be higher than that observed in patients with moderate hepatic impairment.
-
 For guidance on appropriate use and dose modification see Table 3 in section 4.2.
 
 Renal impairment
@@ -71,6 +70,7 @@ There was negligible urinary excretion of ivacaftor as unchanged parent (less th
 
 No dose adjustments are recommended for mild and moderate renal impairment.
 Caution is recommended when administering ivacaftor to patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease (see sections 4.2 and 4.4).
+
 Race
 
 Race had no clinically meaningful effect on the PK of ivacaftor in white (n = 379) and non-white
@@ -88,11 +88,11 @@ The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in th
 
 Paediatric population
 
-Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using compartmental analysis is presented by age group in Table 9.
+Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using compartmental analysis is presented by age group in Table 10.
 
-Table 9: Mean (SD) ivacaftor exposure by age group
+Table 10: Mean (SD) ivacaftor exposure by age group
 
-| Age group | Dose | Cmin, ss (µg/mL) | AUC0-12h, ss (µg∙h/mL) |
+| Age group | Dose | Cmin, ss (µg/mL) | AUC0-12h, (µg∙hss/ mL) |
 | --- | --- | --- | --- |
 | 1 month to less than 2 months (≥ 3 kg)⁎ | 13.4 mg q24h | 0.300 (0.221)† | 5.84 (2.98)† |
 | 2 months to less than 4 months (≥ 3 kg)⁎ | 13.4 mg q12h | 0.406 (0.266)† | 6.45 (3.43)† |
@@ -136,11 +136,11 @@ However, caution is recommended when administering ivacaftor to patients with se
 
 Clinical studies of ivacaftor as monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
-Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using compartmental analysis is presented by age group in Table 10.
+Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using compartmental analysis is presented by age group in Table 11.
 
-Table 10: Mean (SD) ivacaftor exposure by age group
+Table 11: Mean (SD) ivacaftor exposure by age group
 
-| Age group | Dose | Cmin, ss (µg/mL) | AUC0-12h, ss (µg∙h/mL) |
+| Age group | Dose | Cmin, ss (µg/mL) | AUC0-12h, (µg∙hss/ mL) |
 | --- | --- | --- | --- |
 | 1 month to less than 2 months (≥ 3 kg)⁎ | 13.4 mg q24h | 0.300 (0.221)† | 5.84 (2.98)† |
 | 2 months to less than 4 months (≥ 3 kg)⁎ | 13.4 mg q12h | 0.406 (0.266)† | 6.45 (3.43)† |

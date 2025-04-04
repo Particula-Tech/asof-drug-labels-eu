@@ -51,8 +51,8 @@ Table 4: Adverse reactions
 |  | Aspartate aminotransferase increased† | common |
 |  | Liver injury^ | not known |
 |  | Total bilirubin increase^ | not known |
-|  | Rash | very common |
-| Skin and subcutaneous tissue disorders | Acne† | common |
+| Skin and subcutaneous tissue disorders | Rash | very common |
+|  | Acne† | common |
 |  | Pruritus† | common |
 | Reproductive system and breast disorders | Breast mass | common |
 |  | Breast inflammation | uncommon |
@@ -89,6 +89,7 @@ During the 24-week, placebo-controlled, phase 3 study of ivacaftor/tezacaftor/el
 The incidence of adverse reactions of transaminase elevations was 10.9% in ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor-treated patients and 4.0% in placebo-treated patients.
 
 Post-marketing cases of treatment discontinuation due to elevated transaminases have been reported (see section 4.4).
+
 Rash events
 
 In study 445-102, the incidence of rash events (e.g., rash, rash pruritic) was 10.9% in ivacaftor/tezacaftor/elexacaftor-treated patients and 6.5% in placebo-treated patients.
@@ -108,7 +109,6 @@ In study 445-102, the maximum increase from baseline in mean systolic and diasto
 
 The proportion of patients who had systolic blood pressure > 140 mmHg or diastolic blood pressure
 > 90 mmHg on at least two occasions was 5.0% and 3.0%, respectively in ivacaftor/tezacaftor/elexacaftor-treated patients compared with 3.5% and 3.5%, respectively in placebo-treated patients.
-
 Paediatric population
 
 Ivacaftor as monotherapy
@@ -117,7 +117,7 @@ Safety of ivacaftor as monotherapy for 24 weeks was evaluated in 43 patients bet
 
 The safety profile of ivacaftor (as monotherapy or in a combination regimen) is generally consistent among paediatric patients and is also consistent with adult patients.
 
-The incidence of transaminase elevations (ALT or AST) observed in studies770-103, 770-111 and 770-110 (patients aged 6 to less than 12 years), study 770-108 (patients aged 2 to less than 6 years), and study 770-124 (patients aged 1 to less than 24 months) are described in Table 5.
+The incidence of transaminase elevations (ALT or AST) observed in studies 770-103, 770-111 and 770-110 (patients aged 6 to less than 12 years), study 770-108 (patients aged 2 to less than 6 years), and study 770-124 (patients aged 1 to less than 24 months) are described in Table 5.
 In the placebo-controlled studies, the incidence of transaminase elevations were similar between treatment with ivacaftor (15.0%) and placebo (14.6%).
 Peak LFT elevations were generally higher in paediatric patients than in older patients.
 Across all populations, peak LFT elevations returned to baseline levels following interruption, and in almost all instances where dosing was interrupted for elevated transaminases and subsequently resumed, ivacaftor dosing was able to be resumed successfully (see section 4.4).
@@ -125,13 +125,14 @@ Cases suggestive of positive rechallenge were observed.
 
 In study 770-108 ivacaftor was permanently discontinued in one patient.
 In study 770-124, in the cohort of patients aged 1 month to less than 4 months, a 1-month old (14.3%) patient had transaminase values of ALT > 8 × ULN and AST > 3 to ≤ 5 × ULN, which led to discontinuation of ivacaftor treatment (see section 4.4 for management of elevated transaminases).
+
 Table 5: Transaminase elevations in patients aged 1 month to < 12 years treated with ivacaftor as monotherapy
 
 | Age group | n | % of Patients > 3 × ULN | % of Patients > 5 × ULN | % of Patients > 8 × ULN |
 | --- | --- | --- | --- | --- |
 | 6 to < 12 years | 40 | 15.0% (6) | 2.5% (1) | 2.5% (1) |
 | 2 to < 6 years | 34 | 14.7% (5) | 14.7% (5) | 14.7% (5) |
-| 12 to <24 months | 18 | 27.8% (5) | 11.1% (2) | 11.1% (2) |
+| 12 to < 24 months | 18 | 27.8% (5) | 11.1% (2) | 11.1% (2) |
 | 1 to < 12 months | 24 | 8.3% (2) | 4.2% (1) | 4.2% (1) |
 
 Ivacaftor in a combination regimen with tezacaftor/ivacaftor
@@ -145,10 +146,9 @@ The safety profile is generally consistent among children and adolescents, and i
 During the 24-week, open-label phase 3 study in patients aged 6 to less than 12 years (study 661-113 part B, n = 70), the incidence of maximum transaminase (ALT or AST) > 8, > 5, and > 3 × ULN were 1.4%, 4.3%, and 10.0%, respectively.
 No tezacaftor/ivacaftor treated patients experienced a transaminase elevation > 3 × ULN associated with elevated total bilirubin > 2 × ULN or discontinued tezacaftor/ivacaftor treatment due to transaminase elevations.
 One patient interrupted treatment due to elevated transaminases, and subsequently resumed tezacaftor/ivacaftor treatment successfully (see section 4.4 for management of elevated transaminases).
-
 Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor
 
-The safety data of ivacaftor/tezacaftor/elexacaftor in combination with ivacaftor in studies 445-102, 445-103, 445-104, 445-106 and 445-111 was evaluated in 228 patients between 2 to less than 18 years of age.
+The safety data of ivacaftor/tezacaftor/elexacaftor in combination with ivacaftor in studies 445-102, 445-103, 445-104, 445-106, 445-111, and 445-124 was evaluated in 272 patients between 2 to less than 18 years of age.
 The safety profile is generally consistent among paediatric and adult patients.
 
 During study 445-106 in patients aged 6 to less than 12 years, the incidence of maximum transaminase (ALT or AST) > 8, > 5, and > 3 × ULN were 0.0%, 1.5%, and 10.6%, respectively.
@@ -158,10 +158,13 @@ During study 445-111 in patients aged 2 to less than 6 years, the incidence of m
 No ivacaftor/tezacaftor/elexacaftor-treated patients had transaminase elevation > 3 × ULN associated with elevated total bilirubin > 2 × ULN or discontinued treatment due to transaminase elevations (see section 4.4).
 
 Rash
+
 During study 445-111 in patients aged 2 to less than 6 years, 15 (20.0%) subjects had at least 1 rash event, 4 (9.8%) females and 11 (32.4%) males.
 
 Lenticular opacity
+
 One patient had an adverse event of lenticular opacity.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -227,13 +230,11 @@ During the 48-week placebo-controlled studies 770-102 and 770-103 in patients ag
 Two patients, one on placebo and one on ivacaftor, permanently discontinued treatment for elevated transaminases, each > 8 × ULN.
 
 No patients treated with tezacaftor/ivacaftor experienced a transaminase elevation
-> 3 ×ULN associated with elevated total bilirubin > 2 × ULN.
+> 3 × ULN associated with elevated total bilirubin > 2 × ULN.
 
 Post-marketing cases of treatment discontinuation due to elevated transaminases have been reported with ivacaftor/tezacaftor/elexacaftor (see section 4.4).
 
 The safety profile is generally consistent among paediatric patients aged 1 month and older and is also consistent with adult patients.
-
-The incidence of transaminase elevations (ALT or AST) observed in studies 770-103, 770-111 and 770-110 (patients aged 6 to less than 12 years), study 770-108 (patients aged 2 to less than 6 years), and study 770-124 (patients aged 1 to less than 24 months) are described in Table 5.
 
 In study 770-124, in the cohort of patients aged 1 month to less than 4 months, a 1-month old (14.3%) patient had transaminase values of ALT > 8 × ULN and AST of > 3 to ≤ 5 × ULN, which led to discontinuation of ivacaftor treatment (see section 4.4 for management of elevated transaminases).
 
@@ -241,7 +242,7 @@ In study 770-124, in the cohort of patients aged 1 month to less than 4 months, 
 | --- | --- | --- | --- | --- |
 | 6 to < 12 years | 40 | 15.0% (6) | 2.5% (1) | 2.5% (1) |
 | 2 to < 6 years | 34 | 14.7% (5) | 14.7% (5) | 14.7% (5) |
-| 12 to <24 months | 18 | 27.8% (5) | 11.1% (2) | 11.1% (2) |
+| 12 to < 24 months | 18 | 27.8% (5) | 11.1% (2) | 11.1% (2) |
 | 1 to < 12 months | 24 | 8.3% (2) | 4.2% (1) | 4.2% (1) |
 
 No tezacaftor/ivacaftor-treated patients experienced a transaminase elevation > 3 × ULN associated with elevated total bilirubin > 2 × ULN or discontinued tezacaftor/ivacaftor treatment due to transaminase elevations.

@@ -12,6 +12,7 @@ Co-administration of ivacaftor with rifampicin, a strong CYP3A inducer, decrease
 Co-administration of ivacaftor with strong CYP3A inducers, such as rifampicin, rifabutin, phenobarbital, carbamazepine, phenytoin and St. John’s wort (Hypericum perforatum), is not recommended (see section 4.4).
 
 No dose adjustment is recommended when ivacaftor is used with moderate or weak CYP3A inducers.
+
 CYP3A inhibitors
 
 Ivacaftor is a sensitive CYP3A substrate.
@@ -34,7 +35,6 @@ Ciprofloxacin
 
 Co-administration of ciprofloxacin with ivacaftor did not affect the exposure of ivacaftor.
 No dose adjustment is required when ivacaftor is co-administered with ciprofloxacin.
-
 Medicinal products affected by ivacaftor
 
 Administration of ivacaftor may increase systemic exposure of medicinal products that are sensitive substrates of CYP2C9, and/or P-gp, and/or CYP3A which may increase or prolong their therapeutic effect and adverse reactions.
