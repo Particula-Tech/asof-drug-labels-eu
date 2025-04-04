@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Esteve RD France SAS
-25 Boulevard Romain Rolland
-92120 MONTROUGE
-France
+Esteve Pharmaceuticals S.A.
+Passeig de La Zona Franca 109 Planta 4
+08038 Barcelona
+Spain
