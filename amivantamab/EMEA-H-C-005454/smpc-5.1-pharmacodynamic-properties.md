@@ -5,9 +5,9 @@ Pharmacotherapeutic group: Monoclonal antibodies and antibody drug conjugates, A
 Mechanism of action
 Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, Exon 21 L858R substitution, and Exon 20 insertion mutations.
 Amivantamab binds to the extracellular domains of EGFR and MET.
-
 Amivantamab disrupts EGFR and MET signalling functions through blocking ligand binding and enhancing degradation of EGFR and MET, thereby preventing tumour growth and progression.
 The presence of EGFR and MET on the surface of tumour cells also allows for targeting of these cells for destruction by immune effector cells, such as natural killer cells and macrophages, through antibody-dependent cellular cytotoxicity (ADCC) and trogocytosis mechanisms, respectively.
+
 Pharmacodynamic effects
 
 Albumin
@@ -230,3 +230,76 @@ No overall differences in effectiveness were observed between patients ≥65 yea
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Rybrevant in all subsets of the paediatric population in non-small cell lung cancer (see section 4.2 for information on paediatric use).
+
+[Rybrevant 1600 mg solution for injection]
+
+Rybrevant subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20). rHuPH20 works locally and transiently to degrade hyaluronan ((HA), a naturally occurring glycoaminoglycan found throughout the body) in the extracellular matrix of the subcutaneous space by cleaving the linkage between the two sugars (N-acetylglucosamine and glucuronic acid), which comprise HA.
+
+Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, Exon 21 L858R substitution and Exon 20 insertion mutations.
+
+After the first full dose of Rybrevant subcutaneous formulation, mean serum EGFR and MET concentrations decreased substantially and remained suppressed for the duration of treatment for all studied doses.
+
+Rybrevant subcutaneous formulation decreased serum albumin concentration, a pharmacodynamic effect of MET inhibition, typically during the first 8 weeks (see section 4.8); thereafter, albumin concentration stabilised for the remainder of amivantamab treatment.
+
+Clinical experience of Rybrevant subcutaneous formulation
+
+The efficacy of Rybrevant subcutaneous formulation in patients with EGFR-mutated locally advanced or metastatic NSCLC is based on achieving non-inferior PK exposure to intravenous amivantamab in the non-inferiority study PALOMA-3 (see section 5.2).
+The study demonstrated non-inferior efficacy of subcutaneous to intravenous amivantamab given in combination with lazertinib in patients with EGFR-mutated locally advanced or metastatic NSCLC whose disease has progressed on or after treatment with osimertinib and platinum-based chemotherapy.
+Clinical experience of Rybrevant intravenous formulation
+
+NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant intravenous formulation in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy.
+
+A total of 1074 patients were randomised (2:2:1) to receive Rybrevant intravenous formulation in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity.
+Rybrevant intravenous formulation was administered intravenously at 1050 mg (for patients < 80 kg) or 1400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5.
+
+Rybrevant intravenous formulation in combination with lazertinib demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
+
+Table 6: Efficacy results in MARIPOSA
+
+|  | Rybrevant intravenous formulation + lazertinib (N=429) | Osimertinib (N=429) |
+| --- | --- | --- |
+| Progression-free survival (PFS)a |  |  |
+| Number of events | 192 (45%) | 252 (59%) |
+| Median, months (95% CI) | 23.7 (19.1, 27.7) | 16.6 (14.8, 18.5) |
+| Hazard Ratio (95% CI); p-value | 0.70 (0.58, 0.85); p=0.0002 |  |
+| Overall survival (OS) |  |  |
+| Number of events | 142 (33%) | 177 (41%) |
+| Median, months (95% CI) | NE (NE, NE) | 37.3 (32.5, NE) |
+| Hazard Ratio (95% CI); p-valueb | 0.77 (0.61, 0.96); p=0.0185 |  |
+| Objective response rate (ORR)a, c |  |  |
+| ORR % (95% CI) | 80% (76%, 84%) | 77% (72%, 81%) |
+| Duration of response (DOR)a, c |  |  |
+| Median (95% CI), months | 25.8 (20.3, 33.9) | 18.1 (14.8, 20.1) |
+
+In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant intravenous formulation and lazertinib, demonstrated similar intracranial ORR to the control.
+Results are summarised in Table 7.
+
+Table 7: Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline - MARIPOSA
+
+|  | Rybrevant intravenous formulation + lazertinib (N=180) | Osimertinib (N=186) |
+| --- | --- | --- |
+| Intracranial tumour response assessment |  |  |
+| Intracranial ORR (CR+PR), % (95% CI) | 77% (70%, 83%) | 77% (70%, 82%) |
+| Complete response | 63% | 59% |
+| Intracranial DOR |  |  |
+| Number of responders | 139 | 144 |
+| Median, months (95% CI) | NE (21.4, NE) | 24.4 (22.1, 31.2) |
+
+Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
+
+CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant intravenous formulation in patients with locally advanced or metastatic NSCLC.
+Rybrevant intravenous formulation was administered intravenously at 1050 mg for patients < 80 kg or 1400 mg for patients ≥80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity.
+
+At baseline, 29% had ECOG performance status of 0 and 70% had ECOG performance status of 1; 57% never smoked; 100% had Stage IV cancer; and 25% had previous treatment for brain metastases.
+
+Efficacy results are summarised in Table 8.
+
+Table 8: Efficacy results in CHRYSALIS
+
+Immunogenicity
+Anti-drug antibodies (ADA) were uncommonly detected after treatment with Rybrevant subcutaneous formulation.
+No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
+Among the 389 participants who received Rybrevant subcutaneous formulation as monotherapy or as part of combination therapy, 37 participants (10%) were positive for treatment-emergent antibodies to rHuPH20.
+The immunogenicity to rHuPH20 observed in these participants did not impact the pharmacokinetics of amivantamab.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Rybrevant in all subsets of the paediatric population in NSCLC (see section 4.2 for information on paediatric use).

@@ -33,3 +33,31 @@ Administration
 
 Disposal
 This medicinal product is for single use only and any unused medicinal product that is not administered within 10 hours should be disposed of in accordance with local requirements.
+
+[Rybrevant 1600 mg solution for injection]
+
+Rybrevant subcutaneous formulation is for single use only and is ready to use.
+
+The solution for injection should be prepared using aseptic technique as follows:
+
+- Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial needed based on the patient’s baseline weight (see section 4.2).
+- Patients < 80 kg receive 1600 mg and for patients ≥80 kg, 2240 mg weekly from Weeks 1 to 4 and then every 2 weeks starting at Week 5 onwards.
+- Remove the appropriate Rybrevant subcutaneous formulation vial from refrigerated storage (2°C to 8°C).
+  Do not use if opaque particles, discolouration or other foreign particles are present.
+- Equilibrate Rybrevant subcutaneous formulation to room temperature (15°C to 30°C) for at least 15 minutes.
+  Do not warm Rybrevant subcutaneous formulation in any other way.
+- Withdraw the required injection volume of Rybrevant subcutaneous formulation from the vial into an appropriately sized syringe using a transfer needle.
+  Smaller syringes require less force during preparation and administration.
+- Rybrevant subcutaneous formulation is compatible with stainless steel injection needles, polypropolene and polycarbonate syringes, and polyethylene, polyurethane, and polyvinylchloride subcutaneous infusion sets.
+  A sodium chloride 9 mg/mL (0.9%) solution may also be used to flush an infusion set if needed.
+- Replace the transfer needle with the approriate ancillaries for transport or administration.
+  Use of a 21G to 23G needle or infusion set is recommended to ensure ease of administration.
+
+Storage of prepared syringe
+The prepared syringe should be administered immediately.
+If immediate administration is not possible, store the prepared syringe refrigerated at 2°C to 8°C for up to 24 hours followed by at room temperature of 15°C to 30°C for up to 24 hours.
+The prepared syringe should be discarded if stored for more than 24 hours refrigerated or more than 24 hours at room temperature.
+If stored in the refrigerator, the solution should come up to room temperature before administration.
+
+This medicinal product is for single use only.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

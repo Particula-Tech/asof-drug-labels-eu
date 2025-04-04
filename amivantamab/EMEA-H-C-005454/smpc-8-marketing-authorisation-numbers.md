@@ -1,3 +1,8 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1594/001
+
+[Rybrevant 1600 mg solution for injection]
+
+EU/1/21/1594/002
+EU/1/21/1594/003

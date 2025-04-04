@@ -260,7 +260,6 @@ Rash leading to amivantamab discontinuation occurred in 5.5% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
 Nail toxicity occurred in patients treated with amivantamab in combination with lazertinib.
 Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 11% of patients (see section 4.4).
-
 Eye disorders
 Eye disorders, including keratitis (0.5%), occurred in 9% of patients treated with amivantamab alone.
 Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.
@@ -269,6 +268,7 @@ All events were Grade 1-2.
 Eye disorders, including keratitis (0.3%), occurred in 11% of patients treated with amivantamab in combination with carboplatin and pemetrexed.
 Other reported adverse reactions included growth of eyelashes, visual impairment, uveitis, and other eye disorders.
 All events were Grade 1-2 (see section 4.4).
+
 Eye disorders, including keratitis (2.6%) occurred in patients treated with amivantamab in combination with lazertinib.
 Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.
 Most events were Grade 1-2 (see section 4.4).
@@ -288,6 +288,168 @@ There was no evidence of an altered pharmacokinetic, efficacy, or safety profile
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-listed in Appendix V.
+[Rybrevant 1600 mg solution for injection]
+
+Rybrevant as monotherapy
+In the dataset of Rybrevant intravenous formulation as monotherapy (N=380), the most frequent adverse reactions in all grades were rash (76%), infusion-related reactions (67%), nail toxicity (47%), hypoalbuminaemia (31%), oedema (26%), fatigue (26%), stomatitis (24%), nausea (23%), and constipation (23%).
+
+Table 4 summarises the adverse drug reactions that occurred in patients receiving Rybrevant as monotherapy.
+
+The data reflects exposure to Rybrevant intravenous formulation in 380 patients with locally advanced or metastatic non-small cell lung cancer after failure of platinum-based chemotherapy.
+
+Table 4: Adverse reactions in patients receiving Rybrevant as monotherapy (N=380)
+
+| System organ class Adverse reaction | Frequency category | Any grade (%) | Grade 3-4 (%) |
+| --- | --- | --- | --- |
+| Metabolism and nutrition disorders |  |  |  |
+| Hypoalbuminaemia* (see section 5.1) | Very common | 31 | 2† |
+| Decreased appetite |  | 16 | 0.5† |
+| Hypocalcaemia |  | 10 | 0.3† |
+| Hypokalaemia | Common | 9 | 2 |
+| Hypomagnesaemia |  | 8 | 0 |
+| Nervous system disorders |  |  |  |
+| Dizziness* | Very common | 13 | 0.3† |
+| Eye disorders |  |  |  |
+| Visual impairment* | Common | 3 | 0 |
+| Growth of eyelashes* |  | 1 | 0 |
+| Other eye disorders* |  | 6 | 0 |
+| Keratitis | Uncommon | 0.5 | 0 |
+| Uveitis |  | 0.3 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |
+| Interstitial lung disease* | Common | 3 | 0.5† |
+| Gastrointestinal disorders |  |  |  |
+| Diarrhoea | Very common | 11 | 2† |
+| Stomatitis* |  | 24 | 0.5† |
+| Nausea |  | 23 | 0.5† |
+| Constipation |  | 23 | 0 |
+| Vomiting |  | 12 | 0.5† |
+| Abdominal pain* | Common | 9 | 0.8† |
+| Haemorrhoids |  | 3.7 | 0 |
+| Hepatobiliary disorders |  |  |  |
+| Alanine aminotransferase increased | Very common | 15 | 2 |
+| Aspartate aminotransferase increased |  | 13 | 1 |
+| Blood alkaline phosphatase increased |  | 12 | 0.5† |
+| Skin and subcutaneous tissue disorders |  |  |  |
+| Rash* | Very common | 76 | 3† |
+| Nail toxicity* |  | 47 | 2† |
+| Dry skin* |  | 19 | 0 |
+| Pruritus |  | 18 | 0 |
+| Toxic epidermal necrolysis | Uncommon | 0.3 | 0.3† |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+| Myalgia | Very common | 11 | 0.3† |
+| General disorders and administration site conditions |  |  |  |
+| Oedema* | Very common | 26 | 0.8† |
+| Fatigue* |  | 26 | 0.8† |
+| Pyrexia |  | 11 | 0 |
+| Injury, poisoning and procedural complications |  |  |  |
+| Infusion-related reaction | Very common | 67 | 2 |
+
+Rybrevant in combination with lazertinib
+Overall, the safety profile of Rybrevant subcutaneous formulation was consistent with the established safety profile of Rybrevant intravenous formulation, with a lower incidence of administration-related reactions and VTEs observed with the subcutaneous formulation compared to the intravenous formulation.
+
+In the dataset of Rybrevant (either intravenous or subcutaneous formulations) in combination with lazertinib (N=752), the most frequent adverse reactions of any grade (≥20% patients) were rash (87%), nail toxicity (67%), hypoalbuminaemia (48%), hepatotoxicity (43%), stomatitis (43%), oedema (42%), fatigue (35%), paraesthesia (29%), constipation (26%), diarrhoea (26%), dry skin (25%), decreased appetite (24%), nausea (24%), and pruritus (23%).
+
+Clinically relevant differences between the intravenous and subcutaneous formulations, when given in combination with lazertinib, were observed for administration-related reactions (63% for intravenous vs. 14% for subcutaneous) and VTE (37% for intravenous vs. 11% for subcutaneous).
+
+Serious adverse reactions were reported in 14% of patients who received Rybrevant subcutaneous formulation in combination with lazertinib, including ILD (4.2%), VTE (2.7%), hepatotoxicity (2.1%), and fatigue (1.5%).
+Seven percent of patients discontinued Rybrevant subcutaneous formulation due to adverse reactions.
+In patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, the most frequent adverse reactions of any grade (≥1% patients) leading to discontinuation of Rybrevant subcutaneous formulation were ILD (3.6%) and rash (1.5%).
+
+The adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with lazertinib are summarised in Table 5.
+
+The safety data below reflect exposure to Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib in 752 patients with locally advanced or metastatic NSCLC, including 421 patients in MARIPOSA, 125 patients in PALOMA-2 cohorts 1 and 6, and 206 patients in PALOMA-3 subcutaneous arm.
+Patients received Rybrevant (either intravenous or subcutaneous formulation) until disease progression or unacceptable toxicity.
+The median duration of treatment with amivantamab overall for both intravenous and subcutaneous formulations was 9.9 months (range: 0.1 to 31.4 months).
+Median duration on treatment for the subcutaneous formulation was 5.7 months (range: 0.1 to 13.2 months) while median duration on treatment for the intravenous formulation was 18.5 months (range: 0.2 to 31.4 months).
+
+Table 5: Adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with lazertinib (N=752)
+
+| System Organ Class Adverse Reaction | Frequency category | Any grade (%) | Grade 3-4 (%) |
+| --- | --- | --- | --- |
+| Metabolism and nutrition disorders |  |  |  |
+| Hypoalbuminaemia* | Very common | 48 | 4.5 |
+| Decreased appetite |  | 24 | 0.8 |
+| Hypocalcaemia |  | 19 | 1.2 |
+| Hypokalaemia |  | 13 | 2.7 |
+| Hypomagnesaemia | Common | 6 | 0 |
+| Nervous system disorders |  |  |  |
+| Paraesthesia*, a | Very common | 29 | 1.3 |
+| Dizziness* |  | 12 | 0 |
+| Eye disorders |  |  |  |
+| Other eye disorders* | Very common | 19 | 0.5 |
+| Visual impairment* | Common | 3.6 | 0 |
+| Keratitis |  | 1.7 | 0.3 |
+| Growth of eyelashes* |  | 1.7 | 0 |
+| Vascular disorders |  |  |  |
+| Venous thromboembolism |  |  |  |
+| Amivantamab intravenous*, b | Very common | 37 | 11 |
+| Amivantamab subcutaneous*, c | Very common | 11 | 0.9 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |  |
+| Interstitial lung disease* | Common | 3.6 | 1.7 |
+| Gastrointestinal disorders |  |  |  |
+| Stomatitis* | Very common | 43 | 2.0 |
+| Constipation |  | 26 | 0 |
+| Diarrhoea |  | 26 | 1.7 |
+| Nausea |  | 24 | 0.8 |
+| Vomiting |  | 15 | 0.5 |
+| Abdominal pain* |  | 10 | 0.1 |
+| Haemorrhoids | Common | 8 | 0.1 |
+| Hepatobiliary disorders |  |  |  |
+| Hepatotoxicity* | Very common | 43 | 7 |
+| Skin and subcutaneous tissue disorders |  |  |  |
+| Rash* | Very common | 87 | 23 |
+| Nail toxicity* |  | 67 | 8 |
+| Dry skin* |  | 25 | 0.7 |
+| Pruritus |  | 23 | 0.3 |
+| Palmar-plantar erythrodysaesthesia syndrome | Common | 3.9 | 0.1 |
+| Urticaria |  | 1.6 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+| Myalgia | Very common | 15 | 0.5 |
+| Muscle spasms |  | 13 | 0.4 |
+| General disorders and administration site conditions |  |  |  |
+| Oedema* | Very common | 42 | 2.7 |
+| Fatigue* |  | 35 | 3.5 |
+| Pyrexia |  | 11 | 0 |
+| Injection site reactions*, c, d | Common | 8 | 0 |
+| Injury, poisoning, and procedural complications |  |  |  |
+| Infusion-/Administration-related reactions |  |  |  |
+| Amivantamab intravenousb, e | Very common | 63 | 6 |
+| Amivantamab subcutaneousc, f | Very common | 14 | 0.3 |
+
+a Applicable only to lazertinib.
+b Frequency based on amivantamab intravenous study only (MARIPOSA [N=421]).
+c Frequency based on amivantamab subcutaneous studies only (PALOMA-2 cohorts 1 and 6 [N=125] and PALOMA-3 subcutaneous arm [N=206]).
+d Injection site reactions are local signs and symptoms associated with subcutaneous mode of administration.
+e Infusion-related reactions are systemic signs and symptoms associated with infusion of amivantamab intravenous.
+f Administration-related reactions are systemic signs and symptoms associated with administration of amivantamab subcutaneous.
+
+Administration-related reactions
+Overall, administration-related reactions occurred in 14% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib.
+In PALOMA-3, administration-related reactions were reported in 13% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib compared to 66% when treated with Rybrevant intravenous formulation in combination with lazertinib.
+The most frequent signs and symptoms of administration-related reactions include dyspnoea, flushing, fever, chills, nausea, and chest discomfort.
+Median time to onset of first administration-related reactions was 2.1 hours (range: 0.0 to 176.5 hours).
+Most administration-related reactions (98%) were Grades 1 or 2 in severity.
+
+Injection site reactions
+Overall, injection site reactions occurred in 8% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib.
+All injection site reactions were Grade 1 or 2 in severity.
+The most frequent symptom of injection site reactions was erythema.
+
+Interstitial lung disease (ILD) or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors.
+ILD was reported in 3.6% of patients treated with Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib, including 2 (0.3%) patients with a fatal reaction.
+Patients with a medical history of ILD, including drug-induced ILD or radiation pneumonitis, were excluded from PALOMA-2 and PALOMA-3.
+
+VTE events, including deep venous thrombosis (DVT) and pulmonary embolism (PE), were reported in 11% of patients receiving Rybrevant subcutaneous formulation in combination with lazertinib in PALOMA-2 and PALOMA-3.
+Most cases were Grade 1 or 2, with Grade 3 events occurring in 3 (0.9%) patients.
+Additionally, 269 (81%) of these 331 patients receiving Rybrevant subcutaneous formulation took prophylactic anticoagulants with a direct oral anticoagulant or low molecular weight heparin within the first four months of study treatment.
+In PALOMA-3, the incidence of VTE reactions was 9% for patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, compared to 13% when treated with Rybrevant intravenous formulation in combination with lazertinib, with similar rates of prophylactic anticoagulant use in both treatment arms (80% in the subcutaneous arm vs. 81% in the intravenous arm).
+For patients who did not receive prophylactic anticoagulants, the overall incidence of VTE was 17% for patients treated with Rybrevant subcutaneous formulation in combination with lazertinib with all VTE reactions reported as Grade 1-2 and serious VTE reactions reported in 4.8% of these patients, compared to an overall incidence of 23% for patients treated with Rybrevant intravenous formulation in combination with lazertinib with
+Grade 3 VTE reactions reported in 10% and serious VTE reactions reported in 8% of these patients.
+
+Rash (including dermatitis acneiform), pruritus, and dry skin have occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib.
+Rash occurred in 87% of patients, leading to discontinuation of Rybrevant in 0.7% of patients.
+Most cases were Grade 1 or 2, with Grade 3 and Grade 4 reactions occurring in 23% and 0.1% of patients, respectively.
+
+Eye disorders, including keratitis (1.7%), occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation).

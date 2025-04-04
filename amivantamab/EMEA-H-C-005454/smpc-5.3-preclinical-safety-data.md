@@ -10,3 +10,7 @@ No animal studies have been conducted to evaluate the effects on reproduction an
 As reported in the literature, reduction, elimination, or disruption of embryo foetal or maternal EGFR signaling can prevent implantation, cause embryo foetal loss during various stages of gestation (through effects on placental development), cause developmental anomalies in multiple organs or early death in surviving foetuses.
 Similarly, knock out of MET or its ligand hepatocyte growth factor (HGF) was embryonic lethal due to severe defects in placental development, and foetuses displayed defects in muscle development in multiple organs.
 Human IgG1 is known to cross the placenta; therefore, amivantamab has the potential to be transmitted from the mother to the developing foetus.
+
+[Rybrevant 1600 mg solution for injection]
+
+As reported in the literature, reduction, elimination, or disruption of embryo foetal or maternal EGFR signalling can prevent implantation, cause embryo foetal loss during various stages of gestation (through effects on placental development), cause developmental anomalies in multiple organs or early death in surviving foetuses.
