@@ -29,7 +29,6 @@ However, baseline levels of NK cells did not show an association with clinical r
 Immunogenicity
 
 In patients treated with intravenous daratumumab in clinical studies, less than 1% of patients developed treatment-emergent anti-daratumumab antibodies.
-
 Clinical efficacy and safety
 
 Newly diagnosed multiple myeloma
@@ -53,11 +52,11 @@ Results of an updated PFS analysis after a median follow-up of 64 months continu
 Median PFS was 61.9 months in the DRd arm and 34.4 months in the Rd arm (HR=0.55; 95% CI: 0.45, 0.67).
 
 Figure 1: Kaplan-Meier curve of PFS in study MMY3008
-
 With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013).
 Results of an updated OS analysis after a median of 89 months continued to show an improvement in OS for patients in the DRd arm compared to the Rd arm.
 Median OS was 90.3 months in the DRd arm and was 64.1 months in the Rd arm (HR=0.67;
 95% CI: 0.55, 0.82).
+
 Figure 2: Kaplan-Meier curve of OS in study MMY3008
 
 Additional efficacy results from study MMY3008 are presented in table 7 below.
@@ -358,9 +357,9 @@ Hyaluronan levels in subcutaneous tissue return to normal within 24 to 48 hours 
 
 Daratumumab is an IgG1κ human monoclonal antibody (mAb) that binds to the CD38 protein expressed on the surface of cells in a variety of haematological malignancies, including clonal plasma cells in multiple myeloma and AL amyloidosis, as well as other cell types and tissues.
 
-In multiple myeloma and AL amyloidosis patients treated with subcutaneous daratumumab in monotherapy and combination clinical studies, less than 1% of patients developed treatment-emergent anti-daratumumab antibodies and 6 patients tested positive for neutralising antibodies.
+In multiple myeloma and AL amyloidosis patients treated with subcutaneous daratumumab in monotherapy and combination clinical studies, less than 1% of patients developed treatment-emergent anti-daratumumab antibodies and 7 patients tested positive for neutralising antibodies.
 
-In multiple myeloma and AL amyloidosis patients, the incidence of treatment-emergent non-neutralising anti-rHuPH20 antibodies was 9.1% (103/1129) in patients who received either monotherapy DARZALEX subcutaneous formulation or combination DARZALEX subcutaneous formulation and 1 patient tested positive for neutralising antibodies.
+In multiple myeloma and AL amyloidosis patients, the incidence of treatment-emergent non-neutralising anti-rHuPH20 antibodies was 8.9% (115/1298) in patients who received either monotherapy DARZALEX subcutaneous formulation or combination DARZALEX subcutaneous formulation and 1 patient tested positive for neutralising antibodies.
 The anti-rHuPH20 antibodies did not appear to impact daratumumab exposures.
 The clinical relevance of the development of anti-daratumumab or anti-rHuPH20 antibodies after treatment with DARZALEX subcutaneous formulation is not known.
 
@@ -376,8 +375,9 @@ The median patient age was 67 years (range: 33-92 years), 55% were male and 78% 
 The median patient weight was 73 kg (range: 29 – 138 kg) Patients had received a median of 4 prior lines of therapy.
 A total of 51% of patients had prior autologous stem cell transplant (ASCT), 100% of patients were previously treated with both PI(s) and IMiD(s) and most patients were refractory to a prior systemic therapy, including both PI and IMiD (49%).
 
-The study met its co-primary endpoints of overall response rate (ORR) by the IMWG response criteria (table 8) and maximum Ctrough at pre-dose cycle 3 day 1, (see section 5.2).
-Table 8: Key results from study MMY3012
+The study met its co-primary endpoints of overall response rate (ORR) by the IMWG response criteria (table 9) and maximum Ctrough at pre-dose cycle 3 day 1, (see section 5.2).
+
+Table 9: Key results from study MMY3012
 
 |  | Subcutaneous daratumumab (N=263) | Intravenous daratumumab (N=259) |
 | --- | --- | --- |
@@ -427,11 +427,11 @@ Additionally, 51% had ISS stage I, 34% had ISS stage II, 15% had ISS stage III d
 
 With a median follow-up of 47.5 months, the primary analysis of PFS in study MMY3014 demonstrated an improvement in PFS in the D-VRd arm as compared to the VRd arm (HR=0.42; 95% CI: 0.30, 0.59; p<0.0001).
 The median PFS was not reached in either arm.
-
 Figure 1: Kaplan-Meier curve of PFS in study MMY3014
-Additional efficacy results from study MMY3014 are presented in table 9 below.
 
-Table 9: Efficacy results from study MMY3014a
+Additional efficacy results from study MMY3014 are presented in table 10 below.
+
+Table 10: Efficacy results from study MMY3014a
 
 D-VRd (n=355) VRd (n=354) Odds ratio
 (95% CI)d
@@ -448,6 +448,59 @@ Overall MRD negativity ratea,c 267 (75.2%) 168 (47.5%) 3.40 (2.47, 4.69)
 
 D-VRd=daratumumab-bortezomib-lenalidomide-dexamethasone; VRd=bortezomib-lenalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval a Based on intent-to-treat population b p-value from Cochran Mantel-Haenszel Chi-Squared test c Patients achieved both MRD negativity (threshold of 10-5) and CR or better d Mantel-Haenszel estimate of the common odds ratio for stratified tables is used
 
+Combination treatment with bortezomib, lenalidomide and dexamethasone (VRd) in patients with newly diagnosed multiple myeloma for whom ASCT is not planned as initial therapy or who are ineligible for ASCT
+Study MMY3019 was an open-label, randomised, active-controlled phase III study that compared treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with bortezomib, lenalidomide and dexamethasone (D-VRd) to treatment with bortezomib, lenalidomide and dexamethasone (VRd) in patients with newly diagnosed multiple myeloma for whom ASCT was not planned as initial therapy or who were not eligible for ASCT.
+Patients received DARZALEX subcutaneous formulation (1800 mg) administered subcutaneously once weekly (days 1, 8, and 15) for cycles 1 to 2 followed by once every three weeks for cycles 3 to 8, and once every four weeks in cycle 9 and beyond until documented disease progression or unacceptable toxicity.
+Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly (days 1, 4, 8, and 11) of repeated 21-day (3-week) cycles 1-8.
+Lenalidomide was administered orally at 25 mg daily on days 1 to 14 during cycles 1-8 and on days 1-21 during cycle 9 and beyond.
+Dexamethasone was administered orally at 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of each 21-day (3-week ) cycles 1-8 and days 1, 8, 15, and 22 of each 28-day (4-week) during cycle 9 and beyond.
+On the days of DARZALEX subcutaneous formulation
+(1800 mg) injection, the dexamethasone dose was administered orally or intravenously as a pre-injection medication.
+
+A total of 395 patients were randomised: 197 to the D-VRd arm and 198 to the VRd arm.
+The median age was 70 (range: 31 to 80 years).
+Fifty percent were male, 39% had an ECOG performance score of 0, 51% had an ECOG performance score of 1 and 9% had an ECOG performance score of 2.
+Eighteen percent were less than 70 years of age and transplant ineligible and 27% were less than 70 years of age and were transplant deferred.
+Additionally, 34% had ISS stage I, 38% had ISS stage II, 28% had ISS stage III disease, 75% had a standard cytogenetic risk, 13% had a high cytogenetic risk (del17p, t[4;14], t[14;16]), and 11% had an indeterminate cytogenetic risk.
+
+With a median follow-up of 22.3 months, the primary analysis of MRD in study MMY3019 demonstrated an improvement in overall MRD negativity rate (by NGS at or below 10-5) for patients reaching CR or better in the D-VRd arm as compared to the VRd arm.
+Overall MRD negativity rates were 53.3% (95% CI: 46.1, 60.4) in the D-VRd arm and 35.4% (95% CI: 28.7, 42.4) in the VRd arm (odds ratio [D-VRd versus VRd] 2.07 with 95% CI: 1.38, 3.10; p=0.0004).
+
+At the time of primary MRD analysis, an improvement in overall CR or better rate was observed in the D-VRd arm as compared to the VRd arm.
+Overall CR or better rates were 76.6% (95% CI: 70.1, 82.4) in the D-VRd arm and 59.1% (95% CI: 51.9, 66.0) in the VRd arm (odds ratio [D-VRd versus VRd] 2.31; 95% CI: 1.48, 3.60; p=0.0002).
+
+With a median follow-up of 39 months, an interim analysis of PFS in Study MMY3019 demonstrated an improvement in PFS in the D-VRd arm as compared to the VRd arm (HR=0.61; 95% CI: 0.42, 0.90; p=0.0104).
+The median PFS had not been reached in either arm.
+With more mature PFS data at the final PFS analysis, treatment effect for PFS was improved with a hazard ratio of 0.57 (95% CI: 0.41, 0.79).
+The median PFS had not been reached in the D-VRd arm and was 52.6 months in the VRd arm.
+Figure 2: Kaplan-Meier curve of PFS at final analysis in study MMY3019
+
+At the time of interim PFS analysis, an improvement in 1-year sustained MRD negativity rate (by NGS at or below 10-5) for patients reaching CR or better was observed in the D-VRd arm as compared to the VRd arm.
+Sustained MRD negativity rates were 42.6% (95% CI: 35.6, 49.9) in the D-VRd arm and 25.3% (95% CI: 19.4, 31.9) in the VRd arm (odds ratio [D-VRd versus VRd] 2.18 with 95% CI: 1.42, 3.34; p=0.0003).
+
+Additional efficacy results from Study MMY3019 are presented in table 11 below.
+
+Table 11: Efficacy results from the final PFS analysis of study MMY3019a
+
+|  | D-VRd (n=197) | VRd (n=198) |
+| --- | --- | --- |
+| Overall MRD negativity rateb | 120 (60.9%) | 78 (39.4%) |
+| Odds ratio (95% CI)c | 2.37 (1.58, 3.55) |  |
+| Sustained MRD negativity rated | 96 (48.7%) | 52 (26.3%) |
+| Odds ratio (95% CI)c | 2.63 (1.73, 4.00) |  |
+| Overall CR or better (sCR+CR) | 160 (81.2%) | 122 (61.6%) |
+| Odds ratio (95% CI)c | 2.73 (1.71, 4.34) |  |
+| Overall response (sCR+CR+VGPR+PR) n (%)a | 191 (97.0%) | 184 (92.9%) |
+| Stringent complete response (sCR) | 128 (65.0%) | 88 (44.4%) |
+| Complete response (CR) | 32 (16.2%) | 34 (17.2%) |
+| Very good partial response (VGPR) | 23 (11.7%) | 50 (25.3%) |
+| Partial response (PR) | 8 (4.1%) | 12 (6.1%) |
+
+D-VRd=daratumumab-bortezomib-lenalidomide-dexamethasone; VRd=bortezomib-lenalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval a Based on intent-to-treat population, median follow-up of 59 months b Patients achieved both MRD negativity (threshold of at or below 10-5) and CR or better c Mantel-Haenszel estimate of the common ratio for stratified tables is used.
+The stratification factors are: ISS staging (I, II, III), age/transplant eligibility (< 70 years ineligible, or age< 70 years and refusal to transplant, or age ≥70 years) as randomised.
+An odds ratio > 1 indicates an advantage for D-VRd.
+d Sustained MRD negativity is defined as MRD negative and confirmed by at least 1 year apart without MRD positive in between.
+
 MMY2040 was an open-label study evaluating the efficacy and safety of DARZALEX subcutaneous formulation 1800 mg:
 
 - in combination with bortezomib, melphalan, and prednisone (D-VMP) in patients with newly diagnosed multiple myeloma (MM) who are ineligible for transplant.
@@ -461,8 +514,9 @@ MMY2040 was an open-label study evaluating the efficacy and safety of DARZALEX s
 
 A total of 199 patients (D-VMP: 67; D-Rd: 65; D-VRd: 67) were enrolled.
 Efficacy results were determined by computer algorithm using IMWG criteria.
-The study met its primary endpoint ORR for D-VMP and D-Rd and the primary endpoint VGPR or better for D-VRd (see table 10).
-Table 10: Efficacy results from study MMY2040
+The study met its primary endpoint ORR for D-VMP and D-Rd and the primary endpoint VGPR or better for D-VRd (see table 12).
+
+Table 12: Efficacy results from study MMY2040
 
 |  | D-VMP (n=67) | D-Rd (n=65) | D-VRd (n=67) |
 | --- | --- | --- | --- |
@@ -498,14 +552,14 @@ Efficacy was evaluated by progression free survival (PFS) based on International
 
 With a median follow-up of 16.9 months, the primary analysis of PFS in study MMY3013 showed a statistically significant improvement in the D-Pd arm as compared to the Pd arm; the median PFS was 12.4 months in the D-Pd arm and 6.9 months in the Pd arm (HR [95% CI]: 0.63 [0.47, 0.85];
 p-value = 0.0018), representing a 37% reduction in the risk of disease progression or death for patients treated with D-Pd versus Pd.
-Figure 2: Kaplan-Meier curve of PFS in study MMY3013
+Figure 3: Kaplan-Meier curve of PFS in study MMY3013
 
 An additional planned follow-up analysis of OS after a median follow-up of 39.6 months was performed.
 At OS maturity of 57%, the median OS was 34.4 months in the D-Pd arm and 23.7 months in the Pd arm (HR [95% CI]: 0.82 [0.61, 1.11]).
 
-Additional efficacy results from study MMY3013 are presented in table 11 below.
+Additional efficacy results from study MMY3013 are presented in table 13 below.
 
-Table 11: Efficacy results from study MMY3013a
+Table 13: Efficacy results from study MMY3013a
 
 D-Pd (n=151) Pd (n=153)
 Overall response (sCR+CR+VGPR+PR) n(%)a 104 (68.9%) 71 (46.4%)
@@ -544,9 +598,9 @@ Vital organ involvement was: 71% cardiac, 59% renal and 8% hepatic.
 Patients with grade 2 sensory or grade 1 painful peripheral neuropathy were excluded.
 The primary efficacy endpoint was hematologic complete response (HemCR) rate as determined by the Independent Review Committee assessment based on International Concensus Criteria.
 Study AMY3001 demonstrated an improvement in HemCR in the D-VCd arm as compared to the VCd arm.
-Efficacy results are summarised in table 12.
+Efficacy results are summarised in table 14.
 
-Table 12: Efficacy results from study AMY3001a
+Table 14: Efficacy results from study AMY3001a
 
 |  | D-VCd (n=195) | VCd (n=193) | P value |
 | --- | --- | --- | --- |
@@ -577,44 +631,44 @@ Lenalidomide (25 mg once daily orally on days 1-21 of repeated 28-day [4-week] c
 [BMI] < 18.5).
 On intravenous daratumumab infusion days, the dexamethasone dose was given as a pre-infusion medicinal product.
 
-Figure 3: Kaplan-Meier curve of PFS in study MMY3008
+Figure 4: Kaplan-Meier curve of PFS in study MMY3008
 
 Median OS was 90.3 months in the DRd arm and was 64.1 months in the Rd arm (HR= 0.67;
-Figure 4: Kaplan-Meier curve of OS in study MMY3008
+Figure 5: Kaplan-Meier curve of OS in study MMY3008
 
-Additional efficacy results from study MMY3008 are presented in table 13 below.
+Additional efficacy results from study MMY3008 are presented in table 15 below.
 
-Table 13: Additional efficacy results from study MMY3008a
+Table 15: Additional efficacy results from study MMY3008a
 
 Study MMY3007, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
 Intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Figure 5: Kaplan-Meier curve of PFS in study MMY3007
+Figure 6: Kaplan-Meier curve of PFS in study MMY3007
 
-Figure 6: Kaplan-Meier curve of OS in study MMY3007
+Figure 7: Kaplan-Meier curve of OS in study MMY3007
 
-Additional efficacy results from study MMY3007 are presented in table 14 below.
+Additional efficacy results from study MMY3007 are presented in table 16 below.
 
-Table 14: Additional efficacy results from study MMY3007a
+Table 16: Additional efficacy results from study MMY3007a
 
 Part 1 compared induction and consolidation treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (D-VTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
 
 On the days of intravenous daratumumab infusion, the dexamethasone dose was administered intravenously as a pre-infusion medicinal product.
 
-Table 15: Efficacy results from study MMY3006a
+Table 17: Efficacy results from study MMY3006a
 
 Very good partial response or better
 (sCR+CR+VGPR) 453 (83.4%) 423 (78.0%)
 
-Figure 7: Kaplan-Meier curve of PFS in study MMY3006
+Figure 8: Kaplan-Meier curve of PFS in study MMY3006
 
 The clinical efficacy and safety of intravenous daratumumab monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma whose prior therapy included a proteasome inhibitor and an immunomodulatory agent and who had demonstrated disease progression on the last therapy, was demonstrated in two open-label studies.
 
 In study MMY2002, 106 patients with relapsed and refractory multiple myeloma received 16 mg/kg intravenous daratumumab until disease progression.
 
-Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in table 16 below.
+Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in table 18 below.
 
-Table 16: IRC assessed efficacy results for study MMY2002
+Table 18: IRC assessed efficacy results for study MMY2002
 
 | Efficacy endpoint | Intravenous daratumumab 16 mg/kg N=106 |
 | --- | --- |
@@ -634,24 +688,24 @@ On intravenous daratumumab infusion days, 20 mg of the dexamethasone dose was gi
 
 The baseline demographic and disease characteristics were similar between the intravenous daratumumab and the control arm.
 
-p < 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 8).
-Figure 8: Kaplan-Meier curve of PFS in study MMY3003
+p < 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 9).
+Figure 9: Kaplan-Meier curve of PFS in study MMY3003
 
-Figure 9: Kaplan-Meier curve of OS in study MMY3003
+Figure 10: Kaplan-Meier curve of OS in study MMY3003
 
-Additional efficacy results from study MMY3003 are presented in table 17 below.
+Additional efficacy results from study MMY3003 are presented in table 19 below.
 
-Table 17: Additional efficacy results from study MMY3003
+Table 19: Additional efficacy results from study MMY3003
 
 Study MMY3004, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
 On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 10).
+Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 11).
 
-Figure 10: Kaplan-Meier curve of PFS in study MMY3004
+Figure 11: Kaplan-Meier curve of PFS in study MMY3004
 
-Figure 11: Kaplan-Meier curve of OS in study MMY3004
+Figure 12: Kaplan-Meier curve of OS in study MMY3004
 
-Additional efficacy results from study MMY3004 are presented in table 18 below.
+Additional efficacy results from study MMY3004 are presented in table 20 below.
 
-Table 18: Additional efficacy results from study MMY3004
+Table 20: Additional efficacy results from study MMY3004

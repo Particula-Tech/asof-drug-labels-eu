@@ -4,7 +4,6 @@ Symptoms and signs
 
 There has been no experience of overdose in clinical studies.
 Doses up to 24 mg/kg have been administered intravenously in a clinical study.
-
 Treatment
 
 There is no known specific antidote for daratumumab overdose.
