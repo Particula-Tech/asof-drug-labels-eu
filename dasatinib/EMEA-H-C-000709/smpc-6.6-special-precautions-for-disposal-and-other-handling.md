@@ -54,18 +54,18 @@ Before you prepare a dose of SPRYCEL oral suspension for administration to the p
 - Paper towel
 - 1 SPRYCEL oral suspension bottle containing a white to yellow opaque suspension.
 - 12-mL oral syringe provided with the bottle.
-- A small container filled with water to use to rinse the
+- A small container filled with water to
 
-syringe. oral syringe bottle
+use to rinse the syringe. oral syringe bottle
 
 Carefully prepare the SPRYCEL oral suspension for administration, measure the dose, and fill the syringe, like this:
 
 1.
 Mix the SPRYCEL oral suspension in the closed bottle Shake
 
-by shaking for 30 seconds. bottle repeatedly
+by shaking for 30 seconds. bottle repeatedl
 
-for 30
+y for 30
 
 - Shake well before each seconds.
 
@@ -73,8 +73,11 @@ use.
 
 2.
 Remove the closure from the bottle.
-Make sure the adapter provided on the bottle for syringe placement is firmly pressed into the bottle.
-Make sure bottle adapter is firmly pressed.
+Make sure the adapter provided on the bottle for syringe placement is firmly
+
+pressed into the bottle. Make
+
+sure bottle adapter is firmly pressed.
 
 3.
 Look at the measurements on the side of the syringe so you can see how much to fill it before you begin.

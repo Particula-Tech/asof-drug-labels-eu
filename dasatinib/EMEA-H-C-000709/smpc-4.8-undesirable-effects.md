@@ -128,11 +128,11 @@ j Conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, lip
 k Fluid overload, fluid retention, gastrointestinal oedema, generalised oedema, peripheral swelling, oedema, oedema due to cardiac disease, perinephric effusion, post procedural oedema, visceral oedema.
 l Genital swelling, incision site oedema, oedema genital, penile oedema, penile swelling, scrotal oedema, skin swelling, testicular swelling, vulvovaginal swelling.
 * For additional details, see section "Description of selected adverse reactions"
-
 Description of selected adverse reactions
 Myelosuppression
 Treatment with SPRYCEL is associated with anaemia, neutropaenia and thrombocytopaenia.
 Their occurrence is earlier and more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML (see section 4.4).
+
 Bleeding
 Bleeding drug-related adverse reactions, ranging from petechiae and epistaxis to grade 3 or 4 gastrointestinal haemorrhage and CNS bleeding, were reported in patients taking SPRYCEL (see section 4.4).
 
@@ -163,7 +163,6 @@ PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart cath
 In these cases, PAH was reported after initiation of dasatinib therapy, including after more than one year of treatment.
 Patients with PAH reported during dasatinib treatment were often taking concomitant medicinal products or had co-morbidities in addition to the underlying malignancy.
 Improvements in haemodynamic and clinical parameters have been observed in patients with PAH following discontinuation of dasatinib.
-
 QT Prolongation
 In the Phase III study in patients with newly diagnosed chronic phase CML, one patient (< 1%) of the SPRYCEL-treated patients had a QTcF > 500 msec after a minimum of 12 months follow-up (see section 4.4).
 No additional patients were reported to have QTcF > 500 msec after a minimum of 60 months follow-up.
@@ -199,14 +198,12 @@ In the Phase III dose-optimisation study in patients with advanced phase CML and
 Selected adverse reactions that were reported in the recommended starting dose of 140 mg once daily are shown in Table 6b.
 A 70 mg twice daily regimen was also studied.
 The 140 mg once daily regimen showed a comparable efficacy profile to the 70 mg twice daily regimen but a more favourable safety profile.
+
 Table 6b: Selected adverse reactions reported in phase III dose-optimisation study: Advanced phase CML and Ph+ ALLa
 140 mg once daily n = 304
 
 All grades Grade 3/4
-
-Percent (%) of patients
-Preferred term
-
+Preferred term Percent (%) of patients
 Diarrhoea 28 3
 Fluid retention 33 7
 Superficial oedema 15 < 1
@@ -241,9 +238,16 @@ included in the table.
 Table 7: Adverse reactions reported in ≥10% of paediatric patients with Ph+ ALL treated with SPRYCEL on a continuous dosing regimen in combination with chemotherapy (N=126)a
 Percent (%) of patients
 
-| Adverse reaction | All grades |
-| --- | --- |
-| Febrile neutropaenia Nausea Vomiting Abdominal pain Diarrhoea Pyrexia Headache Decreased appetite Fatigue | 27.0 20.6 20.6 14.3 12.7 12.7 11.1 10.3 10.3 |
+Adverse reaction All grades Grade 3/4
+Febrile neutropaenia 27.0 26.2
+Nausea 20.6 5.6
+Vomiting 20.6 4.8
+Abdominal pain 14.3 3.2
+Diarrhoea 12.7 4.8
+Pyrexia 12.7 5.6
+Headache 11.1 4.8
+Decreased appetite 10.3 4.8
+Fatigue 10.3 0
 
 a In the pivotal study, among 106 total patients, 24 patients received the powder for oral suspension at least once, 8 of whom received the powder for oral suspension formulation exclusively.
 Laboratory test abnormalities
@@ -259,12 +263,18 @@ However, the occurrence of cytopaenias was also clearly dependent on the stage o
 The frequency of grade 3 and 4 haematological abnormalities is presented in Table 8.
 
 Table 8: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya
-
-|  | Chronic phase (n= 165)b | Accelerated Myeloid phase blast phase (n= 157)c (n= 74)c Percent (%) of patients |
-| --- | --- | --- |
-| Haematology parameters Neutropaenia Thrombocytopaenia Anaemia | 36 23 13 | 58 77 63 78 47 74 |
-
 Lymphoid blast
+
+Accelerated Myeloid phase and
+Chronic phase phase blast phase Ph+ ALL
+(n= 165)b (n= 157)c (n= 74)c (n= 168)c
+
+Percent (%) of patients
+Haematology parameters
+
+Neutropaenia 36 58 77 76
+Thrombocytopaenia 23 63 78 74
+Anaemia 13 47 74 44
 
 a Phase 3 dose optimisation study results reported at 2 year study follow up.
 b CA180-034 study results in recommended starting dose of 100 mg once daily.

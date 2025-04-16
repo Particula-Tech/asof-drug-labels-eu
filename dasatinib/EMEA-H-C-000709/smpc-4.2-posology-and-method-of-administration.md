@@ -50,9 +50,11 @@ Ph+ CML-CP who do not achieve a haematologic, cytogenetic and molecular response
 Table 2: Dose escalation for paediatric patients with Ph+ CML-CP
 Dose (maximum dose per day)
 
-|  | Starting dose |
-| --- | --- |
-| Tablets | 40 mg 60 mg 70 mg 100 mg |
+Starting dose Escalation
+Tablets 40 mg 50 mg
+60 mg 70 mg
+70 mg 90 mg
+100 mg 120 mg
 
 Dose escalation is not recommended for paediatric patients with Ph+ ALL, as SPRYCEL is administered in combination with chemotherapy in these patients.
 
@@ -164,9 +166,11 @@ The dose for the use of powder for oral suspension in adult patients with accele
 
 Table 2: Dose escalation for patients with Ph+ CML-CP
 
-|  | Starting dose |
-| --- | --- |
-| Powder for oral suspension | 4 mL (40 mg) 6 mL (60 mg) 9 mL (90 mg) 10.5 mL (105 mg) 12 mL (120 mg) |
+Powder for oral suspension 4 mL (40 mg) 5 mL (50 mg)
+6 mL (60 mg) 8 mL (80 mg)
+9 mL (90 mg) 12 mL (120 mg)
+10.5 mL (105 mg) 14 mL (140 mg)
+12 mL (120 mg) 16 mL (160 mg)
 
 Guidelines for dose modifications in paediatric patients with CML-CP are summarised in
 Table 3.Guidelines for paediatric patients with Ph+ ALL treated in combination with chemotherapy are in a separate paragraph following the table.
