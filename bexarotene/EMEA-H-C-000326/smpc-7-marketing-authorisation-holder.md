@@ -1,6 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Eisai GmbH
-Edmund-Rumpler-Straße 3
-60549 Frankfurt am Main
-Germany e-mail: medinfo_de@eisai.net
+H.A.C.
+Pharma
+Péricentre 2
+43 Avenue de la Côte de Nacre
+14000 Caen
+France
