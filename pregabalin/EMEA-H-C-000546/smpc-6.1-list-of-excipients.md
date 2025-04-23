@@ -48,3 +48,19 @@ Sodium dihydrogen phosphate, anhydrous
 Disodium phosphate, anhydrous (E339)
 Sucralose (E955)
 Artificial strawberry flavour [contains small amounts of ethanol (alcohol)]
+
+[Lyrica 25 mg orodispersible tablets]
+
+Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
+
+Magnesium stearate (E470b)
+Hydrogenated castor oil
+Glycerol dibehenate
+Talc (E553b)
+Microcrystalline cellulose (E460)
+D-Mannitol (E421)
+Crospovidone (E1202)
+Magnesium aluminometa silicate
+Saccharin sodium (E954)
+Citrus flavour (Flavorings, Gum Arabic (E414), DL-alpha-tocopherol (E307), Dextrin (E1400) and Isomaltulose)
+Sodium stearyl fumarate (E470a)

@@ -40,3 +40,7 @@ Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
 | 200 | 10 | 5 | 5 | Not required |
 | 225 | 11.25 | 5 | 5 | 1.25 |
 | 300 | 15 | 5 | 5 | 5 |
+
+[Lyrica 25 mg orodispersible tablets]
+
+(all sentences already above)

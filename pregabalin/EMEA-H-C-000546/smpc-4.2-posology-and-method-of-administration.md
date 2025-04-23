@@ -98,3 +98,8 @@ CLcr(ml/min) = 1.23×[140 - age (years)] x weight (kg) (x 0.85 for f
 
 A graduated oral syringe and a Press-In Bottle Adapter (PIBA) are provided with the product.
 See section 6.6 for information on administration.
+
+[Lyrica 25 mg orodispersible tablets]
+
+The orodispersible tablet can be disintegrated on the tongue before swallowing.
+The tablet can be taken with or without water.

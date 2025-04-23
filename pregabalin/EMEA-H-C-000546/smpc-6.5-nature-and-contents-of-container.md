@@ -47,3 +47,14 @@ Not all pack sizes may be marketed.
 
 A white high density polyethylene (HDPE) bottle with polyethylene-lined closure, containing 473 mL of oral solution, in a cardboard carton.
 The carton also contains, in a clear polyethylene wrap, a 5 mL graduated oral syringe and a Press-In Bottle adapter (PIBA).
+
+[Lyrica 25 mg orodispersible tablets]
+
+Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
+Packaged in a clear PVC/PVDC/Aluminium blister.
+Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
+
+Pack sizes:
+20 orodispersible tablets packed in 1 aluminum pouch with 2 blisters.
+60 orodispersible tablets packed in 1 aluminum pouch with 6 blisters.
+200 orodispersible tablets packed in 2 aluminum pouches with 10 blisters in each.

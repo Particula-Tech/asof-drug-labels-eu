@@ -12,3 +12,9 @@ Lyrica 300 mg hard capsules
 [Lyrica 20 mg/mL oral solution]
 
 Lyrica 20 mg/mL oral solution
+
+[Lyrica 25 mg orodispersible tablets]
+
+Lyrica 25 mg orodispersible tablets
+Lyrica 75 mg orodispersible tablets
+Lyrica 150 mg orodispersible tablets

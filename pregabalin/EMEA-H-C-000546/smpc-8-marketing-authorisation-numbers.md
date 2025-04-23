@@ -43,3 +43,23 @@ EU/1/04/279/043
 [Lyrica 20 mg/mL oral solution]
 
 EU/1/04/279/044
+
+[Lyrica 25 mg orodispersible tablets]
+
+Lyrica 25 mg orodispersible tablets
+
+EU/1/04/279/047
+EU/1/04/279/048
+EU/1/04/279/049
+
+Lyrica 75 mg orodispersible tablets
+
+EU/1/04/279/050
+EU/1/04/279/051
+EU/1/04/279/052
+
+Lyrica 150 mg orodispersible tablets
+
+EU/1/04/279/053
+EU/1/04/279/054
+EU/1/04/279/055

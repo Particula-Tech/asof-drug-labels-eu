@@ -105,3 +105,7 @@ Excipients which may cause allergic reactions
 Lyrica oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
 
 Lyrica contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg (30 mL).
+
+[Lyrica 25 mg orodispersible tablets]
+
+Lyrica contains less than 1 mmol sodium (23 mg) per orodispersible tablet.

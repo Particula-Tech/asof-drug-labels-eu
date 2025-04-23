@@ -56,3 +56,14 @@ For the full list of excipients, see section 6.1.
 Each mL contains 20 mg of pregabalin
 
 Each mL contains 1.3 mg of methyl parahydroxybenzoate (E218), 0.163 mg of propyl parahydroxybenzoate (E216)
+
+[Lyrica 25 mg orodispersible tablets]
+
+Lyrica 25 mg orodispersible tablets
+Each tablet contains 25 mg of pregabalin.
+
+Lyrica 75 mg orodispersible tablets
+Each tablet contains 75 mg of pregabalin.
+
+Lyrica 150 mg orodispersible tablets
+Each tablet contains 150 mg of pregabalin.

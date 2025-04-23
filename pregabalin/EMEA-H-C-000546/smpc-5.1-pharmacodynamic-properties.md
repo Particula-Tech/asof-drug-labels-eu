@@ -66,3 +66,7 @@ Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of plac
 [Lyrica 20 mg/mL oral solution]
 
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with BID or TID dosing.
+
+[Lyrica 25 mg orodispersible tablets]
+
+Pharmacotherapeutic group: Analgesics, other other analgesics and antipyretics ATC code: N02BF02
