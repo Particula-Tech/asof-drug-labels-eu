@@ -11,7 +11,9 @@ The absorption of AQUMELDI orodispersible tablets is not expected to be affected
 Distribution
 
 As described in the adult population, over the range of concentrations, which are therapeutically relevant, enalaprilat binding to human plasma proteins does not exceed 60%.
-In adults, the apparent volume of distribution (V/F) of enalapril from AQUMELDI was 93.15 L (SD 33.23 L). Biotransformation
+In adults, the apparent volume of distribution (V/F) of enalapril from AQUMELDI was 93.15 L (SD 33.23 L).
+
+Biotransformation
 
 Except for conversion to enalaprilat, there is no evidence for significant metabolism of enalapril.
 

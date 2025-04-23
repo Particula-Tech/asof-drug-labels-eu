@@ -10,6 +10,7 @@ Children
 
 The adverse reaction frequency listed in Table 1 is derived from the clinical studies in children receiving AQUMELDI for heart failure.
 In total 86 children in these studies received enalapril for up to 1 year; as such the data are limited.
+
 The adverse reactions are listed below by SOC (system organ class) and by frequency, most frequent reactions first, with the following guidelines: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), very rare (<1/10 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
@@ -30,23 +31,26 @@ Within each frequency grouping, adverse reactions are presented in the order of 
 
 Adults
 
-Enalapril tablets have been evaluated for safety in more than 10 000 adult patients and in controlled
-clinical studies involving 2 314 hypertensive patients and 363 patients with congestive heart failure.
-Adverse reactions and frequency in the adult population is listed in Table 2.
-Table 2. List of adverse reactions in the adult population
+| Enalapril tablets have been evaluated for safety in more than 10 000 adult patients and in controlled |  |
+| --- | --- |
+| clinical studies involving 2 314 hypertensive patients and 363 patients with congestive heart failure. |  |
+| Adverse reactions and frequency in the adult population is listed in Table 2. |  |
+| Table 2. List of adverse reactions in the adult population |  |
+| Adverse reactions | Frequency |
+| Blood and lymphatic system disorders |  |
+| Aplastic anaemia | Uncommon |
+| Haemolytic anaemia | Uncommon |
+| Anaemia | Uncommon |
+| Bone marrow depression | Rare |
+| Neutropenia | Rare |
+| Agranulocytosis | Rare |
+| Pancytopenia | Rare |
+| Thrombocytopenia | Rare |
+| Lymphadenopathy | Rare |
+| Haemoglobin decreased | Rare |
+| Haematocrit decreased | Rare |
+
 Adverse reactions Frequency
-Blood and lymphatic system disorders
-Aplastic anaemia Uncommon
-Haemolytic anaemia Uncommon
-Anaemia Uncommon
-Bone marrow depression Rare
-Neutropenia Rare
-Agranulocytosis Rare
-Pancytopenia Rare
-Thrombocytopenia Rare
-Lymphadenopathy Rare
-Haemoglobin decreased Rare
-Haematocrit decreased Rare
 Immune system disorders
 Angioedema Common
 Autoimmune diseases Rare
@@ -62,47 +66,48 @@ Nervousness Uncommon
 Insomnia Uncommon
 Abnormal dreams Rare
 Sleep disorders Rare
+Nervous system disorders
+Dizziness Very common
+Headache Common
+Syncope Common
+Taste alteration Common
+Paraesthesia Uncommon
+Somnolence Uncommon
+Vertigo Uncommon
+Eye disorders
+Blurred vision Very common
+Ear and labyrinth disorders
+Tinnitus Uncommon
+Cardiac disorders
+Chest pain Common
+Rhythm disturbances Common
+Angina pectoris Common
+Tachycardia Common
+Myocardial infarction Uncommon
+Cerebrovascular accident Uncommon
+Palpitations Uncommon
+Vascular disorders
+Hypotension Common
+Orthostatic hypotension Uncommon
+Flushing Uncommon
+Raynaud’s phenomenon Rare
+Respiratory, thoracic and mediastinal disorders
+Cough Very common
+Dyspnoea Common
+Asthma Uncommon
+Bronchospasm Uncommon
+Sore throat Uncommon
+Rhinorrhoea Uncommon
+Hoarseness Uncommon
+Pulmonary infiltrates Rare
+Allergic alveolitis Rare
+Eosinophilic pneumonia Rare
+Rhinitis Rare
+Gastrointestinal disorders
+Nausea Very common
 
-| Nervous system disorders |  |
+| Adverse reactions | Frequency |
 | --- | --- |
-| Dizziness | Very common |
-| Headache | Common |
-| Syncope | Common |
-| Taste alteration | Common |
-| Paraesthesia | Uncommon |
-| Somnolence | Uncommon |
-| Vertigo | Uncommon |
-| Eye disorders |  |
-| Blurred vision | Very common |
-| Ear and labyrinth disorders |  |
-| Tinnitus | Uncommon |
-| Cardiac disorders |  |
-| Chest pain | Common |
-| Rhythm disturbances | Common |
-| Angina pectoris | Common |
-| Tachycardia | Common |
-| Myocardial infarction | Uncommon |
-| Cerebrovascular accident | Uncommon |
-| Palpitations | Uncommon |
-| Vascular disorders |  |
-| Hypotension | Common |
-| Orthostatic hypotension | Uncommon |
-| Flushing | Uncommon |
-| Raynaud’s phenomenon | Rare |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Cough | Very common |
-| Dyspnoea | Common |
-| Asthma | Uncommon |
-| Bronchospasm | Uncommon |
-| Sore throat | Uncommon |
-| Rhinorrhoea | Uncommon |
-| Hoarseness | Uncommon |
-| Pulmonary infiltrates | Rare |
-| Allergic alveolitis | Rare |
-| Eosinophilic pneumonia | Rare |
-| Rhinitis | Rare |
-| Gastrointestinal disorders |  |
-| Nausea | Very common |
 | Diarrhoea | Common |
 | Abdominal pain | Common |
 | Vomiting | Common |
@@ -170,6 +175,7 @@ Following the first ingestion of AQUMELDI no changes were reported in blood pres
 Over the first 8 weeks of treatment, mean values of blood pressure did not change over time.
 The same trend was observed for heart rate.
 Mean arterial pressure (MAP), based on systolic and diastolic blood pressure, increased in every age group throughout the duration of the subsequent 10-month study period except for children aged 6-12 months where it showed a minor decrease.
+
 Renal safety parameters
 
 Over the 12-month study period treatment, serum creatinine, blood urea nitrogen (BUN), GFR and potassium levels were generally within normal range and constant in paediatric patients with heart failure.
@@ -183,6 +189,4 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

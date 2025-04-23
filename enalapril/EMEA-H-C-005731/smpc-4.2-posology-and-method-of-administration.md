@@ -9,10 +9,10 @@ Starting/test dose
 0.01 to 0.04 mg/kg (max 2 mg) as a single initial dose.
 
 - Before giving a test dose, blood pressure (BP) and renal function should be checked.
-  If the BP is below the 5th percentile or creatinine is above normal limit for age, then enalapril should not be given.
+  If the systolic blood pressure (SBP) is below the 5th percentile or creatinine is above normal limit for age, then enalapril should not be given.
 - Test dose should be at the lower end of the range for less stable patients and in infants <30 days of age.
 - Blood pressure should be monitored at intervals for 1–2 hours after the initial dose.
-  If systolic BP is below the 5th percentile enalapril should be stopped and appropriate clinical care given.
+  If SBP is below the 5th percentile enalapril should be stopped and appropriate clinical care given.
 
 Target/maintenance dose
 
@@ -21,9 +21,9 @@ The dose should be individualised according to blood pressure, serum creatinine 
 
 - If systolic blood pressure (SBP) is greater than or equal to the 5th percentile and serum creatinine is no more than 1.5 × baseline, consider enalapril dose up-titration.
 - If SBP is below the 5th percentile and serum creatinine is more than 2 × baseline, enalapril should be stopped.
-- If systolic blood pressure is below the 5th percentile and serum creatinine is between 1.5 and 2 × baseline, enalapril dose should be titrated down.
-- If SBP is above the 5th percentile and serum creatinine is more than 2 × baseline, enalapril dose should be titrated down.
-- If systolic blood pressure is greater than or equal to the 5th percentile and serum creatinine is between 1.5 to 2 × baseline the enalapril should be continued at the same dose.
+- If SBPis below the 5th percentile and serum creatinine is between 1.5 and 2 × baseline, enalapril dose should be titrated down.
+- If SBP is greater than or equal to the 5th percentile and serum creatinine is more than 2 × baseline, enalapril dose should be titrated down.
+- If SBP is greater than or equal to the 5th percentile and serum creatinine is between 1.5 to 2 × baseline the enalapril should be continued at the same dose.
 
 At any stage if potassium ≥ 5.5 mmol/l pause enalapril treatment.
 Once hyperkalaemia has resolved, restart enalapril on the same or a lower dose level.
@@ -63,5 +63,4 @@ For oral use only.
 Place on the tongue or in the buccal cavity and allow to disperse.
 
 AQUMELDI can be taken with or without meals.
-
 For instructions on administering starting doses < 0.25 mg and in case of feeding tube administration, see section 6.6.

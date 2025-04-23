@@ -6,4 +6,5 @@ Poly(vinyl acetate)
 Povidone
 Sodium laurilsulfate
 Sodium stearyl fumarate
-Colloidal anhydrous silica
+Colloidal anhydrous silica – 0.25 mg tablet only
+Iron oxide yellow (E172) – 1 mg tablet only

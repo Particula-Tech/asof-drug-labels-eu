@@ -26,7 +26,6 @@ If recognised promptly and treated appropriately, renal failure when associated 
 Some hypertensive patients, with no apparent pre-existing renal disease have developed increases in blood urea and creatinine when enalapril has been given concurrently with a diuretic.
 Dose reduction of enalapril and/or discontinuation of the diuretic may be required (see section 4.2).
 This situation should raise the possibility of underlying renal artery stenosis (see renovascular hypertension below).
-
 Renovascular hypertension
 
 There is an increased risk of hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with ACE inhibitors.
@@ -37,6 +36,7 @@ Kidney transplantation
 
 There is no experience regarding the administration of AQUMELDI in patients with a recent kidney transplantation.
 Treatment with AQUMELDI is therefore not recommended.
+
 Hepatic failure
 
 Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice or hepatitis and progresses to fulminant hepatic necrosis and (sometimes) death.
@@ -60,14 +60,13 @@ Even in those instances where swelling of only the tongue is involved, without r
 
 Very rarely, fatalities have been reported due to angioedema associated with laryngeal oedema or tongue oedema.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
-Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, which may include subcutaneous epinephrine solution 1:1 000 (0.3 ml to 0.5 ml) and/or measures to ensure a patent airway, should be administered promptly.
+Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, which may include subcutaneous epinephrine solution 1:1 000 and/or measures to ensure a patent airway, should be administered promptly.
 
 Black patients receiving ACE inhibitors have been reported to have a higher incidence of angioedema compared to non-blacks.
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see section 4.3).
 
 Caution should be used when starting racecadotril, mTOR inhibitors (e.g. sirolimus, everolimus, temsirolimus) and vildagliptin in a patient already taking an ACE inhibitor.
-
 Patients receiving concomitant ACE inhibitor and neprilysin inhibitor therapy (e.g., sacubitril, racecadotril) may be at increased risk for angioedema (see section 4.5).
 The combination of enalapril with sacubitril/valsartan is contraindicated due to the increased risk of angioedema (see section 4.3).
 Sacubitril/valsartan must not be initiated until 36 hours after taking the last dose of enalapril therapy.
@@ -77,6 +76,7 @@ Anaphylactoid reactions during hymenoptera desensitisation
 
 Rarely, patients receiving ACE inhibitors during desensitisation with hymenoptera venom have experienced life-threatening anaphylactoid reactions.
 These reactions were avoided by temporarily withholding ACE inhibitor therapy prior to each desensitisation.
+
 Anaphylactoid reactions during LDL-apheresis
 
 Rarely, patients receiving ACE inhibitors during low-density lipoprotein (LDL)-apheresis with dextran sulfate have experienced life-threatening anaphylactoid reactions.
@@ -136,7 +136,7 @@ Paediatric population
 
 AQUMELDI is not recommended in children in indications other than heart failure.
 Caution is advised in children below 1 month of age as they may be very sensitive to the medical product.
-Data on the use of Aqumeldi in children below 1 month of age in the clinical studies is scarce (n=4).
+Data on the use of AQUMELDI in children below 1 month of age in the clinical studies is scarce (n=4).
 Any signs of adverse events and electrolytes should be closely monitored.
 
 Hepatic impairment

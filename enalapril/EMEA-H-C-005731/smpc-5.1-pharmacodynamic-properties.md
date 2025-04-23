@@ -37,5 +37,4 @@ Aldosterone concentrations had decreased at 4 hours after administration of enal
 The observed changes were unlikely to be a consequence of the natural course of disease or maturation-dependent changes of the RAAS system.
 A comparable trend for the 4 parameters of the RAAS system was observed in ACEi naïve and ACEi pre-treated cohorts, with the main difference being in the baseline pre-dose values.
 The observed changes in markers of the RAAS during the course of enalapril orodispersible tablets treatment lie within the expected pattern of ACE inhibition.
-
-Data on the use of Aqumeldi in children below 1 month of age in the clinical studies is scarce (n=4).
+Data on the use of AQUMELDI in children below 1 month of age in the clinical studies is scarce (n=4).

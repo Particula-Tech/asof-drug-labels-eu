@@ -6,6 +6,7 @@ Interaction studies with enalapril have only been performed in adults.
 Blockade of the renin-angiotensin-aldosterone system (RAAS)
 
 Clinical study data have shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+
 Potassium sparing diuretics, potassium supplements, or other medicinal products that may increase serum potassium
 
 ACE inhibitors attenuate diuretic induced potassium loss.
@@ -36,12 +37,12 @@ Non-steroidal anti-inflammatory drugs (NSAIDs) including selective cyclooxygenas
 
 Non-steroidal anti-inflammatory drugs (NSAIDs) including selective cyclooxygenase-2 inhibitors (COX-2 inhibitors) may reduce the effect of diuretics and other antihypertensives.
 Therefore, the antihypertensive effect of angiotensin II receptor antagonists or ACE inhibitors may be attenuated by NSAIDs including selective COX-2 inhibitors.
-
 The co-administration of NSAIDs (including COX-2 inhibitors) and angiotensin II receptor antagonists or ACE inhibitors exert an additive effect on the increase in serum potassium and may result in a deterioration of renal function.
 These effects are usually reversible.
 Rarely, acute renal failure may occur, especially in patients with compromised renal function (such as the elderly or patients who are volume-depleted, including those on diuretic therapy).
 Therefore, the combination should be administered with caution in patients with compromised renal function.
 Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy and periodically thereafter.
+
 Gold
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril.
@@ -79,7 +80,6 @@ Ciclosporin
 
 Hyperkalaemia may occur during concomitant use of ACE inhibitors with ciclosporin.
 Monitoring of serum potassium is recommended.
-
 Heparin
 
 Hyperkalaemia may occur during concomitant use of ACE inhibitors with heparin.
