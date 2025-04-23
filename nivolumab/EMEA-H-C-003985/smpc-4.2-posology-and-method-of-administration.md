@@ -202,11 +202,10 @@ NOTE: for RCC if needed, is complete
 patients treated
 with OPDIVO in Grade 3 or 4 elevation in AST, ALT, or total Permanently discontinue
 combination with bilirubin treatment
-cabozantinib with
-liver enzyme
-elevations, see dosing
-guidelines following
-this table.
+cabozantinib with liver
+enzyme elevations, see
+dosing guidelines
+following this table.
 If AST/ALT is within normal limits at Withhold dose(s) until laboratory
 
 baseline and increases to > 3 and ≤ 10 times values return to baseline and
@@ -218,11 +217,11 @@ Baseline AST/ALT is > 1 and ≤ 3 times ULN and increases to > 5 and ≤ 10 time
 
 Immune-related or
 
-hepatitis with HCC Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN.
+hepatitis with HCC Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN
 
-AST/ALT increases to > 10 times ULN Permanently discontinue
-or treatment
+AST/ALT increases to > 10 times ULN Permanently discontinue treatment
 
+or
 Total bilirubin increases to > 3 times ULN
 
 Grade 2 or 3 creatinine elevation Withhold dose(s) until creatinine

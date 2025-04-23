@@ -185,7 +185,7 @@ However, the role of this biomarker (tumour PD-L1 expression) has not been fully
 
 In patients with tumour PD-L1 expression ≥ 1%, ORR was 33.5% for nivolumab
 (n = 179; 95% CI: 26.7, 40.9) and 13.5% for chemotherapy (n = 74; 95% CI: 6.7, 23.5).
-In patients with tumour PD-L1 expression <1%, ORR per IRRC was 13.0% (n = 69; 95% CI: 6.1, 23.3) and 12.0% (n = 25; 95% CI: 2.5, 31.2), respectively.
+In patients with tumour PD-L1 expression < 1%, ORR per IRRC was 13.0% (n = 69; 95% CI: 6.1, 23.3) and 12.0% (n = 25; 95% CI: 2.5, 31.2), respectively.
 
 The PFS HRs for nivolumab vs. chemotherapy were 0.76 (95% CI: 0.54, 1.07) in patients with tumour PD-L1 expression ≥ 1% and 1.92 (95% CI: 1.05, 3.5) in patients with tumour PD-L1 expression < 1%.
 
@@ -360,6 +360,7 @@ Subsequent immunotherapy (including anti-PD1 therapy, anti-CTLA-4 antibody, or o
 Figure 5: Overall survival (CA209067) - Minimum follow-up of 90 months
 
 Overall survival (months)
+
 Number of subjects at risk
 Nivolumab+ipilimumab
 314 265 227 210 199 187 179 169 163 158 156 153 147 144 141 129 7 - Nivolumab
@@ -370,7 +371,6 @@ Nivolumab+ipilimumab
 OS rate and 95% CI at 12 months: 73% (68, 78), 24 months: 64% (59, 69), 36 months: 58% (52, 63),
 60 months: 52% (46, 57), and 90 months: 48% (42, 53)
 • Nivolumab (events: 182/316), median and 95% CI: 36.93 months (28.25, 58.71) OS rate and 95% CI at 12 months: 74% (69, 79), 24 months: 59% (53, 64), 36 months: 52% (46, 57),
-
 60 months: 44% (39, 50), and 90 months: 42% (36, 47)
 - - -•- - - Ipilimumab (events: 235/315), median and 95% CI: 19.94 months (16.85, 24.61)
 OS rate and 95% CI at 12 months: 67% (61, 72), 24 months: 45% (39, 50), 36 months: 34% (29, 39),
@@ -384,7 +384,6 @@ Figure 6: Overall survival by PD-L1 expression: 5% cut off (CA209067) - Minimum 
 PD-L1 expression < 5%
 
 Overall survival (months)
-
 Number of subjects at risk
 Nivolumab+ipilimumab
 210 178 146 139 130 123 116 109 106 104 102 100 98 96 96 88 6 - Nivolumab
@@ -486,7 +485,7 @@ Both nivolumab-containing arms demonstrated greater objective response rates tha
 ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 14) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
 
 After 90 months of follow-up, median durations of response for patients with tumour PD-L1 expression level ≥ 5% were 78.19 months (range: 18.07-N.A.) in the combination arm,77.21 months (range: 26.25-N.A.) in the nivolumab monotherapy arm and 31.28 months (range: 6.08-N.A.) in the ipilimumab arm.
-At tumour PD-L1 expression <5%, median durations of response were not reached (range: 61.93-N.A.) in the combination arm, were 90.84 months (range: 50.43-N.A.) in the nivolumab monotherapy arm and 19.25 months (range: 5.32-47.44) in the ipilimumab monotherapy arm.
+At tumour PD-L1 expression < 5%, median durations of response were not reached (range: 61.93-N.A.) in the combination arm, were 90.84 months (range: 50.43-N.A.) in the nivolumab monotherapy arm and 19.25 months (range: 5.32-47.44) in the ipilimumab monotherapy arm.
 
 No clear cut off for PD-L1 expression can reliably be established when considering the relevant endpoints of tumour response and PFS and OS.
 Results from exploratory multivariate analyses identified patient and tumour characteristics (ECOG performance status, M stage, baseline LDH, BRAF mutation status, PD-L1 status, and gender) which might contribute to the survival outcome.
@@ -598,9 +597,10 @@ Among patients with quantifiable tumour PD-L1 expression, the distribution of pa
 Tumour PD-L1 expression was determined using the
 PD-L1 IHC 28-8 pharmDx assay.
 
-At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p<0.0001) was demonstrated.
-At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p<0.0001) and OS was not mature.
-Efficacy results with minimum follow-up of 36 months (RFS pre-specified final analysis) and 48 months (OS pre-specified final analysis) are shown in Table 16 and Figure 9 and 10 (all randomised population).
+At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p< 0.0001) was demonstrated.
+At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p< 0.0001) and OS was not mature.
+Efficacy results with minimum follow-up of 36 months (RFS pre-specified final analysis) and 48 months (OS pre-specified final analysis) are shown in
+Table 16 and Figure 9 and 10 (all randomised population).
 
 Table 16: Efficacy results (CA209238)
 
@@ -1503,7 +1503,7 @@ Clinical activity was observed regardless of tumour PD-L1 expression status.
 Randomised phase 3 study of nivolumab in combination with ipilimumab vs. sunitinib (CA209214)
 The safety and efficacy of nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg for the treatment of advanced/metastatic RCC was evaluated in a phase 3, randomised, open-label study (CA209214).
 The study included patients (18 years or older) with previously untreated, advanced or metastatic renal cell carcinoma with a clear-cell component.
-The primary efficacy population included those intermediate/poor risk patients with at least 1 or more of 6 prognostic risk factors as per the International Metastatic RCC Database Consortium (IMDC) criteria (less than one year from time of initial renal cell carcinoma diagnosis to randomisation, Karnofsky performance status <80%, haemoglobin less than the lower limit of normal, corrected calcium of greater than 10 mg/dL, platelet count greater than the upper limit of normal, and absolute neutrophil count greater than the upper limit of normal).
+The primary efficacy population included those intermediate/poor risk patients with at least 1 or more of 6 prognostic risk factors as per the International Metastatic RCC Database Consortium (IMDC) criteria (less than one year from time of initial renal cell carcinoma diagnosis to randomisation, Karnofsky performance status < 80%, haemoglobin less than the lower limit of normal, corrected calcium of greater than 10 mg/dL, platelet count greater than the upper limit of normal, and absolute neutrophil count greater than the upper limit of normal).
 This study included patients regardless of their tumour PD-L1 status.
 Patients with Karnofsky performance status < 70% and patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
 Patients were stratified by IMDC prognostic score and region.
@@ -1522,7 +1522,6 @@ The median duration of treatment was 7.9 months (range: 1 day-21.4+ months) in n
 Nivolumab with ipilimumab was continued beyond progression in 29% of patients.
 
 Efficacy results for the intermediate/poor risk patients are shown in Table 28 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 18 (minimum follow-up of 60 months).
-
 OS results at an additional descriptive analysis undertaken at a minimum follow-up of 60 months show outcomes consistent with the original primary analysis.
 Table 28: Efficacy results in intermediate/poor risk patients (CA209214)
 
@@ -1726,7 +1725,7 @@ Hazard ratio is nivolumab and cabozantinib over sunitinib.
 b Log-rank test stratified by IMDC prognostic risk score (0, 1-2, 3-6), PD-L1 tumour expression (≥ 1% versus < 1% or indeterminate) and region (US/Canada/W Europe/N Europe, ROW) as entered in the IRT.
 c 2-sided p-values from stratified regular log-rank test.
 d Based on Kaplan-Meier estimates.
-e Boundary for statistical significance p-value <0.0111.
+e Boundary for statistical significance p-value < 0.0111.
 f CI based on the Clopper and Pearson method.
 g Strata adjusted difference in objective response rate (nivolumab + cabozantinib - sunitinib) based on DerSimonian and Laird.
 h 2-sided p-value from CMH test.
@@ -2222,7 +2221,7 @@ b Data unstable due to the limited duration of response.
 c included 4 drug-related deaths: 1 pneumonitis, 1 acute respiratory failure, 1 respiratory failure, and 1 cardiovascular failure.
 NE: non-estimable
 
-Results from post-hoc, exploratory analyses indicate that in patients with low (e.g. <1%) to no tumour PD-L1 expression, other patient characteristics (e.g. liver metastases, visceral metastases, baseline haemoglobin <10g/dL and ECOG performance status = 1) might contribute to the clinical outcome.
+Results from post-hoc, exploratory analyses indicate that in patients with low (e.g. < 1%) to no tumour PD-L1 expression, other patient characteristics (e.g. liver metastases, visceral metastases, baseline haemoglobin < 10g/dL and ECOG performance status = 1) might contribute to the clinical outcome.
 
 Open-label phase 1/2 study (CA209032)
 CA209032 was a Phase 1/2 open-label multi-cohort study which included a cohort of 78 patients (including 18 subjects who received planned crossover treatment with nivolumab 3 mg/kg plus ipilimumab 1 mg/kg combination) with similar inclusion criteria to study CA209275 treated with nivolumab monotherapy 3 mg/kg for urothelial carcinoma.
@@ -2416,7 +2415,7 @@ Patients who were refractory or intolerant to taxane therapy, had brain metastas
 
 A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator’s choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m2 intravenously every 3 weeks, or paclitaxel
 (n = 144) 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off.
-Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PD-L1 expression (≥ 1% vs. <1% or indeterminate).
+Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PD-L1 expression (≥ 1% vs. < 1% or indeterminate).
 Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity.
 Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter.
 Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no rapid progression, investigator-assessed benefit, tolerance to treatment, stable performance status, and for whom treatment beyond progression would not delay an imminent intervention to prevent serious complications associated with disease progression (e.g. brain metastasis).
@@ -2477,7 +2476,7 @@ Nivolumab
  Nivolumab - - - - - - Investigator’s choice
 
 Of the 419 patients, 48% had tumour PD-L1 expression ≥ 1%.
-The remaining 52% of patients had tumour PD-L1 expression <1%.
+The remaining 52% of patients had tumour PD-L1 expression < 1%.
 The hazard ratio (HR) for OS was 0.69 (95% CI: 0.51, 0.94) with median survivals of 10.9 and 8.1 months for the nivolumab and investigator’s choice taxane chemotherapy arms, respectively, in the tumour PD-L1 positive subgroup.
 In the tumour PD-L1 negative OSCC subgroup, the HR for OS was 0.84 (95% CI: 0.62, 1.14) with median survivals of 10.9 and 9.3 months for the nivolumab and chemotherapy arms, respectively.
 
@@ -2657,7 +2656,7 @@ Patients were enrolled regardless of tumour PD-L1 expression level.
 A total of 794 patients were randomised 2:1 to receive either nivolumab 240 mg (n = 532) or placebo (n = 262).
 Patients were administered nivolumab intravenously over 30 minutes every 2 weeks for 16 weeks followed by 480 mg infused over 30 minutes every 4 weeks beginning at week 17.
 Patients were administered placebo over 30 minutes with the same dosing schedule as nivolumab.
-Randomisation was stratified by tumour PD-L1 status (≥1% vs. <1% or indeterminate or non-evaluable), pathologic lymph node status (positive ≥ ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma).
+Randomisation was stratified by tumour PD-L1 status (≥ 1% vs. < 1% or indeterminate or non-evaluable), pathologic lymph node status (positive ≥ ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma).
 Treatment continued until disease recurrence, unacceptable toxicity, or for up to 1 year in total duration.
 The primary efficacy outcome measure was disease-free survival (DFS), as assessed by the investigator, defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant from the primary resected site) or death from any cause, whichever occurred first.
 Patients on treatment underwent imaging for tumour recurrence every 12 weeks for 2 years, and a minimum of one scan every 6 to 12 months for years 3 to 5.
@@ -2731,8 +2730,8 @@ Tumour locations were distributed as gastric (70%), GEJ (18%) and oesophagus (12
 Primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with PD-L1 CPS ≥ 5 based on the PD-L1 IHC 28-8 pharmDX.
 Secondary endpoints per the pre-specified hierarchical testing were OS in patients with PD-L1 CPS ≥ 1 and in all randomised patients; further endpoints included ORR (BICR) in PD-L1 CPS ≥ 5 and all randomised patients.
 At the primary pre-specified analysis, with a minimum follow-up of 12.1 months, the study demonstrated a statistically significant improvement in OS and PFS in patients with PD-L1 CPS ≥ 5.
-Median OS was 14.4 months (95% CI: 13.1, 16.2) for nivolumab in combination with chemotherapy vs. 11.1 months (95% CI: 10.0, 12.1) for chemotherapy (HR = 0.71; 98.4% CI: 0.59, 0.86; p-value <0.0001).
-Median PFS was 7.69 months (95% CI: 7.03, 9.17) for nivolumab in combination with chemotherapy vs. 6.05 months (95% CI: 5.55, 6.90) for chemotherapy (HR = 0.68; 98% CI: 0.56, 0.81; p-value <0.0001).
+Median OS was 14.4 months (95% CI: 13.1, 16.2) for nivolumab in combination with chemotherapy vs. 11.1 months (95% CI: 10.0, 12.1) for chemotherapy (HR = 0.71; 98.4% CI: 0.59, 0.86; p-value < 0.0001).
+Median PFS was 7.69 months (95% CI: 7.03, 9.17) for nivolumab in combination with chemotherapy vs. 6.05 months (95% CI: 5.55, 6.90) for chemotherapy (HR = 0.68; 98% CI: 0.56, 0.81; p-value < 0.0001).
 The ORR was 60% (95% CI: 55, 65) for nivolumab in combination with chemotherapy vs. 45%
 (95% CI: 40, 50) for chemotherapy.
 
@@ -2808,8 +2807,7 @@ The study enrolled adults whose disease was not amenable to or progressed after 
 Prior neo-adjuvant or adjuvant systemic therapy was permitted.
 Patients with active autoimmune disease, brain or leptomeningeal metastases, prior liver transplant, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, medical conditions requiring systemic immunosuppression, infection with HIV, or active co infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV) were excluded from the study.
 Randomisation was stratified by aetiology (HBV vs. HCV vs. non-viral), macrovascular invasion and/or extrahepatic spread (present or absent), and alpha-fetoprotein levels (≥ 400 or < 400 ng/mL).
-A total of 668 patients were randomised to receive nivolumab in combination with ipilimumab
-(n = 335) or investigator’s choice (n = 333) of lenvatinib or sorafenib.
+A total of 668 patients were randomised to receive nivolumab in combination with ipilimumab (n=335) or investigator’s choice (n=333) of lenvatinib or sorafenib.
 In the investigator’s choice arm, 85% and 15% of treated patients received lenvatinib or sorafenib, respectively.
 Patients in the nivolumab plus ipilimumab arm received nivolumab 1 mg/kg every 3 weeks in combination with ipilimumab 3 mg/kg every 3 weeks, for up to a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks.
 Patients in the investigators’ choice arm received either lenvatinib 8 mg orally daily (if body weight < 60 kg) or 12 mg orally daily (if body weight ≥ 60 kg), or sorafenib 400 mg orally twice daily.
@@ -2837,9 +2835,9 @@ Overall survival
 
 Events 194 (58%) 228 (68%)
 Median (months) 23.7 20.6
-(95% CI) (18.8, 29.4) (17.5, 22.5)
-Hazard ratio (95% CI)b 0.79 (0.65, 0.96)
-p-valuec 0.0180
+(95% CI_) (18.8, 29.4) (17.5, 22.5)
+Hazard ratio (95% CI) b 0.79 (0.65, 0.96)
+p-value c 0.0180
 Overall Response Rate, n (%)d 121 (36.1) 44 (13.2)
 (95% CI) (31.0, 41.5) (9.8, 17.3)
 p-valuee < 0.0001
@@ -2855,10 +2853,10 @@ a Minimum follow-up of 26.8 months.
 Median follow up of 35.2 months.
 b Based on stratified Cox proportional hazard model.
 c Based on a 2-sided stratified log-rank test.
-Boundary for statistical significance: p-value ≤ 0.0257.
+Boundary for statistical significance: p-value ≤0.0257.
 d Assessed by BICR using RECIST 1.1.
 e Based on a 2-sided stratified Cochran-Mantel-Haenszel test.
-Boundary for statistical significance: p-value ≤ 0.025.
+Boundary for statistical significance: p-value ≤0.025.
 Figure 33: Kaplan-Meier curve of OS in first-line patients with HCC (CA2099DW)
 
 Overall survival (months)
@@ -2868,8 +2866,8 @@ Nivolumab + ipilimumab
 335 300 264 239 220 206 179 162 150 137 104 71 42 24 11 8 0 0 Investigator’s choice
 333 310 280 245 216 194 164 144 116 106 76 44 34 20 4 3 1 0
 
-––+–––– Nivolumab + ipilimumab (events: 194/335), median and 95% CI: 23.66 (18.33, 29.44)
-- - -+- - - Lenvatinib or sorafenib (events: 228/333), median and 95% CI: 20.63 (17.48, 22.54)
+⸺+⸺ Nivolumab + ipilimumab (events: 194/335), median and 95% CI: 23.66 (18.33, 29.44)
+−−+−− Lenvatinib or sorafenib (events: 228/333), median and 95% CI: 20.63 (17.48, 22.54)
 
 Paediatric population
 

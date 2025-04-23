@@ -29,10 +29,14 @@ If immunosuppression with corticosteroids is used to treat an adverse reaction, 
 Rapid tapering may lead to worsening or recurrence of the adverse reaction.
 Non-corticosteroid immunosuppressive therapy should be added if there is worsening or no improvement despite corticosteroid use.
 
+In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID.
+In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
+
 Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
 
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
+
 Immune-related pneumonitis
 Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis such as radiographic changes (e.g., focal ground glass opacities, patchy filtrates), dyspnoea, and hypoxia.
@@ -62,11 +66,11 @@ For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipi
 Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
-
 Immune-related hepatitis
 Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
 Infectious and disease-related aetiologies should be ruled out.
+
 For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld.
@@ -171,6 +175,7 @@ Before initiating treatment with the combination, physicians are advised to care
 
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
+
 Adjuvant treatment of melanoma
 There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1):
 
@@ -202,7 +207,6 @@ Neoadjuvant treatment of NSCLC
 Patients with a baseline performance score ≥ 2, active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, unresectable or metastatic disease, who received prior anti-cancer treatment for resectable disease, or who had known
 EGFR mutations or ALK translocations were excluded from the pivotal trial in neoadjuvant treatment of resectable NSCLC (see section 5.1).
 In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Malignant pleural mesothelioma
 Patients with primitive peritoneal, pericardial, testis, or tunica vaginalis mesothelioma, interstitial lung disease, active autoimmune disease, medical conditions requiring systemic immunosuppression, and brain metastasis (unless surgically resected or treated with stereotaxic radiotherapy and no evolution within 3 months prior to inclusion in the study) were excluded from the pivotal trial in first-line treatment of MPM (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -235,10 +239,10 @@ The benefit of treatment with nivolumab versus the possible risk should be consi
 Head and neck cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
+
 Urothelial carcinoma
 Treatment of advanced urothelial carcinoma
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
