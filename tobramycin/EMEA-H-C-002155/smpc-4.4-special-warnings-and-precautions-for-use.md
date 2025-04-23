@@ -22,7 +22,7 @@ See also “Monitoring of serum tobramycin concentrations” below.
 Nephrotoxicity
 
 Nephrotoxicity has been reported with the use of parenteral aminoglycosides.
-Nephrotoxicity was not observed during TOBI Podhaler clinical studies.
+Nephrotoxicity was not observed during TOBI Podhaler clinical studies, however acute kidney injury (AKI) has been reported post-marketing with the use of inhaled tobramycin (see section 4.8).
 Caution should be exercised when prescribing TOBI Podhaler to patients with known or suspected renal dysfunction.
 Baseline renal function should be assessed.
 Urea and creatinine levels should be reassessed after every 6 complete cycles of TOBI Podhaler therapy.

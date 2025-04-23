@@ -28,6 +28,5 @@ Elimination
 
 Tobramycin is eliminated from the systemic circulation primarily by glomerular filtration of the unchanged compound.
 The apparent terminal half-life of tobramycin in serum after inhalation of a 112 mg single dose of TOBI Podhaler was approximately 3 hours in cystic fibrosis patients and consistent with the half-life of tobramycin after inhalation of tobramycin 300 mg/5 ml nebuliser solution (TOBI).
-
 A population pharmacokinetic analysis for TOBI Podhaler in cystic fibrosis patients aged 6 to 66 years estimated the apparent serum clearance of tobramycin to be 14 litres/h.
-This analysis did not show gender or age-related pharmacokinetic differences
+This analysis did not show gender or age-related pharmacokinetic differences.

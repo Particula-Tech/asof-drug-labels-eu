@@ -4,7 +4,7 @@ No interaction studies have been performed with TOBI Podhaler.
 Based on the interaction profile for tobramycin following intravenous and aerosolised administration, concurrent and/or sequential use of TOBI Podhaler is not recommended with other medicinal products with nephrotoxic or ototoxic potential.
 
 Concomitant use of TOBI Podhaler with diuretic compounds (such as ethacrynic acid, furosemide, urea or intravenous mannitol) is not recommended.
-Such coumpounds can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
+Such compounds can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
 
 See also information on previous and concomitant use of systemic aminoglycosides and diuretics in section 4.4.
 

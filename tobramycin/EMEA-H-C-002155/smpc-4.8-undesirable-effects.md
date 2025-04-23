@@ -13,7 +13,7 @@ Tabulated summary of adverse reactions
 Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
-In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known: frequency cannot be estimated from the available data.
+In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 The frequencies in Table 1 are based on the reporting rates from the active-controlled study.
 
@@ -58,9 +58,13 @@ Skin and subcutaneous tissue disorders
 
 Rash Common
 
-Musculoskeletal, connective tissue and bone disorders
+Musculoskeletal and connective tissue disorders
 
 Musculoskeletal chest pain Common
+
+Renal and urinary disorders
+
+Acute kidney injury (AKI) Not known
 
 General disorders and administration site conditions
 
