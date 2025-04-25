@@ -20,8 +20,7 @@ Clinical efficacy and safety
 The effects of guanfacine in the treatment of ADHD has been examined in 5 controlled studies in children and adolescents (6 to 17 years), 3 short-term controlled trials in children and adolescents aged 6 to 17 years, 1 short-term controlled study in adolescents aged 13 to 17 years, and 1 randomised withdrawal trial in children and adolescents aged 6-17 years, all of whom met the DSM-IV-TR criteria for ADHD.
 The majority of patients achieved an optimised dose between 0.05-0.12 mg/kg/day.
 
-Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pivotal Phase 3 Study SPD503-316, to assess safety and efficacy of once-daily dosing (children:1-4 mg/day, adolescents:
-1-7 mg/day).
+Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pivotal Phase 3 Study SPD503-316, to assess safety and efficacy of once-daily dosing (children:1-4 mg/day, adolescents: 1-7 mg/day).
 In this 12-week (6-12 years) or 15-week (13-17 years), randomised, double-blind, parallel-group, placebo- and active-reference (atomoxetine), dose-titration study, guanfacine showed significantly greater efficacy than placebo on symptoms of ADHD based upon investigator ratings on the ADHD Rating Scale (ADHD-RS).
 The ADHD Rating Scale is a measure of the core symptoms of ADHD.
 The results with respect to the primary endpoint study are presented in Table 5.
