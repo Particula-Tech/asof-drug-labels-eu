@@ -13,7 +13,7 @@ Film-coating
 Lactose monohydrate
 Hypromellose (E464)
 Titanium dioxide (E171)
-Triacetin (E1518)
+Triacetin
 Iron oxide yellow (E172)
 Iron oxide red (only for 480 mg tablets) (E172)
 Carnauba wax (E903)
@@ -24,3 +24,7 @@ Hydroxypropylbetadex (cyclodextrin)
 Sodium chloride
 Sodium hydroxide (E524)
 Water for injections
+
+[PREVYMIS 20 mg granules in sachet]
+
+Iron oxide red (E172)

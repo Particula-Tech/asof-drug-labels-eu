@@ -9,7 +9,7 @@ In patients in whom letermovir prophylaxis was initiated and the baseline CMV DN
 
 Risk of adverse reactions or reduced therapeutic effect due to medicinal product interactions
 
-The concomitant use of PREVYMIS and certain medicinal products may result in known or potentially significant medicinal product interactions, some of which may lead to:
+The concomitant use of letermovir and certain medicinal products may result in known or potentially significant medicinal product interactions, some of which may lead to:
 
 - possible clinically significant adverse reactions from greater exposure of concomitant medicinal products or letermovir.
 - significant decrease of concomitant medicinal product plasma concentrations which may lead to reduced therapeutic effect of the concomitant medicinal product.
@@ -18,7 +18,7 @@ See Table 1 for steps to prevent or manage these known or potentially significan
 
 Drug interactions
 
-PREVYMIS should be used with caution with medicinal products that are CYP3A substrates with narrow therapeutic ranges (e.g., alfentanil, fentanyl, and quinidine) as co-administration may result in increases in the plasma concentrations of CYP3A substrates.
+Letermovir should be used with caution with medicinal products that are CYP3A substrates with narrow therapeutic ranges (e.g., alfentanil, fentanyl, and quinidine) as co-administration may result in increases in the plasma concentrations of CYP3A substrates.
 Close monitoring and/or dose adjustment of co-administered CYP3A substrates is recommended (see section 4.5).
 
 Increased monitoring of cyclosporine, tacrolimus, sirolimus is generally recommended the first 2 weeks after initiating and ending letermovir (see section 4.5) as well as after changing route of administration of letermovir.
@@ -27,7 +27,6 @@ Letermovir is a moderate inducer of enzymes and transporters.
 Induction may give rise to reduced plasma concentrations of some metabolised and transported medicinal products (see section 4.5).
 Therapeutic drug monitoring (TDM) is therefore recommended for voriconazole.
 Concomitant use of dabigatran should be avoided due to risk of reduced dabigatran efficacy.
-
 Letermovir may increase the plasma concentrations of medicinal products transported by OATP1B1/3 such as many of the statins (see section 4.5 and Table 1).
 
 Excipients
@@ -38,6 +37,10 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
+
+See Table 2 for steps to prevent or manage these known or potentially significant medicinal product interactions, including dosing recommendations (see sections 4.3 and 4.5).
+
+Letermovir may increase the plasma concentrations of medicinal products transported by OATP1B1/3 such as many of the statins (see section 4.5 and Table 2).
 
 Administration through a sterile 0.2 or 0.22 micron PES in-line filter
 
@@ -53,8 +56,12 @@ This medicinal product contains 46 mg (or 2 mmol) sodium per 480 mg vial, equiva
 
 Cyclodextrin
 
-This medicinal product contains 1800 mg hydroxypropylbetadex (cyclodextrin) per 12 mL vial
-(240 mg dose).
+This medicinal product contains 300 mg hydroxypropylbetadex (cyclodextrin) per 40 mg dose.
+This medicinal product contains 450 mg hydroxypropylbetadex (cyclodextrin) per 60 mg dose.
+This medicinal product contains 900 mg hydroxypropylbetadex (cyclodextrin) per 120 mg dose.
+This medicinal product contains 1 800 mg hydroxypropylbetadex (cyclodextrin) per 240 mg dose.
+This medicinal product contains 3 600 mg hydroxypropylbetadex (cyclodextrin) per 480 mg dose.
 
-This medicinal product contains 3600 mg hydroxypropylbetadex (cyclodextrin) per 24 mL vial
-(480 mg dose)
+[PREVYMIS 20 mg granules in sachet]
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially ‘sodium-free’.

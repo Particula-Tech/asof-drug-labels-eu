@@ -14,3 +14,9 @@ Pink oval, bi-convex tablet of dimensions 21.2 mm x 10.3 mm, debossed with “59
 
 Concentrate for solution for infusion (sterile concentrate)
 Clear, colourless liquid pH between 7 and 8
+
+[PREVYMIS 20 mg granules in sachet]
+
+Granules in sachet (granules)
+
+Beige granules approximately 2 mm in diameter.

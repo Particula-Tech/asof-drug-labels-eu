@@ -29,7 +29,20 @@ Each vial contains 480 mg (24 mL per vial) of letermovir.
 This medicinal product contains 23 mg (1 mmol) sodium per 240 mg vial.
 This medicinal product contains 46 mg (2 mmol) sodium per 480 mg vial.
 
-Each 240 mg dose (12 mL vial) of this medicinal product contains 1800 mg hydroxypropylbetadex (cyclodextrin).
-Each 480 mg dose (24 mL vial) of this medicinal product contains 3600 mg hydroxypropylbetadex (cyclodextrin).
+This medicinal product contains 1 800 mg hydroxypropylbetadex (cyclodextrin) per 240 mg vial.
+This medicinal product contains 3 600 mg hydroxypropylbetadex (cyclodextrin) per 480 mg vial.
 
 For additional information, see section 4.2.
+
+[PREVYMIS 20 mg granules in sachet]
+
+PREVYMIS 20 mg granules in sachet
+
+Each sachet contains 20 mg of letermovir.
+
+PREVYMIS 120 mg granules in sachet
+
+Each sachet contains 120 mg of letermovir.
+
+Each 20 mg granules in sachet contains 1.7 mg of lactose (as monohydrate).
+Each 120 mg granules in sachet contains 9.9 mg of lactose (as monohydrate).

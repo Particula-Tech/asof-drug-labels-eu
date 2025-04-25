@@ -15,3 +15,7 @@ Incompatible intravenous bags and infusion set materials
 PREVYMIS concentrate for solution for infusion is incompatible with diethylhexyl phthalate (DEHP) plasticizers and polyurethane-containing intravenous administration set tubing.
 
 This medicinal product must not be used with other intravenous bags and infusion set materials except those mentioned in section 6.6.
+
+[PREVYMIS 20 mg granules in sachet]
+
+(all sentences already above)

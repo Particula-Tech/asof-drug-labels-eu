@@ -2,14 +2,11 @@
 
 General toxicity
 
-Irreversible testicular toxicity was noted only in rats at systemic exposures (AUC) ≥3-fold the exposures in humans at the recommended human dose (RHD).
+Irreversible testicular toxicity was noted only in rats at systemic exposures (AUC) ≥ 3-fold the exposures in humans at the recommended human dose (RHD).
 This toxicity was characterised by seminiferous tubular degeneration, and oligospermia and cell debris in the epididymides, with decreased testicular and epididymides weights.
 There was no testicular toxicity in rats at exposures (AUC) similar to the exposures in humans at the RHD.
 Testicular toxicity was not observed in mice and monkeys at the highest doses tested at exposures up to 4-fold and 2-fold, respectively, the exposures in humans at the RHD.
 The relevance to humans is unknown.
-
-It is known that hydroxypropylbetadex can cause kidney vacuolation in rats when given intravenously at doses greater than 50 mg/kg/day.
-Vacuolation was noted in the kidneys of rats administered intravenous letermovir formulated with 1500 mg/kg/day of the cyclodextrin excipient hydroxypropylbetadex.
 
 Carcinogenesis
 
@@ -31,6 +28,21 @@ Development
 
 In rats, maternal toxicity (including decrease in body weight gain) was noted at 250 mg/kg/day (approximately 11-fold the AUC at the RHD); in the offspring, decreased foetal weight with delayed ossification, slightly oedematous foetuses, and increased incidence of shortened umbilical cords and of variations and malformations in the vertebrae, ribs, and pelvis were observed.
 No maternal or developmental effects were noted at the dose of 50 mg/kg/day (approximately 2.5-fold the AUC at the RHD).
+
 In rabbits, maternal toxicity (including mortality and abortions) was noted at 225 mg/kg/day (approximately 2-fold the AUC at the RHD); in the offspring, an increased incidence of malformations and variations in the vertebrae and ribs were observed.
+
 In the pre- and post-natal developmental study, letermovir was administered orally to pregnant rats.
 There was no developmental toxicity observed up to the highest exposure tested (2-fold the AUC at the RHD).
+
+[PREVYMIS 240 mg concentrate for solution for infusion]
+
+It is known that hydroxypropylbetadex can cause kidney vacuolation in rats when given intravenously at doses greater than 50 mg/kg/day.
+Vacuolation was noted in the kidneys of rats administered intravenous letermovir formulated with 1 500 mg/kg/day of the cyclodextrin excipient hydroxypropylbetadex.
+
+Parenteral administration of hydroxypropylbetadex at ≥ 2 000 mg/kg has been associated with hearing loss resulting from damage to the inner ear in multiple animal species.
+By comparison, the maximum dose of hydroxypropylbetadex (120 mg/kg) in intravenous PREVYMIS at the maximum recommended human dose (MRHD) (120 mg/kg) has not been associated with hearing loss in any animal studies.
+The active ingredient, letermovir, is not known to be associated with ototoxicity.
+
+[PREVYMIS 20 mg granules in sachet]
+
+(all sentences already above)
