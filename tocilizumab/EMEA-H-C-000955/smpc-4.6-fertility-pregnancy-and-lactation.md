@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential
-Women of childbearing potential must use effective contraception during and up to 3 months after treatment.
+Women of childbearing potential have to use effective contraception during and up to 3 months after treatment.
 
 Pregnancy
 There are no adequate data from the use of tocilizumab in pregnant women.
@@ -11,21 +11,9 @@ The potential risk for humans is unknown.
 RoActemra should not be used during pregnancy unless clearly necessary.
 
 Breast-feeding
-It is unknown whether tocilizumab is excreted in human breast milk.
+It is unknown whether tocilizumab is excreted in human milk.
 The excretion of tocilizumab in milk has not been studied in animals.
-A decision on whether to continue/discontinue breast-feeding or to continue/discontinue therapy with RoActemra should be made taking into account the benefit of breast-feeding to the child and the benefit of RoActemra therapy to the woman.
+A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from RoActemra therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 Fertility
 Available non-clinical data do not suggest an effect on fertility under tocilizumab treatment.
-
-[RoActemra 162 mg solution for injection in pre-filled syringe.]
-
-There are no adequate data from the use of RoActemra in pregnant women.
-
-The excretion of RoActemra in milk has not been studied in animals.
-
-Available non-clinical data do not suggest an effect on fertility under RoActemra treatment.
-
-[RoActemra 162 mg solution for injection in pre-filled pen.]
-
-It is unknown whether RoActemra is excreted in human breast milk.

@@ -1,4 +1,4 @@
-# 8. MARKETING AUTHORISATION NUMBER(S)
+# 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/08/492/001
 EU/1/08/492/002
@@ -7,12 +7,12 @@ EU/1/08/492/004
 EU/1/08/492/005
 EU/1/08/492/006
 
-[RoActemra 162 mg solution for injection in pre-filled syringe.]
+[RoActemra 162 mg solution for injection in pre-filled syringe]
 
 EU/1/08/492/007
 EU/1/08/492/008
 
-[RoActemra 162 mg solution for injection in pre-filled pen.]
+[RoActemra 162 mg solution for injection in pre-filled pen]
 
 EU/1/08/492/009
 EU/1/08/492/010
