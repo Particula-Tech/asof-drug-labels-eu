@@ -38,9 +38,9 @@ Dose adjustments or temporary treatment discontinuation may be necessary in mild
 
 Severe skin reactions
 
-Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported post-marketing in association with Esbriet treatment.
+Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported post-marketing in association with Esbriet treatment.
 If signs and symptoms suggestive of these reactions appear, Esbriet should be withdrawn immediately.
-If the patient has developed SJS or TEN with the use of Esbriet, treatment with Esbriet must not be restarted and should be permanently discontinued.
+If the patient has developed SJS, TEN or DRESS with the use of Esbriet, treatment with Esbriet must not be restarted and should be permanently discontinued.
 
 Angioedema/Anaphylaxis
 

@@ -43,7 +43,7 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | Skin and subcutaneous tissue disorders |  |
 | Very Common | Rash |
 | Common | Photosensitivity reaction; pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic |
-| Not Known | Stevens-Johnson syndrome1; toxic epidermal necrolysis1 |
+| Not Known | Stevens-Johnson syndrome1; toxic epidermal necrolysis1; drug reaction with eosinophilia and systemic symptoms (DRESS)1 |
 | Musculoskeletal and connective tissue disorders |  |
 | Very Common | Arthralgia |
 | Common | Myalgia |
@@ -54,7 +54,7 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | Common | Sunburn |
 
 1.
-Identified through post-marketing surveillance
+Identified through post-marketing surveillance (see section 4.4)
 2.
 Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see sections 4.3, 4.4).
 

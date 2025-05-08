@@ -70,6 +70,7 @@ At Week 52, a decline from Baseline in percent predicted FVC of ≥10% or death 
 | No decline (FVC change >0%) | 63 (23%) | 27 (10%) |
 
 The decline in distance walked during a 6MWT from Baseline to Week 52 was significantly reduced in patients receiving Esbriet compared with patients receiving placebo in PIPF-016 (p=0.036, rank ANCOVA); 26% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance compared to 36% of patients receiving placebo.
+
 In a pre-specified pooled analysis of studies PIPF-016, PIPF-004, and PIPF-006 at Month 12, all-cause mortality was significantly lower in Esbriet 2403 mg/day group (3.5%, 22 of 623 patients) compared with placebo (6.7%, 42 of 624 patients), resulting in a 48% reduction in the risk of all-cause mortality within the first 12 months (HR 0.52 [95% CI, 0.31–0.87], p=0.0107, log-rank test).
 
 The study (SP3) in Japanese patients compared pirfenidone 1800 mg/day (comparable to 2403 mg/day in the US and European populations of PIPF-004/006 on a weight-normalised basis) with placebo (N=110, N=109, respectively).

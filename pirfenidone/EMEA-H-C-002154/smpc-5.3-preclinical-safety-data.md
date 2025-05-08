@@ -17,7 +17,6 @@ In animals placental transfer of pirfenidone and/or its metabolites occurs with 
 At high doses (≥450 mg/kg/day) rats exhibited a prolongation of oestrous cycle and a high incidence of irregular cycles.
 At high doses (≥1,000 mg/kg/day) rats exhibited a prolongation of gestation and reduction in fetal viability.
 Studies in lactating rats indicate that pirfenidone and/or its metabolites are excreted in milk with the potential for accumulation of pirfenidone and/or its metabolites in milk.
-
 Pirfenidone showed no indication of mutagenic or genotoxic activity in a standard battery of tests and when tested under UV exposure was not mutagenic.
 When tested under UV exposure pirfenidone was positive in a photoclastogenic assay in Chinese hamster lung cells.
 

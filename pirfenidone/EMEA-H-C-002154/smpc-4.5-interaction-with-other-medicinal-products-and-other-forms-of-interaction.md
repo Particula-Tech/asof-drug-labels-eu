@@ -17,7 +17,6 @@ In vitro and in vivo extrapolations indicate that strong and selective inhibitor
 If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of pirfenidone should be reduced to 801 mg daily (one capsule, three times a day).
 Patients should be closely monitored for emergence of adverse reactions associated with Esbriet therapy.
 Discontinue Esbriet if necessary (see sections 4.2 and 4.4).
-
 Co-administration of Esbriet and 750 mg of ciprofloxacin (a moderate inhibitor of CYP1A2) increased the exposure to pirfenidone by 81%.
 If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (two capsules, three times a day).
 Esbriet should be used with caution when ciprofloxacin is used at a dose of 250 mg or 500 mg once or two times a day.

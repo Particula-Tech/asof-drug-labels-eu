@@ -6,6 +6,7 @@ Microcrystalline cellulose
 Croscarmellose sodium
 Povidone
 Magnesium stearate
+
 Capsule shell
 
 Titanium dioxide (E171)
