@@ -2,32 +2,29 @@
 
 Contraception in males and females
 
-Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential should use effective contraceptive methods during and for 12 months following treatment with MabThera.
+Due to the long retention time of rituximab in B-cell depleted patients, women of childbearing potential should use effective contraceptive methods during and for 12 months following treatment with MabThera.
 
 Pregnancy
 
 IgG immunoglobulins are known to cross the placental barrier.
 
-B cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials.
+B-cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials.
 There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabThera during pregnancy.
 Similar effects have been observed in animal studies (see section 5.3).
 For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
+
 Breast-feeding
 
 Limited data on rituximab excretion into breast milk suggest very low rituximab concentrations in milk (relative infant dose less than 0.4%).
 Few cases of follow-up of breastfed infants describe normal growth and development up to 2 years.
 However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breast-feeding is not recommended while being treated with rituximab and optimally for 6 months following rituximab treatment.
-
 Fertility
 
 Animal studies did not reveal deleterious effects of rituximab on reproductive organs.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 
-Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential must employ effective contraceptive methods during and for 12 months after treatment with MabThera.
-
-B-cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials.
-Similar effects have been observed in animal studies (see section 5.3).For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
+Due to the long retention time of rituximab in B-cell depleted patients, women of childbearing potential must employ effective contraceptive methods during and for 12 months after treatment with MabThera.
 
 Animal studies did not reveal deleterious effects of rituximab or recombinant human hyaluronidase (rHuPH20) on reproductive organs.
 

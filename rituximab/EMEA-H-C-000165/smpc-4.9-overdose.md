@@ -6,7 +6,7 @@ No additional safety signals were identified.
 
 Patients who experience overdose should have immediate interruption of their infusion and be closely monitored.
 
-In the postmarketing setting five cases of MabThera overdose have been reported.
+In the post-marketing setting five cases of MabThera overdose have been reported.
 Three cases had no reported adverse event.
 The two adverse events that were reported were flu-like symptoms, with a dose of 1.8 g of rituximab and fatal respiratory failure, with a dose of 2 g of rituximab.
 
@@ -15,9 +15,7 @@ The two adverse events that were reported were flu-like symptoms, with a dose of
 Three patients in the MabThera subcutaneous formulation trial SABRINA (BO22334) were inadvertently administered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780 mg with no untoward effect.
 Patients who experience overdose or medication error should be closely monitored.
 
-In the post-marketing setting five cases of MabThera overdose have been reported.
-
 [MabThera 1600 mg solution for subcutaneous injection]
 
-Three patients in the MabThera subcutaneous NHL formulation trial SABRINA (BO22334) were inadvertently adminstered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780 mg with no untoward effect.
+Three patients in the MabThera subcutaneous NHL formulation trial SABRINA (BO22334) were inadvertently administered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780 mg with no untoward effect.
 Patients who experience overdose or medication error with MabThera should be closely monitored.
