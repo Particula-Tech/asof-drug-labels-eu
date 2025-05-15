@@ -19,6 +19,11 @@ Neoadjuvant treatment of NSCLC
 
 OPDIVO in combination with platinum-based chemotherapy is indicated for the neoadjuvant treatment of resectable non-small cell lung cancer at high risk of recurrence in adult patients whose tumours have PD-L1 expression ≥ 1% (see section 5.1 for selection criteria).
 
+Neoadjuvant and adjuvant treatment of NSCLC
+
+OPDIVO, in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by OPDIVO as monotherapy as adjuvant treatment, is indicated for the treatment of resectable non-small cell lung cancer at high risk of recurrence in adult patients whose tumours have PD-L1 expression
+≥ 1% (see section 5.1 for selection criteria).
+
 Malignant pleural mesothelioma (MPM)
 
 OPDIVO in combination with ipilimumab is indicated for the first-line treatment of adult patients with unresectable malignant pleural mesothelioma.
@@ -48,7 +53,6 @@ OPDIVO as monotherapy is indicated for the treatment of locally advanced unresec
 Adjuvant treatment of urothelial carcinoma
 
 OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with muscle invasive urothelial carcinoma (MIUC) with tumour cell PD-L1 expression ≥ 1%, who are at high risk of recurrence after undergoing radical resection of MIUC (see section 5.1).
-
 Mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer (CRC)
 
 OPDIVO in combination with ipilimumab is indicated for the treatment of adult patients with mismatch repair deficient or microsatellite instability-high colorectal cancer in the following settings:

@@ -3,16 +3,19 @@
 Treatment must be initiated and supervised by physicians experienced in the treatment of cancer.
 
 PD-L1 testing
-If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, and 5.1).
 
-MSI/MMR testing
-If specified in the indication, patient selection for treatment with OPDIVO based on MSI-H/dMMR tumour status should be assessed by a CE-marked IVD with the corresponding intended purpose.
+If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be assessed by a CE-marked in vitro IVD medical device test.
 If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
 
+MSI/MMR testing
+
+If specified in the indication, patient selection for treatment with OPDIVO based on MSI-H/dMMR tumour status should be assessed by a CE-marked IVD with the corresponding intended purpose.
+If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
 Posology
 
 OPDIVO as monotherapy
 The recommended dose of OPDIVO is either nivolumab 240 mg every 2 weeks or 480 mg every 4 weeks depending on the indication and population (see sections 5.1 and 5.2), as presented in Table 1.
+
 Table 1: Recommended dose and infusion time for intravenous administration of nivolumab monotherapy
 
 | Indication* | Recommended dose and infusion time |
@@ -78,6 +81,7 @@ Treatment with nivolumab is recommended until disease progression, unacceptable 
 
 The recommended dose in patients who received prior fluoropyrimidine-based combination chemotherapy for dMMR or MSI-H CRC is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses, followed by nivolumab monotherapy administered intravenously 240 mg every 2 weeks, as presented in Table 4.
 For the monotherapy phase, the first dose of nivolumab should be administered 3 weeks after the last dose of the combination of nivolumab and ipilimumab.
+
 Table 4: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for dMMR or MSI-H CRC
 
 |  |  | Combination phase, every 3 weeks for 4 dosing cycles | Monotherapy phase |
@@ -109,7 +113,6 @@ OPDIVO in combination with cabozantinib
 
 Renal cell carcinoma
 The recommended dose is nivolumab administered intravenously at either 240 mg every 2 weeks or 480 mg every 4 weeks in combination with 40 mg cabozantinib administered orally every day.
-
 Table 6: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
 
 |  | Combination phase |
@@ -129,6 +132,10 @@ OPDIVO in combination with chemotherapy
 Neoadjuvant treatment of non-small cell lung cancer
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with platinum-based chemotherapy every 3 weeks for 3 cycles (see section 5.1).
 
+Neoadjuvant and adjuvant treatment of non-small cell lung cancer
+The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with platinum-based chemotherapy every 3 weeks for 4 cycles in the neoadjuvant phase, followed by adjuvant treatment with nivolumab 480 mg as monotherapy every 4 weeks.
+Treatment is recommended until disease progression or recurrence, unacceptable toxicity, or up to 13 cycles (see section 5.1).
+
 Oesophageal squamous cell carcinoma
 The recommended dose of nivolumab is 240 mg every 2 weeks or 480 mg every 4 weeks administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
@@ -143,7 +150,6 @@ Treatment with nivolumab is recommended until disease progression, unacceptable 
 
 Duration of treatment
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab or other therapeutic agents, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient (and up to maximum duration of therapy if specified for an indication).
-
 For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 
 For OPDIVO in combination with cabozantinib, OPDIVO should be continued until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
@@ -158,6 +164,7 @@ Dosing delay or discontinuation may be required based on individual safety and t
 Guidelines for permanent discontinuation or withholding of doses are described in Table 7.
 Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4.
 When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
+
 Table 7: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 Immune-related Severity Treatment modification
@@ -202,10 +209,15 @@ NOTE: for RCC if needed, is complete
 patients treated
 with OPDIVO in Grade 3 or 4 elevation in AST, ALT, or total Permanently discontinue
 combination with bilirubin treatment
-cabozantinib with liver
-enzyme elevations, see
-dosing guidelines
-following this table.
+cabozantinib with
+liver enzyme
+elevations, see dosing
+guidelines following
+this table.
+Immune-related Severity Treatment modification
+
+adverse reaction
+
 If AST/ALT is within normal limits at Withhold dose(s) until laboratory
 
 baseline and increases to > 3 and ≤ 10 times values return to baseline and
@@ -217,11 +229,11 @@ Baseline AST/ALT is > 1 and ≤ 3 times ULN and increases to > 5 and ≤ 10 time
 
 Immune-related or
 
-hepatitis with HCC Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN
+hepatitis with HCC Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN.
 
-AST/ALT increases to > 10 times ULN Permanently discontinue treatment
+AST/ALT increases to > 10 times ULN Permanently discontinue
+or treatment
 
-or
 Total bilirubin increases to > 3 times ULN
 
 Grade 2 or 3 creatinine elevation Withhold dose(s) until creatinine
@@ -236,10 +248,6 @@ dysfunction
 Grade 4 creatinine elevation Permanently discontinue
 
 treatment
-
-Immune-related Severity Treatment modification
-
-adverse reaction
 Symptomatic Grade 2 or 3 hypothyroidism, Withhold dose(s) until symptoms
 
 hyperthyroidism, hypophysitis, resolve and management with
@@ -334,7 +342,6 @@ Hepatic impairment
 Based on the population PK results, no dose adjustment is required in patients with mild or moderate hepatic impairment (see section 5.2).
 Data from patients with severe hepatic impairment are too limited to draw conclusions on this population.
 OPDIVO must be administered with caution in patients with severe (total bilirubin > 3 × ULN and any AST) hepatic impairment.
-
 Method of administration
 
 OPDIVO is for intravenous use only.

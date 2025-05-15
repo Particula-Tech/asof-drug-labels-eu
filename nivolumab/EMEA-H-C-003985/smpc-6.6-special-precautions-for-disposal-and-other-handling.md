@@ -5,7 +5,6 @@ Preparation should be performed by trained personnel in accordance with good pra
 Preparation and administration
 
 Calculating the dose
-
 More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
 
 Nivolumab monotherapy

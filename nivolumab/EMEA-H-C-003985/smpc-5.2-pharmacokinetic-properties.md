@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Nivolumab monotherapy
+
 The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg.
 The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μg/mL, respectively, based on a population PK analysis.
 
@@ -11,6 +12,7 @@ The metabolic pathway of nivolumab has not been characterised.
 Nivolumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
 Nivolumab in combination with ipilimumab
+
 When nivolumab 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29% and the CL of ipilimumab was increased by 9%, which was not considered clinically relevant.
 When nivolumab 3 mg/kg was administered in combination with ipilimumab 1 mg/kg, the CL of nivolumab was increased by 1% and the CL of ipilimumab was decreased by 1.5%, which were not considered clinically relevant.
 
@@ -18,6 +20,7 @@ When administered in combination with ipilimumab, the CL of nivolumab increased 
 These changes were not considered clinically relevant.
 
 Nivolumab in combination with ipilimumab and chemotherapy
+
 When nivolumab 360 mg every 3 weeks was administered in combination with ipilimumab 1 mg/kg every 6 weeks and with 2 cycles of chemotherapy, the CL of nivolumab decreased approximately 10% and the CL of ipilimumab increased approximately 22%, which were not considered clinically relevant.
 
 Special populations

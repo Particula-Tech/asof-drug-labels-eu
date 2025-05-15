@@ -1,15 +1,19 @@
 # 4.4 Special warnings and precautions for use
 
 Traceability
+
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Assessment of PD-L1 status
+
 When assessing the PD-L1 status of the tumour, it is important that a well-validated and robust methodology is used.
 
 Assessment of MSI/MMR status
+
 When assessing the MSI-H and dMMR status of the tumour, it is important that a well-validated and robust methodology is used.
 
 Immune-related adverse reactions
+
 When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
 Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy.
@@ -66,6 +70,7 @@ For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipi
 Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+
 Immune-related hepatitis
 Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
@@ -156,6 +161,7 @@ Caution should be taken when nivolumab is administered as monotherapy or in comb
 If HLH is confirmed, administration of nivolumab or nivolumab in combination with ipilimumab should be discontinued and treatment for HLH initiated.
 
 Infusion reactions
+
 Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
 In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
 Patients with mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
@@ -194,7 +200,6 @@ First-line treatment of NSCLC
 Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1).
 Limited data are available in elderly patients (≥ 75 years) (see section 5.1).
 In these patients, nivolumab in combination with ipilimumab and chemotherapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis.
-
 Treatment of NSCLC after prior chemotherapy
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
 Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
@@ -207,6 +212,11 @@ Neoadjuvant treatment of NSCLC
 Patients with a baseline performance score ≥ 2, active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, unresectable or metastatic disease, who received prior anti-cancer treatment for resectable disease, or who had known
 EGFR mutations or ALK translocations were excluded from the pivotal trial in neoadjuvant treatment of resectable NSCLC (see section 5.1).
 In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+Neoadjuvant and adjuvant treatment of non-small cell lung cancer
+Patients with a baseline performance score ≥ 2, Grade 2 or greater peripheral neuropathy, active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, unresectable or metastatic disease, who received prior anti-cancer treatment for resectable disease, who had EGFR mutations or known ALK translocations, or who had brain metastasis, were excluded from the pivotal trial in neoadjuvant and adjuvant treatment of NSCLC (see sections 4.5 and 5.1).
+In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Malignant pleural mesothelioma
 Patients with primitive peritoneal, pericardial, testis, or tunica vaginalis mesothelioma, interstitial lung disease, active autoimmune disease, medical conditions requiring systemic immunosuppression, and brain metastasis (unless surgically resected or treated with stereotaxic radiotherapy and no evolution within 3 months prior to inclusion in the study) were excluded from the pivotal trial in first-line treatment of MPM (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -219,7 +229,6 @@ In the absence of data, nivolumab or nivolumab in combination with ipilimumab sh
 Nivolumab in combination with cabozantinib
 Patients with any active brain metastases, autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab in combination with cabozantinib (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with cabozantinib should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 When nivolumab is given with cabozantinib, higher frequencies of Grades 3 and 4 ALT and AST elevations have been reported relative to nivolumab monotherapy in patients with advanced RCC (see section 4.8).
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for cabozantinib).
@@ -239,6 +248,7 @@ The benefit of treatment with nivolumab versus the possible risk should be consi
 Head and neck cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
@@ -251,7 +261,6 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Adjuvant treatment of urothelial carcinoma
 Patients with a baseline performance score of ≥ 2 (except patients with a baseline performance score of 2 who have not received cisplatin based neoadjuvant chemotherapy and are considered ineligible for cisplatin adjuvant chemotherapy), evidence of disease after surgery, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial of adjuvant treatment of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 dMMR or MSI-H colorectal cancer
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -283,7 +292,6 @@ In the absence of data, nivolumab in combination with chemotherapy should be use
 
 Study CA209649 excluded patients with known HER2-positive status.
 Patients with undetermined status were allowed in the study and represented 40.3% of patients (see section 5.1).
-
 Hepatocellular carcinoma
 Patients who had baseline ECOG performance score ≥ 2, prior liver transplant, Child-Pugh C liver disease, a history of concurrent brain metastases, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in HCC (see sections 4.5 and 5.1).
 Limited data are available in HCC patients with Child-Pugh B. In the absence of data, nivolumab in combination with ipilimumab followed by nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -293,11 +301,13 @@ A higher risk of death may be associated with poor prognostic features.
 Physicians should consider this risk before initiating treatment with nivolumab in combination with ipilimumab in patients with poor prognostic features.
 
 Patients on controlled sodium diet
+
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
 This medicinal product contains 10 mg sodium per 4 mL vial, 25 mg sodium per 10 mL vial, 30 mg sodium per 12 mL vial or 60 mg sodium per 24 mL vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 Sodium intake could vary in case sodium chloride is used for the dilution steps.
 
 Patient alert card
+
 All prescribers of OPDIVO must be familiar with the physician information and management guidelines.
 The prescriber must discuss the risks of OPDIVO therapy with the patient.
 The patient will be provided with the patient alert card with each prescription.
