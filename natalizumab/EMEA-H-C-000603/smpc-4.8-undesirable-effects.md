@@ -9,7 +9,7 @@ In clinical trials in 6786 patients treated with natalizumab (intravenous infusi
 Tabulated list of adverse reactions
 
 Adverse reactions arising from clinical studies, post-authorisation safety studies and spontaneous reports are presented in Table 1, below.
-Within the system organ classes they are listed under the following headings: Very common (≥1/10); Common (≥1/100 to <1/10); Uncommon (≥1/1,000 to <1/100); Rare (≥1/10,000 to <1/1,000); Very rare (<1/10,000), not known (cannot be estimated from the available data).
+Within the system organ classes they are listed under the following headings: Very common (≥1/10); Common (≥1/100 to <1/10); Uncommon (≥1/1 000 to <1/100); Rare (≥1/10 000 to <1/1 000); Very rare (<1/10 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions
@@ -18,19 +18,20 @@ Table 1: Adverse reactions
 | --- | --- | --- | --- | --- | --- |
 |  | Very Common | Common | Uncommon | Rare | Not known |
 | Infections and infestations | Nasopharyngitis Urinary tract infection | Herpes infection | Progressive multifocal leukoencephalopathy | Herpes ophthalmic | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
-| Immune system disorders |  | Hypersensitivity | Anaphylactic reaction Immune reconstitution inflammatory syndrome |  |  |
 | Blood and lymphatic system disorders |  | Anaemia | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells |  |
-| Hepatobiliary disorders |  |  |  | Hyperbilirubinaemia | Liver injury |
-| Investigations |  | Hepatic enzyme increased Drug specific antibody present |  |  |  |
-| Injury, poisoning and procedural complications | Infusion related reaction |  |  |  |  |
+| Immune system disorders |  | Hypersensitivity | Anaphylactic reaction Immune reconstitution inflammatory syndrome |  |  |
+| Nervous system disorders | Dizziness Headache |  |  |  |  |
+| Vascular disorders |  | Flushing |  |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Dyspnoea |  |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting |  |  |  |
-| General disorders and administration site conditions | Fatigue | Pyrexia Chills Infusion site reaction Injection site reaction | Face oedema |  |  |
+| Hepatobiliary disorders |  |  |  | Hyperbilirubinaemia | Liver injury |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash Urticaria |  | Angioedema |  |
-|  | Very Common | Common | Uncommon | Rare | Not known |
-| Vascular disorders |  | Flushing |  |  |  |
-| Nervous system disorders | Dizziness Headache |  |  |  |  |
 | Musculoskeletal and connective tissue disorders | Arthralgia |  |  |  |  |
+| General disorders and administration site conditions | Fatigue | Pyrexia Chills Infusion site reaction Injection site reaction | Face oedema |  |  |
+| Investigations |  | Hepatic enzyme increased |  |  |  |
+|  | Very Common | Common | Uncommon | Rare | Not known |
+|  |  | Drug specific antibody present |  |  |  |
+| Injury, poisoning and procedural complications | Infusion related reaction |  |  |  |  |
 
 Description of selected adverse reactions
 
@@ -132,13 +133,37 @@ Adverse reactions arising from clinical studies, post-authorisation safety studi
 | --- | --- | --- | --- | --- | --- |
 |  | Very Common | Common | Uncommon | Rare | Not known |
 | Infections and infestations | Nasopharyngitis Urinary tract infection | Herpes infection | Progressive multifocal leukoencephalopathy | Herpes ophthalmic | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
-| Immune system disorders |  | Hypersensitivity | Anaphylactic reaction Immune reconstitution inflammatory syndrome |  |  |
 | Blood and lymphatic system disorders |  | Anaemia | Thrombocytopenia, Immune thrombocytopenic purpura (ITP), Eosinophilia | Haemolytic anaemia Nucleated red cells |  |
-| Hepatobiliary disorders |  |  |  | Hyperbilirubinaemia | Liver injury |
+| Immune system disorders |  | Hypersensitivity | Anaphylactic reaction |  |  |
 
 MedDRA Frequency of adverse reactions
 System Organ Very Common Common Uncommon Rare Not known
 Class
+Immune
+reconstitution
+inflammatory
+syndrome
+Nervous system Dizziness
+disorders Headache
+Vascular Flushing
+disorders
+Respiratory, Dyspnoea
+thoracic and
+mediastinal
+Gastrointestinal Nausea Vomiting
+Hepatobiliary Hyperbilirubinaemia Liver injury
+Skin and Pruritus Angioedema
+subcutaneous Rash
+tissue disorders Urticaria
+Musculoskeletal Arthralgia
+and connective
+tissue disorders
+General Fatigue Pyrexia Face oedema
+disorders and Chills
+administration Infusion site
+site conditions reaction
+Injection site
+reaction
 Investigations Hepatic
 enzyme
 increased
@@ -149,26 +174,6 @@ Injury, Infusion related
 poisoning and reaction
 procedural
 complications
-Respiratory, Dyspnoea
-thoracic and
-mediastinal
-disorders
-Gastrointestinal Nausea Vomiting
-General Fatigue Pyrexia Face oedema
-disorders and Chills
-administration Infusion site
-site conditions reaction
-Injection site
-reaction
-Skin and Pruritus Angioedema
-subcutaneous Rash
-tissue disorders Urticaria
-Vascular Flushing
-Nervous system Dizziness
-disorders Headache
-Musculoskeletal Arthralgia
-and connective
-tissue disorders
 
 Hypersensitivity reactions usually occurred within one hour after completion of the subcutaneous injections.
 The number of patients analysed in the DELIVER and REFINE studies was low (see section 5.1).

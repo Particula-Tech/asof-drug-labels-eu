@@ -8,17 +8,18 @@ Population pharmacokinetic analysis includes 12 studies and 1,781 subjects recei
 
 Distribution
 
-Median steady-state volume of distribution was 5.96 L (4.59-6.38 L, 95% confidence interval).
+Median steady-state volume of distribution was 5.96 L (5.59-6.38 L, 95% confidence interval).
 
 Elimination
 
-Population median estimate for linear clearance was 6.1 mL/h (5.75-6.33 mL/h, 95% confidence interval) and the estimated median half-life was 28.2 days.
+Population median estimate for linear clearance was 6.08 mL/h (5.75-6.33 mL/h, 95% confidence interval) and the estimated median half-life was 28.2 days.
 The 95th percentile interval of the terminal half-life is from 11.6 to 46.2 days.
 
 The population analysis of 1,781 patients explored the effects of selected covariates including body weight, age, gender, presence of anti-natalizumab antibodies and formulation on pharmacokinetics.
 Only body weight, the presence of anti-natalizumab antibodies and the formulation used in phase 2 studies were found to influence natalizumab disposition.
 Natalizumab clearance increased with body weight in a less-than-proportional manner, such that a +/-43% change in body weight resulted in only a -33% to 30% change in clearance.
 The presence of persistent anti-natalizumab antibodies increased natalizumab clearance approximately 2.45-fold, consistent with reduced serum natalizumab concentrations observed in persistently antibody-positive patients.
+
 Special Populations
 
 Paediatric population
@@ -26,7 +27,6 @@ Paediatric population
 The pharmacokinetics of natalizumab in paediatric MS patients has not been established.
 
 Renal impairment
-
 The pharmacokinetics of natalizumab in patients with renal insufficiency has not been studied.
 
 Hepatic impairment
@@ -57,6 +57,7 @@ The predicted time to steady-state was approximately 24 weeks.
 In both intravenous and subcutaneous administration of natalizumab (every 4 weeks) Ctrough values resulted in comparable α4β1 integrin binding.
 
 Both intravenous and subcutaneous routes of administration shared the same disposition PK parameters (CL, Vss and t½) and same sets of covariates as described in the updated population pharmacokinetic analysis.
+
 Median steady-state volume of distribution was 5.58 L (5.27-5.92 L, 95% confidence interval).
 
 Population median estimate for linear clearance was 6.21 mL/h (5.60-6.70 mL/h, 95% confidence interval) and the estimated median half-life was 26.8 days.

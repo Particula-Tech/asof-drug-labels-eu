@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AA23
+Pharmacotherapeutic group: Immunosuppressants, monoclonal antibodies, ATC code: L04AG03
 
 Pharmacodynamic effects
 
@@ -18,10 +18,10 @@ Under normal conditions, VCAM-1 is not expressed in the brain parenchyma.
 However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation.
 In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
 Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
+
 Clinical efficacy
 
 AFFIRM clinical study
-
 Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in RRMS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.
 Median age was 37 years, with a median disease duration of 5 years.
 The patients were randomised with a 2:1 ratio to receive Tysabri 300 mg (n = 627) or placebo (n = 315) every 4 weeks for up to 30 infusions.
@@ -60,7 +60,7 @@ Study features and results are presented in the Table 2.
 | Proportion progressed1(12-week confirmation; primary outcome) | 29% | 17% |
 |  | Hazard ratio 0.58, CI95% 0.43; 0.73, p<0.001 |  |
 | Proportion progressed1(24-week confirmation) | 23% | 11% |
-|  | Hazard ratio 0.46, CI95% 0.33; 0.64, p<0.001 |  |
+|  | Hazard ratio 0.46, CI95%0.33; 0.64, p<0.001 |  |
 | MRI (0-2 years) |  |  |
 | Median % change in T2-hyperintense lesion volume | +8.8% | -9.4% (p<0.001) |
 | Mean number of new or newly-enlarging T2-hyperintense lesions | 11.0 | 1.9 (p<0.001) |
@@ -87,13 +87,14 @@ Within this analysis, a limited subset of patients with data available prior to 
 
 Extended interval dosing
 
-In a pre-specified, retrospective analysis of US anti-JCV antibody positive Tysabri patients intravenously administered (TOUCH registry), the risk of PML was compared between patients treated with the approved dosing interval and patients treated with extended interval dosing as identified in the last 18 months of exposure (EID, average dosing intervals of approximately 6 weeks).
+In a pre-specified, retrospective analysis of US anti-JCV antibody positive Tysabri patients intravenously administered (TOUCH Prescribing Program), the risk of PML was compared between patients treated with the approved dosing interval and patients treated with extended interval dosing as identified in the last 18 months of exposure (EID, average dosing intervals of approximately 6 weeks).
 The majority (85%) of patients dosed with EID had received the approved dosing for ≥1 year prior to switching to EID.
 The analysis showed a lower risk of PML in patients treated with EID (hazard ratio = 0.06, 95% CI of hazard ratio = 0.01 to 0.22).
 
 Efficacy has been modelled for patients who switch to longer dosing after ≥1 year of approved dosing with this medicinal product under intravenous administration and who did not experience a relapse in the year prior to switching.
 Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals may be higher for patients with dosing intervals ≥7 weeks.
 No prospective clinical studies have been completed to validate these findings.
+
 The efficacy of natalizumab when administered with EID has not been established; therefore, the benefit/risk balance of EID is unknown (see “Intravenous administration Q6W”).
 
 Intravenous administration Q6W
@@ -139,7 +140,7 @@ Baseline demographic subgroups of age, sex, duration of natalizumab exposure, co
 
 [Tysabri 150 mg solution for injection in pre-filled syringe]
 
-Based on PK/α4β1 integrin binding relationships established in the updated population pharmacokinetic/pharmacodymanic model, the EC50 of natalizumab binding to α4β1 integrin is estimated to be 2.04 mg/L based on a population pharmacokinetic/pharmacodynamic model.
+The EC50 of natalizumab binding to α4β1 integrin is estimated to be 2.04 mg/L based on a population pharmacokinetic/pharmacodynamic model.
 There was no difference in α4β1integrin binding after natalizumab 300 mg every 4 weeks was administered subcutaneously or intravenously.
 Mean PD (alpha-4 saturation on mononuclear lymphocyte cells) was similar between the intravenous administration Q6W and Q4W regimens, with the difference in mean % alpha-4 saturation ranging from 9 to 16%.
 
@@ -147,48 +148,6 @@ Based on similarities in pharmacokinetics and pharmacodynamics between intraveno
 
 Efficacy as monotherapy for intravenous infusion has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in RRMS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.
 The patients were randomised with a 2:1 ratio to receive natalizumab 300 mg (n = 627) or placebo (n = 315) every 4 weeks for up to 30 infusions.
-
-| Table 2. AFFIRM study: Main features and results |  |
-| --- | --- |
-| Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |
-| Subjects | RRMS (McDonald criteria) |
-| Treatment | Placebo / Natalizumab 300 mg i.v. every 4 weeks |
-| One year endpoint | Relapse rate |
-| Two year endpoint | Progression on EDSS |
-
-| Table 2. AFFIRM study: Main features and results |  |  |
-| --- | --- | --- |
-| Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |  |
-| Secondary endpoints | Relapse rate derived variables / MRI-derived variables |  |
-| Subjects | Placebo | Natalizumab |
-| Randomised | 315 | 627 |
-| Completing 1 years | 296 | 609 |
-| Completing 2 years | 285 | 589 |
-| Age yrs, median (range) | 37 (19-50) | 36 (18-50) |
-| MS-history yrs, median (range) | 6.0 (0-33) | 5.0 (0-34) |
-| Time since diagnosis, yrs median (range) | 2.0 (0-23) | 2.0 (0-24) |
-| Relapses in previous 12 months, median (range) | 1.0 (0-5) | 1.0 (0-12) |
-| EDSS-baseline, median (range) | 2 (0-6.0) | 2 (0-6.0) |
-| RESULTS |  |  |
-| Annual relapse rate |  |  |
-| After one year (primary endpoint) | 0.805 | 0.261 |
-| After two years | 0.733 | 0.235 |
-| One year | Rate ratio 0.33 CI95% 0.26 ; 0.41 |  |
-| Two years | Rate ratio 0.32 CI95% 0.26 ; 0.40 |  |
-| Relapse free |  |  |
-| After one year | 53% | 76% |
-| After two years | 41% | 67% |
-| Disability |  |  |
-| Proportion progressed1(12-week confirmation; primary outcome) | 29% | 17% |
-|  | Hazard ratio 0.58, CI95% 0.43; 0.73, p<0.001 |  |
-| Proportion progressed1(24-week confirmation) | 23% | 11% |
-|  | Hazard ratio 0.46, CI95% 0.33; 0.64, p<0.001 |  |
-| MRI (0-2 years) |  |  |
-| Median % change in T2-hyperintense lesion volume | +8.8% | -9.4% (p<0.001) |
-| Mean number of new or newly-enlarging T2-hyperintense lesions | 11.0 | 1.9 (p<0.001) |
-| Mean number of T1-hypointense lesions | 4.6 | 1.1 (p<0.001) |
-| Mean number of Gd-enhancing lesions | 1.2 | 0.1 (p<0.001) |
-| 1 Progression of disability was defined as at least a 1.0 point increase on the EDSS from a baseline EDSS >=1.0 sustained for 12 or 24 weeks or at least a 1.5 point increase on the EDSS from a baseline EDSS =0 sustained for 12 or 24 weeks. |  |  |
 
 In the sub-group of patients indicated for treatment of rapidly evolving RRMS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the natalizumab-treated group (n = 148) and 1.455 in the placebo group (n = 61) (p < 0.001).
 
@@ -201,8 +160,9 @@ No clinical data are available on either the safety or efficacy of this extended
 REFINE clinical study (subcutaneous formulation, population pre-treated with natalizumab [intravenous infusion] for a minimum of 12 months)
 
 Subcutaneous administration was assessed in a randomised, blinded, parallel-group, phase 2 study (REFINE) exploring the safety, tolerability, and efficacy of multiple regimens of natalizumab (300 mg intravenous every 4 weeks, 300 mg subcutaneous every 4 weeks, 300 mg intravenous every 12 weeks, 300 mg subcutaneous every 12 weeks, 150 mg intravenous every 12 weeks and 150 mg subcutaneous every 12 weeks) in adult subjects (n=290) with relapsing remitting multiple sclerosis conducted over a 60 week period.
-Subjects had received natalizumab for at least 12 months and were free from replapse for 12 months prior to randomisation.
-The primary objective of this study was to explore the effects of multiple regimens of natalizumab on disease activity and safety in subjects with RRMS.The primary endpoint of this study was the cumulative number of combined unique active (CUA) MRI lesions (sum of new Gd+ lesions on brain MRI and new or newly enlarging T2 hyperintense lesions not associated with Gd+ on T1 weighted scans).
+Subjects had received natalizumab for at least 12 months and were free from relapse for 12 months prior to randomisation.
+The primary objective of this study was to explore the effects of multiple regimens of natalizumab on disease activity and safety in subjects with RRMS.
+The primary endpoint of this study was the cumulative number of combined unique active (CUA) MRI lesions (sum of new Gd+ lesions on brain MRI and new or newly enlarging T2 hyperintense lesions not associated with Gd+ on T1 weighted scans).
 The mean CUA for the 300 mg subcutaneous every 4 week arm was low (0.02) and comparable to the 300 mg intravenous every 4 weeks arm (0.23).
 The CUA in the every 12 week treatment arms was significantly higher than the every 4 week treatment arms resulting in the early discontinuation of the every 12 week arms.
 Due to the exploratory nature of this study, no formal efficacy comparisons were made.

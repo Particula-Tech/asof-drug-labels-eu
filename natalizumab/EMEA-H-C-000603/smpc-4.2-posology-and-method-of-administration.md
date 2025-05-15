@@ -58,9 +58,8 @@ Tysabri 300 mg concentrate for solution for infusion must not be administered as
 [Tysabri 150 mg solution for injection in pre-filled syringe]
 
 Therapy is to be initiated and continuously supervised by specialised physicians experienced in the diagnosis and treatment of neurological conditions, with timely access to MRI.
-Home treatment is not recommended.
 Administration is to be performed by a healthcare professional and patients must be monitored for early signs and symptoms of Progressive Multifocal Leukoencephalopathy (PML).
-After 2 years of treatment, patients should be re-informed about the risks especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
+After 2 years of treatment, patients should be re-informed about the risks, especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
 
 There are limited data for the subcutaneous formulation in the Tysabri naïve patient population (see section 4.4).
 
@@ -73,7 +72,8 @@ The efficacy of re-administration has not been established (for safety, see sect
 
 Any switch in route of administration of the medicinal product should be made 4 weeks after the previous dose.
 
-For subcutaneous injection by a healthcare professional.
+Tysabri 150 mg solution for injection in pre-filled syringe should be administered by a healthcare professional via subcutaneous (SC) injection only.
+It is not intended for intravenous (IV) infusion.
 
 Injections of two pre-filled syringes should be administered (total dose 300 mg), one after the other without significant delay.
 The second injection should be administered no later than 30 minutes after the first injection.
@@ -83,9 +83,9 @@ The injection should not be made into an area of the body where the skin is irri
 When removing the syringe from the injection site, the plunger should be let go of while pulling the needle straight out.
 Letting go of the plunger will allow the needle guard to cover the needle.
 The second injection should be more than 3 cm away from the first injection location (see instructions for administration at the end of the package leaflet).
+Natalizumab naïve patients should be observed during the injection and for 1 hour after for signs and symptoms of injection reactions including hypersensitivity for the first 6 natalizumab doses.
+For patients currently receiving natalizumab and who have already received at least 6 doses, regardless of the route of natalizumab administration used for the first 6 doses, the 1-hour post-injection observation time for subsequent subcutaneous injections may be reduced or removed according to clinical judgement if the patients have not experienced any injection/infusion reactions.
 
-Patients are to be observed during the subcutaneous injections and for 1 hour after for signs and symptoms of injection reactions including hypersensitivity.
-Natalizumab naive patients should be observed during the injection and for 1 hour after for signs and symptoms of injection reactions including hypersensitivity for the first 6 natalizumab doses.
-For patients currently receiving natalizumab and have already received at least 6 doses, regardless of the route of natalizumab administration used for the first 6 doses, the 1-hour post-injection observation time for subsequent subcutaneous injections may be reduced or removed according to clinical judgement if the patients have not experienced any injection reactions.
-
-Tysabri 150 mg solution for injection in pre-filled syringe is not intended for intravenous infusion and should be administered via subcutaneous injection only.
+Natalizumab injections administered by a healthcare professional outside a clinical setting (e.g. at home) may be considered for patients who have previously tolerated at least 6 doses of natalizumab well, i.e. who have not experienced hypersensitivity reactions.
+The decision for a patient to receive injections outside a clinical setting should be made after evaluation and recommendation by the specialised physician.
+Healthcare professionals should be vigilant for the early signs and symptoms of PML (see section 4.4 for further information on PML and educational guidance).

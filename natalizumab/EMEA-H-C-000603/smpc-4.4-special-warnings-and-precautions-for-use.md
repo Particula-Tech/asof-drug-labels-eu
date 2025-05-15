@@ -13,10 +13,12 @@ Symptoms of JCV GCN are similar to symptoms of PML (i.e. cerebellar syndrome).
 
 The following risk factors are associated with an increased risk of PML:
 
-- The presence of anti-JCV antibodies.
-- Treatment duration, especially beyond 2 years.
-  After 2 years all patients should be re-informed about the risk of PML with the medicinal product.
-- Immunosuppressant use prior to receiving the medicinal product.
+•The presence of anti-JCV antibodies.
+
+•Treatment duration, especially beyond 2 years.
+After 2 years all patients should be re-informed about the risk of PML with the medicinal product.
+
+•Immunosuppressant use prior to receiving the medicinal product.
 
 Patients who are anti-JCV antibody positive are at an increased risk of developing PML compared to patients who are anti-JCV antibody negative.
 Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of therapy with this medicinal product and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
@@ -49,11 +51,8 @@ Before initiation of treatment with this medicinal product, a recent (usually wi
 More frequent MRIs (e.g. on a 3 to 6 monthly basis) using an abbreviated protocol should be considered for patients at higher risk of PML.
 This includes:
 
-- Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of therapy with this medicinal product and have received prior immunosuppressant therapy),
-
-or
-
-- Patients with a high anti-JCV antibody index who have received more than 2 years of therapy with this medicinal product and without prior history of immunosuppressant therapy.
+•Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of therapy with this medicinal product and have received prior immunosuppressant therapy), or
+•Patients with a high anti-JCV antibody index who have received more than 2 years of therapy with this medicinal product and without prior history of immunosuppressant therapy.
 
 Current evidence suggests that the risk of PML is low at an index equal to or below 0.9 and increases substantially above 1.5 for patients who have been on treatment with this medicinal product for longer than 2 years (see the Physician Information and Management Guidelines for further information).
 
@@ -66,7 +65,7 @@ Physicians should refer to the Physician Information and Management Guidelines f
 
 If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
 
-The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
+The specialised physician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN.
 If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment baseline MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see Educational guidance).
 Once the clinician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing may resume.
 
@@ -149,7 +148,7 @@ Physicians must evaluate each individual case to determine whether there is evid
 When switching patients from another DMT to this medicinal product, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
 A Complete Blood Count (CBC, including lymphocytes) is recommended prior to initiating treatment to ensure that immune effects of the previous therapy (i.e. cytopenia) have resolved.
 
-Patients can switch directly from beta interferon or glatiramer acetate to natalizumab providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia and, lymphopenia.
+Patients can switch directly from beta interferon or glatiramer acetate to natalizumab providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia and lymphopenia.
 
 When switching from dimethyl fumarate, the washout period should be sufficient for lymphocyte count to recover before treatment is started.
 
@@ -202,6 +201,8 @@ Before dilution, this medicinal product contains 52 mg sodium per vial of medici
 
 [Tysabri 150 mg solution for injection in pre-filled syringe]
 
+Due to this increased risk of developing PML, the benefits and risks of treatment should be individually reconsidered by the specialised physician and the patient; patients must be monitored at regular intervals throughout and should be instructed together with their caregivers on early signs and symptoms of PML.
+
 In anti-JCV antibody positive patients, extended interval dosing of natalizumab (average dosing interval of approximately 6 weeks) is suggested to be associated with a lower PML risk compared to approved dosing.
 If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit/risk balance is currently unknown (see section 5.1).
 The decrease in PML risk is based on data from intravenous route of administration.
@@ -211,6 +212,8 @@ No studies have been performed to evaluate the efficacy and safety of this medic
 It is unknown if patients switching from these therapies to this treatment have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to this medicinal product).
 
 PML should be considered as a differential diagnosis in any MS patient taking natalizumab presenting with neurological symptoms and/or new brain lesions in MRI.
+
+Once the physician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing may resume.
 
 Patients and physicians should continue to follow the same monitoring protocol and be alert for any new signs or symptoms that may be suggestive of PML for approximately 6 months following discontinuation of natalizumab.
 
@@ -222,18 +225,17 @@ Other opportunistic infections have been reported with use of this medicinal pro
 
 Prescribers should be aware of the possibility that other opportunistic infections may occur during therapy and should include them in the differential diagnosis of infections that occur in Tysabri-treated patients.
 
+Healthcare professionals administering natalizumab subcutaneous injection outside a clinical setting (OCS), e.g. at home, must complete the OCS Administration Checklist for each patient prior to each administration.
+
 Hypersensitivity reactions have been associated with this medicinal product, including, for the intravenous infusion, serious systemic reactions (see section 4.8).
 
 These reactions usually occurred within one hour after administration.
 However, the risk of hypersensitivity reactions should be considered for every administration.
-
 Patients are to be observed during the subcutaneous injections and for 1 hour after, for signs and symptoms of injection reactions including hypersensitivity (see sections 4.2 and 4.8).
 
 This medicinal product should be discontinued and appropriate therapy initiated at the first symptoms or signs of hypersensitivity.
 
 There are limited data for the subcutaneous formulation in the Tysabri naïve patient population (see section 5.1).
-
-Patients can switch directly from beta interferon or glatiramer acetate to natalizumabt providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia and, lymphopenia.
 
 Disease exacerbations or injection related events may indicate the development of antibodies against natalizumab.
 
