@@ -94,3 +94,32 @@ After administration of the nivolumab dose, flush the line with sodium chloride 
 Disposal
 Do not store any unused portion of the infusion solution for reuse.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[OPDIVO 600 mg solution for injection.]
+
+Preparation of the syringe
+
+OPDIVO solution for injection is for single use only and is ready to use.
+
+OPDIVO solution for injection should NOT be diluted or mixed with other medicinal products.
+
+OPDIVO solution for injection is compatible with polypropylene, polycarbonate, polyethylene, polyurethane, polyvinyl chloride, fluorinated ethylene propylene, and stainless steel.
+
+OPDIVO solution for injection should be a clear to opalescent, colourless to yellow solution.
+Prior to use, visually inspect and discard if discoloured or contains extraneous particulate matter other than a few translucent-to-white particles.
+
+A syringe and a transfer needle are needed to withdraw the medicinal product from the vial.
+OPDIVO solution for injection may be administered subcutaneously using a 23G-25G hypodermic injection needle or subcutaneous administration set (e.g., winged/butterfly).
+
+If a dose of 600 mg is to be administered, allow 1 vial to reach room temperature, then withdraw 5 mL of OPDIVO solution for injection into the syringe.
+
+If a dose of 1200 mg is to be administered, allow 2 vials to reach room temperature, then withdraw 10 mL of OPDIVO solution for injection into the syringe.
+
+The hypodermic injection needle must be attached to the syringe immediately prior to administration to avoid clogging.
+
+It is recommended to use the prepared dose immediately.
+
+If storage is required (see section 6.3), apply a syringe tip cap prior to storage.
+If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
+
+Discard any unused solution remaining in the vial.

@@ -16,3 +16,12 @@ Chemical and physical in-use stability from the time of preparation has been dem
 From a microbiological point of view the prepared solution for infusion, regardless of the diluent, should be used immediately.
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 7 days at 2°C to 8°C or 8 hours (of the total 7 days of storage) at room temperature (≤ 25°C).
 Aseptic handling should be ensured during the preparation of infusion (see section 6.6).
+
+[OPDIVO 600 mg solution for injection.]
+
+Storage in syringe
+
+From a microbiological point of view, once transferred from the vial to the syringe, the medicinal product should be used immediately since the medicinal product does not contain any antimicrobial preservative or bacteriostatic agents.
+If not used immediately, OPDIVO solution for injection transferred to the syringe can be stored in the refrigerator at 2°C to 8°C, protected from light for up to 7 days and/or at room temperature 20°C to 25°C and room light for up to 8 hours.
+Discard if storage time exceeds these limits.
+Aseptic handling should be ensured during the preparation of the syringe for injection.

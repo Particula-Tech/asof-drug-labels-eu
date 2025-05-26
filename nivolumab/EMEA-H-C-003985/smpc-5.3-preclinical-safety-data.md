@@ -9,3 +9,11 @@ Results for growth indices, as well as teratogenic, neurobehavioral, immunologic
 However, based on its mechanism of action, foetal exposure to nivolumab may increase the risk of developing immune-related disorders or altering the normal immune response and immune-related disorders have been reported in PD-1 knockout mice.
 
 Fertility studies have not been performed with nivolumab.
+
+[OPDIVO 600 mg solution for injection.]
+
+Subcutaneous formulation
+
+Hyaluronidase is found in most tissues of the human body.
+Non-clinical data for recombinant human hyaluronidase reveal no special hazard for humans based on conventional studies of repeated dose toxicity including safety pharmacology endpoints.
+Reproductive toxicology studies with rHuPH20 revealed embryofoetal toxicity in mice at high systemic exposure but did not show teratogenic potential.

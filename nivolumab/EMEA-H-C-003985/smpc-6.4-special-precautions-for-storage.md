@@ -6,3 +6,7 @@ Store in the original package in order to protect from light.
 The unopened vial can be stored at controlled room temperature up to 25°C with room light for up to 48 hours.
 
 For storage conditions after preparation of the infusion, see section 6.3.
+
+[OPDIVO 600 mg solution for injection.]
+
+For storage conditions after preparation of the syringe, see section 6.3.

@@ -311,3 +311,18 @@ Patient alert card
 All prescribers of OPDIVO must be familiar with the physician information and management guidelines.
 The prescriber must discuss the risks of OPDIVO therapy with the patient.
 The patient will be provided with the patient alert card with each prescription.
+
+[OPDIVO 600 mg solution for injection.]
+
+Cases of acute graft-versus-host disease (GVHD) and transplant related mortality (TRM) have been observed from the follow-up of patients with classical Hodgkin lymphoma undergoing allogeneic haematopoietic stem cell transplant (HSCT) after previous exposure to intravenous nivolumab.
+Careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case-by-case.
+In patients treated with intravenous nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
+The benefit of treatment with nivolumab versus the possible risk should be considered in these patients.
+Infusion reactions (intravenous formulation)
+Severe infusion reactions have been reported in clinical trials of intravenous nivolumab or intravenous nivolumab in combination with ipilimumab (see section 4.8).
+In case of a severe or life-threatening infusion reaction, the intravenous nivolumab or intravenous nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
+Patients with mild or moderate infusion reaction may receive intravenous nivolumab or intravenous nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
+
+OPDIVO contains polysorbate 80 (E433)
+This medicinal product contains 2.5 mg of polysorbate 80 in each 5 mL vial which is equivalent to 5 mg/10 mL.
+Polysorbates may cause allergic reactions.

@@ -79,3 +79,16 @@ OPDIVO in combination with fluoropyrimidine- and platinum-based combination chem
 Hepatocellular carcinoma (HCC)
 
 OPDIVO in combination with ipilimumab is indicated for the first-line treatment of adult patients with unresectable or advanced hepatocellular carcinoma.
+
+[OPDIVO 600 mg solution for injection.]
+
+OPDIVO as monotherapy or in combination with ipilimumab is indicated for the treatment of advanced (unresectable or metastatic) melanoma in adults (see section 4.2).
+
+OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with Stage IIB or IIC melanoma, or melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection (see section 5.1).
+
+OPDIVO in combination with ipilimumab is indicated for the first-line treatment of adult patients with intermediate/poor-risk advanced renal cell carcinoma (see sections 4.2 and 5.1).
+
+OPDIVO in combination with cisplatin and gemcitabine is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial carcinoma (see sections 4.2 and 5.1).
+
+- first-line treatment of unresectable or metastatic colorectal cancer (see sections 4.2 and 5.1);
+- treatment of metastatic colorectal cancer after prior fluoropyrimidine-based combination chemotherapy (see sections 4.2 and 5.1).

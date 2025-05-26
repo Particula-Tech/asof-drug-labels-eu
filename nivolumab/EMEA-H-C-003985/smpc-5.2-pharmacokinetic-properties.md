@@ -46,3 +46,35 @@ The effect of hepatic impairment on the CL of nivolumab was evaluated in patient
 No clinically important differences in the CL of nivolumab were found between patients with mild or moderate hepatic impairment and normal hepatic function.
 Similar results were observed in patients with HCC (mild hepatic impairment: n = 152; moderate hepatic impairment: n = 13).
 Nivolumab has not been studied in patients with severe hepatic impairment (total bilirubin > 3 × ULN and any AST) (see section 4.2).
+
+[OPDIVO 600 mg solution for injection.]
+
+Nivolumab solution for injection pharmacokinetics (PK) were assessed using a population PK approach.
+The PK was studied at a dose of 1200 mg administered as multiple doses every 4 weeks.
+
+Nivolumab time-averaged serum concentration over 28 days (Cavgd28) showed non-inferiority of subcutaneous nivolumab (77.4 mcg/mL) to intravenous nivolumab (36.9 mcg/mL), with a geometric mean ratio of 2.098 (90% CI: 2.001, 2.200).
+Nivolumab minimum serum concentration at steady state (Cminss) showed non-inferiority of subcutaneous nivolumab (122.2 mcg/mL) to intravenous nivolumab (68.9 mcg/mL), with a geometric mean ratio of 1.774 (90% CI: 1.633, 1.927).
+
+Absorption
+
+The mean absorption rate constant (Ka) and bioavailability (F) of nivolumab solution for injection are 0.0123 hr-1 (or 0.295 Day-1) and 78.8%, respectively.
+Peak concentrations occurred by around 6 days.
+
+Distribution
+
+The geometric mean (CV%) volume of distribution at steady state (Vss) is 6.32 L (21.3%).
+
+Elimination
+
+Nivolumab solution for injection human clearance (CL) decreases over time, with a mean maximal reduction from baseline values (CV%) of 24.6% (15.8%) resulting in a geometric mean (CV%) steady-state clearance (CLss) of 7.18 mL/h (52.3%) in patients with RCC; the decrease in CLss is not considered clinically relevant.
+
+The geometric mean (CV%) elimination half-life (t1/2) is 26.5 days (32.1%).
+
+The following factors had no clinically important effect on the bioavailability of nivolumab solution for injection: sex and performance status.
+The following factors had no clinically important effect on the clearance of nivolumab solution for injection: body weight (35 to 153 kg), sex, eGFR (24 to 124 mL/min/1.73 m2), or performance status.
+
+In population PK analyses for intravenous nivolumab, the effect of renal impairment on the CL of nivolumab was evaluated in patients with mild (GFR < 90 and ≥ 60 mL/min/1.73 m2; n = 379), moderate (GFR < 60 and ≥ 30 mL/min/1.73 m2; n = 179), or severe (GFR < 30 and ≥ 15 mL/min/1.73 m2; n = 2) renal impairment compared to patients with normal renal function (GFR ≥ 90 mL/min/1.73 m2; n = 342).
+
+In population PK analyses for intravenous nivolumab, the effect of hepatic impairment on the CL of nivolumab was evaluated in patients with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST > ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 92) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 804).
+No clinically important differences in the CL of nivolumab were found between patients with mild hepatic impairment and normal hepatic function.
+Nivolumab has not been studied in patients with moderate (total bilirubin > 1.5 × to 3 × ULN and any AST) or severe hepatic impairment (total bilirubin > 3 × ULN and any AST) (see section 4.2).

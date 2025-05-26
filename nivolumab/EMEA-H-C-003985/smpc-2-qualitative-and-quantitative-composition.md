@@ -13,3 +13,8 @@ Excipient with known effect
 Each mL of concentrate contains 0.1 mmol (or 2.5 mg) sodium.
 
 For the full list of excipients, see section 6.1.
+
+[OPDIVO 600 mg solution for injection.]
+
+Each mL of solution for injection contains 120 mg of nivolumab.
+One vial of 5 mL contains 600 mg of nivolumab.

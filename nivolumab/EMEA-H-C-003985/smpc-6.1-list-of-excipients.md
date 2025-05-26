@@ -8,3 +8,13 @@ Polysorbate 80 (E433)
 Sodium hydroxide (for pH adjustment)
 Hydrochloric acid (for pH adjustment)
 Water for injections
+
+[OPDIVO 600 mg solution for injection.]
+
+Recombinant human hyaluronidase (rHuPH20)
+Histidine
+Histidine hydrochloride monohydrate
+Sucrose
+Pentetic acid
+Methionine
+Water for injection
