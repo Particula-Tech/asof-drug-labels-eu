@@ -1,0 +1,16 @@
+{
+  "active_substance": "atropine sulfate",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/006324",
+  "eu_number": "EU/1/25/1920",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2025-06-02",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ryjunea",
+  "molecule": "atropine",
+  "molecule_name": "ATROPINE",
+  "name": "Ryjunea",
+  "register_name": "Ryjunea",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1920.htm"
+}
