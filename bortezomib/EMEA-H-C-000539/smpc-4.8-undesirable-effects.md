@@ -28,7 +28,7 @@ Table 7: Adverse reactions in patients with Multiple Myeloma treated with VELCAD
 |  | Common | Leukopenia*, Lymphopenia* |
 |  | Uncommon | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy, Haemolytic anaemia# |
 |  | Rare | Disseminated intravascular coagulation, Thrombocytosis*, Hyperviscosity syndrome, Platelet disorder NOS, Thrombotic microangiopathy (inc thrombocytopenic purpura) #, Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration |
-| Immune system disorders | Uncommon | Angioedema#, Hypersensitivity* |
+| Immune system | Uncommon | Angioedema#, Hypersensitivity* |
 |  | Rare | Anaphylactic shock, Amyloidosis, Type III immune complex mediated reaction |
 | Endocrine disorders | Uncommon | Cushing's syndrome*, Hyperthyroidism*, Inappropriate antidiuretic hormone secretion |
 |  | Rare | Hypothyroidism |
@@ -61,7 +61,7 @@ Table 7: Adverse reactions in patients with Multiple Myeloma treated with VELCAD
 |  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence |
 |  | Uncommon | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic#, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
 |  | Rare | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces |
-| Hepatobiliary disorders | Common | Hepatic enzyme abnormality* |
+| Hepatobiliary | Common | Hepatic enzyme abnormality* |
 |  | Uncommon | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis |
 |  | Rare | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Cytomegalovirus hepatitis, Hepatic haemorrhage, Cholelithiasis |
 | Skin and subcutaneous tissue disorders | Common | Rash*, Pruritus*, Erythema, Dry skin |
@@ -91,11 +91,12 @@ Table 7: Adverse reactions in patients with Multiple Myeloma treated with VELCAD
 NOS=not otherwise specified
 * Grouping of more than one MedDRA preferred term.
 # Post-marketing adverse reaction regardless of indication
+
 Mantle Cell Lymphoma (MCL)
 The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg/m2 in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (VcR-CAP), versus 242 patients treated with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP] was relatively consistent to that observed in patients with multiple myeloma with main differences described below.
 Additional adverse drug reactions identified associated with the use of the combination therapy (VcR-CAP) were hepatitis B infection (< 1%) and myocardial ischaemia (1.3%).
 The similar incidences of these events in both treatment arms, indicated that these adverse drug reactions are not attributable to VELCADE alone.
-Notable differences in the MCL patient population as compared to patients in the multiple myeloma studies were a ≥5% higher incidence of the haematological adverse reactions (neutropenia, thrombocytopenia, leukopenia, anemia, lymphopenia), peripheral sensory neuropathy, hypertension, pyrexia, pneumonia, stomatitis, and hair disorders.
+Notable differences in the MCL patient population as compared to patients in the multiple myeloma studies were a ≥5% higher incidence of the haematological adverse reactions (neutropenia, thrombocytopenia, leukopenia, anaemia, lymphopenia), peripheral sensory neuropathy, hypertension, pyrexia, pneumonia, stomatitis, and hair disorders.
 Adverse drug reactions identified as those with a ≥1% incidence, similar or higher incidence in the VcR-CAP arm and with at least a possible or probable causal relationship to the components of the VcR-CAP arm, are listed in Table 8 below.
 Also included are adverse drug reactions identified in the VcR-CAP arm that were considered by investigators to have at least a possible or probable causal relationship to VELCADE based on historical data in the multiple myeloma studies.
 
@@ -114,8 +115,8 @@ Table 8: Adverse reactions in patients with Mantle Cell Lymphoma treated with Vc
 |  |  | Upper/lower respiratory tract infection*, Fungal infection*, |
 |  |  | Herpes simplex* |
 |  | Uncommon | Hepatitis B, Infection*, Bronchopneumonia |
-| Blood and lymphatic system | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
-|  |  | Leukopenia*, Anaemia*, Lymphopenia* |
+| Blood and | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
+| lymphatic system |  | Leukopenia*, Anaemia*, Lymphopenia* |
 | disorders | Uncommon | Pancytopenia* |
 | Immune system | Common | Hypersensitivity* |
 | disorders | Uncommon | Anaphylactic reaction |
@@ -123,7 +124,8 @@ Table 8: Adverse reactions in patients with Mantle Cell Lymphoma treated with Vc
 | nutrition disorders | Common | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, |
 |  |  | Diabetes mellitus*, Fluid retention |
 |  | Uncommon | Tumour lysis syndrome |
-| Psychiatric disorders | Common | Sleep disorders and disturbances* |
+| Psychiatric | Common | Sleep disorders and disturbances* |
+| disorders |  |  |
 | Nervous system | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia* |
 | disorders | Common | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc |
 |  |  | syncope), Encephalopathy*, Peripheral sensorimotor |
@@ -171,7 +173,6 @@ Herpes zoster virus reactivation
 Multiple Myeloma
 Antiviral prophylaxis was administered to 26% of the patients in the Vc+M+P arm.
 The incidence of herpes zoster among patients in the Vc+M+P treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
-
 Mantle cell lymphoma
 Antiviral prophylaxis was administered to 137 of 240 patients (57%) in the VcR-CAP arm.
 The incidence of herpes zoster among patients in the VcR-CAP arm was 10.7% for patients not administered antiviral prophylaxis compared to 3.6% for patients administered antiviral prophylaxis (see section 4.4).
@@ -184,6 +185,7 @@ The overall incidence of hepatitis B infections was similar in patients treated 
 Peripheral neuropathy in combination regimens
 Multiple Myeloma
 In trials in which VELCADE was administered as induction treatment in combination with dexamethasone (study IFM-2005-01), and dexamethasone-thalidomide (study MMY-3010), the incidence of peripheral neuropathy in the combination regimens is presented in the table below:
+
 Table 9: Incidence of peripheral neuropathy during induction treatment by toxicity and treatment discontinuation due to peripheral neuropathy
 
 IFM-2005-01 MMY-3010
@@ -272,8 +274,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Respiratory, thoracic and mediastinal disorders | Common | Dyspnoea*, Epistaxis, Upper/lower respiratory tract infection*, Cough* |
 |  | Uncommon | Pulmonary embolism, Pleural effusion, Pulmonary oedema (inc acute), Pulmonary alveolar haemorrhage#, Bronchospasm, Chronic obstructive pulmonary disease*, Hypoxaemia*, Respiratory tract congestion*, Hypoxia, Pleurisy*, Hiccups, Rhinorrhoea, Dysphonia, Wheezing |
 |  | Rare | Respiratory failure, Acute respiratory distress syndrome, Apnoea, Pneumothorax, Atelectasis, Pulmonary hypertension, Haemoptysis, Hyperventilation, Orthopnoea, Pneumonitis, Respiratory alkalosis, Tachypnoea, Pulmonary fibrosis, Bronchial disorder*, Hypocapnia*, Interstitial lung disease, Lung infiltration, Throat tightness, Dry throat, Increased upper airway secretion, Throat irritation, Upper-airway cough syndrome |
-| Gastrointestinal disorders | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation |
-|  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence |
+| Gastrointestinal | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation |
+| disorders | Common | Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence |
 |  | Uncommon | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic#, Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
 |  | Rare | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces |
 | Hepatobiliary disorders | Common | Hepatic enzyme abnormality* |
@@ -313,8 +315,8 @@ The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg
 |  |  | Upper/lower respiratory tract infection*, Fungal infection*, |
 |  |  | Herpes simplex* |
 |  | Uncommon | Hepatitis B, Infection*, Bronchopneumonia |
-| Blood and | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
-| lymphatic system |  | Leukopenia*, Anaemia*, Lymphopenia* |
+| Blood and lymphatic system | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, |
+|  |  | Leukopenia*, Anaemia*, Lymphopenia* |
 | disorders | Uncommon | Pancytopenia* |
 | Immune system | Common | Hypersensitivity* |
 | disorders | Uncommon | Anaphylactic reaction |
@@ -322,8 +324,7 @@ The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg
 | nutrition disorders | Common | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, |
 |  |  | Diabetes mellitus*, Fluid retention |
 |  | Uncommon | Tumour lysis syndrome |
-| Psychiatric | Common | Sleep disorders and disturbances* |
-| disorders |  |  |
+| Psychiatric disorders | Common | Sleep disorders and disturbances* |
 | Nervous system | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia* |
 | disorders | Common | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc |
 |  |  | syncope), Encephalopathy*, Peripheral sensorimotor |
@@ -338,11 +339,11 @@ The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg
 |  | Uncommon | Cardiovascular disorder (inc cardiogenic shock) |
 | Vascular disorders | Common | Hypertension*, Hypotension*, Orthostatic hypotension |
 | Respiratory, | Common | Dyspnoea*, Cough*, Hiccups |
-| thoracic and | Uncommon | Acute respiratory distress syndrome, Pulmonary embolism, |
-| mediastinal |  | Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc |
-| disorders |  | acute) |
-| Gastrointestinal | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, |
-| disorders |  | Constipation |
+| thoracic and mediastinal disorders | Uncommon | Acute respiratory distress syndrome, Pulmonary embolism, |
+|  |  | Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc |
+|  |  | acute) |
+| Gastrointestinal disorders | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, |
+|  |  | Constipation |
 |  | Common | Gastrointestinal haemorrhage (inc mucosal)*, Abdominal |
 |  |  | distension, Dyspepsia, Oropharyngeal pain*, Gastritis*, Oral |
 |  |  | ulceration*, Abdominal discomfort, Dysphagia, Gastrointestinal |
@@ -352,8 +353,7 @@ The safety profile of VELCADE in 240 MCL patients treated with VELCADE at 1.3 mg
 | Hepatobiliary | Common | Hepatotoxicity (inc liver disorder) |
 | disorders | Uncommon | Hepatic failure |
 | Skin and | Very Common | Hair disorder* |
-| subcutaneous | Common | Pruritus*, Dermatitis*, Rash* |
-| tissue disorders |  |  |
+| subcutaneous tissue disorders | Common | Pruritus*, Dermatitis*, Rash* |
 | Musculoskeletal | Common | Muscle spasms*, Musculoskeletal pain*, Pain in extremity |
 | and connective |  |  |
 | tissue disorders |  |  |

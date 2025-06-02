@@ -9,6 +9,7 @@ The mean distribution volume (Vd) of bortezomib ranged from 1,659 l to 3,294 l f
 This suggests that bortezomib distributes widely to peripheral tissues.
 Over a bortezomib concentration range of 0.01 to 1.0 μg/ml, the in vitro protein binding averaged 82.9% in human plasma.
 The fraction of bortezomib bound to plasma proteins was not concentration-dependent.
+
 Biotransformation
 In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolised via cytochrome P450 enzymes, 3A4, 2C19, and 1A2.
 The major metabolic pathway is deboronation to form two deboronated metabolites that subsequently undergo hydroxylation to several metabolites.
@@ -21,7 +22,7 @@ Mean total body clearances were 102 and 112 l/h following the first dose for dos
 
 Special populations
 Hepatic impairment
-The effect of hepatic impairment on the pharmacokinetics of bortezomib was assessed in a Phase I study during the first treatment cycle, including 61 patients primarily with solid tumors and varying degrees of hepatic impairment at bortezomib doses ranging from 0.5 to 1.3 mg/m2.
+The effect of hepatic impairment on the pharmacokinetics of bortezomib was assessed in a Phase I study during the first treatment cycle, including 61 patients primarily with solid tumours and varying degrees of hepatic impairment at bortezomib doses ranging from 0.5 to 1.3 mg/m2.
 
 When compared to patients with normal hepatic function, mild hepatic impairment did not alter dose-normalised bortezomib AUC.
 However, the dose-normalised mean AUC values were increased by approximately 60% in patients with moderate or severe hepatic impairment.
@@ -34,11 +35,11 @@ Patients were administered intravenous doses of 0.7 to 1.3 mg/m2 of VELCADE twic
 Exposure of VELCADE (dose-normalised AUC and Cmax) was comparable among all the groups (see section 4.2).
 
 Age
-The pharmacokinetics of bortezomib were characterized following twice weekly intravenous bolus administration of 1.3 mg/m2 doses to 104 pediatric patients (2-16 years old) with acute lymphoblastic leukemia (ALL) or acute myeloid leukemia (AML).
+The pharmacokinetics of bortezomib were characterised following twice weekly intravenous bolus administration of 1.3 mg/m2 doses to 104 paediatric patients (2-16 years old) with acute lymphoblastic leukaemia (ALL) or acute myeloid leukaemia (AML).
 Based on a population pharmacokinetic analysis, clearance of bortezomib increased with increasing body surface area (BSA).
 Geometric mean (%CV) clearance was 7.79 (25%) L/hr/m2, volume of distribution at steady-state was 834 (39%) L/m2, and the elimination half-life was 100 (44%) hours.
 After correcting for the BSA effect, other demographics such as age, body weight and sex did not have clinically significant effects on bortezomib clearance.
-BSA-normalized clearance of bortezomib in pediatric patients was similar to that observed in adults.
+BSA-normalised clearance of bortezomib in paediatric patients was similar to that observed in adults.
 
 [VELCADE 3.5 mg powder for solution for injection]
 

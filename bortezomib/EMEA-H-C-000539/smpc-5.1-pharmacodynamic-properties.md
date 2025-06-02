@@ -28,7 +28,7 @@ Clinical efficacy in previously untreated multiple myeloma
 A prospective Phase III, international, randomised (1:1), open-label clinical study (MMY-3002 VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2 injected intravenously) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 Treatment was administered for a maximum of 9 cycles (approximately 54 weeks) and was discontinued early for disease progression or unacceptable toxicity.
 The median age of the patients in the study was 71 years, 50% were male, 88% were Caucasian and the median Karnofsky performance status score for the patients was 80.
-Patients had IgG/IgA/Light chain myeloma in 63%/25%/8% instances, a median hemoglobin of 105 g/l, and a median platelet count of 221.5 x 109/l.
+Patients had IgG/IgA/Light chain myeloma in 63%/25%/8% instances, a median haemoglobin of 105 g/l, and a median platelet count of 221.5 x 109/l.
 Similar proportions of patients had creatinine clearance
 ≤30 ml/min (3% in each arm).
 At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the M+P arm were offered Vc+M+P treatment.
@@ -70,8 +70,7 @@ Table 11: Efficacy results following the final survival update to VISTA study
 | Time to next therapy Events n (%) | 224 (65.1) | 260 (76.9) |
 | Mediana (95% CI) | 27.0 mo (24.7, 31.1) | 19.2 mo (17.0, 21.0) |
 | Hazard ratiob (95% CI) | 0.557 (0.462, 0.671) |  |
-
-p-valuec < 0.000001
+| p-valuec | < 0.000001 |  |
 
 a Kaplan-Meier estimate.
 b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors:
@@ -82,7 +81,7 @@ EBMT criteria g All randomised patients with secretory disease
 CI=Confidence Interval
 
 Patients eligible for stem cell transplantation
-Two randomised, open-label, multicenter Phase III trials (IFM-2005-01, MMY-3010) were conducted to demonstrate the safety and efficacy of VELCADE in dual and triple combinations with other chemotherapeutic agents, as induction therapy prior to stem cell transplantation in patients with previously untreated multiple myeloma.
+Two randomised, open-label, multicentre Phase III trials (IFM-2005-01, MMY-3010) were conducted to demonstrate the safety and efficacy of VELCADE in dual and triple combinations with other chemotherapeutic agents, as induction therapy prior to stem cell transplantation in patients with previously untreated multiple myeloma.
 
 In study IFM-2005-01 VELCADE combined with dexamethasone [VcDx, n=240] was compared to vincristine- doxorubicin-dexamethasone [VDDx, n=242].
 Patients in the VcDx group received four 21 day cycles, each consisting of VELCADE (1.3 mg/m2 administered intravenously twice weekly on days 1, 4, 8, and 11), and oral dexamethasone (40 mg/day on days 1 to 4 and days 9 to 12, in Cycles 1 and 2, and on days 1 to 4 in Cycles 3 and 4).
@@ -95,7 +94,6 @@ The primary efficacy endpoint of the study was post-induction response rate (CR+
 A statistically significant difference in CR+nCR was observed in favour of the VELCADE combined with dexamethasone group.
 Secondary efficacy endpoints included post-transplant response rates (CR+nCR, CR+nCR+VGPR+PR), Progression Free Survival and Overall Survival.
 Main efficacy results are presented in Table 12.
-
 Table 12: Efficacy results from study IFM-2005-01
 
 | Endpoints | VcDx | VDDx | OR; 95% CI; P valuea |
@@ -108,6 +106,7 @@ CI=confidence interval; CR=complete response; nCR=near complete response; ITT=in
 * Primary endpoint a OR for response rates based on Mantel-Haenszel estimate of the common odds ratio for stratified tables; p-values by Cochran Mantel-Haenszel test.
 b Refers to response rate after second transplant for subjects who received a second transplant (42/240 [18% ] in VcDx group and 52/242 [21%] in VDDx group).
 Note: An OR > 1 indicates an advantage for Vc-containing induction therapy.
+
 In study MMY-3010 induction treatment withVELCADE combined with thalidomide and dexamethasone [VcTDx, n=130] was compared to thalidomide-dexamethasone [TDx, n=127].
 Patients in the VcTDx group received six 4-week cycles, each consisting of VELCADE (1.3 mg/m2 administered twice weekly days 1, 4, 8, and 11, followed by a 17-day rest period from day 12 to day 28), dexamethasone (40 mg administered orally on days 1 to 4 and days 8 to 11), and thalidomide (administered orally at 50 mg daily on days 1-14, increased to 100 mg on days 15-28 and thereafter to 200 mg daily).
 One single autologous stem cell transplant was received by 105 (81%) patients and 78 (61%) patients in the VcTDx and TDx groups, respectively.
@@ -131,7 +130,6 @@ Table 13: Efficacy results from study MMY-3010
 CI=confidence interval; CR=complete response; nCR=near complete response; ITT=intent to treat; RR=response rate; Vc=VELCADE; VcTDx=VELCADE, thalidomide, dexamethasone; TDx=thalidomide, dexamethasone; PR=partial response; OR=odds ratio
 * Primary endpoint a OR for response rates based on Mantel-Haenszel estimate of the common odds ratio for stratified tables; p-values by Cochran Mantel-Haenszel test.
 Note: An OR > 1 indicates an advantage for Vc-containing induction therapy
-
 Clinical efficacy in relapsed or refractory multiple myeloma
 The safety and efficacy of VELCADE (injected intravenously) were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a Phase III randomised, comparative study (APEX), versus dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a Phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
 
@@ -180,6 +178,7 @@ In the Phase II study, patients who did not obtain an optimal response to therap
 The protocol allowed patients to receive dexamethasone if they had had a less than optimal response to VELCADE alone.
 A total of 74 evaluable patients were administered dexamethasone in combination with VELCADE.
 Eighteen percent of patients achieved, or had an improved response [MR (11%) or PR (7%)] with combination treatment.
+
 VELCADE combination treatment with pegylated liposomal doxorubicin (study DOXIL-MMY-3001)
 A Phase III randomised, parallel-group, open-label, multicentre study was conducted in 646 patients comparing the safety and efficacy of VELCADE plus pegylated liposomal doxorubicin versus VELCADE monotherapy in patients with multiple myeloma who had received at least 1 prior therapy and who did not progress while receiving anthracycline-based therapy.
 The primary efficacy endpoint was TTP while the secondary efficacy endpoints were OS and ORR (CR+PR), using the European Group for Blood and Marrow Transplantation (EBMT) criteria.
@@ -255,13 +254,13 @@ The observed final median difference in the OS between the 2 treatment groups wa
 Patients with previously treated light-chain (AL) Amyloidosis
 An open label non randomised Phase I/II study was conducted to determine the safety and efficacy of VELCADE in patients with previously treated light-chain (AL) Amyloidosis.
 No new safety concerns were observed during the study, and in particular VELCADE did not exacerbate target organ damage (heart, kidney and liver).
-In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by hematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m2 weekly and 1.3 mg/m2 twice-weekly.
+In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by haematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m2 weekly and 1.3 mg/m2 twice-weekly.
 For these dose cohorts, the combined 1-year survival rate was 88.1%.
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with VELCADE in all subsets of the paediatric population in multiple myeloma and in mantle cell lymphoma (see section 4.2 for information on paediatric use).
 
-A Phase II, single-arm activity, safety, and pharmacokinetic trial conducted by the Children’s Oncology Group assessed the activity of the addition of bortezomib to multi-agent re-induction chemotherapy in paediatric and young adult patients with lymphoid malignancies (pre-B cell acute lymphoblastic leukemia [ALL], T-cell ALL, and T-cell lymphoblastic lymphoma [LL]).
+A Phase II, single-arm activity, safety, and pharmacokinetic trial conducted by the Children’s Oncology Group assessed the activity of the addition of bortezomib to multi-agent re-induction chemotherapy in paediatric and young adult patients with lymphoid malignancies (pre-B cell acute lymphoblastic leukaemia [ALL], T-cell ALL, and T-cell lymphoblastic lymphoma [LL]).
 An effective re-induction multi-agent chemotherapy regimen was administered in 3 blocks.
 VELCADE was administered only in Blocks 1 and 2 to avoid potential overlapping toxicities with coadministered drugs in Block 3.
 
@@ -272,7 +271,7 @@ The CR rate in first-relapsed T-cell ALL patients (n = 22) was 68% (95% CI: 45, 
 The reported efficacy data are considered inconclusive (see section 4.2).
 
 There were 140 patients with ALL or LL enrolled and evaluated for safety; median age was 10 years (range 1 to 26).
-No new safety concerns were observed when VELCADE was added to the standard pediatric pre-B cell ALL chemotherapy backbone.
+No new safety concerns were observed when VELCADE was added to the standard paediatric pre-B cell ALL chemotherapy backbone.
 The following adverse reactions (Grade ≥3) were observed at a higher incidence in the VELCADE containing treatment regimen as compared with a historical control study in which the backbone regimen was given alone: in Block 1 peripheral sensory neuropathy (3% versus 0%); ileus (2.1% versus 0%); hypoxia (8% versus 2%).
 No information on possible sequelae or rates of peripheral neuropathy resolution were available in this study.
 Higher incidences were also noted for infections with Grade ≥3 neutropenia (24% versus 19% in Block 1 and 22% versus 11% in Block 2), increased ALT (17% versus 8% in Block 2), hypokalaemia (18% versus 6% in Block 1 and 21% versus 12% in Block 2) and hyponatraemia (12% versus 5% in Block 1 and 4% versus 0 in Block 2).
@@ -309,7 +308,8 @@ Higher incidences were also noted for infections with Grade ≥3 neutropenia (24
 | Time to next therapy Events n (%) | 224 (65.1) | 260 (76.9) |
 | Mediana (95% CI) | 27.0 mo (24.7, 31.1) | 19.2 mo (17.0, 21.0) |
 | Hazard ratiob (95% CI) | 0.557 (0.462, 0.671) |  |
-| p-valuec | < 0.000001 |  |
+
+p-valuec < 0.000001
 
 Clinical efficacy with subcutaneous administration of VELCADE in patients with relapsed/refractory multiple myeloma
 An open label, randomised, Phase III non-inferiority study compared the efficacy and safety of the subcutaneous administration of VELCADE versus the intravenous administration.
@@ -363,4 +363,4 @@ Efficacy results are presented in Table 16:
 
 Table 16: Efficacy results from study LYM-3002
 
-No new safety concerns were observed when VELCADE was added to the standard pediatric pre B cell ALL chemotherapy backbone.
+No new safety concerns were observed when VELCADE was added to the standard paediatric pre B cell ALL chemotherapy backbone.

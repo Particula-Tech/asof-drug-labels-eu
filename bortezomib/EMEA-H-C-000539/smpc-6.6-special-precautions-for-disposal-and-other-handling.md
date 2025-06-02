@@ -19,7 +19,6 @@ After reconstitution, each ml solution contains 1 mg bortezomib.
 The reconstituted solution is clear and colourless, with a final pH of 4 to 7.
 The reconstituted solution must be inspected visually for particulate matter and discolouration prior to administration.
 If any discolouration or particulate matter is observed, the reconstituted solution must be discarded.
-
 Disposal
 VELCADE is for single use only.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

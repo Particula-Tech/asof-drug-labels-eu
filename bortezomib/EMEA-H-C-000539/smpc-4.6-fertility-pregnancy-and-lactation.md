@@ -1,7 +1,8 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Contraception in males and females
-Male and female patients of childbearing potential must use effective contraceptive measures during and for 3 months following treatment.
+Due to the genotoxic potential of bortezomib (see section 5.3), women of childbearing potential must use effective contraceptive measures and avoid becoming pregnant while being treated with VELCADE and for 8 months following completion of treatment.
+Male patients should use effective contraceptive measures and be advised not to father a child while receiving VELCADE and for 5 months following completion of treatment (see section 5.3).
 
 Pregnancy
 No clinical data are available for bortezomib with regard to exposure during pregnancy.
@@ -23,3 +24,4 @@ Because of the potential for serious adverse reactions in breast-fed infants, br
 
 Fertility
 Fertility studies were not conducted with VELCADE (see section 5.3).
+Due to the genotoxic potential of bortezomib (see section 5.3), male patients should seek advice on conservation of sperm and women of childbearing potential should seek consultation regarding oocyte cryopreservation prior to initiation of treatment.
