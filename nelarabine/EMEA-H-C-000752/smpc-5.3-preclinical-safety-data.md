@@ -2,7 +2,6 @@
 
 Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows: nelarabine caused histopathological changes to the central nervous system (white matter vacuolation and degenerative changes in cerebrum, cerebellum and spinal cord) of monkeys after daily treatment with nelarabine for 23 days, at exposures below the human therapeutic exposure.
 Nelarabine showed in vitro cytotoxicity to monocytes and macrophages.
-
 Carcinogenicity
 
 Carcinogenicity testing of nelarabine has not been performed.

@@ -11,7 +11,6 @@ There are no or limited amount of data from the use of nelarabine in pregnant wo
 
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk in humans is unknown, however, exposure during pregnancy will likely lead to anomalies and malformations of the foetus.
-
 Nelarabine should not be used during pregnancy unless clearly necessary.
 If a patient becomes pregnant during treatment with nelarabine, they should be informed of the possible risk to the foetus.
 

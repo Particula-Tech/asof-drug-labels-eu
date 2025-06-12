@@ -33,6 +33,7 @@ For ara-G, mean VSS/F values were 44.8 l/m2 (32 %) and 32.1 l/m2 (25 %) in adult
 Nelarabine and ara-G are not substantially bound to human plasma proteins (less than 25 %) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 µM.
 
 No accumulation of nelarabine or ara-G was observed in plasma after nelarabine administration on either a daily or a day 1, 3, 5 schedule.
+
 Intracellular ara-GTP concentrations in leukaemic blasts were quantifiable for a prolonged period after nelarabine administration.
 Intracellular ara-GTP accumulated with repeated administration of nelarabine.
 On the day 1, 3, and 5 schedule, Cmax and AUC(0-t) values on day 3 were approximately 50 % and 30 %, respectively, greater than Cmax and AUC(0-t) values on day 1.
@@ -50,7 +51,6 @@ These findings were demonstrated in patients with refractory leukaemia or lympho
 
 Combined Phase 1 pharmacokinetic data at nelarabine doses of 104 to 2,900 mg/m2 indicate that mean (%CV) clearance (Cl) values for nelarabine are 138 l/h/m2 (104 %) and 125 l/h/m2 (214 %) in adult and paediatric patients, respectively, on day 1 (n = 65 adults, n = 21 paediatric patients).
 The apparent clearance of ara-G (Cl/F) is comparable between the two groups [9.5 l/h/m2 (35 %) in adult patients and 10.8 l/h/m2 (36 %) in paediatric patients] on day 1.
-
 Nelarabine and ara-G are partially eliminated by the kidneys.
 In 28 adult patients, 24 hours after nelarabine infusion on day 1, mean urinary excretion of nelarabine and ara-G was 5.3 % and 23.2 % of the administered dose, respectively.
 Renal clearance averaged 9.0 l/h/m2 (151 %) for nelarabine and 2.6 l/h/m2 (83 %) for ara-G in 21 adult patients.
@@ -73,6 +73,7 @@ Race
 
 The effect of race on nelarabine and ara-G pharmacokinetics has not been specifically studied.
 In a pharmacokinetic/pharmacodynamic cross study analysis, race had no apparent effect on nelarabine, ara-G, or intracellular ara-GTP pharmacokinetics.
+
 Renal impairment
 
 The pharmacokinetics of nelarabine and ara-G have not been specifically studied in renally impaired or haemodialysed patients.
