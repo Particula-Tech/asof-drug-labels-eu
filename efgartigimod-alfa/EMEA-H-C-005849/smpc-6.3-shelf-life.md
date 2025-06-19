@@ -15,3 +15,11 @@ After storage at room temperature, unopened vials may be returned to the refrige
 If stored out of and then returned to refrigeration, the total combined time out of refrigeration should not exceed 3 days.
 
 From a microbial point of view, unless the method of preparation of the syringe precludes the risk of microbial contamination, the product should be used immediately.
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+2 years
+
+Patients may store the unopened pre-filled syringe at room temperature in the original carton up to 30 °C for a single period of up to 1 month after removing it from the refrigerator or by the expiry date, whichever occurs first.
+
+From a microbial point of view, the product should be used immediately.

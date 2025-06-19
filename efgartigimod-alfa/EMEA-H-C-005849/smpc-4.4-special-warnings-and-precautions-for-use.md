@@ -51,19 +51,24 @@ Immunosuppressant and anticholinesterase therapies
 
 When non-steroidal immunosuppressants, corticosteroids and anticholinesterase therapies are decreased or discontinued, patients should be monitored closely for signs of disease exacerbation.
 
-Sodium content
+Excipients with known effect
 
+Sodium
 This medicinal product contains 67.2 mg sodium per vial, equivalent to 3.4% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 This medicinal product will be further prepared for administration with sodium-containing solution (see section 6.6) and this should be considered in relation to the total sodium intake to the patient from all sources per day.
+
+Polysorbates
+This medicinal product contains 4.1 mg of polysorbate 80 in each vial which is equivalent to 0.2 mg/mL.
+Polysorbates may cause allergic reactions.
 
 [Vyvgart 1 000 mg solution for injection]
 
 Injection reactions and hypersensitivity reactions
 
 Injection reactions such as rash or pruritus were reported in the clinical trials (see section 4.8).
-These were mild to moderate and did not lead to treatment discontinuation.
+These were mild to moderate.
 Cases of anaphylactic reaction have been reported with efgartigimod alfa intravenous in the post-marketing setting.
-The first treatment cycle and first administration of the second treatment cycle must be administered under the supervision of a healthcare professional.
+The first administrations of Vyvgart must be performed under the supervision of a healthcare professional (see section 4.2).
 Patients should be monitored for 30 minutes after administration for clinical signs and symptoms of injection reactions.
 Should a reaction occur and based on the severity of the reaction, appropriate supportive measures should be initiated.
 Subsequent injections may be cautiously administered, based on clinical evaluation.
@@ -73,6 +78,16 @@ In the active-controlled study ARGX-113-2001, pre-existing antibodies that bind 
 Anti-efgartigimod alfa antibodies were detected in 19/55 (35%) patients treated with efgartigimod alfa subcutaneous compared to 11/55 (20%) patients treated with the intravenous formulation.
 Neutralising antibodies were detected in 2 (4%) patients treated with efgartigimod alfa subcutaneous and 2 (4%) patients treated with efgartigimod alfa intravenous.
 
+In study ARGX-113-1802, pre-existing antibodies that bind to efgartigimod alfa were detected in 13/317 (4.1%) patients with CIDP.
+Anti-efgartigimod alfa antibodies were detected in 20/317 (6.3%) of patients treated in the open-label part of the study (Stage A), and in 2/111 (1.8%) of patients treated in the placebo-controlled part (Stage B). Neutralising antibodies were detected in 1 (0.3%) patient in the open-label part of the study only (see section 5.1).
+
 The impact of antibodies to efgartigimod alfa on clinical efficacy or safety, pharmacokinetics and pharmacodynamic cannot be assessed given the low incidence of neutralizing antibodies.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium-free’.
+This medicinal product contains 2.7 mg of polysorbate 20 in each vial which is equivalent to 0.4 mg/mL.
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially ‘sodium-free’.
+
+This medicinal product contains 2.1 mg of polysorbate 80 in each syringe which is equivalent to 0.4 mg/mL.

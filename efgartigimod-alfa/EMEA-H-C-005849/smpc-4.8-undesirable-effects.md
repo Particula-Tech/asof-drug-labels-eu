@@ -9,7 +9,8 @@ Tabulated list of adverse reactions
 The safety of Vyvgart was evaluated in 167 patients with gMG in the Phase 3 double-blind placebo-controlled clinical study.
 
 Adverse reactions are listed in Table 1 by system organ class and preferred term.
-Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100) or rare (≥ 1/10 000 to < 1/1 000).
+Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to
+< 1/100). rare (≥ 1/10 000 to < 1/1 000) or not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1.
@@ -26,6 +27,7 @@ Adverse reactions
 | Injury, poisoning and procedural complications* | Procedural headache | Common |
 
 * See paragraph “Description of selected adverse reactions” a From spontaneous post-marketing reporting
+
 Description of selected adverse reactions
 
 Infections
@@ -56,11 +58,10 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The most frequently observed adverse reactions were injection site reactions (33%), upper respiratory tract infections (10.7%) and urinary tract infections (9.5%).
 
-The overall safety profile of Vyvgart subcutaneous was consistent with the known safety profile of the intravenous formulation.
+The overall safety profile of Vyvgart subcutaneous for both cyclic and continuous dose regimens was consistent with the known safety profile of the intravenous formulation.
 
 Adverse reactions described in this section were identified in clinical trials and from post-marketing reports.
 These reactions are presented by system organ class and preferred term.
-Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to
 < 1/100), rare (≥ 1/10 000 to < 1/1 000) or not known (cannot be estimated from the available data).
 
 | System organ class | Adverse reaction | Frequency category |
@@ -80,14 +81,21 @@ d (e.g. injection site rash, injection site erythema, injection site pruritus, i
 
 Injection site reactions
 
-In the pooled dataset from two clinical studies with efgartigimod alfa subcutaneous (n = 168), all injection site reactions were mild to moderate in severity and did not lead to treatment discontinuation.
+In the pooled dataset from two clinical studies in gMG with efgartigimod alfa subcutaneous (n = 168), all injection site reactions were mild to moderate in severity and did not lead to treatment discontinuation.
 44.0% (n = 74)) of patients experienced an injection site reaction.
 Injection site reactions occurred within 24 hours after administration in 78.4% (58/74) of patients and resolved without treatment in 85.1% (63/74) of the patients.
 The incidence of injection site reactions was the highest in the first treatment cycle, reported in 36.3% (61/168) of patients during the first treatment cycle and decreased to 20.1% (30/149), 15.4% (18/117) and 12.5% (10/80) of patients with the second, third and fourth treatment cycle.
+In a pooled dataset from 2 clinical studies in patients with CIDP who received continuous administration of efgartigimod alfa subcutaneous the incidence of injection site reactions was 26% (61/235).
+Analysis by 3-month intervals showed that the percentage of participants with injection-site reactions was highest in the first 3 months of treatment (73 [22.2%] participants) and decreased in subsequent 3-month intervals (range: 0 to 17 [6.8%] participants).
 
-In the ARGX-113-1704 placebo-controlled study with efgartigimod alfa intravenous, the most frequently reported adverse reactions were infections, and the most reported infections were upper respiratory tract infections (10.7% [n = 9] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo) and urinary tract infections (9.5% [n = 8] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo).
+In the gMG ARGX-113-1704 placebo-controlled study with efgartigimod alfa intravenous, the most frequently reported adverse reactions were infections, and the most reported infections were upper respiratory tract infections, (10.7% [n = 9] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo) and urinary tract infections (9.5% [n = 8] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo).
 These infections were mild to moderate in severity in patients who received efgartigimod alfa intravenous
 (≤ Grade 2 according to the Common Terminology Criteria for Adverse Events).
 Overall, treatment emergent infections were reported in 46.4% (n = 39) of patients treated with efgartigimod alfa intravenous and 37.3% (n = 31) of patients treated with placebo.
+In the placebo-controlled part of the ARGX-113-1802 study in patients with CIDP, continuous administration of efgartigimod alfa subcutaneous was not associated with any increase in the incidence of infections (31.5% [35/111] in the efgartigimod alfa subcutaneous group and 33.6% [37/110] in the placebo group) (see section 5.1).
 
 Procedural headache was reported in 4.8% of the patients treated with efgartigimod alfa intravenous and 1.2% of patients treated with placebo.
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+In the gMG ARGX-113-1704 placebo-controlled study with efgartigimod alfa intravenous, the most frequently reported adverse reactions were infections, and the most reported infections were upper respiratory tract infections (10.7% [n = 9] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo) and urinary tract infections (9.5% [n = 8] of patients treated with efgartigimod alfa intravenous and 4.8% [n = 4] of patients treated with placebo).

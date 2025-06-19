@@ -43,3 +43,13 @@ The medicinal product does not need to be diluted.
 Visually inspect that the vial content is a yellowish, clear to opalescent solution, and devoid of particulate matter.
 If visible particles are observed the vial must not be used.
 After removing the vial from the refrigerator, wait for at least 15 minutes before injecting to allow the solution to reach room temperature (see section 6.3).
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+Vyvgart comes as a ready-to-use solution in single-use pre-filled syringe.
+
+Visually inspect that the pre-filled syringe content has a yellowish, clear to opalescent colour, and devoid of particulate matter.
+If visible particles are observed the pre-filled syringe must not be used.
+
+After removing the pre-filled syringe from the refrigerator, wait for at least 30 minutes before injecting to allow the solution to reach room temperature (see section 4.2).
+After preparation for injection, it should be administered immediately.

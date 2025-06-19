@@ -15,3 +15,7 @@ In reproduction studies in rats and rabbits, intravenous administration of efgar
 Hyaluronidase is found in most tissues of the human body.
 Non-clinical data for recombinant human hyaluronidase reveal no special hazard for humans based on conventional studies of repeated dose toxicity including safety pharmacology endpoints.
 Reproductive toxicology studies with rHuPH20 revealed embryofoetal toxicity in mice at high systemic exposure, but did not show teratogenic potential.
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)

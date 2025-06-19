@@ -13,3 +13,13 @@ The potential interaction with vaccines was studied in a nonclinical model using
 The weekly administration of 100 mg/kg to monkeys did not impact the immune response to KLH immunisation.
 For patients that are being treated with efgartigimod alfa, vaccination with live or live-attenuated vaccines is generally not recommended.
 If vaccination with live or live-attenuated vaccines is required, these vaccines should be administered at least 4 weeks before treatment and at least 2 weeks after the last dose of a treatment cycle efgartigimod alfa (see section 4.4).
+
+[Vyvgart 1 000 mg solution for injection]
+
+If possible, it is recommended to postpone the initiation of treatment with these products to 2 weeks after the last dose of Vyvgart.
+
+If vaccination with live or live-attenuated vaccines is required, these vaccines should be administered at least 4 weeks before treatment and at least 2 weeks after the last dose of efgartigimod alfa (see section 4.4).
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)

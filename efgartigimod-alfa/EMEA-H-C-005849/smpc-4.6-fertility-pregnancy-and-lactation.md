@@ -22,3 +22,11 @@ Fertility
 
 There is no available data on the effect of efgartigimod alfa on fertility in humans.
 Animal studies showed no impact of efgartigimod alfa on male and female fertility parameters (see section 5.3).
+
+[Vyvgart 1 000 mg solution for injection]
+
+Antibodies including therapeutic monoclonal antibodies are known to be actively transported across the placenta (after 30 weeks of gestation) by binding to FcRn.
+
+[Vyvgart 1 000 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
