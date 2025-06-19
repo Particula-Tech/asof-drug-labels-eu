@@ -50,7 +50,7 @@ Results at 48 weeks of randomised, double blind studies comparing entecavir (ETV
 | n | 354 | 355 | 325 | 313 |
 | Viral load reduction (log10 copies/ml)c | -6.86* | -5.39 | -5.04* | -4.53 |
 | HBV DNA undetectable (< 300 copies/ml by PCR)c | 67%* | 36% | 90%* | 72% |
-| ALT normalisation (≤ 1 times ULN) | 68%* | 60% | 78%* | 71% |
+| ALT normalisation (≤1 times ULN) | 68%* | 60% | 78%* | 71% |
 | HBeAg Seroconversion | 21% | 18% |  |  |
 
 *p value vs lamivudine < 0.05 a patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2) b a primary endpoint c Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/ml)
@@ -70,7 +70,7 @@ Results at 48 weeks are presented in the table.
 | n | 141 | 145 |
 | Viral load reduction (log10 copies/ml)c | -5.11* | -0.48 |
 | HBV DNA undetectable (< 300 copies/ml by PCR)c | 19%* | 1% |
-| ALT normalisation (≤ 1 times ULN) | 61%* | 15% |
+| ALT normalisation (≤1 times ULN) | 61%* | 15% |
 | HBeAg Seroconversion | 8% | 3% |
 
 *p value vs lamivudine < 0.05 a patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2) b a primary endpoint.
@@ -145,7 +145,7 @@ Results for selected study endpoints at weeks 24 and 48 are shown in the table.
 
 a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/ml).
 b NC=F (noncompleter=failure), meaning treatment discontinuations before the analysis week, including reasons such as death, lack of efficacy, adverse event, noncompliance/loss-to-follow-up, are counted as failures (e.g., HBV
-DNA ≥ 300 copies/ml) c NC=M (noncompleters=missing) dDefined as decrease or no change from baseline in CTP score.
+DNA ≥300 copies/ml) c NC=M (noncompleters=missing) dDefined as decrease or no change from baseline in CTP score.
 e Baseline mean MELD score was 17.1 for ETV and 15.3 for adefovir dipivoxil.
 f Denominator is patients with abnormal values at baseline.
 *p<0.05
@@ -192,7 +192,8 @@ Results for the main efficacy endpoints at Week 48 and Week 96 are presented in 
 | HBV DNA < 50 IU/mLa | 49.2% | 64.2% | 3.3.% |
 | HBeAg seroconversiona | 24.2% | 36.7% | 10.0% |
 | ALT normalizationa | 67.5% | 81.7% | 23.3% |
-| HBV DNA < 50 IU/mLa Baseline HBV DNA < 8 log10 IU/ml Baseline HBV DNA ≥ 8 log10 IU/ml | 82.6% (38/46) 28.4% (21/74) | 82.6% (38/46) 52.7% (39/74) | 6.5% (2/31) 0% (0/29) |
+| HBV DNA < 50 IU/mLa Baseline HBV DNA < 8 log10 IU/ml Baseline HBV DNA ≥ 8 log10 IU/ml | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
+|  | 28.4% (21/74) | 52.7% (39/74) | 0% (0/29) |
 
 aNC=F (noncompleter=failure)
 * Patients randomized to placebo who did not have HBe- seroconversion by Week 48 rolled over to open-label entecavir for the second year of the study; therefore randomized comparison data are available only through Week 48.
