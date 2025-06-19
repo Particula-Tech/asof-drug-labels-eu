@@ -29,6 +29,7 @@ The safety of pembrolizumab in combination with axitinib or lenvatinib in advanc
 In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%).
 Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% for sunitinib alone.
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
+
 Tabulated summary of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
@@ -182,10 +183,10 @@ The median duration was 2.0 months (range: 1 day to 51.0+ months).
 Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.1%) than in patients who did not receive prior thoracic radiation (3.9%).
 Pneumonitis led to discontinuation of pembrolizumab in 131 (1.7%) patients.
 Pneumonitis resolved in 196 patients, 6 with sequelae.
-
 In patients with NSCLC, pneumonitis occurred in 230 (6.1%), including Grade 2, 3, 4 or 5 cases in 103 (2.7%), 63 (1.7%), 17 (0.4%) and 10 (0.3%), respectively.
 In patients with locally advanced or metastatic NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
 In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
+
 Immune-mediated colitis
 Colitis occurred in 158 (2.1%) patients, including Grade 2, 3 or 4 cases in 49 (0.6%), 82 (1.1%) and 6 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of colitis was 4.3 months (range: 2 days to 24.3 months).

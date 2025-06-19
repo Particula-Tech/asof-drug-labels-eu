@@ -21,6 +21,9 @@ Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if th
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
+In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID.
+In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
+
 Immune-mediated pneumonitis
 Pneumonitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis.
@@ -38,6 +41,7 @@ Immune-mediated hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
 Corticosteroids should be administered (initial dose of 0.5-1 mg/kg/day (for Grade 2 events) and 1-2 mg/kg/day (for Grade ≥ 3 events) prednisone or equivalent followed by a taper) and, based on severity of liver enzyme elevations, pembrolizumab should be withheld or discontinued (see section 4.2).
+
 Immune-mediated nephritis
 Nephritis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in renal function, and other causes of renal dysfunction excluded.
@@ -76,6 +80,7 @@ Immune-mediated skin adverse reactions
 Immune-mediated severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld for Grade 3 skin reactions until recovery to Grade ≤ 1 or permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered (see section 4.2).
+
 Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving pembrolizumab (see section 4.8).
 For suspected SJS or TEN, pembrolizumab should be withheld and the patient should be referred to a specialised unit for assessment and treatment.
 If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (see section 4.2).
@@ -147,6 +152,7 @@ Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in patients with HNSCC whose tumours express PD-L1 (see section 5.1).
+
 Use of pembrolizumab for treatment of patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma
 A direct comparison of pembrolizumab when used in combination with lenvatinib to pembrolizumab monotherapy is not available.
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with lenvatinib) before initiating treatment in patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma.
@@ -180,6 +186,7 @@ Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (
 There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
+
 Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
