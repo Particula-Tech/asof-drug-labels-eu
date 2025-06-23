@@ -148,7 +148,7 @@ AML
 
 Study endpoints Voriconazole Itraconazole Difference in proportions and
 (N=98) (N=109) the 95% confidence interval (CI)
-Breakthrough IFI – Day 180 1 (1.0%) 2 (1.8%) -0.8% (-4.0%, 2.4%) **
+Breakthrough IFI – Day 180 1 (1.0%) 2 (1.8%) -0.8% (-4.0%, 2.4%)**
 Success at Day 180* 55 (56.1%) 45 (41.3%) 14.7% (1.7%, 27.7%)***
 
 * Primary endpoint of study
@@ -198,6 +198,7 @@ Clinical efficacy defined as partial or complete response, has been demonstrated
 
 (N=98) (N=109) the 95% confidence interval
 (CI)
+Breakthrough IFI – Day 180 1 (1.0%) 2 (1.8%) -0.8% (-4.0%, 2.4%) **
 
 (N=125) (N=143) the 95% confidence interval
 

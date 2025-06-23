@@ -64,9 +64,9 @@ Long-term treatment
 Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
 
 Squamous cell carcinoma of the skin (SCC) (including cutaneous SCC in situ, or Bowen’s disease) has been reported in relation with long-term VFEND treatment (see section 4.8).
+
 Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
 If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice (see section 4.8).
-
 Visual adverse reactions
 There have been reports of prolonged visual adverse reactions, including blurred vision, optic neuritis and papilloedema (see section 4.8).
 
@@ -109,6 +109,7 @@ When voriconazole is coadministered with efavirenz the dose of voriconazole shou
 Glasdegib (CYP3A4 substrate)
 Coadministration of voriconazole is expected to increase glasdegib plasma concentrations and increase the risk of QTc prolongation (see section 4.5).
 If concomitant use cannot be avoided, frequent ECG monitoring is recommended.
+
 Tyrosine kinase inhibitors (CYP3A4 substrate)
 Coadministration of voriconazole with tyrosine kinase inhibitors metabolised by CYP3A4 is expected to increase tyrosine kinase inhibitor plasma concentrations and the risk of adverse reactions.
 If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor and close clinical monitoring is recommended (see section 4.5).

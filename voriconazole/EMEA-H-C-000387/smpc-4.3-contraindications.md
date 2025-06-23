@@ -2,22 +2,40 @@
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-Coadministration with CYP3A4 substrates, terfenadine, astemizole, cisapride, pimozide, quinidine or ivabradine since increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes (see section 4.5).
+Coadministration of voriconazole is contraindicated with medicinal products that are highly dependent on CYP3A4 for metabolism, and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions (see section 4.5):
 
-Coadministration with rifampicin, carbamazepine, phenobarbital and St John’s Wort since these medicinal products are likely to decrease plasma voriconazole concentrations significantly (see section 4.5).
+- Terfenadine, Astemizole
+- Cisapride
+- Pimozide, Lurasidone
+- Quinidine
+- Ivabradine
+- Ergot alkaloids (e.g., ergotamine, dihydroergotamine)
+- Sirolimus
+- Naloxegol
+- Tolvaptan
+- Finerenone
+- Venetoclax: Coadministration contraindicated at initiation and during venetoclax dose titration phase.
 
-Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg once daily or higher is contraindicated, because efavirenz significantly decreases plasma voriconazole concentrations in healthy subjects at these doses.
-Voriconazole also significantly increases efavirenz plasma concentrations (see section 4.5, for lower doses see section 4.4).
+Coadministration of voriconazole is contraindicated with medicinal products that induce CYP3A4 and significantly reduce voriconazole plasma concentrations:
 
-Coadministration with high-dose ritonavir (400 mg and above twice daily) because ritonavir significantly decreases plasma voriconazole concentrations in healthy subjects at this dose (see section 4.5, for lower doses see section 4.4).
-Coadministration with ergot alkaloids (ergotamine, dihydroergotamine), which are CYP3A4 substrates, since increased plasma concentrations of these medicinal products can lead to ergotism (see section 4.5).
+- Coadministration with rifampicin, carbamazepine, long-acting barbiturates e.g., phenobarbital, and St. John’s Wort (see section 4.5).
+- Efavirenz:
 
-Coadministration with sirolimus since voriconazole is likely to increase plasma concentrations of sirolimus significantly (see section 4.5).
+Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg once daily or higher is contraindicated (see section 4.5).
+For information on coadministration of voriconazole and lower doses of efavirenz see section 4.4.
 
-Coadministration of voriconazole with naloxegol, a CYP3A4 substrate, since increased plasma concentrations of naloxegol can precipitate opioid withdrawal symptoms (see section 4.5).
+- Ritonavir:
 
-Coadministration of voriconazole with tolvaptan since strong CYP3A4 inhibitors such as voriconazole significantly increase plasma concentrations of tolvaptan (see section 4.5).
+Coadministration with high-dose ritonavir (400 mg and above twice daily) is contraindicated
+(see section 4.5).
+For information on coadministration with lower doses of ritonavir see section 4.4.
 
-Coadministration of voriconazole with lurasidone since significant increases in lurasidone exposure have the potential for serious adverse reactions (see section 4.5).
+[VFEND 200 mg powder for solution for infusion]
 
-Coadministration with venetoclax at initiation and during venetoclax dose titration phase since voriconazole is likely to significantly increase plasma concentrations of venetoclax and increase risk of tumour lysis syndrome (see section 4.5).
+- Coadministration with rifampicin, carbamazepine, long-acting barbiturates e.g., phenobarbital and St. John’s Wort (see section 4.5).
+
+Coadministration with high-dose ritonavir (400 mg and above twice daily) is contraindicated (see section 4.5).
+
+[VFEND 40 mg/ml powder for oral suspension]
+
+(all sentences already above)
