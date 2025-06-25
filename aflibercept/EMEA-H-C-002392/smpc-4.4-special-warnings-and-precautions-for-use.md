@@ -95,7 +95,6 @@ As this is a therapeutic protein, there is a potential for immunogenicity with a
 
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition (see section 4.8).
 There are limited data on safety in the treatment of patients with nAMD and DME with a history of stroke, transient ischaemic attacks or myocardial infarction within the last 6 months.
-
 Bilateral treatment
 
 The safety and efficacy of bilateral treatment with Eylea 114.3 mg/ml per eye have not been studied (see section 5.1).

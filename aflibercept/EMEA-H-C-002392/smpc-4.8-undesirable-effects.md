@@ -30,7 +30,7 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.
-** Culture positive and culture negative endophthalmitis.
+** Culture positive and culture negative endophthalmitis
 *** During the post-marketing period, reports of hypersensitivity included rash, pruritus, urticaria, and isolated cases of severe anaphylactic/anaphylactoid reactions.
 **** From post-marketing reporting.
 
@@ -73,12 +73,12 @@ The most frequently observed adverse reactions in patients treated with Eylea 11
 The safety profile observed in the 3 clinical studies was similar in patients treated with
 Eylea 114.3 mg/ml (N=1 217) and Eylea 40 mg/ml (N=556), and in patients with nAMD and DME.
 
-A total of 1 217 patients treated with Eylea 114.3 mg/ml constituted the safety population in 3 clinical phase II/III studies (CANDELA, PULSAR, PHOTON).
+A total of 1 217 patients treated with Eylea 114.3 mg/ml up to 96 weeks constituted the safety population in 3 clinical phase II/III studies (CANDELA, PULSAR, PHOTON).
 The safety data described below include all adverse reactions with a reasonable possibility of causality to the injection procedure or medicinal product reported.
-
 The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare
 (≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 1: All treatment-emergent adverse reactions reported in patients with nAMD or DME treated with Eylea 114.3 mg/ml in phase II/III studies or during post-marketing surveillance
 
 | System organ class | Frequency | Adverse reaction |
@@ -93,7 +93,7 @@ Table 1: All treatment-emergent adverse reactions reported in patients with nAMD
 ** From post-marketing reporting.
 
 The following adverse reactions of Eylea 40 mg/ml are also considered expected with
-Eylea 114.3 mg/ml but have not been reported in the clinical studies with Eylea 114.3 mg/ml: abnormal sensation in eye, corneal epithelium defect, anterior chamber flare, endophthalmitis, blindness, traumatic cataract, hypopyon, severe anaphylactic/anaphylactoid reactions.
+Eylea 114.3 mg/ml: abnormal sensation in eye, corneal epithelium defect, anterior chamber flare, endophthalmitis, blindness, traumatic cataract, hypopyon, severe anaphylactic/anaphylactoid reactions.
 
 Product-class-related adverse reactions
 Arterial thromboembolic events (ATEs) are adverse reactions potentially related to systemic VEGF inhibition.

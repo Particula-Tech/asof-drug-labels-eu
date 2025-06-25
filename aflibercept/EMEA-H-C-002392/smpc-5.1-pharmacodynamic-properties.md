@@ -185,7 +185,7 @@ Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Se
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | ConGt) rol (N = 68) |
+|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
 | Proportion of patients with ≥15 letters gain from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVAC) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
@@ -247,16 +247,21 @@ Proportion of patients 52.7% 26.7% 57.1% 41.1%
 with ≥15 letters gain
 from Baseline (%)
 Weighted Difference 26.6% 16.2%
-A,B) (%) (2.0, 30.5)
-(95% CI) (13.0, 40.1) p=0.0296
+A,B) (%)
+(2.0, 30.5)
+(95% CI) (13.0, 40.1)
+p=0.0296
 p-value p=0.0003
 Mean change in BCVA 17.0 6.9 17.1 12.2 (11.9)
-as measured by ETDRS (12.9) (13.1)
+as measured by ETDRS
+(12.9) (13.1)
 letter score from (11.9)
 Baseline (SD)
 Difference in LS mean 10.5 5.2
-A,C) (7.1, 14.0) (1.7, 8.7)
-(95% CI) p<0.0001 p=0.0035F)
+A,C)
+(7.1, 14.0) (1.7, 8.7)
+(95% CI)
+p<0.0001 p=0.0035F)
 p-value
 
 A) Difference is Eylea 2 mg Q4 weeks minus Laser Control
@@ -454,7 +459,7 @@ Ocular and systemic safety profiles were similar to the safety observed in the p
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | ConGt) rol (N = 68) |
+|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
 | Proportion of patients with≥15 letters gain from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVA C) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
@@ -463,9 +468,11 @@ Ocular and systemic safety profiles were similar to the safety observed in the p
 B) Difference and confidence interval (CI) are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (>20/200 and ≤20/200)
 D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (>20/200 and ≤20/200)
 
-(N = 91) (laser) (N = 91)D) (laser)/Eylea
-(N = 90) 2mgE)
+(laser) (laser)/Eylea
+(N = 91) (N = 91)D)
+2mgE)
 (N = 90)
+(95% CI) p<0.0001 p=0.0035F)
 
 C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
@@ -505,6 +512,8 @@ The pharmacodynamic effects of aflibercept 114.3 mg/ml administered every 12 (8Q
 These effects are shown as the change in CNV size from baseline to week 12; change in total lesion area from baseline to weeks 48, 60, and 96; and change from baseline in central retinal thickness (CRT).
 
 In the pooled group of patients treated with 8Q12 or 8Q16, reductions in CNV size (LS mean, based on a mixed model for repeated measurements [MMRM]) at week 12 were -1.63 mm2 compared to -1.17 mm2 for patients treated with 2Q8.
+
+Pharmacodynamic effects were generally maintained through week 156.
 Table 2: Pharmacodynamic parameter (full analysis set) in the PULSAR study
 
 | Efficacy outcomes | Week | Eylea 8Q12 (N = 335) | Eylea 8Q16 (N = 338) | Eylea 2Q8 (N = 336) |
@@ -521,7 +530,7 @@ Table 2: Pharmacodynamic parameter (full analysis set) in the PULSAR study
 | LS mean (SE) A |  | -0.43 (0.20) | -0.42 (0.20) | -0.18 (0.20) |
 | Difference in LS means (95% CI) A,B |  | -0.25 (-0.72, 0.21) | -0.24 (-0.71, 0.22) |  |
 
-A LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
+A LS mean, CI and p-value based on an MMRM with baseline measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline measurement and visit and for the interaction between treatment and visit.
 B Absolute difference is Eylea 8Q12- or 8Q16-groups minus 2Q8-groups, respectively.
 LS: Least square
 SE: Standard error
@@ -538,6 +547,7 @@ Diabetic macular oedema is characterised by increased vasopermeability and damag
 
 The pharmacodynamic effects of aflibercept 114.3 mg/ml administered every 12 (8Q12) and every 16 (8Q16) weeks are described in comparison with aflibercept 40 mg/ml administered every 8 weeks (2Q8) for the DME indication.
 These effects are shown as the change in the leakage area from baseline to weeks 48, 60, and 96.
+
 Table 3: Pharmacodynamic parameter (full analysis set) in the PHOTON study
 
 | Efficacy Outcomes | Week | Eylea 8Q12 (N = 328) | Eylea 8Q16 (N = 163) | Eylea 2Q8 (N = 167) |
@@ -664,6 +674,7 @@ Table 4: Efficacy outcomes from the PULSAR study
 | Proportion (pooled 8Q12- and 8Q16-groups) | 96 | 27.8% |  | n/a |
 | Proportion |  | 24.7% | 30.8% | n/a |
 
+A LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
 C Mantel-Haenszel weighted treatment difference with stratification variables used for randomization (geographical region, categorical baseline BCVA) and CI calculated using normal approximation.
 D Full analysis set
 E Safety analysis set; patients considered as completer for the respective timepoint
@@ -700,15 +711,46 @@ No clinically meaningful differences were found between the 8Q12-, 8Q16- and 2Q8
 
 Efficacy results in evaluable subgroups for age, gender, geographic region, ethnicity, race, baseline BCVA, and lesion type were consistent with the results in the overall population.
 Efficacy was generally maintained through week 96.
+Results - PULSAR extension phase
+
+At the end of the main phase of the study at week 96, patients could enrol into the 60 week, open-label extension phase.
+417 patients originally assigned to 8Q12 and 8Q16 continued on Eylea 114.3 mg/ml while maintaining their latest intervals.
+208 patients originally assigned to 2Q8 at the beginning of the study were switched to Eylea 114.3 mg/ml starting at 12-week intervals.
+Treatment intervals could be further adjusted based on the physician’s judgement of visual and/or anatomic outcomes.
+In those patients originally assigned to 8Q12 and 8Q16, the treatment effect with Eylea 114.3 mg/ml was generally maintained throughout 3 years (week 156).
+The LS mean change from baseline in the pooled 8Q12- and 8Q16-groups in BCVA was +3.41 letters and in CRT was -148.05 microns at week 156.
+In those patients originally assigned to 2Q8, the treatment effect with Eylea 114.3 mg/ml was similar.
+The LS mean change from baseline in BCVA was +4.58 letters and in CRT was -145.21 microns at week 156.
+Patients in the 8Q12- and 8Q16-groups who completed week 156 received a median (mean) of 13.0 (13.5) and 11.0 (12.2) injections, respectively.
+Patients who switched to Eylea 114.3 mg/ml and completed week 156 received a total median (mean) of 18.0 (17.7) injections, of which 5.0 (4.9) injections were administered after the switch to
+Eylea 114.3 mg/ml within the 60 weeks of the study extension phase.
+
+The overall safety profile in the extension phase was similar to that observed in the main phase.
+
+Table 5: Efficacy outcomes from the PULSAR extension phase at week 156
+
+| Efficacy outcomes | 8Q12 continued on Eylea 114.3 mg/ml (N = 185) | 8Q16 continued on Eylea 114.3 mg/ml (N = 190) | 2Q8 switched to Eylea 114.3 mg/ml (N = 208) |
+| --- | --- | --- | --- |
+| Change in BCVA from baseline (LS mean) | +3.57 letters | +3.23 letters | +4.58 letters |
+| Change in CRT from baseline (LS mean) | -148.42 microns | -147.54 microns | -145.21 microns |
+| Last intended treatment interval A |  |  |  |
+| ≥12 weeks | 76.2% | 78.4% | 78.5% |
+| ≥16 weeks | 53.5% | 62.1% | 42.5% |
+| ≥20 weeks | 37.8% | 42.6% | 16.1% |
+| 24 weeks | 23.8% | 24.2% | NA B |
+
+A based on patients completing week 156
+B NA for patients originally randomised to 2Q8, due to study design/length of study
 
 The safety and efficacy of Eylea 114.3 mg/ml were assessed in a randomised, multi-centre, double-masked, active-controlled study (PHOTON) in patients with DME.
 
 The primary objective was to determine if treatment with Eylea 114.3 mg/ml at intervals of 12 (8Q12) or 16 weeks (8Q16) provides non-inferior BCVA change compared to Eylea 40 mg/ml every 8 weeks.
 
 One key secondary endpoint was the change in BCVA from baseline at week 60.
-
 In the PHOTON study a total of 658 patients were treated.
 The patients were assigned in a 2:1:1 ratio to 1 of 3 parallel treatment groups:
+
+Patients who were switched from other anti-VEGF medicinal products to Eylea 114.3 mg/ml received the last injection of the previous treatment at least 12 weeks prior to initiating the Eylea 114.3 mg/ml treatment.
 
 All patients in the 8Q12- and 8Q16-groups received 3 initial injections and all patients in the 2Q8-group received 5 initial injections at 4-week intervals.
 1. >10 letter loss in BCVA from week 12 in association with persistent or worsening DME, and 2. >50 microns increase in CRT from week 12.
@@ -731,7 +773,7 @@ At week 96, in the pooled 8Q12- and 8Q16-groups 72.4% of patients had attained t
 
 Treatment with Eylea (both 8Q12- and 8Q16-groups) was shown to be non-inferior and clinically equivalent to treatment with 2Q8 in terms of the primary efficacy endpoint ‘mean change in BCVA at week 48’ and the key secondary efficacy endpoint ‘mean change in BCVA at week 60’.
 The treatment effect with Eylea 114.3 mg/ml in mean change in BCVA was maintained through week 96.
-Table 5: Efficacy outcomes from the PHOTON study
+Table 6: Efficacy outcomes from the PHOTON study
 
 | Efficacy outcomes | Week | Eylea 8Q12 (N = 328) | Eylea 8Q16 (N = 163) | Eylea 2Q8 (N = 167) |
 | --- | --- | --- | --- | --- |
@@ -746,7 +788,7 @@ Table 5: Efficacy outcomes from the PHOTON study
 | p-value (one-sided non-inferiority test at a margin of 4 letters) A,B |  | 0.0003 | 0.0122 |  |
 | Arithmetic mean (SD), observed | 96 | 8.82 (9.93) | 7.50 (9.86) | 8.41 (11.10) |
 | LS mean (SE) A |  | 8.15 (0.63) | 6.59 (0.77) | 7.70 (0.89) |
-| Difference in LS means (95% CI) A,B |  | -0.45 (-1.55, 2.45) | -1.11 (-3.27, 1.05) |  |
+| Difference in LS means (95% CI) A,B |  | 0.45 (-1.55, 2.45) | -1.11 (-3.27, 1.05) |  |
 | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D |  |  |  |  |
 | Proportion (LOCF) | 48 | 65.3% | 62.6% | 63.0% |
 | Adjusted difference in proportion (95% CI) B,C |  | 2.45% (-6.47%, 11.36%) | -0.67% (-11.16%, 9.82%) |  |
@@ -785,7 +827,9 @@ Figure 6: Last intended treatment interval at week 96
 
 44.3%
 
-17.5% Q20 72.4% ≥Q16
+17.5% Q20 72.4%
+
+≥Q16
 
 92.9%
 
@@ -799,5 +843,26 @@ Eylea at all doses (8Q12, 8Q16, 2Q8) demonstrated meaningful increase from basel
 Efficacy results in evaluable subgroups for age, gender, geographic region, ethnicity, race, baseline BCVA and baseline CRT and prior DME treatment were consistent with the results in the overall population.
 
 Treatment effects in the sub-group of previously treated patients were similar to those seen in patients who were treatment naïve.
+
+Results - PHOTON extension phase
+
+195 patients originally assigned to 8Q12 and 8Q16 continued on Eylea 114.3 mg/ml while maintaining their latest intervals.
+70 patients originally assigned to 2Q8 at the beginning of the study were switched to Eylea 114.3 mg/ml starting at 12-week intervals.
+The LS mean change from baseline in the pooled 8Q12- and 8Q16-groups in BCVA was +7.2 letters and in CRT was -192.4 microns at week 156.
+The LS mean change from baseline in BCVA was +6.5 letters and in CRT was -197.4 microns at week 156.
+Patients in the 8Q12- and 8Q16-groups who completed week 156 received a median (mean) of 13.0 (13.2) and 11.0 (11.4) injections, respectively.
+Patients who switched to Eylea 114.3 mg/ml and completed week 156 received a total median (mean) of 19.0 (18.6) injections, of which 5.0 (4.8) injections were administered after the switch to
+
+Table 7: Efficacy outcomes from the PHOTON extension phase at week 156
+
+| Efficacy outcomes | 8Q12 continued on Eylea 114.3 mg/ml (N = 103) | 8Q16 continued on Eylea 114.3 mg/ml (N = 49) | 2Q8 switched to Eylea 114.3 mg/ml (N = 70) |
+| --- | --- | --- | --- |
+| Change in BCVA from baseline (LS mean) | +6.8 letters | +8.1 letters | +6.5 letters |
+| Change in CRT from baseline (LS mean) | -190.3 microns | -198.1 microns | -197.4 microns |
+| Last intended treatment interval A |  |  |  |
+| ≥12 weeks | 85.4% | 91.8% | 82.8% |
+| ≥16 weeks | 62.1% | 81.6% | 50.0% |
+| ≥20 weeks | 40.8% | 63.3% | 19.0% |
+| 24 weeks | 20.4% | 42.9% | NA B |
 
 The European Medicines Agency has waived the obligation to submit the results of studies with aflibercept in all subsets of the paediatric population in nAMD and DME (see section 4.2 for information on paediatric use).

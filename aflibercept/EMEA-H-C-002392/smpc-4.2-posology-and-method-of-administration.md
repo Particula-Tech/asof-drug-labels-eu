@@ -147,9 +147,15 @@ The recommended dose is 8 mg aflibercept, equivalent to 0.07 ml solution.
 The posology is the same for the nAMD and DME indications.
 The 8 mg dose requires use of Eylea 114.3 mg/ml.
 
-Eylea treatment is initiated with 1 injection per month for 3 consecutive doses.
+For patients who are initiating treatment, Eylea is administered with 1 injection per month for 3 consecutive doses.
 Injection intervals may then be extended up to every 4 months based on the physician’s judgement of visual and/or anatomic outcomes.
-Subsequently, the treatment intervals may be further extended up to 5 months, such as with a treat-and-extend dosing regimen, while maintaining stable visual and/or anatomic outcomes (see section 5.1).
+Subsequently, the treatment intervals may be further extended up to 6 months, such as with a treat-and-extend dosing regimen, while maintaining stable visual and/or anatomic outcomes (see section 5.1).
+
+For patients who have previously been treated with Eylea 40 mg/ml or other anti-VEGF medicinal products and are switching to Eylea 114.3 mg/ml, the treatment regimen can differ from that used for treatment-naïve patients.
+Treatment intervals should be determined based on visual and/or anatomic outcomes (see section 5.1).
+
+- In patients with stable visual and anatomic outcomes, previous treatment intervals can be maintained or extended after the first injection of Eylea 114.3 mg/ml, such as with a treat-and-extend dosing regimen.
+- In patients with suboptimal visual and/or anatomic outcomes, treatment with Eylea 114.3 mg/ml may begin with 1 injection per month for up to 3 consecutive doses followed by adjustment of injection intervals, such as with a treat-and-extend dosing regimen.
 
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly based on the physician’s discretion.
 The shortest interval between 2 injections is 2 months in the maintenance phase.
