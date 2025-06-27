@@ -7,6 +7,8 @@ As with other cytotoxic medicinal products, topotecan may cause foetal harm and 
 
 As with all cytotoxic chemotherapy, patients being treated with topotecan must be advised that they or their partner must use an effective method of contraception.
 
+Women of childbearing potential should use effective contraceptive measures while being treated with topotecan and for 6 months following completion of treatment.
+Men are recommended to use effective contraceptive measures and to not father a child while receiving topotecan and for 3 months following completion of treatment.
 Pregnancy
 
 If topotecan is used during pregnancy, or if the patient becomes pregnant during therapy with topotecan, the patient must be warned of the potential hazards to the foetus.

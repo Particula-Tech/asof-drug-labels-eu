@@ -4,7 +4,6 @@ HYCAMTIN 1 mg powder for concentrate for solution for infusion
 
 EU/1/96/027/004
 EU/1/96/027/005
-
 HYCAMTIN 4 mg powder for concentrate for solution for infusion
 
 EU/1/96/027/001

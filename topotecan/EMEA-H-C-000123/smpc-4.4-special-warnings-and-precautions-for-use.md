@@ -12,14 +12,13 @@ In patients presenting with fever, neutropenia and a compatible pattern of abdom
 Topotecan has been associated with reports of interstitial lung disease (ILD), some of which have been fatal (see section 4.8).
 Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic exposure to radiation and use of pneumotoxic substances and/or colony stimulating factors.
 Patients should be monitored for pulmonary symptoms indicative of ILD (e.g. cough, fever, dyspnoea and/or hypoxia), and topotecan should be discontinued if a new diagnosis of ILD is confirmed.
+
 Topotecan monotherapy and topotecan in combination with cisplatin are commonly associated with clinically relevant thrombocytopenia.
 This should be taken into account when prescribing HYCAMTIN, e.g. if patients at increased risk of tumour bleeds are considered for therapy.
-
 As would be expected, patients with poor performance status (PS >1) have a lower response rate and an increased incidence of complications such as fever, infection and sepsis (see section 4.8).
 Accurate assessment of performance status at the time therapy is given is important, to ensure that patients have not deteriorated to PS 3.
 
-There is insufficient experience of the use of topotecan in patients with severely impaired renal function (creatinine clearance <20 ml/min) or severely impaired hepatic function (serum bilirubin
-≥10 mg/dl) due to cirrhosis.
+There is insufficient experience of the use of topotecan in patients with severely impaired renal function (creatinine clearance <20 ml/min) or severely impaired hepatic function (serum bilirubin ≥10 mg/dl) due to cirrhosis.
 Use of topotecan in these patient groups is not recommended (see section 4.2).
 
 A small number of hepatically impaired patients (serum bilirubin between 1.5 and 10 mg/dl) were given intravenous topotecan at 1.5 mg/m2/day for five days every three weeks.
@@ -39,6 +38,7 @@ Use of topotecan in these patients is not recommended (see section 4.2).
 
 However, there are insufficient data available to make a dose recommendation for this patient group.
 There is insufficient experience of the use of topotecan in patients with severely impaired hepatic function (serum bilirubin ≥10 mg/dl).
+
 Diarrhoea, including severe diarrhoea requiring hospitalisation, has been reported during treatment with oral topotecan.
 Diarrhoea related to oral topotecan can occur at the same time as drug-related neutropenia and its sequelae.
 Communication with patients prior to drug administration regarding these side effects and proactive management of early and all signs and symptoms of diarrhoea is important.

@@ -18,8 +18,7 @@ Topotecan should not be re-administered unless the neutrophil count is ≥1 x 10
 
 Standard oncology practice for the management of neutropenia is either to administer topotecan with other medicinal products (e.g. G-CSF) or to reduce the dose to maintain neutrophil counts.
 
-If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count
-<0.5 x 109/l) for seven days or more or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 0.25 mg/m2/day to 1.25 mg/m2/day (or subsequently down to 1.0 mg/m2/day if necessary).
+If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count <0.5 x 109/l) for seven days or more or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 0.25 mg/m2/day to 1.25 mg/m2/day (or subsequently down to 1.0 mg/m2/day if necessary).
 
 Doses should be similarly reduced if the platelet count falls below 25 x 109/l.
 In clinical studies, topotecan was discontinued if the dose had been reduced to 1.0 mg/m2/day and a further dose reduction was required to manage adverse effects.
@@ -35,8 +34,7 @@ Topotecan should not be re-administered unless the neutrophil count is ≥1.5 x 
 
 Standard oncology practice for the management of neutropenia is either to administer topotecan with other medicinal products (e.g. G-CSF) or to reduce the dose to maintain neutrophil counts.
 
-If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count
-<0.5 x 109/l) for seven days or more or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 20% to 0.60 mg/m2/day for subsequent courses (or subsequently down to 0.45 mg/m2/day if necessary).
+If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count <0.5 x 109/l) for seven days or more or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 20% to 0.60 mg/m2/day for subsequent courses (or subsequently down to 0.45 mg/m2/day if necessary).
 
 Doses should be similarly reduced if the platelet count falls below 25 x 109/l.
 
@@ -72,10 +70,11 @@ Topotecan must be reconstituted and further diluted before use (see section 6.6)
 HYCAMTIN capsules should only be prescribed and therapy supervised by a physician experienced in the use of chemotherapeutic agents.
 
 The recommended dose of HYCAMTIN capsules is 2.3 mg/m2 body surface area per day administered for five consecutive days with a three-week interval between the start of each course.
+
 The capsule(s) must be swallowed whole, and must not be chewed crushed or divided.
 Hycamtin capsules may be taken with or without food (see section 5.2).
 
-<0.5 x 109/l) for seven days or more or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 0.4 mg/m2/day to 1.9 mg/m2/day (or subsequently down to 1.5 mg/m2/day if necessary).
+If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count <0.5 x 109/l) for seven days or more or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 0.4 mg/m2/day to 1.9 mg/m2/day (or subsequently down to 1.5 mg/m2/day if necessary).
 
 In clinical studies, topotecan was discontinued if the dose needed to be reduced below 1.5 mg/m2/day.
 
@@ -90,8 +89,7 @@ If well tolerated, the dose may be increased to 2.3 mg/m2/day in subsequent cycl
 
 Limited data in Korean patients with creatinine clearance less than 50 ml/min suggest a further lowering of dose may be required (see section 5.2).
 
-Insufficient data are available to make a recommendation for patients with a creatinine clearance
-<30 ml/min.
+Insufficient data are available to make a recommendation for patients with a creatinine clearance <30 ml/min.
 
 Pharmacokinetics of HYCAMTIN capsules have not been specifically studied in patients with impaired hepatic function.
 There are insufficient data available with HYCAMTIN capsules to make a dose recommendation for this patient group (see section 4.4).

@@ -29,6 +29,7 @@ The topotecan-O-glucuronide and N-desmethyl topotecan-O-glucuronide in the urine
 
 In vitro data using human liver microsomes indicate the formation of small amounts of N-demethylated topotecan.
 In vitro, topotecan did not inhibit human P450 enzymes CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A or CYP4A, nor did it inhibit the human cytosolic enzymes dihydropyrimidine or xanthine oxidase.
+
 When given in combination with cisplatin (cisplatin day 1, topotecan days 1 to 5), the clearance of topotecan was reduced on day 5 compared to day 1 (19.1 l/h/m2 compared to 21.3 l/h/m2 [n = 9]) (see section 4.5).
 
 Special populations
@@ -46,12 +47,10 @@ Mean half-life increased from 1.9 hours to 4.9 hours.
 
 Age/weight
 In a population study, a number of factors including age, weight and ascites had no significant effect on clearance of total topotecan (active and inactive form).
-
 Paediatric population
 The pharmacokinetics of topotecan given as a 30-minute infusion for 5 days were evaluated in two studies.
 One study included a dose range of 1.4 to 2.4 mg/m2 in children (aged 2 up to 12 years, n = 18), adolescents (aged 12 up to 16 years, n = 9) and young adults (aged 16 to 21 years, n = 9) with refractory solid tumours.
-The second study included a dose range of 2.0 to 5.2 mg/m2 in children
-(n = 8), adolescents (n = 3) and young adults (n = 3) with leukaemia.
+The second study included a dose range of 2.0 to 5.2 mg/m2 in children (n = 8), adolescents (n = 3) and young adults (n = 3) with leukaemia.
 In these studies there were no apparent differences in the pharmacokinetics of topotecan among children, adolescents and young adult patients with solid tumours or leukaemia, but data are too limited to draw definite conclusions.
 
 [HYCAMTIN 0.25 mg hard capsules]
