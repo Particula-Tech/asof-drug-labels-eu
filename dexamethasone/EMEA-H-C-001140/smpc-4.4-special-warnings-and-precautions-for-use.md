@@ -27,7 +27,7 @@ This could be attributable to the intravitreous injection procedure or to concom
 No treatment is required since spontaneous resolution occurs.
 
 As expected with ocular steroid treatment and intravitreal injections, increases in intraocular pressure (IOP) may be seen.
-The rise in IOP is normally manageable with IOP lowering medication (see section 4.8).
+The rise in IOP is normally manageable with IOP-lowering medication (see section 4.8).
 Of the patients experiencing an increase of IOP of ≥10 mmHg from baseline, the greatest proportion showed this IOP increase between 45 and 60 days following an injection.
 Therefore, regular monitoring of IOP, irrespective of baseline IOP, is required and any elevation should be managed appropriately post-injection as needed.
 Patients of less than 45 years of age with macular oedema following Retinal Vein Occlusion or inflammation of the posterior segment of the eye presenting as non-infectious uveitis are more likely to experience increases in IOP.

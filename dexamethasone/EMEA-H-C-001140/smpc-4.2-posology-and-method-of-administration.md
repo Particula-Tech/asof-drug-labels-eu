@@ -15,9 +15,9 @@ There is currently no experience of the efficacy or safety of repeat administrat
 
 RVO and uveitis
 Repeat doses should be considered when a patient experiences a response to treatment followed subsequently by a loss in visual acuity and in the physician’s opinion may benefit from retreatment without being exposed to significant risk (see section 5.1).
-
 Patients who experience and retain improved vision should not be retreated.
 Patients who experience deterioration in vision, which is not slowed by OZURDEX, should not be retreated.
+
 There is only very limited information on repeat dosing intervals less than 6 months (see section 5.1).
 
 For information concerning the current safety experience of repeat administrations beyond 2 implants in posterior segment non-infectious uveitis and Retinal Vein Occlusion, see section 4.8.
@@ -37,8 +37,9 @@ OZURDEX has not been studied in patients with hepatic impairment; however no spe
 
 Paediatric population
 There is no relevant use of OZURDEX in the paediatric population in
-•diabetic macular oedema
-•macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO)
+
+- diabetic macular oedema
+- macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO)
 
 The safety and efficacy of OZURDEX in uveitis in the paediatric population have not been established.
 No data are available.
@@ -63,7 +64,6 @@ Before withdrawing the applicator from the eye, make sure that the actuator butt
 Remove the needle in the same direction as used to enter the vitreous.
 
 For instructions on the administration of the intravitreal implant, see section 6.6
-
 Immediately after injecting OZURDEX, use indirect ophthalmoscopy in the quadrant of injection to confirm successful implantation.
 Visualisation is possible in the large majority of cases.
 In cases in which the implant cannot be visualised, take a sterile cotton bud and lightly depress over the injection site to bring the implant into view.

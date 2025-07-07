@@ -9,9 +9,10 @@ Corticosteroids have been shown to inhibit the expression of VEGF.
 Additionally, corticosteroids prevent the release of prostaglandins, some of which have been identified as mediators of cystoid macular oedema.
 
 Clinical efficacy and safety
+
 Diabetic Macular Oedema
 
-The efficacy of OZURDEX was assessed in two 3 year, multicentre, double-masked, randomised, sham-controlled, parallel studies of identical design which together comprised 1,048 patients
+The efficacy of OZURDEX was assessed in two 3 year, multicentre, double-masked, randomised, sham-controlled, parallel studies of identical design which together comprised 1 048 patients
 (studies 206207-010 and 206207-011).
 A total of 351 were randomised to OZURDEX, 347 to dexamethasone 350 µg and 350 patients to sham.
 
@@ -27,69 +28,53 @@ Discontinuation due to lack of efficacy was lower in the OZURDEX group compared 
 The primary and key secondary endpoints for studies 206207-010 and 011 are presented in Table 2.
 The vision improvement in the DEX700 group was confounded by cataract formation.
 Vision improvement was re-established upon removal of cataract.
-Table 2.
-Efficacy in studies 206207-010 and 206207-011 (ITT population)
+Table 2 Efficacy in studies 206207-010 and 206207-011 (ITT population)
 
-Study Study Pooled Studies
-206207-010 206207-011 206207-010 and
-206207-011
-DEX Sham DEX Sham DEX Sham
-Endpoint 700 700 700
-N = 163 N = 165 N = 188 N = 185 N = 351 N = 350
-Mean BCVA average change over
-3 years, AUC approach (letters) 4.1 1.9 2.9 2.0 3.5 2.0
-P-value
-0.016 0.366 0.023
-BCVA ≥ 15-letter improvement
-from baseline at Year 3/Final (%) 22.1 13.3 22.3 10.8 22.2 12.0
-P-value
-0.038 0.003 < 0.001
-Mean BCVA change from baseline
-at year 3/final visit (letters) 4.1 0.8 1.3 -0.0 2.6 0.4
-P-value
-0.020 0.505 0.054
-OCT retinal thickness at center
-subfield mean average change over -101.1 -37.8 -120.7 -45.8 -111.6 -41.9
-3 years, AUC approach (µm)
-P-value
-<0.001 < 0.001 < 0.001
+| Endpoint | Study 206207-010 |  |  | Study 206207-011 |  | Pooled Studies 206207-010 and 206207-011 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | DEX 700 N = 163 | Sham N = 165 |  | DEX 700 N = 188 | Sham N = 185 | DEX 700 N = 351 |  | Sham N = 350 |
+| Mean BCVA average change over 3 years, AUC approach (letters) | 4.1 | 1.9 |  | 2.9 | 2.0 | 3.5 |  | 2.0 |
+| P-value | 0.016 |  |  | 0.366 |  | 0.023 |  |  |
+| BCVA ≥ 15 letter improvement from baseline at Year 3/Final (%) | 22.1 |  | 13.3 | 22.3 | 10.8 | 22.2 | 12.0 |  |
+| P-value | 0.038 |  |  | 0.003 |  | < 0.001 |  |  |
+| Mean BCVA change from baseline at year 3/final visit (letters) | 4.1 |  | 0.8 | 1.3 | -0.0 | 2.6 | 0.4 |  |
+| P-value | 0.020 |  |  | 0.505 |  | 0.054 |  |  |
+| OCT retinal thickness at center subfield mean average change over 3 years, AUC approach (µm) | -101.1 |  | -37.8 | -120.7 | -45.8 | -111.6 | -41.9 |  |
+| P-value | <0.001 |  |  | < 0.001 |  | < 0.001 |  |  |
 
 The primary and key secondary endpoints for the pooled analysis for pseudophakic patients are presented in Table 3.
 
-Table 3.
-Efficacy in pseudophakic patients (pooled studies 206207-010 and 206207-011)
+Table 3 Efficacy in pseudophakic patients (pooled studies 206207-010 and 206207-011)
 
 | Endpoint | DEX 700 N = 86 | Sham N = 101 | P-value |
 | --- | --- | --- | --- |
 | Mean BCVA average change over 3 years, AUC approach (letters) | 6.5 | 1.7 | < 0.001 |
-| BCVA ≥ 15-letter improvement from baseline at Year 3/Final visit (%) | 23.3 | 10.9 | 0.024 |
+| BCVA ≥ 15 letter improvement from baseline at Year 3/Final visit (%) | 23.3 | 10.9 | 0.024 |
 | Mean BCVA change from baseline at year 3/Final visit | 6.1 | 1.1 | 0.004 |
 | OCT retinal thickness at center subfield mean average change over 3 years, AUC approach (µm) | -131.8 | -50.8 | < 0.001 |
 
 The primary and key secondary endpoints for the pooled analysis for patients with any prior treatment are presented in Table 4.
-Table 4.
-Efficacy in patients with any prior treatment (pooled studies 206207-010 and 206207-011)
+Table 4 Efficacy in patients with any prior treatment (pooled studies 206207-010 and 206207-011)
 
 | Endpoint | DEX 700 N = 247 | Sham N = 261 | P-value |
 | --- | --- | --- | --- |
 | Mean BCVA average change over 3 years, AUC approach (letters) | 3.2 | 1.5 | 0.024 |
-| BCVA ≥ 15-letter improvement from baseline at Year 3/Final visit (%) | 21.5 | 11.1 | 0.002 |
+| BCVA ≥ 15 letter improvement from baseline at Year 3/Final visit (%) | 21.5 | 11.1 | 0.002 |
 | Mean BCVA change from baseline at year 3/Final visit | 2.7 | 0.1 | 0.055 |
 | OCT retinal thickness at center subfield mean average change over 3 years, AUC approach (µm) | -126.1 | -39.0 | < 0.001 |
 
 BRVO/CRVO
-The efficacy of OZURDEX was assessed in two multicentre, double-masked, randomised, sham-controlled, parallel studies of identical design which together comprised 1,267 patients who were randomized to receive treatment with dexamethasone 350 µg or 700 µg implants or sham (studies 206207-008 and 206207-009).
+The efficacy of OZURDEX was assessed in two multicentre, double-masked, randomised, sham-controlled, parallel studies of identical design which together comprised 1 267 patients who were randomized to receive treatment with dexamethasone 350 µg or 700 µg implants or sham (studies 206207-008 and 206207-009).
 A total of 427 were randomised to OZURDEX, 414 to dexamethasone 350 µg and 426 patients to sham.
 
-Based on the pooled analysis results, treatment with OZURDEX implants showed statistically significantly greater incidence of responders, defined as patients achieving a ≥15 letter improvement from baseline in Best Corrected Visual Acuity (BCVA) at 90 days following injection of a single implant, when compared with sham (p < 0.001).
+Based on the pooled analysis results, treatment with OZURDEX implants showed statistically significantly greater incidence of responders, defined as patients achieving a ≥ 15 letter improvement from baseline in Best Corrected Visual Acuity (BCVA) at 90 days following injection of a single implant, when compared with sham (p < 0.001).
 
-The proportion of patients achieving the primary efficacy measure of ≥15 letter improvement from baseline in BCVA following injection of a single implant is shown in Table 5.
+The proportion of patients achieving the primary efficacy measure of ≥ 15 letter improvement from baseline in BCVA following injection of a single implant is shown in Table 5.
 A treatment effect was seen at the first observation time point of day 30.
 The maximum treatment effect was observed at day 60 and the difference in the incidence of responders was statistically significant favouring OZURDEX compared with sham at all time points to day 90 following injection.
-There continued to be a numerically greater proportion of responders for a ≥15 letter improvement from baseline in BCVA in patients treated with OZURDEX compared with sham at day 180.
+There continued to be a numerically greater proportion of responders for a ≥ 15 letter improvement from baseline in BCVA in patients treated with OZURDEX compared with sham at day 180.
 
-Table 5.
-Proportion of patients with ≥15 letters improvement from baseline best corrected visual acuity in the study eye
+Table 5 Proportion of patients with ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye
 (pooled, ITT population)
 
 | Visit | OZURDEX Sham N = 427 N = 426 |
@@ -100,8 +85,8 @@ a Proportion significantly higher with OZURDEX compared to sham (p < 0.001)
 
 The mean change from baseline BCVA was significantly greater with OZURDEX compared to sham at all time points.
 
-In each Phase III study and the pooled analysis, the time to achieve ≥15 letters (3-line) improvement in BCVA cumulative response curves were significantly different with OZURDEX compared to sham (p < 0.001) with OZURDEX treated patients achieving a 3-line improvement in BCVA earlier than sham treated patients.
-OZURDEX was numerically superior to sham in preventing vision loss as shown by a lower of proportion of patients experiencing deterioration of vision of ≥15 letters in the OZURDEX group throughout the 6-month assessment period.
+In each Phase III study and the pooled analysis, the time to achieve ≥ 15 letters (3-line) improvement in BCVA cumulative response curves were significantly different with OZURDEX compared to sham (p < 0.001) with OZURDEX treated patients achieving a 3-line improvement in BCVA earlier than sham treated patients.
+OZURDEX was numerically superior to sham in preventing vision loss as shown by a lower of proportion of patients experiencing deterioration of vision of ≥ 15 letters in the OZURDEX group throughout the 6-month assessment period.
 
 In each of the phase III studies and the pooled analysis, mean retinal thickness was significantly less, and the mean reduction from baseline was significantly greater, with OZURDEX (-207.9 microns) compared to sham (-95.0 microns) at day 90 (p < 0.001, pooled data).
 The treatment effect as assessed by BCVA at day 90 was thus supported by this anatomical finding.
@@ -124,7 +109,7 @@ Of these, a total of 77 were randomised to receive OZURDEX, 76 to dexamethasone 
 A total of 95% of patients completed the 26-week study.
 
 The proportion of patients with vitreous haze score of 0 in the study eye at week 8 (primary endpoint) was 4-fold higher with OZURDEX (46.8%) compared to Sham (11.8%), p < 0.001.
-Statistical superiority was maintained up to and including week 26 (p ≤0.014) as shown in Table 6.
+Statistical superiority was maintained up to and including week 26 (p ≤ 0.014) as shown in Table 6.
 
 The cumulative response rate curves (time to vitreous haze score of 0) were significantly different for the OZURDEX group compared to the Sham group (p < 0.001), with patients receiving dexamethasone showing an earlier onset and greater treatment response.
 
@@ -134,8 +119,7 @@ Sham (6.6%), p < 0.001.
 Statistical superiority was achieved at week 3 and maintained up to and including week 26 (p < 0.001) as shown in Table 6.
 
 The percent of patients requiring escape medications from baseline to week 8 was nearly 3-fold less with OZURDEX (7.8%) compared to Sham (22.4%), p = 0.012.
-Table 6.
-Proportion of patients with vitreous haze score of zero and ≥15 letters improvement from baseline best corrected visual acuity in the study eye (ITT population)
+Table 6 Proportion of patients with vitreous haze score of zero and ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye (ITT population)
 
 | Visit | Vitreous Haze Score of Zero |  | BCVA improvement from baseline of ≥15 letters |  |
 | --- | --- | --- | --- | --- |

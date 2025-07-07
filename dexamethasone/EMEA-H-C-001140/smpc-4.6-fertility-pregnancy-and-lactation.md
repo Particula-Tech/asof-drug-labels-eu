@@ -8,7 +8,7 @@ Therefore, although the systemic exposure of dexamethasone would be expected to 
 
 Breast-feeding
 Dexamethasone is excreted in breast milk No effects on the child are anticipated due to the route of administration and the resulting systemic levels.
-However OZURDEX is not recommended during breast feeding unless clearly necessary.
+However OZURDEX is not recommended during breast-feeding unless clearly necessary.
 
 Fertility
 There are no fertility data available.

@@ -10,7 +10,7 @@ With the exception of headache and migraine, no systemic adverse drug reactions 
 Tabulated list of adverse reactions
 The adverse reactions considered related to OZURDEX treatment from the Phase III clinical trials (DME, BRVO/CRVO and uveitis) and spontaneous reporting are listed by MedDRA System organ class in the table below using the following convention:
 
-Very common (≥ 1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
+Very common (≥ 1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Table 1 Adverse reactions
 
@@ -27,6 +27,7 @@ Table 1 Adverse reactions
 ** in a 24-month real world observational study in the treatment of macular oedema following RVO and non-infectious uveitis affecting the posterior segment of the eye these adverse events were reported more frequently among patients who received >2 injections vs patients who received ≤2 injections; cataract formation (24.7% vs 17.7%), cataract progression (32.0% vs 13.1%), vitreous haemorrhage (6.0% vs 2.0%), and increased IOP (24.0% vs 16.6%).
 
 Description of selected adverse reactions
+
 Diabetic Macular Oedema
 
 The clinical safety of OZURDEX in patients with diabetic macular oedema was assessed in two phase 3 randomized, double-masked, sham-controlled studies.
@@ -39,7 +40,7 @@ The incidence of all observed cataract types (i.e. cataract cortical, cataract d
 59% of patients with a phakic study eye required cataract surgery by the 3 year final visit, with the majority performed in the 2nd and 3rd years.
 
 Mean IOP in the study eye at baseline was the same in both treatment groups (15.3 mmHg).
-The mean increase from baseline IOP did not exceed 3.2 mmHg across all visits in the OZURDEX group with the mean IOP peaking at the 1.5 month visit post injection, and returning to approximately baseline levels by month 6 following each injection.
+The mean increase from baseline IOP did not exceed 3.2 mmHg across all visits in the OZURDEX group with the mean IOP peaking at the 1.5 month visit post-injection, and returning to approximately baseline levels by month 6 following each injection.
 The rate and magnitude of IOP elevation following OZURDEX treatment did not increase upon repeated injection of OZURDEX.
 
 28% of patients treated with OZURDEX had a ≥ 10 mm Hg IOP increase from baseline at one or more visits during the study.
@@ -67,7 +68,7 @@ During the initial treatment period, 0.7 % (3/421) of the patients who received 
 
 The adverse reaction profile of 341 patients analysed following a second injection of OZURDEX, was similar to that following the first injection.
 A total of 54 % of patients experienced at least one adverse reaction.
-The incidence of increased IOP (24.9 %) was similar to that seen following the first injection and likewise returned to baseline by open-label day 180.
+The incidence of increased IOP (24.9 %) was similar to that seen following the first injection and likewise returned to baseline by open label day 180.
 The overall incidence of cataracts was higher after 1 year compared to the initial 6 months.
 
 Uveitis
