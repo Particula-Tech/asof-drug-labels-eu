@@ -35,7 +35,7 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | Skin and subcutaneous tissue disorders | Alopecia | Rash (4.9%) (G3/4: 0.1%) Pruritus (3.9%) (G3/4: 0.1%)d Nail disorder Night sweats Dry skin Erythema Hyperhidrosis Palmar plantar erythrodysaesthesia (1.0%) (G3/4: 0.1%)d | Angioedema | **Stevens-Johnson syndrome/ Toxic epidermal necrolysisb |
 | Musculoskeletal and connective tissue disorders | Arthralgia and myalgia (20.4%) (G3/4: 1.0%) Back pain (12.8%) (G3/4: 1.5%) Pain in extremity (10.0%) (G3/4: 0.7%)d | Bone pain (6.7%) (G3/4: 1.2%) Muscle spasms (5.3%) (G3/4: 0.1%)d Musculoskeletal pain Musculoskeletal chest pain Muscular weakness |  |  |
 | Renal and urinary disorders |  | Dysuria | Haematuria Proteinuria Renal failure |  |
-| General disorders and administration site conditions | Fatigue/Asthenia (53.2%) (G3/4 : 7.7%) Pyrexia (21.8%) (G3/4: 0.7%) | Mucosal Inflammation (6.4%) (G3/4: 0.9%)d Peripheral oedema Pain Chills Chest pain Influenza like illness |  |  |
+| General disorders and administration site conditions | Fatigue/Asthenia (53.2%) (G3/4: 7.7%) Pyrexia (21.8%) (G3/4: 0.7%) | Mucosal Inflammation (6.4%) (G3/4: 0.9%)d Peripheral oedema Pain Chills Chest pain Influenza like illness |  |  |
 | Investigations | Weight decreased (11.4%) (G3/4: 0.4%)d |  |  |  |
 
 a Includes Grade 5 events.
@@ -90,7 +90,6 @@ Patients with ALT or AST > 3 x ULN experienced a higher incidence of Grade 4 neu
 Although data are limited, patients with bilirubin > 1.5 x ULN also have a higher incidence of Grade 4 neutropenia and febrile neutropenia (see also sections 4.2 and 5.2).
 
 Paediatric population
-
 Three open-label studies, Studies 113, 213 and 223, were conducted in paediatric patients with refractory or recurrent solid tumours and lymphomas, but excluding central nervous system (CNS) tumours (see section 5.1).
 
 The safety of eribulin monotherapy was evaluated in 43 paediatric patients who received up to 1.58 mg/m2 on Days 1 and 8 of a 21-day cycle (Studies 113 and 223).

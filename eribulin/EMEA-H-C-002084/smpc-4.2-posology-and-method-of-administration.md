@@ -65,10 +65,10 @@ For all patients with renal impairment, caution and close safety monitoring is a
 Elderly patients
 
 No specific dose adjustments are recommended based on the age of the patient (see section 4.8).
+
 Paediatric population
 
 There is no relevant use of HALAVEN in children and adolescents for the indication of breast cancer.
-
 There is no relevant use of HALAVEN in the paediatric population for the indication of soft tissue sarcoma (see section 5.1).
 
 Method of administration

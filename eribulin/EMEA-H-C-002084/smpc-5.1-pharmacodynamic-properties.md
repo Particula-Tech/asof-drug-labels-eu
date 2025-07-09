@@ -20,7 +20,7 @@ They were randomized 2:1 to receive either HALAVEN, or treatment of physician’
 The study met its primary endpoint with an overall survival (OS) result that was statistically significantly better in the eribulin group compared to TPC at 55% of events.
 This result was confirmed with an updated overall survival analysis carried out at 77% of events.
 
-Study 305 - Updated Overall Survival ( ITT Population)
+Study 305 - Updated Overall Survival (ITT Population)
 
 Efficacy Parameter HALAVEN TPC
 1.0 HALAVEN (n=508) (n=254)
@@ -29,7 +29,7 @@ Efficacy Parameter HALAVEN TPC
 
 0.8 Number of Events 386 203
 0.7 Median (months) 13.2 10.5
-0.6 Physician’s ChoiceTreatment of Hazard Ratio (95% CI)a 0.805 (0.677, 0.958)
+0.6 Physician’s Choice Treatment of Hazard Ratio (95% CI)a 0.805 (0.677, 0.958)
 0.5 (TPC) Nominal P value 0.014b
 
 (log rank)
@@ -47,7 +47,7 @@ TPC 254 178 106 61 26 5 0
 By independent review, the median progression free survival (PFS) was 3.7 months for eribulin compared to 2.2 months for the TPC arm (HR 0.865, 95% CI: 0.714, 1.048, p=0.137).
 In response evaluable patients, the objective response rate by the RECIST criteria was 12.2% (95% CI: 9.4%, 15.5%) by independent review for the eribulin arm compared to 4.7% (95% CI: 2.3%, 8.4%) for the TPC arm.
 
-The positive effect on OS was seen in both taxane-refractory and non-refractory groups of patients .
+The positive effect on OS was seen in both taxane-refractory and non-refractory groups of patients.
 In the OS update, the HR for eribulin versus TPC was 0.90 (95% CI: 0.71, 1.14) in favour of eribulin for taxane-refractory patients and 0.73 (95% CI: 0.56, 0.96) for patients not taxane-refractory.
 
 The positive effect on OS was seen both in capecitabine-naïve and in capecitabine pre-treated patient groups.
@@ -93,7 +93,9 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | Median months | 13.4 | 10.5 | 11.8 | 8.9 |
 | Hazard Ratio (95% CI) | 0.849 (0.695, 1.036) |  | 0.594 (0.389, 0.907) |  |
 | p-value (log rank) | 0.106 |  | 0.015 |  |
+
 | Efficacy Parameter | Study 301 Overall Survival ITT Population |  |  |  |
+| --- | --- | --- | --- | --- |
 |  | HER2 Negative |  | HER2 Positive |  |
 |  | HALAVEN (n = 375) | Capecitabine (n = 380) | HALAVEN (n = 86) | Capecitabine (n = 83) |
 | Number of Events | 296 | 316 | 73 | 73 |
@@ -102,7 +104,6 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | p-value (log rank) | 0.030 |  | 0.837 |  |
 
 Note: Concomitant anti-HER2 therapy was not included in Study 305 and Study 301.
-
 Liposarcoma
 
 In liposarcoma the efficacy of eribulin is supported by the pivotal Phase 3 sarcoma study (Study 309).
@@ -163,7 +164,6 @@ Breast Cancer
 The European Medicines Agency has waived the obligation to submit the results of studies with eribulin in all subsets of the paediatric population in the indication of breast cancer (see section 4.2 for information on paediatric use).
 
 Soft Tissue Sarcoma
-
 Efficacy of eribulin was assessed but not established in three open-label studies:
 
 Study 113 was a Phase 1, open-label, multicentre, dose-finding study that assessed eribulin in paediatric patients with refractory or recurrent solid tumours and lymphomas but excluding CNS tumours.

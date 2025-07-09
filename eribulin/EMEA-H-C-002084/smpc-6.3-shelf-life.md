@@ -5,6 +5,7 @@ Unopened vials
 5 years.
 
 In-use shelf life
+
 From a microbiological point of view the product should be used immediately.
 If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
