@@ -53,14 +53,14 @@ uncommon: hepatitis, cholelithiasisa, cholestasisa;
 rare: hepatosplenomegaly, cholecystitisa
 
 Skin and subcutaneous tissue common: rash;
-disorders: uncommon: erythemia multiformea,b, toxic skin eruptionsa,b,
+disorders: uncommon: erythema multiformea,b, toxic skin eruptionsa,b,
 
 drug rash with eosinophilia and systemic symptoms (DRESS) syndromea,b, angioedemaa, urticaria, alopecia, pruritus;
 rare: Stevens-Johnson syndromea,b, vesiculobullous rash, eczema, vasodilatation
 Musculoskeletal and connective tissue uncommon: muscle atrophy, arthralgia, myalgia;
 
 disorders: rare: myopathy
-Renal and urinary disorders: uncommon: nephrolithiasisa, haematuria, proteinuria,
+Renal and urinary disorders: uncommon: nephrolithiasis, haematuria, proteinuria,
 
 pollakiuria, interstitial nephritis, chronic kidney diseasea;
 rare: kidney pain

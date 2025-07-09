@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Therapy should be initiated by a physician experienced in the management of HIV infection.
-
 Posology
 
 Adults
@@ -27,6 +26,7 @@ Switching to REYATAZ capsules from REYATAZ oral powder is encouraged as soon as 
 
 When transitioning between formulations, a change in dose may be needed.
 Consult the dosing table for the specific formulation (see Summary of Product Characteristics for REYATAZ oral powder).
+
 Special populations
 
 Renal impairment
@@ -46,7 +46,6 @@ Pregnancy and Postpartum
 During the second and third trimesters of pregnancy:
 REYATAZ 300 mg with ritonavir 100 mg may not provide sufficient exposure to atazanavir, especially when the activity of atazanavir or the whole regimen may be compromised due to drug resistance.
 Since there are limited data available and due to inter-patient variability during pregnancy, Therapeutic Drug Monitoring (TDM) may be considered to ensure adequate exposure.
-
 The risk of a further decrease in atazanavir exposure is expected when atazanavir is given with medicinal products known to reduce its exposure (e.g., tenofovir disoproxil or H2-receptor antagonists).
 
 - If tenofovir disoproxil or an H2-receptor antagonist is needed, a dose increase to REYATAZ 400 mg with ritonavir 100 mg with TDM may be considered (see sections 4.6 and 5.2).

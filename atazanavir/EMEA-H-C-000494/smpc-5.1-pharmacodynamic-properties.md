@@ -183,7 +183,6 @@ Study 138 is an international randomised, open-label, multicenter, prospective t
 
 The mean baseline CD4 cell count was 214 cells/mm3 (range: 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/mL (range: 2.6 to 5.88 log10 copies/mL).
 The REYATAZ/ritonavir arm has similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/mL at Week 48: 78% of patients on REYATAZ/ritonavir compared to 76% on lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: 1.7% [95% CI, -3.8%, 7.1%] according to the Confirmed Virologic Response (CVR) Non-Completer = Failure (NC = F) definition of response.
-
 In a per protocol analysis which excluded non-completers (i.e., patients who discontinued before the Week 48 HIV RNA assessment) and patients with major protocol deviations, the proportion of patients with HIV RNA < 50 copies/mL at Week 48 was 86% (338/392) for REYATAZ/ritonavir and 89% (332/372) for lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: -3% [95% CI, -7.6%, 1.5%].
 
 Paediatric trials with REYATAZ capsules

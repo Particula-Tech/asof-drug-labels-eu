@@ -1,17 +1,5 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-REYATAZ 100 mg hard capsules
-
-Each capsule contains 100 mg of atazanavir (as sulphate).
-
-Excipient with known effect: 54.79 mg of lactose per capsule.
-
-REYATAZ 150 mg hard capsules
-
-Each capsule contains 150 mg of atazanavir (as sulphate).
-
-Excipient with known effect: 82.18 mg of lactose per capsule.
-
 REYATAZ 200 mg hard capsules
 
 Each capsule contains 200 mg of atazanavir (as sulphate).
