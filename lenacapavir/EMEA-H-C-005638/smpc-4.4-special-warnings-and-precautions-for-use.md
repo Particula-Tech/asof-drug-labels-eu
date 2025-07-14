@@ -14,12 +14,25 @@ These concentrations are not expected to affect the exposures of other antiretro
 
 Immune Reconstitution Inflammatory Syndrome
 
-In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+In patients with HIV with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples include cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+
+Injection Site Reactions
+
+Injection Site Reactions with Improper Administration
+Improper administration (intradermal injection) has been associated with serious injection site reactions, including necrosis and ulcer.
+Sunlenca injections must only be administered subcutaneously (see section 4.2).
+
+Slow or non-resolving injection site nodules and indurations
+Administration of Sunlenca may result in local injection site reactions (ISRs), including nodules and indurations.
+The healthcare professional should inform patients that nodules and indurations at the injection site may take longer to resolve than other ISRs or may not resolve.
+In CAPELLA (see section 5.1), nodules associated with the first injections of Sunlenca had not resolved in 10% of participants after a median follow-up of 554 days, whereas all indurations had resolved (see section 4.8).
+The mechanism driving the persistence of injection site nodules in some participants is not fully understood but may be related to the presence of the subcutaneous drug depot and an associated foreign body response at the injection site.
+Non-resolving ISRs should be subject to clinical monitoring.
 
 Opportunistic infections
 
@@ -34,6 +47,7 @@ Co-administration with medicinal products that are moderate inducers of CYP3A an
 (e.g. efavirenz) is not recommended (see section 4.5).
 
 Co-administration with medicinal products that are strong inhibitors of CYP3A, P-gp, and UGT1A1 together (i.e. all 3 pathways), such as atazanavir/cobicistat is not recommended (see section 4.5).
+
 Excipients
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per injection, that is to say essentially ‘sodium-free’.

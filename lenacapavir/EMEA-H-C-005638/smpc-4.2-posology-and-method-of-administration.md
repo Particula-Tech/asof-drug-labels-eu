@@ -56,9 +56,10 @@ No data are available.
 
 Method of administration
 
-For subcutaneous use.
+For subcutaneous use only.
 
-Sunlenca injections should be administered into the abdomen (two injections, each at a separate site) by a healthcare professional (see section 6.6).
+Sunlenca injections must only be administered subcutaneously into the abdomen (two injections, each at a separate site) by a healthcare professional (see section 6.6).
+Sunlenca injections must NOT be administered intradermally (see section 4.4).
 For instructions on preparation and administration, see ‘Instructions for Use’ in the package leaflet. ‘Instructions for Use’ are also available as a card in the injection kit.
 
 [Sunlenca 300 mg film-coated tablets]

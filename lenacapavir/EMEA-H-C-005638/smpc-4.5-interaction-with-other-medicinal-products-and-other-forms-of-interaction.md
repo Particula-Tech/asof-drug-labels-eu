@@ -12,9 +12,9 @@ Strong CYP3A4 inhibitors alone (e.g. voriconazole) or strong inhibitors of CYP3A
 
 Effect of lenacapavir on the pharmacokinetics of other medicinal products
 
-Lenacapavir is a moderate inhibitor of CYP3A.
-Caution is advised if Sunlenca is co-administered with a sensitive CYP3A substrate with a narrow therapeutic index.
-Lenacapavir is not a clinically meaningful inhibitor of P-gp and BCRP and does not inhibit OATP.
+Lenacapavir is a moderate inhibitor of CYP3A and a P-gp inhibitor.
+Caution is advised if Sunlenca is co-administered with a sensitive CYP3A and/or P-gp substrate with a narrow therapeutic index.
+Lenacapavir is not a clinically meaningful inhibitor of BCRP and does not inhibit OATP.
 
 Table 2: Interactions between Sunlenca and other medicinal products
 
@@ -22,7 +22,8 @@ Table 2: Interactions between Sunlenca and other medicinal products
 | --- | --- | --- |
 | ANTIMYCOBACTERIALS |  |  |
 | Rifampicina,b,c (600 mg once daily) | Lenacapavir: AUC: ↓84% Cmax: ↓55% | Co-administration is contraindicated (see section 4.3). |
-| Rifabutin | Interaction not studied. Co-administration of rifabutin may decrease lenacapavir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. | Co-administration is not recommended (see section 4.4). |
+| Rifabutin | Interaction not studied. | Co-administration is not recommended (see section 4.4). |
+|  | Co-administration of rifabutin may decrease lenacapavir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. |  |
 | ANTICONVULSANTS |  |  |
 | Carbamazepine Phenytoin | Interaction not studied. Co-administration of carbamazepine, oxcarbazepine, phenobarbital, or phenytoin with lenacapavir may decrease lenacapavir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. | Co-administration is contraindicated (see section 4.3). |
 | Oxcarbazepine Phenobarbital |  | Co-administration is not recommended (see section 4.4). Alternative anticonvulsants should be considered. |
@@ -39,10 +40,9 @@ Table 2: Interactions between Sunlenca and other medicinal products
 | ERGOT DERIVATIVES |  |  |
 | Dihydroergotamine Ergotamine | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir. | Caution is warranted when dihydroergotamine or ergotamine, is co-administered with Sunlenca. |
 | PHOSPHODIESTERASE-5 (PDE-5) INHIBITORS |  |  |
-| Sildenafil Tadalafil Vardenafil | Interaction not studied. Plasma concentration of PDE-5 inhibitors may be increased when co-administered with lenacapavir. | Use of PDE-5 inhibitors for pulmonary arterial hypertension: Co-administration with tadalafil is not recommended. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil: A starting dose of 25 mg is recommended. |
-|  |  | Vardenafil: No more than 5 mg in a 24-hour period. Tadalafil: • For use as needed: no more than 10 mg every 72 hours • For once daily use: dose not to exceed 2.5 mg |
+| Sildenafil Tadalafil Vardenafil | Interaction not studied. Plasma concentration of PDE-5 inhibitors may be increased when co-administered with lenacapavir. | Use of PDE-5 inhibitors for pulmonary arterial hypertension: Co-administration with tadalafil is not recommended. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil: A starting dose of 25 mg is recommended. Vardenafil: No more than 5 mg in a 24-hour period. Tadalafil: • For use as needed: no more than 10 mg every 72 hours • For once daily use: dose not to exceed 2.5 mg |
 | CORTICOSTEROIDS (systemic) |  |  |
-| Dexamethasone Hydrocortisone/cortisone | Interaction not studied. Plasma concentrations of corticosteroids may be increased when co-administered with lenacapavir. | Co-administration of Sunlenca with corticosteroids whose exposures are significantly increased by CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Initiate with the lowest starting dose and titrate carefully while monitoring for safety. |
+| Cortisone/hydrocortisone Dexamethasone | Interaction not studied. Plasma concentrations of corticosteroids may be increased when co-administered with lenacapavir. Plasma concentrations of lenacapavir may decrease when co-administered with systemic dexamethasone, which may result in loss of therapeutic effect and development of resistance. | Co-administration of Sunlenca with corticosteroids whose exposures are significantly increased by CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Initiate with the lowest starting dose and titrate carefully while monitoring for safety. Caution is warranted when systemic dexamethasone is co-administered with Sunlenca, particularly for long-term use. Alternative corticosteroids should be considered. |
 | HMG-CoA REDUCTASE INHIBITORS |  |  |
 | Lovastatin Simvastatin | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir. | Initiate lovastatin and simvastatin with the lowest starting dose and titrate carefully while monitoring for safety (e.g. myopathy). |
 | Atorvastatin |  | No dose adjustment of atorvastatin is required. |
@@ -55,7 +55,7 @@ Table 2: Interactions between Sunlenca and other medicinal products
 | Midazolamd,i,n (2.5 mg single dose; oral;1 day after lenacapavir) | Midazolam: AUC: ↑ 308% Cmax: ↑ 116% 1-hydroxymidazolamo: AUC: ↓ 16% Cmax: ↓ 48% |  |
 | Triazolam | Interaction not studied. Plasma concentration of triazolam may be increased when co-administered with lenacapavir. |  |
 | ANTICOAGULANTS |  |  |
-| Direct Oral Anticoagulants (DOACs) Rivaroxaban Dabigatran Edoxaban | Interaction not studied. Plasma concentration of DOAC may be increased when co-administered with lenacapavir. | Due to potential bleeding risk, dose adjustment of DOAC may be required. Consult the Summary of Product Characteristics of the DOAC for further information on use in combination with combined moderate CYP3A and P-gp inhibitors. |
+| Direct Oral Anticoagulants (DOACs) Rivaroxaban Dabigatran Edoxaban | Interaction not studied. Plasma concentration of DOAC may be increased when co-administered with lenacapavir. | Due to potential bleeding risk, dose adjustment of DOAC may be required. Consult the Summary of Product Characteristics of the DOAC for further information on use in combination with moderate CYP3A inhibitors and/or P-gp inhibitors. |
 | ANTIFUNGALS |  |  |
 | Voriconazolea,b,p,q (400 mg twice daily/200 mg twice daily) | Lenacapavir: AUC:↑ 41% Cmax:↔ | No dose adjustment of lenacapavir is required. |
 | Itraconazole Ketoconazole | Interaction not studied. Plasma concentration of lenacapavir may be increased when co-administered with itraconazole or ketoconazole. |  |
@@ -80,7 +80,9 @@ k Tenofovir alafenamide is converted to tenofovir in vivo.
 l Evaluated as an OATP substrate.
 m Evaluated as an BCRP substrate.
 n Evaluated as a CYP3A substrate.
-o Major active metabolite of midazolam.
+
+- Major active metabolite of midazolam.
+
 p Evaluated as a strong inhibitor of CYP3A.
 q This study was conducted using voriconazole 400 mg loading dose twice daily for a day, followed by 200 mg maintenance dose twice daily.
 
@@ -109,7 +111,7 @@ q This study was conducted using voriconazole 400 mg loading dose twice daily fo
 | PHOSPHODIESTERASE-5 (PDE-5) INHIBITORS |  |  |
 | Sildenafil Tadalafil Vardenafil | Interaction not studied. Plasma concentration of PDE-5 inhibitors may be increased when co-administered with lenacapavir. | Use of PDE-5 inhibitors for pulmonary arterial hypertension: Co-administration with tadalafil is not recommended. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil: A starting dose of 25 mg is recommended. Vardenafil: No more than 5 mg in a 24-hour period. Tadalafil: • For use as needed: no more than 10 mg every 72 hours • For once daily use: dose not to exceed 2.5 mg |
 | CORTICOSTEROIDS (systemic) |  |  |
-| Dexamethasone Hydrocortisone/cortisone | Interaction not studied. Plasma concentrations of corticosteroids may be increased when co-administered with lenacapavir. | Co-administration of Sunlenca with corticosteroids whose exposures are significantly increased by CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Initiate with the lowest starting dose and titrate carefully while monitoring for safety. |
+| Cortisone/hydrocortisone Dexamethasone | Interaction not studied. Plasma concentrations of corticosteroids may be increased when co-administered with lenacapavir. Plasma concentrations of lenacapavir may decrease when co-administered with systemic dexamethasone, which may result in loss of therapeutic effect and development of resistance. | Co-administration of Sunlenca with corticosteroids whose exposures are significantly increased by CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Initiate with the lowest starting dose and titrate carefully while monitoring for safety. Caution is warranted when systemic dexamethasone is co-administered with Sunlenca, particularly for long-term use. Alternative corticosteroids should be considered. |
 | HMG-CoA REDUCTASE INHIBITORS |  |  |
 | Lovastatin Simvastatin | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir. | Initiate lovastatin and simvastatin with the lowest starting dose and titrate carefully while monitoring for safety (e.g. myopathy). |
 | Atorvastatin |  | No dose adjustment of atorvastatin is required. |
@@ -122,7 +124,8 @@ q This study was conducted using voriconazole 400 mg loading dose twice daily fo
 | Midazolamd,i,n (2.5 mg single dose; oral; 1 day after lenacapavir) | Midazolam: AUC: ↑ 308% Cmax: ↑ 116% 1-hydroxymidazolamo: AUC: ↓ 16% Cmax: ↓ 48% |  |
 | Triazolam | Interaction not studied. Plasma concentration of triazolam may be increased when co-administered with lenacapavir. |  |
 | ANTICOAGULANTS |  |  |
-| Direct Oral Anticoagulants (DOACs) Rivaroxaban Dabigatran Edoxaban | Interaction not studied. Plasma concentration of DOAC may be increased when co-administered with lenacapavir. | Due to potential bleeding risk, dose adjustment of DOAC may be required. Consult the Summary of Product Characteristics of the DOAC for further information on use in combination with combined moderate CYP3A and P-gp inhibitors. |
+| Direct Oral Anticoagulants (DOACs) | Interaction not studied. | Due to potential bleeding risk, dose adjustment of DOAC may be |
+| Rivaroxaban Dabigatran Edoxaban | Plasma concentration of DOAC may be increased when co-administered with lenacapavir. | required. Consult the Summary of Product Characteristics of the DOAC for further information on use in combination with moderate CYP3A inhibitors and/or P-gp inhibitors. |
 | ANTIFUNGALS |  |  |
 | Voriconazolea,b,p,q (400 mg twice daily/200 mg twice daily) | Lenacapavir: AUC:↑ 41% Cmax:↔ | No dose adjustment of lenacapavir is required. |
 | Itraconazole Ketoconazole | Interaction not studied. Plasma concentration of lenacapavir may be increased when co-administered with itraconazole or ketoconazole. |  |
