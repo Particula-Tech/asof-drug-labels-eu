@@ -11,7 +11,6 @@ The data in table 1 below describe adverse reactions reported from phase II and 
 
 The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000) and not known (cannot be estimated from the available data).
 Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
-
 Table 1.
 Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
@@ -86,7 +85,6 @@ Some clinical trial cases were complicated by acute renal injury.
 Renal impairment
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.
 Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

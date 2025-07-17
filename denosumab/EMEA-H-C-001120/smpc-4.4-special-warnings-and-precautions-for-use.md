@@ -69,6 +69,10 @@ Patients presenting with such symptoms should be evaluated for an incomplete fem
 Long-term antiresorptive treatment
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
+Treatment discontinuation
+Following denosumab discontinuation, decrease in bone mineral density (BMD) is expected (see section 5.1), leading to an increased risk for fractures.
+Thus, monitoring of BMD is recommended, and alternative treatment should be considered according to clinical guidelines.
+
 Concomitant treatment with other denosumab-containing medicinal products
 Patients being treated with denosumab should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
 

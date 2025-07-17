@@ -21,10 +21,10 @@ Age (28-87 years), race and disease state (low bone mass or osteoporosis; prosta
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax.
 However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
-
 Linearity/non-linearity
 
 In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmacokinetics, with lower clearance at higher doses or concentrations, but approximately dose-proportional increases in exposures for doses of 60 mg and greater.
+
 Renal impairment
 
 In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab.

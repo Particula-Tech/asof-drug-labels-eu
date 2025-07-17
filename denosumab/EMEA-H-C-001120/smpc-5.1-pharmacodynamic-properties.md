@@ -25,9 +25,9 @@ Clinical efficacy and safety in postmenopausal women with osteoporosis
 Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between –2.5 and –4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture.
 Women with other diseases or on therapies that may affect bone were excluded from this study.
 Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
-
 Effect on vertebral fractures
 Prolia significantly reduced the risk of new vertebral fractures at 1, 2 and 3 years (p < 0.0001) (see table 2).
+
 Table 2.
 The effect of Prolia on the risk of new vertebral fractures
 
@@ -79,6 +79,7 @@ Prolia increased BMD by 9.2% at the lumbar spine, 6.0% at the total hip, 4.8% at
 In clinical studies examining the effects of discontinuation of Prolia, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose.
 These data indicate that continued treatment with Prolia is required to maintain the effect of the medicinal product.
 Re-initiation of Prolia resulted in gains in BMD similar to those when Prolia was first administered.
+
 Open-label extension study in the treatment of postmenopausal osteoporosis
 A total of 4 550 women (2 343 Prolia & 2 207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed to enrol in a 7-year, multinational, multicentre, open-label, single-arm extension study to evaluate the long-term safety and efficacy of Prolia.
 All women in the extension study were to receive Prolia 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU).
@@ -117,6 +118,7 @@ Clinical efficacy and safety in patients with bone loss associated with androgen
 
 Efficacy and safety of Prolia once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48-97 years) who were at increased risk of fracture (defined as > 70 years, or < 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck < -1.0 or a history of an osteoporotic fracture).
 All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p < 0.0001).
 In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
@@ -149,12 +151,12 @@ At 1 year, the subject incidence of new radiological vertebral fracture was 2.7%
 The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate).
 At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures.
 Most of the fractures occurred in the GC-C subpopulation.
-
 Paediatric population
 
 A single-arm phase 3 study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian.
 A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months.
 Sixty subjects transitioned to every 3 months dosing.
+
 At month 12 of every 3 months dosing, the least squares (LS) mean (standard error, SE) change from baseline in lumbar spine BMD Z-score was 1.01 (0.12).
 
 The most common adverse events reported during every 6 months dosing were arthralgia (45.8%), pain in extremity (37.9%), back pain (32.7%), and hypercalciuria (32.0%).
