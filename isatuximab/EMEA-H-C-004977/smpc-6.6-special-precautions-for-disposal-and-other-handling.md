@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 Preparation for the intravenous administration
-
 The preparation of the infusion solution must be done under aseptic conditions.
 
 - The dose (mg) of SARCLISA concentrate should be calculated based on patient weight (measured prior to each cycle to have the administered dose adjusted accordingly, see section 4.2).

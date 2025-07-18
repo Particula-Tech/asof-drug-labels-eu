@@ -13,20 +13,26 @@ Serious adverse reactions occurred in 59.3 % of patients receiving Isa-Kd.
 The most frequent serious adverse reaction is pneumonia (21.5 %).
 Permanent discontinuation of treatment because of adverse reactions was reported in 8.5 % of patients treated with Isa-Kd.
 Adverse reactions with a fatal outcome during treatment were reported in 3.4 % of patients treated with Isa-Kd (those occurring in more than 1 % of patients were pneumonia and cardiac failure both occurring in 1.1 % of patients).
+
 In IMROZ, the most frequent adverse reactions (≥20%) are diarrhoea (54.8%), peripheral sensory neuropathy (54.4%), pneumonia (39.9%), cataract (38.0%), constipation (35.7%), fatigue (34.6%), upper respiratory tract infections (34.2%), oedema peripheral (32.7%), neutropenia (30.0% as an adverse reaction), infusion reaction (23.6%), insomnia (22.4%), Covid-19 (22.4%), back pain (22.1%), bronchitis (22.1%). and asthenia (21.7%), Serious adverse reactions occurred in 70.7% of patients receiving Isa-VRd.
 The most frequent serious adverse reaction was pneumonia (29.7%, including Covid-19 pneumonia).
 Adverse reactions with a fatal outcome during treatment (Grade 5 TEAEs) were reported in 11% of patients with Isa-VRd including Grade 5 infectious TEAEs occurring in 6.5% of patients.
 Permanent discontinuation of treatment because of adverse reactions was reported in 22.8% of patients treated with Isa-VRd.
 
-Tabulated list of adverse reactions
+In GMMG-HD7, during the induction period, the most frequent adverse reactions (≥10%) are polyneuropathy (18.8%), neutropenia (16.1%), and infusion related reactions (12.4%).
+Serious adverse reactions occurred in 35.2% of patients receiving Isa-VRd.
+The most frequent serious adverse reactions are pneumonia (3.6%), pyrexia (3.3%), and diarrhoea (2.1%).
+Adverse reactions with a fatal outcome during treatment (Grade 5 TEAEs) were reported in 1.2% of patients treated with Isa-VRd (due to COVID-19, pneumonia influenza, septic shock, and haemorrhage intracranial, each reported in 0.3% of patients).
+Permanent discontinuation of treatment because of adverse reactions was reported in 3% of patients treated with Isa-VRd.
 
+Tabulated list of adverse reactions
 Adverse reactions are described using the NCI Common Toxicity Criteria, the COSTART and the MedDRA terms.
 Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); frequency not known (cannot be estimated from available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 The adverse reactions were reported in clinical studies (see section 5.1) and post-market settings.
 
-Table 4: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with pomalidomide and dexamethasone
+Table 5: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with pomalidomide and dexamethasone
 
 | System Organ Class Preferred Term | Adverse reaction | Frequency | Incidence (N = 244) |  |
 | --- | --- | --- | --- | --- |
@@ -58,12 +64,13 @@ b See “Description of selected adverse reactions”.
 c Based on second primary malignancies reported during study treatment period and during post-treatment period.
 d Based on post-marketing adverse reactions.
 
-Table 5a: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with carfilzomib and dexamethasone
+Table 6a: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with carfilzomib and dexamethasone
 
 System Organ Class Adverse reaction Frequency Incidence
 Preferred Term (N = 177)
 Any Grade Grade ≥ 3
-Infections and infestations Pneumoniab c Very common 28.8 % 20.9 %
+Infections and Pneumoniab c Very common 28.8 % 20.9 %
+infestations
 Upper respiratory tract infection Very common 36.2 % 3.4 %
 Bronchitis Very common 22.6 % 2.3 %
 Herpes zoster Common 2.3 % 0.6 %
@@ -78,13 +85,15 @@ Immune system Anaphylactic reactione Uncommon 0.3 % 0.3 %
 disorders
 Vascular disorders Hypertension Very common 36.7 % 20.3 %
 Respiratory, thoracic Dyspnoea Very common 27.7 % 5.1 %
-
-| and mediastinal disorders | Cough | Very common | 19.8 % | 0 % |
-| --- | --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhoea | Very common | 36.2 % | 2.8 % |
-|  | Vomiting | Very common | 15.3 % | 1.1 % |
-| General disorders and administration site conditions | Fatigue | Very common | 28.2 % | 3.4 % |
-| Injury, poisoning and procedural complications | Infusion reactionc | Very common | 45.8 % | 0.6 % |
+and mediastinal disorders Cough Very common 19.8 % 0 %
+Gastrointestinal disorders Diarrhoea Very common 36.2 % 2.8 %
+Vomiting Very common 15.3 % 1.1 %
+General disorders
+and administration Fatigue Very common 28.2 % 3.4 %
+site conditions
+Injury, poisoning Infusion reactionc Very common 45.8 % 0.6 %
+and procedural
+complications
 
 a Cut-off date of 07-Feb-2020.
 Median follow-up time = 20.73 months.
@@ -95,7 +104,7 @@ Median follow-up time = 56.61 months.
 Based on second primary malignancies reported during study treatment period and during post-treatment period.
 e Based on post-marketing adverse reactions.
 
-Table 6: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with bortezomib, lenalidomide, and dexamethasone
+Table 7: Adverse reactions reported in patients with newly diagnosed multiple myeloma, transplant ineligible, treated with isatuximab in combination with bortezomib, lenalidomide, and dexamethasone
 
 | System Organ Class Preferred Term | Adverse reaction | Frequency | Incidence (N=336) |  |
 | --- | --- | --- | --- | --- |
@@ -115,15 +124,31 @@ Table 6: Adverse reactions reported in patients with multiple myeloma treated wi
 | Gastrointestinal disorders | Diarrhoea | Very common | 56.8% | 8.3% |
 |  | Vomiting | Common | 9.5% | 0.3% |
 | General disorders and administration site conditions | Fatigue | Very common | 32.7% | 6.5% |
-| Injury, poisoning and procedural | Infusion reaction | Very common | 27.4% | 0.6% |
-|  |  |  | Any Grade | Grade ≥3 |
-| complications |  |  |  |  |
+| Injury, poisoning and procedural complications | Infusion reaction | Very common | 27.4% | 0.6% |
 | a The term pneumonia is a grouping of the following terms: Atypical pneumonia, Bronchopulmonary |  |  |  |  |
 | aspergillosis, Covid-19 pneumonia, Pneumocystis jirovecii pneumonia, Pneumonia, Pneumonia bacterial, |  |  |  |  |
 | Pneumonia haemophilus, Pneumonia influenzal, Pneumonia klebsiella, Pneumonia legionella, , Pneumonia |  |  |  |  |
 | pneumococcal, Pneumonia pseudomonal, Pneumonia respiratory syncytial viral, Pneumonia viral, Pulmonary |  |  |  |  |
 | sepsis, Tuberculosis. |  |  |  |  |
 | MedDRA 26.0 |  |  |  |  |
+
+Table 8: Adverse reactions reported during induction period in patients with newly diagnosed multiple myeloma, transplant eligible, treated with isatuximab in combination with bortezomib, lenalidomide, and dexamethasone
+
+| System Organ Class Preferred Term | Adverse reaction | Frequency | Incidence (N=330) |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Any Grade | Grade ≥3 |
+| Infections and infestations | Pneumonia a b | Common | 5.5% | 4.8% |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Solid tumours (non-skin cancers) | Uncommon | 0.3% | 0.3% |
+| Blood and lymphatic system disorders | Neutropenia | Very common | 16.1% | 16.1% |
+|  | Anaemia | Common | 3.6% | 3.6% |
+|  | Thrombocytopenia | Common | 4.5% | 4.5% |
+|  | Lymphopenia | Common | 3.3% | 3.3% |
+| Immune system disorders | Anaphylactic reaction | Uncommon | 0.3% | 0.3% |
+| Investigations | Neutrophil count decreased | Common | 7.3% | 7.3% |
+| Injury, poisoning and procedural complications | Infusion reaction b | Very common | 12.7% | 0.9% |
+
+a The term pneumonia is a grouping of the following terms: Pneumonia, Pneumonia influenza, Atypical pneumonia, Pneumonia fungal.
+b See “Description of selected adverse reactions”.
 
 Description of selected adverse reactions
 
@@ -152,7 +177,12 @@ Signs and symptoms of Grade 3 or 4 IRs included hypertension, bronchospasm, and 
 The incidence of patients with isatuximab infusion interruptions because of infusion reactions was 20.9%.
 The median time to isatuximab infusion interruption was 66.0 minutes.
 Isatuximab was discontinued in 0.8% of patients due to infusion reactions.
-(see sections 4.2 and 4.4).
+In GMMG-HD7, during the induction period, infusion reactions were reported in 42 patients (12.7%) treated with Isa-VRd.
+Grade 1 infusion reactions were not collected in the study.
+Grade 2 infusion reactions were reported in 11.8%, Grade 3 in 0.6%, and Grade 4 in 0.3% of the patients treated with Isa-VRd.
+All infusion reactions resolved.
+The incidence of patients with isatuximab infusion interruptions because of infusion reactions was 7.6%.
+Isatuximab was discontinued in 0.3 % of patients due to infusion reactions (see sections 4.2 and 4.4).
 
 Infections
 
@@ -172,12 +202,18 @@ reported in 25.1% of patients in the Isa-VRd group compared to 15.5% in the VRd 
 on preferred term, occurred in 1.5% of patients in the Isa-VRd group compared to 1.1% in the VRd
 group. Discontinuations from treatment due to infection were reported in 8.4% of patients in the Isa-
 VRd group compared to 9.4% in the VRd group. Fatal infections were reported in 6.5% of patients in
-the Isa-VRd group and 4.4% in the VRd group. (see section 4.4).
+the Isa-VRd group and 4.4% in the VRd group. In GMMG-HD7, during the induction period, the
+
+incidence of Grade 3 or higher infections was 13% in the Isa-VRd group and 10.1% in the VRd group.
+Pneumonia was the most commonly reported severe infection with Grade ≥3 reported in 3.9% of patients in the Isa-VRd group compared to 2.1% in the VRd group.
+Discontinuations from treatment due to infection were reported in 0.3% of patients in the Isa-VRd group compared to 0.9% in the VRd group.
+(see section 4.4).
 
 In relapsed and refractory multiple myeloma clinical studies, herpes zoster was reported in 2.0 % of patients.
 In ICARIA-MM, the incidence of herpes zoster was 4.6 % in the Isa-Pd group compared to 0.7 % in the Pd group, and in IKEMA, incidence was 2.3 % in the Isa-Kd group compared to 1.6 % in the Kd group.
 In newly diagnosed multiple myeloma clinical trials, herpes zoster was reported in 3.3% of patients.
 In IMROZ, the incidence of herpes zoster was 5.7% in the Isa-VRd group compared to 5.5% in the VRd group.
+In GMMG-HD7, during the induction period, the incidence of herpes zoster was 0.9% in the Isa-VRd group compared to 0.3% in the VRd group.
 
 Cardiac failure
 
@@ -187,7 +223,7 @@ Cardiac failure with a fatal outcome during treatment was reported in 1.1 % of p
 
 Haematology laboratory values
 
-Table 7: Haematology laboratory abnormalities in patients receiving isatuximab combined with pomalidomide and dexamethasone versus pomalidomide and dexamethasone (ICARIA-MM)
+Table 9: Haematology laboratory abnormalities in patients receiving isatuximab combined with pomalidomide and dexamethasone versus pomalidomide and dexamethasone (ICARIA-MM)
 
 | Laboratory | SARCLISA + Pomalidomide + |  |  | Pomalidomide + Dexamethasone |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -202,7 +238,7 @@ Table 7: Haematology laboratory abnormalities in patients receiving isatuximab c
 
 The denominator used for the percentage calculation is the number of patients with at least 1 evaluation of the laboratory test during the considered observation period.
 
-Table 8: Haematology laboratory abnormalities in patients receiving isatuximab combined with carfilzomib and dexamethasone versus carfilzomib and dexamethasone (IKEMA)
+Table 10: Haematology laboratory abnormalities in patients receiving isatuximab combined with carfilzomib and dexamethasone versus carfilzomib and dexamethasone (IKEMA)
 
 | Laboratory | SARCLISA + Carfilzomib + |  |  | Carfilzomib + Dexamethasone |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -213,15 +249,11 @@ Table 8: Haematology laboratory abnormalities in patients receiving isatuximab c
 | Anaemia | 99.4 | 22.0 | 0 | 99.2 | 19.7 | 0 |
 | Neutropenia | 54.8 | 17.5 | 1.7 | 43.4 | 6.6 | 0.8 |
 | Lymphopenia | 94.4 | 52.0 | 16.9 | 95.1 | 43.4 | 13.9 |
-| parameter | Dexamethasone |  |  | % |  |  |
-|  | % |  |  | (N = 122) |  |  |
-|  | (N = 177) |  |  |  |  |  |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
 | Thrombocytopenia | 94.4 | 18.6 | 11.3 | 87.7 | 15.6 | 8.2 |
 
 The denominator used for the percentage calculation is the number of patients with at least 1 evaluation of the laboratory test during the considered observation period.
 
-Table 9: Haematology laboratory abnormalities in patients receiving isatuximab combined with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone (IMROZ and TCD13983)
+Table 11: Haematology laboratory abnormalities in patients receiving isatuximab combined with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone (IMROZ and TCD13983)
 
 Laboratory SARCLISA + Bortezomib + Bortezomib + Lenalidomide +
 parameter Lenalidomide + Dexamethasone Dexamethasone
@@ -234,28 +266,42 @@ Neutropenia 86.9% 35.4% 17.3% 80.1% 28.2% 8.8%
 The denominator used for the percentage calculation is the number of patients with at least 1 evaluation of the
 laboratory test during the considered observation period.
 CTCAE version: 4.03.
+
+Table 12: Haematology laboratory abnormalities in patients receiving isatuximab combined with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone during induction period (GMMG-HD7)
+
+| Laboratory | SARCLISA + Bortezomib + |  |  | Bortezomib + Lenalidomide + |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| parameter | Lenalidomide + Dexamethasone |  |  | Dexamethasone |  |  |
+|  | (N=330) |  |  | (N=328) |  |  |
+|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+| Anaemia | 80.0% | 1.6% | 0% | 79.7% | 0.9% | 0% |
+| Neutropenia | 30.9% | 3.1% | 2.8% | 22.9 | 2.5% | 1.9% |
+| Lymphopenia | 54.4% | 15.6% | 2.2% | 67.4% | 18.7% | 5.1% |
+| Thrombocytopenia | 21.6% | 0.6% | 0.9% | 20.3% | 0.3% | 0% |
+
+The denominator used for the percentage calculation is the number of patients with at least 1 evaluation of the laboratory test during the considered observation period.
+
 Elderly patients
-Of the total number of patients in clinical studies of SARCLISA, 42.7% (763 patients) were less than
-65, 43.2% (772 patients) were 65-74, and 14.1% (252 patients) were 75 or older. Differences in safety
-were observed between older versus younger age groups. Grade >3 TEAEs were reported in 64.6% of
-patients less than 65, 79.7% of patients 65-74 and 76.2% of patients 75 or older, Grade 5 TEAEs were
-reported in 5.5% of patients less than 65, 7.5% of patients 65-74, and 12.3% of patients 75 or older.
-Serious TEAEs were reported in 46.7% of patients less than 65, 58.8% of patients 65-74, and 60.7% of
-patients 75 or older. TEAEs leading to definitive treatment discontinuation were reported in 6% of
-patients less than 65, 14% of patients 65-74, and 15.5% of patients 75 or older.
-In IMROZ study, no Grade 5 TEAEs were reported in patients less than 65, they were reported in
-10.7% of patients 65-74, and in 13.2% of patients 75 or older.
+
+Of the total number of patients in clinical studies of SARCLISA, 42.7% (763 patients) were less than 65, 43.2% (772 patients) were 65-74, and 14.1% (252 patients) were 75 or older.
+Differences in safety were observed between older versus younger age groups.
+Grade >3 TEAEs were reported in 64.7% of patients less than 65, 79.7% of patients 65-74 and 76.6% of patients 75 or older, Grade 5 TEAEs were reported in 5.6% of patients less than 65, 7.5% of patients 65-74, and 12.3% of patients 75 or older.
+Serious TEAEs were reported in 46.7% of patients less than 65, 59.3% of patients 65-74, and 61.1% of patients 75 or older.
+TEAEs leading to definitive treatment discontinuation were reported in 6.4% of patients less than 65, 14.4% of patients 65-74, and 15.9% of patients 75 or older.
+In the IMROZ study, no Grade 5 TEAEs were reported in patients less than 65, they were reported in 10.7% of patients 65-74, and in 13.2% of patients 75 or older.
+In GMMG-HD7 study, only patients until 70 years of age were included.
+During the induction period, Grade ≥3 TEAEs were reported in 59.7% of patients less than 65 and in 77.8% of patients 65 or older, TEAEs leading to definitive treatment discontinuation were reported in 1.6% of patients less than 65 and 8.3% of patients 65 or older, and Grade 5 TEAEs were reported in 0.8% of patients less than 65 and in 2.8% of patients 65 or older.
 
 Immunogenicity
 
-Across 9 clinical studies in relapsed or refractory multiple myeloma (RRMM) with isatuximab single agent and combination therapies including ICARIA-MM and IKEMA (N = 1023), the incidence of treatment emergent anti-drug antibodies (ADAs) was <2%.
+Across 9 clinical studies (N=1023) in relapsed or refractory multiple myeloma (RRMM) with isatuximab single agent and combination therapies including ICARIA-MM and IKEMA , the incidence of treatment emergent anti-drug antibodies (ADAs) was <2%.
 No effect of ADAs was observed on pharmacokinetics, safety or efficacy of isatuximab.
-Across 3 clinical studies in newly diagnosed multiple myeloma (NDMM) with isatuximab in combination therapy with bortezomib, lenalidomide, and dexamethasone, including IMROZ, ADA incidence ranged from 8.7% to 21.6%.
-In IMROZ, out of the 263 patients with NDMM treated with isatuximab in combination with bortezomib, lenalidomide, and dexamethasone, 253 were evaluable for the presence of ADA, 22 patients (8.7%) tested positive for treatment-emergent ADAs, with 21 patients considered to have a transient ADA response and 1 considered to have an indeterminate ADA response.
-Among these 22 ADA-positive patients, 13 had neutralizing antibodies (incidence of neutralizing antibodies: 5.1%).
-In IMROZ, a trend to lower exposure was observed in ADA-positive patients.
-In patients with ADA-positive status to isatuximab no meaningful impact of ADAs on efficacy of isatuximab was observed.
+Across 3 clinical studies (N=383) in newly diagnosed multiple myeloma (NDMM) with isatuximab in combination therapy with bortezomib, lenalidomide, and dexamethasone, including IMROZ and GMMG-HD7, ADA incidence ranged from 9.1% to 21.6%.
+In IMROZ and GMMG-HD7, 60% (15 out of 25) and 50% (4 out of 8) of the treatment induced ADA were neutralizing, respectively.
+In NDMM, a trend to lower exposure was observed in ADA-positive patients.
+No effect of ADAs was observed on efficacy of isatuximab.
 No conclusions can be drawn on safety due to the small subgroup of ADA positive patients.
+
 Paediatric population
 
 In a phase 2 single-arm study conducted in 67 paediatric patients with relapsed or refractory acute lymphoblastic leukaemia or acute myeloid leukaemia, all evaluable for safety, Grade ≥ 3 TEAEs was reported in 79.1 % of patients.
@@ -263,7 +309,6 @@ The most common Grade ≥ 3 TEAEs occurring in > 10% of patients included febril
 The addition of SARCLISA to standard chemotherapies did not modify the expected safety profile observed with standard chemotherapies in this paediatric population and was consistent with isatuximab safety profile for adults with multiple myeloma in ICARIA and IKEMA studies (see section 4.2).
 
 Reporting of suspected adverse reactions
-
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

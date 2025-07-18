@@ -3,14 +3,15 @@
 SARCLISA should be administered by a healthcare professional, in an environment where resuscitation facilities are available.
 
 Premedication
-
 Prevention of infusion reaction
+
 Premedication should be used prior to SARCLISA infusion with the following medicinal products to reduce the risk and severity of infusion reactions:
 
 - Dexamethasone 40 mg oral or intravenous (or 20 mg oral or intravenous for patients ≥ 75 years of age): when administered in combination with isatuximab and pomalidomide, Dexamethasone 20 mg (intravenous on the days of isatuximab and/or carfilzomib infusions, and oral on the other days): when administered in combination with isatuximab and carfilzomib.
 
 Dexamethasone 20 mg (intravenous on the days of isatuximab infusion, and oral on the other days): when administered in combination with isatuximab, bortezomib, and lenalidomide.
 
+- Montelukast 10 mg oral (or equivalent), at least at cycle 1.
 - Acetaminophen 650 mg to 1 000 mg oral (or equivalent).
 - H2 antagonists (ranitidine 50 mg IV or equivalent [e.g., cimetidine]), or oral proton pump inhibitors (e.g., omeprazole, esomeprazole).
 - Diphenhydramine 25 mg to 50 mg intravenous or oral (or equivalent [e.g., cetirizine, promethazine, dexchlorpheniramine]).
@@ -34,7 +35,7 @@ Posology
 
 The recommended dose of SARCLISA is 10 mg/kg body weight administered as an intravenous infusion in combination with pomalidomide and dexamethasone (Isa-Pd) or in combination with carfilzomib and dexamethasone (Isa-Kd), or in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd).
 
-SARCLISA dosing schedules are provided in Tables 1 and 2:
+SARCLISA dosing schedules are provided in Tables 1, 2, and 3:
 
 Table 1: SARCLISA dosing schedule in combination with pomalidomide and dexamethasone or in combination with carfilzomib and dexamethasone
 
@@ -45,7 +46,8 @@ Table 1: SARCLISA dosing schedule in combination with pomalidomide and dexametha
 
 Each treatment cycle consists of a 28-day period.
 Treatment is repeated until disease progression or unacceptable toxicity.
-Table 2: SARCLISA dosing schedule in combination with bortezomib, lenalidomide, and dexamethasone
+
+Table 2: SARCLISA dosing schedule in combination with bortezomib, lenalidomide, and dexamethasone for patients with newly diagnosed multiple myeloma (NDMM) who are ineligible for autologous stem cell transplant (ASCT) (IMROZ)
 
 | Cycles | Dosing schedule |
 | --- | --- |
@@ -56,6 +58,17 @@ Table 2: SARCLISA dosing schedule in combination with bortezomib, lenalidomide, 
 
 Each treatment cycle consists of a 42-day period from cycle 1 to 4, and of a 28-day period from cycle 5.
 Treatment is repeated until disease progression or unacceptable toxicity.
+
+Table 3: SARCLISA dosing schedule in combination with bortezomib, lenalidomide, and dexamethasone for patients with NDMM who are eligible for ASCT (GMMG-HD7)
+
+| Cycles | Dosing schedule |
+| --- | --- |
+| Induction treatment |  |
+| Cycle 1 (42-day cycle) | Days 1, 8, 15, 22, and 29 |
+| Cycles 2 to 3 (42-day cycles) | Days 1, 15, and 29 (every 2 weeks) |
+| Stop for intensification treatment (high dose chemotherapy and ASCT) followed by SOC maintenance treatment |  |
+
+Each treatment cycle consists of a 42-day period.
 
 For other medicinal products that are administered with SARCLISA, see section 5.1 and the respective current summary of product characteristics.
 
@@ -71,7 +84,6 @@ No dose reduction of SARCLISA is recommended.
 Administration adjustments should be made if patients experience infusion reactions (see “Method of administration” below), or in case of Grade 3 or 4 neutropenia, or febrile neutropenia and/or neutropenic infection (see "Management of neutropenia" above).
 
 For other medicinal products that are administered with SARCLISA, the respective current summary of product characteristics should be considered.
-
 Special populations
 
 Elderly
@@ -88,6 +100,7 @@ Patients with hepatic impairment
 
 Based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment ([total bilirubin > 1 to 1.5 times upper limit of normal (ULN) or aspartate amino transferase (AST) > ULN).
 Data in patients with moderate (total bilirubin > 1.5 to 3 times ULN and any AST) and severe (total bilirubin > 3 times ULN and any AST) hepatic impairment are limited (see section 5.2), but there is no evidence to suggest that dose adjustment is required in these patients.
+
 Paediatric population
 
 Outside its authorised indications, SARCLISA has been studied in children aged 28 days to less than 18 years of age with relapsed or refractory acute lymphoblastic or myeloid leukaemia but efficacy has not been established.
@@ -100,10 +113,10 @@ For instructions on dilution of the medicinal product before administration, see
 
 Infusion rates
 
-Following dilution, the SARCLISA infusion should be administered intravenously at the infusion rate presented in Table 3 below (see section 5.1).
+Following dilution, the SARCLISA infusion should be administered intravenously at the infusion rate presented in Table 4 below (see section 5.1).
 Incremental escalation of the infusion rate should be considered only in the absence of infusion reactions (see section 4.8).
 
-Table 3: Infusion rates of SARCLISA administration
+Table 4: Infusion rates of SARCLISA administration
 
 |  | Dilution volume | Initial rate | Absence of infusion reaction | Rate increment | Maximum rate |
 | --- | --- | --- | --- | --- | --- |
