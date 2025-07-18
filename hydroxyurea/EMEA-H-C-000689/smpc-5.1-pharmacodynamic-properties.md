@@ -38,7 +38,6 @@ At the end of the NOHARM trial, children were enrolled in the NOHARM extension t
 After 18 months, an increase in Hb level (+0.3 g/dL) and % HbF (+8%) was found in the escalation group.
 Clinical adverse events of any grade were more frequent in the fixed-dose group, including all sickle cell–related events (245 vs 105) and specific events: vaso-occlusive pain crisis (200 vs 86) and acute chest syndrome or pneumonia (30 vs 8).
 The number of key medical interventions were also fewer in the dose-escalation group than in the fixed-dose group, both for transfusions (34 vs. 116) and hospitalizations (19 vs. 90).
-
 In infants with SS/Sb0 aged 9–23 months, a decrease of episodes of pain (-52%, 177 events vs 375), dactylitis (- 80%, 24 vs 123), acute chest syndrome (8 vs 27) and hospitalizations (- 28%, 232 vs 324) has been reported with hydroxycarbamide (n=96) compared to placebo (n=97) respectively in the randomized controlled trial Baby Hug.
 In 25 patients treated for 1 year in the uncontrolled ESCORT HU over 1 year, compared to 1 year prior to enrolment (n=25), reduction of vaso-occlusive crises: - 42% and hospitalizations: -55%.
 The benefit risk ratio and long-term safety remain to be established in this population.

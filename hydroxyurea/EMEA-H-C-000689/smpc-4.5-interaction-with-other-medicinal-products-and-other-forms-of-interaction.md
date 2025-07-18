@@ -12,3 +12,6 @@ Concomitant use of hydroxycarbamide with a live virus vaccine may potentiate the
 Vaccination with a live vaccine in a patient taking hydroxycarbamide may result in severe infections.
 Generally, the patient's antibody response to vaccines may be decreased.
 Treatment with Siklos and concomitant immunisation with live virus vaccines should only be performed if benefits clearly outweigh potential risks.
+
+Interference with Continuous Glucose Monitoring systems
+Hydroxycarbamide may falsely elevate sensor glucose results from certain continuous glucose monitoring (CGM) systems and may lead to hypoglycaemia if sensor glucose results are relied upon to dose insulin.
