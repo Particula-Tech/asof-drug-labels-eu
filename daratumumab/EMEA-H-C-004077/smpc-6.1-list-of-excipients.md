@@ -3,7 +3,7 @@
 L-histidine
 L-histidine hydrochloride monohydrate
 L-methionine
-Polysorbate 20
+Polysorbate 20 (E432)
 Sorbitol (E420)
 Water for injections
 

@@ -142,7 +142,7 @@ When dexamethasone is the background-regimen specific corticosteroid, the dexame
 Dexamethasone is given intravenously prior to the first DARZALEX infusion and oral administration may be considered prior to subsequent infusions.
 Additional background regimen specific corticosteroids (e.g. prednisone) should not be taken on DARZALEX infusion days when patients have received dexamethasone as a pre-infusion medicinal product.
 
-- Antipyretics (oral paracetamol 650 to 1000 mg)
+- Antipyretics (oral paracetamol 650 to 1000 mg).
 - Antihistamine (oral or intravenous diphenhydramine 25 to 50 mg or equivalent).
 
 Post-infusion medicinal product
@@ -217,7 +217,6 @@ The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection 
 Dosing schedule in combination with bortezomib, lenalidomide and dexamethasone (4-week cycle regimens) for treatment of newly diagnosed patients eligible for autologous stem cell transplant (ASCT)
 
 The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 4.
-
 Table 4: DARZALEX dosing schedule in combination with bortezomib, lenalidomide and dexamethasone ([VRd]; 4-week cycle dosing regimen)
 
 | Treatment phase | Weeks | Schedule |
@@ -230,6 +229,7 @@ Table 4: DARZALEX dosing schedule in combination with bortezomib, lenalidomide a
 
 b Week 17 corresponds to re-initiation of treatment following recovery from ASCT.
 c DARZALEX can be discontinued for patients who have achieved MRD negativity that is sustained for 12 months and have been treated on maintenance for at least 24 months.
+
 Dexamethasone should be administered at 40 mg on days 1-4 and days 9-12 of each 28-day cycle during induction and consolidation (cycles 1-6).
 
 Dosing schedule in combination with bortezomib, lenalidomide and dexamethasone (3-week cycle regimens) for treatment of newly diagnosed patients who are ineligible for ASCT
@@ -251,11 +251,25 @@ The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection 
 
 Table 6: DARZALEX dosing schedule in combination with bortezomib and dexamethasone (Vd) (3-week cycle dosing regimen)
 
+Smouldering multiple myeloma
+Dosing schedule for monotherapy (4-week cycle dosing regimen)
+
+The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 7.
+
+Table 7: DARZALEX dosing schedule for smouldering multiple myeloma monotherapy (4-week cycle dosing regimen)a
+
+| Weeks | Schedule |
+| --- | --- |
+| Weeks 1 to 8 | weekly (total of 8 doses) |
+| Weeks 9 to 24a | every two weeks (total of 8 doses) |
+| Weeks 25 onwards until disease progression or a maximum of 3 yearsb | every four weeks |
+
 AL amyloidosis
 Dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle regimens)
 
-The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 7.
-Table 7: DARZALEX dosing schedule for AL amyloidosis in combination with bortezomib, cyclophosphamide and dexamethasone ([VCd]; 4-week cycle dosing regimen)a
+The recommended dose is 1800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in table 8.
+
+Table 8: DARZALEX dosing schedule for AL amyloidosis in combination with bortezomib, cyclophosphamide and dexamethasone ([VCd]; 4-week cycle dosing regimen)a
 
 | Weeks | Schedule |
 | --- | --- |
@@ -280,6 +294,7 @@ When dexamethasone is the background-regimen specific corticosteroid, the dexame
 Additional background regimen specific corticosteroids (e.g. prednisone) should not be taken on DARZALEX administration days when patients have received dexamethasone (or equivalent) as a pre-injection medicinal product.
 
 - Antipyretics (paracetamol 650 to 1000 mg).
+- Leukotriene inhibitor (oral montelukast 10 mg or equivalent) is recommended on cycle 1 day 1 for smouldering multiple myeloma patients.
 
 Post-injection medicinal product
 Post-injection medicinal products should be administered to reduce the risk of delayed IRRs as follows:

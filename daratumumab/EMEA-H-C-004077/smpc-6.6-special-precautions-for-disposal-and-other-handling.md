@@ -45,4 +45,5 @@ Prepared syringe
 
 Prepare the dosing syringe in controlled and validated aseptic conditions.
 Once transferred from the vial into the syringe, store DARZALEX solution for subcutaneous injection for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and ambient light (see section 6.3).
+
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
