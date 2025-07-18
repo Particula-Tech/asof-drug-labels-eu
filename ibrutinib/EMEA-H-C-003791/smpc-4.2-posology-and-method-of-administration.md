@@ -4,14 +4,36 @@ Treatment with this medicinal product should be initiated and supervised by a ph
 
 Posology
 MCL
-The recommended dose for the treatment of MCL is 560 mg (four capsules) once daily.
+Treatment of adult patients with previously untreated MCL
+
+The recommended dose for the treatment of previously untreated MCL is ibrutinib 560 mg (four capsules) once daily (see Table 1).
+Table 1: IMBRUVICA dosing schedule for previously untreated MCL
+
+| Treatment | Cycle number | Treatment | IMBRUVICA |
+| --- | --- | --- | --- |
+| Part I* | 1, 3, 5 | IMBRUVICA in combination with R-CHOP§ | On days 1-19 |
+|  | 2, 4, 6 | R-DHAP#§ | Without IMBRUVICA |
+| Part II± |  | IMBRUVICA | Daily for 24 Months |
+
+R-CHOP= rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone; R-DHAP= rituximab, dexamethasone, cytarabine, cisplatin
+*6 cycles; each cycle is 21 days.
+§See the Summary of Product Characteristics (SmPC) for dosing information for each medicinal product.
+#Interchangeable with R-DHAOx (rituximab, dexamethasone, cytarabine, oxaliplatin)§.
+± Treatment should start after recovery of peripheral blood counts.
+Rituximab may be added as per national treatment guidelines.
+
+Treatment of adult patients with relapsed or refractory MCL
+
+The recommended dose for the treatment of previously treated MCL is ibrutinib 560 mg (four capsules) once daily as a single agent.
+Treatment with IMBRUVICA as a single agent should continue until disease progression or no longer tolerated by the patient.
 
 CLL and WM
 The recommended dose for the treatment of CLL and WM, either as a single agent or in combination, is 420 mg (three capsules) once daily (for details of the combination regimens, see section 5.1).
 
-Treatment with IMBRUVICA should continue until disease progression or no longer tolerated by the patient.
+Treatment with IMBRUVICA as a single agent or in combination with anti-CD20 therapy should continue until disease progression or no longer tolerated by the patient.
 In combination with venetoclax for the treatment of CLL, IMBRUVICA should be administered as a single agent for 3 cycles (1 cycle is 28 days), followed by 12 cycles of IMBRUVICA plus venetoclax.
 See the venetoclax Summary of Product Characteristics (SmPC) for full venetoclax dosing information.
+
 When administering IMBRUVICA in combination with anti-CD20 therapy, it is recommended to administer IMBRUVICA prior to anti-CD20 therapy when given on the same day.
 
 Dose adjustments
@@ -23,7 +45,6 @@ The dose of ibrutinib should be reduced to 140 mg once daily (one capsule) or wi
 
 IMBRUVICA therapy should be withheld for any new onset or worsening grade 2 cardiac failure, grade 3 cardiac arrhythmias, grade ≥3 non-haematological toxicity, grade 3 or greater neutropenia with infection or fever, or grade 4 haematological toxicities.
 Once the symptoms of the toxicity have resolved to grade 1 or baseline (recovery), resume IMBRUVICA therapy at the recommended dose as per the tables below.
-
 Recommended dose modifications for non-cardiac events are described below:
 
 | Events† | Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
@@ -49,6 +70,7 @@ Recommended dose modifications for events of cardiac failure or cardiac arrhythm
 | Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First | discontinue IMBRUVICA |  |
 
 † Evaluate the benefit-risk before resuming treatment.
+
 Missed dose
 If a dose is not taken at the scheduled time, it can be taken as soon as possible on the same day with a return to the normal schedule the following day.
 The patient should not take extra capsules to make up the missed dose.
@@ -64,7 +86,6 @@ No dose adjustment is needed for patients with mild or moderate renal impairment
 Hydration should be maintained and serum creatinine levels monitored periodically.
 Administer IMBRUVICA to patients with severe renal impairment (<30 mL/min creatinine clearance) only if the benefit outweighs the risk and monitor patients closely for signs of toxicity.
 There are no data in patients with severe renal impairment or patients on dialysis (see section 5.2).
-
 Hepatic impairment
 Ibrutinib is metabolised in the liver.
 In a hepatic impairment study, data showed an increase in ibrutinib exposure (see section 5.2).
@@ -87,8 +108,9 @@ IMBRUVICA must not be taken with grapefruit juice or Seville oranges (see sectio
 
 [IMBRUVICA 140 mg film-coated tablets]
 
-The recommended dose for the treatment of MCL is 560 mg once daily.
+The recommended dose for the treatment of previously untreated MCL is ibrutinib 560 mg once daily (see Table 1).
 
+The recommended dose for the treatment of previously treated MCL is ibrutinib 560 mg once daily as a single agent.Treatment with IMBRUVICA as a single agent should continue until disease progression or no longer tolerated by the patient.
 The recommended dose for the treatment of CLL and WM, either as a single agent or in combination, is 420 mg once daily (for details of the combination regimens, see section 5.1).
 
 The dose of ibrutinib should be reduced to 280 mg once daily when used concomitantly with moderate CYP3A4 inhibitors.

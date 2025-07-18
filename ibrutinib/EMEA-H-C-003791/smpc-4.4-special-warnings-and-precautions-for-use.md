@@ -5,6 +5,7 @@ There have been reports of bleeding events in patients treated with IMBRUVICA, b
 These include minor bleeding events such as contusion, epistaxis, and petechiae; and major bleeding events, some fatal, including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
 
 Warfarin or other vitamin K antagonists should not be administered concomitantly with IMBRUVICA.
+
 Use of either anticoagulants or medicinal products that inhibit platelet function (antiplatelet agents) concomitantly with IMBRUVICA increases the risk of major bleeding.
 A higher risk for major bleeding was observed with anticoagulant than with antiplatelet agents.
 Consider the risks and benefits of anticoagulant or antiplatelet therapy when co-administered with IMBRUVICA.
@@ -39,7 +40,7 @@ Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococ
 Reported cases of invasive fungal infections have been associated with fatal outcomes.
 
 Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy.
-Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioral signs or symptoms.
+Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms.
 If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded.
 If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
 
@@ -50,6 +51,7 @@ Liver function and viral hepatitis status should be assessed before initiating t
 Patients should be periodically monitored for changes in liver function parameters during treatment.
 As clinically indicated, viral load and serological testing for infectious hepatitis should be performed per local medical guidelines.
 For patients diagnosed with hepatic events, consider consulting a liver disease expert for management.
+
 Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
 Monitor complete blood counts monthly.
@@ -64,7 +66,6 @@ Cardiac arrhythmias and cardiac failure
 Fatal and serious cardiac arrhythmias and cardiac failure have occurred in patients treated with IMBRUVICA.
 Patients with advanced age, Eastern Cooperative Oncology Group (ECOG) performance status ≥2, or cardiac co-morbidities may be at greater risk of events including sudden fatal cardiac events.
 Atrial fibrillation, atrial flutter, ventricular tachyarrhythmia and cardiac failure have been reported, particularly in patients with acute infections or cardiac risk factors including hypertension, diabetes mellitus, and a previous history of cardiac arrhythmia.
-
 Appropriate clinical evaluation of cardiac history and function should be performed prior to initiating IMBRUVICA.
 Patients should be carefully monitored during treatment for signs of clinical deterioration of cardiac function and clinically managed.
 Consider further evaluation (e.g., ECG, echocardiogram), as indicated for patients in whom there are cardiovascular concerns.
@@ -88,6 +89,7 @@ Tumour lysis syndrome
 Tumour lysis syndrome (TLS) has been reported with IMBRUVICA therapy.
 Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 Monitor patients closely and take appropriate precautions.
+
 Non-melanoma skin cancer
 Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
 Monitor patients for the appearance of non-melanoma skin cancer.

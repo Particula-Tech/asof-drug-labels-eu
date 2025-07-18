@@ -1,6 +1,8 @@
 # 4.1 Therapeutic indications
 
-IMBRUVICA as a single agent is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL).
+IMBRUVICA in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without IMBRUVICA, followed by IMBRUVICA monotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).
+
+IMBRUVICA as a single agent is indicated for the treatment of adult patients with relapsed or refractory MCL.
 
 IMBRUVICA as a single agent or in combination with rituximab or obinutuzumab or venetoclax is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1).
 

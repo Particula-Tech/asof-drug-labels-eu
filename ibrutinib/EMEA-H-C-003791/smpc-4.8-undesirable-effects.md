@@ -5,17 +5,19 @@ The most commonly occurring adverse reactions (≥20%) were diarrhoea, neutropen
 The most common grade 3/4 adverse reactions (≥5%) were neutropenia, lymphocytosis, thrombocytopenia, hypertension, and pneumonia.
 
 Tabulated list of adverse reactions
+Adverse reactions in patients treated with ibrutinib for B-cell malignancies and post-marketing adverse reactions are listed below by system organ class and frequency grouping.
+Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+Summary for B-cell malignancies
 The safety profile is based on pooled data from 1 981 patients treated with IMBRUVICA in four phase 2 clinical studies and eight randomised phase 3 studies and from post-marketing experience.
+The TRIANGLE study data is not included in the pooled data and presented separately in Table 3.
 Patients treated for MCL in clinical studies received IMBRUVICA at 560 mg once daily and patients treated for CLL or WM in clinical studies received IMBRUVICA at 420 mg once daily.
 All patients in clinical studies received IMBRUVICA until disease progression or no longer tolerated, except for studies with IMBRUVICA in combination with venetoclax where patients received fixed duration treatment (Studies CLL3011 and PCYC-1142-CA).
 The median duration of IMBRUVICA treatment across the pooled dataset was 14.7 months.
 The median duration of treatment for CLL/SLL was 14.7 months (up to 52 months); MCL was 11.7 months (up to 28 months); WM was 21.6 months (up to 37 months).
 
-Adverse reactions in patients treated with ibrutinib for B-cell malignancies and post-marketing adverse reactions are listed below by system organ class and frequency grouping.
-Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
-Table 1: Adverse reactions reported in clinical studies or during post marketing
+Table 2: Adverse reactions reported in clinical studies or during post marketing
 surveillance in patients with B-cell malignancies†
 System organ Frequency Adverse reactions All
 class (All Grades Grade ≥3
@@ -30,9 +32,10 @@ Uncommon Cryptococcal infections* <1 0
 Pneumocystis infections* # <1 <1
 Aspergillus infections* <1 <1
 Hepatitis B reactivation@ # <1 <1
-Neoplasms benign Common Non-melanoma skin cancer* 5 1
-and malignant Basal cell carcinoma 3 <1
-(incl cysts and Squamous cell carcinoma 1 <1
+Neoplasms Common Non-melanoma skin cancer* 5 1
+benign, malignant Basal cell carcinoma 3 <1
+and unspecified Squamous cell carcinoma 1 <1
+(incl cysts and
 polyps)
 Blood and Very Neutropenia* 39 31
 lymphatic system common Thrombocytopenia* 29 8
@@ -97,12 +100,75 @@ common
 # Includes events with fatal outcome.
 @ Lower level term (LLT) used for selection.
 
+Summary for patients with previously untreated MCL who were eligible for ASCT
+The safety profile is based on data from 265 patients (in the IMBRUVICA arm) treated with IMBRUVICA in the phase 3 TRIANGLE study.
+Patients received IMBRUVICA at 560 mg once daily according to the TRIANGLE treatment schedule (see section 5.1).
+The median treatment duration was 28.5 months in the IMBRUVICA arm.
+
+Table 3: Adverse reactions reported in the IMBRUVICA arm of the TRIANGLE Study†
+
+|  |  | N=265 |  |  |
+| --- | --- | --- | --- | --- |
+| System Organ Class | Frequency (All Grades) | Adverse Reactions | All Grade ≥3 Grades (%) (%) |  |
+| Infections and infestations | Very common | Pneumonia* # | 16 | 9 |
+|  |  | Skin infection* | 12 | 3 |
+|  | Common | Upper respiratory tract infection | 6 | <1 |
+|  |  | Sepsis* | 2 | 2 |
+|  |  | Urinary tract infection | 6 | <1 |
+|  |  | Sinusitis* | 6 | 1 |
+|  | Uncommon | Aspergillus infections* | 1 | <1 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common | Non-Melanoma skin cancer* | 1 | <1 |
+|  |  | Basal cell carcinoma | 1 | <1 |
+|  | Very common | Thrombocytopenia* | 69 | 61 |
+|  |  | Neutropenia* | 63 | 60 |
+| Blood and lymphatic system disorders |  | Febrile neutropenia | 14 | 14 |
+|  | Common | Leukocytosis | 3 | 1 |
+| Immune system disorders | Common | Interstitial lung disease* | 5 | 1 |
+| Metabolism and nutrition disorders | Common | Hyperuricaemia | 8 | 3 |
+|  |  | Tumour lysis syndrome* | 3 | 3 |
+| Nervous system disorders | Very common | Peripheral neuropathy* | 35 | 3 |
+|  |  | Headache | 11 | 1 |
+|  | Common | Dizziness | 6 | <1 |
+|  | Uncommon | Transient ischaemic attack | 1 | 0 |
+| Eye disorders | Uncommon | Vision blurred | 1 | 0 |
+|  |  | Eye haemorrhage | <1 | 0 |
+| Cardiac disorders | Common | Atrial fibrillation | 10 | 4 |
+|  |  | Cardiac failure* | 2 | 0 |
+| Vascular disorders | Very common | Haemorrhage* | 14 | 2 |
+|  |  | Hypertension* | 14 | 5 |
+|  | Common | Bruising* | 8 | 1 |
+|  |  | Epistaxis | 6 | 1 |
+|  |  | Petechiae | 3 | 0 |
+| Gastrointestinal disorders | Very common | Nausea | 32 | 4 |
+|  |  | Diarrhoea | 28 | 5 |
+|  |  | Vomiting | 18 | 4 |
+|  |  | Stomatitis* | 11 | 2 |
+|  |  | Constipation | 17 | <1 |
+|  | Common | Dyspepsia | 8 | 0 |
+| Skin and subcutaneous tissue disorders | Very common | Rash* | 23 | 2 |
+|  | Common | Erythema | 5 | 0 |
+|  |  | Onychoclasis | 2 | 0 |
+|  | Uncommon | Urticaria | <1 | 0 |
+|  |  | Angioedema | 1 | 0 |
+|  |  | Cutaneous vasculitis | <1 | 0 |
+|  |  | Panniculitis* | 1 | 0 |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain* | 19 | 2 |
+|  | Common | Muscle spasms | 9 | 1 |
+|  |  | Arthralgia | 8 | 1 |
+| Renal and urinary disorders | Very common | Acute kidney injury | 11 | 5 |
+| General disorders and administration site conditions | Very common | Pyrexia | 22 | 2 |
+|  | Common | Oedema peripheral | 5 | 0 |
+| Investigations | Very common | Blood creatinine increased | 16 | 1 |
+| † Frequencies are rounded to the nearest integer. * Terms required grouping. # Includes events with fatal outcome. |  |  |  |  |
+
 Description of selected adverse reactions
 Discontinuation and dose reduction due to adverse reactions
 Of the 1 981 patients treated with IMBRUVICA for B-cell malignancies, 6% discontinued treatment primarily due to adverse reactions.
 These included pneumonia, atrial fibrillation, neutropenia, rash, thrombocytopenia, and haemorrhage.
 Adverse reactions leading to dose reduction occurred in approximately 8% of patients.
-
+In the phase 3 TRIANGLE study involving 265 patients with previously untreated MCL who were eligible for ASCT treatment discontinuation due to adverse reactions was observed in 13% in the IMBRUVICA arm.
+These included neutropenia, pneumonia, atrial fibrillation, acute kidney injury, diarrhoea, rash, and interstitial lung disease.
+Adverse reactions leading to dose reduction occurred in approximately 12% in the IMBRUVICA arm.
 Elderly
 Of the 1 981 patients treated with IMBRUVICA, 50% were 65 years of age or older.
 Grade 3 or higher pneumonia (11% of patients age ≥65 versus 4% of patients <65 years) and thrombocytopenia (11% of patients age ≥65 years versus 5% of patients <65 years) occurred more frequently among elderly patients treated with IMBRUVICA.
@@ -131,9 +197,10 @@ System organ class Frequency Adverse reactions All
 (%) (%)
 Infections and Very common Pneumonia*# 12 7
 infestations Upper respiratory tract infection 21 1
-Neoplasms benign and Common Non-melanoma skin cancer* 5 1
-malignant (incl cysts Basal cell carcinoma 3 <1
-and polyps) Squamous cell carcinoma 1 <1
+Neoplasms benign, Common Non-melanoma skin cancer* 5 1
+malignant and Basal cell carcinoma 3 <1
+unspecified (incl cysts Squamous cell carcinoma 1 <1
+and polyps)
 Blood and lymphatic Very common Neutropenia* 39 31
 system disorders Thrombocytopenia* 29 8
 Lymphocytosis* 15 11
@@ -144,9 +211,7 @@ Bruising* 27 <1
 Gastrointestinal Very common Diarrhoea 47 4
 disorders Vomiting 15 1
 Hepatobiliary disorders Uncommon Hepatic failure*,# <1 <1
-Very common Rash* 34 3
-Skin and subcutaneous Common Urticaria 1 <1
-tissue disorders Erythema 3 <1
+Skin and subcutaneous Very common Rash* 34 3
 Musculoskeletal and Very common Arthralgia 24 2
 connective tissue Muscle spasms 15 <1
 disorders Musculoskeletal pain* 36 3
@@ -154,3 +219,57 @@ General disorders and Very common Pyrexia 19 1
 administration site Oedema peripheral 16 1
 conditions
 Investigations Very common Blood creatinine increased 10 <1
+
+|  |  | N=265 |  |  |
+| --- | --- | --- | --- | --- |
+| System Organ Class | Frequency (All Grades) | Adverse Reactions | All Grade ≥3 Grades (%) (%) |  |
+| Infections and infestations | Very common | Pneumonia* # | 16 | 9 |
+|  |  | Skin infection* | 12 | 3 |
+|  | Common | Upper respiratory tract infection | 6 | <1 |
+|  |  | Sepsis* | 2 | 2 |
+|  |  | Urinary tract infection | 6 | <1 |
+|  |  | Sinusitis* | 6 | 1 |
+|  | Uncommon | Aspergillus infections* | 1 | <1 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common | Non-Melanoma skin cancer* | 1 | <1 |
+|  |  | Basal cell carcinoma | 1 | <1 |
+| Blood and lymphatic system disorders | Very common | Thrombocytopenia* | 69 | 61 |
+|  |  | Neutropenia* | 63 | 60 |
+|  |  | Febrile neutropenia | 14 | 14 |
+|  | Common | Leukocytosis | 3 | 1 |
+| Immune system disorders | Common | Interstitial lung disease* | 5 | 1 |
+| Metabolism and nutrition disorders | Common | Hyperuricaemia | 8 | 3 |
+|  |  | Tumour lysis syndrome* | 3 | 3 |
+| Nervous system disorders | Very common | Peripheral neuropathy* | 35 | 3 |
+|  |  | Headache | 11 | 1 |
+|  | Common | Dizziness | 6 | <1 |
+|  | Uncommon | Transient ischaemic attack | 1 | 0 |
+| Eye disorders | Uncommon | Vision blurred | 1 | 0 |
+|  |  | Eye haemorrhage | <1 | 0 |
+| Cardiac disorders | Common | Atrial fibrillation | 10 | 4 |
+|  |  | Cardiac failure* | 2 | 0 |
+| Vascular disorders | Very common | Haemorrhage* | 14 | 2 |
+|  |  | Hypertension* | 14 | 5 |
+|  | Common | Bruising* | 8 | 1 |
+|  |  | Epistaxis | 6 | 1 |
+|  |  | Petechiae | 3 | 0 |
+| Gastrointestinal disorders | Very common | Nausea | 32 | 4 |
+|  |  | Diarrhoea | 28 | 5 |
+|  |  | Vomiting | 18 | 4 |
+|  |  | Stomatitis* | 11 | 2 |
+|  |  | Constipation | 17 | <1 |
+|  | Common | Dyspepsia | 8 | 0 |
+| Skin and subcutaneous tissue disorders | Very common | Rash* | 23 | 2 |
+|  | Common | Erythema | 5 | 0 |
+|  |  | Onychoclasis | 2 | 0 |
+|  | Uncommon | Urticaria | <1 | 0 |
+|  |  | Angioedema | 1 | 0 |
+|  |  | Cutaneous vasculitis | <1 | 0 |
+|  |  | Panniculitis* | 1 | 0 |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain* | 19 | 2 |
+|  | Common | Muscle spasms | 9 | 1 |
+|  |  | Arthralgia | 8 | 1 |
+| Renal and urinary disorders | Very common | Acute kidney injury | 11 | 5 |
+| General disorders and administration site conditions | Very common | Pyrexia | 22 | 2 |
+|  | Common | Oedema peripheral | 5 | 0 |
+| Investigations | Very common | Blood creatinine increased | 16 | 1 |
+| † Frequencies are rounded to the nearest integer. * Terms required grouping. # Includes events with fatal outcome. |  |  |  |  |
