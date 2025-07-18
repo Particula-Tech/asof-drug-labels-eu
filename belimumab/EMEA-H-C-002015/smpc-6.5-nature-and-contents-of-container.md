@@ -1,20 +1,16 @@
 # 6.5 Nature and contents of container
 
-Pre-filled pen
-
 1 mL solution in a type 1 glass syringe with a fixed needle (stainless steel) in a pre-filled pen.
 
 Available in packs of 1 or 4 pre-filled pens and multipack containing 12 single-dose pre-filled pens (3 packs of 4 pre-filled pens).
 
 Not all pack sizes may be marketed.
 
-Pre-filled syringe
+[Benlysta 200 mg solution for injection in pre-filled syringe.]
 
 1 mL solution in a type 1 glass syringe with a fixed needle (stainless steel) and needle cap.
 
 Available in pack of 1 pre-filled syringe and pack of 4 pre-filled syringes.
-
-Not all pack sizes may be marketed.
 
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 

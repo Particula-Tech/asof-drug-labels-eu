@@ -2,6 +2,10 @@
 
 None known.
 
+[Benlysta 200 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)
+
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
 Benlysta is not compatible with 5 % glucose.

@@ -4,4 +4,4 @@ No in vivo interaction studies have been performed.
 The formation of some CYP450 enzymes is suppressed by increased levels of certain cytokines during chronic inflammation.
 It is not known if belimumab could be an indirect modulator of such cytokines.
 A risk for indirect reduction of CYP activity by belimumab cannot be excluded.
-On initiation or discontinuation of belimumab, therapeutic monitoring should be considered for patients being treated with CYP substrates with a narrow therapeutic index, where the dose is individually adjusted (e.g. warfarin).
+On initiation or discontinuation of belimumab, therapeutic monitoring is to be considered for patients being treated with CYP substrates with a narrow therapeutic index, where the dose is individually adjusted (e.g. warfarin).

@@ -1,8 +1,12 @@
 # 6.6 Special precautions for disposal and other handling
 
-Comprehensive instructions for subcutaneous administration of Benlysta in a pre-filled pen or pre-filled syringe are provided at the end of the package leaflet (see Step-by-step instructions).
+Comprehensive instructions for subcutaneous administration of Benlysta in a pre-filled pen are provided at the end of the package leaflet (see Step-by-step instructions).
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[Benlysta 200 mg solution for injection in pre-filled syringe.]
+
+Comprehensive instructions for subcutaneous administration of Benlysta in a pre-filled syringe are provided at the end of the package leaflet (see Step-by-step instructions).
 
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
@@ -15,29 +19,29 @@ Allow 10 to 15 minutes for the vial to warm to room temperature (15 °C to 25 °
 
 It is recommended that a 21-25 gauge needle be used when piercing the vial stopper for reconstitution and dilution.
 
-The 120 mg single-use vial of belimumab is reconstituted with 1.5 mL of water for injections to yield a final concentration of 80 mg/mL belimumab.
+The 120 mg single-use vial of belimumab is reconstituted with 1.5 mL of water for injection to yield a final concentration of 80 mg/mL belimumab.
 
-The stream of water for injections should be directed toward the side of the vial to minimize foaming.
+The stream of water for injection needs to be directed toward the side of the vial to minimize foaming.
 Gently swirl the vial for 60 seconds.
 Allow the vial to sit at room temperature (15 °C to 25 °C) during reconstitution, gently swirling the vial for 60 seconds every 5 minutes until the powder is dissolved.
 Do not shake.
 Reconstitution is typically complete within 10 to 15 minutes after the water has been added, but it may take up to 30 minutes.
-
 Protect the reconstituted solution from sunlight.
 
-If a mechanical reconstitution device is used to reconstitute Benlysta it should not exceed 500 rpm and the vial should be swirled for no longer than 30 minutes.
+If a mechanical reconstitution device is used to reconstitute Benlysta it must not exceed 500 rpm and the vial is not to be swirled for longer than 30 minutes.
+
 Once reconstitution is complete, the solution should be opalescent and colourless to pale yellow and without particles.
 Small air bubbles, however, are expected and acceptable.
 
 After reconstitution, a volume of 1.5 mL (corresponding to 120 mg belimumab) can be withdrawn from each vial.
 
 Dilution
-The reconstituted medicinal product is diluted to 250 mL with sodium chloride 9 mg/mL (0.9 %), sodium chloride 4.5 mg/mL (0.45 %), or Lactated Ringer’s solution for injection.
+The reconstituted medicinal product is diluted to 250 mL with sodium chloride 9 mg/mL (0.9 %), sodium chloride 4.5 mg/mL (0.45 %), or Lactated Ringer’s solution for infusion.
 For patients whose body weight is less than or equal to 40 kg, infusion bags with 100 mL of these diluents may be considered providing that the resulting belimumab concentration in the infusion bag does not exceed 4 mg/mL.
 
 5 % glucose intravenous solutions are incompatible with Benlysta and must not be used.
 
-From a 250 mL (or 100 mL) infusion bag or bottle of sodium chloride 9 mg/mL (0.9 %), sodium chloride 4.5 mg/mL (0.45 %), or Lactated Ringer’s solution for injection, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
+From a 250 mL (or 100 mL) infusion bag or bottle of sodium chloride 9 mg/mL (0.9 %), sodium chloride 4.5 mg/mL (0.45 %), or Lactated Ringer’s solution for infusion, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
 Then add the required volume of the reconstituted Benlysta solution into the infusion bag or bottle.
 Gently invert the bag or bottle to mix the solution.
 Any unused solution in the vials must be discarded.
@@ -45,21 +49,21 @@ Any unused solution in the vials must be discarded.
 Inspect the Benlysta solution visually for particulate matter and discoloration prior to administration.
 Discard the solution if any particulate matter or discoloration is observed.
 
-The total time from reconstitution of Benlysta to completion of infusion should not exceed 8 hours.
+The total time from reconstitution of Benlysta to completion of infusion must not exceed 8 hours.
 
 Preparation of 400 mg solution for infusion
 
-The 400 mg single-use vial of belimumab is reconstituted with 4.8 mL of water for injections to yield a final concentration of 80 mg/mL belimumab.
+The 400 mg single-use vial of belimumab is reconstituted with 4.8 mL of water for injection to yield a final concentration of 80 mg/mL belimumab.
 
 After reconstitution, a volume of 5 mL (corresponding to 400 mg belimumab) can be withdrawn from each vial.
 
-From a 250 mL infusion bag or bottle of sodium chloride 9 mg/mL (0.9 %), sodium chloride 4.5 mg/mL (0.45 %), or Lactated Ringer’s solution for injection, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
+From a 250 mL infusion bag or bottle of sodium chloride 9 mg/mL (0.9 %), sodium chloride 4.5 mg/mL (0.45 %), or Lactated Ringer’s solution for infusion, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
 
 Method of administration
 
 Benlysta is infused over a 1 hour period.
 
-Benlysta should not be infused concomitantly in the same intravenous line with other agents.
+Benlysta must not be infused concomitantly in the same intravenous line with other agents.
 No physical or biochemical compatibility studies have been conducted to evaluate the co-administration of Benlysta with other agents.
 
 No incompatibilities between Benlysta and polyvinylchloride or polyolefin bags have been observed.
