@@ -2,6 +2,7 @@
 
 Unopened vials: Store in a refrigerator (2°C to 8°C).
 Do not freeze.
+
 Unopened vials may also be stored at room temperature (below 25°C) for up to 30 days.
 Vials should not be re-refrigerated.
 

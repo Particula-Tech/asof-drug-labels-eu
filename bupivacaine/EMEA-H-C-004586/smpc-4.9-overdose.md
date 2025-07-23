@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-Clinical presentation
+Symptoms
 
 Rare reports of overdose with EXPAREL liposomal alone or in combination with another local anaesthetic have been received.
 Systemic toxic reactions, primarily involving the central nervous system and the cardiovascular system may occur following high blood concentrations of local anaesthetics.
@@ -8,7 +8,7 @@ Approximately 30% of overdose reports were associated with adverse reactions.
 
 Signs and symptoms of overdose may include CNS symptoms (perioral paraesthesia, dizziness, dysarthria, confusion, mental obtundation, sensory and visual disturbances, and eventually convulsions) and cardiovascular effects (that range from hypertension and tachycardia to myocardial depression, hypotension, bradycardia, and asystole).
 
-Management of local anaesthetic overdose
+Management of overdose
 
 At the first sign of local anaesthetic overdose, oxygen should be administered.
 

@@ -12,7 +12,7 @@ Therefore, bupivacaine HCl can be administered simultaneously in the same syring
 The total amount of bupivacaine HCl and EXPAREL liposomal being co-administered should not exceed 400 mg equivalents of bupivacaine HCl in adults (see sections 4.4 and 6.6).
 
 Non-bupivacaine local anaesthetics
-EXPAREL liposomal should only be admixed with bupivacaine as admixing with either lidocaine, ropivacaine or mepivacaine has been shown to cause an immediate release of bupivacaine from the multivesicular liposomes of the drug delivery system.
+EXPAREL liposomal should only be admixed with bupivacaine as admixing with either lidocaine, ropivacaine or mepivacaine has been shown to cause an immediate release of bupivacaine from the multivesicular liposomes of the medicine delivery system.
 When EXPAREL liposomal is admixed with lidocaine, lidocaine binds to the liposomes, leading to an immediate displacement and release of bupivacaine.
 This displacement can be prevented by ensuring that EXPAREL liposomal is administered at least 20 minutes after administering lidocaine.
 There are no data to support administration of other local anaesthetics prior to administration of EXPAREL liposomal.

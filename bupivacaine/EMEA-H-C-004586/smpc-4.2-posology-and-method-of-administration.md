@@ -15,10 +15,10 @@ Field block (infiltration around small- to medium-sized surgical wounds)
 
 - In patients undergoing bunionectomy, a total of 106 mg (8 mL) of EXPAREL liposomal was administered, with 7 mL infiltrated into the tissues surrounding the osteotomy and 1 mL infiltrated into the subcutaneous tissue.
 - In patients undergoing haemorrhoidectomy, a total of 266 mg (20 mL) of EXPAREL liposomal was diluted with 10 mL of normal saline, for a total of 30 mL, divided into six 5 mL aliquots, injected by visualizing the anal sphincter as a clock face and slowly infiltrating one aliquot to each of the even numbers to produce a field block.
-- In paediatric patients aged 6 years and older , EXPAREL liposomal should be administered at a dose of 4 mg/kg (maximum not to exceed 266 mg).
+- In paediatric patients aged 6 years and older, EXPAREL liposomal should be administered at a dose of 4 mg/kg (maximum not to exceed 266 mg).
   EXPAREL liposomal may be either administered ‘as is’ or expanded with normal (0.9%) saline to increase the volume up to a final concentration of 0.89 mg/mL (ie, 1:14 dilution by volume).
   The total volume of expansion will be dependent on the incision length.
-  Examples are given is section 6.6.
+  Examples are given in section 6.6.
 
 Peripheral nerve block (femoral and brachial plexus)
 
@@ -54,8 +54,6 @@ No dosage adjustment is required in patients with mild hepatic impairment (Child
 There are insufficient data to recommend the use of EXPAREL liposomal in patients with severe (Child-Pugh score ≥10) hepatic impairment (see sections 4.4 and 5.2).
 
 Paediatric population
-EXPAREL liposomal may be administered to paediatric patients 6 years of age and older at a dose of 4 mg/kg (maximum not to exceed 266 mg) for use as a single-dose field block for treatment of somatic post-operative pain from small- to medium-sized surgical wounds.
-
 The safety and efficacy of EXPAREL liposomal have not yet been established for administration as a field block in children aged 1 to less than 6 years of age, nor as a nerve block in children aged 1 to less than 18 years of age.
 No data are available.
 
@@ -67,7 +65,7 @@ EXPAREL liposomal is for administration by infiltration or perineural use only.
 
 EXPAREL liposomal is intended for single-dose administration only.
 
-EXPAREL liposomal should be injected slowly (generally 1 to 2 mL per injection) with frequent aspiration when clinically appropriate, to check for blood and minimize the risk of inadvertent intravascular injection.
+EXPAREL liposomal should be injected slowly (generally 1 to 2 mL per injection) with frequent aspiration, when clinically appropriate, to check for blood and minimize the risk of inadvertent intravascular injection.
 
 EXPAREL liposomal is to be administered with a 25 gauge or larger bore needle to maintain the structural integrity of the liposomal bupivacaine particles.
 

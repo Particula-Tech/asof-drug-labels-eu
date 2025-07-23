@@ -52,7 +52,8 @@ Table 4 Summary of key opioid endpoint results in Phase 3 studies
 | Field Block / Bunionectomy | 106 mg / Placebo | LS mean 3.8 vs 4.7 tablets (19% reduction in the mean number of Percocet tablets (5 mg oxycodone / 325 mg paracetamol) used through 24 hours; p=0.0077) | Opioid free through 24 hours: (7/97) in EXPAREL liposomal arm vs (1/96) in placebo arm (p=0.040) |
 | Summary of key opioid related endpoint results in regional analgesia studies |  |  |  |
 | Femoral Nerve Blocka/ TKA | 266 mg / Placebo | Geometric LS mean: 93.2 vs 122.1 MME (26% reduction in geometric LS mean ratio through 72 hours; p=0.0016) | No subjects opioid free at 72 hours in either group |
-| Brachial Plexus Nerve Block / TSA/RCR | 133 mg / Placebo | LS mean: 25.0 vs 109.7 MME (77% reduction in geometric LS mean ratio through 48 hours; p<0.0001) | Opioid free at 48 hours: (9/69) in EXPAREL liposomal arm vs (1/71) in placebo arm (p=0.008) |
+| Brachial Plexus Nerve Block / TSA/RCR | 133 mg / Placebo | LS mean: 25.0 vs 109.7 MME (77% reduction in geometric LS mean ratio through 48 hours; p<0.0001) | Opioid free at 48 hours: (9/69) in EXPAREL liposomal arm vs |
+|  |  |  | (1/71) in placebo arm (p=0.008) |
 
 a: TKA study was a combined Phase 2 (Part 1) and Phase 3 (Part 2) study.
 TKA: total knee arthroplasty; TSA: total shoulder arthroplasty; RCR: rotator cuff repair; MME = Methods-of-Moments;

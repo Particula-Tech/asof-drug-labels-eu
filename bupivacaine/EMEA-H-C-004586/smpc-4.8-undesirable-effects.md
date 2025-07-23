@@ -14,6 +14,7 @@ Tabulated list of adverse reactions in adults
 The adverse reactions associated with EXPAREL liposomal in adults from clinical trials and post-marketing surveillance are presented below in Table 1 according to the MedDRA System Organ Classification and by frequency.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000) and very rare (< 1/10 000) and frequency not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 1 Table of adverse drug reactions (ADRs) in adults
 
 | System organ class | Frequency | Adverse drug reactions |

@@ -8,6 +8,7 @@ As there is a potential risk of severe life-threatening adverse reactions associ
 
 Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after injection of bupivacaine.
 Restlessness, anxiety, incoherent speech, light headedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
+
 Toxic local anaesthetic blood concentrations depress cardiac conductivity and excitability, which may lead to atrioventricular block, ventricular arrhythmia, and cardiac arrest, which can be fatal.
 In addition, toxic local anaesthetic blood concentrations depress myocardial contractility and cause peripheral vasodilation, leading to decreased cardiac output and arterial blood pressure.
 
@@ -80,7 +81,7 @@ Therefore, it is not possible to convert dosing from any other formulations of b
 No substitution with other bupivacaine containing products should be made.
 
 Caution is advised when co-administering EXPAREL liposomal and bupivacaine HCl, particularly when administering to highly vascular areas where higher systemic absorption is expected.
-Admixing of EXPAREL with other local anaesthetics has not been studied in children and is not recommended
+Admixing of EXPAREL with other local anaesthetics has not been studied in children and is not recommended.
 
 Using EXPAREL liposomal followed by other bupivacaine formulations has not been studied in clinical trials.
 However, based on the clinical situation, bupivacaine hydrochloride may be administered, taking into account the relevant PK profiles and individual patient considerations.

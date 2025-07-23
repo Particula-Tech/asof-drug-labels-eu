@@ -12,7 +12,9 @@ The rate of systemic absorption of bupivacaine is dependent upon the total dose 
 
 Descriptive statistics of pharmacokinetic parameters of representative EXPAREL liposomal doses in field block and peripheral nerve block in adults are provided in Table 5 and Table 6, respectively.
 
-Table 5 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL liposomal via Field Block in Adults
+Table 5 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration
+
+of Single Doses of EXPAREL liposomal via Field Block in Adults
 
 | Parameters | Surgical Site Administration |  |
 | --- | --- | --- |
@@ -24,8 +26,11 @@ Table 5 Summary of Pharmacokinetic Parameters for Bupivacaine after Administrati
 | AUC(inf) (h•ng/mL) | 7105 (2283) | 18,289 (7569) |
 | t½ (h) | 34 (17) | 24 (39) |
 
-AUC0-t = the area under the plasma concentration-versus-time curve from time 0 to the time of the last quantifiable concentration; AUCinf = the area under the plasma concentration-versus-time curve from time 0 extrapolated to infinity; Cmax = maximum plasma concentration; Tmax = time to reach Cmax; t1/2 = apparent terminal elimination half-life;.
-Table 6 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL liposomal via Peripheral Nerve Block in Adults
+AUC0-t = the area under the plasma concentration-versus-time curve from time 0 to the time of the last quantifiable concentration; AUCinf = the area under the plasma concentration-versus-time curve from time 0 extrapolated to infinity; Cmax = maximum plasma concentration; Tmax = time to reach Cmax; t1/2 = apparent terminal elimination half-life.
+
+Table 6 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration
+
+of Single Doses of EXPAREL liposomal via Peripheral Nerve Block in Adults
 
 | Parameters | Peripheral Nerve Block (Surgery) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -58,7 +63,7 @@ Amide-type local anaesthetics, such as bupivacaine, are metabolized primarily in
 Bupivacaine is extensively metabolised as evidenced by the minimal amount of parent drug in the urine.
 Pipecolylxylidine (PPX) is the major metabolite of bupivacaine; approximately 5% of bupivacaine is converted to PPX.
 The primary liver enzyme in formation of PPX was shown to be CYP3A4 using liver microsomes, although CYP2C19 and CYP2D6 may play a minor role.
-Hydroxylation of the aromatic ring is also a principle route of metabolism resulting in minor metabolites.
+Hydroxylation of the aromatic ring is also a principal route of metabolism resulting in minor metabolites.
 It is presumed that lipid components of the liposome undergo similar metabolism pathway as the naturally occurring lipids.
 
 Elimination
@@ -68,13 +73,16 @@ Only 6% of bupivacaine is excreted unchanged in the urine.
 Various pharmacokinetic parameters of the local anaesthetics can be significantly altered by the presence of renal disease, factors affecting urinary pH, and renal blood flow.
 Based on this knowledge, clinicians should practice caution when administering any local anaesthetics in patients with renal disease, including EXPAREL liposomal.
 From population pharmacokinetics models based on EXPAREL liposomal clinical studies, apparent clearance ranges from 22.9 L/h for wound infiltration studies to 10.6 L/h in regional analgesia, and due to the flip-flop kinetics it reflects the rate of absorption.
-Special Populations
+
+Special populations
 
 Paediatric population
 The pharmacokinetic profiles of bupivacaine after administration of EXPAREL as a single-dose field block were similar in paediatric and adult subjects in matching surgical procedures.
 The summary of bupivacaine pharmacokinetic parameters when EXPAREL administered as a field block in spinal or cardiothoracic procedures in paediatric patients aged 6 years or older is given in Table 7.
 
-Table 7 Summary of Bupivacaine Pharmacokinetic Parameters with EXPAREL and Bupivacaine HCl
+Table 7 Summary of Bupivacaine Pharmacokinetic Parameters with EXPAREL and
+
+Bupivacaine HCl
 
 | Study No. | Population | Study Drug (Dose) | Global Cmax (ng/mL) | Global Tmax(h) | AUC (0-t) (ng*h/mL) | AUC (0-inf) (ng*h/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
