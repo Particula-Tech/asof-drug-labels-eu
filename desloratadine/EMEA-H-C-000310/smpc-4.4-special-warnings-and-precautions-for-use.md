@@ -21,13 +21,13 @@ The content of sorbitol (E420) in medicinal products for oral use may affect the
 Sorbitol is a source of fructose; patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
 
 Azomyr oral solution contains propylene glycol (E1520)
-This medicinal product contains 100.75 mg propylene glycol (E1520) in each ml of oral solution.
+This medicinal product contains 100.19 mg propylene glycol (E1520) in each ml of oral solution.
 
 Azomyr oral solution contains sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
 
 Azomyr oral solution contains benzyl alcohol
-This medicinal product contains 0.75 mg benzyl alcohol in each ml of oral solution.
+This medicinal product contains 0.375 mg benzyl alcohol in each ml of oral solution.
 
 Benzyl alcohol may cause anaphylactoid reactions.
 
