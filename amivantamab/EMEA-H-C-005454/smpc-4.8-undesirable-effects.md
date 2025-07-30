@@ -12,11 +12,11 @@ Table 7 summarises the adverse drug reactions that occurred in patients receivin
 The data reflects exposure to amivantamab in 380 patients with locally advanced or metastatic non-small cell lung cancer after failure of platinum-based chemotherapy.
 Patients received amivantamab 1050 mg (for patients < 80 kg) or 1400 mg (for patients ≥80 kg).
 The median exposure to amivantamab was 4.1 months (range: 0.0 to 39.7 months).
-
 Adverse reactions observed during clinical studies are listed below by frequency category.
 Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1000 to < 1/100); rare (≥1/10000 to < 1/1000); very rare (< 1/10000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 7: Adverse reactions in patients receiving amivantamab as monotherapy
 
 | System organ class Adverse reaction | Frequency category | Any Grade (%) | Grade 3-4 (%) |
@@ -66,7 +66,6 @@ Table 7: Adverse reactions in patients receiving amivantamab as monotherapy
 
 * Grouped terms
 † Grade 3 events only
-
 Summary of the safety profile
 In the dataset of amivantamab in combination with carboplatin and pemetrexed (N=301), the most frequent adverse reactions in all grades were rash (83%), neutropenia (57%), nail toxicity (53%), infusion related reactions (51%), fatigue (43%), stomatitis (39%), nausea (43%), thrombocytopenia (40%), constipation (40%), oedema (40%), decreased appetite (33%), hypoalbuminaemia (32%), alanine aminotransferase increased (26%), aspartate aminotransferase increased (23%), vomiting (22%), and hypokalaemia (20%).
 Serious adverse reactions included rash (2.7%), venous thromboembolism (2.3%), thrombocytopenia (2.3%) and ILD (2.0%).
@@ -154,7 +153,6 @@ Adverse reactions observed during clinical studies are listed below by frequency
 Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1000 to < 1/100); rare (≥1/10000 to < 1/1000); very rare (< 1/10000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
 Table 9: Amivantamab adverse reactions in patients receiving amivantamab in combination with lazertinib
 
 | System organ class Adverse reaction | Frequency category | Any Grade (%) | Grade 3-4 (%) |
@@ -207,7 +205,6 @@ Table 9: Amivantamab adverse reactions in patients receiving amivantamab in comb
 * Grouped terms
 ‡ Assessed as ADR for lazertinib only.
 † The most common events included increased ALT (36%), increased AST (29%) and increase blood alkaline phosphatase (12%).
-
 Description of selected adverse reactions
 
 Infusion-related reactions
@@ -226,6 +223,9 @@ Ninety-four percent of IRRs were Grade 1-2.
 A majority of IRRs occurred at the first infusion with a median time to onset of 1 hour, and the majority occurring within 2 hours of infusion start.
 The most frequent signs and symptoms include chills, dyspnoea, nausea, flushing, chest discomfort, and vomiting (see section 4.4)
 Occasionally an IRR can occur at re-initiation of amivantamab after prolonged dose interruptions of more than 6 weeks.
+
+In a Phase 2, open-label, multicenter study in patients with NSCLC, patients were administered 8 mg dexamethasone orally, twice daily on both of the two days prior to the first Rybrevant infusion and 8 mg orally, 60 minutes prior to infusion on the day of the first infusion (5 doses total) in addition to intravenous dexamethasone.
+With the addition of oral dexamethasone, a 22.5% incidence of IRRs and no grade ≥3 IRRs were reported on the day of the initial infusion (see section 4.2).
 
 Interstitial lung disease
 Interstitial lung disease or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors.
@@ -246,7 +246,6 @@ Rash leading to amivantamab discontinuation occurred in 0.3% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
 Nail toxicity occurred in patients treated with amivantamab.
 Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 1.8% of patients.
-
 Rash (including dermatitis acneiform), occurred in 83% of patients treated with amivantamab in combination with carboplatin and pemetrexed.
 Most cases were Grade 1 or 2, with Grade 3 rash events occurring in 14% of patients.
 Rash leading to amivantamab discontinuation occurred in 2.3% of patients.
@@ -260,6 +259,7 @@ Rash leading to amivantamab discontinuation occurred in 5.5% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
 Nail toxicity occurred in patients treated with amivantamab in combination with lazertinib.
 Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 11% of patients (see section 4.4).
+
 Eye disorders
 Eye disorders, including keratitis (0.5%), occurred in 9% of patients treated with amivantamab alone.
 Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.

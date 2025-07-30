@@ -5,6 +5,7 @@ Pharmacotherapeutic group: Monoclonal antibodies and antibody drug conjugates, A
 Mechanism of action
 Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, Exon 21 L858R substitution, and Exon 20 insertion mutations.
 Amivantamab binds to the extracellular domains of EGFR and MET.
+
 Amivantamab disrupts EGFR and MET signalling functions through blocking ligand binding and enhancing degradation of EGFR and MET, thereby preventing tumour growth and progression.
 The presence of EGFR and MET on the surface of tumour cells also allows for targeting of these cells for destruction by immune effector cells, such as natural killer cells and macrophages, through antibody-dependent cellular cytotoxicity (ADCC) and trogocytosis mechanisms, respectively.
 
@@ -31,7 +32,6 @@ The median age was 63 (range: 25–88) years with 45% of patients ≥65 years; 6
 Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (34%) or 1 (66%); 69% never smoked; 41% had prior brain metastases; and 90% had Stage IV cancer at initial diagnosis.
 With regard to EGFR mutation status, 60% were
 Exon 19 deletions and 40% were Exon 21 L858R substitution mutations.
-
 Rybrevant in combination with lazertinib demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
 
 With a median follow up of approximately 31 months, the updated OS HR was 0.77; (95% CI: 0.61, 0.96; p=0.0185).

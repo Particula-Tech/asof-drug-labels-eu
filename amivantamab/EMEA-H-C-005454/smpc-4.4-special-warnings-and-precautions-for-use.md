@@ -33,7 +33,6 @@ For VTE events associated with clinical instability treatment should be withheld
 Thereafter, both drugs can be resumed at the same dose.
 In the event of recurrence despite appropriate anticoagulation, Rybrevant should be discontinued.
 Treatment can continue with lazertinib at the same dose (see section 4.2).
-
 Skin and nail reactions
 Rash (including dermatitis acneiform), pruritus and dry skin occurred in patients treated with amivantamab (see section 4.8).
 Patients should be instructed to limit sun exposure during and for 2 months after Rybrevant therapy.

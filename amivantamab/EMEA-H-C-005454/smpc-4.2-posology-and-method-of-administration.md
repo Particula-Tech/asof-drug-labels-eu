@@ -100,6 +100,12 @@ Rybrevant should be withheld if interstitial lung disease (ILD) or ILD-like adve
 If the patient is confirmed to have ILD or ILD-like adverse reactions (e.g., pneumonitis), permanently discontinue Rybrevant (see section 4.4).
 
 Recommended concomitant medicinal products
+Two days before the first infusion:
+During the two days prior to the initial Rybrevant infusion, patients should receive 8 mg dexamethasone orally, twice daily.
+
+Day of infusion:
+On the day of the initial infusion (Week 1, Day 1), patients should receive 8 mg dexamethasone orally, one hour prior to infusion in addition to intravenous dexamethasone to further reduce the risk of IRRs.
+
 Prior to infusion (Week 1, Days 1 and 2), antihistamines, antipyretics, and glucocorticoids should be administered to reduce the risk of IRRs (see Table 4).
 For subsequent doses, antihistamines and antipyretics are required to be administered.
 Glucocorticoids should also be re-initiated after prolonged dose interruptions.
@@ -113,6 +119,7 @@ Table 4: Dosing schedule of premedications
 |  |  | Oral | 30 to 60 minutes |
 | Antipyretic* | Paracetamol/Acetaminophen (650 to 1000 mg) | Intravenous | 15 to 30 minutes |
 |  |  | Oral | 30 to 60 minutes |
+| Glucocorticoid‡ | Dexamethasone (8 mg) | Oral | 60 minutes |
 | Glucocorticoid‡ | Dexamethasone (20 mg) or equivalent | Intravenous | 60 to 120 minutes |
 | Glucocorticoid+ | Dexamethasone (10 mg) or equivalent | Intravenous | 45 to 60 minutes |
 
@@ -133,12 +140,12 @@ No formal studies of amivantamab in patients with renal impairment have been con
 Based on population pharmacokinetic (PK) analyses, no dose adjustment is necessary for patients with mild or moderate renal impairment.
 Caution is required in patients with severe renal impairment as amivantamab has not been studied in this patient population (see section 5.2).
 If treatment is started, patients should be monitored for adverse reactions with dose modifications per the recommendations above.
-
 Hepatic impairment
 No formal studies of amivantamab in patients with hepatic impairment have been conducted.
 Based on population PK analyses, no dose adjustment is necessary for patients with mild hepatic impairment.
 Caution is required in patients with moderate or severe hepatic impairment as amivantamab has not been studied in this patient population (see section 5.2).
 If treatment is started, patients should be monitored for adverse reactions with dose modifications per the recommendations above.
+
 Method of administration
 Rybrevant is for intravenous use.
 It is administered as an intravenous infusion following dilution with sterile 5% glucose solution or sodium chloride 9 mg/mL (0.9%) solution for injection.
@@ -192,10 +199,8 @@ Table 6: Infusion rates for Rybrevant every 2 weeks
 | Week 1 Day 1 | 350 mg | 50 mL/hr | 75 mL/hr |
 | Week 1 Day 2 | 1050 mg | 35 mL/hr | 50 mL/hr |
 | Week 2 | 1400 mg | 65 mL/hr |  |
-
-| Week 3 | 1400 mg | 85 mL/hr |
-| --- | --- | --- |
-| Subsequent weeks* | 1400 mg | 125 mL/hr |
+| Week 3 | 1400 mg | 85 mL/hr |  |
+| Subsequent weeks* | 1400 mg | 125 mL/hr |  |
 
 * After Week 5, patients are dosed every 2 weeks.
 ‡ Increase the initial infusion rate to the subsequent infusion rate after 2 hours in the absence of IRRs.
