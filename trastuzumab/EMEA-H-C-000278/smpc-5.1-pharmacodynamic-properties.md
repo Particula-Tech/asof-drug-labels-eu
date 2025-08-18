@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC03
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01FD01
 
 Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the human epidermal growth factor receptor 2 (HER2).
 Overexpression of HER2 is observed in 20 %-30 % of primary breast cancers.
@@ -109,7 +109,7 @@ Table 4 Efficacy Results from the Monotherapy and Combination Therapy Studies
 
 | Parameter | Monotherapy | Combination Therapy |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Herceptin1 N=172 | Herceptin plus paclitaxel2 N=68 | Paclitaxel2 N=77 | Herceptin plus docetaxel3 N=92 | Docetaxel3 N=94 |
+|  | Herceptin1 N=172 | Hercepti n plus paclitaxe l2 N=68 | Paclitaxe l2 N=77 | Hercepti n plus doce3t axel N=92 | Docetaxe l3 N=94 |
 | Response rate (95 %CI) | 18 % (13 - 25) | 49 % (36 - 61) | 17 % (9 - 27) | 61 % (50-71) | 34 % (25-45) |
 | Median duration of response (months) (95 %CI) | 9.1 (5.6-10.3) | 8.3 (7.3-8.8) | 4.6 (3.7-7.4) | 11.7 (9.3 – 15.0) | 5.7 (4.6-7.6) |
 | Median TTP (months) (95 %CI) | 3.2 (2.6-3.5) | 7.1 (6.2-12.0) | 3.0 (2.0-4.4) | 11.7 (9.2-13.5) | 6.1 (5.4-7.2) |
@@ -122,7 +122,6 @@ Study H0649g: IHC3+ patient subset
 Study H0648g: IHC3+ patient subset
 3.
 Study M77001: Full analysis set (intent-to-treat), 24 months results
-
 Combination treatment with Herceptin and anastrozole
 Herceptin has been studied in combination with anastrozole for first line treatment of MBC in HER2 overexpressing, hormone-receptor (i.e. estrogen-receptor (ER) and/or progesterone-receptor (PR)) positive postmenopausal patients.
 Progression free survival was doubled in the Herceptin plus anastrozole arm compared to anastrozole (4.8 months versus 2.4 months).
@@ -176,7 +175,6 @@ In the joint analysis of the NSABP B-31 and NCCTG N9831 studies, EBC was limited
 In the BCIRG 006 study HER2 positive, EBC was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, estrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2-3, or age < 35 years).
 
 The efficacy results from the BO16348 trial following 12 months* and 8 years** median follow-up are summarized in Table 6:
-
 Table 6 Efficacy Results from Study BO16348
 
 |  | Median follow-up 12 months* |  | Median follow-up 8 years** |  |
@@ -200,7 +198,6 @@ This translates into an absolute benefit in terms of an 8 year disease free surv
 In this final analysis, extending Herceptin treatment for a duration of two years did not show additional benefit over treatment for 1 year [DFS HR in the intent to treat (ITT) population of 2 years versus 1 year=0.99 (95 % CI: 0.87, 1.13), p-value=0.90 and OS HR=0.98 (0.83, 1.15); p-value= 0.78].
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year treatment arm (8.1 % versus 4.6 % in the 1-year treatment arm).
 More patients experienced at least one grade 3 or 4 adverse event in the 2-year treatment arm (20.4 %) compared with the 1-year treatment arm (16.3 %).
-
 In the NSABP B-31 and NCCTG N9831 studies Herceptin was administered in combination with paclitaxel, following AC chemotherapy.
 
 Doxorubicin and cyclophosphamide were administered concurrently as follows:
@@ -218,6 +215,7 @@ or
 
 The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 trials at the time of the definitive analysis of DFS* are summarized in Table 7.
 The median duration of follow up was 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm.
+
 Table 7 Summary of Efficacy results from the joint analysis of the NSABP B-31 and NCCTG N9831 trials at the time of the definitive DFS analysis*
 
 | Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95% CI) p-value |
@@ -271,7 +269,6 @@ Herceptin was administered weekly with chemotherapy and 3 weekly thereafter for 
 
 The efficacy results from the BCIRG 006 are summarized in Tables 9 and 10.
 The median duration of follow up was 2.9 years in the AC→D arm and 3.0 years in each of the AC→DH and DCarbH arms.
-
 Table 9 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 
 | Parameter | AC→D (n=1073) | AC→DH (n=1074) | Hazard Ratio vs AC→D (95 % CI) p-value |
@@ -281,6 +278,7 @@ Table 9 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 | Death (OS event) No. patients with event | 80 | 49 | 0.58 (0.40, 0.83) p=0.0024 |
 
 AC→D = doxorubicin plus cyclophosphamide, followed by docetaxel; AC→DH = doxorubicin plus cyclophosphamide, followed by docetaxel plus trastuzumab; CI = confidence interval
+
 Table 10 Overview of Efficacy Analyses BCIRG 006 AC→D versus DCarbH
 
 | Parameter | AC→D (n=1073) | DCarbH (n=1074) | Hazard Ratio vs AC→D (95 % CI) |

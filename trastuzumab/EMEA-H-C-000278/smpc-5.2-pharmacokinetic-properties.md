@@ -26,13 +26,13 @@ Table 14 Population Predicted Cycle 1 PK Exposure Values (median with 5th - 95th
 
 Table 15 Population Predicted Steady State PK Exposure Values (median with 5th - 95th Percentiles) for Herceptin IV Dosing Regimens in MBC, EBC and AGC Patients
 
-| Regimen | Primary tumor type | N | Cmin,ss* (µg/mL) | Cmax,ss** (µg/mL) | AUCss, 0-21days (µg.day/mL) | Time to steady-state*** (week) |
+| Regimen | Primary tumor type | N | Cmin,ss* (µg/mL) | Cmax,ss** (µg/mL) | AUCss, 0- (µg.2d1adayy/smL) | Time to steady-state*** (week) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 8mg/kg + 6mg/kg q3w | MBC | 805 | 44.2 (1.8 - 85.4) | 179 (123 - 266) | 1736 (618 - 2756) | 12 |
-|  | EBC | 390 | 53.8 (28.7 - 85.8) | 184 (134 - 247) | 1927 (1332 -2771) | 15 |
+|  | EBC | 390 | 53.8 (28.7 - 85.8) | 184 (134 - 247) | 1927 (1332 - 2771) | 15 |
 |  | AGC | 274 | 32.9 (6.1 – 88.9) | 131 (72.5 -251) | 1338 (557 - 2875) | 9 |
 | 4mg/kg + 2mg/kg qw | MBC | 805 | 63.1 (11.7 - 107) | 107 (54.2 - 164) | 1710 (581 - 2715) | 12 |
-|  | EBC | 390 | 72.6 (46 - 109) | 115 (82.6 - 160) | 1893 (1309 -2734) | 14 |
+|  | EBC | 390 | 72.6 (46 - 109) | 115 (82.6 - 160) | 1893 (1309 - 2734) | 14 |
 
 *Cmin,ss – Cmin at steady state
 **Cmax,ss = Cmax at steady state
