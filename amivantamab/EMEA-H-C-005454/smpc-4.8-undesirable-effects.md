@@ -16,7 +16,6 @@ Adverse reactions observed during clinical studies are listed below by frequency
 Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1000 to < 1/100); rare (≥1/10000 to < 1/1000); very rare (< 1/10000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
 Table 7: Adverse reactions in patients receiving amivantamab as monotherapy
 
 | System organ class Adverse reaction | Frequency category | Any Grade (%) | Grade 3-4 (%) |
@@ -54,7 +53,8 @@ Table 7: Adverse reactions in patients receiving amivantamab as monotherapy
 | Nail toxicity* |  | 47 | 2† |
 | Dry skin* |  | 19 | 0 |
 | Pruritus |  | 18 | 0 |
-| Toxic epidermal necrolysis | Uncommon | 0.3 | 0.3† |
+| Skin ulcer | Uncommon | 0.8 | 0 |
+| Toxic epidermal necrolysis |  | 0.3 | 0.3† |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Myalgia | Very common | 11 | 0.3† |
 | General disorders and administration site conditions |  |  |  |
@@ -126,6 +126,7 @@ Table 8: Adverse reactions in patients receiving amivantamab in combination with
 | Nail toxicity* |  | 53 | 4.3 |
 | Dry skin* |  | 16 | 0 |
 | Pruritus |  | 10 | 0 |
+| Skin ulcer | Common | 3.7 | 0.7 |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Myalgia | Common | 5.0 | 0.7 |
 | General disorders and administration site conditions |  |  |  |
@@ -138,7 +139,7 @@ Table 8: Adverse reactions in patients receiving amivantamab in combination with
 * Grouped terms
 
 Summary of the safety profile
-In the dataset of amivantamab in combination with lazertinib (N=421), the most frequent adverse reactions in all grades were rash (89%), nail toxicity (71%), infusion-related reactions (63%), hypoalbuminaemia (48%), hepatotoxicity (47%), oedema (47%), stomatitis (43%), venous thromboembolism (37%), paraesthesia (lazertinib) (34%), fatigue (32%), diarrhoea (29%), constipation (29%), dry skin (26%), pruritis (24%), decreased appetite (24%), hypocalcaemia (21%), nausea (21%) and other eye disorders (21%).
+In the dataset of amivantamab in combination with lazertinib (N=421), the most frequent adverse reactions in all grades were rash (89%), nail toxicity (71%), infusion-related reactions (63%), hypoalbuminaemia (48%), hepatotoxicity (47%), oedema (47%), stomatitis (43%), venous thromboembolism (37%), paraesthesia (lazertinib) (34%), fatigue (32%), diarrhoea (29%), constipation (29%), dry skin (26%), pruritus (24%), decreased appetite (24%), hypocalcaemia (21%), nausea (21%) and other eye disorders (21%).
 The most frequent serious adverse reactions included venous thromboembolism (11%), pneumonia (4.0%), rash (3.1%), ILD/pneumonitis (2.9%), hepatotoxicity (2.4%), COVID-19 (2.4%), and IRR and pleural effusion (2.1%).
 Twenty-three percent of patients discontinued Rybrevant due to adverse reactions.
 The most frequent adverse reactions leading to Rybrevant discontinuation were rash (5.5%), infusion related reactions (4.5%), nail toxicity (3.6%), ILD (2.9%) and VTE (2.9%).
@@ -191,6 +192,7 @@ Table 9: Amivantamab adverse reactions in patients receiving amivantamab in comb
 | Dry skin* |  | 26 | 1.0 |
 | Pruritus |  | 24 | 0.5 |
 | Palmar-plantar erythrodysaesthesia syndrome | Common | 6 | 0.2 |
+| Skin ulcer |  | 5 | 0.7 |
 | Urticaria |  | 1.2 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Muscle spasms | Very common | 17 | 0.5 |
@@ -205,6 +207,7 @@ Table 9: Amivantamab adverse reactions in patients receiving amivantamab in comb
 * Grouped terms
 ‡ Assessed as ADR for lazertinib only.
 † The most common events included increased ALT (36%), increased AST (29%) and increase blood alkaline phosphatase (12%).
+
 Description of selected adverse reactions
 
 Infusion-related reactions
@@ -246,6 +249,7 @@ Rash leading to amivantamab discontinuation occurred in 0.3% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
 Nail toxicity occurred in patients treated with amivantamab.
 Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 1.8% of patients.
+
 Rash (including dermatitis acneiform), occurred in 83% of patients treated with amivantamab in combination with carboplatin and pemetrexed.
 Most cases were Grade 1 or 2, with Grade 3 rash events occurring in 14% of patients.
 Rash leading to amivantamab discontinuation occurred in 2.3% of patients.
@@ -288,7 +292,9 @@ There was no evidence of an altered pharmacokinetic, efficacy, or safety profile
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
 
 [Rybrevant 1600 mg solution for injection]
 
@@ -336,7 +342,8 @@ Table 4: Adverse reactions in patients receiving Rybrevant as monotherapy (N=380
 | Nail toxicity* |  | 47 | 2† |
 | Dry skin* |  | 19 | 0 |
 | Pruritus |  | 18 | 0 |
-| Toxic epidermal necrolysis | Uncommon | 0.3 | 0.3† |
+| Skin ulcer | Uncommon | 0.8 | 0 |
+| Toxic epidermal necrolysis |  | 0.3 | 0.3† |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Myalgia | Very common | 11 | 0.3† |
 | General disorders and administration site conditions |  |  |  |
@@ -403,7 +410,8 @@ Table 5: Adverse reactions for Rybrevant (either intravenous or subcutaneous for
 | Nail toxicity* |  | 67 | 8 |
 | Dry skin* |  | 25 | 0.7 |
 | Pruritus |  | 23 | 0.3 |
-| Palmar-plantar erythrodysaesthesia syndrome | Common | 3.9 | 0.1 |
+| Skin ulcer | Common | 3.9 | 0.5 |
+| Palmar-plantar erythrodysaesthesia syndrome |  | 3.9 | 0.1 |
 | Urticaria |  | 1.6 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Myalgia | Very common | 15 | 0.5 |
@@ -453,3 +461,5 @@ Rash occurred in 87% of patients, leading to discontinuation of Rybrevant in 0.7
 Most cases were Grade 1 or 2, with Grade 3 and Grade 4 reactions occurring in 23% and 0.1% of patients, respectively.
 
 Eye disorders, including keratitis (1.7%), occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation).
+
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

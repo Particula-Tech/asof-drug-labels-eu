@@ -10,7 +10,7 @@ If not used immediately, in-use storage times and conditions are the responsibil
 
 [Rybrevant 1600 mg solution for injection]
 
-18 months
+2 years
 
 Prepared syringe
 Chemical and physical in-use stability has been demonstrated up to 24 hours at 2°C to 8°C followed by up to 24 hours at 15°C to 30°C.

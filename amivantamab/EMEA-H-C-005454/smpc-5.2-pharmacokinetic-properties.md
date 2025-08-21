@@ -13,7 +13,6 @@ Based on the individual amivantamab PK parameter estimates in population PK anal
 Elimination
 
 Based on the individual amivantamab PK parameter estimates in population PK analysis, the geometric mean (CV%) linear clearance (CL) and terminal half-life associated with linear clearance is 0.266 (30.4%) L/day and 13.7 (31.9%) days respectively.
-
 Special populations
 
 Elderly

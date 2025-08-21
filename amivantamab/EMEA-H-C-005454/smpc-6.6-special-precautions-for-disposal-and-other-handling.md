@@ -23,7 +23,7 @@ Preparation
 
 Administration
 
-- Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 or 0.2 micrometer).
+- Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 or 0.2 micrometre).
   Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP, or PE.
 - The administration set with filter must be primed with either 5% glucose solution or 0.9% sodium chloride solution prior to the initiation of each Rybrevant infusion.
 - Do not infuse Rybrevant concomitantly in the same intravenous line with other agents.

@@ -17,7 +17,7 @@ Amivantamab decreased serum albumin concentration, a pharmacodynamic effect of M
 Clinical efficacy and safety
 
 Previously-untreated NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (MARIPOSA)
-NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicenter phase 3 study assessing the efficacy and safety of Rybrevant in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy.
+NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy.
 Patient samples were required to have one of the two common EGFR mutations (Exon 19 deletion or Exon 21 L858R substitution mutation), as identified by local testing.
 Tumour tissue (94%) and/or plasma (6%) samples for all patients were tested locally to determine EGFR Exon 19 deletion and/or Exon 21 L858R substitution mutation status using polymerase chain reaction (PCR) in 65% and next generation sequencing (NGS) in 35% of patients.
 
@@ -26,16 +26,15 @@ Rybrevant was administered intravenously at 1050 mg (for patients < 80 kg) or 14
 Lazertinib was administered at 240 mg orally once daily.
 Osimertinib was administered at a dose of 80 mg orally once daily.
 Randomisation was stratified by EGFR mutation type (Exon 19 deletion or Exon 21 L858R), race (Asian or non-Asian), and history of brain metastasis (yes or no).
-
 Baseline demographics and disease characteristics were balanced across the treatment arms.
 The median age was 63 (range: 25–88) years with 45% of patients ≥65 years; 62% were female; and 59% were Asian, and 38% were White.
 Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (34%) or 1 (66%); 69% never smoked; 41% had prior brain metastases; and 90% had Stage IV cancer at initial diagnosis.
 With regard to EGFR mutation status, 60% were
 Exon 19 deletions and 40% were Exon 21 L858R substitution mutations.
+
 Rybrevant in combination with lazertinib demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
 
-With a median follow up of approximately 31 months, the updated OS HR was 0.77; (95% CI: 0.61, 0.96; p=0.0185).
-This was not statistically significant as compared to a 2-sided significance level of 0.00001.
+The final analysis of OS demonstrated a statistically significant improvement in OS for Rybrevant in combination with lazertinib compared to osimertinib (see Table 10 and Figure 2).
 
 Table 10: Efficacy results in MARIPOSA
 
@@ -46,23 +45,22 @@ Table 10: Efficacy results in MARIPOSA
 | Median, months (95% CI) | 23.7 (19.1, 27.7) | 16.6 (14.8, 18.5) |
 | Hazard Ratio (95% CI); p-value | 0.70 (0.58, 0.85); p=0.0002 |  |
 | Overall survival (OS) |  |  |
-| Number of events | 142 (33%) | 177 (41%) |
-| Median, months (95% CI) | NE (NE, NE) | 37.3 (32.5, NE) |
-| Hazard Ratio (95% CI); p-valueb | 0.77 (0.61, 0.96); p=0.0185 |  |
-| Objective response rate (ORR)a,c |  |  |
+| Number of events | 173 (40%) | 217 (51%) |
+| Median, months (95% CI) | NE (42.9, NE) | 36.7 (33.4, 41.0) |
+| Hazard Ratio (95% CI); p-value | 0.75 (0.61, 0.92); p=0.0048 |  |
+| Objective response rate (ORR)a,b |  |  |
 | ORR % (95% CI) | 80% (76%, 84%) | 77% (72%, 81%) |
-| Duration of response (DOR)a,c |  |  |
+| Duration of response (DOR)a,b |  |  |
 | Median (95% CI), months | 25.8 (20.3, 33.9) | 18.1 (14.8, 20.1) |
 
 BICR = blinded independent central review; CI = confidence interval; NE = not estimable
 PFS results are from data cut-off 11 August 2023 with a median follow-up of 22.0 months.
-OS, DOR and ORR results are from data cut-off 13 May 2024 with a median follow-up of 31.3 months.
+DOR and ORR results are from data cut-off 13 May 2024 with a median follow-up of 31.3 months.
+OS results are from data cut-off 04 December 2024 with a median follow-up of 37.8 months.
 a BICR by RECIST v1.1.
-b The p-value is compared to a 2-sided significance level of 0.00001.
-Thus the OS results are not statistically significant as of the latest interim analysis.
-c Based on confirmed responders.
-
+b Based on confirmed responders.
 Figure 1: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
+
 Figure 2: Kaplan-Meier curve of OS in previously untreated NSCLC patients
 
 Intracranial ORR and DOR by BICR were pre-specified endpoints in MARIPOSA.
@@ -74,16 +72,16 @@ Table 11: Intracranial ORR and DOR by BICR assessment in subjects with intracran
 
 |  | Rybrevant + lazertinib (N=180) | Osimertinib (N=186) |
 | --- | --- | --- |
-| Intracranial Tumour Response Assessment |  |  |
-| Intracranial ORR (CR+PR), % (95% CI) | 77% (70%, 83%) | 77% (70%, 82%) |
-| Complete response | 63% | 59% |
+| Intracranial tumour response assessment |  |  |
+| Intracranial ORR (CR+PR), % (95% CI) | 78% (71%, 84%) | 77% (71%, 83%) |
+| Complete response | 64% | 59% |
 | Intracranial DOR |  |  |
-| Number of responders | 139 | 144 |
-| Median, months (95% CI) | NE (21.4, NE) | 24.4 (22.1, 31.2) |
+| Number of responders | 140 | 144 |
+| Median, months (95% CI) | 35.0 (20.4, NE) | 25.1 (22.1, 31.2) |
 
 CI = confidence interval
 NE = not estimable
-Intracranial ORR and DOR results are from data cut-off 13 May 2024 with a median follow-up of 31.3 months.
+Intracranial ORR and DOR results are from data cut-off 04 Dec 2024 with a median follow-up of 37.8 months.
 
 Previously treated NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (MARIPOSA-2)
 MARIPOSA-2 is a randomised (2:2:1) open-label, multicentre Phase 3 study in patients with locally advanced or metastatic NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (mutation testing could have been performed at or after the time of locally advanced or metastatic disease diagnosis.
@@ -92,7 +90,7 @@ A total of 657 patients were randomised in the study, of which 263 received carb
 Additionally, 263 patients were randomised to receive Rybrevant in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study.
 Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients < 80 kg) or 2100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
-Pemetrexed was administered intravenously at 500 mg/m2 on once every 3 weeks until disease progression or unacceptable toxicity.
+Pemetrexed was administered intravenously at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 
 Patients were stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no).
 
@@ -100,9 +98,8 @@ Of the 394 patients randomised to the Rybrevant-CP arm or CP arm, the median age
 Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (40%) or 1 (60%); 66% never smoked; 45% had history of brain metastasis, and 92% had Stage IV cancer at initial diagnosis.
 
 Rybrevant in combination with carboplatin and pemetrexed demonstrated a statistically significant improvement in progression-free survival (PFS) compared to carboplatin and pemetrexed, with a HR of 0.48 (95% CI: 0.36, 0.64; p<0.0001).
-At the time of the second interim analysis for OS, with a median follow-up of approximately 18.6 months for Rybrevant-CP and approximately 17.8 months for CP, the OS HR was 0.73 (95%CI: 0.54, 0.99; p=0.0386).
+At the time of the second interim analysis for OS, with a median follow-up of approximately 18.6 months for Rybrevant-CP and approximately 17.8 months for CP, the OS HR was 0.73 (95% CI: 0.54, 0.99; p=0.0386).
 This was not statistically significant (tested at a prespecified significance level of 0.0142).
-
 Efficacy results are summarised in Table 12.
 
 Table 12: Efficacy results in MARIPOSA-2
@@ -126,20 +123,21 @@ Table 12: Efficacy results in MARIPOSA-2
 
 CI = Confidence Interval
 NE = not estimable
-PFS, DOR and ORR results are from data cut-off 10 July-2023 when hypothesis testing and final analysis for these endpoints was performed.
+PFS, DOR and ORR results are from data cut-off 10 July 2023 when hypothesis testing and final analysis for these endpoints was performed.
 OS results are from data cut-off 26 April 2024 from the second interim OS analysis.
 a BICR-assessed b The p-value is compared to a 2-sided significance level of 0.0142.
 Thus the OS results are not significant as of the second interim analysis.
+
 Figure 3: Kaplan-Meier curve of PFS in previously treated NSCLC patients by BICR assessment
 
 The PFS benefit of Rybrevant-CP compared to CP was consistent across all the predefined subgroups analysed, including ethnicity, age, gender, smoking history, and CNS metastases status at study entry.
-
 Figure 4: Kaplan-Meier curve of OS in previously treated NSCLC patients
 
 Intracranial metastases efficacy data
 Patients with asymptomatic or previously treated and stable intracranial metastases were eligible to be randomised in MARIPOSA-2.
 Treatment with Rybrevant-CP was associated with a numeric increase in intracranial ORR (23.3% for Rybrevant-CP versus 16.7% for CP, odds ratio of 1.52; 95% CI (0.51, 4.50), and intracranial DOR (13.3 months; 95% CI (1.4, NE) in the Rybrevant-CP arm compared with 2.2 months; 95% CI (1.4, NE) in the CP arm).
 The median follow-up for Rybrevant-CP was approximately 18.6 months.
+
 Previously-untreated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (PAPILLON)
 PAPILLON is a randomised, open-label, multicentre Phase 3 study comparing treatment with Rybrevant in combination with carboplatin and pemetrexed to chemotherapy alone (carboplatin and pemetrexed) in patients with treatment-naïve, locally advanced or metastatic NSCLC with activating EGFR Exon 20 insertion mutations.
 Tumour tissue (92.2%) and/or plasma (7.8%) samples for all 308 patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 55.5% of patients and/or polymerase chain reaction (PCR) in 44.5% of patients.
@@ -150,7 +148,7 @@ Patients with brain metastases at screening were eligible for participation once
 Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients
 < 80 kg) or 2100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
-Pemetrexed was administered intravenously at 500 mg/m2 on once every 3 weeks until disease progression or unacceptable toxicity.
+Pemetrexed was administered intravenously at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 Randomisation was stratified by ECOG performance status (0 or 1), and prior brain metastases (yes or no). Patients randomised to the carboplatin and pemetrexed arm who had confirmed disease progression were permitted to cross over to receive Rybrevant monotherapy.
 A total of 308 subjects were randomised (1:1) to Rybrevant in combination with carboplatin and pemetrexed (N=153) or carboplatin and pemetrexed (N=155).
 The median age was 62 (range: 27 to 92) years, with 39% of the subjects ≥65 years of age; 58% were female; and 61% were Asian and 36% were White.
@@ -185,11 +183,11 @@ c Based on the results of an updated OS with median follow-up of 20.9 months.
 The OS analysis was not adjusted for the potentially confounding effects of crossover (78 [50.3%] patients on the carboplatin + pemetrexed arm who received subsequent Rybrevant monotherapy treatment).
 
 Figure 5: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
-
 The PFS benefit of Rybrevant in combination with carboplatin and pemetrexed compared to carboplatin and pemetrexed was consistent across all the predefined subgroups of brain metastases at study entry (yes or no), age (< 65 or ≥65), sex (male or female), race (Asian or non-Asian), weight
 (< 80 kg or ≥80 kg), ECOG performance status (0 or 1), and smoking history (yes or no).
 
-Figure 6: Kaplan-Meier curve of OS in previously untreated NSCLC patients by BICR assessment
+Figure 6: Kaplan-Meier curve of OS in previously untreated NSCLC patients
+
 Previously-treated non-small cell lung cancer(NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
 CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant in patients with locally advanced or metastatic NSCLC.
 Efficacy was evaluated in 114 patients with locally advanced or metastatic NSCLC who had EGFR Exon 20 insertion mutations, whose disease had progressed on or after platinum-based chemotherapy, and who had a median follow-up of 12.5 months.
@@ -204,7 +202,6 @@ The median age was 62 (range: 36–84) years, with 41% of the patients ≥65 yea
 The median number of prior therapies was 2 (range: 1 to 7 therapies).
 At baseline, 29% had Eastern Cooperative Oncology Group (ECOG) performance status of 0 and 70% had ECOG performance status of 1; 57% never smoked; 100% had Stage IV cancer; and 25% had previous treatment for brain metastases.
 Insertions in Exon 20 were observed at 8 different residues; the most common residues were A767 (22%), S768 (16%), D770 (12%), and N771 (11%).
-
 Efficacy results are summarised in Table 14.
 
 Table 14: Efficacy results in CHRYSALIS
@@ -238,13 +235,13 @@ Rybrevant subcutaneous formulation contains recombinant human hyaluronidase (rHu
 Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, Exon 21 L858R substitution and Exon 20 insertion mutations.
 
 After the first full dose of Rybrevant subcutaneous formulation, mean serum EGFR and MET concentrations decreased substantially and remained suppressed for the duration of treatment for all studied doses.
-
 Rybrevant subcutaneous formulation decreased serum albumin concentration, a pharmacodynamic effect of MET inhibition, typically during the first 8 weeks (see section 4.8); thereafter, albumin concentration stabilised for the remainder of amivantamab treatment.
 
 Clinical experience of Rybrevant subcutaneous formulation
 
 The efficacy of Rybrevant subcutaneous formulation in patients with EGFR-mutated locally advanced or metastatic NSCLC is based on achieving non-inferior PK exposure to intravenous amivantamab in the non-inferiority study PALOMA-3 (see section 5.2).
 The study demonstrated non-inferior efficacy of subcutaneous to intravenous amivantamab given in combination with lazertinib in patients with EGFR-mutated locally advanced or metastatic NSCLC whose disease has progressed on or after treatment with osimertinib and platinum-based chemotherapy.
+
 Clinical experience of Rybrevant intravenous formulation
 
 NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant intravenous formulation in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy.
@@ -254,6 +251,7 @@ Rybrevant intravenous formulation was administered intravenously at 1050 mg (for
 
 Rybrevant intravenous formulation in combination with lazertinib demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
 
+The final analysis of OS demonstrated a statistically significant improvement in OS for Rybrevant intravenous formulation in combination with lazertinib compared to osimertinib (see Table 6 and Figure 2).
 Table 6: Efficacy results in MARIPOSA
 
 |  | Rybrevant intravenous formulation + lazertinib (N=429) | Osimertinib (N=429) |
@@ -263,12 +261,12 @@ Table 6: Efficacy results in MARIPOSA
 | Median, months (95% CI) | 23.7 (19.1, 27.7) | 16.6 (14.8, 18.5) |
 | Hazard Ratio (95% CI); p-value | 0.70 (0.58, 0.85); p=0.0002 |  |
 | Overall survival (OS) |  |  |
-| Number of events | 142 (33%) | 177 (41%) |
-| Median, months (95% CI) | NE (NE, NE) | 37.3 (32.5, NE) |
-| Hazard Ratio (95% CI); p-valueb | 0.77 (0.61, 0.96); p=0.0185 |  |
-| Objective response rate (ORR)a, c |  |  |
+| Number of events | 173 (40%) | 217 (51%) |
+| Median, months (95% CI) | NE (42.9, NE) | 36.7 (33.4, 41.0) |
+| Hazard Ratio (95% CI); p-value | 0.75 (0.61, 0.92); p=0.0048 |  |
+| Objective response rate (ORR)a,b |  |  |
 | ORR % (95% CI) | 80% (76%, 84%) | 77% (72%, 81%) |
-| Duration of response (DOR)a, c |  |  |
+| Duration of response (DOR)a,b |  |  |
 | Median (95% CI), months | 25.8 (20.3, 33.9) | 18.1 (14.8, 20.1) |
 
 In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant intravenous formulation and lazertinib, demonstrated similar intracranial ORR to the control.
@@ -279,11 +277,11 @@ Table 7: Intracranial ORR and DOR by BICR assessment in subjects with intracrani
 |  | Rybrevant intravenous formulation + lazertinib (N=180) | Osimertinib (N=186) |
 | --- | --- | --- |
 | Intracranial tumour response assessment |  |  |
-| Intracranial ORR (CR+PR), % (95% CI) | 77% (70%, 83%) | 77% (70%, 82%) |
-| Complete response | 63% | 59% |
+| Intracranial ORR (CR+PR), % (95% CI) | 78% (71%, 84%) | 77% (71%, 83%) |
+| Complete response | 64% | 59% |
 | Intracranial DOR |  |  |
-| Number of responders | 139 | 144 |
-| Median, months (95% CI) | NE (21.4, NE) | 24.4 (22.1, 31.2) |
+| Number of responders | 140 | 144 |
+| Median, months (95% CI) | 35.0 (20.4, NE) | 25.1 (22.1, 31.2) |
 
 Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
 
