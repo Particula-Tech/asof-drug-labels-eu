@@ -31,7 +31,8 @@ These antibodies were not neutralising and did not lower the efficacy of glucago
 
 Paediatric population
 
-Based on data from clinical trials, the frequency, type and severity of adverse reactions observed in children aged 4 years and above are expected to be the same as in adults.
+Based on data from clinical trials, the frequency, type and severity of adverse reactions observed in children aged 1 year and above are expected to be the same as in adults.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

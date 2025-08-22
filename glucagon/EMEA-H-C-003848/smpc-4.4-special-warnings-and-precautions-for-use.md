@@ -21,4 +21,5 @@ Glycogen stores and hypoglycaemia
 
 Glucagon is effective in treating hypoglycaemia only if sufficient liver glycogen is present.
 Because glucagon is of little or no help in states of starvation, adrenal insufficiency, chronic alcohol abuse or chronic hypoglycaemia, these conditions should be treated with glucose.
+
 To prevent relapse of the hypoglycaemia, oral carbohydrates should be given to restore liver glycogen, when the patient has responded to treatment.

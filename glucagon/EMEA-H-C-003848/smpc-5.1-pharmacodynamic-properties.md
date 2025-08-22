@@ -15,7 +15,10 @@ After administration of 3 mg glucagon nasal powder in adult patients with type 1
 By 10 minutes, the median glucose level was above 3.9 mmol/L (70 mg/dL).
 The mean maximum glucose increase was 7.8 mmol/L (140 mg/dL).
 
-In paediatric patients with type 1 diabetes (aged 4 to < 17 years), after administration of 3 mg glucagon nasal powder, glucose levels began to rise as early as 5 minutes (see figure 2) with a mean maximum glucose increase of 5.7 mmol/L (102 mg/dL) to 7.7 mmol/L (138 mg/dL).
+In paediatric patients with type 1 diabetes (aged 1 to < 17 years), after administration of 3 mg glucagon nasal powder, glucose levels began to rise as early as 5 minutes, with a mean maximum glucose increase of 5.7 mmol/L (102 mg/dL) to 7.7 mmol/L (138 mg/dL).
+The mean maximum glucose increase from baseline was 7.33 mmol/L (132 mg/dL) (1 to <4 years), 7.67 mmol/L
+(138 mg/dL) (4 to <8 years), 7.39 mmol/L (133 mg/dL) (8 to <12 years), and 5.67 mmol/L
+(102 mg/dL) (12 to <17 years) (Figure 2).
 
 Common cold with nasal congestion with or without concomitant use of a decongestant did not impact pharmacodynamics of glucagon nasal powder.
 Figure 1.
@@ -24,21 +27,26 @@ Mean glucose concentration over time in adult patients with type 1 diabetes
 Figure 2.
 Mean glucose concentration over time in paediatric patients with type 1 diabetes
 
-14 252
-
-4 to <8 years 234
-
-8 to <12 years
-
-12 12 to <17 years 216
-
+252 ―◆― 1 to <4 years
+234 ―◼― 4 to <8 years
+―▲― 8 to <12 years
+216
+―⚫― 12 to <17 years
 198
-10 180
+180
 162
-8 144 126
-6 108 90
-4 72 54
-2 36 0 10 20 30 40 50 60 70 80 90
+144
+126
+108
+90
+72
+54
+36
+18
+0
+
+0 10 20 30 40 50 60 70 80 90
+
 Time (minutes)
 
 Clinical efficacy
@@ -46,10 +54,10 @@ Clinical efficacy
 The adult pivotal study was a randomized, multicentre, open-label, 2-period, cross-over study in adult patients with type 1 diabetes or type 2 diabetes.
 The primary objective was to compare the efficacy of a single 3 mg dose of glucagon nasal powder against a 1 mg dose of intramuscular glucagon in adult patients with type 1 diabetes.
 Insulin was used to reduce blood glucose levels to the hypoglycaemic range with a target blood glucose nadir of < 2.8 mmol/L (< 50 mg/dL).
-
 The pivotal study enrolled 83 total patients aged 18 to < 65 years.
 Seventy-seven patients had type 1 diabetes, with a mean age of 32.9 years and a mean diabetes duration of 18.1 years, and 45 (58%) patients were female.
 The mean age of patients with type 2 diabetes (n=6) was 47.8 years, with a mean diabetes duration of 18.8 years, and 4 (67%) patients were female.
+
 The primary efficacy outcome measure was the proportion of patients achieving treatment success, which was defined as either an increase in blood glucose to ≥ 3.9 mmol/L (≥ 70 mg/dL) or an increase of ≥ 1.1 mmol/L (≥ 20 mg/dL) from glucose nadir within 30 minutes after receiving study glucagon, without receiving additional actions to increase the blood glucose level.
 Glucose nadir was defined as the minimum glucose measurement at the time of, or within 10 minutes, following glucagon administration.
 
@@ -81,7 +89,7 @@ d Percentage based on number of patients meeting treatment success.
 In a similarly designed clinical confirmatory study, 70 patients with type 1 diabetes were enrolled with a mean age of 41.7 years (20-64 years), and a mean diabetes duration of 19.8 years.
 Twenty-seven (39%) were female.
 Insulin was used to reduce blood glucose levels to < 3.3 mmol/L (< 60 mg/dL).
-The mean nadir blood glucose was 3 mmol/L (54.2 mg/dL) for glucagon nasal powder and 3.1 mmol/L (55.7 mg/dL) for intramuscular glucagon.
+The mean nadir blood glucose was 3.0 mmol/L (54.2 mg/dL) for glucagon nasal powder and 3.1 mmol/L (55.7 mg/dL) for intramuscular glucagon.
 Glucagon nasal powder demonstrated non-inferiority to intramuscular glucagon in reversing insulin-induced hypoglycaemia with 100% of glucagon nasal powder-treated patients and 100% of intramuscular glucagon-treated patients achieving treatment success (see table 3).
 The mean time to treatment success was 11.4 and 9.9 minutes in the glucagon nasal powder and intramuscular glucagon 1 mg treatment groups, respectively.
 
@@ -141,4 +149,10 @@ An episode of major hypoglycaemia was defined as an episode with neuroglycopenia
 An episode of moderate hypoglycaemia is defined as an episode wherein the child/adolescent with diabetes has symptoms and/or signs of neuroglycopenia and has a blood glucose level of ≤ 70 mg/dL (3.9 mmol/L).
 In all events, including major hypoglycaemia (8 events from 5 patients), patients returned to normal status within 5 to 30 minutes following glucagon nasal powder administration.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Baqsimi in one or more subsets of the paediatric population in the treatment of severe hypoglycaemia (see section 4.2 for information on paediatric use).
+In a paediatric Phase 1, open-label, multi-center study, safety and tolerability of a single 3 mg dose of nasal glucagon (NG) was assessed in paediatric patients aged 1 to < 4 years with type 1 diabetes.
+Seven patients were enrolled, all received the planned 3-mg dose of the study drug and completed the study.
+Participants were recommended to fast overnight before the dosing, to achieve the target range blood glucose of 70 to 140 mg/dL (3.9 to 7.8 mmol/L) at dosing.
+Efficacy was assessed based on the percentage of patients with a glucose increase of ≥ 1.1 mmol/L (20 mg/dL) from glucose nadir within 30 minutes following Baqsimi administration.
+All (100%) patients achieved an increase in glucose
+≥ 1.1 mmol/L (20 mg/dL) from glucose nadir within 30 minutes of glucagon administration.
+The mean time to reach a glucose increase of ≥ 1.1 mmol/L (20 mg/dL) for Baqsimi was 15.6 minutes (see section 4.2 for information on paediatric use).
