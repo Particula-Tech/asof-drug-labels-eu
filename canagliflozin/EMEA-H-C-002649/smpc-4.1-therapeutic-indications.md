@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Invokana is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise:
+Invokana is indicated for the treatment of adults and children aged 10 years and older with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise:
 
 - as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
 - in addition to other medicinal products for the treatment of diabetes.

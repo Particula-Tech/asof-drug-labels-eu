@@ -6,7 +6,6 @@ Plasma Cmax and AUC of canagliflozin increased in a dose-proportional manner fro
 The apparent terminal half-life (t1/2) (expressed as mean ± standard deviation) was 10.6 ± 2.13 hours and 13.1 ± 3.28 hours for the 100 mg and 300 mg doses, respectively.
 Steady-state was reached after 4 days to 5 days of once-daily dosing with canagliflozin 100 mg to 300 mg.
 Canagliflozin does not exhibit time-dependent pharmacokinetics, and accumulated in plasma up to 36% following multiple doses of 100 mg and 300 mg.
-
 Absorption
 
 The mean absolute oral bioavailability of canagliflozin is approximately 65%.
@@ -42,10 +41,9 @@ Canagliflozin is a low-clearance substance, with a mean systemic clearance of ap
 Special populations
 
 Renal impairment
-A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using CrCl based on the Cockroft-Gault equation) compared to healthy subjects.
-The study included 8 subjects with normal renal function
-(CrCl ≥80 mL/min), 8 subjects with mild renal impairment (CrCl 50 mL/min to < 80 mL/min),
-8 subjects with moderate renal impairment (CrCl 30 mL/min to < 50 mL/min), and 8 subjects with severe renal impairment (CrCl < 30 mL/min) as well as 8 subjects with ESKD on haemodialysis.
+A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 200 mg in adult subjects with varying degrees of renal impairment (classified using CrCl based on the Cockroft-Gault equation) compared to healthy subjects.
+The study included 8 adult subjects with normal renal function (CrCl ≥80 mL/min), 8 subjects with mild renal impairment (CrCl 50 mL/min to
+< 80 mL/min), 8 subjects with moderate renal impairment (CrCl 30 mL/min to < 50 mL/min), and 8 subjects with severe renal impairment (CrCl < 30 mL/min) as well as 8 subjects with ESKD on haemodialysis.
 
 The Cmax of canagliflozin was moderately increased by 13%, 29%, and 29% in subjects with mild, moderate, and severe renal failure, respectively, but not in subjects on haemodialysis.
 Compared to healthy subjects, plasma AUC of canagliflozin was increased by approximately 17%, 63%, and 50% in subjects with mild, moderate, and severe renal impairment, respectively, but was similar for ESKD subjects and healthy subjects.
@@ -53,20 +51,20 @@ Compared to healthy subjects, plasma AUC of canagliflozin was increased by appro
 Canagliflozin was negligibly removed by haemodialysis.
 
 Hepatic impairment
-Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
+Relative to adult subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞ of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment.
-Elderly (≥65 years old)
+
+Elderly
 Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin based on a population pharmacokinetic analysis (see sections 4.2, 4.4, and 4.8).
 
 Paediatric population
-
-A paediatric phase 1 study examined the pharmacokinetics and pharmacodynamics of canagliflozin in children and adolescents ≥10 to < 18 years of age with type 2 diabetes mellitus.
-The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
+Pharmacokinetic and pharmacodynamic data collected from phase 1 and phase 3 studies of canagliflozin in children aged 10 years and older with type 2 diabetes mellitus were examined.
+Oral administration of canagliflozin at 100 mg and 300 mg resulted in responses consistent with those found in adult patients.
+Pharmacometric modelling suggests that exposures in low body weight children (weighing < 50 kg) after administration of 300 mg once daily may exceed the adult exposures reached at the same dose (see also sections 4.2 and 4.4).
 
 Other special populations
-
 Pharmacogenetics
 Both UGT1A9 and UGT2B4 are subject to genetic polymorphism.
 In a pooled analysis of clinical data, increases in canagliflozin AUC of 26% were observed in UGT1A9*1/*3 carriers and 18% in UGT2B4*2/*2 carriers.

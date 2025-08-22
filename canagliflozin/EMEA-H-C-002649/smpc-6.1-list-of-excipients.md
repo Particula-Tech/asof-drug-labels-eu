@@ -3,24 +3,24 @@
 Tablet core
 
 Lactose
-Microcrystalline cellulose
-Hydroxypropylcellulose
-Croscarmellose sodium
-Magnesium stearate
+Microcrystalline cellulose (E460[i])
+Hydroxypropyl cellulose (E463)
+Croscarmellose sodium (E468)
+Magnesium stearate (E572)
 
 Film-coating
 
 Invokana 100 mg film-coated tablets
 
-Poly(vinyl alcohol)
+Polyvinyl alcohol (E1203)
 Titanium dioxide (E171)
-Macrogol 3350
-Talc
+Macrogol/PEG 3350 (E1521)
+Talc (E553b)
 Iron oxide yellow (E172)
 
 Invokana 300 mg film-coated tablets
 
-Poly(vinyl alcohol)
+Polyvinyl alcohol (E1203)
 Titanium dioxide (E171)
-Macrogol 3350
-Talc
+Macrogol/PEG 3350 (E1521)
+Talc (E553b)

@@ -17,6 +17,7 @@ Effects of other medicinal products on canagliflozin
 
 The metabolism of canagliflozin is primarily via glucuronide conjugation mediated by UDP glucuronosyl transferase 1A9 (UGT1A9) and 2B4 (UGT2B4).
 Canagliflozin is transported by P-glycoprotein (P-gp) and Breast Cancer Resistance Protein (BCRP).
+
 Enzyme inducers (such as St. John’s wort [Hypericum perforatum], rifampicin, barbiturates, phenytoin, carbamazepine, ritonavir, efavirenz) may decrease the exposure to canagliflozin.
 Following co-administration of canagliflozin with rifampicin (an inducer of various active transporters and medicinal product-metabolising enzymes), 51% and 28% decreases in canagliflozin systemic exposure (AUC) and peak concentration (Cmax) were observed.
 These decreases in exposure to canagliflozin may decrease efficacy.
@@ -36,7 +37,6 @@ Digoxin
 The combination of canagliflozin 300 mg once daily for 7 days with a single dose of digoxin 0.5 mg followed by 0.25 mg daily for 6 days resulted in a 20% increase in AUC and a 36% increase in Cmax of digoxin, probably due to inhibition of P-gp.
 Canagliflozin has been observed to inhibit P-gp in vitro.
 Patients taking digoxin or other cardiac glycosides (e.g., digitoxin) should be monitored appropriately.
-
 Lithium
 The concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations.
 Monitor serum lithium concentration more closely during treatment with canagliflozin, especially during initiation and dosage changes.
@@ -50,6 +50,7 @@ The combination of canagliflozin 300 mg once daily for 6 days with a single dose
 The increases in simvastatin and simvastatin acid exposures are not considered clinically relevant.
 
 Inhibition of BCRP by canagliflozin cannot be excluded at an intestinal level and increased exposure may therefore occur for medicinal products transported by BCRP, e.g. certain statins like rosuvastatin and some anti-cancer medicinal products.
+
 In interaction studies, canagliflozin at steady-state had no clinically relevant effect on the pharmacokinetics of metformin, oral contraceptives (ethinyl estradiol and levonorgestrol), glibenclamide, paracetamol, hydrochlorothiazide, or warfarin.
 
 Medicinal product/Laboratory test interference
@@ -59,3 +60,7 @@ Medicinal product/Laboratory test interference
 Increases in urinary glucose excretion with Invokana can falsely lower 1,5-anhydroglucitol (1,5-AG) levels and make measurements of 1,5-AG unreliable in assessing glycaemic control.
 Therefore, 1,5-AG assays should not be used for assessment of glycaemic control in patients on canagliflozin.
 For further detail, it may be advisable to contact the specific manufacturer of the 1,5-AG assay.
+
+Paediatric population
+
+Interaction studies have only been performed in adults.

@@ -1,10 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
+General
+Canagliflozin should not be used in patients with type 1 diabetes mellitus (see “Diabetic Ketoacidosis” in section 4.4).
+
 Renal impairment
 
 The efficacy of canagliflozin for glycaemic control is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
 
-In patients with an eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported, particularly with the 300 mg dose.
+In adult patients with an eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported, particularly with the 300 mg dose.
 In addition, in such patients more events of elevated potassium and greater increases in serum creatinine and blood urea nitrogen (BUN) were reported (see section 4.8).
 
 Therefore, the canagliflozin dose should be limited to 100 mg once daily in patients with eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min (see section 4.2).
@@ -17,16 +20,16 @@ Monitoring of renal function is recommended as follows:
 - Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter.
 
 There is experience with canagliflozin for the treatment of diabetic kidney disease
-(eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
+(eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria in adult patients.
 While both groups of patients benefitted, patients with albuminuria may benefit more from treatment with canagliflozin.
-
 Use in patients at risk for adverse reactions related to volume depletion
 
 Due to its mechanism of action, canagliflozin, by increasing urinary glucose excretion (UGE) induces an osmotic diuresis, which may reduce intravascular volume and decrease blood pressure (see section 5.1).
-In controlled clinical studies of canagliflozin, increases in adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, or hypotension) were seen more commonly with the 300 mg dose and occurred most frequently in the first three months (see section 4.8).
+In controlled clinical studies of canagliflozin in adults, increases in adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, or hypotension) were seen more commonly with the 300 mg dose and occurred most frequently in the first three months (see section 4.8).
 
 Caution should be exercised in patients for whom a canagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients with an eGFR < 60 mL/min/1.73 m2, patients on anti-hypertensive therapy with a history of hypotension, patients on diuretics, or elderly patients (≥65 years of age) (see sections 4.2 and 4.8).
-Due to volume depletion, generally small mean decreases in eGFR were seen within the first 6 weeks of treatment initiation with canagliflozin.
+
+Due to volume depletion, generally small mean decreases in eGFR were seen within the first 6 weeks of treatment initiation with canagliflozin in adults.
 In patients susceptible to greater reductions in intravascular volume as described above, larger decreases in eGFR (> 30%) were sometimes seen, which subsequently improved, and infrequently required interruption of treatment with canagliflozin (see section 4.8).
 
 Patients should be advised to report symptoms of volume depletion.
@@ -40,7 +43,7 @@ Diabetic ketoacidosis
 
 Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including canagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
-It is not known if DKA is more likely to occur with higher doses of canagliflozin.
+It is not known if DKA is more likely to occur with higher doses of canagliflozin, including in children less than 50 kg body weight, since the exposure with the 300 mg dose may exceed the levels observed in adults (see section 4.2).
 Risk of DKA appears to be higher in patients with moderately to severely decreased renal function who require insulin.
 
 The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
@@ -48,9 +51,10 @@ Patients should be assessed for ketoacidosis immediately if these symptoms occur
 
 In patients where DKA is suspected or diagnosed, treatment with Invokana should be discontinued immediately.
 
-Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
-Monitoring of ketones is recommended in these patients.
-
+Treatment should be interrupted in patients who are hospitalised for acute serious medical illnesses.
+Withhold Invokana, if possible, for an appropriate period of time (days) prior to major surgery, including abdominal and bariatric, or any other invasive procedures associated with prolonged fasting.
+Monitoring for serum ketones is recommended.
+Consider alternative anti-hyperglycaemic therapy, including insulin.
 Measurement of blood ketone levels is preferred to urine.
 Treatment with Invokana may be restarted when the ketone values are normal and the patient’s condition has stabilised.
 
@@ -63,6 +67,7 @@ Insulin deficiency may contribute to prolonged diabetic ketoacidosis and has to 
 
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g., type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
+
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended unless another clear precipitating factor is identified and resolved.
 
 The safety and efficacy of canagliflozin in patients with type 1 diabetes have not been established and canagliflozin should not be used for treatment of patients with type 1 diabetes.
@@ -70,8 +75,8 @@ Limited data from clinical studies suggest that DKA occurs with common frequency
 
 Lower limb amputations
 
-In long-term clinical studies of canagliflozin in patients with type 2 diabetes with established cardiovascular disease (CVD) or at least 2 risk factors for CVD, Invokana was associated with an increased risk of lower limb amputation versus placebo (0.63 vs 0.34 events per 100 patient-years, respectively), and this increase occurred primarily in the toe and midfoot (see section 4.8).
-In a long-term clinical study in patients with type 2 diabetes and diabetic kidney disease, no difference in lower limb amputation risk was observed in patients treated with canagliflozin 100 mg relative to placebo.
+In long-term clinical studies of canagliflozin in adult patients with type 2 diabetes with established cardiovascular disease (CVD) or at least 2 risk factors for CVD, Invokana was associated with an increased risk of lower limb amputation versus placebo (0.63 vs 0.34 events per 100 patient-years, respectively), and this increase occurred primarily in the toe and midfoot (see section 4.8).
+In a long-term clinical study in adult patients with type 2 diabetes and diabetic kidney disease, no difference in lower limb amputation risk was observed in patients treated with canagliflozin 100 mg relative to placebo.
 In this study precautionary measures as outlined below were applied.
 As an underlying mechanism has not been established, risk factors, apart from general risk factors, for amputation are unknown.
 
@@ -87,12 +92,11 @@ This is a rare but serious and potentially life-threatening event that requires 
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
 Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
 If Fournier’s gangrene is suspected, Invokana should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
-
 Elevated haematocrit
 
 Haematocrit increase was observed with canagliflozin treatment (see section 4.8); therefore, careful monitoring in patients with already elevated haematocrit is warranted.
 
-Elderly (≥65 years old)
+Elderly
 
 Elderly patients may be at a greater risk for volume depletion, are more likely to be treated with diuretics, and to have impaired renal function.
 In patients ≥75 years of age, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported.

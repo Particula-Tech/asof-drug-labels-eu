@@ -8,11 +8,10 @@ In an embryo-foetal development study in rats, ossification delays of metatarsal
 It is unknown whether ossification delays can be attributed to effects of canagliflozin on calcium homeostasis observed in adult rats.
 Ossification delays were also observed for the combination of canagliflozin and metformin, which were more prominent than for metformin alone at canagliflozin exposures 43 times and 12 times higher than clinical exposures at 100 mg and 300 mg doses.
 
-In a pre- and postnatal development study, canagliflozin administered to female rats from gestation day 6 to lactation day 20 resulted in decreased body weights in male and female offspring at maternally toxic doses > 30 mg/kg/day (exposures ≥5.9 times the human exposure to canagliflozin at the MHRD).
+In a pre- and postnatal development study, canagliflozin administered to female rats from gestation day 6 to lactation day 20 resulted in decreased body weights in male and female offspring at maternally toxic doses > 30 mg/kg/day (exposures ≥5.9 times the human exposure to canagliflozin at the MRHD).
 Maternal toxicity was limited to decreased body weight gain.
-
-A study in juvenile rats administered canagliflozin from day 1 through day 90 postnatal did not show increased sensitivity compared to effects observed in adults rats.
-However, dilatation of the renal pelvis was noticed with a No Observed Effect Level (NOEL) at exposures 2.4 times and 0.6 times the clinical exposures at 100 mg and 300 mg doses, respectively, and did not fully reverse within the approximately 1-month recovery period.
+A study in juvenile rats administered canagliflozin from day 21 through day 90 postnatal did not show increased sensitivity compared to effects observed in adults rats.
+However, dilatation of the renal pelvis was noticed with a No Observed Effect Level (NOEL) at exposures 2.4 times and 0.5 times the clinical exposures at 100 mg and 300 mg doses, respectively, and did not fully reverse within the approximately 1-month recovery period.
 Persistent renal findings in juvenile rats can most likely be attributed to reduced ability of the developing rat kidney to handle canagliflozin-increased urine volumes, as functional maturation of the rat kidney continues through 6 weeks of age.
 
 Canagliflozin did not increase the incidence of tumours in male and female mice in a 2-year study at doses of 10, 30, and 100 mg/kg.

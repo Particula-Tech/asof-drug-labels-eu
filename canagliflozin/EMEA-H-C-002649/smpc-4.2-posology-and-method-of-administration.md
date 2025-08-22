@@ -15,7 +15,7 @@ When canagliflozin is used as add-on therapy with insulin or an insulin secretag
 
 Special populations
 
-Elderly (≥65 years old)
+Elderly
 Renal function and risk of volume depletion should be taken into account (see section 4.4).
 
 Renal impairment
@@ -23,7 +23,7 @@ For treatment of diabetic kidney disease as add on to standard of care (eg ACE-i
 Because the glycaemic lowering efficacy of canagliflozin is reduced in patients with moderate renal impairment and likely absent in patients with severe renal impairment, if further glycaemic control is needed, the addition of other anti-hyperglycaemic agents should be considered.
 For dose adjustment recommendations according to eGFR refer to table 1.
 
-Table 1: Dose adjustment recommendationsa
+Table 1: Dose adjustment recommendations in adults and children aged 10 years and oldera
 
 | eGFR (mL/min/1.73 m2) or CrCl (mL/min) | Total daily dose of canagliflozin |
 | --- | --- |
@@ -38,10 +38,12 @@ Hepatic impairment
 For patients with mild or moderate hepatic impairment, no dose adjustment is required.
 
 Canagliflozin has not been studied in patients with severe hepatic impairment and is not recommended for use in these patients (see section 5.2).
-
 Paediatric population
-The safety and efficacy of canagliflozin in children under 18 years of age have not yet been established.
-No data are available.
+No dose adjustment is required for the treatment of type 2 diabetes mellitus in children aged 10 years and older (see sections 5.1 and 5.2).
+In children weighing < 50 kg, caution is advised when up-titrating to the 300 mg dose, since safety data are limited (see section 4.4).
+
+The safety and effectiveness of Invokana have not been established in children below 10 years of age.
+
 Method of administration
 
 For oral use

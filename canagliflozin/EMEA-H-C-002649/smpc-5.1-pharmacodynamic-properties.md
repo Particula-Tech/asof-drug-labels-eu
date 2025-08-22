@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excluding insulins.
 ATC code: A10BK02.
+
 Mechanism of action
 
 The SGLT2 transporter, expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
@@ -21,7 +22,7 @@ Canagliflozin increases the delivery of sodium to the distal tubule by blocking 
 
 Pharmacodynamic effects
 
-Following single and multiple oral doses of canagliflozin to patients with type 2 diabetes, dose-dependent decreases in RTG and increases in UGE were observed.
+Following single and multiple oral doses of canagliflozin to adult patients with type 2 diabetes, dose-dependent decreases in RTG and increases in UGE were observed.
 From a starting value of RTG of approximately 13 mmol/L, maximal suppression of 24-hour mean RTG was seen with the 300 mg daily dose to approximately 4 mmol/L to 5 mmol/L in patients with type 2 diabetes in phase 1 studies, suggesting a low risk for treatment-induced hypoglycaemia.
 The reductions in RTG led to increased UGE in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin ranging from 77 g/day to 119 g/day across the phase 1 studies; the UGE observed translates to a loss of 308 kcal/day to 476 kcal/day.
 The reductions in RTG and increases in UGE were sustained over a 26-week dosing period in patients with type 2 diabetes.
@@ -29,19 +30,21 @@ Moderate increases (generally < 400 mL to 500 mL) in daily urine volume were see
 Urinary uric acid excretion was transiently increased by canagliflozin (increased by 19% compared to baseline on day 1 and then attenuating to 6% on day 2 and 1% on day 13).
 This was accompanied by a sustained reduction in serum uric acid concentration of approximately 20%.
 
-In a single-dose study in patients with type 2 diabetes, treatment with 300 mg before a mixed meal delayed intestinal glucose absorption and reduced postprandial glucose through both a renal and a non-renal mechanism.
+In a single-dose study in adult patients with type 2 diabetes, treatment with 300 mg before a mixed meal delayed intestinal glucose absorption and reduced postprandial glucose through both a renal and a non-renal mechanism.
 
 Clinical efficacy and safety
 
 Improvement in glycaemic control and reduction of cardiovascular and renal morbidity and mortality are integral parts of the treatment of type 2 diabetes.
-Glycaemic efficacy and safety
-A total of 10,501 patients with type 2 diabetes participated in ten double-blind, controlled clinical efficacy and safety studies conducted to evaluate the effects of Invokana on glycaemic control.
+
+Glycaemic efficacy and safety in adult patients
+A total of 10,501 adult patients with type 2 diabetes participated in ten double-blind, controlled clinical efficacy and safety studies conducted to evaluate the effects of Invokana on glycaemic control.
 The racial distribution was 72% White, 16% Asian, 5% Black, and 8% other groups.
 17% of patients were Hispanic.
 58% of patients were male.
 Patients had an overall mean age of 59.5 years (range 21 years to 96 years), with 3,135 patients ≥65 years of age and 513 patients ≥75 years of age.
 58% of patients had a body mass index (BMI) ≥30 kg/m2.
-In the clinical development programme, 1,085 patients with a baseline eGFR 30 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 were evaluated.
+In the clinical development programme,
+1,085 patients with a baseline eGFR 30 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 were evaluated.
 
 Placebo-controlled studies
 
@@ -75,13 +78,13 @@ Table 4: Efficacy results from placebo-controlled clinical studiesa
 | Baseline (mean) | 7.94 | 7.95 | 7.96 |
 | Change from baseline (adjusted mean) | -0.79 | -0.94 | -0.17 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.62b (-0.76; -0.48) | -0.77b (-0.91; -0.64) | N/Ac |
+| Patients (%) achieving HbA1c < 7% | 45.5b | 57.8b | 29.8 |
+| Body weight |  |  |  |
+| Baseline (mean) in kg | 88.7 | 85.4 | 86.7 |
+| % change from baseline (adjusted mean) | -3.7 | -4.2 | -1.2 |
 
-| Patients (%) achieving HbA1c < 7% | 45.5b | 57.8b |  | 29.8 |
-| --- | --- | --- | --- | --- |
-| Body weight |  |  |  |  |
-| Baseline (mean) in kg | 88.7 | 85.4 |  | 86.7 |
-| % change from baseline (adjusted mean) | -3.7 | -4.2 |  | -1.2 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.5b (-3.1; -1.9) | -2.9b (-3.5; -2.3) |  | N/Ac |
+| --- | --- | --- | --- | --- |
 | Triple therapy with metformin and sulphonylurea (26 weeks) |  |  |  |  |
 |  | Canagliflozin + metformin and sulphonylurea |  |  | Placebo + metformin and sulphonylurea (N = 156) |
 |  | 100 mg (N = 157) | 300 mg (N = 156) |  |  |
@@ -113,13 +116,13 @@ Table 4: Efficacy results from placebo-controlled clinical studiesa
 | Change from baseline (adjusted mean) | -0.91 |  | -0.01 |  |
 | Difference from placebo (adjusted mean) (95% CI) | -0.89b (-1.19; -0.59) |  |  |  |
 | Patients (%) achieving HbA1c < 7% | 32f |  | 12 |  |
+| Fasting Plasma Glucose (mg/dL) |  |  |  |  |
+| Baseline (mean) | 186 |  | 180 |  |
+| Change from baseline (adjusted mean) | -30 |  | -3 |  |
+| Difference from placebo (adjusted mean) (95% CI) | -27b (-40; -14) |  |  |  |
 
-| Fasting Plasma Glucose (mg/dL) |  |  |
-| --- | --- | --- |
-| Baseline (mean) | 186 | 180 |
-| Change from baseline (adjusted mean) | -30 | -3 |
-| Difference from placebo (adjusted mean) (95% CI) | -27b (-40; -14) |  |
 | Body Weight |  |  |
+| --- | --- | --- |
 | Baseline (mean) in kg | 93.8 | 89.9 |
 | % change from baseline (adjusted mean) | -3.4 | -1.6 |
 | Difference from placebo (adjusted mean) (95% CI) | -1.8b (-2.7; -0.9) |  |
@@ -136,7 +139,7 @@ Active-controlled studies
 
 Canagliflozin was compared to glimepiride as dual therapy with metformin and compared to sitagliptin as triple therapy with metformin and a sulphonylurea (table 5).
 Canagliflozin 100 mg as dual therapy with metformin produced similar reductions in HbA1c from baseline and 300 mg produced superior (p < 0.05) reductions in HbA1c compared to glimepiride, thus demonstrating non-inferiority.
-A lower proportion of patients treated with canagliflozin 100 mg (5.6%) and canagliflozin 300 mg (4.9%) experienced at least one episode/event of hypoglycaemia over 52 weeks of treatment compared to the group treated with glimepiride (34.2%).
+A lower proportion of adult patients treated with canagliflozin 100 mg (5.6%) and canagliflozin 300 mg (4.9%) experienced at least one episode/event of hypoglycaemia over 52 weeks of treatment compared to the group treated with glimepiride (34.2%).
 In a study comparing canagliflozin 300 mg to sitagliptin 100 mg in triple therapy with metformin and a sulphonylurea, canagliflozin demonstrated non-inferior (p < 0.05) and superior (p < 0.05) reduction in HbA1c relative to sitagliptin.
 The incidence of hypoglycaemia episodes/events with canagliflozin 300 mg and sitagliptin 100 mg was 40.7% and 43.2%, respectively.
 Significant improvements in body weight and reductions in systolic blood pressure compared to both glimepiride and sitagliptin were also observed.
@@ -177,7 +180,7 @@ d p < 0.001.
 
 Canagliflozin as initial combination therapy with metformin
 
-Canagliflozin was evaluated in combination with metformin as initial combination therapy in patients with type 2 diabetes failing diet and exercise.
+Canagliflozin was evaluated in combination with metformin as initial combination therapy in adult patients with type 2 diabetes failing diet and exercise.
 Canagliflozin 100 mg and canagliflozin 300 mg in combination with metformin XR resulted in a statistically significant greater improvement in HbA1C compared to their respective canagliflozin doses (100 mg and 300 mg) alone or metformin XR alone (table 6).
 
 Table 6: Results from 26-week active-controlled clinical study of canagliflozin as initial combination therapy with metformin*
@@ -212,19 +215,19 @@ A total of 714 patients ≥55 years of age to ≤80 years of age (227 patients 6
 Statistically significant
 (p < 0.001) changes from baseline HbA1c relative to placebo of -0.57% and -0.70% were observed for 100 mg and 300 mg, respectively (see sections 4.2 and 4.8).
 
-Patients with eGFR < 60 mL/min/1.73 m2
-In a pooled analysis of patients (N = 721) with a baseline eGFR 45 mL/min/1.73 m2 to
+Adult patients with eGFR < 60 mL/min/1.73 m2
+In a pooled analysis of adult patients (N = 721) with a baseline eGFR 45 mL/min/1.73 m2 to
 < 60 mL/min/1.73 m2, canagliflozin provided clinically meaningful reduction in HbA1c compared to placebo, with -0.47% for canagliflozin 100 mg and -0.52% for canagliflozin 300 mg.
 Patients with a baseline eGFR 45 mL/min/1.73 m2 to < 60 mL/min/1.73 m2 treated with canagliflozin 100 mg and 300 mg exhibited mean improvements in percent change in body weight relative to placebo of -1.8% and -2.0%, respectively.
 
-In a pooled analysis of patients (N = 348) with a baseline eGFR < 45 mL/min/1.73 m2, canagliflozin provided a modest reduction in HbA1c compared to placebo, with -0.23% for canagliflozin 100 mg and -0.39% for canagliflozin 300 mg.
+In a pooled analysis of adult patients (N = 348) with a baseline eGFR < 45 mL/min/1.73 m2, canagliflozin provided a modest reduction in HbA1c compared to placebo, with -0.23% for canagliflozin 100 mg and -0.39% for canagliflozin 300 mg.
 
 The majority of patients with a baseline eGFR < 60 mL/min/1.73 m2 were on insulin and/or a sulphonylurea.
 Consistent with the expected increase of hypoglycaemia when a medicinal product not associated with hypoglycaemia is added to insulin and/or sulphonylurea, an increase in hypoglycaemia episodes/events was seen when canagliflozin was added to insulin and/or a sulphonylurea (see section 4.8).
 
 Fasting plasma glucose
 
-In four placebo-controlled studies, treatment with canagliflozin as monotherapy or add-on therapy with one or two oral glucose-lowering medicinal products resulted in mean changes from baseline relative to placebo in FPG of -1.2 mmol/L to -1.9 mmol/L for canagliflozin 100 mg and -1.9 mmol/L to -2.4 mmol/L for canagliflozin 300 mg, respectively.
+In four placebo-controlled studies in adults, treatment with canagliflozin as monotherapy or add-on therapy with one or two oral glucose-lowering medicinal products resulted in mean changes from baseline relative to placebo in FPG of -1.2 mmol/L to -1.9 mmol/L for canagliflozin 100 mg and -1.9 mmol/L to -2.4 mmol/L for canagliflozin 300 mg, respectively.
 These reductions were sustained over the treatment period and near maximal after the first day of treatment.
 
 Postprandial glucose
@@ -234,20 +237,20 @@ Using a mixed-meal challenge, canagliflozin as monotherapy or add-on therapy wit
 Body weight
 
 Canagliflozin 100 mg and 300 mg as monotherapy and as dual or triple add-on therapy resulted in statistically significant reductions in the percentage of body weight at 26 weeks relative to placebo.
-In two 52-week active-controlled studies comparing canagliflozin to glimepiride and sitagliptin, sustained and statistically significant mean reductions in the percentage of body weight for canagliflozin as add-on therapy to metformin were -4.2% and -4.7% for canagliflozin 100 mg and 300 mg, respectively, compared to the combination of glimepiride and metformin (1.0%) and -2.5% for canagliflozin 300 mg in combination with metformin and a sulphonylurea compared to sitagliptin in combination with metformin and a sulphonylurea (0.3%).
+In two 52-week active-controlled studies in adults comparing canagliflozin to glimepiride and sitagliptin, sustained and statistically significant mean reductions in the percentage of body weight for canagliflozin as add-on therapy to metformin were -4.2% and -4.7% for canagliflozin 100 mg and 300 mg, respectively, compared to the combination of glimepiride and metformin (1.0%) and -2.5% for canagliflozin 300 mg in combination with metformin and a sulphonylurea compared to sitagliptin in combination with metformin and a sulphonylurea (0.3%).
 
-A subset of patients (N = 208) from the active-controlled dual therapy study with metformin who underwent dual energy X-ray densitometry (DXA) and abdominal computed tomography (CT) scans for evaluation of body composition demonstrated that approximately two-thirds of the weight loss with canagliflozin was due to loss of fat mass with similar amounts of visceral and abdominal subcutaneous fat being lost.
+A subset of adult patients (N = 208) from the active-controlled dual therapy study with metformin who underwent dual energy X-ray densitometry (DXA) and abdominal computed tomography (CT) scans for evaluation of body composition demonstrated that approximately two-thirds of the weight loss with canagliflozin was due to loss of fat mass with similar amounts of visceral and abdominal subcutaneous fat being lost.
 Two hundred eleven (211) patients from the clinical study in older patients participated in a body composition substudy using DXA body composition analysis.
 This demonstrated that approximately two-thirds of the weight loss associated with canagliflozin was due to loss of fat mass relative to placebo.
 There were no meaningful changes in bone density in trabecular and cortical regions.
 
 Blood pressure
 
-In placebo-controlled studies, treatment with canagliflozin 100 mg and 300 mg resulted in mean reductions in systolic blood pressure of -3.9 mmHg and -5.3 mmHg, respectively, compared to placebo (-0.1 mmHg) and a smaller effect on diastolic blood pressure with mean changes for canagliflozin 100 mg and 300 mg of -2.1 mmHg and -2.5 mmHg, respectively, compared to placebo (-0.3 mmHg).
+In placebo-controlled studies in adults, treatment with canagliflozin 100 mg and 300 mg resulted in mean reductions in systolic blood pressure of -3.9 mmHg and -5.3 mmHg, respectively, compared to placebo (-0.1 mmHg) and a smaller effect on diastolic blood pressure with mean changes for canagliflozin 100 mg and 300 mg of -2.1 mmHg and -2.5 mmHg, respectively, compared to placebo (-0.3 mmHg).
 There was no notable change in heart rate.
 Patients with baseline HbA1c > 10% to ≤12%
 
-A substudy of patients with baseline HbA1c > 10% to ≤12% with canagliflozin as monotherapy resulted in reductions from baseline in HbA1c (not placebo-adjusted) of -2.13% and -2.56% for canagliflozin 100 mg and 300 mg, respectively.
+A substudy of adult patients with baseline HbA1c > 10% to ≤12% with canagliflozin as monotherapy resulted in reductions from baseline in HbA1c (not placebo-adjusted) of -2.13% and -2.56% for canagliflozin 100 mg and 300 mg, respectively.
 
 Cardiovascular outcomes in the CANVAS Program
 
@@ -259,7 +262,7 @@ In CANVAS, subjects were randomly assigned 1:1:1 to canagliflozin 100 mg, canagl
 In CANVAS-R, subjects were randomly assigned 1:1 to canagliflozin 100 mg or matching placebo, and titration to 300 mg was permitted (based on tolerability and glycaemic needs) after Week 13.
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, according to the standard care for these diseases.
 
-A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) for a mean exposure duration of 149 weeks (223 weeks in CANVAS and 94 weeks in CANVAS-R).
+A total of 10,134 adult patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) for a mean exposure duration of 149 weeks (223 weeks in CANVAS and 94 weeks in CANVAS-R).
 Vital status was obtained for 99.6% of subjects across the studies.
 The mean age was 63 years and 64% were male.
 Sixty-six percent of subjects had a history of established cardiovascular disease, with 56% having a history of coronary disease, 19% with cerebrovascular disease, and 21% with peripheral vascular disease; 14% had a history of heart failure.
@@ -279,9 +282,8 @@ Based on the Kaplan-Meier plot for the first occurrence of MACE, shown below, th
 
 Figure 1: Time to first occurrence of MACE
 
-There were 2,011 patients with eGFR 30 to < 60 mL/min/1.73 m2.
-The MACE findings in the 30 to
-< 60 mL/min/1.73 m2, 30 to < 45 mL/min/1.73 m2 and 45 to < 60 mL/min/1.73 m2 subgroups were consistent with the overall findings.
+There were 2,011 adult patients with eGFR 30 to < 60 mL/min/1.73 m2.
+The MACE findings in the 30 to < 60 mL/min/1.73 m2, 30 to < 45 mL/min/1.73 m2 and 45 to < 60 mL/min/1.73 m2 subgroups were consistent with the overall findings.
 
 Each MACE component positively contributed to the overall composite, as shown in Figure 2.
 Results for the 100 mg and 300 mg canagliflozin doses were consistent with results for the combined dose groups.
@@ -313,7 +315,7 @@ Canagliflozin 300 mg was not investigated in this study.
 In CREDENCE, subjects were randomly assigned 1:1 to canagliflozin 100 mg or placebo, stratified by screening eGFR 30 to <45, 45 to <60, 60 to <90 mL/min/1.73 m2.
 Treatment with canagliflozin 100 mg was continued in patients until the initiation of dialysis or in the event of renal transplantation.
 
-A total of 4,397 subjects were treated and exposed for a mean of 115 weeks.
+A total of 4,397 adult subjects were treated and exposed for a mean of 115 weeks.
 The mean age was 63 years and 66% were male.
 
 The mean baseline HbA1c was 8.3% and baseline median urine albumin/creatinine was 927 mg/g.
@@ -347,4 +349,11 @@ In CREDENCE, the incidence rate for renal-related adverse events was lower in th
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with canagliflozin in one or more subsets of the paediatric population in type 2 diabetes (see section 4.2 for information on paediatric use).
+Glycaemic efficacy and safety in children aged 10 years and older
+The DIA3018 study was a randomised, double-blind, placebo-controlled, 2-arm, parallel-group, multicentre study of 52-week duration with a 26-week core double-blind treatment period, followed by a 26-week double-blind extension treatment period.
+The study enrolled children aged 10 years and older with type 2 diabetes mellitus and inadequate glycaemic control (HbA1c ≥6.5% to ≤11.0%) who prior to screening were on diet and exercise only, or as adjunct to diet and exercise were on a stable dose of metformin (with or without insulin) or on a stable insulin monotherapy.
+A total of 171 patients were randomised to 2 treatment groups (Invokana 100 mg or placebo).
+The mean age of the patients was 14.3 years, with 47.4% of them being under 15 years old.
+Out of the 84 patients who received Invokana, 33 patients who had HbA1c ≥7.0% and eGFR ≥60 mL/min/1.73 m2 at Week 12 were re-randomised at Week 13, with 16 continuing on 100 mg and 17 being up-titrated to 300 mg.
+At baseline, the mean HbA1C was 8.0% (8.3% in the placebo group and 7.8% in the canagliflozin group).
+The difference in the adjusted mean change in HbA1c at Week 26 between canagliflozin (N=77) and placebo (N=80) of -0.76% was clinically meaningful and statistically significant (95% CI -1.25, -0.27; p=0.002).

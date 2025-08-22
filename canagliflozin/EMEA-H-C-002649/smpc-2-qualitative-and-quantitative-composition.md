@@ -5,7 +5,7 @@ Invokana 100 mg film-coated tablets
 Each tablet contains canagliflozin hemihydrate, equivalent to 100 mg canagliflozin.
 
 Excipient(s) with known effect
-Each tablet contains 39.2 mg lactose.
+Each tablet contains 39.26 mg lactose.
 
 Invokana 300 mg film-coated tablets
 
