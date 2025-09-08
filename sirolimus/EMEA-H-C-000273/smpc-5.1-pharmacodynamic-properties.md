@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants,
-ATC code: L04AA10.
+Pharmacotherapeutic group: Immunosuppressants, ATC code: L04AH01.
 
 Sirolimus inhibits T-cell activation induced by most stimuli, by blocking calcium-dependent and calcium-independent intracellular signal transduction.
 Studies demonstrated that its effects are mediated by a mechanism that is different from that of ciclosporin, tacrolimus, and other immunosuppressive agents.
