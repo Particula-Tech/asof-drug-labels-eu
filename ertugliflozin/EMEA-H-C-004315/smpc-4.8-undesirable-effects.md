@@ -27,12 +27,14 @@ Table 1: Adverse reactions from placebo- and active comparator-controlled clinic
 | Infections and infestations |  |
 | Very common | Urinary tract infections† Vulvovaginal mycotic infection and other female genital mycotic infections*,† |
 | Common | Balanitis candida and other male genital mycotic infections*,† |
-| Not known | Necrotising fasciitis of the perineum (Fournier’s gangrene)* |
+| Not known | Necrotising fasciitis of the perineum (Fournier’s gangrene)*,a |
 | Metabolism and nutrition disorders |  |
 | Common | Hypoglycaemia*,† |
 | Rare | DKA*,† |
 | Vascular disorders |  |
 | Common | Volume depletion*,† |
+| Skin and subcutaneous tissue disorders |  |
+| Not known | Rasha |
 | Renal and urinary disorders |  |
 | Common | Increased urination‡ |
 | Uncommon | Dysuria, Blood creatinine increased/Glomerular filtration rate decreased† |
@@ -51,6 +53,7 @@ Table 1: Adverse reactions from placebo- and active comparator-controlled clinic
 Median percent changes from baseline for ertugliflozin 5 mg and 15 mg versus placebo, respectively, were triglycerides -3.9% and -1.7% versus 4.5%.
 ** The proportion of subjects having at least 1 increase in haemoglobin > 2.0 g/dL was higher in the ertugliflozin 5 mg and 15 mg groups (4.7% and 4.1%, respectively) compared to the placebo group (0.6%).
 ¶¶ The proportion of subjects having any occurrence of blood urea nitrogen (BUN) values ≥ 50% increase and value >upper limit of normal (ULN) was numerically higher in the ertugliflozin 5 mg group and higher in the 15 mg group (7.9% and 9.8%, respectively) relative to the placebo group (5.1%).
+a Adverse reactions were identified through post-marketing surveillance.
 Description of selected adverse reactions
 
 Volume depletion

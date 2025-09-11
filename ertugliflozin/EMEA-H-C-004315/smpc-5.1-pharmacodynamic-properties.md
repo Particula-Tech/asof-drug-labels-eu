@@ -125,7 +125,7 @@ Table 7: Results at Week 26 from a combination therapy study of ertugliflozin an
 |  | Ertugliflozin 5 mg + Sitagliptin | Ertugliflozin 15 mg + Sitagliptin | Placebo |
 | --- | --- | --- | --- |
 | HbA1c (%) Baseline (mean) Change from baseline (LS mean†) Difference from placebo (LS mean† and 95% CI) | N = 98 8.9 -1.6 -1.2‡ (-1.5, -0.8) | N = 96 9.0 -1.7 -1.2‡ (-1.6, -0.9) | N = 96 9.0 -0.4 |
-| Patients [N (%)] with HbA1c <7% | 35 (35.7) § | 30 (31.3)§ | 8 (8.3) |
+| Patients [N (%)] with HbA1c <7% | 35 (35.7)§ | 30 (31.3)§ | 8 (8.3) |
 | Body weight (kg) Baseline (mean) Change from baseline (LS mean†) Difference from placebo (LS mean†, 95% CI) | N = 98 90.8 -2.9 -2.0‡ (-3.0, -1.0) | N = 96 91.3 -3.0 -2.1‡ (-3.1, -1.1) | N = 97 95.0 -0.9 |
 
 * N includes all patients who received at least one dose of study medication and had at least one measurement of the outcome variable.
