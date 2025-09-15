@@ -1,8 +1,8 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Median time to reach maximum plasma concentrations occurs between 1 to 4 hours post-dose following repeated oral administration of teriflunomide, with high bioavailability (approximately 100%).
 
+Median time to reach maximum plasma concentrations occurs between 1 to 4 hours post-dose following repeated oral administration of teriflunomide, with high bioavailability (approximately 100%).
 Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.
 
 From the mean predicted pharmacokinetic parameters calculated from the population pharmacokinetic (PopPK) analysis using data from healthy volunteers and MS patients, there is a slow approach to steady-state concentration (i.e., approximately 100 days (3.5 months) to attain 95% of steady-state concentrations) and the estimated AUC accumulation ratio is approximately 34-fold.
@@ -41,9 +41,10 @@ Linearity/non-linearity
 Systemic exposure increases in a dose proportional manner after oral administration teriflunomide from 7 to 14 mg.
 
 Characteristics in specific groups of patients
+
 Gender and elderly
 Several sources of intrinsic variability were identified in healthy subjects and MS patients based on the PopPK analysis: age, body weight, gender, race, and albumin and bilirubin levels.
-Nevertheless, their impact remains limited (≤31%).
+Nevertheless, their impact remains limited ( 31%).
 
 Hepatic impairment
 Mild and moderate hepatic impairment had no impact on the pharmacokinetic of teriflunomide.

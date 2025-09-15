@@ -11,7 +11,7 @@ Breast-feeding women (see section 4.6).
 
 Patients with severe immunodeficiency states, e.g. acquired immunodeficiency syndrome (AIDS).
 
-Patients with significantly impaired bone marrow function or significant anaemia, leucopenia, neutropenia or thrombocytopenia.
+Patients with significantly impaired bone marrow function or significant anaemia, leukopenia, neutropenia or thrombocytopenia.
 Patients with severe active infection until resolution (see section 4.4).
 
 Patients with severe renal impairment undergoing dialysis, because insufficient clinical experience is available in this patient group.

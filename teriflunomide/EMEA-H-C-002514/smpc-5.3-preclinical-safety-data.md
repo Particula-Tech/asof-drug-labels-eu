@@ -2,7 +2,7 @@
 
 Repeated-dose toxicity
 
-Repeated oral administration of teriflunomide to mice, rats and dogs for up to 3, 6, and 12 months, respectively, revealed that the major targets of toxicity were the bone marrow, lymphoid organs, oral cavity/gastro intestinal tract, reproductive organs, and pancreas.
+Repeated oral administration of teriflunomide to mice, rats and dogs for up to 3, 6, and 12 months, respectively, revealed that the major targets of toxicity were the bone marrow, lymphoid organs, oral cavity/gastrointestinal tract, reproductive organs, and pancreas.
 Evidence of an oxidative effect on red blood cells was also observed.
 Anaemia, decreased platelet counts and effects on the immune system, including leukopenia, lymphopenia and secondary infections, were related to the effects on the bone marrow and/or lymphoid organs.
 The majority of effects reflect the basic mode of action of the compound (inhibition of dividing cells).

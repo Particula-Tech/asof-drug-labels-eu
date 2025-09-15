@@ -33,7 +33,7 @@ Therefore, when warfarin is co-administered with teriflunomide, close INR follow
 
 Effect of teriflunomide on organic anion transporter 3 (OAT3) substrates
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of OAT3 in vivo.
-Therefore, when teriflunomide is coadministered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indometacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
+Therefore, when teriflunomide is coadministered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
 Effect of teriflunomide on BCRP and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide.

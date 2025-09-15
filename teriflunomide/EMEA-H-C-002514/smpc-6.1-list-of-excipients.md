@@ -2,7 +2,7 @@
 
 Tablet core
 
-lactose monohydrate maize starch microcrystalline cellulose sodium starch glycolate (Type A) hydroxypropylcellulose magnesium stearate
+lactose monohydrate maize starch microcrystalline cellulose sodium starch glycolate (Type A) hydroxypropyl cellulose magnesium stearate
 
 Tablet coating
 

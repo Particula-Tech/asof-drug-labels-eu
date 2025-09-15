@@ -81,7 +81,7 @@ Haematological effects
 A mean decrease less than 15% from baseline affecting white blood cell count has been observed (see section 4.8).
 As a precaution, a recent complete blood cell count, including differential white blood cell count and platelets, should be available before the initiation of treatment and the complete blood cell count should be assessed during therapy as indicated by clinical signs and symptoms (e.g., infections).
 
-In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
+In patients with pre-existing anaemia, leukopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
 

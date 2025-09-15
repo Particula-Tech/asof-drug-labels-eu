@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, Selective immunosuppressants, ATC Code: L04AA31
+Pharmacotherapeutic group: Immunosuppressants, Dihydroorotate dehydrogenase (DHODH) inhibitors, ATC Code: L04AK02
 
 Mechanism of action
 
@@ -49,7 +49,7 @@ The mean duration of disease, since first symptoms, was 8.0 years.
 A majority of patients (67.2%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
 
-Table 1 ­ Main results (for the approved dose, ITT population)
+Table 1 - Main results (for the approved dose, ITT population)
 
 |  | TEMSO-study |  | TOWER-study |  |
 | --- | --- | --- | --- | --- |
@@ -108,7 +108,6 @@ At entry, study patients had an EDSS score ≤5.5; the mean age was 14.6 years; 
 All patients had relapsing remitting MS with the median EDSS score of 1.5 at baseline.
 The mean treatment time was 362 days on placebo and 488 days on teriflunomide.
 Switching from the double-blind period to open-label treatment due to high MRI activity was more frequent than anticipated, and more frequent and earlier in the placebo group than in the teriflunomide group (26% on placebo, 13% on teriflunomide).
-
 Teriflunomide reduced the risk of clinical relapse by 34% relative to placebo, without reaching statistical significance (p = 0.29) (Table 2).
 In the pre-defined sensitivity analysis, teriflunomide achieved a statistically significant reduction in the combined risk of clinical relapse or high MRI activity by 43% relative to placebo (p = 0.04) (Table 2).
 
@@ -121,8 +120,8 @@ Table 2 - Clinical and MRI results of EFC11759/TERIKIDS
 | Clinical endpoints |  |  |
 | Time to first confirmed clinical relapse, Probability (95%CI) of confirmed relapse at Week 96 Probability (95%CI) of confirmed relapse at Week 48 | 0.39 (0.29, 0.48) 0.30 (0.21, 0.39) | 0.53 (0.36, 0.68) 0.39 (0.30, 0.52) |
 | Hazard Ratio (95% CI) | 0.66 (0.39, 1.11)^ |  |
-| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 Probability (95%CI) of confirmed relapse or high MRI activity at Week 48 | 0.51 (0.41, 0.60) | 0.72 (0.58, 0.82) |
-|  | 0.38 (0.29, 0.47) | 0.56 (0.42, 0.68) |
+| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 | 0.51 (0.41, 0.60) | 0.72 (0.58, 0.82) |
+| Probability (95%CI) of confirmed relapse or high MRI activity at Week 48 | 0.38 (0.29, 0.47) | 0.56 (0.42, 0.68) |
 | Hazard Ratio (95% CI) | 0.57 (0.37, 0.87)* |  |
 | Key MRI endpoints |  |  |
 | Adjusted number of new or enlarged T2 lesions, Estimate (95% CI) Estimate (95% CI), post-hoc analysis also adjusted for baseline T2 counts | 4.74 (2.12, 10.57) 3.57 (1.97, 6.46) | 10.52 (4.71, 23.50) 5.37 (2.84, 10.16) |
