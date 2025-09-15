@@ -2,4 +2,8 @@
 
 {MM/YYYY}
 
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+[ZYPREXA 10 mg powder for solution for injection]
+
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
