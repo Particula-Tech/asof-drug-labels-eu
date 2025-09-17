@@ -10,19 +10,24 @@ Each pre-filled pen contains 1.5 ml of solution, delivering 4 doses of 0.25 mg.
 1 pre-filled pen and 4 disposable NovoFine Plus needles
 
 Ozempic 0.5 mg solution for injection
-1.5 mL: Each pre-filled pen contains 1.5 ml of solution, delivering 4 doses of 0.5 mg.
+1.5 ml: Each pre-filled pen contains 1.5 ml of solution, delivering 4 doses of 0.5 mg.
 1 pre-filled pen and 4 disposable NovoFine Plus needles
 3 pre-filled pens and 12 disposable NovoFine Plus needles
 
-3 mL: Each pre-filled pen contains 3 mL of solution, delivering 4 doses of 0.5 mg.
+3 ml: Each pre-filled pen contains 3 ml of solution, delivering 4 doses of 0.5 mg.
 1 pre-filled pen and 4 disposable NovoFine Plus needles
 3 pre-filled pens and 12 disposable NovoFine Plus needles
+
+3 ml: Each pre-filled pen contains 3 ml of solution, delivering 8 doses of 0.5 mg.
+1 pre-filled pen and 8 disposable NovoFine Plus needles
 
 Ozempic 1 mg solution for injection
 Each pre-filled pen contains 3 ml of solution, delivering 4 doses of 1 mg.
 1 pre-filled pen and 4 disposable NovoFine Plus needles
 3 pre-filled pens and 12 disposable NovoFine Plus needles
 
+Each pre-filled pen contains 3 ml of solution, delivering 8 doses of 1 mg.
+1 pre-filled pen and 8 disposable NovoFine Plus needles
 Ozempic 2 mg solution for injection
 Each pre-filled pen contains 3 ml of solution, delivering 4 doses of 2 mg.
 1 pre-filled pen and 4 disposable NovoFine Plus needles

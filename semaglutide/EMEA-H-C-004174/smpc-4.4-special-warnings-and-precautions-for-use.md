@@ -12,6 +12,10 @@ Diabetic ketoacidosis has been reported in insulin-dependent patients whom had r
 
 There is no experience in patients with congestive heart failure NYHA class IV and semaglutide is therefore not recommended in these patients.
 
+Aspiration in association with general anaesthesia or deep sedation
+
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation.
+Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 Gastrointestinal effects
 
 Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions.
@@ -23,6 +27,7 @@ Acute pancreatitis has been observed with the use of GLP-1 receptor agonists.
 Patients should be informed of the characteristic symptoms of acute pancreatitis.
 If pancreatitis is suspected, semaglutide should be discontinued; if confirmed, semaglutide should not be restarted.
 Caution should be exercised in patients with a history of pancreatitis.
+
 Hypoglycaemia
 
 Patients treated with semaglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia.

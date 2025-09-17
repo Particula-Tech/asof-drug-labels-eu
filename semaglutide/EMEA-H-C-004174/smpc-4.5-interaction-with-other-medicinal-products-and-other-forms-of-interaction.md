@@ -22,6 +22,7 @@ Atorvastatin
 Semaglutide did not change the overall exposure of atorvastatin following a single dose administration of atorvastatin (40 mg).
 Atorvastatin Cmax was decreased by 38%.
 This was assessed not to be clinically relevant.
+
 Digoxin
 
 Semaglutide did not change the overall exposure or Cmax of digoxin following a single dose of digoxin (0.5 mg).

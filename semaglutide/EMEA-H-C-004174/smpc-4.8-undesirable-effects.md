@@ -22,35 +22,14 @@ Table 1 Frequency of adverse reactions of semaglutide
 | --- | --- | --- | --- | --- | --- |
 | Immune system disorders |  |  | Hypersensitivityc | Anaphy-lactic reaction |  |
 | Metabolism and nutrition disorders | Hypoglycaemiaa when used with insulin or sulfonylurea | Hypoglycaemiaa when used with other oral antidiabetics (OAD) Decreased appetite |  |  |  |
-| Nervous system disorders |  | Dizziness | Dysgeusia |  |  |
+| Nervous system disorders |  | Dizziness Headache | Dysgeusia |  |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |  |
-| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis | Acute pancreatitis Delayed gastric emptying |  | Intestinal Obstructiond |
-
-MedDRA Very common Common Uncommon Rare Not known
-system organ
-class
-Gastro-
-oesophageal
-reflux disease
-Eructation
-Flatulence
-Hepatobiliary Cholelithiasis
-disorders
-Skin and Angioedemad
-subcutaneous
-tissue
-disorders
-General Fatigue Injection site
-disorders and reactions
-administra-
-tion site
-conditions
-Investigations Increased lipase
-Increased
-amylase
-Weight
-decreased
+| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |  | Intestinal obstructiond |
+| Hepatobiliary disorders |  | Cholelithiasis |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  | Angioedemad |
+| General disorders and administra-tion site conditions |  | Fatigue | Injection site reactions |  |  |
+| Investigations |  | Increased lipase Increased amylase Weight decreased |  |  |  |
 
 a) Hypoglycaemia defined as severe (requiring the assistance of another person) or symptomatic in combination with a blood glucose <3.1 mmol/L.
 b) Diabetic retinopathy complications is a composite of: retinal photocoagulation, treatment with intravitreal agents, vitreous haemorrhage, diabetes-related blindness (uncommon).
@@ -74,6 +53,7 @@ Severe hypoglycaemia was reported in 0.7% (0.01 events/patient year) and 0% of p
 
 In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, the majority of the hypoglycaemic episodes (45 out of 49 episodes) occurred when semaglutide was used in combination with sulfonylurea or insulin.
 Overall, there was no increased risk of hypoglycaemia with semaglutide 2 mg.
+
 Gastrointestinal adverse reactions
 Nausea occurred in 17% and 19.9% of patients when treated with semaglutide 0.5 mg and 1 mg, respectively, diarrhoea in 12.2% and 13.3% and vomiting in 6.4% and 8.4%.
 Most events were mild to moderate in severity and of short duration.
@@ -107,7 +87,6 @@ The most frequent adverse events leading to discontinuation were gastrointestina
 Injection site reactions
 Injection site reactions (e.g. injection site rash, erythema) have been reported by 0.6% and 0.5% of patients receiving semaglutide 0.5 mg and 1 mg, respectively.
 These reactions have usually been mild.
-
 Immunogenicity
 Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop antibodies following treatment with semaglutide.
 The proportion of patients tested positive for anti-semaglutide antibodies at any time point post-baseline was low (1−3%) and no patients had anti-semaglutide neutralising antibodies or anti-semaglutide antibodies with endogenous GLP-1 neutralising effect at end-of-trial.

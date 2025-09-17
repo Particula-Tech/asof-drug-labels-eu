@@ -31,12 +31,10 @@ Special populations
 
 Elderly
 No dose adjustment is required based on age.
-Therapeutic experience in patients ≥75 years of age is limited (see section 5.2).
-
 Renal impairment
 No dose adjustment is required for patients with mild, moderate or severe renal impairment.
-Experience with the use of semaglutide in patients with severe renal impairment is limited.
-Semaglutide is not recommended for use in patients with end-stage renal disease (see section 5.2).
+Experience with the use of semaglutide in patients with end-stage kidney disease is limited.
+
 Hepatic impairment
 No dose adjustment is required for patients with hepatic impairment.
 Experience with the use of Semaglutide in patients with severe hepatic impairment is limited.
