@@ -28,8 +28,7 @@ Except in extremely rare cases, no overt physical evidence of abnormality has be
 
 Cholestasis of pregnancy has occasionally been reported in association with azathioprine therapy.
 Early diagnosis and discontinuation of azathioprine may minimise the effects on the foetus.
-However, the maternal benefit and the effects on the foetus should be carefully assessed if cholestasis of pregnancy is confirmed (see section 4.4).
-
+However, the maternal benefit and the effects on the foetus should be carefully assessed if cholestasis of pregnancy is confirmed.
 Breast-feeding
 
 6-Mercaptopurine, the active metabolite of azathioprine, has been identified in the colostrum and breast milk of women receiving azathioprine treatment.

@@ -21,12 +21,11 @@ It should be controlled more frequently:
 In particular, patients with impaired liver function require special monitoring when using azathioprine, as life-threatening liver damages have been reported (see section 4.8).
 This is particularly important in patients with severe impaired liver function and azathioprine should only be used after a careful benefit/risk analysis.
 
-Cholestasis of pregnancy has occasionally been reported in association with azathioprine therapy (see section 4.6).
-If cholestasis of pregnancy occurs, case by case assessment is necessary considering the risk-benefit profile of the product (potential withdrawal/dose reduction).
-
-Azathioprine is hepatotoxic, thus regular liver function tests should be repeated during the treatment.
-More frequent tests are recommended in patients with liver disease and in those who may be undergoing therapy with a possible hepatotoxic adverse reaction.
-The patients should be advised to discontinue azathioprine immediately if jaundice occurs.
+Azathioprine is hepatotoxic and liver function tests should be routinely monitored during treatment.
+More frequent monitoring may be advisable in those with pre-existing liver disease or receiving other potentially hepatotoxic therapy.
+Cases of non-cirrhotic portal hypertension/portosinusoidal vascular disease have been reported.
+Early clinical signs include liver enzyme abnormalities, mild jaundice, thrombocytopenia, and splenomegaly (see section 4.8).
+The patients should be informed about the symptoms of liver injury and advised to contact their doctor immediately if these occur.
 
 The frequency of blood counts may be reduced after 8 weeks and be repeated monthly or at least at intervals of no longer than 3 months (maximum quarterly).
 
@@ -100,7 +99,7 @@ Macrophage activation syndrome (MAS) is a known, life-threatening disorder that 
 If MAS occurs, or is suspected, evaluation and treatment should be started as early as possible, and treatment with azathioprine should be discontinued.
 Physicians should be attentive to symptoms of infection such as EBV and cytomegalovirus (CMV), as these are known triggers for MAS.
 
-Teratogenicity/ contraceptive measures
+Teratogenicity/contraceptive measures
 
 In preclinical studies azathioprine was mutagenic and teratogenic (see section 5.3).
 Since there are conflicting findings on the teratogenic potential of azathioprine in humans, contraceptive measures must be taken by both male and female patients of reproductive age during azathioprine therapy for at least six months after the end of azathioprine therapy.
@@ -120,8 +119,8 @@ Therefore, it is recommended that patients are not administered with any live va
 Metabolic and nutritional disorders
 
 The administration of purine analogues (azathioprine and mercaptopurine) may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency/pellagra.
-Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease (Crohn's disease, ulcerative colitis).
-The diagnosis of pellagra should be considered in patients with a localised pigmented rash (dermatitis), gastroenteritis (diarrhoea), and extensive neurological deficits including cognitive deterioration (dementia).
+Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease.
+The diagnosis of pellagra should be considered in patients with a localised pigmented rash, gastroenteritis, and extensive neurological deficits including cognitive deterioration.
 Appropriate medical care with niacin/nicotinamide supplementation must be initiated, and dose reduction or discontinuation of azathioprine must be considered.
 
 Ribavirin
@@ -132,6 +131,13 @@ Ribavirin can reduce the efficacy of azathioprine and increase the toxicity leve
 Myelosuppressive agents
 
 The dose should be reduced with concomitant use of azathioprine and myelosuppressive agents.
+
+Posterior reversible encephalopathy syndrome (PRES)
+
+Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients using azathioprine.
+If patients using azathioprine present with symptoms indicating PRES such as headache, altered mental status, seizures, hypertension, and visual disturbances, a diagnostic imaging should be performed.
+If PRES is diagnosed, adequate blood pressure and seizure control and immediate discontinuation of azathioprine is advised.
+Most cases reported resolved following discontinuation of azathioprine and appropriate treatment.
 
 Excipients
 

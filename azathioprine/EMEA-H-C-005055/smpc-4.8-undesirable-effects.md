@@ -23,13 +23,16 @@ The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/10
 |  | Very rare | Haemolytic anaemia |
 | Immune system disorders | Uncommon | Hypersensitivity |
 |  | Very rare | Stevens-Johnson syndrome and toxic epidermal necrolysis |
+| Nervous system disorders | Not known | Posterior reversible encephalopathy syndrome (PRES), tremor |
 | Metabolism and nutrition disorders | Not known | Pellagra (see section 4.4) |
 | Respiratory, thoracic and mediastinal disorders | Very rare | Pneumonitis (reversible) |
 | Gastrointestinal disorders | Common | Nausea, vomiting |
 |  | Uncommon | Pancreatitis |
 |  | Very rare | Colitis, diverticulitis and intestinal perforation in transplant recipients, diarrhoea (severe) in patients with inflammatory bowel disease |
+|  | Not known | Sialoadenitis |
 | Hepatobiliary disorders | Uncommon | Cholestasis |
 |  | Rare | Liver injury |
+|  | Not known | Non-cirrhotic portal hypertension, portosinusoidal vascular disease |
 | Skin and subcutaneous tissue disorders | Rare | Alopecia |
 |  | Not known | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), photosensitivity reaction |
 | Investigations | Uncommon | Liver function test abnormal |
@@ -43,16 +46,16 @@ Neoplasms benign, malignant and unspecified (including cysts and polyps)
 The risk of developing non-Hodgkin’s lymphoma and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi’s and non-Kaposi’s) and uterine cervical cancer in situ, is increased in patients who receive immunosuppressants, particularly in transplant patients receiving aggressive treatment, and such therapy should be maintained at the lowest effective levels (see section 4.4).
 The increased risk of developing non-Hodgkin’s lymphomas in immunosuppressed rheumatoid arthritis patients compared with the general population appears to be related at least in part to the disease itself.
 There have been rare reports of acute myeloid leucaemia and myelodysplasia (some in association with chromosomal abnormalities).
-
 Blood and lymphatic system disorders
 The most common adverse reaction of azathioprine is a dose-related, generally reversible, depression of bone marrow function, most frequently expressed as leucopenia, but also sometimes as thrombocytopenia and anaemia, and rarely as agranulocytosis, pancytopenia and aplastic anaemia.
-These occur particularly in patients predisposed to myelosuppression, such as those with TPMT deficiency and renal or hepatic impairment and in patients failing to reduce the dose of azathioprine when receiving concurrent allopurinol therapy.
+These occur particularly in patients predisposed to myelosuppression, such as those with TPMT deficiency and renal or hepatic impairment and in patients failing to reduce the dose of azathioprine when receiving concurrent allopurinol therapy (see sections 4.2 and 4.5).
 
 Reversible, dose-related macrocytosis and increase in red cell haemoglobin content have occurred in association with azathioprine therapy.
 Megaloblastic bone marrow changes have also been observed but severe megaloblastic anaemia and erythroid hypoplasia are rare.
+
 Immune system disorders
 Several different clinical syndromes, which appear to be idiosyncratic manifestations of hypersensitivity, have been described occasionally following administration of azathioprine.
-Clinical features include general malaise, dizziness, nausea, vomiting, diarrhoea, fever, rigors, exanthema, erythema nodosum, vasculitis, myalgia, arthralgia, hypotension, renal dysfunction, hepatic dysfunction and cholestasis.
+Clinical features include general malaise, dizziness, nausea, vomiting, diarrhoea, fever, rigors, exanthema, erythema nodosum, vasculitis, myalgia, arthralgia, hypotension, cardiac dysfunction, renal dysfunction, hepatic dysfunction and cholestasis.
 In many cases, re-challenge has confirmed an association with azathioprine.
 
 Hypersensitivity reactions and other marked underlying pathology may have contributed to the very rare deaths reported.
@@ -78,14 +81,13 @@ Hepatobiliary disorders
 Dose-dependent cholestasis and deterioration of liver function have occasionally been reported in association with azathioprine therapy and are usually reversible on discontinuation of therapy.
 This may be associated with features of a hypersensitivity reaction.
 
-Rare, but life-threatening hepatic damage associated with chronic administration of azathioprine has been described primarily in transplant patients.
+Rare, but life-threatening hepatic damage associated with chronic administration of azathioprine has been described.
 Histological findings include sinusoidal dilatation, peliosis hepatis, veno-occlusive disease and nodular regenerative hyperplasia.
 In some cases, withdrawal of azathioprine has resulted in either temporary or permanent improvement in liver histology and the symptoms.
-
 Skin and subcutaneous tissue disorders
 Alopecia has been described for both monotherapy and combined therapy with azathioprine.
 In many instances, the condition resolved spontaneously despite continuing therapy.
-The relationship between alopecia and azathioprine treatment is still unclear
+The relationship between alopecia and azathioprine treatment is still unclear.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

@@ -43,11 +43,11 @@ Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 (Years) Age Weight* (Kg) mg 1mg/kg ml mg 2mg/kg ml mg 3mg/kg Dose† ml mg 4mg/kg ml mg 5mg/kg ml
 0 3.3 3.3 0.3 6.6 0.7 9.9 1.0 13.2 1.3 16.5 1.7
 1 month 4.5 4.5 0.5 9.0 0.9 13.5 1.4 18.0 1.8 22.5 2.3
-2 month 5.6 5.6 0.6 11.2 1.1 16.8 1.7 22.4 2.2 28.0 2.8
-3 month 6.4 6.4 0.6 12.8 1.3 19.2 1.9 25.6 2.6 32.0 3.25
-4 month 7.0 7.0 0.7 14.0 1.4 21.0 2.1 28.0 2.8 35.0 3.50
-5 month 7.5 7.5 0.8 15.0 1.5 22.5 2.3 30.0 3.0 37.5 3.75
-6 month 7.9 7.9 0.8 15.8 1.6 23.7 2.4 31.6 3.25 39.5 4.00
+2 months 5.6 5.6 0.6 11.2 1.1 16.8 1.7 22.4 2.2 28.0 2.8
+3 months 6.4 6.4 0.6 12.8 1.3 19.2 1.9 25.6 2.6 32.0 3.25
+4 months 7.0 7.0 0.7 14.0 1.4 21.0 2.1 28.0 2.8 35.0 3.50
+5 months 7.5 7.5 0.8 15.0 1.5 22.5 2.3 30.0 3.0 37.5 3.75
+6 months 7.9 7.9 0.8 15.8 1.6 23.7 2.4 31.6 3.25 39.5 4.00
 1.0 9.6 9.6 1.0 19.2 1.9 28.8 2.9 38.4 3.75 48.0 4.75
 1.5 10.9 10.9 1.1 21.8 2.2 32.7 3.25 43.6 4.25 54.5 5.50
 2.0 12.2 12.2 1.2 24.4 2.4 36.6 3.75 48.8 5.00 61.0 6.00
@@ -94,7 +94,7 @@ Children considered to be overweight may require doses at the higher end of the 
 Therefore, close monitoring of response to treatment is recommended (see section 5.2).
 
 Elderly
-It is recommended to monitor the kidney and liver function and reduce the dose in the case of impaired function (see section 4.2).
+It is recommended to monitor the kidney and liver function and reduce the dose in the case of impaired function (see section 5.2).
 The dose used should be at the lower end of the normal range.
 For controls of blood count, see section 4.4.
 
