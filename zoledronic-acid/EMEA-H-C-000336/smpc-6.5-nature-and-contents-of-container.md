@@ -13,7 +13,7 @@ Not all pack sizes may be marketed.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
-Vial: 5-ml plastic vial made of clear, colourless cycloolefine copolymer with fluoropolymer-coated bromobutyl rubber stopper and aluminium cap with plastic flip-off component.
+Vial: colourless glass with fluoropolymer-coated bromobutyl rubber stopper and aluminium cap with plastic flip-off component.
 
 Unit packs containing 1 or 4 vials.
 
