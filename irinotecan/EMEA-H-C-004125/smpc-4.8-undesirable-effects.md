@@ -66,7 +66,7 @@ Table 4: Adverse reactions reported in patients treated with ONIVYDE pegylated l
 | Uncommon | Hypertension, Peripheral coldness, Haematoma, Phlebitis |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Common | Pulmonary embolism, Hiccups, Dyspnoea, Epistaxis | Dyspnoea, Dysphonia |
-| Uncommon | Oropharyngeal pain, Cough, Hyperoxia, Nasal inflammation, Atelectasis, Dysphonia, Pneumonitis | Hypoxia |
+| Uncommon | Oropharyngeal pain, Cough, Hyperoxia, Nasal inflammation, Atelectasis, Dysphonia, Pneumonitis | Hypoxia, Interstitial lung disease (including pneumonitis) |
 | Gastro-intestinal disorders |  |  |
 | Very common | Diarrhoea, Nausea, Vomiting, Abdominal pain/discomfort, Stomatitis | Diarrhoea, Vomiting, Nausea, Abdominal pain, Stomatitis |
 | Common | Colitis, Enterocolitis, Constipation, Dry mouth, Flatulence, Abdominal distension, Dyspepsia, Gastrooesophageal reflux disease, Haemorrhoids, Dysphagia, | Colitis, Haemorrhoids |

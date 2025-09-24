@@ -47,7 +47,7 @@ Table 1: Recommended dose modifications for ONIVYDE pegylated liposomal + oxalip
 |  | Fourth occurence | Discontinue treatment |
 | Thrombocytopenia Leukopenia | A new cycle of therapy should not begin until the platelet count is ≥100,000/mm3 (100x109/L). |  |
 |  | Dose modifications for leukopenia and thrombocytopenia are based on NCI CTCAE toxicity grading and are the same as recommended for neutropenia above. |  |
-| Non-haematological toxicities‡ |  |  |
+| Non-haematological toxicities* |  |  |
 | Diarrhoea | A new cycle of therapy should not begin until diarrhoea resolves to ≤ Grade 1 (2-3 stools/day more than pre-treatment frequency). |  |
 | Grade 2 | A new cycle of therapy should not begin until diarrhoea resolves to ≤ Grade 1 (2-3 stools/day more than pre-treatment frequency). |  |
 | Grade 3 or 4 | First occurrence | Reduce ONIVYDE pegylated liposomal dose to 80% of initial dose Reduce oxaliplatin and 5-FU dose by 20% |

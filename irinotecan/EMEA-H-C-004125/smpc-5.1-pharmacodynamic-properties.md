@@ -98,7 +98,7 @@ Table 6: Efficacy results from NAPOLI-1 clinical study
 
 |  | ONIVYDE pegylated liposomal +5-FU/LV (N= 117) | 5-FU/LV (N= 119) |
 | --- | --- | --- |
-| Overall survival11 |  |  |
+| Overall survival1 |  |  |
 | Number of deaths, n (%) | 75 (64) | 80 (67) |
 | Median OS (months) | 6.1 | 4.2 |
 | (95% Confidence Interval (CI)) | (4.8, 8.9) | (3.3, 5.3) |
