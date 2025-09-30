@@ -27,7 +27,8 @@ Lecanemab can cause ARIA, characterized as ARIA with oedema (ARIA-E), which can 
 In addition to ARIA, intracerebral haemorrhages greater than 1 cm in diameter have occurred in patients treated with lecanemab.
 
 Obtain a recent (within 6 months) baseline brain MRI prior to initiating treatment with lecanemab to evaluate for pre-existing ARIA.
-Obtain an MRI prior to the 5th, 7th and 14th infusions.
+Obtain an MRI prior to the 3rd, 5th, 7th and 14th infusions.
+In general, the MRI should be performed within approximately one week before the scheduled infusion of lecanemab and reviewed prior to proceeding with the infusion.
 If a patient experiences symptoms suggestive of ARIA at any time during treatment, clinical evaluation should be performed including an MRI (see section 4.4).
 
 Recommendations for Dosing Interruptions or Treatment Discontinuation in Patients with ARIA
@@ -49,6 +50,7 @@ A follow-up MRI to assess for stabilisation 2 to 4 months after initial identifi
 Once the MRI demonstrates radiographic stabilisation and symptoms, if present, resolve, resumption of dosing should be guided by clinical judgement (see section 4.8).
 In the event of radiographically or symptomatic severe ARIA-H, treatment with lecanemab should be permanently discontinued.
 See Table 1 for MRI radiographic severity (see section 4.4).
+
 Intracerebral Haemorrhage
 Lecanemab should be permanently discontinued if intracerebral haemorrhage greater than 1 cm in diameter occurs.
 

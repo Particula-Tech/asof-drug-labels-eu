@@ -3,6 +3,7 @@
 Summary of the safety profile
 
 The safety of lecanemab has been evaluated in 2203 patients who received at least one dose of lecanemab.
+
 In the double-blind, placebo-controlled period of Study 301 in patients with mild cognitive impairment due to Alzheimer’s disease or mild Alzheimer’s disease dementia, a total of 898 patients received lecanemab at the recommended dose of 10 mg/kg every 2 weeks, of which 757 patients were non-carriers or heterozygotes (the indicated population).
 
 Of the patients treated with lecanemab 31% (278/898) were non-carriers, 53% (479/898) were heterozygotes and 16% (141/898) were homozygotes.

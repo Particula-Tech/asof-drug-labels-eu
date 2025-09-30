@@ -24,7 +24,7 @@ Clinical efficacy and safety
 
 The efficacy of lecanemab was evaluated in a double-blind, placebo-controlled, parallel-group, randomized trial (Study 301) in patients with Early Alzheimer’s disease (patients with confirmed presence of amyloid pathology and mild cognitive impairment [62% of patients] or mild dementia stage of disease [38% of patients]).
 
-Aβ pathology was determined by visual read using approved Aβ PET tracers according to the label and CSF by total tau (t-tau)/Aβ42 ratio with the validated cut-off >0.54 (assay (assay: Lumipulse® G P-Amyloid 1-42).
+Aβ pathology was determined by visual read using approved Aβ PET tracers according to the label and CSF by total tau (t-tau)/Aβ42 ratio with the validated cut-off >0.54 (assay: Lumipulse® G P-Amyloid 1-42).
 
 Patients were enrolled with the following criteria:
 

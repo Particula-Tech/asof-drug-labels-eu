@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-Unopened vial: 2 years.
+Unopened vial: 42 months.
 
 After preparation of the infusion solution.
 
