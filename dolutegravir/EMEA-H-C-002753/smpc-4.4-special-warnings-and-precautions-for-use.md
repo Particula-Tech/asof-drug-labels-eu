@@ -16,7 +16,7 @@ Immune Reactivation Syndrome
 
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
+Relevant examples are Cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution, however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
@@ -34,11 +34,15 @@ Drug interactions
 Factors that decrease dolutegravir exposure should be avoided in the presence of integrase class resistance.
 This includes co-administration with medicinal products that reduce dolutegravir exposure (e.g. magnesium/ aluminium-containing antacid, iron and calcium supplements, multivitamins and inducing agents, etravirine (without boosted protease inhibitors), tipranavir/ritonavir, rifampicin, St. John’s wort and certain anti-epileptic medicinal products) (see section 4.5).
 
+When taken with food, Tivicay and supplements or multivitamins containing calcium, iron or magnesium can be taken at the same time.
+If Tivicay is administered under fasting conditions, supplements or multivitamins containing calcium, iron or magnesium are recommended to be taken 2 hours after or 6 hours before Tivicay (see section 4.5).
+
 Dolutegravir increased metformin concentrations.
 A dose adjustment of metformin should be considered when starting and stopping coadministration of dolutegravir with metformin, to maintain glycaemic control (see section 4.5).
 Metformin is eliminated renally and, therefore, it is of importance to monitor renal function when co-treated with dolutegravir.
 This combination may increase the risk for lactic acidosis in patients with moderate renal impairment (stage 3a creatinine clearance [CrCl] 45– 59 mL/min) and a cautious approach is recommended.
 Reduction of the metformin dose should be highly considered.
+
 Osteonecrosis
 
 Although the aetiology is considered to be multifactorial (including corticosteroid use, biphosphonates, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to CART.
