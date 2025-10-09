@@ -303,7 +303,8 @@ Key efficacy outcomes from GO-RAISE.
 | Week 24 | 15% | 44% |
 | ASAS 5/6 |  |  |
 | Week 14 | 8% | 50% |
-| Week 24 | 13% | 49% |
+
+Week 24 13% 49%
 
 * p ≤0.001 for all comparisons a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint
 
@@ -471,6 +472,20 @@ Table 9
 The European Medicines Agency has deferred the obligation to submit the results of studies with Simponi in one or more subsets of the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
 
 [Simponi 100 mg solution for injection in pre-filled pen.]
+
+|  | Placebo | Simponi 50 mg* |
+| --- | --- | --- |
+| na | 78 | 138 |
+| Responders, % of patients |  |  |
+| ASAS 20 |  |  |
+| Week 14 | 22% | 59% |
+| Week 24 | 23% | 56% |
+| ASAS 40 |  |  |
+| Week 14 | 15% | 45% |
+| Week 24 | 15% | 44% |
+| ASAS 5/6 |  |  |
+| Week 14 | 8% | 50% |
+| Week 24 | 13% | 49% |
 
 Patients who completed the maintenance study through week 54 continued treatment in a study extension, with efficacy evaluated through week 216.
 
