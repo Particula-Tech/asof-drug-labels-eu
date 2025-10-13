@@ -8,8 +8,9 @@ Monotherapy should be preferred whenever possible because therapy with multiple 
 
 Pregnancy
 A large amount of postmarketing data on pregnant women exposed to levetiracetam monotherapy (more than 1800, among which in more than 1500 exposure occurred during the 1st trimester) do not suggest an increase in the risk for major congenital malformations.
-Only limited evidence is available on the neurodevelopment of children exposed to Keppra monotherapy in utero.
-However, current epidemiological studies (on about 100 children) do not suggest an increased risk of neurodevelopmental disorders or delays.
+Limited evidence is available on the neurodevelopment of children exposed to levetiracetam monotherapy in utero.
+Data from two observational population-based registry studies undertaken in largely the same dataset from the Nordic countries and including more than 1000 children born to women with epilepsy prenatally exposed to levetiracetam monotherapy do not suggest an increased risk of autism spectrum disorders or intellectual disability compared to children born to women with epilepsy not exposed to an antiepileptic drug in utero.
+The mean follow-up time of children in the levetiracetam group was shorter than for the group of children non exposed to any antiepileptic drug (e.g. 4.4 years vs 6.8 years in one of the studies).
 Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed.
 In such case, the lowest effective dose is recommended.
 Physiological changes during pregnancy may affect levetiracetam concentration.

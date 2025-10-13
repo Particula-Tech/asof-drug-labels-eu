@@ -41,6 +41,9 @@ The tablet formulation is not adapted for use in infants and children under the 
 Available data in children did not suggest impact on growth and puberty.
 However, long term effects on learning, intelligence, growth, endocrine function, puberty and childbearing potential in children remain unknown.
 
+Sodium content
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
 [Keppra 500 mg film-coated tablets]
 
 (all sentences already above)
@@ -61,9 +64,11 @@ Keppra 750 mg film-coated tablets contain E110 colouring agent which may cause a
 Keppra 100 mg/ml oral solution contains methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed).
 It also contains maltitol liquid; patients with rare hereditary problems of fructose intolerance should not take this medicinal product.
 
+This medicinal product contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially ‘sodium-free’.
+
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
 Therefore patients should be monitored for signs of depression and/or suicidal ideation and behaviours and appropriate treatment should be considered.
 
-This medicinal product contains 2.5 mmol (or 57 mg) sodium per maximum single dose (0.8 mmol (or 19 mg) per vial).
+This medicinal product contains 2.5 mmol (or 57 mg) sodium per maximum single dose (0.8 mmol (or 19 mg) per vial), equivalent to 2.85% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 To be taken into consideration by patients on a controlled sodium diet.

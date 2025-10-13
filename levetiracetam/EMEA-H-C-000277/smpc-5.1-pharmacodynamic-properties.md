@@ -47,6 +47,7 @@ With continued long-term treatment, 8.6 % of the patients were seizure-free for 
 35 infants aged less than 1 year with partial onset seizures have been exposed in placebo-control clinical studies of which only 13 were aged < 6 months.
 
 Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
+
 Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine-controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy.
 The patients had to present with unprovoked partial seizures or with generalized tonic-clonic seizures only.
 The patients were randomized to carbamazepine CR 400 – 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.
@@ -90,7 +91,8 @@ In a pooled analysis, the percentage of patients who achieved 50% or greater red
 
 The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
 
-Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2% (95 % CI: -7.8 8.2).
+Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2%
+(95 % CI: -7.8 8.2).
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 

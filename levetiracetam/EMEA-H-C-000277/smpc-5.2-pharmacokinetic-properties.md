@@ -10,6 +10,7 @@ Due to its complete and linear absorption, plasma levels can be predicted from t
 Therefore, there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
+
 Adults and adolescents
 
 Absorption
@@ -40,7 +41,6 @@ One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) an
 Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam or its primary metabolite.
-
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 AND UGT1A6) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam had little or no effect on CYP1A2, SULT1E1 or UGT1A1.
@@ -92,7 +92,8 @@ The apparent body clearance was 1.1 ml/min/kg.
 
 Infants and children (1 month to 4 years)
 
-Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children (1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children
+(1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
 The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 ml/min/kg) than for adults (0.96 ml/min/kg).
 
 In the population pharmacokinetic analysis conducted in patients from 1 month to 16 years of age, body weight was significantly correlated to apparent clearance (clearance increased with an increase in body weight) and apparent volume of distribution.
