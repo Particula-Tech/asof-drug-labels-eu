@@ -38,6 +38,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or me
 
 Head and neck squamous cell carcinoma (HNSCC)
 
+KEYTRUDA as monotherapy is indicated for the treatment of resectable locally advanced head and neck squamous cell carcinoma as neoadjuvant treatment, continued as adjuvant treatment in combination with radiation therapy with or without concomitant cisplatin and then as monotherapy in adults whose tumours express PD-L1 with a CPS ≥ 1.
+
 KEYTRUDA, as monotherapy or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy, is indicated for the first-line treatment of metastatic or unresectable recurrent head and neck squamous cell carcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1 (see section 5.1).
 
 KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastatic head and neck squamous cell carcinoma in adults whose tumours express PD-L1 with a ≥ 50% TPS and progressing on or after platinum-containing chemotherapy (see section 5.1).
@@ -47,8 +49,8 @@ Renal cell carcinoma (RCC)
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
-
 KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with renal cell carcinoma at increased risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions (for selection criteria, see section 5.1).
+
 Microsatellite instability high (MSI-H) or mismatch repair deficient (dMMR) cancers
 
 Colorectal cancer (CRC)
@@ -82,8 +84,8 @@ KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of adva
 Cervical cancer
 
 KEYTRUDA, in combination with chemoradiotherapy (external beam radiation therapy followed by brachytherapy), is indicated for the treatment of FIGO 2014 Stage III - IVA locally advanced cervical cancer in adults who have not received prior definitive therapy.
-
 KEYTRUDA, in combination with chemotherapy with or without bevacizumab, is indicated for the treatment of persistent, recurrent, or metastatic cervical cancer in adults whose tumours express PD-L1 with a CPS ≥ 1.
+
 Gastric or gastro-oesophageal junction (GEJ) adenocarcinoma
 
 KEYTRUDA, in combination with trastuzumab, fluoropyrimidine and platinum-containing chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic HER2-positive gastric or gastro-oesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1.

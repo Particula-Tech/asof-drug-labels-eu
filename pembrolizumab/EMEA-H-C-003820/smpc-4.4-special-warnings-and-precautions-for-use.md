@@ -110,7 +110,6 @@ Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 Allogeneic HSCT after treatment with pembrolizumab
 Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients with cHL undergoing allogeneic HSCT after previous exposure to pembrolizumab.
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
-
 Allogeneic HSCT prior to treatment with pembrolizumab
 In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with pembrolizumab.
 Patients who experienced GVHD after their transplant procedure may be at an increased risk for GVHD after treatment with pembrolizumab.
@@ -137,7 +136,7 @@ In KEYNOTE-361, a higher number of deaths within 6 months of treatment initiatio
 No specific factor(s) associated with early deaths could be identified.
 Physicians should consider the delayed onset of pembrolizumab effect before initiating treatment in patients with urothelial carcinoma who are considered eligible for carboplatin-based combination chemotherapy.
 KEYNOTE-052 also included patients eligible for mono-chemotherapy, for whom no randomised data are available.
-In addition, no safety and efficacy data are available in frailer patients (e.g. ECOG performance status 3) considered not eligible for chemotherapy.
+In addition, no safety and efficacy data are available in frailer patients (e.g., ECOG performance status 3) considered not eligible for chemotherapy.
 In the absence of these data, pembrolizumab should be used with caution in this population after careful consideration of the potential risk-benefit on an individual basis.
 
 Use of pembrolizumab for first-line treatment of patients with NSCLC
@@ -147,7 +146,6 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
-
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 

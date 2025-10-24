@@ -19,13 +19,15 @@ The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 ye
 For use in combination, see the Summary of Product Characteristics (SmPC) for the concomitant therapies.
 
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity (and up to maximum duration of therapy if specified for an indication).
-Atypical responses (i.e. an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
+Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
 For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
-
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
+
+For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 200 mg every 3 weeks or 1 dose of 400 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 200 mg every 3 weeks or 6 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA monotherapy as neoadjuvant treatment should not receive KEYTRUDA in combination with radiation with or without concomitant cisplatin as adjuvant treatment.
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
@@ -71,12 +73,12 @@ The safety of re-initiating pembrolizumab therapy in patients previously experie
 
 KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated adverse reactions, unless otherwise specified in
 Table 1.
-
 For Grade 4 haematological toxicity, only in patients with cHL, KEYTRUDA should be withheld until adverse reactions recover to Grades 0-1.
 
 KEYTRUDA in combination with axitinib in RCC
 For RCC patients treated with KEYTRUDA in combination with axitinib, see the SmPC regarding dosing of axitinib.
 When used in combination with pembrolizumab, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer (see section 5.1).
+
 For liver enzyme elevations, in patients with RCC being treated with KEYTRUDA in combination with axitinib:
 
 - If ALT or AST ≥ 3 times ULN but < 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both KEYTRUDA and axitinib should be withheld until these adverse reactions recover to Grades 0-1.
