@@ -7,29 +7,32 @@ Upon multiple dosing, ritonavir accumulation is slightly less than predicted fro
 Trough concentrations of ritonavir decrease over time, possibly due to enzyme induction, but appeared to stabilise by the end of 2 weeks.
 The time to maximum concentration (Tmax) remained constant at approximately 4 hours with increasing dose.
 Renal clearance averaged less than 0.1 l/h and was relatively constant throughout the dosage range.
-
 The pharmacokinetic parameters observed with various dosing schemes of ritonavir alone are shown in the table below.
 
 Ritonavir Dosing Regimen
-100 mg once 100 mg twice 200 mg once 200 mg twice 600 mg twice
+100 mg once 100 mg twice 200 mg once 200 mg twice
 
-daily daily1 daily daily daily
-Cmax (µg/ml) 0.84 ±0.39 0.89 3.4 ±1.3 4.5 ±1.3 11.2 ±3.6
-Ctrough (µg/ml) 0.08 ±0.04 0.22 0.16 ±0.10 0.6 ±0.2 3.7 ±2.6
-AUC12 or 24 6.6 ±2.4 6.2 20.0 ±5.6 21.92 ±6.48 77.5 ±31.5
+daily daily1 daily daily
+Cmax (µg/ml) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3
+Ctrough (µg/ml) 0.08 ± 0.04 0.22 0.16 ± 0.10 0.6 ± 0.2
+AUC12 or 24 6.6 ± 2.4 6.2 20.0 ± 5.6 21.92 ± 6.48
 
 (µg•h/ml)
 
-t½ (h) ~5 ~5 ~4 ~8 ~3 to 5
-Cl/F (L/h) 17.2 ±6.6 16.1 10.8 ±3.1 10.0 ±3.2 8.8 ±3.2
+t½ (h) ~5 ~5 ~4 ~8
+Cl/F (L/h) 17.2 ± 6.6 16.1 10.8 ± 3.1 10.0 ± 3.2
 
 1 Values expressed as geometric means.
 Note: ritonavir was dosed after a meal for all listed regimens.
-Effects of food on oral absorption
 
+The pharmacokinetic interaction between ritonavir and indinavir was evaluated in 5 groups of healthy adult volunteers in a randomised, multiple-dose, open-label study.
+At steady state, ritonavir increased plasma indinavir concentrations with area under the curve (AUC) increased up to 475% and maximum concentration (Cmax) increased up to 110%.
+
+In a study to evaluate the pharmacokinetic interaction between ritonavir and saquinavir in healthy volunteers in 6 groups of a single-dose crossover study, co-administration of ritonavir and saquinavir resulted in a > 50-fold increase in the AUC and a 22-fold increase in the Cmax of saquinavir.
+
+Effects of food on oral absorption
 Administration of a single 100 mg dose of ritonavir powder for oral suspension with a moderate fat meal (617 kcal, 29% calories from fat) was associated with a mean decrease of 23 and 39% in ritonavir AUCinf and Cmax respectively, relative to fasting conditions.
 Administration with a high fat meal (917 kcal, 60% calories from fat) was associated with a mean decrease of 32 and 49% in ritonavir AUCinf and Cmax respectively, relative to fasting conditions.
-
 Distribution
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg/ml.
@@ -64,7 +67,7 @@ After multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) an
 
 Patients with impaired renal function
 Ritonavir pharmacokinetic parameters have not been studied in patients with renal impairment.
-However, since the renal clearance of ritonavir is negligible, no changes in the total body clearance are expected in patients with renal impairment.
+However, since the renal clearance of ritonavir is negligible, no changes in the total body clearance of ritonavir are expected in patients with renal impairment.
 
 Paediatric patients
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
@@ -82,5 +85,5 @@ There is no parenteral formulation of ritonavir, therefore the extent of absorpt
 Plasma concentrations of ritonavir after administration of a single 100 mg dose tablet are similar to the 100 mg soft gelatin capsule under fed conditions.
 
 Food slightly decreases the bioavailability of the Norvir tablet.
-Administration of a single 100 mg dose of Norvir tablet with a moderate fat meal (857 kcal, 31% calories from fat) or a high fat meal
-(907 kcal, 52% calories from fat) was associated with a mean decrease of 20-23% in ritonavir AUC and Cmax.
+Administration of a single 100 mg dose of Norvir tablet with a moderate fat meal (857 kcal, 31% calories from fat) or a high fat meal (907 kcal, 52% calories from fat) was associated with a mean decrease of 20-23% in ritonavir AUC and
+Cmax.

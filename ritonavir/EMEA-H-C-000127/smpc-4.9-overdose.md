@@ -12,3 +12,7 @@ There is no specific antidote for overdose with ritonavir.
 Treatment of overdose with ritonavir should consist of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient.
 Due to the solubility characteristics and possibility of transintestinal elimination, it is proposed that management of overdose could entail gastric lavage and administration of activated charcoal.
 Since ritonavir is extensively metabolised by the liver and is highly protein bound, dialysis is unlikely to be beneficial in significant removal of the medicine.
+
+[Norvir 100 mg film-coated tablets]
+
+One patient in clinical trials took ritonavir 1 500 mg/day for two days and reported paraesthesia, which resolved after the dose was decreased.

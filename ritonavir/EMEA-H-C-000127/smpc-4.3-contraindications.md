@@ -2,16 +2,12 @@
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-When ritonavir is used as a pharmacokinetic enhancer of other PIs, consult the Summary of Product Characteristics of the co-administered protease inhibitor for contraindications.
-
-Ritonavir should not be given as a pharmacokinetic enhancer or as an antiretroviral agent to patients with decompensated liver disease.
+Ritonavir should not be given to patients with decompensated liver disease.
 
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and
 CYP2D6- mediated biotransformations.
-The following medicines are contraindicated when used with ritonavir and unless otherwise noted, the contraindication is based on the potential for ritonavir to inhibit metabolism of the co-administered medicinal product, resulting in increased exposure to the co-administered medicinal product and risk of clinically significant adverse effects.
-
-The enzyme-modulating effect of ritonavir may be dose dependent.
-For some products, contraindications may be more relevant when ritonavir is used as an antiretroviral agent than when ritonavir is used as a pharmacokinetic enhancer (e.g. rifabutin and voriconazole):
+The enzyme-modulating effect of ritonavir may be dose dependent (see section 5.1).
+The following medicines are contraindicated when used with ritonavir and unless otherwise noted, the contraindication is based on the potential for ritonavir to inhibit metabolism of the co-administered medicinal product, resulting in increased exposure to the co-administered medicinal product and risk of clinically significant adverse effects:
 
 Medicinal Product Medicinal Products Rationale
 
@@ -45,15 +41,11 @@ Antiarrhythmics Amiodarone, bepridil, Increased plasma concentrations of amiodar
 dronedarone, bepridil, dronedarone, encainide, flecanide,
 
 encainide, flecanide, propafenone, quinidine.
-Thereby, increasing propafenone, quinidine the risk of arrhythmias or other serious adverse reactions from these agents.
+Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse reactions from these agents.
 
 Antibiotic Fusidic Acid Increased plasma concentrations of fusidic acid
 
 and ritonavir.
-
-Antifungal Voriconazole Concomitant use of ritonavir (400 mg twice
-
-daily and more) and voriconazole is contraindicated due to a reduction in voriconazole plasma concentrations and possible loss of effect (see section 4.5).
 
 Anti-gout Colchicine Potential for serious and/or life-threatening
 
@@ -63,11 +55,6 @@ Antihistamines Astemizole, Increased plasma concentrations of astemizole
 terfenadine and terfenadine. Thereby, increasing the risk of
 
 serious arrhythmias from these agents.
-
-Antimycobacterial Rifabutin Concomitant use of ritonavir (500 mg twice
-
-daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse events including uveitis (see section 4.4).
-Recommendations regarding use of ritonavir dosed as a pharmacokinetic enhancer with rifabutin are noted in section 4.5.
 
 Antipsychotics/ Lurasidone Increased plasma concentrations of lurasidone
 Neuroleptics which may increase the potential for serious
@@ -137,8 +124,6 @@ dronedarone, bepridil, dronedarone, encainide, flecainide,
 
 encainide, flecainide, propafenone, quinidine.
 Thereby, increasing propafenone, quinidine the risk of arrhythmias or other serious adverse effects from these agents.
-
-daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse reactions including uveitis (see section 4.4).
 
 PDE5 inhibitor Avanafil Increased plasma concentrations of avanafil
 

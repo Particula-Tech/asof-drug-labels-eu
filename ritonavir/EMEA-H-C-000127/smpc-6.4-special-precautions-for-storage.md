@@ -1,6 +1,6 @@
 # 6.4 Special precautions for storage
 
-Store below 30°C.
+Store below 30 °C.
 
 [Norvir 100 mg film-coated tablets]
 

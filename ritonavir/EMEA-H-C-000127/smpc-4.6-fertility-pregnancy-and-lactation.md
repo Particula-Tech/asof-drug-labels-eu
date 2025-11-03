@@ -9,6 +9,7 @@ Norvir can be used during pregnancy if clinically needed.
 
 Ritonavir adversely interacts with oral contraceptives (OCs).
 Therefore, an alternative, effective and safe method of contraception should be used during treatment.
+
 Breast-feeding
 Limited published data reports that ritonavir is present in human milk.
 
