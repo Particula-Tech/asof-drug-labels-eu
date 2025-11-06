@@ -31,7 +31,10 @@ Chronic obstructive pulmonary disease (COPD)
 
 Dupixent is indicated in adults as add-on maintenance treatment for uncontrolled chronic obstructive pulmonary disease (COPD) characterised by raised blood eosinophils on a combination of an inhaled corticosteroid (ICS), a long-acting beta2-agonist (LABA), and a long-acting muscarinic antagonist (LAMA), or on a combination of a LABA and a LAMA if ICS is not appropriate (see Section 5.1).
 
+Chronic Spontaneous Urticaria (CSU)
+
+Dupixent is indicated for the treatment of moderate to severe chronic spontaneous urticaria in adult and adolescent (12 years and above) patients with inadequate response to H1 antihistamines and who are naive to anti-IgE therapy for CSU.
+
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
-Dupixent is indicated for the treatment of eosinophilic esophagitis in adults, adolescents and children aged 1 year and older, weighing at least 15 kg, who are inadequately controlled by, are intolerant to, or who are not candidates for conventional medicinal therapy (see section 5.1).Error!
-No document variable supplied.
+Dupixent is indicated for the treatment of moderate to severe chronic spontaneous urticaria in adults and adolescents (12 years and above) patients, with inadequate response to H1 antihistamines and who are naive to anti-IgE therapy for CSU.
