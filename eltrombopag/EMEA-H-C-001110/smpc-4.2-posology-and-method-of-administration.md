@@ -23,11 +23,11 @@ For patients of East-/Southeast-Asian ancestry, eltrombopag should be initiated 
 
 Paediatric population aged 1 to 5 years
 The recommended starting dose of eltrombopag is 25 mg once daily.
+
 Monitoring and dose adjustment
 After initiating eltrombopag, the dose must be adjusted to achieve and maintain a platelet count
 ≥50 000/µl as necessary to reduce the risk for bleeding.
 A daily dose of 75 mg must not be exceeded.
-
 Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dose regimen of eltrombopag modified based on platelet counts as outlined in Table 1.
 During therapy with eltrombopag full blood counts (FBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥50 000/µl for at least 4 weeks) has been achieved.
 FBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter.
@@ -40,8 +40,7 @@ Table 1 Dose adjustments of eltrombopag in ITP patients
 | ≥50 000/µl to ≤150 000/µl | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding. |
 | >150 000/µl to ≤250 000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments♦. |
 | >250 000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤ 100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg. |
-
-* For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg once daily or alternatively a dose of 25 mg once every other day.
+| * For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg once daily or alternatively a dose of 25 mg once every other day. |  |
 
 Eltrombopag can be administered in addition to other ITP medicinal products.
 The dose regimen of concomitant ITP medicinal products should be modified, as medically appropriate, to avoid excessive increases in platelet counts during therapy with eltrombopag.
@@ -92,9 +91,7 @@ Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 | ≥50 000/µl to ≤100 000/µl | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon. |
 | >100 000/µl to ≤150 000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments♦. |
 | >150 000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*. |
-
-* For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
-♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
+| * For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided. |  |
 
 Discontinuation
 If after 2 weeks of eltrombopag therapy at 100 mg the required platelet level to initiate antiviral therapy is not achieved, eltrombopag should be discontinued.
@@ -128,7 +125,7 @@ Tapering for tri-lineage (white blood cells, red blood cells, and platelets) res
 For patients who achieve tri-lineage response, including transfusion independence, lasting at least 8 weeks: the dose of eltrombopag may be reduced by 50%.
 
 If counts remain stable after 8 weeks at the reduced dose, then eltrombopag must be discontinued and blood counts monitored.
-If platelet counts drop to <30 000/µl, haemoglobin drops to < 9 g/dl or absolute neutrophil count (ANC) <0.5 x 109/l, eltrombopag may be reinitiated at the previous effective dose.
+If platelet counts drop to <30 000/µl, haemoglobin drops to < 9 g/dl or absolute neutrophil count (ANC) to <0.5 x 109/l, eltrombopag may be reinitiated at the previous effective dose.
 
 Discontinuation
 If no haematological response has occurred after 16 weeks of therapy with eltrombopag, therapy should be discontinued.
@@ -147,7 +144,7 @@ If the use of eltrombopag is deemed necessary for ITP patients with hepatic impa
 After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 3 weeks should be observed before increasing the dose.
 
 No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤6).
-Chronic HCV patients and severe aplastic anaemia patients with hepatic impairment should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2).
+Chronic HCV patients and SAA patients with hepatic impairment should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2).
 After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 2 weeks should be observed before increasing the dose.
 
 There is an increased risk for adverse events, including hepatic decompensation and thromboembolic events (TEEs), in thrombocytopenic patients with advanced chronic liver disease treated with eltrombopag, either in preparation for invasive procedure or in HCV patients undergoing antiviral therapy (see sections 4.4 and 4.8).
@@ -161,19 +158,25 @@ There are limited data on the use of eltrombopag in HCV and SAA patients aged ov
 Caution should be exercised in these patients (see section 4.4).
 
 East-/Southeast-Asian patients
-For adult and paediatric patients of East-/Southeast-Asian ancestry, including those with hepatic impairment, eltrombopag should be initiated at a dose of 25 mg once daily (see section 5.2).
+For adult and paediatric patients of East-/Southeast-Asian ancestry including those with hepatic impairment, eltrombopag should be initiated at a dose of 25 mg once daily (see section 5.2).
 
 Patient platelet count should continue to be monitored and the standard criteria for further dose modification followed.
 
 Paediatric population
-Revolade is not recommended for use in children under the age of one year with ITP due to insufficient data on safety and efficacy.
-The safety and efficacy of eltrombopag has not been established in children and adolescents (<18 years) with chronic HCV related thrombocytopenia or SAA.
+Revolade is not recommended for use in children under the age of 1 year with ITP due to insufficient data on safety and efficacy.
+
+The safety and efficacy of eltrombopag has not been established in children and adolescents
+(<18 years) with chronic HCV related thrombocytopenia.
 No data are available.
+
+The safety and efficacy of eltrombopag has not been established in children and adolescents
+(<18 years) with SAA.
+Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Method of administration
 
-Oral use.
-The tablets should be taken at least two hours before or four hours after any products such as antacids, dairy products (or other calcium containing food products), or mineral supplements containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc) (see sections 4.5 and 5.2).
+Oral use
+The tablets should be taken at least two hours before or four hours after any products containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc), such as antacids, dairy products (or other calcium containing food products), or mineral supplements (see sections 4.5 and 5.2).
 
 [Revolade 25 mg powder for oral suspension]
 
@@ -183,9 +186,14 @@ The tablets should be taken at least two hours before or four hours after any pr
 | ≥50 000/µl to ≤150 000/µl | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding. |
 | >150 000/µl to ≤250 000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments♦. |
 | >250 000/µl | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg. |
+| * For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg once daily or alternatively a dose of 25 mg once every other day. |  |
+
+Table 3 Dose adjustment of eltrombopag in patients with severe aplastic anaemia
 
 If platelet counts drop to <30 000/µl, haemoglobin drops to <9 g/dl or absolute neutrophil count (ANC) to <0.5 x 109/l, eltrombopag may be reinitiated at the previous effective dose.
 
+For adult and paediatric patients of East-/Southeast-Asian ancestry, including those with hepatic impairment, eltrombopag should be initiated at a dose of 25 mg once daily (see section 5.2).
+
 Method of administration (see section 6.6)
 
-The suspension should be taken at least two hours before or four hours after any products such as antacids, dairy products (or other calcium containing food products), or mineral supplements containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc) (see sections 4.5 and 5.2).
+The suspension should be taken at least two hours before or four hours after any products containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc), such as antacids, dairy products (or other calcium containing food products), or mineral supplements (see sections 4.5 and 5.2).

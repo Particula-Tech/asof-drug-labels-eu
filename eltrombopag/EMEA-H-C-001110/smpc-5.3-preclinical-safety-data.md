@@ -11,7 +11,6 @@ At ≥4 times the human clinical exposure in ITP patients at 75 mg/day and 2 tim
 At non-tolerated doses in pre-weaning juvenile rats dosed from Days 4-32 (approximately equating to a 2-year-old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC.
 However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC.
 Cataracts have not been observed in adult dogs after 52 weeks of dosing at 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
-
 Renal tubular toxicity was observed in studies of up to 14 days duration in mice and rats at exposures that were generally associated with morbidity and mortality.
 Tubular toxicity was also observed in a 2-year oral carcinogenicity study in mice at doses of 25, 75 and 150 mg/kg/day.
 Effects were less severe at lower doses and were characterised by a spectrum of regenerative changes.
@@ -26,13 +25,13 @@ There were no effects of note on red cell mass or reticulocyte counts after dosi
 
 Endosteal hyperostosis was observed in a 28-week toxicity study in rats at a non-tolerated dose of 60 mg/kg/day (6 times or 4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 There were no bone changes observed in mice or rats after lifetime exposure (2 years) at 4 times or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
+
 Carcinogenicity and mutagenicity
 
 Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical exposure in HCV patients at 100 mg/day, based on Cmax).
 In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (<3-fold increase in mutation frequency).
 These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
-
 Reproductive toxicity
 
 Eltrombopag did not affect female fertility, early embryonic development or embryofoetal development in rats at doses up to 20 mg/kg/day (2 times the human clinical exposure in adult or adolescent (12-17 years old) ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).

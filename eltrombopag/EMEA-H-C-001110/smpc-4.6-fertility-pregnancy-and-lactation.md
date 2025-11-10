@@ -21,4 +21,4 @@ A decision must be made whether to discontinue breast-feeding or to continue/abs
 Fertility
 
 Fertility was not affected in male or female rats at exposures that were comparable to those in humans.
-However a risk for humans cannot be ruled out (see section 5.3).
+However, a risk for humans cannot be ruled out (see section 5.3).

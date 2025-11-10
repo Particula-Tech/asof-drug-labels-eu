@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 There is an increased risk for adverse reactions, including potentially fatal hepatic decompensation and thromboembolic events, in thrombocytopenic HCV patients with advanced chronic liver disease, as defined by low albumin levels ≤35 g/l or model for end stage liver disease (MELD) score ≥10, when treated with eltrombopag in combination with interferon-based therapy.
-In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especially for those with baseline albumin ≤35g/l) compared with the group overall.
+In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall.
 Treatment with eltrombopag in these patients should be initiated only by physicians experienced in the management of advanced HCV, and only when the risks of thrombocytopenia or withholding antiviral therapy necessitate intervention.
 If treatment is considered clinically indicated, close monitoring of these patients is required.
 
@@ -13,7 +13,7 @@ Risk of hepatotoxicity
 
 Eltrombopag administration can cause abnormal liver function and severe hepatotoxicity, which might be life-threatening (see section 4.8).
 
-Serum alanine aminotransferase (ALT), aspartate aminotrasferase (AST) and bilirubin should be measured prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
+Serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin should be measured prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
 Eltrombopag inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubinaemia.
 If bilirubin is elevated fractionation should be performed.
 Abnormal serum liver tests should be evaluated with repeat testing within 3 to 5 days.
@@ -35,7 +35,7 @@ Hepatic decompensation (use with interferon)
 Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤35 g/l) or with MELD score ≥10 at baseline.
 Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
 In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%).
-In patients with low albumin levels (≤ 35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
+In patients with low albumin levels (≤35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation.
@@ -66,9 +66,9 @@ The risk-benefit balance should be considered in patients at risk of TEEs of any
 
 No case of TEE was identified from a clinical study in refractory SAA, however the risk of these events cannot be excluded in this patient population due to the limited number of exposed patients.
 As the highest authorised dose is indicated for patients with SAA (150 mg/day) and due to the nature of the reaction, TEEs might be expected in this patient population.
-
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
+
 Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag.
@@ -101,9 +101,9 @@ In clinical studies with a TPO-R agonist in patients with MDS, cases of transien
 
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.
 Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms, or abnormal signs such as increased peripheral blast cells.
-
 The effectiveness and safety of Revolade have not been established for the treatment of thrombocytopenia due to MDS.
 Revolade should not be used outside of clinical studies for the treatment of thrombocytopenia due to MDS.
+
 Cytogenetic abnormalities and progression to MDS/AML in patients with SAA
 
 Cytogenetic abnormalities are known to occur in SAA patients.
@@ -142,20 +142,16 @@ A loss of response or failure to maintain a platelet response with eltrombopag t
 Paediatric population
 
 The above warnings and precautions for ITP also apply to the paediatric population.
-
 Interference with laboratory tests
 
 Eltrombopag is highly coloured and so has the potential to interfere with some laboratory tests.
 Serum discolouration and interference with total bilirubin and creatinine testing have been reported in patients taking Revolade.
 If the laboratory results and clinical observations are inconsistent, re-testing using another method may help in determining the validity of the result.
+
 Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially ‘sodium-free’.
 
 [Revolade 25 mg powder for oral suspension]
-
-In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall.
-
-In patients with low albumin levels (≤35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 
 In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of patients [7/41 (where 4 of them had changes in chromosome 7)].

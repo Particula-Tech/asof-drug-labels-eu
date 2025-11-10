@@ -3,21 +3,20 @@
 Pharmacokinetics
 
 The plasma eltrombopag concentration-time data collected in 88 patients with ITP in studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis.
-Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (Table 9).
-
-Table 9 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
+Plasma eltrombopag AUC(0-τ) and Cmax estimates for ITP patients are presented (Table 12).
+Table 12 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
 | Eltrombopag dose, once daily | N | AUC(0-τ)a, μg.h/ml | Cmaxa, μg/ml |
 | --- | --- | --- | --- |
 | 30 mg | 28 | 47 (39, 58) | 3.78 (3.18, 4.49) |
 | 50 mg | 34 | 108 (88, 134) | 8.01 (6.73, 9.53) |
 | 75 mg | 26 | 168 (143, 198) | 12.7 (11.0, 14.5) |
+| a AUC(0-τ) and Cmax based on population PK post-hoc estimates. |  |  |  |
 
-a AUC(0-τ) and Cmax based on population PK post-hoc estimates.
 Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis.
-Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 10.
+Plasma eltrombopag Cmax and AUC(0-τ) estimates for adult patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 13.
 
-Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
+Table 13 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
 | Eltrombopag dose (once daily) | N | AUC(0-τ) (μg.h/ml) | Cmax (μg/ml) |
 | --- | --- | --- | --- |
@@ -25,9 +24,7 @@ Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic
 | 50 mg | 119 | 166 (143, 192) | 9.08 (7.96, 10.35) |
 | 75 mg | 45 | 301 (250, 363) | 16.71 (14.26, 19.58) |
 | 100 mg | 96 | 354 (304, 411) | 19.19 (16.81, 21.91) |
-
-Data presented as geometric mean (95% CI).
-AUC (0-τ) and Cmax based on population PK post-hoc estimates at the highest dose in the data for each patient.
+| AUC(0-τ) and Cmax based on population PK post-hoc estimates at the highest dose in the data for each patient. |  |  |  |
 
 Absorption and bioavailability
 
@@ -41,7 +38,6 @@ Distribution
 
 Eltrombopag is highly bound to human plasma proteins (>99.9%), predominantly to albumin.
 Eltrombopag is a substrate for BCRP, but is not a substrate for P-glycoprotein or OATP1B1.
-
 Biotransformation
 
 Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation with glucuronic acid, glutathione, or cysteine.
@@ -49,6 +45,7 @@ In a human radiolabel study, eltrombopag accounted for approximately 64% of plas
 Minor metabolites due to glucuronidation and oxidation were also detected.
 In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag.
 Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
+
 Elimination
 
 Absorbed eltrombopag is extensively metabolised.
@@ -77,7 +74,6 @@ In vitro studies demonstrated that eltrombopag is not a substrate for the organi
 In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor (IC50 value of 2.7 μM [1.2 μg/ml]).
 
 Special patient populations
-
 Renal impairment
 
 The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with renal impairment.
@@ -86,6 +82,7 @@ There was substantial variability and significant overlap in exposures between p
 Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2).
 The efficacy and safety of eltrombopag have not been established in patients with both moderate to severe renal impairment and hepatic impairment.
+
 Hepatic impairment
 
 The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with hepatic impairment.
@@ -107,7 +104,6 @@ Based on estimates from the population pharmacokinetic analysis, East-Asian ITP 
 
 The influence of East-/Southeast-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East-Asians and 69 Southeast-Asians).
 Based on estimates from the population pharmacokinetic analysis, East- /Southeast-Asian patients had approximately 55% higher plasma eltrombopag AUC(0-τ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
-
 Gender
 
 The influence of gender on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (14 females) and 88 patients with ITP (57 females).
@@ -115,6 +111,7 @@ Based on estimates from the population pharmacokinetic analysis, female ITP pati
 
 The influence of gender on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 635 patients with HCV (260 females).
 Based on model estimate, female HCV patient had approximately 41% higher plasma eltrombopag AUC(0-τ) as compared to male patients.
+
 Age
 
 The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old.
@@ -130,15 +127,74 @@ East-/Southeast-Asian paediatric ITP patients had approximately 43% higher plasm
 Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0-τ) values as compared to male patients.
 
 The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in
-Table 11.
+Table 14.
 
-Table 11 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
+Table 14 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
 
 | Age | Cmax (µg/ml) | AUC(0-τ) (µg.hr/ml) |
 | --- | --- | --- |
 | 12 to 17 years (n=62) | 6.80 (6.17, 7.50) | 103 (91.1, 116) |
 | 6 to 11 years (n=68) | 10.3 (9.42, 11.2) | 153 (137, 170) |
 | 1 to 5 years (n=38) | 11.6 (10.4, 12.9) | 162 (139, 187) |
+| Data presented as geometric mean (95%CI). AUC(0-τ) and Cmax based on population PK post-hoc estimates. |  |  |
 
-Data presented as geometric mean (95%CI).
-AUC(0-τ) and Cmax based on population PK post-hoc estimates
+Plasma eltrombopag PK data collected at the highest individual steady state dose from 38 paediatric patients with first-line (cohort B) or second-line (cohort A) SAA enrolled in study CETB115E2201 are presented after adjustment to a common 50 mg dose in Table 15.
+Overall, eltrombopag clearance was lower and eltrombopag plasma exposure was higher for patients aged 2 to <6 years of age compared to patients aged 6 to <18 years.
+Table 15 Eltrombopag steady-state PK parameters in CETB115E2201, adjusted to a 50 mg dose, at the highest individual dose (Week 12 or later) by cohort and age group
+
+| Treatment | Age group | Statistic | AUC(0-τ) (µg.hr/ml) | Cmax |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | (µg/ml) |
+| Cohort A (N=11) | 2 to <6 years | n | 1 | 1 |
+|  |  | Geo-mean | 272 | 16.1 |
+|  |  | Geo-CV% |  |  |
+|  | 6 to <18 years | n | 5 | 7 |
+|  |  | Geo-mean | 306 | 14.5 |
+|  |  | Geo-CV% | 63.8 | 58.2 |
+| Cohort B (N=27) | 2 to <6 years | n | 6 | 8 |
+|  |  | Geo-mean | 502 | 27.1 |
+|  |  | Geo-CV% | 65.6 | 40.6 |
+|  | 6 to <18 years | n | 10 | 15 |
+|  |  | Geo-mean | 275 | 15.6 |
+|  |  | Geo-CV% | 52.6 | 47.2 |
+| Total patients (N=38) | 2 to <6 years | n | 7 | 9 |
+|  |  | Geo-mean | 460 | 25.6 |
+|  |  | Geo-CV% | 64.9 | 42.2 |
+|  | 6 to < 18 years | n | 15 | 22 |
+|  |  | Geo-mean | 285 | 15.2 |
+|  |  | Geo-CV% | 54.2 | 49.5 |
+| Cohort A: eltrombopag administered as second-line treatment, Cohort B: eltrombopag administered as first- |  |  |  |  |
+| line treatment |  |  |  |  |
+
+[Revolade 25 mg powder for oral suspension]
+
+| Age | Cmax (µg/ml) | AUC(0-τ) (µg.hr/ml) |
+| --- | --- | --- |
+| 12 to 17 years (n=62) | 6.80 (6.17, 7.50) | 103 (91.1, 116) |
+| 6 to 11 years (n=68) | 10.3 (9.42, 11.2) | 153 (137, 170) |
+| 1 to 5 years (n=38) | 11.6 (10.4, 12.9) | 162 (139, 187) |
+| Data presented as geometric mean (95% CI). AUC(0-τ) and Cmax based on population PK post-hoc estimates. |  |  |
+
+| Treatment | Age group | Statistic | AUC(0-τ) | Cmax |
+| --- | --- | --- | --- | --- |
+|  |  |  | (µg.hr/ml) | (µg/ml) |
+| Cohort A (N=11) | 2 to <6 years | n | 1 | 1 |
+|  |  | Geo-mean | 272 | 16.1 |
+|  |  | Geo-CV% |  |  |
+|  | 6 to <18 years | n | 5 | 7 |
+|  |  | Geo-mean | 306 | 14.5 |
+|  |  | Geo-CV% | 63.8 | 58.2 |
+| Cohort B (N=27) | 2 to <6 years | n | 6 | 8 |
+|  |  | Geo-mean | 502 | 27.1 |
+|  |  | Geo-CV% | 65.6 | 40.6 |
+|  | 6 to <18 years | n | 10 | 15 |
+|  |  | Geo-mean | 275 | 15.6 |
+|  |  | Geo-CV% | 52.6 | 47.2 |
+| Total Patients (N=38) | 2 to <6 years | n | 7 | 9 |
+|  |  | Geo-mean | 460 | 25.6 |
+|  |  | Geo-CV% | 64.9 | 42.2 |
+|  | 6 to <18 years | n | 15 | 22 |
+|  |  | Geo-mean | 285 | 15.2 |
+|  |  | Geo-CV% | 54.2 | 49.5 |
+| Cohort A: eltrombopag administered as second-line treatment, Cohort B: eltrombopag administered as first- |  |  |  |  |
+| line treatment |  |  |  |  |

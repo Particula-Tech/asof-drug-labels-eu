@@ -25,7 +25,6 @@ Co-administration of a single dose of eltrombopag 200 mg with telaprevir 750 mg 
 
 Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg every 8 hours did not alter plasma boceprevir AUC(0-τ), but increased Cmax by 20%, and decreased Cmin by 32%.
 The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
-
 Effects of other medicinal products on eltrombopag
 
 Ciclosporin
@@ -36,6 +35,7 @@ The co-administration of 600 mg ciclosporin decreased the Cmax and the AUC0-∞ 
 Eltrombopag dose adjustment is permitted during the course of the treatment based on the patient’s platelet count (see section 4.2).
 Platelet count should be monitored at least weekly for 2 to 3 weeks when eltrombopag is co-administered with ciclosporin.
 Eltrombopag dose may need to be increased based on these platelet counts.
+
 Polyvalent cations (chelation)
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc.
@@ -62,13 +62,13 @@ Medicinal products for treatment of ITP
 
 Medicinal products used in the treatment of ITP in combination with eltrombopag in clinical studies included corticosteroids, danazol, and/or azathioprine, intravenous immunoglobulin (IVIG), and anti-D immunoglobulin.
 Platelet counts should be monitored when combining eltrombopag with other medicinal products for the treatment of ITP in order to avoid platelet counts outside of the recommended range (see section 4.2).
-
 Food interaction
 
 The administration of eltrombopag tablet or powder for oral suspension formulations with a high-calcium meal (e.g. a meal that included dairy products) significantly reduced plasma eltrombopag AUC0-∞ and Cmax.
 In contrast, the administration of eltrombopag 2 hours before or 4 hours after a high-calcium meal or with low-calcium food [<50 mg calcium] did not alter plasma eltrombopag exposure to a clinically significant extent (see section 4.2).
 
 Administration of a single 50 mg dose of eltrombopag in tablet form with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag mean AUC0-∞ by 59% and mean Cmax by 65%.
+
 Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a high-calcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75% and mean Cmax by 79%.
 This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
 
