@@ -58,9 +58,9 @@ Monitoring of BCR-ABL transcript levels must be performed with a quantitative di
 Patients with confirmed loss of MR4 (MR4= BCR-ABL/ABL ≤0.01%IS) during the treatment-free phase (two consecutive measures separated by at least 4 weeks showing loss of MR4) or loss of major molecular response (MMR=BCR-ABL/ABL ≤0.1%IS) must re-initiate treatment within 4 weeks of when loss of remission is known to have occurred.
 Nilotinib therapy should be re-initiated at either 300 mg or 400 mg twice daily.
 Patients who re-initiate nilotinib therapy should have their BCR-ABL transcript levels monitored monthly until previous major molecular response or MR4 level is re-established and every 12 weeks thereafter (see section 4.4).
-
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 2).
+
 Table 2 Dose adjustments for neutropenia and thrombocytopenia
 
 | Adult patients with newly diagnosed chronic phase CML at 300 mg twice daily and imatinib-resistant or intolerant CML in chronic phase at 400 mg twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >50 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
@@ -80,13 +80,13 @@ In paediatric patients, treatment must be interrupted until the event returns to
 Thereafter, if the prior dose was 230 mg/m2 twice daily, treatment can be resumed at 230 mg/m2 once daily.
 If the prior dose was 230 mg/m2 once daily, treatment should be discontinued.
 Serum lipase levels should be tested monthly or as clinically indicated (see section 4.4).
-
 Elevated bilirubin and hepatic transaminases: For Grade 3-4 bilirubin and hepatic transaminase elevations in adult patients, doses should be reduced to 400 mg once daily or interrupted.
 For
 Grade ≥2 bilirubin elevations or Grade ≥3 hepatic transaminase elevations in paediatric patients, treatment must be interrupted until the levels return to Grade ≤1.
 Thereafter, if the prior dose was 230 mg/m2 twice daily, treatment can be resumed at 230 mg/m2 once daily.
 If the prior dose was 230 mg/m2 once daily, and recovery to Grade ≤1 takes longer than 28 days, treatment should be discontinued.
 Bilirubin and hepatic transaminases levels should be tested monthly or as clinically indicated.
+
 Special populations
 Elderly
 Approximately 12% of subjects in the Phase III study in patients with newly diagnosed CML in chronic phase and approximately 30% of subjects in the Phase II study in patients with imatinib-resistant or intolerant CML in chronic phase and accelerated phase were 65 years of age or over.

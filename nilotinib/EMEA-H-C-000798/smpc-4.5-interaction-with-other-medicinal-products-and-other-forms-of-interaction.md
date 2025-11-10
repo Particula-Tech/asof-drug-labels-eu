@@ -6,6 +6,7 @@ It may be given with hydroxyurea or anagrelide if clinically indicated.
 Nilotinib is mainly metabolised in the liver with CYP3A4 expected to be the main contributor to the oxidative metabolism.
 Nilotinib is also a substrate for the multi-drug efflux pump, P-glycoprotein (P-gp).
 Therefore, absorption and subsequent elimination of systemically absorbed nilotinib may be influenced by substances that affect CYP3A4 and/or P-gp.
+
 Substances that may increase nilotinib serum concentrations
 
 Concomitant administration of nilotinib with imatinib (a substrate and moderator of P-gp and CYP3A4), had a slight inhibitory effect on CYP3A4 and/or P-gp.
@@ -34,7 +35,6 @@ Therefore, when the concurrent use of a H2 blocker is necessary, it may be admin
 
 In the same study as above, administration of an antacid (aluminium hydroxide/magnesium hydroxide/simethicone) 2 hours before or after a single 400 mg dose of nilotinib also did not alter nilotinib pharmacokinetics.
 Therefore, if necessary, an antacid may be administered approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
-
 Substances that may have their systemic concentration altered by nilotinib
 
 In vitro, nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1, with Ki value being lowest for CYP2C9 (Ki=0.13 microM).
@@ -43,6 +43,7 @@ A single-dose drug-drug interaction study in healthy volunteers with 25 mg warfa
 There are no steady-state data.
 This study suggests that a clinically meaningful drug-drug interaction between nilotinib and warfarin is less likely up to a dose of 25 mg of warfarin.
 Due to lack of steady-state data, control of warfarin pharmacodynamic markers (INR or PT) following initiation of nilotinib therapy (at least during the first 2 weeks) is recommended.
+
 In CML patients, nilotinib administered at 400 mg twice daily for 12 days increased the systemic exposure (AUC and Cmax) of oral midazolam (a substrate of CYP3A4) 2.6-fold and 2.0-fold, respectively.
 Nilotinib is a moderate CYP3A4 inhibitor.
 As a result, the systemic exposure of other medicinal products primarily metabolised by CYP3A4 (e.g. certain HMG-CoA reductase inhibitors) may be increased when co-administered with nilotinib.
