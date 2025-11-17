@@ -24,11 +24,11 @@ Pembrolizumab in combination with tyrosine kinase inhibitor (TKI) (see section 4
 When pembrolizumab is administered in combination with axitinib or lenvatinib, refer to the SmPC for axitinib or lenvatinib prior to initiation of treatment.
 For additional lenvatinib safety information related to advanced RCC see the SmPC for Kisplyx and for advanced EC see the SmPC for Lenvima.
 For additional axitinib safety information for elevated liver enzymes see also section 4.4.
+
 The safety of pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1 456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate.
 In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%).
 Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% for sunitinib alone.
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
-
 Tabulated summary of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
@@ -171,6 +171,7 @@ Generally, adverse event frequencies were higher in patients ≥ 65 years of age
 Description of selected adverse reactions
 Data for the following immune-mediated adverse reactions are based on patients who received pembrolizumab across four doses (2 mg/kg bw every 3 weeks, 10 mg/kg bw every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
 The management guidelines for these adverse reactions are described in section 4.4.
+
 Immune-mediated adverse reactions (see section 4.4)
 
 Immune-mediated pneumonitis
@@ -185,7 +186,6 @@ Pneumonitis resolved in 196 patients, 6 with sequelae.
 In patients with NSCLC, pneumonitis occurred in 230 (6.1%), including Grade 2, 3, 4 or 5 cases in 103 (2.7%), 63 (1.7%), 17 (0.4%) and 10 (0.3%), respectively.
 In patients with locally advanced or metastatic NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
 In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
-
 Immune-mediated colitis
 Colitis occurred in 158 (2.1%) patients, including Grade 2, 3 or 4 cases in 49 (0.6%), 82 (1.1%) and 6 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of colitis was 4.3 months (range: 2 days to 24.3 months).
@@ -222,13 +222,13 @@ The median time to onset of hypophysitis was 5.9 months (range: 1 day to 17.7 mo
 The median duration was 3.6 months (range: 3 days to 48.1+ months).
 Hypophysitis led to discontinuation of pembrolizumab in 14 (0.2%) patients.
 Hypophysitis resolved in 23 patients, 8 with sequelae.
+
 Hyperthyroidism occurred in 394 (5.2%) patients, including Grade 2 or 3 cases in 108 (1.4%) and 9 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hyperthyroidism was 1.4 months (range: 1 day to 23.2 months).
 The median duration was 1.6 months (range: 4 days to 43.1+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 4 (0.1%) patients.
 Hyperthyroidism resolved in 326 (82.7%) patients, 11 with sequelae.
 In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
-
 Hypothyroidism occurred in 939 (12.3%) patients, including Grade 2 or 3 cases in 687 (9.0%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypothyroidism was 3.4 months (range: 1 day to 25.9 months).
 The median duration was not reached (range: 2 days to 63.0+ months).
@@ -262,6 +262,7 @@ No patients experienced engraftment syndrome post-transplant.
 Of 14 patients in KEYNOTE-204 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 8 patients reported acute GVHD and 3 patients reported chronic GVHD, none of which were fatal.
 No patients experienced hepatic VOD.
 One patient experienced engraftment syndrome post-transplant.
+
 Elevated liver enzymes when pembrolizumab is combined with axitinib in RCC
 In a clinical study of previously untreated patients with RCC receiving pembrolizumab in combination with axitinib, a higher than expected incidence of Grades 3 and 4 ALT increased (20%) and AST increased (13%) were observed.
 The median time to onset of ALT increased was 2.3 months (range:
@@ -271,7 +272,6 @@ Fifty-nine percent of the patients with increased ALT received systemic corticos
 Of the patients who recovered, 92 (84%) were rechallenged with either pembrolizumab (3%) or axitinib (31%) monotherapy or with both (50%).
 Of these patients, 55% had no recurrence of ALT > 3 times ULN, and of those patients with recurrence of ALT > 3 times ULN, all recovered.
 There were no Grade 5 hepatic events.
-
 Laboratory abnormalities
 In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 9.9% for lymphocytes decreased, 7.3% for sodium decreased, 5.7% for haemoglobin decreased, 4.6% for glucose increased, 4.5% for phosphate decreased, 3.1% for ALT increased, 2.9% for AST increased, 2.6% for alkaline phosphatase increased, 2.2% for potassium decreased, 2.1% for neutrophils decreased, 1.7% for bilirubin increased, 1.7% for platelets decreased, 1.7% for potassium increased, 1.6% for calcium increased, 1.4% for albumin decreased, 1.3% for calcium decreased, 1.2% for creatinine increased, 0.8% for leukocytes decreased, 0.8% for magnesium increased, 0.6% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
 
@@ -292,10 +292,118 @@ The majority of adverse reactions reported for monotherapy were of Grades 1 or 2
 Seventy-six (47.2%) patients had 1 or more Grades 3 to 5 adverse reactions of which 5 (3.1%) patients had 1 or more adverse reactions that resulted in death.
 The frequencies are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
 Long-term safety data of pembrolizumab in adolescents with Stage IIB, IIC and III melanoma treated in the adjuvant setting are currently unavailable.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
 
 listed in Appendix V.
+
+[KEYTRUDA 395 mg solution for injection]
+
+Subcutaneous formulation
+The safety profile of KEYTRUDA solution for injection in combination with platinum doublet chemotherapy (evaluated in 126 and 251 patients treated with the intravenous and subcutaneous formulations respectively) was overall consistent with the known safety profile of intravenous pembrolizumab in combination with chemotherapy, with an additional adverse reaction of injection-site reactions (2.4% in the subcutaneous pembrolizumab arm), which were all Grade 1.
+
+The safety of intravenous pembrolizumab as monotherapy has been evaluated in 7 631 patients across tumour types and across four doses (2 mg/kg bw every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg bw every 2 or 3 weeks) in clinical studies.
+
+The safety of intravenous pembrolizumab in combination with chemotherapy, RT or CRT has been evaluated in 6 695 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
+
+The safety of intravenous pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1 456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate.
+
+Adverse reactions observed in clinical studies of intravenous pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
+
+| MedDRA SOC and frequency category | Monotherapy | In combination with chemotherapy, radiation therapy or chemoradiotherapy | In combination with axitinib or lenvatinib |
+| --- | --- | --- | --- |
+| Infections and infestations |  |  |  |
+| Very common |  |  | urinary tract infection |
+| Common | pneumonia | pneumonia | pneumonia |
+| Blood and lymphatic system disorders |  |  |  |
+| Very common | anaemia | anaemia, neutropenia, thrombocytopenia | anaemia |
+| Common | thrombocytopenia, neutropenia, lymphopenia | febrile neutropenia, leukopenia, lymphopenia | neutropenia, thrombocytopenia, lymphopenia, leukopenia |
+| Uncommon | leukopenia, immune thrombocytopenia, eosinophilia | haemolytic anaemia⁎, eosinophilia | eosinophilia |
+| Rare | haemolytic anaemia⁎, haemophagocytic lymphohistiocytosis, pure red cell aplasia | immune thrombocytopenia |  |
+| Immune system disorders |  |  |  |
+| Common | infusion-related reaction⁎ | infusion-related reaction⁎ | infusion-related reaction⁎ |
+| Uncommon | sarcoidosis⁎ |  |  |
+| Rare |  | sarcoidosis |  |
+| Not known | solid organ transplant rejection |  |  |
+| Endocrine disorders |  |  |  |
+| Very common | hypothyroidism⁎ | hypothyroidism⁎ | hypothyroidism |
+| Common | hyperthyroidism | adrenal insufficiency⁎, hyperthyroidism⁎, thyroiditis⁎ | adrenal insufficiency⁎, hyperthyroidism, thyroiditis⁎ |
+| Uncommon | adrenal insufficiency⁎, hypophysitis⁎, thyroiditis⁎ | hypophysitis⁎ | hypophysitis⁎ |
+| Rare | hypoparathyroidism | hypoparathyroidism | hypoparathyroidism |
+| Metabolism and nutrition disorders |  |  |  |
+| Very common | decreased appetite | hypokalaemia, decreased appetite | decreased appetite |
+| Common | hyponatraemia, hypokalaemia, hypocalcaemia | hyponatraemia, hypocalcaemia | hyponatraemia, hypokalaemia, hypocalcaemia |
+| Uncommon | type 1 diabetes mellitus⁎ | type 1 diabetes mellitus⁎ | type 1 diabetes mellitus⁎ |
+| Psychiatric disorders |  |  |  |
+| Very common |  | insomnia |  |
+| Common | insomnia |  | insomnia |
+| Nervous system disorders |  |  |  |
+| Very common | headache | neuropathy peripheral, headache | headache, dysgeusia |
+| Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | dizziness, dysgeusia | dizziness, neuropathy peripheral, lethargy |
+| Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, epilepsy, lethargy | myasthenic syndrome⁎, encephalitis⁎ |
+| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome⁎, Guillain-Barré syndrome⁎, myelitis, optic neuritis, meningitis (aseptic) | optic neuritis |
+| Eye disorders |  |  |  |
+| Common | dry eye | dry eye | dry eye |
+| Uncommon | uveitis⁎ | uveitis⁎ | uveitis⁎ |
+| Rare | Vogt-Koyanagi-Har ada syndrome |  | Vogt-Koyanagi-Harad a syndrome |
+| Cardiac disorders |  |  |  |
+| Common | cardiac arrhythmia‡ (including atrial fibrillation) | cardiac arrhythmia‡ (including atrial fibrillation) | cardiac arrhythmia‡ (including atrial fibrillation) |
+| Uncommon | myocarditis, pericarditis⁎, pericardial effusion | myocarditis⁎, pericarditis⁎, pericardial effusion | myocarditis, pericardial effusion |
+| Vascular disorders |  |  |  |
+| Very common |  |  | hypertension |
+| Common | hypertension | hypertension |  |
+| Uncommon |  | vasculitis⁎ | vasculitis⁎ |
+| Rare | vasculitis⁎ |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |
+| Very common | dyspnoea, cough | dyspnoea, cough | dyspnoea, cough |
+| Common | pneumonitis⁎ | pneumonitis⁎ | pneumonitis⁎ |
+| Gastrointestinal disorders |  |  |  |
+| Very common | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation | diarrhoea, nausea, vomiting, abdominal pain⁎, constipation | diarrhoea, abdominal pain⁎, nausea, vomiting, constipation |
+| Common | colitis⁎, dry mouth | colitis⁎, gastritis⁎, dry mouth | colitis⁎, pancreatitis⁎, gastritis⁎, dry mouth |
+| Uncommon | pancreatitis⁎, gastritis⁎, gastrointestinal ulceration⁎ | pancreatitis⁎, gastrointestinal ulceration⁎ | gastrointestinal ulceration⁎ |
+| Rare | pancreatic exocrine insufficiency, small intestinal perforation, coeliac disease | pancreatic exocrine insufficiency, small intestinal perforation, coeliac disease | small intestinal perforation |
+| Not known |  |  | pancreatic exocrine insufficiency, coeliac disease |
+| Hepatobiliary disorders |  |  |  |
+| Common | hepatitis⁎ | hepatitis⁎ | hepatitis⁎ |
+| Rare | cholangitis sclerosing | cholangitis sclerosing⁎ |  |
+| Skin and subcutaneous tissue disorders |  |  |  |
+| Very common | pruritus⁎, rash⁎ | rash⁎, alopecia, pruritus⁎ | rash⁎, pruritus⁎ |
+| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, erythema, dermatitis, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
+| Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, lichenoid keratosis⁎, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
+| Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+| Very common | musculoskeletal pain⁎, arthralgia | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
+| Common | myositis⁎, pain in extremity, arthritis⁎ | myositis⁎, pain in extremity, arthritis⁎ | arthritis⁎ |
+| Uncommon | tenosynovitis⁎ | tenosynovitis⁎ | tenosynovitis⁎ |
+| Rare | Sjogren’s syndrome | Sjogren’s syndrome | Sjogren’s syndrome |
+| Renal and urinary disorders |  |  |  |
+| Common |  | acute kidney injury | nephritis⁎ |
+| Uncommon | nephritis⁎ | nephritis⁎, cystitis noninfective |  |
+| Rare | cystitis noninfective |  | cystitis noninfective |
+| General disorders and administration site conditions |  |  |  |
+| Very common | fatigue, asthenia, oedema⁎, pyrexia | fatigue, asthenia, pyrexia, oedema⁎ | fatigue, asthenia, oedema⁎, pyrexia |
+| Common | influenza-like illness, chills | influenza-like illness, chills, injection site reaction§ | influenza-like illness, chills |
+| Investigations |  |  |  |
+| Very common |  | alanine aminotransferase increased, aspartate aminotransferase increased | lipase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
+| Common | alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased, blood creatinine increased | blood bilirubin increased, blood alkaline phosphatase increased, blood creatinine increased, hypercalcaemia | amylase increased, blood bilirubin increased, blood alkaline phosphatase increased, hypercalcaemia |
+| Uncommon | amylase increased | amylase increased |  |
+
+§Reported in a study outside of the pooled dataset (subcutaneous injection related).
+The frequency is based on exposure to KEYTRUDA solution for injection in MK-3475A-D77 and includes injection site reaction, injection site erythema, injection site haemorrhage, injection site induration and injection site pain.
+⁎ The following terms represent a group of related events that describe a medical condition rather than a single event:
+
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin has been evaluated among 564 patients with unresectable or metastatic urothelial carcinoma receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
+
+Data for the following immune-mediated adverse reactions are based on patients who received intravenous pembrolizumab across four doses (2 mg/kg bw every 3 weeks, 10 mg/kg bw every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
+
+In a clinical study in patients treated with subcutaneous administration of KEYTRUDA solution for injection 790 mg every 6 weeks or intravenous administration of pembrolizumab 400 mg every 6 weeks, with a median duration of treatment on subcutaneous pembrolizumab exceeding 6 months (range: 1 day to 12.5 months), 1.4% (3/211) of patients developed treatment-emergent anti-pembrolizumab antibodies and 0.5% (1/211) developed neutralising antibodies.
+In the intravenous pembrolizumab arm, 0.9% (1/114) of patients developed treatment-emergent anti-pembrolizumab antibodies and 0% (0/114) developed neutralising antibodies.
+The pembrolizumab immunogenicity profile of subcutaneous pembrolizumab was consistent with the known immunogenicity profile of intravenous pembrolizumab.
+
+The incidence of treatment-emergent anti-recombinant berahyaluronidase alfa antibodies was 1.5% (3/194) with low titer values reported for all three subjects and no detectable systemic concentration of recombinant berahyaluronidase alfa.
+The clinical relevance of the development of anti-recombinant berahyaluronidase alfa antibodies after treatment with subcutaneous pembrolizumab is unknown.
+
+The safety of pembrolizumab solution for injection in paediatric patients has not been established in clinical studies.
+Intravenous formulation

@@ -5,3 +5,13 @@
 Pack sizes: one or two vials per carton.
 
 Not all pack sizes may be marketed.
+
+[KEYTRUDA 395 mg solution for injection]
+
+KEYTRUDA 395 mg solution for injection
+2.4 mL of solution in a Type I glass vial, with a grey chlorobutyl stopper and an aluminium seal with a yellow coloured flip-off cap, containing 395 mg pembrolizumab.
+
+KEYTRUDA 790 mg solution for injection
+4.8 mL of solution in a Type I glass vial, with a grey chlorobutyl stopper and an aluminium seal with a light green coloured flip-off cap, containing 790 mg pembrolizumab.
+
+Each carton contains one vial.

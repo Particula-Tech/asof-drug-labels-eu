@@ -36,6 +36,7 @@ The primary efficacy outcome measures were progression-free survival (PFS; as as
 Secondary efficacy outcome measures were objective response rate (ORR) and response duration.
 Table 3 summarises key efficacy measures in patients naïve to treatment with ipilimumab at the final analysis performed after a minimum of 21 months of follow-up.
 Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 1 and 2.
+
 Table 3: Efficacy results in KEYNOTE-006
 
 | Endpoint | Pembrolizumab 10 mg/kg bw every 3 weeks n=277 | Pembrolizumab 10 mg/kg bw every 2 weeks n=279 | Ipilimumab 3 mg/kg bw every 3 weeks n=278 |
@@ -1060,8 +1061,8 @@ Among the 95 patients with non-epithelioid histology in KEYNOTE-483, baseline ch
 
 The primary efficacy outcome measure was OS.
 Additional efficacy outcome measures were PFS, ORR, and DoR, as assessed by BICR using mRECIST.
-The study demonstrated statistically significant improvement in the overall population in OS [0.79 (95% CI 0.64, 0.98; p-Value 0.0162)] and
-PFS [0.80 (95% CI 0.65, 0.99; p-Value 0.0194)] at the final analysis and ORR [52% (95% CI 45, 59)] vs. [29% (95% CI 23, 35) p-Value < 0.00001] at the interim analysis in patients randomised to pembrolizumab in combination with chemotherapy compared with patients randomised to chemotherapy alone.
+The study demonstrated statistically significant improvement in the overall population in OS [HR 0.79; 95% CI 0.64, 0.98; p-Value 0.0162] and
+PFS [HR 0.80; 95% CI 0.65, 0.99; p-Value 0.0194] at the final analysis and ORR [52% (95% CI 45, 59) vs. 29% (95% CI 23, 35); p-Value < 0.00001] at the interim analysis in patients randomised to pembrolizumab in combination with chemotherapy compared with patients randomised to chemotherapy alone.
 Table 21 summarises key efficacy measures and Figures 19 and 20 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 9.8 months (range: 0.9 to 60.3 months) in the patients with non-epithelioid malignant pleural mesothelioma.
 Table 21: Efficacy results in KEYNOTE-483 for patients with non-epithelioid malignant pleural mesothelioma
 
@@ -2351,7 +2352,7 @@ Table 43: Efficacy results in KEYNOTE-158
 # Based on Kaplan-Meier estimation
 + Denotes there is no progressive disease by the time of last disease assessment
 NR = not reached
-¶ Efficacy analysis population consists of participants in the APaT population, who were enrolled at least 26 weeks prior to the cutoff date
+¶ Efficacy analysis population consists of participants in the All Participants as Treated (APaT) population, who were enrolled at least 26 weeks prior to the cutoff date
 
 Oesophageal carcinoma
 KEYNOTE-590: Controlled study of combination therapy in oesophageal carcinoma patients naïve to treatment
@@ -3181,3 +3182,248 @@ Data from clinical studies in adolescent melanoma patients is very limited and e
 Among the 5 adolescent participants with advanced melanoma treated in KEYNOTE-051, no patient had a complete or a partial response, and 1 patient had stable disease.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of Hodgkin lymphoma (see section 4.2 for information on paediatric use).
+
+[KEYTRUDA 395 mg solution for injection]
+
+KEYTRUDA solution for injection contains the active substance pembrolizumab which provides the therapeutic effect of this medicinal product and recombinant berahyaluronidase alfa (variant of human hyaluronidase PH20), an enzyme that temporarily and locally breaks down hyaluronan.
+Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue.
+Recombinant berahyaluronidase alfa activity results in enhanced dispersion and permeation, which facilitates delivery of medicinal products that are co-administered subcutaneously.
+
+Intravenous pembrolizumab doses of 2 mg/kg bw every 3 weeks, 10 mg/kg bw every 3 weeks, and 10 mg/kg bw every 2 weeks were evaluated in melanoma or previously treated NSCLC clinical studies.
+Based on the modelling and simulation of dose/exposure relationships for efficacy and safety for pembrolizumab, there are no clinically significant differences in efficacy or safety among the doses of 200 mg every 3 weeks, 2 mg/kg bw every 3 weeks, and 400 mg every 6 weeks for intravenous pembrolizumab across the approved dosing regimens.
+The exposures from subcutaneous pembrolizumab doses of 790 mg every 6 weeks or 395 mg every 3 weeks are within the range of exposures from intravenous pembrolizumab doses.
+
+Subcutaneous formulation
+
+Study MK-3475A-D77
+Study MK-3475A-D77 was a randomised, multicentre, open-label, active-controlled study conducted to compare subcutaneous pembrolizumab with intravenous pembrolizumab, both in combination with chemotherapy, in patients with metastatic, squamous or non-squamous NSCLC who had not received prior systemic treatment for metastatic NSCLC and in whom there were no EGFR, ALK or ROS1 genomic tumour aberrations.
+Study MK-3475A-D77 was designed to evaluate the non-inferiority of pembrolizumab model-based Cycle 1 AUC0-6wks and Steady State (Cycle 3) Ctrough of subcutaneous pembrolizumab compared with intravenous pembrolizumab (primary endpoint).
+Secondary endpoints included objective response rate (ORR) and progression-free survival (PFS) as assessed by blinded independent central review (BICR) using Response Evaluation Criteria in Solid Tumours ([RECIST], version 1.1), and overall survival (OS).
+
+Randomisation was stratified by ECOG performance status (0 vs. 1), histology (squamous vs. non-squamous), PD-L1 TPS (< 50% vs. ≥ 50%), and geographic region (East Asia vs. North America/Western Europe/Australia/New Zealand vs. Rest of the World).
+
+Patients were randomised (2:1) to receive either pembrolizumab 790 mg subcutaneously every 6 weeks with platinum doublet chemotherapy or pembrolizumab 400 mg intravenously every 6 weeks with platinum doublet chemotherapy.
+The histology-based chemotherapy regimens are as follows:
+
+- Non-squamous NSCLC: pemetrexed 500 mg/m2 and a platinum chemotherapy (cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min) intravenously every 3 weeks for 4 cycles, followed by pemetrexed 500 mg/m2 intravenously every 3 weeks.
+- Squamous NSCLC: carboplatin AUC 6 mg/mL/min and a taxane (paclitaxel 200 mg/m2 on Day 1 of each 21-day cycle or nab-paclitaxel 100 mg/m2 on Days 1, 8 and 15 of each 21-day cycle) intravenously every 3 weeks for 4 cycles.
+
+Treatment with subcutaneous pembrolizumab or intravenous pembrolizumab continued until
+RECIST 1.1-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 18 cycles (approximately 24 months).
+Treatment with subcutaneous pembrolizumab or intravenous pembrolizumab could be reinitiated for subsequent disease progression and administered for up to an additional 9 cycles (approximately 1 year).
+
+Among the 377 patients in Study MK-3475A-D77 (251 patients in the subcutaneous pembrolizumab arm and 126 patients in the intravenous pembrolizumab arm), baseline characteristics were: median age of 65 years (range: 37 to 87); 53% age 65 or older and 14% age 75 or older; 71% male;
+63% White, 29% Asian, 3% Black, 4% Multiracial; 31% Hispanic or Latino; 35% and 65% ECOG performance status of 0 or 1, respectively.
+Nineteen percent had PD-L1 TPS ≥ 50%; 34% had tumours with squamous histology and 66% had tumours with non-squamous histology; 9% with a history of brain metastases.
+The median time taken to administer pembrolizumab 790 mg subcutaneously was 2 minutes (range: 1 to 12 mins).
+
+The median follow-up time was 8.6 months (range: 0.2-16.4 months).
+Efficacy results for ORR are summarised in Table 3.
+
+Table 3: Efficacy results in Study MK-3475A-D77
+
+| Endpoint | Subcutaneous pembrolizumab + Platinum Doublet Chemotherapy | Intravenous pembrolizumab + Platinum Doublet Chemotherapy |
+| --- | --- | --- |
+|  | n=251 | n=126 |
+| Objective response rate* |  |  |
+| ORR† % (95% CI) | 45.4% (39.1, 51.8) | 42.1% (33.3, 51.2) |
+| Difference in ORR‡ (95% CI) | 3.5% (-7.0, 13.7) |  |
+
+* Descriptive analysis
+† Based on patients with a best overall response as confirmed complete or partial response
+‡ SC minus IV arm; based on stratified Miettinen and Nurminen method
+
+Intravenous formulation
+
+The primary efficacy outcome measures were PFS as assessed by Integrated Radiology and Oncology Assessment [IRO] review using RECIST 1.1 and OS.
+Table 4 summarises key efficacy measures in patients naïve to treatment with ipilimumab at the final analysis performed after a minimum of 21 months of follow-up.
+Table 4: Efficacy results in KEYNOTE-006
+
+Table 5 summarises key efficacy measures at the final analysis in patients previously treated with ipilimumab, and the Kaplan-Meier curve for PFS is shown in Figure 3.
+Table 5: Efficacy results in KEYNOTE-002
+
+Table 6 summarises key efficacy measures in patients previously treated or naïve to treatment with ipilimumab, receiving pembrolizumab at a dose of 2 mg/kg bw based on a minimum follow-up time of 30 months for all patients.
+
+Table 6: Efficacy results in KEYNOTE-001
+
+A subgroup analysis was performed as part of the final analysis of KEYNOTE-002 in patients who were BRAF wild type (n=414; 77%) or BRAF mutant with prior BRAF treatment (n=126; 23%) as summarised in Table 7.
+Table 7: Efficacy results by BRAF mutation status in KEYNOTE-002
+
+A subgroup analysis was performed as part of the final analysis of KEYNOTE-006 in patients who were BRAF wild type (n=525; 63%), BRAF mutant without prior BRAF treatment (n=163; 20%) and BRAF mutant with prior BRAF treatment (n=139; 17%) as summarised in Table 8.
+
+Table 8: Efficacy results by BRAF mutation status in KEYNOTE-006
+
+Table 9: Efficacy results by PD-L1 expression in KEYNOTE-002
+
+Table 10 summarises efficacy results by PD-L1 expression.
+
+Table 10: Efficacy results by PD-L1 expression in KEYNOTE-006
+
+Results reported from the pre-specified final analysis for RFS at a median follow-up of 20.5 months are summarised in Table 11.
+Results reported from the pre-specified final analysis for DMFS at a median follow-up time of 38.5 months are summarised in Table 11 and Figure 5.
+
+Table 11: Efficacy results in KEYNOTE-716
+
+Updated efficacy results with a median follow-up time of 45.5 months are summarised in Table 12 and Figures 6 and 7.
+
+Table 12: Efficacy results in KEYNOTE-054
+
+Table 13 summarises key efficacy measures at a pre-specified interim analysis at a median follow-up time of 29.8 months (range: 0.4 to 62.0 months).
+
+Table 13: Efficacy results in KEYNOTE-671
+
+Table 14 and Figure 10 summarise efficacy results in patients who received adjuvant chemotherapy at the final analysis for DFS performed at a median follow-up time of 46.7 months (range: 0.6 to 84.2).
+Table 14: Efficacy results in KEYNOTE-091 for patients who received adjuvant chemotherapy
+
+The primary efficacy outcome measure was PFS as assessed by BICR using RECIST 1.1.
+Table 15 summarises key efficacy measures for the entire intent to treat (ITT) population.
+Table 15: Efficacy results in KEYNOTE-024
+
+Table 16 summarises key efficacy measures for the TPS
+
+Table 16: Efficacy results (PD-L1 TPS ≥ 50%) in KEYNOTE-042
+
+Table 17 summarises key efficacy measures and Figures 14 and 15 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up of 18.8 months.
+
+Table 17: Efficacy results in KEYNOTE-189
+
+An analysis was performed in KEYNOTE-189 in patients who had PD-L1 TPS < 1% [pembrolizumab combination: n=127 (31%) vs. chemotherapy: n=63 (31%)], TPS 1-49% [pembrolizumab combination: n=128 (31%) vs. chemotherapy: n=58 (28%)] or ≥ 50% [pembrolizumab combination: n=132 (32%) vs. chemotherapy: n=70 (34%)] (see Table 18).
+
+Table 18: Efficacy results by PD-L1 expression in KEYNOTE-189*
+
+Table 19 summarises key efficacy measures and Figures 16 and 17 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up of 14.3 months.
+Table 19: Efficacy results in KEYNOTE-407
+
+An analysis was performed in KEYNOTE-407 in patients who had PD-L1 TPS < 1% [pembrolizumab plus chemotherapy arm: n=95 (34%) vs. placebo plus chemotherapy arm: n=99 (35%)], TPS 1% to 49% [pembrolizumab plus chemotherapy arm: n=103 (37%) vs. placebo plus chemotherapy arm: n=104 (37%)] or TPS ≥ 50% [pembrolizumab plus chemotherapy arm: n=73 (26%) vs. placebo plus chemotherapy arm: n=73 (26%)] (see Table 20).
+
+Table 20: Efficacy results by PD-L1 expression in KEYNOTE-407*
+
+Table 21 summarises key efficacy measures for the entire population (TPS ≥ 1%) and for the patients with TPS ≥ 50%, and Figure 18 shows the Kaplan-Meier curve for OS (TPS ≥ 1%), based on a final analysis with median follow-up of 42.6 months.
+Table 21: Response to pembrolizumab 2 or 10 mg/kg bw every 3 weeks in previously treated patients with NSCLC in KEYNOTE-010
+
+Table 22 summarises key efficacy measures and Figures 19 and 20 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 9.8 months (range: 0.9 to 60.3 months) in the patients with non-epithelioid malignant pleural mesothelioma.
+
+Table 22: Efficacy results in KEYNOTE-483 for patients with non-epithelioid malignant pleural mesothelioma
+
+Table 23 summarises the efficacy results in the subpopulation.
+
+Table 23: Efficacy results in cHL patients who failed a transplant before enrolling or who failed 2 or more prior therapies and were ineligible for ASCT in KEYNOTE-204
+
+Main efficacy results are summarised in Table 24.
+
+Table 24: Efficacy results in KEYNOTE-087 and KEYNOTE-013
+
+Key efficacy results are summarised in Table 25 and
+Table 25: Efficacy results in KEYNOTE-A39
+
+Table 26 summarises the key efficacy measures for the ITT population at the final analysis.
+
+Table 26: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma previously treated with chemotherapy in KEYNOTE-045
+
+An analysis was performed in KEYNOTE-045 in patients who had PD-L1 CPS < 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n=176 (65%)] or ≥ 10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n=90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 27).
+
+Table 27: OS by PD-L1 expression
+
+Table 28 summarises the key efficacy measures for the study population at the final analysis based on a median follow-up time of 11.4 months (range: 0.1, 41.2 months) for all patients.
+
+Table 28: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
+
+An analysis was performed in KEYNOTE-052 in patients who had tumours that expressed PD-L1 with a CPS < 10 (n=251; 68%) or ≥ 10 (n=110; 30%) based on the PD-L1 IHC 22C3 pharmDxTM Kit (see Table 29).
+
+Table 29: ORR and OS by PD-L1 expression
+
+See Table 30 and Figures 25 and 26.
+Table 30: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in patients with previously untreated urothelial carcinoma for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy in KEYNOTE-361
+
+The study demonstrated a statistically significant improvement in EFS (HR 0.73; 95% CI 0.58, 0.92; p-Value 0.00411) in patients randomised to pembrolizumab in combination with radiation with or without concomitant cisplatin compared to those randomised to radiation with or without concomitant cisplatin at the first pre-specified interim analysis in the overall population.
+Table 31 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 at a median follow-up time of 27.0 months (range: 0.5 to 66.5 months).
+Table 31: Efficacy results in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
+
+Tables 32 and 33 summarise key efficacy results for pembrolizumab in patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-048 at the final analysis performed at a median follow-up of 13 months for pembrolizumab in combination with chemotherapy and at a median follow-up of 11.5 months for pembrolizumab monotherapy.
+Table 32: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+
+Table 33: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+
+An analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 20 [pembrolizumab plus chemotherapy: n=126 (49%) vs. standard treatment: n=110 (43%) and pembrolizumab monotherapy: n=133 (52%) vs. standard treatment: n=122 (48%)] (see Table 34).
+
+Table 34: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 20)
+
+An exploratory subgroup analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 1 to < 20 [pembrolizumab plus chemotherapy: n=116 (45%) vs. standard treatment: n=125 (49%) and pembrolizumab monotherapy: n=124 (48%) vs. standard treatment: n=133 (52%)] (see Table 35).
+Table 35: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 1 to < 20)
+
+Table 36 summarises the key efficacy measures for the TPS ≥ 50% population.
+
+Table 36: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with TPS ≥ 50% who were previously treated with platinum chemotherapy in KEYNOTE-040
+
+Table 37 summarises key efficacy measures and Figures 32 and 33 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 37.7 months.
+
+Table 37: Efficacy results in KEYNOTE-426
+
+Table 38 summarises the efficacy measures by IMDC risk category based on the final OS analysis at a median follow-up of 37.7 months.
+
+Table 38: Efficacy results in KEYNOTE-426 by IMDC risk category
+
+Efficacy results for KEYNOTE-581 (CLEAR) at the protocol-specified final analysis with median follow-up time of 49.4 months are summarised in Table 39 and Figures 34 and 35.
+Efficacy results by MSKCC prognostic group are summarised in Table 40.
+
+Table 39: Efficacy results in KEYNOTE-581 (CLEAR)
+
+Table 40 summarises the efficacy measures by MSKCC prognostic group based on the final OS analysis at a median follow-up of 49.4 months.
+Table 40: Efficacy results in KEYNOTE-581 (CLEAR) by MSKCC prognostic group
+
+Efficacy results with a median follow-up time of 55.8 months are summarised in Table 41 and Figures 36 and 37.
+
+Table 41: Efficacy results in KEYNOTE-564
+
+Table 42 summarises the key efficacy measures and Figures 38 and 39 show the Kaplan-Meier curves for updated PFS and OS based on the final analysis with a median follow-up time of 38.1 months (range: 0.2 to 58.7 months).
+Table 42: Efficacy results in KEYNOTE-177
+
+Table 43: Efficacy results in KEYNOTE-164
+
+Efficacy results are summarised in Table 44.
+
+Table 44: Efficacy results in KEYNOTE-158
+
+¶ Efficacy analysis population consists of participants in the ‘All Participants as Treated’ (APaT) population, who were enrolled at least 26 weeks prior to the cutoff date
+
+Table 45 summarises key efficacy measures from the pre-specified analysis in patients whose tumours expressed PD-L1 with a CPS ≥ 10 in KEYNOTE-590 performed at a median follow-up time of 13.5 months (range: 0.5 to 32.7 months).
+
+Table 45: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-590 with PD-L1 expression (CPS ≥ 10)
+
+Results reported from the pre-specified pCR final analysis (n=1002) and key efficacy measures from the EFS and OS pre-specified interim analysis at median follow-up time for all patients of 73.1 months (range: 2.7-83.9 months) are summarised in Table 46.
+Table 46: Efficacy results in KEYNOTE-522
+
+Table 47 summarises key efficacy measures and Figures 44 and 45 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 20.2 months (range: 0.3 to 53.1 months) for patients with tumour PD-L1 expression CPS ≥ 10.
+Table 47: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
+
+Efficacy results by MMR status are summarised in Table 48.
+Table 48: Efficacy results in KEYNOTE-868 (NRG-GY018)
+
+PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 49.
+Table 49: Efficacy results in KEYNOTE-775
+
+Table 50 summarises key efficacy measures from the second pre-specified interim analysis in patients with FIGO 2014 Stage III - IVA disease with median follow-up time of 26.6 months
+
+Table 50: Efficacy results in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+
+Table 51 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months.
+Table 51: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CPS ≥ 1)
+
+Table 52 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 54 and 55 show the Kaplan-Meier curves for PFS and OS.
+Table 52: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
+
+Table 53 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 56 and 57 show the Kaplan-Meier curves for OS and PFS.
+Table 53: Efficacy results in KEYNOTE-859 for patients with PD L1 expression (CPS ≥ 1)
+
+An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to < 10 or CPS ≥ 10 in both arms (see Table 54).
+
+Table 54: Efficacy results by PD-L1 expression in KEYNOTE-859
+
+Table 55 summarises key efficacy measures and Figures 58 and 59 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
+Table 55: Efficacy results in KEYNOTE-966
+
+No dedicated studies of pembrolizumab solution for injection have been conducted in paediatric patients.
+
+In KEYNOTE-051, 161 paediatric patients (62 children aged 9 months to less than 12 years and 99 adolescents aged 12 years to 17 years) with advanced melanoma or PD-L1 positive advanced, relapsed, or refractory solid tumours or lymphoma were administered intravenous pembrolizumab 2 mg/kg bw every 3 weeks.
+All patients received pembrolizumab for a median of 4 doses (range:
+1-35 doses), with 138 patients (85.7%) receiving pembrolizumab for 2 doses or more.

@@ -2,6 +2,9 @@
 
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
 
+Patients receiving subcutaneous pembrolizumab can switch to intravenous pembrolizumab at their next scheduled dose.
+Patients receiving intravenous pembrolizumab can switch to subcutaneous pembrolizumab at their next scheduled dose.
+
 PD-L1 testing
 
 If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8 and 5.1).
@@ -17,12 +20,12 @@ The recommended dose of KEYTRUDA in adults is either 200 mg every 3 weeks or 400
 The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL or patients aged 12 years and older with melanoma is 2 mg/kg bodyweight (bw) (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
 
 For use in combination, see the Summary of Product Characteristics (SmPC) for the concomitant therapies.
-
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity (and up to maximum duration of therapy if specified for an indication).
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
 For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
+
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
@@ -63,6 +66,9 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
 | Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
 
+Immune-mediated Severity Treatment modification
+adverse reactions
+
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 
 * If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if
@@ -73,6 +79,7 @@ The safety of re-initiating pembrolizumab therapy in patients previously experie
 
 KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated adverse reactions, unless otherwise specified in
 Table 1.
+
 For Grade 4 haematological toxicity, only in patients with cHL, KEYTRUDA should be withheld until adverse reactions recover to Grades 0-1.
 
 KEYTRUDA in combination with axitinib in RCC
@@ -105,19 +112,53 @@ KEYTRUDA has not been studied in patients with severe renal impairment (see sect
 Hepatic impairment
 No dose adjustment is needed for patients with mild or moderate hepatic impairment.
 KEYTRUDA has not been studied in patients with severe hepatic impairment (see sections 4.4 and 5.2).
-
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not been established except in paediatric patients with melanoma or cHL.
 Currently available data are described in sections 4.8, 5.1 and 5.2.
 
 Method of administration
 
-KEYTRUDA is for intravenous use.
-It must be administered by infusion over 30 minutes.
-KEYTRUDA must not be administered as an intravenous push or bolus injection.
+It is important to check the vial label to ensure that the correct formulation (intravenous or subcutaneous) is being prepared and administered to the patient as prescribed, to reduce the risk of medication errors.
+
+KEYTRUDA concentrate for solution for infusion is for intravenous use only.
+KEYTRUDA concentrate for solution for infusion is not intended for subcutaneous administration.
+KEYTRUDA concentrate for solution for infusion must be administered by infusion over 30 minutes.
+KEYTRUDA intravenous formulation must not be administered as an intravenous push or bolus injection.
+
+KEYTRUDA concentrate for solution for infusion should not be substituted for or with subcutaneous pembrolizumab because they have different recommended dosages and routes of administration.
 
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
 
 When administering KEYTRUDA as part of a combination with enfortumab vedotin, KEYTRUDA should be administered after enfortumab vedotin when given on the same day.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+[KEYTRUDA 395 mg solution for injection]
+
+The recommended dose of KEYTRUDA solution for injection in adults is either:
+
+- 395 mg every 3 weeks administered as a subcutaneous injection over 1 minute or
+- 790 mg every 6 weeks administered as a subcutaneous injection over 2 minutes.
+
+For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
+For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 395 mg every 3 weeks or 1 dose of 790 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 395 mg every 3 weeks or 6 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
+For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 395 mg every 3 weeks or 4 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 395 mg every 3 weeks or 5 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
+KEYTRUDA can be administered as either 395 mg every 3 weeks or 790 mg every 6 weeks until disease progression, unacceptable toxicity or up to 24 months.
+
+The safety and efficacy of KEYTRUDA solution for injection in children below 18 years of age have not been established.
+Currently available data for intravenous pembrolizumab are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made on KEYTRUDA solution for injection.
+
+KEYTRUDA solution for injection is for subcutaneous use only.
+Do not administer KEYTRUDA solution for injection intravenously.
+KEYTRUDA solution for injection should not be substituted for or with intravenous pembrolizumab because they have different recommended dosages and routes of administration.
+KEYTRUDA solution for injection is for subcutaneous injection into the thigh or abdomen only.
+
+Prior to administration, remove KEYTRUDA solution for injection from refrigeration and allow the solution to reach room temperature for at least 30 minutes.
+For instructions on the use and handling of KEYTRUDA solution for injection prior to administration, refer to section 6.6.
+Inject KEYTRUDA solution for injection into the subcutaneous tissue of the thigh or abdomen, avoiding the 5 cm area around the navel.
+Do not inject into skin that is damaged, sore, bruised, scarred, scaly, or has red patches.
+Rotate injection sites for subsequent injections.
+During treatment with KEYTRUDA solution for injection, do not administer other medicinal products for subcutaneous use at the same site as KEYTRUDA solution for injection.

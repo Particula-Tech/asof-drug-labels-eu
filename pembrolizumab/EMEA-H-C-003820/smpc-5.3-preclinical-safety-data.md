@@ -10,3 +10,11 @@ Blockade of PD-L1 signalling has been shown in murine models of pregnancy to dis
 
 Animal fertility studies have not been conducted with pembrolizumab.
 In 1 month and 6 month repeat-dose toxicology studies in monkeys, there were no notable effects in the male and female reproductive organs; however, many animals in these studies were not sexually mature.
+
+[KEYTRUDA 395 mg solution for injection]
+
+Intravenous formulation
+
+Subcutaneous formulation
+No human‑relevant hazard of recombinant berahyaluronidase alfa alone was identified in rats, rabbits and Cynomolgus monkeys upon repeated subcutaneous administrations.
+Repeated subcutaneous administrations of pembrolizumab (50 mg/kg) with recombinant berahyaluronidase alfa (574 U/kg) was well‑tolerated in a local tolerability study in Cynomolgus monkeys.

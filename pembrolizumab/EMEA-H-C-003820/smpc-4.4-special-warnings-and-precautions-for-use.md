@@ -16,7 +16,6 @@ For suspected immune-mediated adverse reactions, adequate evaluation to confirm 
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
 Based on limited data from clinical studies in patients whose immune-mediated adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
@@ -91,7 +90,6 @@ Other immune-mediated adverse reactions
 The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective, hypoparathyroidism and pericarditis (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction.
@@ -110,6 +108,7 @@ Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 Allogeneic HSCT after treatment with pembrolizumab
 Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients with cHL undergoing allogeneic HSCT after previous exposure to pembrolizumab.
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
+
 Allogeneic HSCT prior to treatment with pembrolizumab
 In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with pembrolizumab.
 Patients who experienced GVHD after their transplant procedure may be at an increased risk for GVHD after treatment with pembrolizumab.
@@ -129,7 +128,6 @@ Use of pembrolizumab in urothelial carcinoma patients who have received prior pl
 Physicians should consider the delayed onset of pembrolizumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In urothelial carcinoma, a higher number of deaths within 2 months was observed in pembrolizumab compared to chemotherapy (see section 5.1).
 Factors associated with early deaths were fast progressive disease on prior platinum therapy and liver metastases.
-
 Use of pembrolizumab in urothelial carcinoma for patients who are considered ineligible for cisplatin-containing chemotherapy and whose tumours express PD-L1 with CPS ≥ 10
 The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, for whom the benefit has been assessed in a comparative study (KEYNOTE-361).
 In KEYNOTE-361, a higher number of deaths within 6 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
@@ -146,6 +144,7 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
+
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
@@ -185,7 +184,22 @@ There are limited data on the safety and efficacy of KEYTRUDA in patients with o
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
 
+Excipients with known effect
+This medicinal product contains 0.2 mg of polysorbate 80 in each mL of concentrate.
+Polysorbates may cause allergic reactions.
+
 Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
 The patient will be provided with the patient card with each prescription.
+
+[KEYTRUDA 395 mg solution for injection]
+
+For Grades 3 or 4 infusion reactions, injection should be stopped and pembrolizumab permanently discontinued (see section 4.2).
+Patients with Grades 1 or 2 infusion reactions may continue to receive pembrolizumab with close monitoring; premedication with antipyretic and antihistamine may be considered.
+
+Polysorbate
+This medicinal product contains 0.2 mg of polysorbate 80 in each mL of solution.
+
+Sodium
+KEYTRUDA solution for injection contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
