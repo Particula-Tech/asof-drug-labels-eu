@@ -10,7 +10,7 @@ Not all pack sizes may be marketed.
 
 (all sentences already above)
 
-[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+[LUMIGAN 0.3 mg/ml eye drops, solution, in single-dose container]
 
 Clear, single-dose Low Density Polyethylene (LDPE) containers with a twist-off tab.
 

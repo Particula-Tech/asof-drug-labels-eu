@@ -6,6 +6,6 @@ LUMIGAN 0.1 mg/ml eye drops, solution
 
 LUMIGAN 0.3 mg/ml eye drops, solution
 
-[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+[LUMIGAN 0.3 mg/ml eye drops, solution, in single-dose container]
 
-LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container
+LUMIGAN 0.3 mg/ml eye drops, solution, in single-dose container

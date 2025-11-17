@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Eye drops, solution.
+Eye drops, solution (eye drops)
 
 Colourless solution.
 
@@ -8,6 +8,6 @@ Colourless solution.
 
 (all sentences already above)
 
-[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+[LUMIGAN 0.3 mg/ml eye drops, solution, in single-dose container]
 
 Eye drops, solution, in single-dose container.

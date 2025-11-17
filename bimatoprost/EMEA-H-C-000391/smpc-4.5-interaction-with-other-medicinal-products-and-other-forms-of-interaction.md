@@ -5,7 +5,7 @@ No interaction studies have been performed.
 No interactions are anticipated in humans, since systemic concentrations of bimatoprost are extremely low (less than 0.2 ng/ml) following ocular dosing with bimatoprost 0.3 mg/ml eye drops, solution.
 Bimatoprost is biotransformed by any of multiple enzymes and pathways, and no effects on hepatic drug metabolising enzymes were observed in preclinical studies.
 
-In clinical studies, bimatoprost 0.3 mg/ml, eye drops, solution was used concomitantly with a number of different ophthalmic beta-blocking agents without evidence of interactions.
+In clinical studies, bimatoprost 0.3 mg/ml eye drops, solution was used concomitantly with a number of different ophthalmic beta-blocking agents without evidence of interactions.
 
 Concomitant use of LUMIGAN and antiglaucomatous agents other than topical beta-blockers has not been evaluated during adjunctive glaucoma therapy.
 
@@ -15,8 +15,8 @@ There is a potential for the IOP-lowering effect of prostaglandin analogues (e.g
 
 In clinical studies, LUMIGAN was used concomitantly with a number of different ophthalmic beta-blocking agents without evidence of interactions.
 
-[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+[LUMIGAN 0.3 mg/ml eye drops, solution, in single-dose container]
 
-No interactions are anticipated in humans, since systemic concentrations of bimatoprost are extremely low (less than 0.2 ng/mL) following ocular dosing with bimatoprost 0.3 mg/mL eye drops, solution (multi-dose formulation).
+No interactions are anticipated in humans, since systemic concentrations of bimatoprost are extremely low (less than 0.2 ng/mL) following ocular dosing with bimatoprost 0.3 mg/ml eye drops, solution (multi-dose formulation).
 
 In clinical studies, LUMIGAN 0.3 mg/mL (multi-dose formulation) was used concomitantly with a number of different ophthalmic beta-blocking agents without evidence of interactions.

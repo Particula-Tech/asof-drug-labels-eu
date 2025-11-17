@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 AbbVie Deutschland GmbH & Co. KG
-Knollstraße
+Knollstrasse
 67061 Ludwigshafen
-Deutschland
+Germany

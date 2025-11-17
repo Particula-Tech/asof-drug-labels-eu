@@ -10,7 +10,7 @@ This dose expressed as mg/m2 is at least 210 times higher than the accidental do
 
 This dose expressed as mg/m2 is at least 70-times higher than the accidental dose of one bottle of LUMIGAN 0.3 mg/ml eye drops, solution in a 10 kg child.
 
-[LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
+[LUMIGAN 0.3 mg/ml eye drops, solution, in single-dose container]
 
 No information is available on overdose in humans; overdose is unlikely to occur after ocular administration.
 
