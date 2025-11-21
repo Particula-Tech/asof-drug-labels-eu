@@ -28,18 +28,18 @@ Table 1: Adverse reactions
 | Eye disorders |  |  |  | Vision blurred, Diplopia, Mydriasis, Oculogyric crisis, Blepharospasm |
 | Cardiac disorders |  |  |  | Cardiac rhythm disordersa (see section 4.4), Palpitations |
 | Vascular disorders |  |  |  | Orthostatic hypotension (see section 4.4), Hypertension, Syncope, Thrombophlebitis, Hot flush |
-| Respiratory, thoracic and mediastinal | Cough | Upper respiratory tract infection, Sputum | Sensation of choking | Dyspnoea, Respiration abnormal, Dysphonia, |
+| Respiratory, thoracic and | Cough | Upper respiratory tract infection, | Sensation of choking | Dyspnoea, Respiration abnormal, Dysphonia, |
 | System Organ Class | Very common | Common | Not known | Not known |
-| disorders |  | discoloured, Nasal discharge discolouration, Throat irritation |  | Hiccups |
+| mediastinal disorders |  | Sputum discoloured, Nasal discharge discolouration, Throat irritation |  | Hiccups |
 | Gastrointestinal disorders |  | Nausea, Vomiting |  | Abdominal pain, Constipation, Diarrhoea, Dry mouth, Gastrointestinal haemorrhage, Peptic ulcer (see section 4.4), Dysphagia, Dyspepsia, Glossodynia, Flatulence, Saliva discolouration, Salivary hypersecretion |
 | Skin and subcutaneous tissue disorders |  |  |  | Angioedema, Hyperhidrosis, Rash, Pruritus, Henoch-Schonlein purpura, Urticaria, Alopecia, Sweat discolouration |
 | Musculoskeletal and connective tissue disorders |  |  |  | Muscle spasms, Trismus |
 | Renal and urinary disorders |  |  |  | Urinary retention, Chromaturia, Urinary incontinence |
 | Reproductive system and breast disorders |  |  |  | Priapism |
 | General disorders and administration site conditions |  |  |  | Oedema peripheral, Asthenia, Fatigue, Malaise, Gait disturbance, Chest pain |
-| Investigations |  |  |  | Aspartate aminotransferase increased, Alanine aminotransferase increased, Blood lactate dehydrogenase increased, Blood bilirubin |
+| Investigations |  |  |  | Aspartate aminotransferase increased, Alanine aminotransferase increased, Blood lactate dehydrogenase increased, |
 | System Organ Class | Very common | Common | Not known | Not known |
-|  |  |  |  | increased, Blood glucose increased, Blood creatinine increased, Blood uric acid increased, Haemoglobin decreased, Haematocrit decreased, Blood urine present, Blood urea increased, Blood alkaline phosphatase increased, Coombs test positive, White blood cells urine positive, Bacterial test positive, Weight decreased, Weight increased |
+|  |  |  |  | Blood bilirubin increased, Blood glucose increased, Blood creatinine increased, Blood uric acid increased, Haemoglobin decreased, Haematocrit decreased, Blood urine present, Blood urea increased, Blood alkaline phosphatase increased, Coombs test positive, White blood cells urine positive, Bacterial test positive, Weight decreased, Weight increased |
 | Injury, poisoning and procedural complications |  | Fall |  |  |
 
 a Cardiac rhythm disorder here is a combined term representing atrial fibrillation, atrial flutter, atrioventricular block, bundle branch block, sick sinus syndrome, bradycardia, and tachycardia.
