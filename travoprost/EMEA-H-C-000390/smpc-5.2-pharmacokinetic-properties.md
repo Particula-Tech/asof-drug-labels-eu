@@ -6,7 +6,6 @@ Travoprost is an ester prodrug.
 It is absorbed through the cornea where the isopropyl ester is hydrolysed to the active free acid.
 Studies in rabbits have shown peak concentrations of 20 ng/mL of the free acid in aqueous humour one to two hours after topical dosing of TRAVATAN.
 Aqueous humour concentrations declined with a half-life of approximately 1.5 hours.
-
 Distribution
 
 Following topical ocular administration of TRAVATAN to healthy volunteers, low systemic exposure to active free acid was demonstrated.
