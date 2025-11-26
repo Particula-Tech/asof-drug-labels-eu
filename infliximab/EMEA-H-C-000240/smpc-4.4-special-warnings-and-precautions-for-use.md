@@ -113,7 +113,7 @@ Vaccinations
 It is recommended that patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remicade therapy.
 Patients on infliximab may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
 
-In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg Remicade [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that Remicade did not interfere with T-cell independent humoral immune responses.
+In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg Remicade [n = 46]) mounted an effective two-fold increase in titres to a polyvalent pneumococcal vaccine, indicating that Remicade did not interfere with T-cell independent humoral immune responses.
 However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psoriasis, Crohn’s disease) suggest that non-live vaccinations received during treatment with anti-TNF therapies, including Remicade, may elicit a lower immune response than in patients not receiving anti-TNF therapy.
 
 Live vaccines/therapeutic infectious agents
@@ -191,9 +191,8 @@ All patients should be advised to seek immediate medical attention if they devel
 Discontinuation of Remicade therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
 Others
-There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
-A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
+A patient who requires surgery while on Remicade should be closely monitored for infectious and non-infectious complications, and appropriate actions should be taken (see section 4.8).
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
 There is no evidence to suggest that infliximab worsens or causes fibrotic strictures.
@@ -229,3 +228,7 @@ Sodium content
 Remicade contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
 Remicade is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion.
 This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+
+Polysorbate 80 content
+Remicade contains 0.50 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.05 mg/ml.
+Polysorbates may cause allergic reactions.

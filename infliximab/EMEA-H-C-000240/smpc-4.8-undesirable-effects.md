@@ -56,43 +56,66 @@ Vascular disorders
 Common: Hypotension, hypertension, ecchymosis, hot flush, flushing.
 Uncommon: Peripheral ischaemia, thrombophlebitis, haematoma.
 Rare: Circulatory failure, petechia, vasospasm.
-Respiratory, thoracic and mediastinal disorders
+
+Respiratory, thoracic and
+mediastinal disorders
 Very common: Upper respiratory tract infection, sinusitis.
-Common: Lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea, epistaxis.
+Common: Lower respiratory tract infection (e.g. bronchitis, pneumonia),
+dyspnoea, epistaxis.
 Uncommon: Pulmonary oedema, bronchospasm, pleurisy, pleural effusion.
-Rare: Interstitial lung disease (including rapidly progressive disease, lung fibrosis and pneumonitis).
+Rare: Interstitial lung disease (including rapidly progressive disease,
+lung fibrosis and pneumonitis).
 Gastrointestinal disorders
 Very common: Abdominal pain, nausea.
-Common: Gastrointestinal haemorrhage, diarrhoea, dyspepsia, gastroesophageal reflux, constipation.
-Uncommon: Intestinal perforation, intestinal stenosis, diverticulitis, pancreatitis, cheilitis.
+Common: Gastrointestinal haemorrhage, diarrhoea, dyspepsia,
+gastroesophageal reflux, constipation.
+Uncommon: Intestinal perforation, intestinal stenosis, diverticulitis,
+pancreatitis, cheilitis.
 Hepatobiliary disorders
 Common: Hepatic function abnormal, transaminases increased.
 Uncommon: Hepatitis, hepatocellular damage, cholecystitis.
 Rare: Autoimmune hepatitis, jaundice.
 Not known: Liver failure.
-Skin and subcutaneous tissue disorders
-Common: New onset or worsening psoriasis including pustular psoriasis (primarily palm & soles), urticaria, rash, pruritus, hyperhidrosis, dry skin, fungal dermatitis, eczema, alopecia.
-Uncommon: Bullous eruption, seborrhoea, rosacea, skin papilloma, hyperkeratosis, abnormal skin pigmentation.
-Rare: Toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme, furunculosis, linear IgA bullous dermatosis (LABD), acute generalised exanthematous pustulosis (AGEP), lichenoid reactions.
+Skin and subcutaneous tissue
+disorders
+Common: New onset or worsening psoriasis including pustular psoriasis
+(primarily palm & soles), urticaria, rash, pruritus,
+hyperhidrosis, dry skin, fungal dermatitis, eczema, alopecia.
+Uncommon: Bullous eruption, seborrhoea, rosacea, skin papilloma,
+hyperkeratosis, abnormal skin pigmentation.
+Rare: Toxic epidermal necrolysis, Stevens-Johnson Syndrome,
+erythema multiforme, furunculosis, linear IgA bullous
+dermatosis (LABD), acute generalised exanthematous
+pustulosis (AGEP), lichenoid reactions.
 Not known: Worsening of symptoms of dermatomyositis.
-Musculoskeletal and connective tissue disorders
+Musculoskeletal and connective
+tissue disorders
 Common: Arthralgia, myalgia, back pain.
 Renal and urinary disorders
 Common: Urinary tract infection.
 Uncommon: Pyelonephritis.
-Reproductive system and breast disorders
+Reproductive system and breast
+disorders
 Uncommon: Vaginitis.
-General disorders and administration site conditions
+General disorders and
+administration site conditions
 Very common: Infusion-related reaction, pain.
-Common: Chest pain, fatigue, fever, injection site reaction, chills, oedema.
+Common: Chest pain, fatigue, fever, injection site reaction, chills,
+oedema.
 Uncommon: Impaired healing.
 Rare: Granulomatous lesion.
 Investigations
 Uncommon: Autoantibody positive, weight increased1.
 Rare: Complement factor abnormal.
+Injury, poisoning, and procedural
+complications
+Not known: Post-procedural complication (including infectious and non-
+infectious complications)
+
 * including bovine tuberculosis (disseminated BCG infection), see section 4.4
 1 At month 12 of the controlled period for adult clinical trials across all indications, the median weight increase was 3.50 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects.
 The median weight increase for inflammatory bowel disease indications was 4.14 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects, and the median weight increase for rheumatology indications was 3.40 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects.
+
 Description of selected adverse drug reactions
 
 Infusion-related reactions
@@ -121,13 +144,13 @@ Patients did not receive any concomitant immunosuppressant therapy.
 In the re-treatment arm, 4% (8/219) of patients experienced a serious infusion reaction versus < 1% (1/222) on maintenance therapy.
 The majority of serious infusion reactions occurred during the second infusion at week 2.
 The interval between the last maintenance dose and the first re-induction dose ranged from 35-231 days.
-Symptoms included, but were not limited to, dyspnea, urticaria, facial oedema, and hypotension.
+Symptoms included, but were not limited to, dyspnoea, urticaria, facial oedema, and hypotension.
 In all cases, Remicade treatment was discontinued and/or other treatment instituted with complete resolution of signs and symptoms.
-
 Delayed hypersensitivity
 In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and headache.
+
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval (see section 4.4).
 
 In a 1-year clinical study with repeated infusions in patients with Crohn’s disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
@@ -159,10 +182,10 @@ Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuber
 
 Malignancies and lymphoproliferative disorders
 In clinical studies with infliximab in which 5,780 patients were treated, representing 5,494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1,600 placebo-treated patients representing 941 patient years.
-
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6,234 patients-years (3,210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
 Cases of malignancies, including lymphoma, have also been reported in the post-marketing setting (see section 4.4).
+
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 adult patients were treated with Remicade at doses similar to those used in rheumatoid arthritis and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65%-10.6%].
@@ -188,7 +211,6 @@ Elevations of aminotransferases were observed (ALT more common than AST) in a gr
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant therapy.
 In post-marketing surveillance, cases of jaundice and hepatitis, some with features of autoimmune hepatitis, have been reported in patients receiving Remicade (see section 4.4).
-
 Table 2
 Proportion of patients with increased ALT activity in clinical studies
 
@@ -230,7 +252,6 @@ In the 6 mg/kg group, 2 out of 57 patients had a serious infusion reaction, one 
 Immunogenicity
 Antibodies to infliximab developed in 38% of patients receiving 3 mg/kg compared with 12% of patients receiving 6 mg/kg.
 The antibody titres were notably higher for the 3 mg/kg compared to the 6 mg/kg group.
-
 Infections
 Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 65% (37/57) of children receiving infliximab 6 mg/kg over 38 weeks and 47% (28/60) of children receiving placebo over 14 weeks (see section 4.4).
 
@@ -238,6 +259,7 @@ Paediatric Crohn’s disease patients
 The following adverse reactions were reported more commonly in paediatric Crohn’s disease patients in the REACH study (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leucopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
 In addition, bone fracture (6.8%) was reported, however, a causal association has not been established.
 Other special considerations are discussed below.
+
 Infusion-related reactions
 In REACH, 17.5% of randomised patients experienced 1 or more infusion reactions.
 There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.
@@ -278,6 +300,7 @@ Overall proportions of adverse events and infusion reactions were similar betwee
 
 Post-marketing experience
 Post-marketing spontaneous serious adverse reactions with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive auto-antibodies (see sections 4.4 and 4.8).
+
 Additional information on special populations
 Elderly
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
