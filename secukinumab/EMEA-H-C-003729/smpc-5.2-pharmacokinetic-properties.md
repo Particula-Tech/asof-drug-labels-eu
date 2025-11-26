@@ -12,6 +12,7 @@ The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=
 Juvenile idiopathic arthritis
 In a paediatric study, ERA and JPsA patients (2 to less than 18 years of age) were administered secukinumab at the recommended paediatric dosing regimen.
 At week 24, patients weighing <50 kg, and weighing ≥50 kg had a mean ± SD steady-state trough concentration of 25.2±5.45 µg/ml (n=10) and 27.9±9.57 µg/ml (n=19), respectively.
+
 Adult population
 
 Absorption
@@ -32,7 +33,6 @@ Across studies, absolute bioavailabilities in the range between 60 and 77% were 
 The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
 
 Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.
-
 Distribution
 The mean volume of distribution during the terminal phase (Vz) following single intravenous administration ranged from 7.10 to 8.60 litres in plaque psoriasis patients, suggesting that secukinumab undergoes limited distribution to peripheral compartments.
 
@@ -50,6 +50,7 @@ The mean elimination half-life, as estimated from population pharmacokinetic ana
 Linearity/non-linearity
 The single and multiple dose pharmacokinetics of secukinumab in plaque psoriasis patients were determined in several studies with intravenous doses ranging from 1x 0.3 mg/kg to 3x 10 mg/kg and with subcutaneous doses ranging from 1x 25 mg to multiple doses of 300 mg.
 Exposure was dose proportional across all dosing regimens.
+
 Special populations
 
 Patients with renal or hepatic impairment
