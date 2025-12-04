@@ -13,6 +13,7 @@ Table 4 lists the adverse reactions recorded in clinical studies in the total al
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequency categories are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000) and very rare (<1/10 000).
 Reactions reported in the post-marketing setting are listed with frequency not known (cannot be estimated from the available data).
+
 Table 4 Adverse reactions in allergic asthma and CRSwNP
 
 | Infections and infestations |  |
@@ -41,11 +42,11 @@ Table 4 Adverse reactions in allergic asthma and CRSwNP
 **: In children 6 to <12 years of age
 #: Common in nasal polyp trials
 †: Unknown in allergic asthma trials
+
 Description of selected adverse reactions
 
 Immune system disorders
 For further information, see section 4.4.
-
 Anaphylaxis
 Anaphylactic reactions were rare in clinical trials.
 However, post-marketing data following a cumulative search in the safety database retrieved a total of 898 anaphylaxis cases.
@@ -86,7 +87,6 @@ Of those,
 412 patients were treated for up to 12 weeks and 333 patients were treated for up to 24 weeks at the 300 mg dose.
 
 A separate table (Table 5) shows the adverse reactions for the CSU indication resulting from differences in dose and treatment populations (with significantly different risk factors, comorbidities, concomitant medicinal products and ages [e.g. asthma trials included children from 6-12 years of age]).
-
 Table 5 lists the adverse reactions (events occurring in ≥1% of patients in any treatment group and
 ≥2% more frequently in any omalizumab treatment group than with placebo (after medical review)) reported with 300 mg in the three pooled phase III studies.
 The adverse reactions presented are divided into two groups: those identified in the 12-week and the 24-week treatment periods.

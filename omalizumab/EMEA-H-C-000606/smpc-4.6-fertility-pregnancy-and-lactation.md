@@ -12,6 +12,7 @@ However, animal studies do not indicate either direct or indirect harmful effect
 Omalizumab has been associated with age-dependent decreases in blood platelets in non-human primates, with a greater relative sensitivity in juvenile animals (see section 5.3).
 
 If clinically needed, the use of omalizumab may be considered during pregnancy.
+
 Breast-feeding
 
 Immunoglobulins G (IgGs) are present in human milk and therefore it is expected that omalizumab will be present in human milk.

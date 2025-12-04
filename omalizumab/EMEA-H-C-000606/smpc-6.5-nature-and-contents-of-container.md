@@ -41,6 +41,8 @@ Xolair 150 mg solution for injection in pre-filled pen
 
 Xolair 150 mg solution for injection in pre-filled pen is supplied as 1 ml solution in a pre-filled pen barrel (type I glass) with 27-gauge staked needle (stainless steel), (type I) plunger stopper and needle cap.
 
+Pack sizes: packs containing 1 pre-filled pen, and multipacks containing 3 (3 x 1), 6 (6 x 1) or 10 (10 x 1) pre-filled pens.
+
 Xolair 300 mg solution for injection in pre-filled pen
 
 Xolair 300 mg solution for injection in pre-filled pen is supplied as 2 ml solution in a pre-filled pen barrel (type I glass) with 27-gauge staked needle (stainless steel), (type I) plunger stopper and needle cap.

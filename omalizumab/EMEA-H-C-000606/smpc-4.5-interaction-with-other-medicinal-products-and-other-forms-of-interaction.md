@@ -5,6 +5,7 @@ Since IgE may be involved in the immunological response to some helminth infecti
 Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of omalizumab; thus, there is little potential for interactions.
 Medicinal product or vaccine interaction studies have not been performed with omalizumab.
 There is no pharmacological reason to expect that commonly prescribed medicinal products used in the treatment of asthma or CRSwNP will interact with omalizumab.
+
 Allergic asthma
 
 In clinical studies omalizumab was commonly used in conjunction with inhaled and oral corticosteroids, inhaled short-acting and long-acting beta agonists, leukotriene modifiers, theophyllines and oral antihistamines.

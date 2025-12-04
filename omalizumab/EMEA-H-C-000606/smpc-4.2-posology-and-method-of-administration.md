@@ -17,6 +17,7 @@ See Table 1 for a conversion chart and Tables 2 and 3 for the dose determination
 Patients whose baseline IgE levels or body weight in kilograms are outside the limits of the dose table should not be given omalizumab.
 
 The maximum recommended dose is 600 mg omalizumab every two weeks.
+
 Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of injections** and total injection volume for each administration
 
 | Dose (mg) | Number of syringes/pens* |  |  | Number of injections | Total injection volume (ml) |
@@ -33,7 +34,6 @@ Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of i
 
 *Xolair 300 mg pre-filled syringe and all dose strengths of Xolair pre-filled pen are not intended for use in patients <12 years of age.
 **This table represents the least number of injections for the patients, however there are other syringe/pen dosing combinations possible to achieve the desired dose.
-
 Table 2 ADMINISTRATION EVERY 4 WEEKS.
 Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
@@ -67,6 +67,7 @@ Omalizumab doses (milligrams per dose) administered by subcutaneous injection ev
 | >900-1 000 >1 000-1 100 >1 100-1 200 >1 200-1 300 >1 300-1 500 | 225 300 375 450 525 600 225 300 375 450 600 300 300 450 525 600 Insufficient data to recommend a dose 300 375 450 525 300 375 525 600 |
 
 *Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
+
 Treatment duration, monitoring and dose adjustments
 Allergic asthma
 Xolair is intended for long-term treatment.
@@ -84,7 +85,6 @@ Total IgE levels are elevated during treatment and remain elevated for up to one
 Therefore, re-testing of IgE levels during treatment cannot be used as a guide for dose determination.
 Dose determination after treatment interruptions lasting less than one year should be based on serum IgE levels obtained at the initial dose determination.
 Total serum IgE levels may be re-tested for dose determination if treatment has been interrupted for one year or more.
-
 Doses should be adjusted for significant changes in body weight (see Tables 2 and 3).
 
 Special populations
@@ -112,6 +112,7 @@ Xolair 300 mg pre-filled syringe and all dose strengths of Xolair pre-filled pen
 Xolair 75 mg pre-filled syringe and Xolair 150 mg pre-filled syringe may be used in children 6 to 11 years of age with allergic asthma.
 
 If more than one injection is needed to achieve the required dose, injections should be divided across two or more injection sites (Table 1).
+
 Patients with no known history of anaphylaxis may self-inject Xolair or be injected by a caregiver from the 4th dose onwards if a physician determines that this is appropriate (see section 4.4).
 The patient or the caregiver must have been trained in the correct injection technique and the recognition of the early signs and symptoms of serious allergic reactions.
 

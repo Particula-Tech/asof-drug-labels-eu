@@ -7,7 +7,6 @@ In order to improve the traceability of biological medicinal products, the name 
 General
 
 Omalizumab is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
-
 Omalizumab has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy, atopic dermatitis, or allergic rhinitis.
 Omalizumab is not indicated for the treatment of these conditions.
 
@@ -31,6 +30,7 @@ Patients should be informed that such reactions are possible, and prompt medical
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8).
 The clinical relevance of anti-omalizumab antibodies is not well understood.
+
 Serum sickness
 Serum sickness and serum sickness-like reactions, which are delayed allergic type III reactions, have been seen in patients treated with humanised monoclonal antibodies including omalizumab.
 The suggested pathophysiologic mechanism includes immune-complex formation and deposition due to development of antibodies against omalizumab.
@@ -45,7 +45,6 @@ In rare cases, patients on therapy with anti-asthma medicinal products, includin
 These events are commonly associated with the reduction of oral corticosteroid therapy.
 
 In these patients, physicians should be alert to the development of marked eosinophilia, vasculitic rash, worsening pulmonary symptoms, paranasal sinus abnormalities, cardiac complications, and/or neuropathy.
-
 Discontinuation of omalizumab should be considered in all severe cases with the above mentioned immune system disorders.
 
 Parasitic (helminth) infections

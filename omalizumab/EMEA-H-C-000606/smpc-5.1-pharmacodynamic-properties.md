@@ -30,6 +30,7 @@ The efficacy and safety of omalizumab were demonstrated in a 28-week double-blin
 Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist.
 Subcutaneous omalizumab or placebo were administered as add-on therapy to >1 000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist.
 Oral corticosteroid, theophylline and leukotriene-modifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
+
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint.
 Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153).
 Further evaluations which did show statistical significance (p<0.05) in favour of omalizumab included reductions in severe exacerbations (where patient’s lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician’s overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
@@ -84,9 +85,9 @@ Studies 3-5 used exacerbation as primary endpoint, whereas study 6 primarily eva
 In studies 3, 4 and 5 patients treated with omalizumab had respective reductions in asthma exacerbation rates of 37.5% (p = 0.027), 40.3% (p<0.001) and 57.6% (p<0.001) compared to placebo.
 
 In study 6, significantly more severe allergic asthma patients on omalizumab were able to reduce their fluticasone dose to ≤500 micrograms/day without deterioration of asthma control (60.3%) compared to the placebo group (45.8%, p<0.05).
+
 Quality of life scores were measured using the Juniper Asthma-related Quality of Life Questionnaire.
 For all six studies there was a statistically significant improvement from baseline in quality of life scores for omalizumab patients versus the placebo or control group.
-
 Physician’s overall assessment of treatment effectiveness:
 Physician’s overall assessment was performed in five of the above studies as a broad measure of asthma control performed by the treating physician.
 The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medicinal product use, spirometry and exacerbations.
@@ -108,6 +109,7 @@ During the 52-week double-blind treatment period (including the 24-week fixed-do
 
 The omalizumab group showed greater decreases in beta-agonist rescue medicinal product use than the placebo group at the end of the 52-week treatment period, although the difference between treatment groups was not statistically significant.
 For the global evaluation of treatment effectiveness at the end of the 52-week double-blind treatment period in the subgroup of severe patients on high-dose inhaled corticosteroids plus long-acting beta agonists, the proportion of patients rated as having ‘excellent’ treatment effectiveness was higher, and the proportions having ‘moderate’ or ‘poor’ treatment effectiveness lower in the omalizumab group compared to the placebo group; the difference between groups was statistically significant (p<0.001), while there were no differences between the omalizumab and placebo groups for patients’ subjective Quality of Life ratings.
+
 Chronic rhinosinusitis with nasal polyps (CRSwNP)
 The safety and efficacy of omalizumab were evaluated in two randomised, double-blind, placebo-controlled trials in patients with CRSwNP (Table 7).
 Patients received omalizumab or placebo subcutaneously every 2 or 4 weeks (see section 4.2).
@@ -115,7 +117,6 @@ All patients received background intranasal mometasone therapy throughout the st
 Prior sino-nasal surgery or prior systemic corticosteroid usage were not required for inclusion in the studies.
 Patients received omalizumab or placebo for 24 weeks followed by a 4-week follow-up period.
 Demographics and baseline characteristics, including allergic comorbidities, are described in Table 6.
-
 Table 6 Demographics and baseline characteristics of nasal polyp studies
 
 | Parameter | Nasal polyp study 1 N=138 | Nasal polyp study 2 N=127 |
@@ -138,10 +139,10 @@ Table 6 Demographics and baseline characteristics of nasal polyp studies
 
 SD = standard deviation; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; IgE = Immunoglobulin E; IU = international units.
 For NPS, NCS, and SNOT-22 higher scores indicate greater disease severity.
+
 The co-primary endpoints were bilateral nasal polyps score (NPS) and average daily nasal congestion score (NCS) at Week 24.
 In both nasal polyp studies 1 and 2, patients who received omalizumab had statistically significant greater improvements from baseline at Week 24 in NPS and weekly average NCS than patients who received placebo.
 Results from nasal polyp studies 1 and 2 are shown in Table 7.
-
 Table 7 Change from baseline at Week 24 in clinical scores from nasal polyp study 1, nasal polyp study 2, and pooled data
 
 Nasal polyp Nasal polyp Nasal polyp
@@ -247,11 +248,9 @@ Table 6 Results of study 1
 
 The safety and efficacy of omalizumab were evaluated in two randomised, double-blind, placebo-controlled trials in patients with CRSwNP (Table 8).
 Demographics and baseline characteristics, including allergic comorbidities, are described in Table 7.
-
 Table 7 Demographics and baseline characteristics of nasal polyp studies
 
 Results from nasal polyp studies 1 and 2 are shown in Table 8.
-
 Table 8 Change from baseline at Week 24 in clinical scores from nasal polyp study 1, nasal polyp study 2, and pooled data
 
 The efficacy and safety of omalizumab were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose.
@@ -265,6 +264,7 @@ Patients in safety study 3 had a mean weekly itch severity score of 13.8 and a m
 Across all three studies, patients reported receiving on average 4 to 6 medicinal products (including H1 antihistamines) for CSU symptoms prior to study enrollment.
 Patients received omalizumab at 75 mg, 150 mg or 300 mg or placebo by subcutaneous injection every 4 weeks for 24 and 12 weeks in studies 1 and 2, respectively, and 300 mg or placebo by subcutaneous injection every 4 weeks for 24 weeks in study 3.
 All studies had a 16-week treatment-free follow-up period.
+
 The primary endpoint was the change from baseline to week 12 in weekly itch severity score.
 Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p <0.0001) compared to a reduction of 3.63 to 5.14 for placebo (see Table 9).
 Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p<0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p<0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups.

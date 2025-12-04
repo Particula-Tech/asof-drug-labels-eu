@@ -38,6 +38,7 @@ Xolair 150 mg solution for injection in pre-filled pen
 EU/1/05/319/027
 EU/1/05/319/028
 EU/1/05/319/029
+EU/1/05/319/030
 
 Xolair 300 mg solution for injection in pre-filled pen
 
