@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Pharmacokinetics and Drug Metabolism
+
 Biotransformation
 Human antibodies undergo endocytotic digestion in the cells of the reticuloendothelial system.
 Eculizumab contains only naturally occurring amino acids and has no known active metabolites.
@@ -16,7 +17,6 @@ In 40 patients with PNH, a 1-compartmental model was used to estimate pharmacoki
 Mean clearance was 0.31 ± 0.12 mL/hr/kg, mean volume of distribution was 110.3 ±
 17.9 mL/kg, and mean elimination half-life was 11.3 ± 3.4 days.
 The steady state is achieved by 4 weeks using the PNH adult dosing regimen.
-
 In PNH patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels above ≥ 35 microgram/mL results in essentially complete blockade of haemolytic activity in the majority of PNH patients.
 
 A second population PK analysis with a standard 1 compartmental model was conducted on the multiple dose PK data from 37 aHUS patients receiving the recommended Soliris regimen in studies C08-002A/B and C08-003A/B.
@@ -28,22 +28,19 @@ Clearance values of Soliris in paediatric aHUS patients were 10.4, 5.3, and 2.2 
 The corresponding elimination half-life remained almost unchanged within a range of 349 to 378 h (approximately 14.5 to 15.8 days).
 
 The clearance and half-life of eculizumab were also evaluated during plasma exchange interventions.
-Plasma exchange resulted in an approximately 50% decline in eculizumab concentrations following a 1 hour intervention and the elimination half-life of eculizumab was reduced to 1.3 hours.
+Plasma exchange resulted in an approximately 50% decline in eculizumab concentrations following a 1 hour intervention and the elimination half-life of eculizumab was reduced to 52.4 hours.
 Supplemental dosing is recommended when Soliris is administered to aHUS patients receiving plasma infusion or exchange (see section 4.2).
 
 All aHUS patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of approximately 50-100 microgram/ml results in essentially complete blockade of terminal complement activity in all aHUS patients.
 
 PK parameters are consistent across PNH, aHUS, refractory gMG and NMOSD patient populations.
-Pharmacodynamic activity measured by free C5 concentrations of <0.5 ug/mL, is correlated with essentially complete blockade of terminal complement activity in PNH, aHUS, refractory gMG and NMOSD patients.
+Pharmacodynamic activity measured by free C5 concentrations of <0.5 microgram/mL, is correlated with essentially complete blockade of terminal complement activity in PNH, aHUS, refractory gMG and NMOSD patients.
 
 Special Populations
 Dedicated studies have not been conducted to evaluate the pharmacokinetics of Soliris in special patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
-Population PK analysis on data collected across studies in PNH, aHUS, gMG and NMOSD patients showed that gender, race, age (geriatric), or the presence of renal or hepatic impairment function do not influence the PK of eculizumab.
-Body weight was a significant covariate resulting in a lower eculizumab clearance in paediatric patients requiring body weight based dosing in paediatric patients.
+Population PK (PopPK) analysis on data collected across studies in PNH, aHUS, gMG and NMOSD patients showed that gender, race, age (geriatric), or the presence of renal or hepatic impairment function do not influence the PK of eculizumab.
 
 Paediatric population
 
-The pharmacokinetics of eculizumab was evaluated in Study M07-005 in PNH paediatric patients (aged from 11 to less than 18 years), in Studies C08-002, C08-003, C09-001r and C10-003 in aHUS paediatric patients (aged 2 months to less than 18 years), and in Study ECU-MG-303 paediatric patients with refractory gMG (aged from 12 years to less than 18 years) with body-weight based dose regimen.
-
-Weight was a significant covariate resulting in a lower eculizumab clearance 0.0105 L/h in the adolescent PNH patients.
+The pharmacokinetics of eculizumab was evaluated in Study M07-005 in PNH paediatric patients (aged from 11 to less than 18 years), in Studies C08-002, C08-003, C09-001r and C10-003 in aHUS paediatric patients (aged 2 months to less than 18 years), and in Study ECU-MG-303 paediatric patients with refractory gMG (aged from 12 years to less than 18 years) PopPK analysis showed that for PNH, aHUS, refractory gMG, and NMOSD, body weight was a significant covariate requiring body weight-based dosing for pediatric patients.

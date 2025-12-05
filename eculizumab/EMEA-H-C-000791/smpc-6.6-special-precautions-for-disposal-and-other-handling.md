@@ -14,6 +14,7 @@ Dilute Soliris to a final concentration of 5 mg/ml by addition to the infusion b
 The final volume of a 5 mg/ml diluted solution is 60 ml for 300 mg doses, 120 ml for 600 mg doses,
 180 ml for 900 mg doses and 240 ml for 1,200 mg doses.
 The solution should be clear and colourless.
+
 Gently agitate the infusion bag containing the diluted solution to ensure thorough mixing of the product and diluent.
 
 The diluted solution should be allowed to warm to room temperature prior to administration by exposure to ambient air.

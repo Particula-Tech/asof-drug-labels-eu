@@ -14,6 +14,7 @@ Animal reproduction studies have not been conducted with eculizumab (see section
 
 Human IgG are known to cross the human placental barrier, and thus eculizumab may potentially cause terminal complement inhibition in the foetal circulation.
 Therefore, Soliris should be given to a pregnant woman only if clearly needed.
+
 Breast-feeding
 
 No effects on the breastfed newborn / infant are anticipated as limited data available suggest that eculizumab is not excreted in human breast milk.

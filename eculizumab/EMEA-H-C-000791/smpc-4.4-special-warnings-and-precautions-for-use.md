@@ -12,9 +12,8 @@ Due to its mechanism of action, the use of Soliris increases the patient’s sus
 Meningococcal disease due to any serogroup may occur.
 To reduce the risk of infection, all patients must be vaccinated at least 2 weeks prior to receiving Soliris unless the risk of delaying Soliris therapy outweighs the risks of developing a meningococcal infection.
 Patients who initiate Soliris treatment less than 2 weeks after receiving a tetravalent meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
-Vaccines against serogroups A, C, Y, W 135 are recommended in preventing the commonly pathogenic meningococcal serogroups.
-Vaccine against serogroup B where available is also recommended.
-Patients must receive vaccination according to current national vaccination guidelines for vaccination use.
+Vaccines against all available serogroups including A, C, Y, W 135 and B, are recommended in preventing the commonly pathogenic meningococcal serogroups.
+Patients must be vaccinated and revaccinated according to current national guidelines for vaccination use.
 
 Vaccination may further activate complement.
 As a result, patients with complement-mediated diseases, including PNH, aHUS, refractory gMG and NMOSD, may experience increased signs and symptoms of their underlying disease, such as haemolysis (PNH), TMA (aHUS), MG exacerbation (refractory gMG) or relapse (NMOSD).
@@ -26,7 +25,7 @@ Cases of serious or fatal meningococcal infections have been reported in Soliris
 Sepsis is a common presentation of meningococcal infections in patients treated with Soliris (see section 4.8).
 All patients should be monitored for early signs of meningococcal infection, evaluated immediately if infection is suspected, and treated with appropriate antibiotics if necessary.
 Patients should be informed of these signs and symptoms and steps taken to seek medical care immediately.
-Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a patient information brochure and a patient safety card (see Package Leaflet for a description).
+Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a Patient guide and a patient card (see Package Leaflet for a description).
 
 Other Systemic Infections
 
@@ -61,8 +60,8 @@ Immunization
 Prior to initiating Soliris therapy, it is recommended that PNH, aHUS, refractory gMG and NMOSD patients initiate immunizations according to current immunization guidelines.
 Additionally, all patients must be vaccinated against meningococcal infections at least 2 weeks prior to receiving Soliris unless the risk of delaying Soliris therapy outweighs the risks of developing a meningococcal infection.
 Patients who initiate Soliris treatment less than 2 weeks after receiving a tetravalent meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
-Vaccines against serogroups A, C, Y, W 135 are recommended in preventing the commonly pathogenic meningococcal serogroups.
-Vaccine against serogroup B where available is also recommended (see Meningococcal Infection).
+Vaccines against all available serogroups including A, C, Y, W 135 and B are recommended in preventing the commonly pathogenic meningococcal serogroups.
+Patients must be vaccinated and revaccinated according to current national guidelines for vaccination use (see Meningococcal Infection).
 
 Patients less than 18 years of age must be vaccinated against Haemophilus influenzae and pneumococcal infections, and strictly need to adhere to the national vaccination recommendations for each age group.
 
@@ -126,13 +125,18 @@ Treatment discontinuation for NMOSD:
 
 Use of Soliris in NMOSD treatment has been studied only in the setting of chronic administration and the effect of Soliris discontinuation has not been characterized.
 Patients who discontinue Soliris treatment should be carefully monitored for signs and symptoms of potential NMOSD relapse.
-
 Educational materials
-All physicians who intend to prescribe Soliris must ensure they are familiar with the physician’s guide to prescribing.
-Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a patient information brochure and a patient safety card.
+
+All physicians who intend to prescribe Soliris must ensure they are familiar with the guide for Healthcare Professionals to prescribing.
+Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a Patient guide and a Patient card.
 Patients should be instructed that if they develop fever, headache accompanied with fever and/or stiff neck or sensitivity to light, they should immediately seek medical care as these signs may be indicative of meningococcal infection.
 
-Sodium content
+Excipients with known effect
 
+Sodium
 Once diluted with sodium chloride 9 mg/mL (0.9%) solution for injection, this medicinal product contains 0.88 g sodium per 240 mL at the maximal dose, equivalent to 44.0% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 Once diluted with sodium chloride 4.5 mg/mL (0.45%) solution for injection, this medicinal product contains 0.67 g sodium per 240 mL at the maximal dose, equivalent to 33.5% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+Polysorbate 80
+This medicinal product contains 6.6 mg of polysorbate 80 in each vial (30mL vial) which is equivalent to 0.66 mg/kg or less at the maximum dose for adult patients and paediatric patients with body weight more than 10 kg and is equivalent to 1.32 mg/kg or less at the maximum dose for paediatric patients with body weight 5 to <10 kg.
+Polysorbates may cause allergic reactions.

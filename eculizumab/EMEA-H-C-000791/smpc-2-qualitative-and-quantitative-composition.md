@@ -6,6 +6,6 @@ One vial of 30 ml contains 300 mg of eculizumab (10 mg/ml).
 
 After dilution, the final concentration of the solution to be infused is 5 mg/ml.
 
-Excipients with known effect: Sodium (5 mmol per vial)
+Excipients with known effect: Sodium (5 mmol per vial), polysorbate 80 (6.6 mg per vial)
 
 For the full list of excipients, see section 6.1.

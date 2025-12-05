@@ -5,8 +5,8 @@ Soliris must be administered by a healthcare professional and under the supervis
 Home infusion may be considered for patients who have tolerated infusions well in the clinic.
 The decision of a patient to receive home infusions should be made after evaluation and recommendation from the treating physician.
 Home infusions should be performed by a qualified healthcare professional.
-
 Posology
+
 Paroxysmal Nocturnal Haemoglobinuria (PNH) in adults
 The PNH dosing regimen for adult patients (≥18 years of age) consists of a 4-week initial phase followed by a maintenance phase:
 
@@ -39,8 +39,6 @@ Soliris has not been studied in patients with PNH or refractory gMG who weigh le
 The posology of Soliris to be used in paediatric patients with PNH or refractory gMG patients weighing less than 40 kg is identical to the weight-based dose recommendation provided for paediatric patients with aHUS.
 Based on the pharmacokinetic (PK)/pharmacodynamic (PD) data available in patients with aHUS and PNH treated with Soliris, this body-weight based dose regimen for paediatric patients is expected to result in an efficacy and safety profile similar to that in adults.
 For patients with refractory gMG weighing less than 40 kg this body-weight based dose regimen is also expected to result in an efficacy and safety profile similar to that in adults.
-
-Soliris has not been studied in paediatric patients with NMOSD.
 
 Supplemental dosing of Soliris is required in the setting of concomitant plasmapheresis (PP), plasma exchange (PE), or fresh frozen plasma infusion (PI) as described below:
 

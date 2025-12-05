@@ -1,11 +1,10 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AJ01
+Pharmacotherapeutic group: Complement Inhibitors, ATC code: L04AJ01
 
 Soliris is a recombinant humanised monoclonal IgG2/4k antibody that binds to the human C5 complement protein and inhibits the activation of terminal complement.
 The Soliris antibody contains human constant regions and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions.
 Soliris is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.
-
 Soliris is produced in a murine myeloma (NS0 cell line) expression system and purified by affinity and ion exchange chromatography.
 The bulk drug substance manufacturing process also includes specific viral inactivation and removal steps.
 
@@ -78,7 +77,6 @@ Because of the study sample size and duration, the effects of Soliris on thrombo
 In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event).
 A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue.
 See Table 3.
-
 Table 3: Efficacy Outcomes in C04-001 and C04-002
 
 |  | C04-001 |  |  | C04-002* |  |  |
@@ -145,7 +143,6 @@ TMA interventions were defined as PE/PI or new dialysis.
 Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for ≥4 weeks.
 Complete TMA response was defined as haematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks.
 Baseline characteristics are shown in Table 5.
-
 Table 5: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
 | Parameter | C08-002A/B | C08-003A/B |
@@ -321,7 +318,7 @@ Table 11: Clinical deterioration and rescue therapy in ECU-MG-301
 | Total number of patients reporting clinical deterioration | n (%) | 15 (23.8) | 6 (9.7) |
 | Total number of patients requiring rescue therapy | n (%) | 12 (19.0) | 6 (9.7) |
 
-Of the 125 patients enrolled in ECU-MG-301, 117 patients subsequently enrolled in a long-term extension study (Study ECU-MG-302), in which all received Soliris..
+Of the 125 patients enrolled in ECU-MG-301, 117 patients subsequently enrolled in a long-term extension study (Study ECU-MG-302), in which all received Soliris.
 Patients that were previously treated with Soliris in Study ECU-MG-301 continued to demonstrate a sustained effect of Soliris on all measures (MG-ADL, QMG, MGC and MG-QoL15) over an additional 130 weeks of treatment with eculizumab in Study ECU-MG-302.
 For patients who received placebo in Study ECU-MG-301 (placebo/eculizumab arm of Study ECU-MG-302), improvement occurred after initiating treatment with eculizumab and was maintained for more than 130 weeks in Study ECU-MG-302.
 Figure 1 presents the change from baseline in both MG-ADL (A) and QMG (B) after 26 weeks of treatment in Study ECU-MG-301 and after 130 weeks of treatment (n = 80 patients) in Study ECU-MG-302.
@@ -425,7 +422,7 @@ Compared to placebo-treated patients, Soliris-treated patients had reduced annua
 
 The distribution of changes from Baseline to End of Study on other secondary endpoints favored eculizumab treatment over placebo across all neurologic disability (EDSS score [p=0.0597] and mRS [nominal p=0.0154]), functional disability (HAI [nominal p=0.0002]) and quality of life (EQ-5D VAS [nominal p=0.0309] and EQ-5D Index [nominal p= 0.0077]) measures.
 
-The final analysis of Study ECU-NMO-302 demonstrates a significant and clinically meaningful reduction in On-trial ARR (as determined by the Treating Physician) on eculizumab treatment, based on the median (min, max) change (-1.825 [-6.38, 1.02], p<0.0001) from historical ARR (24 months prior to screening in Study ECU-NMO-301).
+The final analysis of Study ECU-NMO-302 demonstrates a significant and clinically meaningful reduction in On-trial ARR (as determined by the treating Physician) on eculizumab treatment, based on the median (min, max) change (-1.825 [-6.38, 1.02], p<0.0001) from historical ARR (24 months prior to screening in Study ECU-NMO-301).
 
 In Study ECU-NMO-302, physicians had the option to adjust background immunosuppressant therapies.
 In this setting, the most common change in immunosuppressant therapy was decreased immunosuppressant therapy dose, which occurred in 21.0% of patients.
@@ -580,7 +577,7 @@ Table 20: Efficacy Outcomes in Study ECU-MG-303
 | --- | --- |
 | QMG | -5.8 (1.2) (-8.40, -3.13) na = 10 |
 | MG-ADL total score | -2.3 (0.6) (-3.63, -1.03) na = 10 |
-| MGC total score | -8.8 (1.9) (-12.93, -4.69) na = 9 |
+| MGC total score | -8.8 (1.9) (-12.92, -4.70) na = 10 |
 
 an is the number of patients at Week 26
 Abbreviations: CI = confidence interval; LS = least squares; MG-ADL = Myasthenia Gravis Activities of Daily Living profile; MGC = Myasthenia Gravis Composite; QMG = Quantitative Myasthenia Gravis score for disease severity; SEM = standard error of mean; VAS = visual analog scale
@@ -591,11 +588,25 @@ The 10 patients who completed their visit at Week 26 achieved improved status of
 Seven (70%) patients achieved minimal manifestation of refractory gMG at Week 26.
 
 An event of clinical deterioration (MG crisis) was observed in 1 patient (9.1%) during the Primary Evaluation Treatment Period requiring rescue therapy (PE) which was administered between the Week 22 and Week 24 study visits.
-As a result and due to physician decision, this patient did not have QMG, MG-ADL or other efficacy assessments after Week 20 and did not enter the extension period. .
+As a result and due to physician decision, this patient did not have QMG, MG-ADL or other efficacy assessments after Week 20 and did not enter the extension period.Another 2 patients experienced clinical deteriorations (MG crisis) during the Extension Period requiring rescue therapy (PE and IVIg for clinical deterioration in one case and IVIg and 2 supplemental treatments of eculizumab in the second case).
 
-During the Primary Evaluation Treatment Period in paediatric patients with refractory gMG (study ECU-MG-303), 1 out of 11 patients (9.1%) decreased daily dose of anticholinesterase and 3 out of 11 patients (27.3%) decreased their daily dose of corticosteroid, due to improved MG symptoms.
-.
+During the entire study period in paediatric patients with refractory gMG (study ECU-MG-303), 4 out of 11 patients (36.4%) decreased their daily dose of IST or anticholinesterase therapy due to improved MG symptoms.
+An additional patient (9.1%) decreased and subsequently increased their daily dose during the Extension Period due to improved and worsened MG symptoms respectively and 1 patient started a new corticosteroid treatment due to worsened MG symptoms.
+
+Long-term efficacy
+
+All patients who completed the Primary Treatment Period (N=10) entered the Extension Period of up to 208 weeks of treatment.
+Only two patients completed the Extension Period.
+Eight participants discontinued the study during the Extension Period including 4 participants transitioned to either commercially available Soliris or Ultomiris or transferred to another ongoing Ultomiris paediatric study.
+
+Patients consistently maintained the response through the study, which was of similar magnitude to that reported to during the initial treatment period.
+Figure 3: Change from Baseline in QMG Total Score (LS Mean and 95% CI) regardless of Rescue Therapy) during Week 1 to Week 52 Using a Repeated Measures Model
+
+Abbreviations:; LS=Least square; CI=Confidence Interval.
+Note: Baseline is defined as the last available assessment value prior to first study drug infusion.
+Note: Estimates are based on MMRM that included terms of visit and baseline value.
+Mean equal to 0.
+A compound symmetry covariance structure was used.
 
 Neuromyelitis Optica Spectrum Disorder
-Soliris has not been evaluated in paediatric patients with NMOSD.
-The European Medicines Agency has deferred the obligation to submit the results of studies with Soliris in one or more subsets of the paediatric population in the treatment of NMOSD (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Soliris in one or more subsets of the paediatric population in the treatment of NMOSD (see section 4.2 for information on paediatric use).
