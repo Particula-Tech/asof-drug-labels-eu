@@ -10,4 +10,9 @@ In patients who are being treated with other medicines that are CYP substrates w
 
 Immune response
 
-Concomitant administration of anifrolumab with vaccines has not been studied (see section 4.4).
+Non-live vaccines
+Immune response to non-live seasonal influenza vaccine was assessed in a small number of adult patients with moderate to severe SLE in an exploratory study.
+Humoral antibody responses induced by seasonal influenza virus vaccination were numerically comparable between patients receiving anifrolumab in addition to standard of care and those receiving standard of care alone.
+
+Live vaccines
+The concurrent use of anifrolumab with live and live-attenuated vaccines has not been studied (see section 4.4).

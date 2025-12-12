@@ -2,9 +2,9 @@
 
 Unopened vial
 
-Store in a refrigerator (2°C – 8°C).
+Store in a refrigerator (2 °C – 8 °C).
 Store in the original package in order to protect from light.
-Do not freeze or shake.
+Do not freeze, shake or expose to heat.
 
 Diluted solution for infusion
 

@@ -18,6 +18,7 @@ In a pre- and postnatal development study, conducted in cynomolgus monkeys, ther
 The relevance of these findings to humans is not known.
 No maternal, or postnatal developmental effects were observed for exposures up to approximately 28-times the maximum recommended human dose (MRHD) on an AUC basis.
 Based on the available data, a potential effect of anifrolumab on conception and implantation cannot be excluded.
+
 Fertility
 Effects on male and female fertility have not been directly evaluated in animal studies.
-In the 9-month repeat-dose study, there were no anifrolumab-related adverse effects on indirect measures of male or female fertility, based on semen analysis, spermatogenesis staging, menses cycle, organ weights and histopathological findings in the reproductive organs, in cynomolgus monkeys at approximately 58-times the MRHD on an AUC basis.
+In the 9-month repeat-dose study, there were no anifrolumab-related adverse effects on indirect measures of male or female fertility, based on semen analysis, spermatogenesis staging, menses cycle, organ weights and histopathological findings in the reproductive organs, in cynomolgus monkeys at approximately 58-times the intravenous MRHD and 52-times the subcutaneous MRHD, on an AUC basis.

@@ -5,7 +5,6 @@ Pregnancy
 There are limited data (less than 300 pregnancy outcomes) from the use of Saphnelo in pregnant women.
 
 Animal studies are inconclusive with respect to reproductive toxicity (see section 5.3).
-
 Saphnelo is not recommended during pregnancy and in women of childbearing potential not using contraception, unless the possible benefit justifies the potential risk.
 
 Breast-feeding
