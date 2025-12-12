@@ -9,6 +9,7 @@ Cholinergic toxicity has been reported with muscarinic symptoms that are observe
 In more severe cases nicotinic effects might develop such as muscular weakness, fasciculations, seizures and respiratory arrest with possible fatal outcome.
 
 Additionally there have been post-marketing cases of dizziness, tremor, headache, somnolence, confusional state, hypertension, hallucinations and malaise.
+
 Management
 
 As rivastigmine has a plasma half-life of about 1 hour and a duration of acetylcholinesterase inhibition of about 9 hours, it is recommended that in cases of asymptomatic overdose no further dose of rivastigmine should be administered for the next 24 hours.

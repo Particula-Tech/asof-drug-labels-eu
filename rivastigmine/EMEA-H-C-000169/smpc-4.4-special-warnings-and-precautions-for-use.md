@@ -21,6 +21,7 @@ Patients and caregivers should be instructed accordingly.
 Dose titration: Adverse reactions (e.g. hypertension and hallucinations in patients with Alzheimer’s dementia and worsening of extrapyramidal symptoms, in particular tremor, in patients with dementia associated with Parkinson’s disease) have been observed shortly after dose increase.
 They may respond to a dose reduction.
 In other cases, Exelon has been discontinued (see section 4.8).
+
 Gastrointestinal disorders such as nausea, vomiting and diarrhoea are dose-related, and may occur particularly when initiating treatment and/or increasing the dose (see section 4.8).
 These adverse reactions occur more commonly in women.
 Patients who show signs or symptoms of dehydration resulting from prolonged vomiting or diarrhoea can be managed with intravenous fluids and dose reduction or discontinuation if recognised and treated promptly.
@@ -55,6 +56,7 @@ Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal
 Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson’s disease (see section 4.8).
 These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo).
 Clinical monitoring is recommended for these adverse reactions.
+
 Special populations
 
 Patients with clinically significant renal or hepatic impairment might experience more adverse reactions (see sections 4.2 and 5.2).
@@ -77,7 +79,6 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per ml, that is 
 
 The incidence and severity of adverse reactions generally increase with increasing doses, particularly at dose changes.
 If treatment is interrupted for more than three days, it should be re-initiated with 4.6 mg/24 h.
-
 Misuse of the medicinal product and dosing errors resulting in overdose
 
 Misuse of the medicinal product and dosing errors with Exelon transdermal patch have resulted in serious adverse reactions; some cases have required hospitalisation, and rarely led to death (see section 4.9).

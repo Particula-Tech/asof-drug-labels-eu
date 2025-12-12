@@ -3,7 +3,6 @@
 Exelon 1.5 mg hard capsules
 
 EU/1/98/066/001-3
-
 Exelon 3.0 mg hard capsules
 
 EU/1/98/066/004-6

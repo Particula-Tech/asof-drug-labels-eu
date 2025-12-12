@@ -10,10 +10,10 @@ The major metabolite NAP226-90 also did not show a genotoxic potential.
 
 No evidence of carcinogenicity was found in studies in mice and rats at the maximum tolerated dose, although the exposure to rivastigmine and its metabolites was lower than the human exposure.
 When normalised to body surface area, the exposure to rivastigmine and its metabolites was approximately equivalent to the maximum recommended human dose of 12 mg/day; however, when compared to the maximum human dose, a multiple of approximately 6-fold was achieved in animals.
+
 In animals, rivastigmine crosses the placenta and is excreted into milk.
 Oral studies in pregnant rats and rabbits gave no indication of teratogenic potential on the part of rivastigmine.
 In oral studies with male and female rats, no adverse effects of rivastigmine were observed on fertility or reproductive performance of either the parent generation or the offspring of the parents.
-
 A mild eye/mucosal irritation potential of rivastigmine was identified in a rabbit study.
 
 [Exelon 2 mg/ml oral solution]

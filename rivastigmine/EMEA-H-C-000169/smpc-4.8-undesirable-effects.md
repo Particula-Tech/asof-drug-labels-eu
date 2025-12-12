@@ -98,6 +98,7 @@ Common Weight loss
 The following additional adverse reactions have been observed with Exelon transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
 
 Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson’s disease treated with Exelon capsules.
+
 Table 2
 
 Metabolism and nutrition disorders
@@ -167,6 +168,7 @@ Common Parkinson gait
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson’s disease treated with Exelon transdermal patches: agitation (common).
 
 Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson’s disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
+
 Table 3
 
 | Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson’s disease | Exelon n (%) | Placebo n (%) |
@@ -242,7 +244,6 @@ Description of selected adverse reactions
 
 When doses higher than 13.3 mg/24 h were used in the above-mentioned placebo-controlled study, insomnia and cardiac failure were observed more frequently than with 13.3 mg/24 h or placebo, suggesting a dose effect relationship.
 However, these events did not occur at a higher frequency with Exelon 13.3 mg/24 h transdermal patches than with placebo.
-
 The following adverse reactions have only been observed with Exelon capsules and oral solution and not in clinical studies with Exelon transdermal patches: malaise, confusion, sweating increased (common); duodenal ulcers, angina pectoris (rare); gastrointestinal haemorrhage (very rare); and some cases of severe vomiting were associated with oesophageal rupture (not known).
 
 Skin irritation

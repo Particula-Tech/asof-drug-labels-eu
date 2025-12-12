@@ -7,6 +7,7 @@ It is not known if this occurs in humans.
 No clinical data on exposed pregnancies are available.
 In peri/postnatal studies in rats, an increased gestation time was observed.
 Rivastigmine should not be used during pregnancy unless clearly necessary.
+
 Breast-feeding
 
 In animals, rivastigmine is excreted in milk.
