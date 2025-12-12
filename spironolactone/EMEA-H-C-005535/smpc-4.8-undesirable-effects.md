@@ -3,6 +3,7 @@
 Summary of the safety profile
 
 The most frequent adverse reactions of spironolactone include: hyperkalaemia, reported in 17.5% of patients, particularly in patients with renal impairment or if receiving ACE-inhibitors or angiotensin II antagonists concomitantly; gynaecomastia and breast pain, reported in 9% of males.
+
 The following undesirable effects have been observed in clinical trials and reported during treatment with spironolactone with the following frequencies: very common (≥ 1/10); common (≥ 1/100 to
 < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); not known (cannot be estimated from the available data).
 Table 2 presented below is according to the MedDRA system organ classification and frequency.

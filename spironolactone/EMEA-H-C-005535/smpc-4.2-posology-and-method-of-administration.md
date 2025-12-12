@@ -103,7 +103,6 @@ Age (Years) Weight* (Kg) Dose† 1 mg/kg mg ml 2 mg/kg mg ml 3 mg/kg mg ml
 *50th percentile for boys extracted from WHO (0-10 years) growth charts
 †Doses less than or equal to 10 mg to be drawn up using the 1 ml oral syringe.
 Doses greater than 10 mg to be drawn up using the 5 ml oral syringe or a combination of both syringes (shaded cells).
-Both syringes have graduations at every 0.1 ml (1 mg).
 
 Method of administration
 
@@ -112,7 +111,15 @@ Spironolactone should be taken together with a meal.
 This medicinal product is for oral use.
 The bottle should be shaken thoroughly before use for redispersing the suspension.
 
-Two dosing syringes (a 1 ml syringe with black font and a 5 ml syringe with red font, both graduated in 0.1 ml increments, allowing accurate and reproducible dosing in 1 mg increments) are provided for accurate measurement of the prescribed dose of the oral suspension.
+Two dosing syringes (a 1 ml syringe and a 5 ml syringe) are provided for accurate measurement of the prescribed dose of the oral suspension.
+
+The smaller 1 ml syringe is for measuring doses of less than or equal to 10 mg.
+The syringe is marked at 0.1 ml intervals, allowing for dosing in 1 mg increments.
+
+The larger 5 ml syringe is for measuring doses more than 10 mg.
+The syringe has graduations at every 0.2 ml (2 mg) and is marked at 1 ml intervals and at 2.5 ml.
+Each 1 ml contains 10 mg of spironolactone.
+
 The healthcare professional should advise the patient or carer which syringe to use to ensure that the correct volume is administered.
 
 The healthcare professional should advise the patient or carer to place the tip of the syringe into the mouth and to the inside of the cheek, and the contents gently released.

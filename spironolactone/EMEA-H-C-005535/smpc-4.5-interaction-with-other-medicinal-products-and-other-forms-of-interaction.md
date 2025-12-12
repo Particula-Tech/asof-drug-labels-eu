@@ -18,6 +18,7 @@ Non-steroidal anti-inflammatory medicinal products such as acetylsalicylic acid,
 Interactions affecting the use of other medicinal products
 
 Concurrent use with carbenoxolone or lithium salts should be avoided.
+
 Spironolactone binds to the androgen receptor and may increase prostate specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
 Use with abiraterone is not recommended.
 

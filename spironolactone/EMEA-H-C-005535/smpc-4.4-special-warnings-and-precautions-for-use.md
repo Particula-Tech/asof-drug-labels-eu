@@ -25,10 +25,10 @@ The recommended monitoring for potassium and creatinine is 1 week after initiati
 Discontinue or interrupt treatment for serum potassium > 5 mEq/L or for serum creatinine > 4 mg/dL (see section 4.2).
 
 Concomitant use with cardiac glycosides or hypotensive agents
-
 The concomitant administration of this preparation with cardiac glycosides or hypotensive agents may necessitate adjustment of those medicinal products (see section 4.5).
 
 Urea
+
 Reversible increases in blood urea may occur during use of spironolactone especially in the presence of impaired renal function.
 
 Paediatric population

@@ -3,10 +3,10 @@
 Pharmacotherapeutic group: diuretics, aldosterone antagonists and other potassium-sparing agents, ATC code C03DA01
 
 Mechanism of action
-
 Spironolactone, as a competitive aldosterone antagonist, increases sodium excretion whilst reducing potassium loss at the distal renal tubule.
 It has a gradual and prolonged action, maximum response being usually attained after 2 to 3 days treatment.
 Combination of spironolactone with a conventional, more proximally acting diuretic usually enhances diuresis without excessive potassium loss.
+
 Clinical efficacy and safety
 
 Severe heart failure

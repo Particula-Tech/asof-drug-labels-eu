@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Carcinogenicity
-
 Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
 In an 18-month study using doses of about 50, 150 and 500 mg/kg/day (about 1x, 4x, and 12x, respectively, the maximum human recommended daily dose of 400 mg/day based on body surface area), there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
 In 24-month studies in which rats were administered doses of about 10, 30, 100, and 150 mg/kg/day of spironolactone (about 0.2x, 0.7x, and 2x, respectively, the maximum recommended daily dose of 400 mg/day based on body surface area), the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumours in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
