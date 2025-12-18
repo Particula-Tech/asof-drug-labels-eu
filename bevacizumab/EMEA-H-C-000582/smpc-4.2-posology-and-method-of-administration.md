@@ -52,7 +52,7 @@ The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 we
 When Avastin is administered in combination with topotecan (given on days 1-5, every 3 weeks), the recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 It is recommended that treatment be continued until disease progression or unacceptable toxicity (see section 5.1, study MO22224).
 
-Cervical Cancer
+Cervical cancer
 
 Avastin is administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin or paclitaxel and topotecan.
 

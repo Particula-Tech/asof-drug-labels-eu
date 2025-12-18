@@ -7,7 +7,7 @@ A sterile needle and syringe should be used to prepare Avastin.
 
 The necessary amount of bevacizumab should be withdrawn and diluted to the required administration volume with sodium chloride 9 mg/ml (0.9%) solution for injection.
 The concentration of the final bevacizumab solution should be kept within the range of 1.4 mg/ml to 16.5 mg/ml.
-In the majority of the occasions the necessary amount of Avastin can be diluted with 0.9 % sodium chloride solution for injection to a total volume of 100 mL.
+In the majority of the occasions the necessary amount of Avastin can be diluted with 0.9% sodium chloride solution for injection to a total volume of 100 ml.
 
 Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration.
 

@@ -3,8 +3,8 @@
 In studies of up to 26 weeks duration in cynomolgus monkeys, physeal dysplasia was observed in young animals with open growth plates, at bevacizumab average serum concentrations below the expected human therapeutic average serum concentrations.
 In rabbits, bevacizumab was shown to inhibit wound healing at doses below the proposed clinical dose.
 Effects on wound healing were shown to be fully reversible.
-
 Studies to evaluate the mutagenic and carcinogenic potential of bevacizumab have not been performed.
+
 No specific studies in animals have been conducted to evaluate the effect on fertility.
 An adverse effect on female fertility can however be expected as repeat dose toxicity studies in animals have shown inhibition of the maturation of ovarian follicles and a decrease/absence of corpora lutea and associated decrease in ovarian and uterus weight as well as a decrease in the number of menstrual cycles.
 

@@ -2,5 +2,5 @@
 
 Trehalose dihydrate
 Sodium phosphate
-Polysorbate 20
+Polysorbate 20 (E 432)
 Water for injections

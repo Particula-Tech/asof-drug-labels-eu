@@ -128,7 +128,10 @@ Systemic adverse reactions including non-ocular haemorrhages and arterial thromb
 
 Ovarian failure/fertility
 Avastin may impair female fertility (see sections 4.6 and 4.8).
-Therefore fertility preservation strategies should be discussed with women of child-bearing potential prior to starting treatment with Avastin.
+Therefore fertility preservation strategies should be discussed with women of childbearing potential prior to starting treatment with Avastin.
 
-Important information about some of the ingredients of Avastin
+Excipients
 This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium-free’.
+
+This medicine contains 1.6 mg of polysorbate 20 in each 100 mg/4 ml vial and 6.4 mg in each 400 mg/16 ml vial which is equivalent to 0.4 mg/ml.
+Polysorbates may cause allergic reactions.

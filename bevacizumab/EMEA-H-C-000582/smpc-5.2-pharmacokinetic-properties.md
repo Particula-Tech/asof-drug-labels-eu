@@ -1,21 +1,22 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetic data for bevacizumab are available from ten clinical trials in patients with solid tumours.
-In all clinical trials, bevacizumab was administered as an IV infusion.
+In all clinical trials, bevacizumab was administered as an intravenous infusion.
 The rate of infusion was based on tolerability, with an initial infusion duration of 90 minutes.
 The pharmacokinetics of bevacizumab was linear at doses ranging from 1 to 10 mg/kg.
 
 Distribution
-The typical value for central volume (Vc) was 2.73 L and 3.28 L for female and male patients respectively, which is in the range that has been described for IgGs and other monoclonal antibodies.
-The typical value for peripheral volume (Vp) was 1.69 L and 2.35 L for female and male patients respectively, when bevacizumab is co-administered with anti-neoplastic agents.
+The typical value for central volume (Vc) was 2.73 l and 3.28 l for female and male patients respectively, which is in the range that has been described for IgGs and other monoclonal antibodies.
+The typical value for peripheral volume (Vp) was 1.69 l and 2.35 l for female and male patients respectively, when bevacizumab is co-administered with anti-neoplastic agents.
 After correcting for body weight, male patients had a larger Vc (+ 20%) than female patients.
+
 Biotransformation
-Assessment of bevacizumab metabolism in rabbits following a single IV dose of 125I-bevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF.
+Assessment of bevacizumab metabolism in rabbits following a single intravenous dose of 125I-bevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF.
 The metabolism and elimination of bevacizumab is similar to endogenous IgG i.e. primarily via proteolytic catabolism throughout the body, including endothelial cells, and does not rely primarily on elimination through the kidneys and liver.
 Binding of the IgG to the FcRn receptor results in protection from cellular metabolism and the long terminal half-life.
 
 Elimination
-The value for clearance is, on average, equal to 0.188 and 0.220 L/day for female and male patients, respectively.
+The value for clearance is, on average, equal to 0.188 and 0.220 l/day for female and male patients, respectively.
 After correcting for body weight, male patients had a higher bevacizumab clearance
 (+ 17%) than females.
 According to the two-compartmental model, the elimination half-life is 18 days for a typical female patient and 20 days for a typical male patient.
@@ -24,7 +25,7 @@ Low albumin and high tumour burden are generally indicative of disease severity.
 Bevacizumab clearance was approximately 30% faster in patients with low levels of serum albumin and 7% faster in subjects with higher tumour burden when compared with a typical patient with median values of albumin and tumour burden.
 
 Pharmacokinetics in special populations
-The population pharmacokinetics were analysed in adult and pediatric patients to evaluate the effects of demographic characteristics.
+The population pharmacokinetics were analysed in adult and paediatric patients to evaluate the effects of demographic characteristics.
 In adults, the results showed no significant difference in the pharmacokinetics of bevacizumab in relation to age.
 
 Renal impairment
@@ -38,7 +39,7 @@ The pharmacokinetics of bevacizumab were evaluated in 152 children, adolescents 
 The pharmacokinetic results show that the clearance and volume of distribution of bevacizumab were comparable between paediatric and young adult patients when normalised by body weight, with exposure trending lower as body weight decreased.
 Age was not associated with the pharmacokinetics of bevacizumab when body weight was taken into account.
 
-The pharmacokinetics of bevacizumab was well characterized by the paediatric population PK model for 70 patients in Study BO20924 ((1.4 to 17.6 years; 11.6 to 77.5 kg) and 59 patients in Study BO25041 (1 to 17 years; 11.2 to 82.3 kg).
+The pharmacokinetics of bevacizumab was well characterised by the paediatric population PK model for 70 patients in Study BO20924 ((1.4 to 17.6 years; 11.6 to 77.5 kg) and 59 patients in Study BO25041 (1 to 17 years; 11.2 to 82.3 kg).
 In Study BO20924, bevacizumab exposure was generally lower compared to a typical adult patient at the same dose.
 In Study BO25041, bevacizumab exposure was similar compared to a typical adult at the same dose.
-In both studies, bevacizumb exposure trended lower as body weight decreased.
+In both studies, bevacizumab exposure trended lower as body weight decreased.
