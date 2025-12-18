@@ -8,3 +8,5 @@ All patients recovered with conventional treatment.
 Only one recorded death has been published: after an overdose of 469 mg/kg, a 16-month old child developed an apnoeic episode with seizures and a fatal aspiration pneumonia.
 
 The management of ibuprofen overdose is primarily supportive.
+
+Prolonged use at higher than recommended doses or overdose may result in renal tubular acidosis and hypokalaemia.

@@ -15,6 +15,6 @@ Elimination
 Elimination rate is markedly lower than in older children and adults, with an elimination half-life estimated at approximately 30 hours (16–43).
 The clearance of both enantiomers increases with gestational age, at least in the range of 24 to 28 weeks.
 
-PK-PD relationship
+Pharmacokinetic/pharmacodynamic relationship
 In preterm newborns ibuprofen significantly reduced plasma concentrations of prostaglandins and their metabolites, particularly PGE2 and 6-keto-PGF-1-alpha.
 Low levels were sustained up to 72 hours in neonates who received 3 doses of ibuprofen, whereas subsequent re-increases were observed at 72 hours after only 1 dose of ibuprofen.

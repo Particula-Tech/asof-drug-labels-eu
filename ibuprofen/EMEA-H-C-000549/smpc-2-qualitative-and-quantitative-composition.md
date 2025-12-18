@@ -5,4 +5,4 @@ Each ampoule of 2 ml contains 10 mg ibuprofen.
 
 Excipients: each ml contains 7.5 mg of sodium.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.

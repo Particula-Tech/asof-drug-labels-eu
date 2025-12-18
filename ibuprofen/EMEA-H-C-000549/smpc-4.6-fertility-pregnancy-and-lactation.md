@@ -1,3 +1,3 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Not relevant

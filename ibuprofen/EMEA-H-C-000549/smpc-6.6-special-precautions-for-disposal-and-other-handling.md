@@ -17,4 +17,4 @@ Before and after administration of Pedea, to avoid contact with any acidic solut
 
 After first opening of an ampoule, any unused portions must be discarded.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

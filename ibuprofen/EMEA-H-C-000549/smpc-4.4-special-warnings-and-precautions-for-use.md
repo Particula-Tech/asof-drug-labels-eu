@@ -24,7 +24,7 @@ Severe skin reactions
 
 Serious skin reactions, some of them fatal, including exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely in association with the use of NSAIDSs (see section 4.8).
 Patients appear to be at highest risk of these reactions early in the course of therapy, the onset of the reaction occurring in the majority of cases within the first month of treatment.
-Acute generalised exanthematous pustulosis (AGEP) has been reported in relation to ibuprofen-containing products.
+Acute generalised exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS syndrome) have been reported in relation to ibuprofen-containing products.
 Ibuprofen should be discontinued, at the first appearance of signs and symptoms of severe skin reactions, such as skin rash, mucosal lesions, or any other sign of hypersensitivity.
 In preterm newborn infants less than 27 weeks of gestational age, the closure rate of the ductus arteriosus (33 to 50%) was shown to be low at the recommended dose regimen (see section 5.1).
 
