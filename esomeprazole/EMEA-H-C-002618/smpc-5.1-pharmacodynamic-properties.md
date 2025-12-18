@@ -6,7 +6,6 @@ ATC code: A02BC05.
 Esomeprazole is the S-isomer of omeprazole and reduces gastric acid secretion through a specific targeted mechanism of action.
 It is a specific inhibitor of the acid pump in the parietal cell.
 Both the R-and S-isomer of omeprazole have similar pharmacodynamic activity.
-
 Mechanism of action
 Esomeprazole is a weak base and is concentrated and converted to the active form in the highly acidic environment of the secretory canaliculi of the parietal cell, where it inhibits the enzyme H+K+-ATPase (the acid pump) and inhibits both basal and stimulated acid secretion.
 

@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Dungarvan Limited,
+Haleon Ireland Dungarvan Limited,
 Knockbrack,
 Dungarvan,
 Co. Waterford,
