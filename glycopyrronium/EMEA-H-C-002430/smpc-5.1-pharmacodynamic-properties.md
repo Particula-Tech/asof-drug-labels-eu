@@ -22,6 +22,7 @@ In phase III studies, bronchodilator effects were seen within 5 minutes after th
 There was no attenuation of the bronchodilator effect over time in the 6- and 12-month studies.
 The magnitude of the effect was dependent on the degree of reversibility of airflow limitation at baseline (tested by administration of a short-acting muscarinic antagonist bronchodilator): Patients with the lowest degree of reversibility at baseline (<5%) generally exhibited a lower bronchodilator response than patients with a higher degree of reversibility at baseline (≥5%).
 At 12 weeks (primary endpoint), Seebri Breezhaler increased trough FEV1 by 72 ml in patients with the lowest degree of reversibility (<5%) and by 113 ml in those patients with a higher degree of reversibility at baseline (≥5%) compared to placebo (both p<0.05).
+
 In the 6-month study, Seebri Breezhaler increased FEV1 after the first dose with an improvement of 93 ml within 5 minutes and 144 ml within 15 minutes of dosing, compared to placebo (both p<0.001).
 In the 12-month study, the improvements were 87 ml at 5 minutes and 143 ml at 15 minutes (both p<0.001).
 In the 12-month study, Seebri Breezhaler produced statistically significant improvements in FEV1 compared to tiotropium in the first 4 hours after dosing on day 1 and at week 26, and numerically greater values for FEV1 in the first 4 hours after dosing than tiotropium at week 12 and week 52.
@@ -48,6 +49,7 @@ The pooled analysis also showed fewer patients treated with Seebri Breezhaler th
 
 Other effects
 Seebri Breezhaler once daily statistically significantly reduced the use of rescue medication (salbutamol) by 0.46 puffs per day (p=0.005) over 26 weeks and by 0.37 puffs per day (p=0.039) over 52 weeks, compared to placebo for the 6- and 12-month studies, respectively.
+
 In a 3-week study where exercise tolerance was tested via cycle ergometer at submaximal (80%) workload (submaximal exercise tolerance test), Seebri Breezhaler, dosed in the morning, reduced dynamic hyperinflation and improved the length of time exercise could be maintained from the first dose onwards.
 On the first day of treatment inspiratory capacity under exercise was improved by 230 ml and exercise endurance time was improved by 43 seconds (an increase of 10%) compared to placebo.
 After three weeks of treatment the improvement in inspiratory capacity with Seebri Breezhaler was similar to the first day (200 ml), exercise endurance time however had increased by 89 seconds (an increase of 21%) compared to placebo.

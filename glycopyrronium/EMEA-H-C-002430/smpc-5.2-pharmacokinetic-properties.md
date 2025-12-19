@@ -14,6 +14,7 @@ Distribution
 After intravenous dosing, the steady-state volume of distribution of glycopyrronium was 83 litres and the volume of distribution in the terminal phase was 376 litres.
 The apparent volume of distribution in the terminal phase following inhalation was almost 20-fold larger, which reflects the much slower elimination after inhalation.
 The in vitro human plasma protein binding of glycopyrronium was 38% to 41% at concentrations of 1 to 10 nanograms/ml.
+
 Biotransformation
 In vitro metabolism studies showed consistent metabolic pathways for glycopyrronium bromide between animals and humans.
 Hydroxylation resulting in a variety of mono-and bis-hydroxylated metabolites and direct hydrolysis resulting in the formation of a carboxylic acid derivative (M9) were seen.
@@ -22,7 +23,6 @@ Glucuronide and/or sulfate conjugates of glycopyrronium were found in urine of h
 
 Multiple CYP isoenzymes contribute to the oxidative biotransformation of glycopyrronium.
 Inhibition or induction of the metabolism of glycopyrronium is unlikely to result in a relevant change of systemic exposure to the active substance.
-
 In vitro inhibition studies demonstrated that glycopyrronium bromide has no relevant capacity to inhibit CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A4/5, the efflux transporters MDR1, MRP2 or MXR, and the uptake transporters OCT1 or OCT2.
 In vitro enzyme induction studies did not indicate a clinically relevant induction by glycopyrronium bromide for cytochrome P450 isoenzymes, or for UGT1A1 and the transporters MDR1 and MRP2.
 
@@ -53,6 +53,7 @@ Gender, smoking status and baseline FEV1 had no apparent effect on systemic expo
 
 There were no major differences in total systemic exposure (AUC) between Japanese and Caucasian subjects following inhalation of glycopyrronium bromide.
 Insufficient pharmacokinetic data is available for other ethnicities or races.
+
 Patients with hepatic impairment
 Clinical studies have not been conducted in patients with hepatic impairment.
 Glycopyrronium is cleared predominantly from the systemic circulation by renal excretion.

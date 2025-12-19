@@ -2,6 +2,7 @@
 
 The inhaler provided with each new prescription should be used.
 Each inhaler should be disposed of after all capsules have been used.
+
 Instructions for handling and use
 
 Please read the full Instructions for Use before using the Seebri Breezhaler.
@@ -22,7 +23,8 @@ Step 1b: Step 3b:
 Open inhaler Inhale medicine deeply
 Powder Empty
 Hold the inhaler as
-shown in the picture. remaining
+remaining
+shown in the picture.
 Place the mouthpiece in
 your mouth and close
 your lips firmly around
