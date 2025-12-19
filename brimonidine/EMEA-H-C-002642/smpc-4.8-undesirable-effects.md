@@ -6,7 +6,7 @@ They are typically mild to moderate in severity, and usually do not require disc
 Aggravated erythema, flushing and skin burning sensation have been reported during the post-marketing period (see section 4.4).
 
 Tabulated list of adverse reactions
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to <1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data) and were reported with Mirvaso either in clinical studies, or during the post-marketing experience (identified by an asterix (*) in Table 1).
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to <1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data) and were reported with Mirvaso either in clinical studies, or during the post-marketing experience (identified by an asterix (*) in Table 1).
 
 Table 1 – Adverse reactions
 
@@ -31,6 +31,7 @@ Description of selected adverse reactions
 Bradycardia and hypotension
 Post-marketing cases of bradycardia, hypotension (including orthostatic hypotension) and dizziness have been reported, some of which required hospitalisation.
 Some cases involved application of Mirvaso following laser procedures (see section 4.4).
+
 Other special populations
 Elderly patients
 No meaningful differences in the safety profiles were observed between the elderly subject population and subjects 18 to 65 years of age.
@@ -38,4 +39,6 @@ No meaningful differences in the safety profiles were observed between the elder
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.
