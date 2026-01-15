@@ -100,7 +100,6 @@ Eylea 114.3 mg/ml solution for injection
 Do not use if the package or its components are expired, damaged, or have been tampered with.
 Check the label on the vial to make sure you have the strength of Eylea that you intended to use.
 The 8 mg dose requires use of the Eylea 114.3 mg/ml vial.
-
 18 G, 5-micron filter needle:
 
 - Do not autoclave blunt filter (fill) needle.

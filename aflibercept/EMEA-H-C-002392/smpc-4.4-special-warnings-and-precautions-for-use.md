@@ -94,7 +94,8 @@ Both the intraocular pressure and perfusion of the optic nerve head must therefo
 As this is a therapeutic protein, there is a potential for immunogenicity with aflibercept (see section 5.1).
 
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition (see section 4.8).
-There are limited data on safety in the treatment of patients with nAMD and DME with a history of stroke, transient ischaemic attacks or myocardial infarction within the last 6 months.
+There are limited data on safety in the treatment of patients with nAMD, DME and RVO with a history of stroke, transient ischaemic attacks or myocardial infarction within the last 6 months.
+
 Bilateral treatment
 
 The safety and efficacy of bilateral treatment with Eylea 114.3 mg/ml per eye have not been studied (see section 5.1).
@@ -102,7 +103,6 @@ The safety and efficacy of bilateral treatment with Eylea 114.3 mg/ml per eye ha
 Concomitant use of other anti-VEGF
 
 There are limited data available on the concomitant use of Eylea with other anti-VEGF medicinal products (systemic or ocular).
-
 Withholding treatment
 
 Treatment should be withheld in the event of:

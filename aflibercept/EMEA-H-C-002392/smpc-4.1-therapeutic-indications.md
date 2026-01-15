@@ -20,3 +20,4 @@ EYLEA is indicated in preterm infants for the treatment of
 Eylea is indicated in adults for the treatment of
 
 - neovascular (wet) age-related macular degeneration (nAMD) (see section 5.1)
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO) (see section 5.1).

@@ -53,6 +53,8 @@ The accumulation of free aflibercept in plasma following 3 initial monthly doses
 Subsequently, no further accumulation was observed.
 These data are also supported by population pharmacokinetic analyses.
 
+These pharmacokinetic results were consistent with data obtained in patients with RVO.
+
 Aflibercept is a protein-based therapeutic and no metabolism studies have been conducted.
 
 Aflibercept is expected to undergo elimination through both target-mediated disposition via binding to free endogenous VEGF and metabolism via proteolysis.

@@ -30,7 +30,7 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.
-** Culture positive and culture negative endophthalmitis
+** Culture positive and culture negative endophthalmitis.
 *** During the post-marketing period, reports of hypersensitivity included rash, pruritus, urticaria, and isolated cases of severe anaphylactic/anaphylactoid reactions.
 **** From post-marketing reporting.
 
@@ -66,37 +66,38 @@ A low incidence rate of arterial thromboembolic events was observed in the Eylea
 
 [Eylea 114.3 mg/ml solution for injection]
 
-Serious adverse reactions were cataract (8.2%), retinal haemorrhage (3.6%), intraocular pressure increased (2.8%), vitreous haemorrhage (1.2%), cataract subcapsular (0.9%), cataract nuclear (0.6%), retinal detachment (0.6%), and retinal tear (0.5%).
+Serious adverse reactions were cataract (7.1%), intraocular pressure increased (3.8%), retinal haemorrhage (2.8%), vitreous haemorrhage (1.1%), cataract subcapsular (0.6%), retinal tear (0.5%), cataract nuclear (0.4%), and retinal detachment (0.4%).
 
-The most frequently observed adverse reactions in patients treated with Eylea 114.3 mg/ml were cataract (8.2%), visual acuity reduced (4.4%), vitreous floaters (4.0%), conjunctival haemorrhage (3.8%), vitreous detachment (3.7%), retinal haemorrhage (3.6%), intraocular pressure increased (2.8%), and eye pain (2.0%).
+The most frequently observed adverse reactions in patients treated with Eylea 114.3 mg/ml were cataract (7.1%), visual acuity reduced (4.3%), conjunctival haemorrhage (4.0%), intraocular pressure increased (3.8%), vitreous detachment (3.5%), vitreous floaters (3.2%), and retinal haemorrhage (2.8%).
 
-The safety profile observed in the 3 clinical studies was similar in patients treated with
-Eylea 114.3 mg/ml (N=1 217) and Eylea 40 mg/ml (N=556), and in patients with nAMD and DME.
+The safety profile observed in the 4 clinical studies was similar in patients treated with
+Eylea 114.3 mg/ml (N=1 808) and Eylea 40 mg/ml (N=857), and in patients with nAMD, DME and RVO.
 
-A total of 1 217 patients treated with Eylea 114.3 mg/ml up to 96 weeks constituted the safety population in 3 clinical phase II/III studies (CANDELA, PULSAR, PHOTON).
+A total of 1 808 patients treated with Eylea 114.3 mg/ml up to 96 weeks constituted the safety population in 4 clinical phase II/III studies (CANDELA, PULSAR, PHOTON, QUASAR).
 The safety data described below include all adverse reactions with a reasonable possibility of causality to the injection procedure or medicinal product reported.
+
 The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare
 (≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-Table 1: All treatment-emergent adverse reactions reported in patients with nAMD or DME treated with Eylea 114.3 mg/ml in phase II/III studies or during post-marketing surveillance
+Table 1: All treatment-emergent adverse reactions reported in patients with nAMD, DME or RVO treated with Eylea 114.3 mg/ml in phase II/III studies or during post-marketing surveillance
 
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
 | Immune system disorders | Common | Hypersensitivity* |
 | Eye disorders | Common | Cataract, Intraocular pressure increased, Vitreous floaters, Vitreous detachment, Vitreous haemorrhage, Retinal haemorrhage, Visual acuity reduced, Eye pain, Conjunctival haemorrhage, Punctate keratitis, Corneal abrasion |
-|  | Uncommon | Retinal detachment, Retinal tear, Retinal pigment epithelial tear, Detachment of the retinal pigment epithelium, Uveitis, Iritis, Iridocyclitis, Vitritis, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Vision blurred, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Injection site haemorrhage, Conjunctival hyperaemia, Eyelid oedema, Ocular hyperaemia, Injection site irritation |
-|  | Rare | Corneal oedema, Lenticular opacities, Retinal degeneration, Eyelid irritation |
+|  | Uncommon | Retinal detachment, Retinal tear, Retinal pigment epithelial tear, Detachment of the retinal pigment epithelium, Uveitis, Iritis, Iridocyclitis, Vitritis, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Vision blurred, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Injection site haemorrhage, Conjunctival hyperaemia, Lenticular opacities, Eyelid oedema, Ocular hyperaemia, Injection site irritation, Retinal degeneration, Corneal oedema |
+|  | Rare | Blindness, Endophthalmitis, Eyelid irritation |
 |  | Not known | Scleritis** |
 
 * Reports of hypersensitivity included rash, pruritus, urticaria.
 ** From post-marketing reporting.
 
 The following adverse reactions of Eylea 40 mg/ml are also considered expected with
-Eylea 114.3 mg/ml: abnormal sensation in eye, corneal epithelium defect, anterior chamber flare, endophthalmitis, blindness, traumatic cataract, hypopyon, severe anaphylactic/anaphylactoid reactions.
+Eylea 114.3 mg/ml: abnormal sensation in eye, corneal epithelium defect, anterior chamber flare, traumatic cataract, hypopyon, severe anaphylactic/anaphylactoid reactions.
 
 Product-class-related adverse reactions
 Arterial thromboembolic events (ATEs) are adverse reactions potentially related to systemic VEGF inhibition.
 There is a theoretical risk of ATEs, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
-A low incidence rate of ATEs was observed in the aflibercept clinical studies in patients with nAMD and DME.
-Across indications, no notable difference between the groups treated with Eylea 114.3 mg/ml and the comparator groups treated with Eylea 40 mg/ml were observed.
+A low incidence rate of ATEs was observed in the aflibercept clinical studies in patients with nAMD, DME and RVO.
+Across indications, no notable difference between the groups treated with Eylea 114.3 mg/ml and the comparator groups treated with
+Eylea 40 mg/ml were observed.
