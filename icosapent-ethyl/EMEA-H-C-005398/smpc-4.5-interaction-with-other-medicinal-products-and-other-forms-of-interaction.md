@@ -2,3 +2,5 @@
 
 Icosapent ethyl was studied at the dose level of four 998 mg capsules/day with the following medicinal products which are typical substrates of cytochrome P450 enzymes: omeprazole, rosiglitazone, warfarin and atorvastatin.
 No interactions were observed.
+
+Patients taking icosapent ethyl along with antithrombotic agents, i.e. antiplatelet agents, including acetylsalicylic acid, and/or anticoagulants, may be at increased risk of bleeding and should be monitored periodically.

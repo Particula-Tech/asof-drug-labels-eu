@@ -1,6 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each capsule contains 998 mg of icosapent ethyl.
+Each capsule contains 998 mg icosapent ethyl.
 
 Excipients with known effect
 

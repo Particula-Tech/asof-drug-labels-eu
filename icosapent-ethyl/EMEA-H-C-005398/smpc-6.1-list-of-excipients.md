@@ -2,7 +2,7 @@
 
 Capsule fill
 
-all-rac-alpha-tocopherol
+All-rac-alpha-tocopherol
 
 Capsule shell
 

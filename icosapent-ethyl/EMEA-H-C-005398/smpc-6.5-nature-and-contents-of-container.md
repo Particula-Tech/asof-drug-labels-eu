@@ -1,8 +1,11 @@
 # 6.5 Nature and contents of container
 
+Bottle
+
 High density polyethylene (HDPE) bottles with a child-resistant polypropylene heat induction sealed closure containing 120 soft capsules.
 Pack size of one bottle or three bottles per carton.
 
-PVC/PCTFE/Al perforated unit dose blisters containing 4x2 soft capsules.
+Blister
 
+PVC/PCTFE/Al perforated unit dose blisters containing 4x2 soft capsules.
 Not all pack sizes may be marketed.
