@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
-Simponi is supplied in a single use pre-filled pen called VarioJect.
+Simponi is supplied in a single use pre-filled pen.
 Each pack is provided with instructions for use that fully describe the use of the pen.
 After removing the pre-filled pen from the refrigerator it should be allowed to reach room temperature by waiting for 30 minutes, before injecting Simponi.
 The pen should not be shaken.
@@ -13,15 +13,25 @@ Comprehensive instructions for the preparation and administration of Simponi in 
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-[Simponi 50 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled syringe]
 
-Simponi is supplied in a single use pre-filled pen called SmartJect or as a single use pre-filled syringe.
-Each pack is provided with instructions for use that fully describe the use of the pen or the syringe.
-After removing the pre-filled pen or the pre-filled syringe from the refrigerator it should be allowed to reach room temperature by waiting for 30 minutes, before injecting Simponi.
-The pen or the syringe should not be shaken.
+Simponi is supplied in a single use pre-filled syringe.
+Each pack is provided with instructions for use that fully describe the use of the syringe.
+After removing the pre-filled syringe from the refrigerator it should be allowed to reach room temperature by waiting for 30 minutes, before injecting Simponi.
+The syringe should not be shaken.
 
-Comprehensive instructions for the preparation and administration of Simponi in a pre-filled pen or the pre-filled syringe are given in the package leaflet.
+Comprehensive instructions for the preparation and administration of Simponi in a pre-filled syringe are given in the package leaflet.
 
-[Simponi 100 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled pen]
+
+Simponi is supplied in a single use pre-filled pen called SmartJect.
+
+Comprehensive instructions for the preparation and administration of Simponi in a pre-filled pen are given in the package leaflet.
+
+[Simponi 100 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled pen]
 
 (all sentences already above)

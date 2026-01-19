@@ -6,7 +6,6 @@ A subcutaneous injection of 50 mg golimumab to healthy subjects produced a mean 
 
 Following a single subcutaneous injection of 100 mg, the absorption of golimumab was similar in the upper arm, abdomen, and thigh, with a mean absolute bioavailability of 51%.
 Since golimumab exhibited approximately dose proportional PK following a subcutaneous administration, the absolute bioavailability of a golimumab 50 mg or 200 mg dose is expected to be similar.
-
 Distribution
 Following a single IV administration, the mean volume of distribution was 115 ±19 mL/kg.
 
@@ -38,15 +37,27 @@ There was a trend toward higher apparent clearance of golimumab with increasing 
 (see section 4.2).
 
 Paediatric population
+Polyarticular juvenile idiopathic arthritis
 The pharmacokinetics of golimumab were determined in 173 children with pJIA with an age range from 2 to 17 years of age.
 In the pJIA study, children who received golimumab 30 mg/m2 (maximum 50 mg) subcutaneously every 4 weeks, had median steady-state trough golimumab concentrations which were similar across different age groups, and which were also similar to or slightly higher than those seen in adult RA patients who received 50 mg golimumab every 4 weeks.
-
 Population pharmacokinetic/pharmacodynamic modelling and simulation in children with pJIA confirmed the relationship between golimumab serum exposures and clinical efficacy and supports the dosing regimen of golimumab 30 mg/m2 every 4 weeks in children with pJIA.
 
-[Simponi 50 mg solution for injection in pre-filled pen.]
+Ulcerative colitis
+The pharmacokinetics of golimumab were similar between paediatric and adult patients with ulcerative colitis.
+Population pharmacokinetics confirmed that the recommended dosing regimen for Simponi resulted in similar or slightly higher serum golimumab exposure in paediatric subjects as compared to adults across the body weight range.
+
+[Simponi 50 mg solution for injection in pre-filled syringe]
 
 Population pharmacokinetic/pharmacodynamic modelling and simulation in children with pJIA confirmed the relationship between golimumab serum exposures and clinical efficacy and supports that the dosing regimen of golimumab 50 mg every 4 weeks in children with pJIA of at least 40 kg achieves similar exposures to those shown to be efficacious in adults.
 
-[Simponi 100 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled syringe]
+
+Paediatric ulcerative colitis
+
+[Simponi 100 mg solution for injection in pre-filled pen]
 
 (all sentences already above)

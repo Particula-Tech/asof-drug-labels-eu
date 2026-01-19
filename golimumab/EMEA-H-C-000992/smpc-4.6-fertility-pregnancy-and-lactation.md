@@ -24,13 +24,21 @@ Golimumab was shown to pass over to breast milk in monkeys, and because human im
 
 Fertility
 No animal fertility studies have been conducted with golimumab.
-A fertility study in mice, using an analogous antibody that selectively inhibits the functional activity of mouse TNFα, showed no relevant effects on fertility (see section 5.3).
+A fertility study in mice, using an analogous antibody that selectively inhibits the functional activity of mouse TNF-α, showed no relevant effects on fertility (see section 5.3).
 
-[Simponi 50 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled syringe]
 
 Studies in animals do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development
 (see section 5.3).
 
-[Simponi 100 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled pen]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled pen]
 
 (all sentences already above)

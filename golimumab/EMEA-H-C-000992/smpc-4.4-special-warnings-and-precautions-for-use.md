@@ -17,7 +17,6 @@ Bacterial (including sepsis and pneumonia), mycobacterial (including TB), invasi
 Some of these serious infections have occurred in patients on concomitant immunosuppressive therapy that, in addition to their underlying disease, could predispose them to infections.
 Patients who develop a new infection while undergoing treatment with golimumab should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of golimumab should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
-
 For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of golimumab treatment should be carefully considered before initiation of golimumab therapy.
 In at-risk patients treated with golimumab, an invasive fungal infection should be suspected if they develop a serious systemic illness.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections, if feasible.
@@ -29,7 +28,7 @@ It should be noted that in the majority of these reports, tuberculosis was extra
 Before starting treatment with golimumab, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin or blood test and chest X-ray, should be performed in all patients (local recommendations may apply).
-It is recommended that the conduct of these tests should be recorded in the Patient Reminder Card.
+It is recommended that the conduct of these tests should be recorded in the Patient Card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, golimumab therapy must not be initiated (see section 4.3).
@@ -53,7 +52,6 @@ Some cases have had fatal outcome.
 
 Patients should be tested for HBV infection before initiating treatment with golimumab.
 For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
-
 Carriers of HBV who require treatment with golimumab should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
 Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, golimumab should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
@@ -89,7 +87,6 @@ It is not known if golimumab treatment influences the risk for developing dyspla
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
 In patients with newly diagnosed dysplasia treated with golimumab, the risks and benefits to the individual patient must be carefully reviewed and consideration should be given to whether therapy should be continued.
-
 In an exploratory clinical trial evaluating the use of golimumab in patients with severe persistent asthma, more malignancies were reported in patients treated with golimumab compared with control patients (see section 4.8).
 The significance of this finding is unknown.
 
@@ -130,7 +127,6 @@ Haematologic reactions
 There have been reports of pancytopenia, leukopenia, neutropenia, agranulocytosis, aplastic anaemia, and thrombocytopenia in patients receiving TNF-blockers, including golimumab.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
 Discontinuation of golimumab therapy should be considered in patients with confirmed significant haematologic abnormalities.
-
 Concurrent administration of TNF-antagonists and anakinra
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
 Because of the nature of the adverse events seen with this combination therapy, similar toxicities may also result from the combination of anakinra and other TNF-blocking agents.
@@ -143,6 +139,7 @@ The combination of golimumab and abatacept is not recommended.
 Concurrent administration with other biological therapeutics
 There is insufficient information regarding the concomitant use of golimumab with other biological therapeutics used to treat the same conditions as golimumab.
 The concomitant use of golimumab with these biologics is not recommended because of the possibility of an increased risk of infection, and other potential pharmacological interactions.
+
 Switching between biological disease modifying anti-rheumatic drugs (DMARDs)
 Care should be taken and patients should continue to be monitored when switching from one biologic to another, since overlapping biological activity may further increase the risk for adverse events, including infection.
 
@@ -172,24 +169,30 @@ There were no patients age 45 and over in the non-radiographic axial spondyloart
 Renal and hepatic impairment
 Specific studies of golimumab have not been conducted in patients with renal or hepatic impairment.
 Golimumab should be used with caution in subjects with impaired hepatic function (see section 4.2).
-
 Paediatrics
 Vaccinations
 If possible, it is recommended that prior to initiating golimumab therapy, paediatric patients be brought up to date with all immunisations in agreement with current immunisation guidelines (see Vaccinations/ therapeutic infectious agents above).
 
-Excipients
+Excipients with known effect
+Sorbitol
 Simponi contains sorbitol (E420).
 In patients with rare hereditary problems of fructose intolerance, the additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account (see section 2).
+
+Polysorbate 80
+Simponi contains 0.068 mg of polysorbate 80 (E433) in each pre-filled pen.
+Polysorbates may cause allergic reactions (see section 2).
 
 Potential for medication errors
 It is important that the correct dose is administered as indicated in the posology (see section 4.2).
 Care should be taken to ensure that patients are not underdosed or overdosed.
 
-[Simponi 50 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled syringe]
 
 During the Simponi Phase IIb and Phase III clinical trials in RA, PsA and AS, the incidence of lymphoma in golimumab-treated patients was higher than expected in the general population.
 
 In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the golimumab and the control groups.
+
+The relative deficiency of TNF-α caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 
 Switching between biological DMARDs
 
@@ -199,10 +202,20 @@ There were no patients age 45 and over in the nr-Axial SpA study.
 
 If possible, it is recommended that prior to initiating golimumab therapy, paediatric patients be brought up to date with all immunisations in agreement with current immunisation guidelines (see Vaccinations/therapeutic infectious agents above).
 
+Simponi contains 0.075 mg of polysorbate 80 (E433) in each pre-filled syringe.
+
 Simponi is registered in 50 mg and 100 mg strengths for subcutaneous administration.
 It is important that the right strength is used to administer the correct dose as indicated in the posology (see section 4.2).
 Care should be taken to provide the right strength to ensure that patients are not underdosed or overdosed.
 
-[Simponi 100 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled pen]
 
-(all sentences already above)
+Simponi contains 0.075 mg of polysorbate 80 (E433) in each pre-filled pen.
+
+[Simponi 100 mg solution for injection in pre-filled syringe]
+
+Simponi contains 0.15 mg of polysorbate 80 (E433) in each pre-filled syringe.
+
+[Simponi 100 mg solution for injection in pre-filled pen]
+
+Simponi contains 0.15 mg of polysorbate 80 (E433) in each pre-filled pen.

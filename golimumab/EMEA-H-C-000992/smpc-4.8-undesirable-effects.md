@@ -18,7 +18,8 @@ Uncommon: Sepsis including septic shock, pyelonephritis
 Rare: Tuberculosis, opportunistic infections (such as invasive fungal infections [histoplasmosis, coccidioidomycosis, pneumocytosis], bacterial, atypical mycobacterial infection and protozoal), hepatitis B reactivation, bacterial arthritis, infective bursitis
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
-Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
+Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
+Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
 Blood and lymphatic system disorders
 Common: Leukopenia (including neutropenia), anaemia
 Uncommon: Thrombocytopenia, pancytopenia
@@ -35,9 +36,9 @@ Nervous system disorders
 Common: Dizziness, headache, paraesthesia
 Uncommon: Balance disorders
 Rare: Demyelinating disorders (central and peripheral), dysgeusia Eye disorders
-Uncommon: Visual disorders (such as blurred vision and decreased visual acuity), conjunctivitis, eye allergy (such as pruritis and irritation)
+Uncommon: Visual disorders (such as blurred vision and decreased visual acuity), conjunctivitis, eye allergy (such as pruritus and irritation)
 Cardiac disorders
-Uncommon: Arrhythmia, ischemic coronary artery disorders
+Uncommon: Arrhythmia, ischaemic coronary artery disorders
 Rare: Congestive heart failure (new onset or worsening)
 Vascular disorders
 Common: Hypertension
@@ -94,6 +95,7 @@ The incidence of lymphoma in golimumab-treated patients during the pivotal trial
 In the controlled and uncontrolled portions of these trials with a median follow-up of up to 3 years, a greater incidence of lymphoma was observed in patients receiving golimumab 100 mg compared with patients receiving golimumab 50 mg.
 Lymphoma was diagnosed in 11 subjects (1 in the golimumab 50 mg treatment groups and 10 in the golimumab 100 mg treatment groups) with an incidence (95% CI) per 100 subject-years of follow-up of 0.03 (0.00, 0.15) and 0.13 (0.06, 0.24) events for golimumab 50 mg and 100 mg respectively and 0.00 (0.00, 0.57) events for the placebo.
 The majority of lymphomas occurred in study GO-AFTER, which enrolled patients previously exposed to anti-TNF agents who had longer disease duration and more refractory disease (see section 4.4).
+
 Malignancies other than lymphoma
 In the controlled periods of pivotal trials and through approximately 4 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the golimumab and the control groups.
 Through approximately 4 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general population.
@@ -115,7 +117,6 @@ The significance of this finding is unknown.
 
 Neurological events
 In the controlled and uncontrolled periods of the pivotal trials with a median follow-up of up to 3 years, a greater incidence of demyelination was observed in patients receiving golimumab 100 mg compared with patients receiving golimumab 50 mg (see section 4.4).
-
 Liver enzyme elevations
 In the controlled period of RA and PsA pivotal trials, mild ALT elevations (> 1 and < 3 x upper limit of normal (ULN)) occurred in similar proportions of golimumab and control patients in the RA and PsA studies (22.1% to 27.4% of patients); in the AS and nr-Axial SpA studies, more golimumab-treated patients (26.9%) than control patients (10.6%) had mild ALT elevations.
 In the controlled and uncontrolled periods of the RA and PsA pivotal trials, with a median follow-up of approximately 5 years, the incidence of mild ALT elevations was similar in golimumab-treated and control patients in RA and PsA studies.
@@ -150,20 +151,29 @@ Polyarticular juvenile idiopathic arthritis
 The safety of golimumab has been studied in a Phase III study of 173 pJIA patients from 2 to 17 years of age.
 The average follow-up was approximately two years.
 In this study, the type and frequency of adverse events reported were generally similar to those seen in adult RA studies.
+Ulcerative colitis
+The safety of golimumab has been studied in a Phase III study of 69 patients from 4 to 17 years of age with moderately to severely active ulcerative colitis.
+In this study, adverse reactions observed were consistent with the established safety profile of golimumab in adult patients with UC.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Simponi 50 mg solution for injection in pre-filled pen.]
+[Simponi 50 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Simponi 50 mg solution for injection in pre-filled pen]
 
 ARs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
 
 Table 1
-Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
-Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
 
-[Simponi 100 mg solution for injection in pre-filled pen.]
+[Simponi 100 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Simponi 100 mg solution for injection in pre-filled pen]
 
 (all sentences already above)

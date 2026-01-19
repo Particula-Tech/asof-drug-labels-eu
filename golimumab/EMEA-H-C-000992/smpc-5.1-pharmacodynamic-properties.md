@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB06
+
 Mechanism of action
 Golimumab is a human monoclonal antibody that forms high affinity, stable complexes with both the soluble and transmembrane bioactive forms of human TNF-α, which prevents the binding of TNF-α to its receptors.
 
@@ -58,7 +59,6 @@ Adult rheumatoid arthritis
 The efficacy of Simponi was demonstrated in three multi-centre, randomised, double-blind, placebo-controlled studies in over 1500 patients ≥18 years of age with moderately to severely active RA diagnosed according to American College of Rheumatology (ACR) criteria for at least 3 months prior to screening.
 Patients had at least 4 swollen and 4 tender joints.
 Simponi or placebo were subcutaneously administered every 4 weeks.
-
 GO-FORWARD evaluated 444 patients who had active RA despite a stable dose of at least 15 mg/week of MTX and who had not been previously treated with an anti-TNF agent.
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
 Patients receiving placebo + MTX were switched to Simponi 50 mg + MTX after week 24.
@@ -73,7 +73,7 @@ GO-BEFORE evaluated 637 patients with active RA who were MTX-naïve and had not 
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
 At week 52, patients entered an open label long-term extension in which patients receiving placebo + MTX who had at least 1 tender or swollen joint were switched to Simponi 50 mg + MTX.
 
-In GO-FORWARD, the (co-)primary endpoints were the percentage of patients achieving an ACR 20 response at week 14 and the improvement from baseline in Health Assessment Questionnaire (HAQ) at week 24.
+In GO-FORWARD, the (co-) primary endpoints were the percentage of patients achieving an ACR 20 response at week 14 and the improvement from baseline in Health Assessment Questionnaire (HAQ) at week 24.
 In GO-AFTER, the primary endpoint was the percentage of patients achieving an ACR 20 response at week 14.
 In GO-BEFORE, the co-primary endpoints were the percentage of patients achieving ACR 50 response at week 24 and the change from baseline in the van der Heijde-modified Sharp (vdH-S) score at week 52.
 In addition to the primary endpoint(s), additional assessments of the impact of Simponi treatment on the signs and symptoms of arthritis, radiographic response, physical function and health-related quality of life were performed.
@@ -91,9 +91,8 @@ Among patients remaining in the study and treated with Simponi, similar rates of
 ACR 20/50/70 response was observed from week 104 through week 256.
 
 In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
-
 Table 4
-Key efficacy outcomes from the controlled portions of GO-FORWARD, GO-AFTER and GO-BEFORE.
+Key efficacy outcomes from the controlled portions of GO-FORWARD, GO-AFTER and GO-BEFORE
 
 |  | GO-FORWARD Active RA despite MTX |  | GO-AFTER Active RA, previously treated with one or more anti-TNF agent(s) |  | GO-BEFORE Active RA, MTX Naïve |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -236,6 +235,110 @@ Out of 146 patients who were randomised to Simponi 50 mg, 52 week X-ray data wer
 At week 104, X-ray data were available for 114 patients, and 77% showed no progression from baseline.
 Among patients remaining in the study and treated with Simponi, similar rates of patients showed no progression from baseline from week 104 through week 256.
 
+Paediatric ulcerative colitis
+The safety and efficacy of Simponi was evaluated in a Phase III multi-centre, open-label, study (PURSUIT 2) designed to enroll children 2 to 17 years of age with moderately to severely active UC defined as a baseline full Mayo score of 6 through 12, inclusive, with an endoscopy subscore of ≥2.
+Children with prior exposure to anti-TNF-α agents were ineligible for participation.
+The majority of the 69 participants (97.1%) were receiving UC-related medications (corticosteroids, immunomodulators, and/or 5-ASA); 52.2% of participants were receiving corticosteroids, and 88.4% were receiving oral 5-ASA.
+The mean age of participants was 13.4 years (range 4 to 17).
+53.6% (37) of participants were female.
+The mean weight was 52.4 kg (range 16 to 107).
+Baseline disease characteristics for the overall golimumab population were representative of paediatric patients with moderately to severely active UC.
+
+In the Induction Phase (week 0 to week 6), children received body weight-based golimumab SC, at weeks 0 and 2.
+Children with body weight ≥45 kg received fixed induction doses of 200 mg SC at week 0 and 100 mg at week 2.
+Children with body weight < 45 kg received body-surface area-adjusted induction doses of 120 mg/m2 SC (up to a maximum of 200 mg) at week 0 and 60 mg/m2 SC (up to a maximum of 100 mg) at week 2.
+At week 6, children were evaluated for efficacy and safety.
+
+In the Maintenance Phase (week 6 through week 54), children in clinical response to golimumab (a decrease from baseline in the full Mayo score of ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1 using the local read for the endoscopy subscore) continued to receive SC golimumab 100 mg (children weighing
+≥45 kg) or 60 mg/m2 (children weighing < 45 kg) every 4 weeks through week 50.
+For children with no clinical response at week 6, additional doses at week 6 and week 10 could have been given, followed by a response assessment at week 14 to determine if the children continued with golimumab every 4 weeks through week 50.
+Of the 41 children who entered the maintenance phase, 39 children remained in the study at week 54 (had a full Mayo score efficacy determination).
+
+The primary endpoint of clinical remission as measured by the Mayo score was defined as a Mayo score ≤2 points, with no individual subscore > 1 (based on Mayo endoscopy subscore assigned by the local endoscopist).
+Overall, 22 (31.9%) of children showed clinical remission at week 6.
+At week 54, 31.7% of week 6 clinical responders were in clinical remission.
+
+Table 7
+Key efficacy outcomes from PURSUIT 2 – Induction and PURSUIT 2 - Maintenance
+
+| PURSUIT 2 - Induction |  |
+| --- | --- |
+| Primary Endpoint | Simponi N=69 |
+| Subjects in clinical remission as assessed by the Mayo score at week 6a | 22 (31.9%) |
+| Major Secondary Endpoints |  |
+| Subjects in clinical response at week 6b | 39 (56.5%) |
+| Subjects with endoscopic healing at week 6c | 28 (40.6%) |
+| PURSUIT 2 – Maintenance |  |
+| Major Secondary Endpoints | Simponi N=41 |
+| Subjects in clinical remission at week 54 as assessed by the Mayo scorea,e | 13 (31.7%) |
+| Subjects with endoscopic healing at week 54c | 15 (36.6%) |
+| Subjects in clinical remission at week 54 as assessed by the Mayo score, for participants who are in clinical remission at Week 6a,d,e | 12 (54.5%) |
+
+N = number of patients a Clinical remission is defined as a Mayo score ≤2 points, with no individual subscore > 1.
+b Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1.
+c Endoscopic healing is defined as an endoscopy subscore of 0 or 1 based on local endoscopy.
+d Denominator is subjects who were in clinical remission at Week 6.
+e Subjects who had a missing endoscopy score at Week 54 were considered not to be in clinical remission.
+
+Adult ulcerative colitis
+The efficacy of Simponi was evaluated in two randomised, double-blind, placebo-controlled clinical studies in adult patients.
+
+The induction study (PURSUIT-Induction) evaluated patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥2) who had an inadequate response to or failed to tolerate conventional therapies, or were corticosteroid dependent.
+In the dose confirming portion of the study, 761 patients were randomised to receive either 400 mg Simponi SC at week 0 and 200 mg at week 2, 200 mg Simponi SC at week 0 and 100 mg at week 2, or placebo SC at weeks 0 and 2.
+Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
+The efficacy of Simponi through week 6 was assessed in this study.
+
+The results of the maintenance study (PURSUIT-Maintenance) were based on evaluation of 456 patients who achieved clinical response from previous induction with Simponi.
+Patients were randomised to receive Simponi 50 mg, Simponi 100 mg or placebo administered subcutaneously every 4 weeks.
+Concomitant stable doses of oral aminosalicylates, and/or immunomodulatory agents were permitted.
+Corticosteroids were to be tapered at the start of the maintenance study.
+The efficacy of Simponi through week 54 was assessed in this study.
+Patients who completed the maintenance study through week 54 continued treatment in a study extension, with efficacy evaluated through week 216.
+Efficacy evaluation in the study extension was based on changes in corticosteroid use, Physician’s Global Assessment (PGA) of disease activity, and improvement in quality of life as measured by Inflammatory Bowel Disease Questionnaire (IBDQ).
+
+Table 8
+Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
+
+| PURSUIT-Induction |  |  |
+| --- | --- | --- |
+|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |
+| Percentage of patients |  |  |
+| Patients in clinical response at week 6a | 30% | 51%** |
+| Patients in clinical remission at week 6b | 6% | 18%** |
+| Patients with mucosal healing at week 6c | 29% | 42%* |
+
+| PURSUIT-Maintenance |  |  |  |
+| --- | --- | --- | --- |
+|  | Placebod N = 154 | Simponi 50 mg N = 151 | Simponi 100 mg N = 151 |
+| Percentage of patients |  |  |  |
+| Maintenance of response (Patients in clinical response through week 54)e | 31% | 47%* | 50%** |
+| Sustained remission (Patients in clinical remission at both week 30 and week 54)f | 16% | 23%g | 28%* |
+
+N = number of patients
+** p ≤0.001
+* p ≤0.01 a Defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1.
+b Defined as a Mayo score ≤2 points, with no individual subscore > 1 c Defined as 0 or 1 on the endoscopy subscore of the Mayo score.
+d Simponi induction only.
+e Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy).
+Therefore, a patient who maintained response was in a state of continuous clinical response at each evaluation through week 54.
+f A patient had to be in remission at both weeks 30 and 54 (without demonstrating a loss of response at any time point through week 54) to achieve durable remission.
+g In patients weighing less than 80 kg, a greater proportion of patients who received 50 mg maintenance therapy showed sustained clinical remission compared with those who received placebo.
+
+More Simponi-treated patients demonstrated sustained mucosal healing (patients with mucosal healing at both week 30 and week 54) in the 50 mg group (42%, nominal p < 0.05) and 100 mg group (42%, p < 0.005) compared with patients in the placebo group (27%).
+
+Among the 54% of patients (247/456) who were receiving concomitant corticosteroids at the start of PURSUIT-Maintenance, the proportion of patients who maintained clinical response through week 54 and were not receiving concomitant corticosteroids at week 54 was greater in the 50 mg group (38%, 30/78) and 100 mg group (30%, 25/82) compared with the placebo group (21%, 18/87).
+The proportion of patients who eliminated corticosteroids by week 54 was greater in the 50 mg group (41%, 32/78) and 100 mg group (33%, 27/82) compared with the placebo group (22%, 19/87).
+Among patients who entered the study extension, the proportion of subjects who remained corticosteroid free was generally maintained through week 216.
+
+Patients who did not achieve clinical response at week 6 in the PURSUIT-Induction studies were dosed Simponi 100 mg every 4 weeks in the PURSUIT-Maintenance study.
+At week 14, 28% of these patients achieved response defined by partial Mayo score (decreased by ≥3 points compared with start of induction).
+At week 54, the clinical outcomes observed in these patients were similar to the clinical outcomes reported for the patients achieving clinical response at week 6.
+
+At week 6, Simponi significantly improved quality of life as measured by change from baseline in a disease specific measure, IBDQ (inflammatory bowel disease questionnaire).
+Among patients who received Simponi maintenance treatment, the improvement in quality of life as measured by IBDQ was maintained through week 54.
+
+Approximately 63% of patients who were receiving Simponi at the beginning of the study extension (week 56), remained on treatment through the end of the study (last golimumab administration at week 212).
+
 Immunogenicity
 Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected by the enzyme immunoassay (EIA) method in 5% (105/2062) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
 Similar rates were shown across rheumatologic indications.
@@ -257,39 +360,38 @@ Among the children who tested positive for antibodies to golimumab, 39% (25/65) 
 The higher incidence of antibodies with the drug-tolerant EIA method, because they were mainly low titre antibodies, did not have an apparent impact on drug levels, efficacy and safety and therefore does not represent any new safety signal.
 
 The presence of antibodies to golimumab may increase the risk of injection site reactions
-(see section 4.4).
+(see section 4.8).
 The small number of patients positive for antibodies to golimumab limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
 
 Because immunogenicity analyses are product- and assay-specific, comparison of antibody rates with those from other products is not appropriate.
 
-[Simponi 50 mg solution for injection in pre-filled pen.]
+In the Phase III paediatric UC trial, 22% (15/69) of Simponi-treated patients were positive for antibodies to golimumab through the final safety visit using the drug-tolerant EIA method.
+Most patients with antibodies had low titres.
+The incidence of antibodies to golimumab was comparable between paediatric and adult patients with UC.
+UC patients who developed antibodies to golimumab, generally had lower trough steady-state serum concentrations of golimumab.
 
-Rheumatoid arthritis
+[Simponi 50 mg solution for injection in pre-filled syringe]
 
-Key ACR results for the Simponi 50 mg dose at weeks 14, 24 and 52 for GO-FORWARD, GO-AFTER and GO-BEFORE are shown in Table 2 and are described below.
+Key ACR results for the Simponi 50 mg dose at weeks 14, 24 and 52 for GO-FORWARD, GO-AFTER and GO-BEFORE are shown in Table 3 and are described below.
 
-Table 2
+At week 52 in the overall population, the percentage of patients in the Simponi 50 mg + MTX group who achieved an ACR response was generally higher but not significantly different when compared with MTX alone (see Table 3).
 
-At week 52 in the overall population, the percentage of patients in the Simponi 50 mg + MTX group who achieved an ACR response was generally higher but not significantly different when compared with MTX alone (see Table 2).
+Key results for the Simponi 50 mg dose at week 52 are presented in Table 4.
 
-Key results for the Simponi 50 mg dose at week 52 are presented in Table 3.
+Key results for the 50 mg dose at weeks 14 and 24 are shown in Table 5 and described below.
 
-Psoriatic arthritis
-
-Key results for the 50 mg dose at weeks 14 and 24 are shown in table 4 and described below.
-
-Axial spondyloarthritis
-Ankylosing spondylitis
+Adult axial spondyloarthritis
+Adult ankylosing spondylitis
 The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-RAISE) in 356 adult patients with active ankylosing spondylitis (defined as a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 and a VAS for total back pain of ≥4, on a scale of 0 to 10 cm).
 Patients enrolled in this study had active disease despite current or previous NSAID or DMARD therapy and had not previously been treated with anti-TNF therapy.
 Patients were randomly assigned to placebo, Simponi 50 mg and Simponi 100 mg and were allowed to continue concomitant DMARD therapy (MTX, SSZ and/or HCQ).
 The primary endpoint was the percentage of patients achieving Ankylosing Spondylitis Assessment Study Group (ASAS) 20 response at week 14.
 Placebo-controlled efficacy data were collected and analysed through week 24.
 
-Key results for the 50 mg dose are shown in Table 5 and described below.
+Key results for the 50 mg dose are shown in Table 6 and described below.
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens through week 24.
 
-Key efficacy outcomes from GO-RAISE.
+Key efficacy outcomes from GO-RAISE
 
 |  | Placebo | Simponi 50 mg* |
 | --- | --- | --- |
@@ -303,8 +405,7 @@ Key efficacy outcomes from GO-RAISE.
 | Week 24 | 15% | 44% |
 | ASAS 5/6 |  |  |
 | Week 14 | 8% | 50% |
-
-Week 24 13% 49%
+| Week 24 | 13% | 49% |
 
 * p ≤0.001 for all comparisons a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint
 
@@ -320,7 +421,7 @@ Simponi treatment resulted in significant improvements in physical function as a
 Health-related quality of life as measured by the physical component score of the SF-36 was also improved significantly at weeks 14 and 24.
 Among patients remaining in the study and treated with Simponi, improvements in physical function and health-related quality of life were similar from week 24 through week 256.
 
-Non-radiographic axial spondyloarthritis
+Adult non-radiographic axial spondyloarthritis
 
 GO-AHEAD
 
@@ -332,7 +433,7 @@ Approximately 93% of patients who were receiving Simponi at the beginning of the
 Analyses were performed on both the All Treated (AT, N = 197) and Objective Signs of Inflammation (OSI, N = 158, defined by elevated CRP and/or evidence of sacroiliitis on MRI at baseline) populations.
 Placebo-controlled efficacy data were collected and analysed through week 16.
 The primary endpoint was the proportion of patients achieving ASAS 20 response at week 16.
-Key results are shown in Table 6 and described below.
+Key results are shown in Table 7 and described below.
 
 Key efficacy outcomes from GO-AHEAD at week 16
 
@@ -376,10 +477,9 @@ Eligible patients (who achieved a clinical response by Month 4 and an inactive d
 
 The primary efficacy endpoint was the proportion of patients without a flare of disease activity.
 Patients who experienced a flare, i.e., had an ASDAS collected at 2 consecutive assessments that both showed either an absolute score of ≥2.1 or post-withdrawal increase of ≥1.1 relative to Month 10 (end of open-label period), reinitiated monthly Simponi in an open-label retreatment phase to characterise clinical response.
-Clinical response after double-blind treatment withdrawal
-Among the 188 patients with inactive disease who received at least one dose of double-blind treatment, a significantly (p < 0.001) greater proportion of patients did not experience a disease flare when continuing Simponi with either the full-treatment (84.1%), or reduced treatment (68.3%) regimens compared with treatment withdrawal (33.9%) (Table 7).
 
-Table 7
+Clinical response after double-blind treatment withdrawal
+Among the 188 patients with inactive disease who received at least one dose of double-blind treatment, a significantly (p < 0.001) greater proportion of patients did not experience a disease flare when continuing Simponi with either the full-treatment (84.1%), or reduced treatment (68.3%) regimens compared with treatment withdrawal (33.9%) (Table 8).
 Analysis of the proportion of participants without a flarea
 Full analysis set population (Period 2 – Double-blind)
 
@@ -389,40 +489,24 @@ Full analysis set population (Period 2 – Double-blind)
 | GLM SC QMT GLM SC Q2MT Placebo | 53/63 43/63 21/62 | 84.1 68.3 33.9 | 50.2 (34.1, 63.6) 34.4 (17.0, 49.7) | < 0.001 < 0.001 |
 
 Full Analysis Set includes all randomised participants who attained inactive disease in period 1 and received at least one dose of blinded study treatment.
-a Defined as ASDAS at 2 consecutive visits that both show either absolute score ≥2.1 or post-withdrawal increase of ≥1.1 relative to Month 10 (Visit 23).
-b Type I error rate over the multiple treatment comparisons (GLM SC QMT vs Placebo and GLM SC Q2MT vs Placebo) was controlled using a sequential (step-down) testing procedure.
-Derived based on the stratified
-Miettinen and Nurminen method with CRP level (> 6 mg/L or ≤6 mg/L) as stratification factor.
+a Defined as ASDAS at 2 consecutive visits that both show either absolute score ≥2.1 or post-withdrawal increase of
+≥1.1 relative to Month 10 (Visit 23).
+b Type I error rate over the multiple treatment comparisons (GLM SC QMT vs Placebo and GLM SC Q2MT vs
+Placebo) was controlled using a sequential (step-down) testing procedure.
+Derived based on the stratified Miettinen and Nurminen method with CRP level (> 6 mg/L or ≤6 mg/L) as stratification factor.
 Participants who discontinued period 2 prematurely and prior to a ‘flare’ will be counted as having a ‘flare’.
-N = Total number of participants; n = number of participants without a flare; GLM = golimumab;
-SC = subcutaneous, QMT = monthly dosing; Q2MT = every other month dosing.
+N = Total number of participants; n = number of participants without a flare; GLM = golimumab; SC = subcutaneous, QMT = monthly dosing; Q2MT = every other month dosing.
 
 The difference in time-to-first flare between the treatment withdrawal group and either of the Simponi Treatment groups is shown in Figure 1 (log-rank p < 0.0001 for each comparison).
 In the placebo group, flares started approximately 2 months after Simponi was withdrawn, with the majority of flares occurring within 4 months of treatment withdrawal (Figure 1).
 
 Figure 1: Kaplan-Meier Analysis of Time-to-First Flare
+
 Clinical response to retreatment for a disease flare
 Clinical response was defined as a BASDAI improvement of ≥2 or ≥50% relative to the mean of the 2 consecutive BASDAI scores ascribed to the disease flare.
 Of the 53 participants in the reduced dosing or treatment withdrawal regimens who had a confirmed disease flare, 51 (96.2%) attained a clinical response to Simponi within the first 3 months of retreatment, although fewer patients (71.7%) were able to sustain it for all 3 months.
 
-Ulcerative colitis
-The efficacy of Simponi was evaluated in two randomised, double-blind, placebo-controlled clinical studies in adult patients.
-
-The induction study (PURSUIT-Induction) evaluated patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥2) who had an inadequate response to or failed to tolerate conventional therapies, or were corticosteroid dependent.
-In the dose confirming portion of the study, 761 patients were randomised to receive either 400 mg Simponi SC at week 0 and 200 mg at week 2, 200 mg Simponi SC at week 0 and 100 mg at week 2, or placebo SC at weeks 0 and 2.
-Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
-The efficacy of Simponi through week 6 was assessed in this study.
-
-The results of the maintenance study (PURSUIT-Maintenance) were based on evaluation of 456 patients who achieved clinical response from previous induction with Simponi.
-Patients were randomised to receive Simponi 50 mg, Simponi 100 mg or placebo administered subcutaneously every 4 weeks.
-Concomitant stable doses of oral aminosalicylates, and/or immunomodulatory agents were permitted.
-Corticosteroids were to be tapered at the start of the maintenance study.
-The efficacy of Simponi through week 54 was assessed in this study.
-Patients who completed the maintenance study through week 54 continued treatment in a study-extension, with efficacy evaluated through week 216.
-Efficacy evaluation in the study extension was based on changes in corticosteroid use, Physician’s Global Assessment (PGA) of disease activity, and improvement in quality of life as measured by Inflammatory Bowel Disease Questionnaire (IBDQ).
-
-Table 8
-Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
+Table 9
 
 | PURSUIT-Induction |  |  |  |
 | --- | --- | --- | --- |
@@ -437,60 +521,88 @@ Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
 | Maintenance of response (Patients in clinical response through week 54)e | 31% | 47%* | 50%** |
 | Sustained remission (Patients in clinical remission at both week 30 and week 54)f | 16% | 23%g | 28%* |
 
-N = number of patients
-** p ≤0.001
-* p ≤0.01 a defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1.
-b Defined as a Mayo score ≤2 points, with no individual subscore > 1 c Defined as 0 or 1 on the endoscopy subscore of the Mayo score.
-d Simponi induction only.
-e Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy).
-Therefore, a patient who maintained response was in a state of continuous clinical response at each evaluation through week 54.
-f A patient had to be in remission at both weeks 30 and 54 (without demonstrating a loss of response at any time point through week 54) to achieve durable remission.
-g In patients weighing less than 80 kg, a greater proportion of patients who received 50 mg maintenance therapy showed sustained clinical remission compared with those who received placebo.
-
-More Simponi-treated patients demonstrated sustained mucosal healing (patients with mucosal healing at both week 30 and week 54) in the 50 mg group (42%, nominal p < 0.05) and 100 mg group (42%, p < 0.005) compared with patients in the placebo group (27%).
-
-Among the 54% of patients (247/456) who were receiving concomitant corticosteroids at the start of PURSUIT-Maintenance, the proportion of patients who maintained clinical response through week 54 and were not receiving concomitant corticosteroids at week 54 was greater in the 50 mg group (38%, 30/78) and 100 mg group (30%, 25/82) compared with the placebo group (21%, 18/87).
-The proportion of patients who eliminated corticosteroids by week 54 was greater in the 50 mg group (41%, 32/78) and 100 mg group (33%, 27/82) compared with the placebo group (22%, 19/87).
-Among patients who entered the study extension, the proportion of subjects who remained corticosteroid free was generally maintained through week 216.
-
-Patients who did not achieve clinical response at week 6 in the PURSUIT-Induction studies were dosed Simponi 100 mg every 4 weeks in the PURSUIT-Maintenance study.
-At week 14, 28% of these patients achieved response defined by partial Mayo score (decreased by ≥3 points compared with start of induction).
-At week 54, the clinical outcomes observed in these patients were similar to the clinical outcomes reported for the patients achieving clinical response at week 6.
-
-At week 6, Simponi significantly improved quality of life as measured by change from baseline in a disease specific measure, IBDQ (inflammatory bowel disease questionnaire).
-Among patients who received Simponi maintenance treatment, the improvement in quality of life as measured by IBDQ was maintained through week 54.
-
-Approximately 63% of patients who were receiving Simponi at the beginning of the study extension (week 56), remained on treatment through the end of the study (last golimumab administration at week 212).
-
 Paediatric population
+
+Paediatric polyarticular juvenile idiopathic arthritis
 
 The 154 children who achieved an ACR Ped 30 response at week 16 entered Part 2 of the study, the randomised withdrawal phase, and received Simponi 30 mg/m2 (maximum 50 mg) + MTX or placebo + MTX every 4 weeks.
 
+At week 16, all ACR Ped components demonstrated clinically relevant improvement from baseline (see Table 10).
+
+Table 10
+
+The majority of the 69 participants (97.1%) were receiving UC-related medications (corticosteroids, immunomodulators, and/or 5-ASA); 52.2% of participants were receiving corticosteroids, and 88.4% were receiving oral 5-ASA.The mean age of participants was 13.4 years (range 4 to 17).
+
+Table 11
+
+| PURSUIT 2 – Induction |  |
+| --- | --- |
+| Primary Endpoint | Simponi N=69 |
+| Subjects in clinical remission as assessed by the Mayo score at week 6 a | 22 (31.9%) |
+| Major Secondary Endpoints |  |
+| Subjects in clinical response at week 6b | 39 (56.5%) |
+| Subjects with endoscopic healing at week 6c | 28 (40.6%) |
+| PURSUIT 2 – Maintenance |  |
+| Major Secondary Endpoints | Simponi N=41 |
+| Subjects in clinical remission at week 54 as assessed by the Mayo scorea,e | 13 (31.7%) |
+| Subjects with endoscopic healing at week 54c | 15 (36.6%) |
+| Subjects in clinical remission at week 54 as assessed by the Mayo score, for participants who are in clinical remission at Week 6a,d,e | 12 (54.5%) |
+
+N = number of patients a Clinical remission is defined as a Mayo score ≤2 points, with no individual subscore >1.
+
+[Simponi 50 mg solution for injection in pre-filled pen]
+
+Key ACR results for the Simponi 50 mg dose at weeks 14, 24 and 52 for GO-FORWARD, GO-AFTER and GO-BEFORE are shown in Table 2 and are described below.
+
+Table 2
+
+At week 52 in the overall population, the percentage of patients in the Simponi 50 mg + MTX group who achieved an ACR response was generally higher but not significantly different when compared with MTX alone (see Table 2).
+
+Key results for the Simponi 50 mg dose at week 52 are presented in Table 3.
+
+Key results for the 50 mg dose at weeks 14 and 24 are shown in Table 4 and described below.
+
+Key results for the 50 mg dose are shown in Table 5 and described below.
+
+Key results are shown in Table 6 and described below.
+
+Among the 188 patients with inactive disease who received at least one dose of double-blind treatment, a significantly (p < 0.001) greater proportion of patients did not experience a disease flare when continuing Simponi with either the full-treatment (84.1%), or reduced treatment (68.3%) regimens compared with treatment withdrawal (33.9%) (Table 7).
+
 At week 16, all ACR Ped components demonstrated clinically relevant improvement from baseline (see Table 9).
-Table 9
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Simponi in one or more subsets of the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
+[Simponi 100 mg solution for injection in pre-filled syringe]
 
-[Simponi 100 mg solution for injection in pre-filled pen.]
+| PURSUIT 2 - Induction |  |
+| --- | --- |
+| Primary Endpoint | Simponi N=69 |
+| Subjects in clinical remission as assessed by the Mayo score at week 6a | 22 (31.9%) |
+| Major Secondary Endpoints |  |
+| Subjects in clinical response at week 6b | 39 (56.5%) |
+| Subjects with endoscopic healing at week 6c | 28 (40.6%) |
+| PURSUIT 2 – Maintenance |  |
+| Major Secondary Endpoints | Simponi N=41 |
+| Subjects in clinical remission at week 54 as assessed by the Mayo scorea,e | 13 (31.7%) |
+| Subjects with endoscopic healing at week 54c | 15 (36.6%) |
 
-|  | Placebo | Simponi 50 mg* |
-| --- | --- | --- |
-| na | 78 | 138 |
-| Responders, % of patients |  |  |
-| ASAS 20 |  |  |
-| Week 14 | 22% | 59% |
-| Week 24 | 23% | 56% |
-| ASAS 40 |  |  |
-| Week 14 | 15% | 45% |
-| Week 24 | 15% | 44% |
-| ASAS 5/6 |  |  |
-| Week 14 | 8% | 50% |
-| Week 24 | 13% | 49% |
-
-Patients who completed the maintenance study through week 54 continued treatment in a study extension, with efficacy evaluated through week 216.
+Subjects in clinical remission at week 54 as 12 (54.5%)
+assessed by the Mayo score, for participants who
+are in clinical remission at Week 6a,d,e
 
 Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected in 5% (105/2062) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
 
 In nr-Axial SpA, antibodies to golimumab were detected in 7% (14/193) of golimumab treated patients through week 52.
 
 In the Phase II and III UC studies through week 54, antibodies to golimumab were detected in 3% (26/946) of golimumab treated patients.
+
+[Simponi 100 mg solution for injection in pre-filled pen]
+
+Rheumatoid arthritis
+
+Psoriatic arthritis
+
+Axial spondyloarthritis
+Ankylosing spondylitis
+
+Non-radiographic axial spondyloarthritis
+
+Ulcerative colitis
