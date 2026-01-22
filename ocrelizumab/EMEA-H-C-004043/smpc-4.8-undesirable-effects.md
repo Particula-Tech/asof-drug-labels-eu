@@ -13,9 +13,10 @@ Tabulated list of adverse reactions
 
 Adverse reactions reported in the controlled period of the pivotal clinical trials and derived from spontaneous reporting are listed below in Table 2.
 The adverse reactions are listed by MedDRA system organ class and categories of frequency.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000) and not known (cannot be estimated from the available data).
-Within each System Organ Class, the adverse reactions are presented in order of decreasing frequency.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very
 
+rare (< 1/10 000) and not known (cannot be estimated from the available data). Within each System
+Organ Class, the adverse reactions are presented in order of decreasing frequency.
 Table 2 Adverse reactions
 MedDRA Very common Common Not Known
 System Organ Class (SOC)
@@ -96,6 +97,7 @@ The proportion of respiratory tract infections was higher in ocrelizumab treated
 In the RMS clinical trials, 39.9% of ocrelizumab treated patients and 33.2% interferon beta-1-a treated patients experienced an upper respiratory tract infection and 7.5% of ocrelizumab treated patients and 5.2% of interferon beta-1-a treated patients experienced a lower respiratory tract infection.
 In the PPMS clinical trial, 48.8% of ocrelizumab treated patients and 42.7% of patients who received placebo experienced an upper respiratory tract infection, and 9.9% of ocrelizumab treated patients and 9.2% of patients who received placebo experienced a lower respiratory tract infection.
 The respiratory tract infections reported in patients treated with ocrelizumab were predominately mild to moderate (80 – 90 %).
+
 Herpes
 
 In active-controlled (RMS) clinical trials, herpes infections were reported more frequently in ocrelizumab treated patients than in interferon-beta-1a treated patients including herpes zoster (2.1% vs 1.0%), herpes simplex (0.7 % vs 0.1 %), oral herpes (3.0% vs 2.2%), genital herpes (0.1% vs 0%) and herpes virus infection (0.1% vs 0%).
@@ -130,7 +132,7 @@ The number of SIs was too low to draw definitive conclusions.
 
 Neutrophils
 
-In the active-controlled (RMS) treatment period, a decrease in neutrophils < LNN was observed in 14.7% of patients treated with ocrelizumab compared with 40.9% of patients treated with interferon beta-1a.
+In the active-controlled (RMS) treatment period, a decrease in neutrophils < LLN was observed in 14.7% of patients treated with ocrelizumab compared with 40.9% of patients treated with interferon beta-1a.
 In the placebo-controlled (PPMS) clinical trial, the proportion of ocrelizumab patients presenting decreased neutrophils was higher (12.9 %) than placebo patients (10.0 %); among these a higher percentage of patients (4.3%) in the ocrelizumabgroup had Grade 2 or above neutropenia vs 1.3% in the placebo group; approximately 1% of the patients in the ocrelizumab group had Grade 4 neutropenia vs 0% in the placebo group.
 
 The majority of the neutrophil decreases were transient (only observed once for a given patient treated with ocrelizumab) and were Grade 1 (between<LLN and 1500 cells/mm3) and 2 (between 1000 and 1500 cells/mm3) in severity.
@@ -153,7 +155,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 The safety profile of Ocrevus solution for injection was consistent with the known safety profile of intravenous ocrelizumab below in Table 1 except for the very common adverse reaction of IRs.
 
 Adverse reactions reported in the controlled period of the pivotal clinical trials with intravenous ocrelizumab and derived from spontaneous reporting are listed below in Table 1.
-
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000) and not known (cannot be estimated from the available data).
+Within each System Organ Class, the adverse reactions are presented in order of decreasing frequency.
 Table 1 Adverse reactions
 
 | MedDRA System Organ Class (SOC) | Very common | Common | Not Known |
@@ -196,9 +199,8 @@ In the active-controlled studies in RMS, infections occurred in 58.5% of patient
 SIs occurred in 1.3% of patients receiving intravenous ocrelizumab vs 2.9% of patients receiving interferon beta 1a.
 In the placebo-controlled study in PPMS, infections occurred in 72.2% of patients receiving intravenous ocrelizumab vs 69.9% of patients receiving placebo.
 SIs occurred in 6.2% of patients receiving intravenous ocrelizumab vs 6.7% of patients receiving placebo.
-All patients switched to intravenous ocrelizumab during the OLE phase in both RMS and PPMS pivotal intravenous ocrelizumab studies.
 
-Risk factors for SIs in RMS patients include having at least 1 comorbidity, recent clinical relapse, and EDSS ≥ 6.0.
+All patients switched to intravenous ocrelizumab during the OLE phase in both RMS and PPMS pivotal intravenous ocrelizumab studies.
 
 The proportion of respiratory tract infections was higher in intravenous ocrelizumab treated patients compared to interferon beta-1-a and placebo.
 In the RMS clinical trials, 39.9% of intravenous ocrelizumab treated patients and 33.2% interferon beta-1-a treated patients experienced an upper respiratory tract infection and 7.5% of intravenous ocrelizumab treated patients and 5.2% of interferon beta-1-a treated patients experienced a lower respiratory tract infection.
@@ -219,7 +221,7 @@ Approximately 1% of the patients in the intravenous ocrelizumab group had a Grad
 
 An increased rate of SIs was observed during episodes of confirmed total lymphocytes counts decrease in intravenous ocrelizumab treated patients.
 
-In the active-controlled (RMS) treatment period, a decrease in neutrophils < LNN was observed in 14.7% of patients treated with intravenous ocrelizumab compared with 40.9% of patients treated with interferon beta-1a.
+In the active-controlled (RMS) treatment period, a decrease in neutrophils < LLN was observed in 14.7% of patients treated with intravenous ocrelizumab compared with 40.9% of patients treated with interferon beta-1a.
 In the placebo-controlled (PPMS) clinical trial, the proportion of intravenous ocrelizumab patients presenting decreased neutrophils was higher (12.9 %) than placebo patients (10.0 %); among these a higher percentage of patients (4.3%) in the intravenous ocrelizumab group had Grade 2 or above neutropenia vs 1.3% in the placebo group; approximately 1% of the patients in the intravenous ocrelizumab group had Grade 4 neutropenia vs 0% in the placebo group.
 
 Overall, approximately 1% of the patients in the intravenous ocrelizumab group had Grade 3 or 4 neutropenia.

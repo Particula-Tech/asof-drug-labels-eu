@@ -12,12 +12,12 @@ The precise mechanisms through which ocrelizumab exerts its therapeutic clinical
 Following cell surface binding, ocrelizumab selectively depletes CD20-expressing B cells through antibody-dependent cellular phagocytosis (ADCP), antibody-dependent cellular cytotoxicity (ADCC), complement-dependent cytotoxicity (CDC), and apoptosis.
 The capacity of B-cell reconstitution and pre-existing humoral immunity are preserved.
 In addition, innate immunity and total T-cell numbers are not affected.
-
 Pharmacodynamic effects
 
 Treatment with ocrelizumab leads to rapid depletion of CD19+ B cells in blood by 14 days post treatment (first time-point of assessment) as an expected pharmacologic effect.
 This was sustained throughout the treatment period.
 For the B-cell counts, CD19 is used, as the presence of ocrelizumab interferes with the recognition of CD20 by the assay.
+
 In the Phase III studies, between each dose of ocrelizumab, up to 5% of patients showed B-cell repletion (>LLN or baseline) at least at one time point.
 The extent and duration of B-cell depletion was consistent in the PPMS and RMS trials.
 
@@ -236,8 +236,10 @@ The longest follow up time after the last intravenous infusion (Phase II study W
 Subcutaneous formulation
 
 OCARINA II
+
 Study CN42097 (OCARINA II) was a multi-center, randomised, open-label, parallel arm trial conducted to evaluate the pharmacokinetics, pharmacodynamics, safety, immunogenicity, radiological and clinical effects of subcutaneous ocrelizumab compared with intravenous ocrelizumab in patients with either RMS or PPMS.
 OCARINA II was designed to demonstrate non-inferiority of treatment with subcutaneous ocrelizumab versus intravenous ocrelizumab based on the primary PK endpoint of area under the concentration time curve (AUC) up to week 12 post-injection/infusion (AUCw1-12).
+
 A total of 236 patients with RMS or PPMS (213 patients with RMS, 23 patients with PPMS) were randomised in a 1:1 ratio to the subcutaneous arm or intravenous arm.
 During the controlled period (Day 0 to Week 24), patients received either a single 920 mg subcutaneous injection at study Day 1 or two 300 mg intravenous infusions at study Day 1 and 14.
 After the controlled period, all patients had the opportunity to receive further subcutaneous injections of 920 mg ocrelizumab at Weeks 24 and 48 (Dose 2 and 3, respectively).
