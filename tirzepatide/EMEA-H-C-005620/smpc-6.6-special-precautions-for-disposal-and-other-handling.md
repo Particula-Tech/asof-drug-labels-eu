@@ -21,7 +21,6 @@ Each KwikPen contains 4 doses.
 Dispose of the pen after 4 weekly doses.
 
 The instructions for using the KwikPen, included with the package leaflet, must be followed carefully.
-
 Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

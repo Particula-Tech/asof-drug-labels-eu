@@ -1,6 +1,7 @@
 # 6.5 Nature and contents of container
 
 Pre-filled pen, single-dose
+
 Glass syringe encased in a disposable pre-filled pen.
 
 The pre-filled pen has a hidden needle, which will automatically insert into the skin when the injection button is pressed.

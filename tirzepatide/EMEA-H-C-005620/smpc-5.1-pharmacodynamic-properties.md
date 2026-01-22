@@ -19,7 +19,6 @@ In human adipocytes cultured in vitro, tirzepatide acts on GIP receptors to regu
 Glycaemic control
 
 Tirzepatide improves glycaemic control by lowering fasting and postprandial glucose concentrations in patients with type 2 diabetes through several mechanisms.
-
 Appetite regulation and energy metabolism
 
 Tirzepatide lowers body weight and body fat mass.
@@ -36,14 +35,15 @@ Insulin secretion
 Tirzepatide increases pancreatic β-cell glucose sensitivity.
 It enhances first- and second-phase insulin secretion in a glucose dependent manner.
 
-In a hyperglycaemic clamp study in patients with type 2 diabetes, tirzepatide was compared to placebo and the selective GLP-1 receptor agonist semaglutide 1 mg for insulin secretion.
+In a hyperglycaemic clamp study in adult patients with type 2 diabetes, tirzepatide was compared to placebo and the selective GLP-1 receptor agonist semaglutide 1 mg for insulin secretion.
 Tirzepatide 15 mg enhanced the first and second-phase insulin secretion rate by 466 % and 302 % from baseline, respectively.
 There was no change in first- and second-phase insulin secretion rate for placebo.
+
 Insulin sensitivity
 
 Tirzepatide improves insulin sensitivity.
 
-Tirzepatide 15 mg improved whole body insulin sensitivity by 63 %, as measured by M-value, a measure of glucose tissue uptake using hyperinsulinemic euglycaemic clamp.
+In adults, tirzepatide 15 mg improved whole body insulin sensitivity by 63 %, as measured by M-value, a measure of glucose tissue uptake using hyperinsulinemic euglycaemic clamp.
 The M-value was unchanged for placebo.
 
 Tirzepatide lowers body weight in patients with obesity and overweight, and in patients with type 2 diabetes (irrespective of body weight), which may contribute to improvement in insulin sensitivity.
@@ -51,7 +51,7 @@ Tirzepatide lowers body weight in patients with obesity and overweight, and in p
 Glucagon concentration
 
 Tirzepatide reduced the fasting and postprandial glucagon concentrations in a glucose dependent manner.
-Tirzepatide 15 mg reduced fasting glucagon concentration by 28 % and glucagon AUC after a mixed meal by 43 %, compared with no change for placebo.
+In adults, tirzepatide 15 mg reduced fasting glucagon concentration by 28 % and glucagon AUC after a mixed meal by 43 %, compared with no change for placebo.
 
 Gastric emptying
 
@@ -60,7 +60,7 @@ Tirzepatide induced delay in gastric emptying diminishes over time.
 
 Clinical efficacy and safety
 
-Type 2 diabetes mellitus
+Type 2 diabetes mellitus in adults
 
 The safety and efficacy of tirzepatide were evaluated in five global randomised, controlled, phase 3 studies (SURPASS 1-5) assessing glycaemic control as the primary objective.
 The studies involved 6 263 treated patients with type 2 diabetes (4 199 treated with tirzepatide).
@@ -68,7 +68,6 @@ The secondary objectives included body weight, percentage of patients achieving 
 All five phase 3 studies assessed tirzepatide 5 mg, 10 mg and 15 mg.
 All patients treated with tirzepatide started with 2.5 mg for 4 weeks.
 Then the dose of tirzepatide was increased by 2.5 mg every 4 weeks until they reached their assigned dose.
-
 Across all studies, treatment with tirzepatide demonstrated sustained, statistically significant and clinically meaningful reductions from baseline in HbA1c as the primary objective compared to either placebo or active control treatment (semaglutide, insulin degludec and insulin glargine) for up to 1 year.
 In 1 study these effects were sustained for up to 2 years.
 Statistically significant and clinically meaningful reductions from baseline in body weight were also demonstrated.
@@ -79,6 +78,7 @@ SURPASS-1 – Monotherapy
 In a 40 week double-blind placebo-controlled study, 478 patients with inadequate glycaemic control with diet and exercise, were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or placebo.
 Patients had a mean age of 54 years and 52 % were men.
 At baseline the patients had a mean duration of diabetes of 5 years and the mean BMI was 32 kg/m2.
+
 Table 2.
 SURPASS-1: Results at week 40
 
@@ -119,10 +119,9 @@ Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
 SURPASS-2 – Combination therapy with metformin
 
-In a 40 week active-controlled open-label study, (double-blind with respect to tirzepatide dose assignment) 1 879 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or semaglutide 1 mg once weekly, all in combination with metformin.
+In a 40 week active-controlled open-label study, (double-blind with respect to tirzepatide dose assignment) 1879 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or semaglutide 1 mg once weekly, all in combination with metformin.
 Patients had a mean age of 57 years and 47 % were men.
 At baseline the patients had a mean duration of diabetes of 9 years and the mean BMI was 34 kg/m2.
-
 Table 3.
 SURPASS-2: Results at week 40
 
@@ -159,7 +158,6 @@ Time (Weeks) Time (Weeks)
 
 MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Semaglutide 1 mg MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Semaglutide 1 mg Figure 2.
 Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
-
 SURPASS-3 – Combination therapy with metformin, with or without SGLT2i
 
 In a 52 week active-controlled open-label study, 1 444 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or insulin degludec, all in combination with metformin with or without a SGLT2i.
@@ -168,6 +166,7 @@ At baseline the patients had a mean duration of diabetes of 8 years, a mean BMI 
 
 Patients treated with insulin degludec started at a dose of 10 U/day which was adjusted using an algorithm for a target fasting blood glucose of < 5 mmol/L.
 The mean dose of insulin degludec at week 52 was 49 units/day.
+
 Table 4.
 SURPASS-3: Results at week 52
 
@@ -304,12 +303,45 @@ MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Placebo MOUNJARO 5 mg MOUNJARO 10 mg
 Figure 5.
 Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
+Type 2 diabetes mellitus in children and adolescents aged 10 to less than 18 years
+
+The safety and efficacy of tirzepatide 5 mg and 10 mg once weekly was evaluated in 99 patients aged 10 to below 18 years with type 2 diabetes on metformin (68.7 %) or basal insulin (8.1 %), or both (23.2 %), in a 30-week double-blind, placebo-controlled phase 3 study, followed by a 22-week open-label extension (SURPASS-PEDS).
+In the open-label period, all participants on placebo were switched to tirzepatide at a maintenance dose of 5 mg while participants randomized to tirzepatide continued their treatment at the same dose of 5 or 10 mg.
+
+At baseline, patients had a mean age of 14.7 years and 61 % were female.
+The mean duration of type 2 diabetes was 2.4 years.
+All participants had overweight or obesity, since a BMI above the 85th percentile of the general age and gender-matched population for the country or region was an inclusion criterion.
+At 30 weeks, tirzepatide 5 mg and 10 mg, both pooled and individually, were superior to placebo in lowering HbA1c, FSG and BMI.
+Glycaemic efficacy was sustained and BMI reductions continued through Week 52.
+Table 7.
+SURPASS-PEDS: Results at week 30
+
+|  |  | Tirzepatide 5 mg | Tirzepatide 10 mg | Tirzepatide Pooled | Placebo |
+| --- | --- | --- | --- | --- | --- |
+| mITT population (n) |  | 32 | 33 | 65 | 34 |
+| HbA1c (%) | Baseline (mean) | 8.22 | 7.92 | 8.07 | 8.02 |
+|  | Change from baseline | -2.16 | -2.30 | -2.23 | 0.049 |
+|  | Difference from placebo [95 % CI] | -2.21** [-2.89, -1.53] | -2.35** [-3.03, -1.66] | -2.28** [-2.87, -1.69] | - |
+| HbA1c (mmol/mol) | Baseline (mean) | 66.3 | 63.1 | 64.7 | 64.2 |
+|  | Change from baseline | -23.6 | -25.1 | -24.4 | 0.53 |
+|  | Difference from placebo [95 % CI] | -24.2** [-31.6, -16.8] | -25.6** [-33.1, -18.2] | -24.9** [-31.4, -18.4] | - |
+| Patients (%) achieving HbA1c | < 7 % | 84.2 | 91.5 | 87.9 | 34.3 |
+|  | ≤ 6.5 % | 70.8** | 86.1** | 78.6** | 27.8 |
+|  | < 5.7 % | 46.9 | 59.6 | 53.4 | 14.4 |
+| BMI (kg/m2) | Baseline (mean) | 33.9 | 37.3 | 35.6 | 34.7 |
+|  | Change (%) from baseline | -7.4 | -11.2 | -9.3 | -0.4 |
+|  | Difference (%) from placebo [95 % CI] | -7.0** [-10.48, -3.60] | -10.8** [-14.25, -7.39] | -8.9** [-11.91, -5.95] | - |
+
+*p < 0.05, ** p < 0.001 for superiority, adjusted for multiplicity.
+
+Figure 6.
+Mean HbA1c (%) and change in BMI (%) from baseline to week 30
+
 Weight management
 
 The efficacy and safety of tirzepatide for weight management, in combination with a reduced calorie intake and increased physical activity, in patients with obesity (BMI ≥ 30 kg/m2), or overweight
-(BMI ≥ 27 kg/m2 to < 30 kg/m2) and at least one weight-related comorbidity (such as treated or untreated dyslipidaemia, hypertension, obstructive sleep apnoea, or cardiovascular disease), and with prediabetes or normoglycemia, but without type 2 diabetes mellitus, were evaluated in three randomised double-blinded, placebo-controlled phase 3 studies (SURMOUNT-1, SURMOUNT-3, SURMOUNT-4).
+(BMI ≥ 27 kg/m2 to < 30 kg/m2) and at least one weight-related comorbidity (such as treated or untreated dyslipidaemia, hypertension, obstructive sleep apnoea, or cardiovascular disease), and with prediabetes or normoglycaemia, but without type 2 diabetes mellitus, were evaluated in three randomised double-blinded, placebo-controlled phase 3 studies (SURMOUNT-1, SURMOUNT-3, SURMOUNT-4).
 A total of 3 900 adult patients (2 518 randomised to tirzepatide) were included in these studies.
-
 Treatment with tirzepatide demonstrated clinically meaningful and sustained weight reduction compared with placebo.
 Furthermore, a higher percentage of patients achieved ≥ 5 %, ≥ 10 %, ≥ 15 % and ≥ 20 % weight loss with tirzepatide compared with placebo.
 
@@ -328,7 +360,7 @@ In a 72 week double-blind placebo-controlled study, 2 539 adult patients with ob
 All patients were counselled on a reduced-calorie diet and increased physical activity throughout the trial.
 At baseline, patients had a mean age of 45 years, 67.5 % were women and 40.6 % of patients had prediabetes.
 Mean BMI at baseline was 38 kg/m2.
-Table 7.
+Table 8.
 SURMOUNT-1: Results at week 72
 
 |  | Tirzepatide 5 mg | Tirzepatide 10 mg | Tirzepatide 15 mg | Placebo |
@@ -353,9 +385,6 @@ SURMOUNT-1: Results at week 72
 ††p < 0.001 versus baseline.
 **p < 0.001 versus placebo, adjusted for multiplicity.
 ##p < 0.001 versus placebo, not adjusted for multiplicity.
-
-5
-
 0
 -2.4 %
 
@@ -377,20 +406,62 @@ Time (Weeks)
 
 MOUNJARO 5mg MOUNJARO 10mg MOUNJARO 15mg Placebo
 
-Figure 6.
+Figure 7.
 Mean change in body weight (%) from baseline to week 72
 
 In SURMOUNT-1, pooled doses of tirzepatide 5 mg, 10 mg, and 15 mg led to a significant improvement compared to placebo in systolic blood pressure (-8.1 mmHg vs. -1.3 mmHg), triglycerides (-27.6 % vs. -6.3 %), non-HDL-C (-11.3 % vs. -1.8 %), HDL-C (7.9 % vs. 0.3 %), and fasting insulin (-46.9 % vs. -9.7 %).
 
-Among the patients in SURMOUNT-1 with prediabetes at baseline (N = 1032), 95.3 % patients treated with tirzepatide reverted to normoglycemia at week 72, as compared with 61.9 % of patients in the placebo group.
+Patients with prediabetes at baseline continued for up to 176 weeks of treatment to evaluate long term effects on body weight and onset of adjudication-confirmed type 2 diabetes mellitus.
+
+Table 9.
+SURMOUNT-1: Results at week 176 (patients with prediabetes at baseline)
+
+|  | Tirzepatide 5 mg | Tirzepatide 10 mg | Tirzepatide 15 mg | Placebo |
+| --- | --- | --- | --- | --- |
+| mITT population (n) | 247 | 262 | 253 | 270 |
+| Body weight |  |  |  |  |
+| Baseline (kg) | 104.6 | 108.9 | 108.5 | 107.4 |
+| Change (%) from baseline | -15.4†† | -19.9†† | -22.9†† | -2.1† |
+| Difference (%) from placebo [95 % CI] | -13.2## [-15.3, -11.1] | -17.7** [-19.8, -15.7] | -20.7** [-22.8, -18.6] | - |
+| Change (kg) from baseline | -15.7†† | -21.4†† | -24.6†† | -2.3† |
+| Difference (kg) from placebo [95 % CI] | -13.4## [-15.9, -11.0] | -19.1## [-21.5, -16.7] | -22.3## [-24.7, -19.9] | - |
+
+†p < 0.05, ††p < 0.001 versus baseline.
+**p < 0.001 versus placebo, adjusted for multiplicity.
+##p < 0.001 versus placebo, not adjusted for multiplicity.
+0
+-2.1 %
+
+-5
+
+-10
+
+-15 -15.4 %
+-20 -19.9 %
+
+-22.9 %
+-25
+
+0 8 16 24 48 72 98 124 150 176
+
+Time (Weeks)
+
+MOUNJARO 5mg MOUNJARO 10mg MOUNJARO 15mg Placebo
+
+Figure 8.
+Mean change in body weight (%) from baseline to week 176 (patients with prediabetes at baseline)
+
+Among the patients in SURMOUNT-1 with prediabetes at baseline (N = 1032), 95.3 % of patients treated with tirzepatide reverted to normoglycaemia at week 72, as compared with 61.9 % of patients in the placebo group.
+At the end of 176 weeks, 94.5 % of patients treated with tirzepatide reverted to normoglycaemia, as compared with 60.4 % of patients in the placebo group, and 1.2% of patients treated with tirzepatide progressed to type 2 diabetes mellitus, as compared with 12.6% of patients in the placebo group.
 
 SURMOUNT-2
 
 In a 72 week double-blind placebo-controlled study, 938 adult patients with obesity (BMI ≥ 30 kg/m2) or with overweight (BMI ≥ 27 kg/m2 to < 30 kg/m2) and type 2 diabetes, were randomised to tirzepatide 10 mg or 15 mg once weekly or placebo.
-Patients included in the trial had HbA1c 7-10 % and were treated with either diet and exercise alone, or with one or more oral anti-hyperglycemic agent .
+Patients included in the trial had HbA1c 7-10 % and were treated with either diet and exercise alone, or with one or more oral anti-hyperglycaemic agent .
 All patients were counselled on a reduced calorie diet and increased physical activity throughout the trial.
-Patients had a mean age of 54 years and 51 % were women.Mean BMI at baseline was 36.1 kg/m2.
-Table 8.
+Patients had a mean age of 54 years and 51 % were women.
+Mean BMI at baseline was 36.1 kg/m2.
+Table 10.
 SURMOUNT-2: Results at week 72
 
 |  | Tirzepatide 10 mg | Tirzepatide 15 mg | Placebo |
@@ -457,7 +528,7 @@ Time (Weeks)
 
 MOUNJARO 10mg MOUNJARO 15mg Placebo
 
-Figure 7.
+Figure 9.
 Mean change in body weight (%) from baseline to week 72
 
 In SURMOUNT-2, pooled doses of tirzepatide 10 mg and 15 mg led to a significant improvement compared to placebo in systolic blood pressure (-7.2 mmHg vs. -1.0 mmHg), triglycerides (-28.6 % vs. -5.8 %), non-HDL-C (-6.6 % vs. 2.3 %), and HDL-C (8.2 % vs. 1.1 %).
@@ -470,7 +541,7 @@ At the end of the 12 week lead-in period, 579 patients who achieved ≥ 5.0 % we
 Patients were on a reduced-calorie diet and increased physical activity throughout the double-blind phase of the study.
 At randomisation patients had a mean age of 46 years and 63 % were women.
 Mean BMI at randomisation was 35.9 kg/m2.
-Table 9.
+Table 11.
 SURMOUNT-3: Results at week 72
 
 |  | Tirzepatide MTD | Placebo |
@@ -522,7 +593,7 @@ Week Relative to Randomization
 
 Lead-in lifestyle MOUNJARO MTD Placebo
 
-Figure 8.
+Figure 10.
 Mean change in body weight (%) from Week -12 to week 72
 
 SURMOUNT-4
@@ -537,9 +608,9 @@ At randomisation (week 36), patients had a mean age of 49 years and 71 % were wo
 Mean body weight at randomisation was 85.2 kg and mean BMI was 30.5 kg/m2.
 
 Patients who continued treatment with tirzepatide for an additional 52 weeks (up to 88 weeks in total) maintained and experienced further weigh loss after the initial weight reduction achieved during the 36 week lead-in phase.
-The weight reduction was superior and clinically meaningful compared to the placebo group, in which a substantial regain of body weight lost during the lead-in phase was observed (see Table 10 and Figure 9).
-Nevertheless, the observed mean body weight for placebo-treated patients was lower at week 88 than at the start of the lead-in phase (see Figure 9).
-Table 10.
+The weight reduction was superior and clinically meaningful compared to the placebo group, in which a substantial regain of body weight lost during the lead-in phase was observed (see Table 12 and Figure 11).
+Nevertheless, the observed mean body weight for placebo-treated patients was lower at week 88 than at the start of the lead-in phase (see Figure 11).
+Table 12.
 SURMOUNT-4: Results at week 88
 
 |  | Tirzepatide MTD | Placebo |
@@ -587,11 +658,25 @@ Time (Weeks)
 
 MOUNJARO Lead-in MOUNJARO MTD Placebo
 
-Figure 9.
+Figure 11.
 Mean change in body weight (%) from baseline (Week 0) to week 88
 
 Risk of weight regain to > 95 % of study baseline (Week 0) weight at week 88
 Time to event analysis showed that continued tirzepatide treatment during the double-blind period reduced the risk of returning to greater than 95 % body weight observed at Week 0, for those who had already lost at least 5 % since week 0 by approximately 99 % compared with placebo (hazard ratio, 0.013 [95 % CI, 0.004 to 0.046]; p < 0.001).
+
+SURMOUNT-5
+
+In a 72-week study, 751 adult patients with obesity (BMI ≥30 kg/m2) or overweight (BMI ≥27 kg/m2 to < 30 kg/m2) with at least 1 weight-related comorbid condition were randomised to tirzepatide 15 mg or semaglutide 2.4 mg once weekly.
+When patients did not tolerate this dose, the dose was reduced to tirzepatide 10 mg or semaglutide 1.7 mg once weekly.
+Patients were counselled on a reduced calorie diet and increased physical activity throughout the trial.
+Participants had a mean age of 44.7 years and a mean BMI of 39.4 kg/m2.
+Overall, 64.7 % were female.
+
+Treatment with tirzepatide for 72 weeks resulted in a superior and clinically meaningful reduction in body weight compared to semaglutide.
+The percent change from baseline at week 72 (primary endpoint) was -21.6 % for tirzepatide and -15.4 % for semaglutide (difference from semaglutide: -
+6.2 %; 95 % CI [-7.8, -4.6]; p<0.001).
+Tirzepatide also achieved superiority compared with semaglutide for the key secondary endpoints, i.e. proportion of patients achieving ≥10 %, ≥15 %,
+≥20 %, and ≥25 % body weight reduction at week 72 as well as reduction of waist circumference at week 72.
 
 Effect on body composition
 
@@ -616,7 +701,7 @@ Study 2 enrolled patients on PAP therapy.
 Study 2 does not allow any conclusion about a potentially added benefit of tirzepatide on top of PAP therapy, since PAP use was suspended 7 days prior to endpoint measurement.
 All patients were treated with the maximum tolerated dose (MTD; 10 mg or 15 mg) of tirzepatide or placebo, once weekly for 52 weeks.
 
-In both studies, treatment with tirzepatide demonstrated statistically significant and clinically meaningful reduction in the apnoea-hypopnoea index (AHI) compared with placebo (see Table 11).
+In both studies, treatment with tirzepatide demonstrated statistically significant and clinically meaningful reduction in the apnoea-hypopnoea index (AHI) compared with placebo (see Table 13).
 Among tirzepatide treated patients, greater proportion of patients achieved at least 50 % AHI reduction compared to placebo.
 
 SURMOUNT-OSA, Study 1 and Study 2
@@ -627,7 +712,7 @@ Patients had a mean Epworth Sleepiness Scale (ESS) of 10.5.
 In Study 2 patients had a mean age of 52 years, 28 % were female, 31 % had moderate OSA, 68 % had severe OSA, 57 % had pre-diabetes, 77 % had hypertension, 11 % had cardiac disorders, and 84 % had dyslipidemia.
 Patients had a mean ESS of 10.0.
 
-Table 11.
+Table 13.
 SURMOUNT-OSA, Study 1 and Study 2: Results at week 52
 
 |  | OSA Study 1 |  | OSA Study 2 |  |
@@ -681,7 +766,7 @@ A total of 109 patients (tirzepatide: 47 [n = 995]; insulin glargine:
 In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), a total of 27 participants experienced at least one adjudication confirmed MACE (TZP: 17 (n = 2 806); placebo: 10 (n = 1 250)); the event rate was similar across placebo and tirzepatide.
 
 Blood pressure
-In the placebo-controlled phase 3 studies in patients with T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively.
+In the placebo-controlled phase 3 studies in adult patients with T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively.
 There was a mean decrease in systolic and diastolic blood pressure of 2 mmHg each in placebo treated patients.
 
 In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 7 mmHg and 4 mmHg, respectively.
@@ -690,6 +775,7 @@ There was a mean decrease in systolic and diastolic blood pressure of
 
 In two placebo-controlled OSA phase 3 studies with pooled safety analysis, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 9.0 mmHg and 3.8 mmHg, respectively, at Week 52.
 There was a mean decrease in systolic and diastolic blood pressure of 2.5 mmHg and 1.0 mmHg, respectively, in placebo treated patients at Week 52.
+
 Other information
 
 Fasting serum glucose
@@ -728,4 +814,4 @@ The efficacy of tirzepatide for the treatment of moderate to severe OSA in patie
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Mounjaro in one or more subsets of the paediatric population for the treatment of type 2 diabetes mellitus and for weight management (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Mounjaro in one or more subsets of the paediatric population for the treatment of type 2 diabetes mellitus and for weight management (see section 4.2, 4.8 and 5.1 for information on paediatric use).

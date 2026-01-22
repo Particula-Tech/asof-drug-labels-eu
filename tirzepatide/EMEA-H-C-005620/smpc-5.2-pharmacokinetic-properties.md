@@ -30,8 +30,8 @@ The apparent population mean clearance of tirzepatide is approximately 0.06 L/h 
 Tirzepatide is eliminated by metabolism.
 The primary excretion routes of tirzepatide metabolites are via urine and faeces.
 Intact tirzepatide is not observed in urine or faeces.
-
 Special populations
+
 Age, gender, race, ethnicity, body weight
 
 Age, gender, race, ethnicity, or body weight do not have a clinically relevant effect on the pharmacokinetics (PK) of tirzepatide.
@@ -50,4 +50,4 @@ The PK of tirzepatide after a single 5 mg dose was evaluated in patients with di
 
 Paediatric population
 
-Tirzepatide has not been studied in paediatric patients.
+The exposure in paediatric patients aged 10 to below 18 years with T2DM treated with tirzepatide 5 mg and 10 mg was comparable to that observed at recommended doses in the adult population.

@@ -5,6 +5,7 @@ Acute pancreatitis
 Tirzepatide has not been studied in patients with a history of pancreatitis, and should be used with caution in these patients.
 
 Acute pancreatitis has been reported in patients treated with tirzepatide.
+
 Patients should be informed of the symptoms of acute pancreatitis.
 If pancreatitis is suspected, tirzepatide should be discontinued.
 If the diagnosis of pancreatitis is confirmed, tirzepatide should not be restarted.
@@ -34,7 +35,6 @@ Aspiration in association with general anaesthesia or deep sedation
 
 Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation.
 Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
-
 Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.

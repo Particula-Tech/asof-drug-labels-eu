@@ -10,6 +10,9 @@ In a 6-month carcinogenicity study in rasH2 transgenic mice, tirzepatide at dose
 
 Animal studies with tirzepatide did not indicate direct harmful effects with respect to fertility.
 
+In juvenile rats, tirzepatide caused delayed sexual maturation in both males and females which was secondary to pharmacological effects on body weight.
+Findings did not suggest any specific risk for use in the paediatric population.
+
 In animal reproduction studies, tirzepatide caused foetal growth reductions and foetal abnormalities at exposures below the MRHD based on AUC.
 An increased incidence of external, visceral, and skeletal malformations and visceral and skeletal developmental variations were observed in rats.
 Foetal growth reductions were observed in rats and rabbits.
