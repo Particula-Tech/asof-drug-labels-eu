@@ -24,12 +24,12 @@ Deconjugation of glucuronidates in the intestine and subsequent reabsorption (en
 Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3.
 CYP450-catalysed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%).
 No inhibition of deferasirox metabolism by hydroxyurea was observed in vitro.
+
 Elimination
 Deferasirox and its metabolites are primarily excreted in the faeces (84% of the dose).
 Renal excretion of deferasirox and its metabolites is minimal (8% of the dose).
 The mean elimination half-life (t1/2) ranged from 8 to 16 hours.
 The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of deferasirox.
-
 Linearity / non-linearity
 The Cmax and AUC0-24h of deferasirox increase approximately linearly with dose under steady-state conditions.
 Upon multiple dosing exposure increased by an accumulation factor of 1.3 to 2.3.

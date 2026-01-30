@@ -4,151 +4,143 @@ Treatment with EXJADE should be initiated and maintained by physicians experienc
 
 Posology
 
+Transfusional iron overload and non-transfusion-dependent thalassaemia syndromes require different posologies.
+All physicians who intend to prescribe EXJADE must ensure they have received and are familiar with the physician educational material (Guide for healthcare professionals which also includes a prescriber checklist).
+
 Transfusional iron overload
 
-It is recommended that treatment be started after the transfusion of approximately 20 units (about 100 ml/kg) of packed red blood cells (PRBC) or when there is evidence from clinical monitoring that chronic iron overload is present (e.g. serum ferritin >1,000 µg/l).
-Doses (in mg/kg) must be calculated and rounded to the nearest whole tablet size.
-
-The goals of iron chelation therapy are to remove the amount of iron administered in transfusions and, as required, to reduce the existing iron burden.
+Doses (in mg/kg body weight) must be calculated and rounded to the nearest whole tablet size.
 
 Caution should be taken during chelation therapy to minimise the risk of overchelation in all patients (see section 4.4).
 
 In the EU, medicines containing deferasirox are available as film-coated tablets and dispersible tablets marketed under different tradenames as generic alternatives to EXJADE.
 Due to different pharmacokinetic profiles, a 30% lower dose of EXJADE film-coated tablets is needed in comparison to the recommended dose for EXJADE dispersible tablets (see section 5.1).
-Table 1 Recommended doses for transfusional iron overload
-
-Film-coated tablets Transfusions Serum
-
-ferritin
-
-Starting dose 14 mg/kg/day After 20 units (about or >1,000 µg/l
-
-100 ml/kg) of PRBC
-
-Alternative 21 mg/kg/day >14 ml/kg/month of
-starting doses PRBC (approx.
-
->4 units/month for an adult)
-
-7 mg/kg/day <7 ml/kg/month of
-
-PRBC (approx. <2 units/month for an adult)
-
-For patients well One third of
-managed on deferoxamine dose
-deferoxamine
-Monitoring Monthly
-Target range 500-1,000 µg/l
-Adjustment steps Increase >2,500 µg/l
-(every 3-6 months) 3.5 - 7 mg/kg/day
-Up to 28 mg/kg/day
-Decrease
-3.5 - 7 mg/kg/day ≤2,500 µg/l
-In patients treated with
-doses >21 mg/kg/day
-- When target is 500-1,000 µg/l
-reached
-Maximum dose 28 mg/kg/day
-Consider <500 µg/l
-interruption
 
 Starting dose
-The recommended initial daily dose of EXJADE film-coated tablets is 14 mg/kg body weight.
+It is recommended that treatment be started after the transfusion of approximately 20 units (about 100 ml/kg) of packed red blood cells (PRBC) or when there is evidence from clinical monitoring that chronic iron overload is present (e.g. serum ferritin >1 000 µg/l) (see Table 1).
 
-An initial daily dose of 21 mg/kg of EXJADE film-coated tablets may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult).
+Table 1 Recommended starting doses for transfusional iron overload
 
-An initial daily dose of 7 mg/kg of EXJADE film-coated tablets may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).
-The patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+Recommended starting dose
 
-For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE film-coated tablets that is numerically one third that of the deferoxamine dose could be considered (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets).
-When this results in a daily dose less than 14 mg/kg body weight, the patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+Serum ferritin Patient population Recommended starting dose
+
+>1 000 µg/l or Patients who have already received 14 mg/kg/day approximately 20 units (about
+100 ml/kg) of PRBC.
+Alternative starting doses
+
+Patient population Alternative starting dose
+
+Patients who do not require reduction of body iron levels and 7 mg/kg/day who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult).
+The patient’s response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained.
+Patients who require reduction of elevated body iron levels and 21 mg/kg/day who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult).
+
+Patients who are well managed on deferoxamine. One third of deferoxamine dose*
+
+*A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets).
+When this results in a daily dose of <14 mg/kg, the patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
 
 Dose adjustment
-It is recommended that serum ferritin be monitored every month and that the dose of EXJADE film-coated tablets be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin.
-Dose adjustments may be made in steps of 3.5 to 7 mg/kg and are to be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of iron burden).
-In patients not adequately controlled with doses of 21 mg/kg (e.g. serum ferritin levels persistently above 2,500 µg/l and not showing a decreasing trend over time), doses of up to 28 mg/kg may be considered.
-The availability of long-term efficacy and safety data from clinical studies conducted with EXJADE dispersible tablets used at doses above 30 mg/kg is currently limited (264 patients followed for an average of 1 year after dose escalation).
-If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg (film-coated tablet dose equivalent of 30 mg/kg of dispersible tablets), a further increase (to a maximum of 28 mg/kg) may not achieve satisfactory control, and alternative treatment options may be considered.
-If no satisfactory control is achieved at doses above 21 mg/kg, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible.
-Doses above 28 mg/kg are not recommended because there is only limited experience with doses above this level (see section 5.1).
-
-In patients treated with doses greater than 21 mg/kg, dose reductions in steps of 3.5 to 7 mg/kg should be considered when control has been achieved (e.g. serum ferritin levels persistently ≤2,500 µg/l and showing a decreasing trend over time).
-In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 3.5 to 7 mg/kg should be considered to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.
-If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered (see section 4.4).
-
+It is recommended that serum ferritin be monitored every month and that the dose of EXJADE film-
+coated tablets be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin (see
+Table 2). Dose adjustments may be made in steps of 3.5 to 7 mg/kg/day and are to be tailored to the
+individual patient’s response and therapeutic goals (maintenance or reduction of iron burden).
+Table 2 Recommended dose adjustments for transfusional iron overload
+Serum ferritin (monthly Recommended dose adjustment
+monitoring)
+Persistently >2 500 µg/l and Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day.
+not showing a decreasing
+trend over time The maximum allowed dose is 28 mg/kg/day.
+If only very poor haemosiderosis control is achieved at doses up
+to 21 mg/kg/day, a further increase (to a maximum of
+28 mg/kg/day) may not achieve satisfactory control, and
+alternative treatment options may be considered.
+If no satisfactory control is achieved at doses above
+21 mg/kg/day, treatment at such doses should not be maintained
+and alternative treatment options should be considered whenever
+possible.
+>1 000 µg/l but persistently Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day
+≤2 500 µg/l with a in patients treated with doses >21 mg/kg/day, until the target of
+decreasing trend over time 500 to 1 000 µg/l is reached.
+500 to 1 000 µg/l (target Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months
+range) to maintain serum ferritin levels within the target range and to
+minimise the risk of overchelation.
+Consistently <500 µg/l Consider interruption of treatment (see section 4.4).
+The availability of long-term efficacy and safety data from clinical studies conducted with EXJADE
+dispersible tablets used at doses above 30 mg/kg (equivalent to 21 mg/kg when given as film-coated
+tablets) is currently limited (264 patients followed for an average of 1 year after dose escalation).
+Doses above 28 mg/kg/day are not recommended because there is only limited experience with doses
+above this level (see section 5.1).
 Non-transfusion-dependent thalassaemia syndromes
-
-Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] ≥5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 µg/l).
-LIC is the preferred method of iron overload determination and should be used wherever available.
-Caution should be taken during chelation therapy to minimise the risk of overchelation in all patients (see section 4.4).
-
-In the EU, medicines containing deferasirox are available as film-coated tablets and dispersible tablets marketed under different tradenames as generic alternatives to EXJADE.
-Due to different pharmacokinetic profiles, a 30% lower dose of EXJADE film-coated tablets is needed in comparison to the recommended dose for EXJADE dispersible tablets (see section 5.1).
-
-Table 2 Recommended doses for non-transfusion-dependent thalassaemia syndromes
-
-Film-coated Liver iron Serum
-tablets concentration ferritin
-(LIC)*
-Starting dose 7 mg/kg/day ≥5 mg Fe/g dw or >800 µg/l
-Monitoring Monthly
-Adjustment Increase ≥7 mg Fe/g dw or >2,000 µg/l
-steps 3.5 - 7 mg/kg/day
-(every Decrease <7 mg Fe/g dw or ≤2,000 µg/l
-3-6 months) 3.5 - 7 mg/kg/day
-Maximum 14 mg/kg/day
-dose For adult patients
-7 mg/kg/day
-For paediatric
-patients
-7 mg/kg/day not assessed and ≤2,000 µg/l
-For both adult and
-paediatric patients
-Interruption <3 mg Fe/g dw or <300 µg/l
-Retreatment Not recommended
-
-*LIC is the preferred method of iron overload determination.
+Chelation therapy should only be initiated when there is evidence of iron overload (liver iron
+concentration [LIC] ≥5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 µg/l). LIC is the
+preferred method of iron overload determination and should be used wherever available. Caution
+should be taken during chelation therapy to minimise the risk of overchelation in all patients (see
+section 4.4).
+In the EU, medicines containing deferasirox are available as film-coated tablets and dispersible tablets
+marketed under different tradenames as generic alternatives to EXJADE. Due to different
+pharmacokinetic profiles, a 30% lower dose of EXJADE film-coated tablets is needed in comparison
+to the recommended dose for EXJADE dispersible tablets (see section 5.1).
 Starting dose
-The recommended initial daily dose of EXJADE film-coated tablets in patients with non-transfusion-dependent thalassaemia syndromes is 7 mg/kg body weight.
-
+The recommended initial daily dose of EXJADE film-coated tablets in patients with non-transfusion-
+dependent thalassaemia syndromes is 7 mg/kg body weight/day.
 Dose adjustment
-It is recommended that serum ferritin be monitored every month to assess the patient’s response to therapy and to minimise the risk of overchelation (see section 4.4).
-After every 3 to 6 months of treatment, a dose increase in increments of 3.5 to 7 mg/kg should be considered if the patient’s LIC is ≥7 mg Fe/g dw, or if serum ferritin is consistently >2,000 µg/l and not showing a downward trend, and the patient is tolerating the medicinal product well.
-Doses of EXJADE film-coated tablets above 14 mg/kg are not recommended because there is no experience with doses above this level in patients with non-transfusion-dependent thalassaemia syndromes.
-
-In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2,000 µg/l, dosing of EXJADE film-coated tablets should not exceed 7 mg/kg.
-
-For patients in whom the dose was increased to >7 mg/kg, dose reduction to 7 mg/kg or less is recommended when LIC is <7 mg Fe/g dw or serum ferritin is ≤2,000 µg/l.
-
-Treatment cessation
-Once a satisfactory body iron level has been achieved (LIC <3 mg Fe/g dw or serum ferritin
-<300 µg/l), treatment should be stopped.
-There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended.
-
+It is recommended that serum ferritin be monitored every month to assess the patient’s response to
+therapy and to minimise the risk of overchelation (see section 4.4). Recommended dose adjustments
+for non-transfusion-dependent thalassaemia syndromes are summarised in Table 3.
+Table 3 Recommended dose adjustments for non-transfusion-dependent thalassaemia
+syndromes
+Serum ferritin Liver iron Recommended dose adjustment
+(monthly concentration (LIC)*
+monitoring)
+Consistently or ≥7 mg Fe/g dw Increase dose every 3 to 6 months in steps of 3.5
+>2 000 µg/l and to 7 mg/kg/day if the patient is tolerating the
+not showing a medicinal product well.
+downward trend
+The maximum allowed dose is 14 mg/kg/day
+for adult patients and 7 mg/kg/day for
+paediatric patients.
+Doses above 14 mg/kg/day are not
+recommended because there is no experience
+with doses above this level in patients with non-
+transfusion dependent thalassaemia syndromes.
+≤2 000 µg/l or <7 mg Fe/g dw Decrease dose every 3 to 6 months in steps of
+3.5 to 7 mg/kg/day down to a dose of
+7 mg/kg/day (or less) in patients treated with
+doses >7 mg/kg/day.
+<300 µg/l or <3 mg Fe/g dw Treatment should be stopped once a satisfactory
+body iron level has been achieved.
+There are no data available on the retreatment of patients who reaccumulate iron after having
+achieved a satisfactory body iron level and therefore retreatment cannot be recommended.
+*LIC is the preferred method of iron overload determination.
+In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2 000 µg/l,
+dosing of EXJADE film-coated tablets should not exceed 7 mg/kg/day.
 Special populations
-
 Elderly patients (≥65 years of age)
-The dosing recommendations for elderly patients are the same as described above.
-In clinical studies, elderly patients experienced a higher frequency of adverse reactions than younger patients (in particular, diarrhoea) and should be monitored closely for adverse reactions that may require a dose adjustment.
-
+The dosing recommendations for elderly patients are the same as described above. In clinical studies,
+elderly patients experienced a higher frequency of adverse reactions than younger patients (in
+particular, diarrhoea) and should be monitored closely for adverse reactions that may require a dose
+adjustment.
 Paediatric population
 Transfusional iron overload:
-The dosing recommendations for paediatric patients aged 2 to 17 years with transfusional iron overload are the same as for adult patients (see section 4.2).
-It is recommended that serum ferritin be monitored every month to assess the patient’s response to therapy and to minimise the risk of overchelation (see section 4.4).
-Changes in weight of paediatric patients over time must be taken into account when calculating the dose.
-
-In children with transfusional iron overload aged between 2 and 5 years, exposure is lower than in adults (see section 5.2).
-This age group may therefore require higher doses than are necessary in adults.
-However, the initial dose should be the same as in adults, followed by individual titration.
+The dosing recommendations for paediatric patients aged 2 to 17 years with transfusional iron
+overload are the same as for adult patients (see section 4.2). It is recommended that serum ferritin be
+monitored every month to assess the patient’s response to therapy and to minimise the risk of
+overchelation (see section 4.4). Changes in weight of paediatric patients over time must be taken into
+account when calculating the dose.
+In children with transfusional iron overload aged between 2 and 5 years, exposure is lower than in
+adults (see section 5.2). This age group may therefore require higher doses than are necessary in
+adults. However, the initial dose should be the same as in adults, followed by individual titration.
 
 Non-transfusion-dependent thalassaemia syndromes:
-In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing of EXJADE film-coated tablets should not exceed 7 mg/kg.
+In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing of EXJADE film-coated tablets should not exceed 7 mg/kg/day.
 In these patients, closer monitoring of LIC and serum ferritin is essential to avoid overchelation (see section 4.4).
 In addition to monthly serum ferritin assessments, LIC should be monitored every three months when serum ferritin is ≤800 µg/l.
 
 Children from birth to 23 months:
 The safety and efficacy of EXJADE in children from birth to 23 months of age have not been established.
 No data are available.
+
 Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
 
@@ -167,52 +159,51 @@ The film-coated tablets should be taken once a day, preferably at the same time 
 
 [EXJADE 90 mg granules in sachet]
 
-Doses (in mg/kg) must be calculated and rounded to the nearest whole sachet size.
+| Posology |  |  |  |
+| --- | --- | --- | --- |
+| Transfusional iron overload and non-transfusion-dependent thalassaemia syndromes require different |  |  |  |
+| posologies. All physicians who intend to prescribe EXJADE must ensure they have received and are |  |  |  |
+| familiar with the physician educational material (Guide for healthcare professionals which also |  |  |  |
+| includes a prescriber checklist). |  |  |  |
+| Transfusional iron overload |  |  |  |
+| Doses (in mg/kg body weight) must be calculated and rounded to the nearest whole sachet size. |  |  |  |
+| Caution should be taken during chelation therapy to minimise the risk of overchelation in all patients |  |  |  |
+| (see section 4.4). |  |  |  |
+| Due to different pharmacokinetic profiles, a 30% lower dose of EXJADE granules is needed in |  |  |  |
+| comparison to the recommended dose of EXJADE dispersible tablets (see section 5.1). |  |  |  |
+| Starting dose |  |  |  |
+| It is recommended that treatment be started after the transfusion of approximately 20 units (about |  |  |  |
+| 100 ml/kg) of packed red blood cells (PRBC) or when there is evidence from clinical monitoring that |  |  |  |
+| chronic iron overload is present (e.g. serum ferritin >1 000 µg/l) (see Table 1). |  |  |  |
+| Table 1 Recommended starting doses for transfusional iron overload |  |  |  |
+| Recommended starting dose |  |  |  |
+| Serum ferritin |  | Patient population | Recommended starting dose |
+| >1 000 µg/l | or | Patients who have already received approximately 20 units (about 100 ml/kg) of PRBC. | 14 mg/kg/day |
+| Alternative starting doses |  |  |  |
+| Patient population |  |  | Alternative starting dose |
+| Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient’s response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained. |  |  | 7 mg/kg/day |
+| Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx. >4 units/month for an adult). |  |  | 21 mg/kg/day |
+| Patients who are well managed on deferoxamine. |  |  | One third of deferoxamine dose* |
+| *A starting dose that is numerically one third that of the deferoxamine dose (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week [or equivalent] could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE granules). When this results in a daily dose of <14 mg/kg, the patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1). |  |  |  |
+| Dose adjustment |  |  |  |
+| It is recommended that serum ferritin be monitored every month and that the dose of EXJADE |  |  |  |
+| granules be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin (see |  |  |  |
+| Table 2). Dose adjustments may be made in steps of 3.5 to 7 mg/kg/day and are to be tailored to the |  |  |  |
+| individual patient’s response and therapeutic goals (maintenance or reduction of iron burden). |  |  |  |
 
-Due to different pharmacokinetic profiles, a 30% lower dose of EXJADE granules is needed in comparison to the recommended dose of EXJADE dispersible tablets (see section 5.1).
-
-Granules Transfusions Serum
-
-Alternative 21 mg/kg/day >14 ml/kg/month of PRBC
-starting doses (approx. >4 units/month for
-
-an adult)
-
-7 mg/kg/day <7 ml/kg/month of PRBC
-
-(approx. <2 units/month for an adult)
-
-Adjustment Increase >2,500 µg/l
-(every Up to 28 mg/kg/day
-3-6 months) Decrease
-
-The recommended initial daily dose of EXJADE granules is 14 mg/kg body weight.
-
-An initial daily dose of 21 mg/kg of EXJADE granules may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult).
-
-An initial daily dose of 7 mg/kg of EXJADE granules may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).
-
-For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE granules that is numerically one third that of the deferoxamine dose could be considered (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE granules).
-
-It is recommended that serum ferritin be monitored every month and that the dose of EXJADE granules be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin.
-If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg (granule dose equivalent of 30 mg/kg of dispersible tablets), a further increase (to a maximum of 28 mg/kg) may not achieve satisfactory control, and alternative treatment options may be considered.
-
-Granules Liver iron Serum
-concentration ferritin
-Adjustment steps Increase ≥7 mg Fe/g dw or >2,000 µg/l
-Decrease <7 mg Fe/g dw or ≤2,000 µg/l
-3.5 - 7 mg/kg/day
-Maximum dose 14 mg/kg/day
-For adult patients
-For paediatric patients
-
-The recommended initial daily dose of EXJADE granules in patients with non-transfusion-dependent thalassaemia syndromes is 7 mg/kg body weight.
-
-Doses of EXJADE granules above 14 mg/kg are not recommended because there is no experience with doses above this level in patients with non-transfusion-dependent thalassaemia syndromes.
-
-In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2,000 µg/l, dosing of EXJADE granules should not exceed 7 mg/kg.
-
-In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing of EXJADE granules should not exceed 7 mg/kg.
+dispersible tablets used at doses above 30 mg/kg (equivalent to 21 mg/kg when given as granules) is
+currently limited (264 patients followed for an average of 1 year after dose escalation). Doses above
+28 mg/kg/day are not recommended because there is only limited experience with doses above this
+level (see section 5.1).
+Due to different pharmacokinetic profiles, a 30% lower dose of EXJADE granules is needed in
+comparison to the recommended dose of EXJADE dispersible tablets (see section 5.1).
+The recommended initial daily dose of EXJADE granules in patients with non-transfusion-dependent
+thalassaemia syndromes is 7 mg/kg body weight/day.
+dosing of EXJADE granules should not exceed 7 mg/kg/day.
+In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing of EXJADE
+granules should not exceed 7 mg/kg/day. In these patients, closer monitoring of LIC and serum ferritin
+is essential to avoid overchelation (see section 4.4). In addition to monthly serum ferritin assessments,
+LIC should be monitored every three months when serum ferritin is ≤800 µg/l.
 
 The granules should be administered by sprinkling the full dose onto soft food, e.g. yogurt or apple sauce (pureed apple).
 

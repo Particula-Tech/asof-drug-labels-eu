@@ -54,6 +54,7 @@ In the primary analysis performed in ICT-naïve patients after 24 weeks of treat
 Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (-171.52 μg/l [95% CI: -517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules – DT] 176.36 μg/l [95% CI: -129.00, 481.72], two sided p-value = 0.25).
 The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks).
 The safety profile was overall comparable between the granules and the dispersible tablet formulations.
+
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with deferasirox dispersible tablets was assessed in a 1-year, randomised, double-blind, placebo-controlled study.
 The study compared the efficacy of two different deferasirox dispersible tablet regimens (starting doses of 5 and 10 mg/kg/day, 55 patients in each arm) and of matching placebo (56 patients).
 The study enrolled 145 adult and 21 paediatric patients.
@@ -62,6 +63,9 @@ One of the secondary efficacy parameters was the change in serum ferritin betwee
 At a starting dose of 10 mg/kg/day, deferasirox dispersible tablets led to reductions in indicators of total body iron.
 On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p<0.001).
 On average, serum ferritin decreased by 222.0 µg/l in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p<0.001).
+
+In a 5-year observational study involving 45 paediatric patients aged 10 to <18 years with non-transfusion-dependent thalassaemia syndromes and iron overload treated with deferasirox, no new long-term safety concerns were identified.
+Analysis of the study data suggests that deferasirox does not affect growth or sexual development in this age group of paediatric patients, however, the results should be interpreted with caution due to the limited number of patients and data available.
 
 [EXJADE 90 mg granules in sachet]
 
