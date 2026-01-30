@@ -15,7 +15,6 @@ PI3K inhibition by alpelisib treatment has been shown to induce an increase in o
 The combination of alpelisib and fulvestrant demonstrated increased anti-tumour activity compared to either treatment alone in xenograft models derived from ER-positive, PIK3CA mutated breast cancer cell lines.
 
 The PI3K/AKT signalling pathway is responsible for glucose homeostasis, and hyperglycaemia is an expected on-target adverse reaction of PI3K inhibition.
-
 Clinical efficacy and safety
 
 Piqray was evaluated in a pivotal phase III, randomised, double-blind, placebo-controlled study of alpelisib in combination with fulvestrant in postmenopausal women, and men, with HR+, HER2-advanced (locoregionally recurrent or metastatic) breast cancer whose disease had progressed or recurred on or after an aromatase-inhibitor-based treatment (with or without CDK4/6 combination).
@@ -23,6 +22,7 @@ Piqray was evaluated in a pivotal phase III, randomised, double-blind, placebo-c
 A total of 572 patients were enrolled into two cohorts, one cohort with PIK3CA mutation and one cohort without PIK3CA mutation breast cancer.
 Patients were randomised to receive either alpelisib 300 mg plus fulvestrant or placebo plus fulvestrant in a 1:1 ratio.
 Randomisation was stratified by presence of lung and/or liver metastasis and previous treatment with CDK4/6 inhibitor(s).
+
 In the cohort with PIK3CA mutation, 169 patients with one or more PIK3CA mutations (C420R, E542K, E545A, E545D [1635G>T only], E545G, E545K, Q546E, Q546R, H1047L, H1047R or H1047Y) were randomised to receive alpelisib in combination with fulvestrant and 172 patients were randomised to receive placebo in combination with fulvestrant.
 In this cohort 170 (49.9%) patients had liver/lung metastases and 20 (5.9%) patients had received prior CDK4/6 inhibitor treatment.
 

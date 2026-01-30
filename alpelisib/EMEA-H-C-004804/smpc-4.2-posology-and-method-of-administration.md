@@ -57,6 +57,7 @@ Table 2 Dose modification and management for hyperglycaemia
 
 Baseline diabetic and pre-diabetic status, baseline BMI ≥30 and baseline age ≥75 years have been found to be risk factors for hyperglycaemia in patients treated with alpelisib.
 These risk factors were present in 74.9% of patients with any grade of hyperglycaemia and in 84.7% of patients with grade 3 or 4 hyperglycaemia (see section 4.4).
+
 Rash
 Oral antihistamine administration may be considered prophylactically, at the time of initiation of treatment with Piqray.
 Additionally, antihistamines are recommended to manage symptoms of rash.

@@ -15,20 +15,20 @@ In the presence of a low-fat low-calorie (LFLC) meal, AUCinf was decreased on av
 In the absence of food, the effect was more pronounced with a 30% decrease in AUCinf and a 51% decrease in Cmax with ranitidine compared to the fasted state without co-administration of ranitidine.
 Population pharmacokinetic analysis showed no significant effect of co-administration of acid-reducing agents, including proton pump inhibitors, H2 receptor antagonists and antacids, on the pharmacokinetics of alpelisib.
 Therefore, alpelisib can be co-administered with acid-reducing agents, provided alpelisib is taken immediately after food (see section 4.2).
+
 CYP3A4 inducers
 Once-daily administration of 600 mg rifampin (a strong CYP3A4 inducer) for 7 days followed by co-administration with a single 300 mg oral dose of alpelisib on day 8, decreased alpelisib Cmax by 38% and AUC by 57% in healthy adults (N=25).
 Co-administration of rifampin 600 mg once daily for 15 days with alpelisib 300 mg once daily starting from day 8 to day 15 decreased the steady-state alpelisib Cmax by 59% and AUC by 74%.
 
 Co-administration with a strong CYP3A4 inducer decreases alpelisib AUC, which may reduce alpelisib efficacy.
 Co-administration of alpelisib with strong CYP3A4 inducers (e.g. apalutamide, carbamazepine, enzalutamide, mitotane, phenytoin, rifampin, St. John’s wort) should be avoided and selection of an alternative concomitant medicinal product, with no or minimal potential to induce CYP3A4, should be considered.
-
 Medicinal products whose plasma concentrations may be altered by alpelisib
 
 CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 substrates
 No dose adjustment is required when co-administering alpelisib with CYP3A4 substrates (e.g. everolimus, midazolam), CYP2C8 substrates (e.g. repaglinide), CYP2C9 substrates (e.g. warfarin), CYP2C19 substrates (e.g. omeprazole).
 For CYP2B6 substrate, no relevant changes in the exposure were observed when co-administered with alpelisib however the results should be considered with caution due to limited data (see section 5.2).
 
-In a drug-drug interaction study, co-administration of alpelisib with everolimus, a sensitive CYP3A4 substrate, confirmed that there are no clinically significant pharmacokinetic interactions (increase in AUC by 11.2%) between alpelisib and CYP3A4 substrates.
+In a drug-drug interaction study, co-administration of alpelisib with everolimus, a sensitive CYP3A4 substrate, confirmed that there are no clinically significant pharmacokinetic interactions (decrease in AUC by 11.2%) between alpelisib and CYP3A4 substrates.
 No change in everolimus exposure was observed at alpelisib doses ranging from 250 to 300 mg.
 
 In healthy subjects, co-administration of a CYP2C9 substrate (S-warfarin) with alpelisib increased S-warfarin exposure on average by 34% and 19% for AUCinf and Cmax respectively, compared to administration with S-warfarin alone, which indicates that alpelisib is a mild inhibitor of CYP2C9.

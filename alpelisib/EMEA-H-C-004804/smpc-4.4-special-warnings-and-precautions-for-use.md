@@ -25,11 +25,11 @@ A consultation with a dermatologist is recommended.
 If a severe cutaneous reaction is confirmed, Piqray should be permanently discontinued.
 It should not be re-introduced in patients who have experienced previous severe cutaneous reactions.
 If a severe cutaneous reaction is not confirmed, Piqray may require treatment interruption, dose reduction or treatment discontinuation as described in Table 3 (see section 4.2).
+
 Hyperglycaemia
 
 Severe hyperglycaemia, in some cases associated with hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS) or ketoacidosis, has been observed in patients treated with Piqray.
 Some cases of ketoacidosis with fatal outcome have been reported in the post-marketing setting.
-
 In the phase III clinical study, hyperglycaemia occurred more frequently in patients who were diabetic (0 out of 12 patients [0%] with grade 1-2, and 10 out of 12 patients [83.3%] with grade 3-4), pre-diabetic (43 out of 159 patients [27.0%] with grade 1-2, and 77 out of 159 patients [48.4%] with grade 3-4), had BMI ≥30 at screening (14 out of 74 patients [18.9%] with grade 1-2, and 38 out of 74 patients [51.4%] with grade 3-4) or ≥75 years of age (6 out of 34 patients [17.6%] with grade 1-2, and 19 out of 34 patients [55.9%] with grade 3-4).
 
 As hyperglycaemia may occur with a rapid onset after starting treatment, it is recommended to self-monitor frequently in the first 4 weeks and especially within the first 2 weeks of treatment, as clinically indicated.
@@ -52,8 +52,8 @@ Table 6 Schedule of fasting glucose monitoring
 | * All glucose monitoring should be performed at the physician’s discretion as clinically indicated. |  |  |
 
 Patients should be advised of the signs and symptoms of hyperglycaemia (e.g. excessive thirst, urinating more often than usual or greater amount of urine than usual, increased appetite with weight loss).
-In the 191 patients with hyperglycaemia, 86.9% (166/191) were managed with antidiabetic medication, and 75.9% (145/191) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
 
+In the 191 patients with hyperglycaemia, 86.9% (166/191) were managed with antidiabetic medication, and 75.9% (145/191) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
 Oral antidiabetic medication was used in 154 patients.
 Out of these 154 patients, 17 (11.0%) discontinued study treatment due to hyperglycaemia.
 Concomitant insulin medication was used in 56 patients; of these 13 (23.2%) discontinued study treatment due to hyperglycaemia.
@@ -92,6 +92,7 @@ Based on the severity of the diarrhoea or colitis, Piqray may require dose inter
 
 Patients should be advised to start antidiarrhoeal treatment, increase oral fluids and notify their physician if diarrhoea or other symptoms of colitis occur while taking Piqray.
 In case of colitis, additional treatment, such as steroids, may be considered as clinically indicated.
+
 Osteonecrosis of the jaw
 
 Caution should be exercised when Piqray and bisphosphonates or RANK-ligand inhibitors (e.g. denosumab) are used either simultaneously or sequentially.

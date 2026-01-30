@@ -5,6 +5,7 @@ Summary of the safety profile
 The safety profile is based on data from 284 patients in the Piqray plus fulvestrant arm of the double-blind, placebo-controlled phase III study.
 
 The most common ADRs (reported at a frequency >20% in the combined mutant and non-mutant study population) were plasma glucose increased (79.2%), creatinine increased (68.0%), diarrhoea (59.9%), lymphocyte count decreased (55.6%), gamma-glutamyltransferase increased (54.2%), rash (52.1%), nausea (46.8%), anaemia (45.4%), alanine aminotransferase increased (45.1%), fatigue (44.0%), lipase increased (43.3%), decreased appetite (37.0%), stomatitis (30.6%), vomiting (29.6%), weight decreased (28.2%), hypocalcaemia (27.8%), plasma glucose decreased (27.5%), activated partial thromboplastin time (aPTT) prolonged (23.9%) and alopecia (20.4%).
+
 The most common grade 3 or 4 ADRs (reported at a frequency ≥2%) were plasma glucose increased (39.4%), rash (19.4%), gamma-glutamyltransferase increased (12.3%), lymphocyte count decreased (9.9%), diarrhoea (7.4%), lipase increased (7.0%), hypokalaemia (6.7%), weight decreased (6.0%), fatigue (5.6%), anaemia (5.3%), hypertension (5.3%), alanine aminotransferase increased (4.6%), creatinine increased (3.2%), nausea (2.8%), osteonecrosis of jaw (2.8%), stomatitis (2.5%), hypocalcaemia (2.1%), acute kidney injury (2.1%) and mucosal inflammation (2.1%).
 
 The most common ADRs leading to treatment discontinuation were hyperglycaemia (6.3%), rash (4.2%), diarrhoea (2.8%) and fatigue (2.5%).
@@ -15,7 +16,6 @@ ADRs from the phase III clinical study and post-marketing experience (Table 7) a
 Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, ADRs are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000); not known (cannot be estimated from the available data).
-
 Table 7 ADRs observed in phase III clinical study and during post-marketing experience
 
 | Adverse drug reaction | Any grade (%) |  | Grade 3 or 4 (%) |
@@ -90,9 +90,6 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Pyrexia | Very common | 48 (16.9) | 2 (0.7) |
 | Mucosal dryness12 | Very common | 37 (13.0) | 1 (0.4) |
 | Oedema13 | Common | 20 (7.0) |  |
-
-| Adverse drug reaction | Any grade (%) |  | Grade 3 or 4 (%) |
-| --- | --- | --- | --- |
 | Investigations |  |  |  |
 | Weight decreased | Very common | 80 (28.2) | 17 (6.0)* |
 | Blood creatinine increased | Very common | 193 (68.0) | 9 (3.2) |
@@ -117,6 +114,7 @@ In patients with grade ≥2 hyperglycaemia, median time to improvement (at least
 In 93.4% of patients who continued on fulvestrant after discontinuing Piqray, FPG levels returned to baseline (normal).
 
 Hyperglycaemia was managed with antidiabetic medicinal products, see section 4.4.
+
 Rash
 Rash events (including rash maculopapular, macular, generalised, papular and pruritic, dermatitis and dermatitis acneiform) were reported in 154 (54.2%) patients.
 Rash was predominantly mild or moderate (grade 1 or 2) and responsive to therapy, and in some cases rash was accompanied by pruritus and dry skin.
@@ -137,7 +135,6 @@ Osteonecrosis of the jaw (ONJ)
 ONJ was reported in 6.0% patients (17/284) in the Piqray plus fulvestrant arm.
 All patients experiencing ONJ were exposed to prior or concomitant bisphosphonates (e.g. zoledronic acid) or RANK-ligand inhibitors (e.g. denosumab).
 Therefore, in patients receiving Piqray and bisphosphonates or RANK-ligand inhibitors, an increased risk of development of ONJ cannot be excluded.
-
 Special populations
 
 Elderly
