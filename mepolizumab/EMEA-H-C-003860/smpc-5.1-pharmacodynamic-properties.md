@@ -1,12 +1,14 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic drugs for obstructive airway diseases, ATC code: R03DX09.
-
 Mechanism of action
 
-Mepolizumab is a humanised monoclonal antibody (IgG1, kappa), which targets human interleukin-5 (IL-5) with high affinity and specificity.
+Mepolizumab is an IL-5 antagonist (IgG1 kappa) that binds to IL-5, inhibiting its bioactivity with nanomolar potency by blocking its binding to the IL-5R alpha complex on the cell surface.
 IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation and survival of eosinophils.
-Mepolizumab inhibits the bioactivity of IL-5 with nanomolar potency by blocking the binding of IL-5 to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface, thereby inhibiting IL-5 signalling and reducing the production and survival of eosinophils.
+In patients where their disease is driven by type 2 inflammation, IL-5 is an important component of the processes driving the pathogenesis of asthma, CRSwNP, COPD, EGPA and HES.
+Additional structural and inflammatory cell types also express the IL-5R alpha e.g., epithelial cells, mast cells, plasma cells, basophils, ILC-2 cells, T cells, smooth muscle cells, neutrophils and fibroblasts.
+In severe asthma and CRSwNP, inhibition of IL-5 has been associated with an improvement in aspects of airway remodelling.
+However, the mechanism of action in these cells and across the different diseases has not been definitively established.
 
 Pharmacodynamic effects
 
@@ -22,11 +24,15 @@ CRSwNP
 In patients with CRSwNP, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 390 (n=206) to 60 cells/µL (n=126), which corresponds to a geometric mean reduction of 83% compared to placebo.
 This magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period of 52 weeks.
 
+COPD
+
+In patients with COPD, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 (and up to 104) weeks, blood eosinophils were reduced from a geometric mean count at baseline of 480 cells/µL (n=403) to 60 cells/µL at week 52 (n=257) and week 104 (n=61), which corresponds to a geometric mean reduction of 79% at week 52 and 80% at week 104 compared to placebo.
+This magnitude of reduction was observed within 4 weeks of treatment.
+
 EGPA
 
 In patients with EGPA, following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 177 (n=68) to 38 cells/µL (n=64) at week 52.
 There was a geometric mean reduction of 83% compared to placebo and this magnitude of reduction was observed within 4 weeks of treatment.
-
 HES
 
 In patients with HES (adults/adolescents), following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 32 weeks, blood eosinophil reduction was observed within 2 weeks of treatment.
@@ -35,14 +41,15 @@ This magnitude of reduction was maintained for a further 20 weeks in patients th
 
 Immunogenicity
 
-Severe eosinophilic asthma, CRSwNP, EGPA and HES
+Severe eosinophilic asthma, CRSwNP, COPD, EGPA and HES
 
 Consistent with the potentially immunogenic properties of protein and peptide therapeutics, patients may develop antibodies to mepolizumab following treatment.
-In the placebo-controlled trials, 15/260 (6%) of adults and adolescents with severe refractory eosinophilic asthma treated with 100 mg dose, 6/196 (3%) of adults with CRSwNP treated with 100 mg dose, 1/68 (<2%) of adults with EGPA treated with 300 mg dose and 1/53 (2%) of adults and adolescents with HES treated with 300 mg dose of mepolizumab subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
+In the placebo-controlled trials, 15/260 (6%) of adults and adolescents with severe refractory eosinophilic asthma treated with 100 mg dose, 6/196 (3%) of adults with CRSwNP treated with 100 mg dose, 9/381 (2%) of adults with COPD treated with 100 mg dose, 1/68 (<2%) of adults with EGPA treated with 300 mg dose and 1/53 (2%) of adults and adolescents with HES treated with 300 mg dose of mepolizumab subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
 The immunogenicity profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) or in HES patients (n=102) treated for 20 weeks in open-label extension studies was similar to that observed in the placebo-controlled studies.
+The immunogenicity data were collected in patients with CRSwNP for 68 weeks (n=68), in patients with COPD for 104 weeks (n=127) and in patients with EGPA for 60 weeks (n=65).
 In children aged 6 to 11 years old with severe refractory eosinophilic asthma following either 40 mg subcutaneously (for a weight < 40kg) or 100 mg subcutaneously (for a weight ≥ 40 kg), 2/35 (6%) had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab during the initial short phase of the study.
 No children had detectable anti-mepolizumab antibodies during the long-term phase of the study.
-Neutralising antibodies were detected in one adult patient with severe refractory eosinophilic asthma and in no patients with CRSwNP, EGPA or HES.
+Neutralising antibodies were detected in one adult patient with severe refractory eosinophilic asthma and in no patients with CRSwNP, COPD, EGPA or HES.
 Anti-mepolizumab antibodies did not discernibly impact the pharmacokinetics and pharmacodynamics of mepolizumab in the majority of patients and there was no evidence of a correlation between antibody titres and change in blood eosinophil level.
 
 Clinical efficacy
@@ -64,6 +71,7 @@ For the oral corticosteroid-sparing study MEA115575, a total of 135 patients wer
 Dose-ranging efficacy MEA112997 (DREAM) study
 
 In MEA112997, a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study of 52 weeks duration in 616 patients with severe refractory eosinophilic asthma, mepolizumab significantly reduced clinically significant asthma exacerbations (defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalisation and/or emergency department visits) when administered in doses of 75 mg, 250 mg or 750 mg intravenously compared to placebo (see Table 1).
+
 Table 1: Frequency of clinically significant exacerbations at week 52 in the intent to treat population
 
 |  | Intravenous mepolizumab |  |  | Placebo |
@@ -166,7 +174,9 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 |  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | Primary endpoint |  |  |
 | Percent reduction in OCS from baseline (weeks 20-24) |  |  |
-| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7(11%) 5 (8%) 10 (15%) 7 (11%) 37 (56%) |
+| 90% - 100% 75% - <90% 50% - <75% | 16 (23%) 12 (17%) 9 (13%) | 7(11%) 5 (8%) 10 (15%) |
+|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
+| >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 7 (10%) 25 (36%) | 7 (11%) 37 (56%) |
 | Odds ratio (95% CI) | 2.39 (1.25, 4.56) |  |
 | p-value | 0.008 |  |
 | Secondary endpoints (weeks 20-24) |  |  |
@@ -195,10 +205,10 @@ The geometric mean eosinophil count was 390 cells/mcL (95% CI: 360, 420).
 In addition, 27% of patients had aspirin-exacerbated respiratory disease (AERD) and 48% of patients had at least 1 course of OCS for CRSwNP in the past 12 months.
 
 Patients received a 100 mg dose of mepolizumab or placebo, administered subcutaneously once every 4 weeks in addition to background intranasal corticosteroid therapy.
-
 The co-primary endpoints were change from baseline in total endoscopic NP score at week 52 and change from baseline in mean nasal obstruction VAS score during weeks 49-52.
 The key secondary endpoint was the time to first NP surgery up to Week 52 (surgery was defined as any procedure involving instruments resulting in incision and removal of tissue [e.g. polypectomy] in the nasal cavity).
 Patients who received mepolizumab had significantly greater improvements (decreases) in total endoscopic NP score at Week 52 and in nasal obstruction VAS score during weeks 49-52 compared to placebo, and all secondary endpoints were statistically significant in favour of mepolizumab (see Table 5 and Figure 1).
+
 Table 5: Summary of results for primary and secondary endpoints (intent to treat population)
 
 |  | Placebo (N=201) | Mepolizumab 100 mg SC (N=206) |
@@ -219,9 +229,7 @@ Table 5: Summary of results for primary and secondary endpoints (intent to treat
 | Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥2.5-point improvement (%)f | 9.20 (7.21, 10.00) -0.90 40 | 9.12 (7.17, 10.00) -4.48 <0.001 -3.18 (-4.10, -2.26) 64 |
 | SNOT-22 total score at week 52 a, g |  |  |
 | n Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥28-point improvement (%)f | 198 64.0 (19, 110) -14.0 32 | 205 64.0 (17, 105) -30.0 <0.001 -16.49 (-23.57, -9.42) 54 |
-
 | Patients requiring systemic corticosteroids for nasal polyps up to Week 52 |  |  |
-| --- | --- | --- |
 | Number of patients with ≥1 course Odds Ratio to Placebo (95% CI)h p-valueh | 74 (37) | 52 (25) 0.58 (0.36, 0.92) 0.020 |
 | Composite VAS score - nasal symptoms (Weeks 49-52) a, i |  |  |
 | Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI)c ≥2-point improvement (%)f | 9.18 (6.03, 10.00) -0.89 40 | 9.11 (4.91, 10.00) -3.96 <0.001 -2.68 (-3.44, -1.91) 66 |
@@ -260,6 +268,79 @@ CRSwNP patients with co-morbid asthma
 In 289 (71%) patients with co-morbid asthma, pre-specified analyses showed improvements in the co-primary endpoints consistent with those seen in the overall population in the patients who received mepolizumab 100 mg compared with placebo.
 Additionally in these patients, there was a greater improvement from baseline at Week 52 in asthma control as measured by the Asthma Control Questionnaire (ACQ-5) for mepolizumab 100 mg compared with placebo (median change [Q1, Q3] of -0.80 [-2.20, 0.00] and 0.00 [-1.10, 0.20], respectively).
 
+Chronic obstructive pulmonary disease (COPD)
+
+Study 208657 (MATINEE)
+
+The efficacy of mepolizumab (100 mg SC every 4 weeks) added to standard of care was evaluated in 804 adult patients aged 40 years and older with COPD with an eosinophilic phenotype in a 52-104 week randomised, placebo-controlled, multicentre study (208657, MATINEE).
+Patients were required to have a blood eosinophil count (BEC) of ≥300 cells/mcL at screening and a BEC of ≥150 cells/mcL within the previous 12 months.
+All patients were on inhaled triple therapy (ICS, long-acting beta agonist, and long-acting anti-muscarinic) for the duration of the study.
+Enrolled patients had moderate to very severe airflow limitation (post-bronchodilator FEV1 of 20-80% predicted), no prior or concurrent history of asthma, and a history of exacerbations (at least 1 severe exacerbation requiring hospitalisation, or 2 moderate exacerbations requiring treatment with systemic corticosteroids with or without antibiotics) in the previous 12 months despite regular use of inhaled corticosteroids plus 2 additional maintenance therapies for at least 3 months prior to screening.
+
+The primary objective of the study was to evaluate the efficacy of mepolizumab on the annualised rate of moderate (defined as worsening of COPD symptoms requiring treatment with oral/systemic corticosteroids and/or antibiotics) or severe exacerbations (defined as requiring hospitalisation or resulting in death).
+Symptoms and health-related quality of life were assessed using a COPD Assessment Test (CAT) responder analysis (defined as a reduction in score of 2 or more from baseline); a responder analysis on the St. George’s Respiratory Questionnaire (SGRQ) (defined as a reduction in score of 4 or more from baseline); and Evaluating Respiratory Symptoms in Chronic Obstructive Pulmonary Disease (E-RS: COPD) responder analysis (defined as a reduction in score of 2 or more from baseline).
+
+The demographics and baseline characteristics of the patients are provided in Table 6.
+
+Table 6: Demographics and baseline characteristics in MATINEE (mITT population)
+
+|  | (N=804) |
+| --- | --- |
+| Age (y) of patients, mean (SD) | 66 (8.0) |
+| Female, n (%) | 253 (31) |
+| White, n (%) | 673 (84) |
+| Current smokers, n (%) | 222 (28) |
+| Average smoking history (pack-years), mean (SD) | 43.0 (24.88) |
+| Duration of COPD (y), mean (SD) | 10.0 (6.28) |
+| mMRC score ≥2 (range 0-4), n (%) | 611 (76) |
+| Emphysema onlya, n (%) | 252 (31) |
+| Chronic bronchitis onlya, n (%) | 338 (42) |
+| Emphysema and chronic bronchitisa, n (%) | 143 (18) |
+| Moderate airflow limitation: ≥50% to <80% predicted FEV1, n (%) | 349 (43) |
+| Severe airflow limitation: ≥30% to <50% predicted FEV1, n (%) | 340 (42) |
+| Very severe airflow limitation: <30% predicted FEV1, n (%) | 110 (14) |
+| Post-bronchodilator % predicted FEV1, mean (SD) | 48.2 (15.77) |
+| Post-bronchodilator FEV1/FVC ratio, mean (SD) | 0.49 (0.124) |
+| Number of moderate or severe exacerbations in previous year, mean (SD) | 2.3 (0.94) |
+| One or more severe exacerbation in previous year, n (%) | 165 (21) |
+| CAT score, mean (SD) | 19.2 (6.85) |
+| SGRQ score, mean (SD) | 54.6 (17.80) |
+| E-RS: COPD score, mean (SD) | 13.05 (6.790) |
+| Geometric mean eosinophil count at screening, cells/mcL (95% CI) | 480 (470, 490) |
+
+mITT = modified Intent-to-Treat, SD = standard deviation, mMRC = modified Medical Research Council, FEV1 = forced expiratory volume in 1 second, FVC = forced vital capacity, CAT = COPD Assessment Test, SGRQ = St. George’s Respiratory Questionnaire, E-RS: COPD = Evaluating Respiratory Symptoms in COPD a COPD type based on Investigator assessment.
+544 (68%) patients reported symptoms of chronic bronchitis based on SGRQ.
+
+Exacerbations
+
+In patients who received mepolizumab 100 mg there was a statistically significant reduction in the annualised rate of moderate/severe exacerbations and lower risk of moderate/severe exacerbations compared with placebo, in addition there was a reduction in the annualised rate of severe exacerbations (see Table 7).
+Table 7: COPD exacerbation endpoints in MATINEE (mITT population)
+
+|  | Mepolizumab 100 mg SC N=403 | Placebo N=401 |
+| --- | --- | --- |
+| Rate of moderatea or severeb exacerbations |  |  |
+| Exacerbation rate per year | 0.80 | 1.01 |
+| Percent rate reduction Rate ratio vs. placebo (95% CI) | 21% 0.79 (0.66, 0.94) |  |
+| p-value | 0.011 |  |
+| Time to first moderatea or severeb exacerbation |  |  |
+| Median time to first exacerbationc (days) | 419 | 321 |
+| Percent risk reduction Hazard ratio vs. placebo (95% CI) | 23% 0.77 (0.64, 0.93) |  |
+| p-value | 0.009 |  |
+| Rate of severeb exacerbationsd |  |  |
+| Exacerbation rate per year | 0.10 | 0.15 |
+| Percent rate reduction Rate ratio vs. placebo (95% CI) | 34% 0.66 (0.43, 1.01) |  |
+
+a Moderate exacerbations defined as worsening of COPD symptoms requiring treatment with oral/systemic corticosteroids and/or antibiotics b Severe exacerbations defined as requiring hospitalisation or resulting in death c Kaplan Meier estimate d Component of the primary endpoint, analysis not adjusted for multiplicity
+
+Lung function
+
+No direct effect on lung function (pre-bronchodilator FEV1) in patients who received mepolizumab 100 mg SC in comparison to placebo was observed at 52 weeks, with a mean change from baseline of 30.2 mL for mepolizumab and 35.6 mL for placebo (difference -5.4 mL; 95% CI: -56.2, 45.4).
+
+Health-related quality of life assessments
+
+The results of symptoms and health-related quality of life endpoints (CAT, SGRQ and E-RS: COPD) were not statistically significant.
+The percentage of SGRQ responders (defined as a reduction in score of 4 or more from baseline) at Week 52 was 50% for mepolizumab 100 mg compared with 46% for placebo (Odds Ratio 1.17; 95% CI: 0.87, 1.57).
+
 Eosinophilic granulomatosis with polyangiitis (EGPA)
 
 MEA115921 was a randomised, double-blind, placebo-controlled, 52-week study which evaluated 136 adult patients with EGPA, who had a history of relapsing or refractory disease, and who were on stable oral corticosteroid therapy (OCS; ≥7.5 to ≤50 mg/day prednisolone/prednisone), with or without stable immunosuppressant therapy (excluding cyclophosphamide).
@@ -275,14 +356,14 @@ The co- primary endpoints were the total accrued duration of remission, defined 
 BVAS=0 represents no active vasculitis.
 
 Compared with placebo, patients receiving mepolizumab 300 mg achieved a significantly greater accrued time in remission.
-Additionally, compared to placebo, a significantly higher proportion of patients receiving mepolizumab 300 mg achieved remission at both Week 36 and Week 48 (Table 6).
+Additionally, compared to placebo, a significantly higher proportion of patients receiving mepolizumab 300 mg achieved remission at both Week 36 and Week 48 (Table 8).
 
 For both co-primary endpoints, compared with placebo, the beneficial effect observed following mepolizumab 300 mg treatment was present irrespective of if patients were receiving immunosuppressant therapy in addition to background corticosteroids.
 
 Using the secondary endpoint remission definition of BVAS=0 plus prednisolone/prednisone
 ≤7.5 mg/day, patients receiving mepolizumab 300 mg also achieved significantly greater accrued time in remission (p<0.001), and a higher proportion of patients were in remission at both Week 36 and Week 48 (p<0.001), compared to placebo.
 
-Table 6: Analyses of Co-Primary Endpoints
+Table 8: Analyses of Co-Primary Endpoints
 
 |  | Number (%) of patients |  |
 | --- | --- | --- |
@@ -300,7 +381,6 @@ Relapse
 
 Compared with placebo, the time to first relapse was significantly longer for patients receiving mepolizumab 300 mg (p<0.001).
 Additionally, patients receiving mepolizumab had a 50% reduction in annualised relapse rate compared with placebo: 1.14 vs 2.27, respectively.
-
 Oral corticosteroid reduction
 
 Patients treated with mepolizumab had a significantly lower average daily OCS during Weeks 48-52 compared with patients who received placebo.
@@ -310,6 +390,7 @@ During Weeks 48 to 52, 59% and 44% of patients treated with mepolizumab achieved
 Asthma Control Questionnaire – 6 (ACQ-6)
 
 Patients treated with mepolizumab had significant improvements in mean ACQ 6 score during Weeks 49-52 compared with patients who received placebo.
+
 Hypereosinophilic syndrome (HES)
 
 Study 200622 was a randomised, double-blind, placebo-controlled, 32-week study which evaluated 108 patients ≥12 years old with HES.
@@ -320,11 +401,11 @@ Patients who were FIP1L1-PDGFRα kinase-positive were excluded from the study.
 The primary endpoint of study 200622 was the proportion of patients who experienced a HES flare during the 32-week treatment period.
 A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥2 occasions).
 The primary analysis compared patients who experienced a HES flare or withdrew from the study in the mepolizumab and placebo treatment groups.
-Over the 32-week treatment period, 50% fewer patients experienced a HES flare or withdrew from the study when treated with 300 mg mepolizumab compared with placebo; 28% versus 56% respectively (OR 0.28, 95% CI: 0.12, 0.64) (see Table 7).
+Over the 32-week treatment period, 50% fewer patients experienced a HES flare or withdrew from the study when treated with 300 mg mepolizumab compared with placebo; 28% versus 56% respectively (OR 0.28, 95% CI: 0.12, 0.64) (see Table 9).
 Secondary endpoints were time to first HES flare, proportion of patients who experienced a HES flare during Week 20 through Week 32, rate of HES flares and change from baseline in fatigue severity.
-All secondary endpoints were statistically significant and provided support for the primary endpoint (see Figure 2 and Table 8).
+All secondary endpoints were statistically significant and provided support for the primary endpoint (see Figure 2 and Table 10).
 
-Table 7: Results of primary endpoint/analysis in the Intent to Treat population (Study 200622)
+Table 9: Results of primary endpoint/analysis in the Intent to Treat population (Study 200622)
 
 |  | Mepolizumab 300 mg N= 54 | Placebo N= 54 |
 | --- | --- | --- |
@@ -336,11 +417,11 @@ Table 7: Results of primary endpoint/analysis in the Intent to Treat population 
 | CMH p-value | 0.002 |  |
 
 CMH =Cochran-Mantel-Haenszel
-
 Time to first flare
 
 Patients who received 300 mg mepolizumab had a significant increase in the time to first HES flare compared with placebo.
 The risk of first HES flare over the treatment period was 66 % lower for patients treated with mepolizumab compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67; p=0.002).
+
 Figure 2: Kaplan Meier Curve for Time to First HES Flare
 
 Placebo (N=54)
@@ -351,7 +432,7 @@ Placebo 300mg SC
 
 Time to Event (Weeks)
 
-Table 8: Results of other secondary endpoints in the Intent to Treat population (Study 200622)
+Table 10: Results of other secondary endpoints in the Intent to Treat population (Study 200622)
 
 |  | Mepolizumab 300 mg N= 54 | Placebo N= 54 |
 | --- | --- | --- |
@@ -365,12 +446,16 @@ Table 8: Results of other secondary endpoints in the Intent to Treat population 
 | Wilcoxon Rank Sum Test p-value | 0.002 |  |
 | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32b |  |  |
 | Median change in BFI item 3 | -0.66 | 0.32 |
-| Comparison (mepolizumab vs. placebo) Wilcoxon Rank Sum Test p-value | 0.036 |  |
+
+Comparison (mepolizumab vs. 0.036
+placebo) Wilcoxon Rank Sum Test
+p-value
 
 a rate ratio <1 favours mepolizumab.
 b patients with missing data included with worst observed value.
 BFI item 3 scale: 0 = no fatigue to 10 = as bad as you can imagine
 CMH =Cochran-Mantel-Haenszel
+
 Open-label extension (OLE)
 
 Study 205203 was a 20-week open-label extension of Study 200622.
@@ -398,6 +483,8 @@ All 4 adolescents that completed study 200622 continued into a 20-week open-labe
 
 [Nucala 100 mg powder for solution for injection]
 
+In patients with COPD, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 (and up to 104) weeks, blood eosinophils were reduced from a geometric mean count at baseline of 480 (n=403) to 60 cells/µL at week 52 (n=257) and week 104 (n=61), which corresponds to a geometric mean reduction of 79% at week 52 and 80% at week 104 compared to placebo.
+
 |  | ITT Population |  |
 | --- | --- | --- |
 |  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
@@ -405,7 +492,6 @@ All 4 adolescents that completed study 200622 continued into a 20-week open-labe
 | Percent reduction in OCS from baseline (weeks 20-24) |  |  |
 | 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7 (11%) 5 (8%) 10 (15%) 7 (11%) 37 (56%) |
 | Odds ratio (95% CI) | 2.39 (1.25, 4.56) |  |
-|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | p-value | 0.008 |  |
 | Secondary endpoints (weeks 20-24) |  |  |
 | Reduction in the daily OCS dose to 0 mg/d | 10 (14%) | 5 (8%) |
@@ -416,7 +502,35 @@ All 4 adolescents that completed study 200622 continued into a 20-week open-labe
 | p-value | 0.025 |  |
 | Median % reduction in daily OCS dose from baseline (95% CI) | 50.0 (20.0, 75.0) | 0.0 (-20.0, 33.3) |
 | Median difference (95% CI) | -30.0 (-66.7, 0.0) |  |
+|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | p-value | 0.007 |  |
+
+|  | Placebo (N=201) | Mepolizumab 100 mg SC (N=206) |
+| --- | --- | --- |
+| Co-primary endpoints |  |  |
+| Total endoscopic score at week 52 a |  |  |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥1-point improvement, n (%) | 6.0 (0, 8) 0.0 57 (28) | 5.0 (2, 8) -1.0 <0.001 -0.73 (-1.11, -0.34) 104 (50) |
+| ≥2-point improvement, n (%) | 26 (13) | 74 (36) |
+| Nasal obstruction VAS score (weeks 49 to 52) a |  |  |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c >1-point improvement, n (%) ≥3-point improvement, n (%)d | 9.14 (5.31, 10.00) -0.82 100 (50) 73 (36) | 9.01 (6.54, 10.00) -4.41 <0.001 -3.14 (-4.09, -2.18) 146 (71) 124 (60) |
+| Key secondary endpoint |  |  |
+| Time to first nasal polyps surgery |  |  |
+| Participants with surgery | 46 (23) | 18 (9) |
+| Hazard ratio (Mepolizumab/Placebo) (95% CI) e |  | 0.43 (0.25, 0.76) |
+| p-value e |  | 0.003 |
+| Other secondary endpoints |  |  |
+| Overall VAS score (Weeks 49-52) a |  |  |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥2.5-point improvement (%)f | 9.20 (7.21, 10.00) -0.90 40 | 9.12 (7.17, 10.00) -4.48 <0.001 -3.18 (-4.10, -2.26) 64 |
+| SNOT-22 total score at week 52 a, g |  |  |
+| n Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥28-point improvement (%)f | 198 64.0 (19, 110) -14.0 32 | 205 64.0 (17, 105) -30.0 <0.001 -16.49 (-23.57, -9.42) 54 |
+
+| Patients requiring systemic corticosteroids for nasal polyps up to Week 52 |  |  |
+| --- | --- | --- |
+| Number of patients with ≥1 course Odds Ratio to Placebo (95% CI)h p-valueh | 74 (37) | 52 (25) 0.58 (0.36, 0.92) 0.020 |
+| Composite VAS score - nasal symptoms (Weeks 49-52) a, i |  |  |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI)c ≥2-point improvement (%)f | 9.18 (6.03, 10.00) -0.89 40 | 9.11 (4.91, 10.00) -3.96 <0.001 -2.68 (-3.44, -1.91) 66 |
+| Loss of smell VAS score (Weeks 49-52) a |  |  |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥3-point improvement (%) f | 9.97 (6.69, 10.00) 0.00 19 | 9.97 (0.94, 10.00) -0.53 <0.001 -0.37 (-0.65, -0.08) 36 |
 
 a Patients with nasal surgery/sinuplasty prior to visit assigned their worst observed score prior to nasal surgery/sinuplasty.
 Those who withdrew from study with no nasal surgery/sinuplasty assigned their worst observed score prior to study withdrawal.

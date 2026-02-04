@@ -13,12 +13,12 @@ Not all pack-sizes may be marketed.
 
 Nucala 100 mg solution for injection in pre-filled syringe
 
-1 ml solution in a Type 1 glass syringe with a fixed needle (stainless steel) and passive safety needle guard.
-
+1 mL solution in a Type 1 glass syringe with a fixed needle (stainless steel) and passive safety needle guard.
 Pack sizes:
 1 pre-filled syringe
 Multipack containing 3 (3 packs of 1) pre-filled syringes
 Multipack containing 9 (9 packs of 1) pre-filled syringes
+
 Not all pack-sizes may be marketed.
 
 Nucala 40 mg solution for injection in pre-filled syringe

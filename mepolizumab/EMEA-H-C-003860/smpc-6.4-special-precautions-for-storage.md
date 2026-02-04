@@ -5,10 +5,10 @@ Do not freeze.
 Store in the original carton in order to protect from light.
 
 If necessary, the pre-filled pen and pre-filled syringe(s) can be removed from the refrigerator and kept in the unopened pack for up to 7 days at room temperature (up to 30°C), when protected from light.
-The pack should be discarded if left out of the refrigerator for more than 7 days.
+The pack must be discarded if left out of the refrigerator for more than 7 days.
 
 The pre-filled pen or pre-filled syringe(s) must be administered within 8 hours once the pack is opened.
-The pack should be discarded if not administered within 8 hours.
+The pack must be discarded if not administered within 8 hours.
 
 [Nucala 100 mg powder for solution for injection]
 

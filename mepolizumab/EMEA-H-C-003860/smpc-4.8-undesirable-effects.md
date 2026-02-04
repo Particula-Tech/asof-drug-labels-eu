@@ -9,6 +9,11 @@ In placebo-controlled studies in adult and adolescent patients with severe refra
 CRSwNP
 
 In a placebo-controlled study in patients with CRSwNP, the most commonly reported adverse reactions during treatment were headache (18%) and back pain (7%).
+
+COPD
+
+In three placebo-controlled studies in patients with COPD, the most commonly reported adverse reactions during treatment were headache (10%), back pain (7%) and arthralgia (5%).
+
 EGPA
 
 In a placebo-controlled study in patients with EGPA, the most commonly reported adverse reactions during treatment were headache (32%), injection site reactions (15%) and back pain (13%).
@@ -20,7 +25,7 @@ In a placebo-controlled study in patients with HES, the most commonly reported a
 
 Tabulated list of adverse reactions
 
-The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n=263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports.
+The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n=263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in three double-blind placebo-controlled 52- to 104-week studies in patients with COPD receiving mepolizumab 100 mg SC (n=1043), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports.
 Safety data is also available from open-label extension studies in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years).
 The safety profile of mepolizumab in HES patients (n=102) enrolled in a 20-week open label extension study was similar to the safety profile of patients in the pivotal placebo-controlled study.
 
@@ -29,7 +34,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 | System Organ Class | Adverse reactions | Frequency |
 | --- | --- | --- |
-| Infections and infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster** | Common Uncommon |
+| Infections and infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster** | Common |
 | Immune system disorders | Hypersensitivity reactions (systemic allergic)* Anaphylaxis** | Common Rare |
 | Nervous system disorders | Headache | Very common |
 | Respiratory, thoracic and mediastinal disorders | Nasal congestion | Common |
@@ -38,10 +43,11 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Musculoskeletal and connective tissue disorders | Back pain Arthralgia** | Common |
 | General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** Local injection site reactions Pyrexia | Common |
 
-* Systemic reactions including hypersensitivity have been reported at an overall incidence comparable to that of placebo in the severe eosinophilic asthma studies.
+* Systemic reactions including hypersensitivity have been reported at an overall incidence comparable to that of placebo in the severe eosinophilic asthma and COPD studies.
 For examples of the associated manifestations reported and a description of the time to onset, see section 4.4.
 **From spontaneous post marketing reporting.
-*** The most common manifestations associated with reports of systemic non-allergic administration-related reactions from patients in the severe eosinophilic asthma studies were rash, flushing and myalgia; these manifestations were reported infrequently and in <1% of patients receiving mepolizumab 100 mg subcutaneously.
+Herpes zoster was reported uncommonly in severe asthma studies.
+*** The most common manifestations associated with reports of systemic non-allergic administration-related reactions from patients in the severe eosinophilic asthma and COPD studies were rash, flushing, myalgia and fatigue; these manifestations were reported infrequently and in <1% of patients receiving mepolizumab 100 mg subcutaneously.
 
 Description of selected adverse reactions
 
@@ -49,6 +55,13 @@ Systemic reactions, including hypersensitivity reactions, in CRSwNP
 
 In the 52-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 2 patients (<1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group.
 Other systemic reactions were reported by no patients in the group receiving mepolizumab 100 mg and in 1 patient (<1%) in the placebo group.
+Systemic reactions, including hypersensitivity reactions, in COPD
+
+In the 52- to 104-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 1 patient (<1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group.
+Other systemic reactions were reported by 4 patients (<1%) in the group receiving mepolizumab 100 mg and in 4 patients (<1%) in the placebo group.
+
+In the two 52-week placebo-controlled studies, systemic allergic/hypersensitivity reactions were reported in 4 patients (<1%) in the groups receiving mepolizumab 100 mg and in 3 patients (<1%) in the placebo groups.
+Systemic non-allergic reactions were reported by 7 patients (1%) in the groups receiving mepolizumab 100 mg and in 10 patients (2%) in the placebo groups.
 
 Systemic reactions, including hypersensitivity reactions, in EGPA
 
@@ -73,7 +86,13 @@ CRSwNP
 
 In the placebo-controlled study, local injection site reactions (e.g., erythema, pruritus) occurred in 2% of patients receiving mepolizumab 100 mg compared with <1% in patients receiving placebo.
 
+COPD
+
+In the placebo-controlled studies, local injection site reactions occurred in 2% of patients receiving mepolizumab 100 mg compared with 2% in patients receiving placebo.
+The most common manifestations reported were pain, swelling, itching and erythema.
+
 EGPA
+
 In the placebo-controlled study, local injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 15% in patients receiving mepolizumab 300 mg compared with 13% in patients receiving placebo.
 HES
 
@@ -87,6 +106,9 @@ Thirty-seven adolescents (aged 12-17) were enrolled in four placebo-controlled s
 Thirty -six paediatric patients (aged 6-11) received mepolizumab subcutaneously in an open-label study for 12 weeks.
 After a treatment interruption of 8 weeks, 30 of these patients, received mepolizumab for a further 52 weeks.
 The safety profile was similar to that seen in adults.
+No additional adverse reactions were identified.
+In addition, the long-term safety of mepolizumab was assessed in 9 adolescent patients (aged 12-17) and 15 paediatric patients (aged 6-11) who were enrolled in an open-label extension study (201956).
+In this study, patients received mepolizumab subcutaneously for an average of 21.5 months.
 No additional adverse reactions were identified.
 
 HES
@@ -102,4 +124,16 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Nucala 100 mg powder for solution for injection]
 
-The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n= 263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports.
+The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n= 263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in three double-blind placebo-controlled 52- to 104-week studies in patients with COPD receiving mepolizumab 100 mg SC (n=1043), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports.
+
+| System Organ Class | Adverse reactions | Frequency |
+| --- | --- | --- |
+| Infections and infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster** | Common |
+| Immune system disorders | Hypersensitivity reactions (systemic allergic)* Anaphylaxis** | Common Rare |
+| Nervous system disorders | Headache | Very common |
+| Respiratory, thoracic and mediastinal disorders | Nasal congestion | Common |
+| Gastrointestinal disorders | Abdominal pain upper | Common |
+| Skin and subcutaneous tissue disorders | Eczema | Common |
+| Musculoskeletal and connective tissue disorders | Back pain Arthralgia** | Common |
+| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** | Common |
+|  | Local injection site reactions Pyrexia |  |

@@ -9,7 +9,6 @@ The potential for harm to a human fetus is unknown.
 
 As a precautionary measure, it is preferable to avoid the use of Nucala during pregnancy.
 Administration of Nucala to pregnant women should only be considered if the expected benefit to the mother is greater than any possible risk to the fetus.
-
 Breast-feeding
 
 There are no data regarding the excretion of mepolizumab in human milk.
