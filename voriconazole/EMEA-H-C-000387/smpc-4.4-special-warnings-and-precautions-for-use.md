@@ -22,11 +22,11 @@ In clinical trials, there have been cases of serious hepatic reactions during tr
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
 Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
 Liver dysfunction has usually been reversible on discontinuation of therapy (see section 4.8).
-
 Monitoring of hepatic function
 Patients receiving VFEND must be carefully monitored for hepatic toxicity.
 Clinical management should include laboratory evaluation of hepatic function (specifically AST and ALT) at the initiation of treatment with VFEND and at least weekly for the first month of treatment.
 Treatment duration should be as short as possible; however, if based on the benefit-risk assessment the treatment is continued (see section 4.2), monitoring frequency can be reduced to monthly if there are no changes in the liver function tests.
+
 If the liver function tests become markedly elevated, VFEND should be discontinued, unless the medical judgment of the risk-benefit of the treatment for the patient justifies continued use.
 
 Monitoring of hepatic function should be carried out in both children and adults.
@@ -62,11 +62,11 @@ Patients should be instructed to seek immediate medical care if they develop sig
 
 Long-term treatment
 Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
-
 Squamous cell carcinoma of the skin (SCC) (including cutaneous SCC in situ, or Bowen’s disease) has been reported in relation with long-term VFEND treatment (see section 4.8).
 
 Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
 If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice (see section 4.8).
+
 Visual adverse reactions
 There have been reports of prolonged visual adverse reactions, including blurred vision, optic neuritis and papilloedema (see section 4.8).
 
@@ -105,7 +105,6 @@ Concomitant use of voriconazole and phenytoin should be avoided unless the benef
 
 Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate)
 When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and the dose of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2, 4.3 and 4.5).
-
 Glasdegib (CYP3A4 substrate)
 Coadministration of voriconazole is expected to increase glasdegib plasma concentrations and increase the risk of QTc prolongation (see section 4.5).
 If concomitant use cannot be avoided, frequent ECG monitoring is recommended.
@@ -146,7 +145,6 @@ Excipients
 
 Lactose
 This medicinal product contains lactose and should not be given to patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption.
-
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet.
 Patients on low sodium diets should be informed that this medicinal product is essentially ‘sodium-free’.

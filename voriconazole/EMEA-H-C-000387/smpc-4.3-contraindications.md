@@ -2,11 +2,15 @@
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
+Interacting drugs listed in this section and section 4.5 are a guide and not considered a comprehensive list of all possible drugs that may be contraindicated.
+
 Coadministration of voriconazole is contraindicated with medicinal products that are highly dependent on CYP3A4 for metabolism, and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions (see section 4.5):
 
-- Terfenadine, Astemizole
+- Terfenadine
+- Astemizole
 - Cisapride
-- Pimozide, Lurasidone
+- Pimozide
+- Lurasidone
 - Quinidine
 - Ivabradine
 - Ergot alkaloids (e.g., ergotamine, dihydroergotamine)
@@ -14,6 +18,8 @@ Coadministration of voriconazole is contraindicated with medicinal products that
 - Naloxegol
 - Tolvaptan
 - Finerenone
+- Eplerenone
+- Voclosporin
 - Venetoclax: Coadministration contraindicated at initiation and during venetoclax dose titration phase.
 
 Coadministration of voriconazole is contraindicated with medicinal products that induce CYP3A4 and significantly reduce voriconazole plasma concentrations:

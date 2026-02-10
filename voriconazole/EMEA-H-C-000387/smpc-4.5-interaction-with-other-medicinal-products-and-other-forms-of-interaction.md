@@ -15,6 +15,8 @@ The direction of the arrow for each pharmacokinetic parameter is based on the 90
 The asterisk (*) indicates a two-way interaction.
 AUCτ, AUCt and AUC0-∞ represent area under the curve over a dosing interval, from time zero to the time with detectable measurement and from time zero to infinity, respectively.
 
+Medicinal products listed in the table are a guide and not considered a comprehensive list of all possible medicinal products that are contraindicated or may interact with voriconazole.
+
 | Medicinal product | Interaction geometric mean changes (%) | Recommendations concerning coadministration |
 | --- | --- | --- |
 | Antacids |  |  |
@@ -83,11 +85,13 @@ AUCτ, AUCt and AUC0-∞ represent area under the curve over a dosing interval, 
 | Everolimus [also P-gp substrate] | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of everolimus. | Coadministration of voriconazole and everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations (see section 4.4). |
 | Sirolimus (2 mg single dose) | In an independent published study, Sirolimus Cmax ↑ 6.6-fold Sirolimus AUC0-∞ ↑ 11-fold | Coadministration of voriconazole and sirolimus is contraindicated (see section 4.3). |
 | Tacrolimus (0.1 mg/kg single dose) | Tacrolimus Cmax ↑ 117% Tacrolimus AUCt ↑ 221% | When initiating voriconazole in patients already on tacrolimus, it is recommended that the tacrolimus dose be reduced to a third of the original dose and tacrolimus level carefully monitored. Increased tacrolimus levels have been associated with nephrotoxicity. When voriconazole is discontinued, tacrolimus levels must be carefully monitored and the dose increased as necessary. |
+| Voclosporin | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of voclosporin. | Contraindicated (see section 4.3) |
 | Mycophenolic acid (1 g single dose) [UDP-glucuronyl transferase substrate] | Mycophenolic acid Cmax ↔ Mycophenolic acid AUCt ↔ | No dose adjustment |
 | Lipid lowering agents/HMG- CoA reductase inhibitors |  |  |
 | Statins (e.g., lovastatin) [CYP3A4 substrates] | Although not studied, voriconazole is likely to increase the plasma concentrations of statins that are metabolised by CYP3A4 and could lead to rhabdomyolysis. | If concomitant administration of voriconazole with statins metabolised by CYP3A4 cannot be avoided, dose reduction of the statin should be considered. |
 | Non-steroidal selective mineralocorticoid receptor (MR) antagonists |  |  |
 | Finerenone [CYP3A4 substrate] | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of finerenone. | Contraindicated (see section 4.3) |
+| Eplerenone [CYP3A4 substrate] | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of eplerenone. | Contraindicated (see section 4.3) |
 | Non-steroidal anti-inflammatory drugs (NSAIDs) |  |  |
 | [CYP2C9 substrates] Ibuprofen (400 mg single dose) Diclofenac (50 mg single dose) | S-Ibuprofen Cmax ↑ 20% S-Ibuprofen AUC0-∞ ↑ 100% Diclofenac Cmax ↑ 114% Diclofenac AUC0-∞ ↑ 78% | Frequent monitoring for adverse reactions and toxicity related to NSAIDs is recommended. Dose reduction of NSAIDs may be needed. |
 | Opioids |  |  |
@@ -98,9 +102,7 @@ AUCτ, AUCt and AUC0-∞ represent area under the curve over a dosing interval, 
 | Naloxegol [CYP3A4 substrate] | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of naloxegol. | Contraindicated (see section 4.3) |
 | Oral contraceptives |  |  |
 | Oral Contraceptives* [CYP3A4 substrate; CYP2C19 inhibitor] Norethisterone/ethinylestradiol (1 mg/0.035 mg QD) | Ethinylestradiol Cmax ↑ 36% Ethinylestradiol AUCτ ↑ 61% Norethisterone Cmax ↑ 15% Norethisterone AUCτ ↑ 53% Voriconazole Cmax ↑ 14% Voriconazole AUCτ ↑ 46% | Monitoring for adverse reactions related to oral contraceptives, in addition to those for voriconazole, is recommended. |
-
 | Steroids |  |  |
-| --- | --- | --- |
 | Corticosteroids Prednisolone (60 mg single dose) [CYP3A4 substrate] | Prednisolone Cmax ↑ 11% Prednisolone AUC0-∞ ↑ 34% | No dose adjustment Patients on long-term treatment with voriconazole and corticosteroids (including inhaled corticosteroids e.g., budesonide and intranasal corticosteroids) should be carefully monitored for adrenal cortex dysfunction both during treatment and when voriconazole is discontinued (see section 4.4). |
 | Vasopressin receptor antagonists |  |  |
 | Tolvaptan [CYP3A substrate] | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of tolvaptan. | Contraindicated (see section 4.3) |
