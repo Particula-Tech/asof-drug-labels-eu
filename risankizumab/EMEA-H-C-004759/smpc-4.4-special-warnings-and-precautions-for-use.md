@@ -19,12 +19,12 @@ Tuberculosis
 Prior to initiating treatment with risankizumab, patients should be evaluated for tuberculosis (TB) infection.
 Patients receiving risankizumab should be monitored for signs and symptoms of active TB.
 Anti-TB therapy should be considered prior to initiating risankizumab in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
-
 Immunisations
 
 Prior to initiating therapy with risankizumab, completion of all appropriate immunisations should be considered according to current immunisation guidelines.
 If a patient has received live vaccination (viral or bacterial), it is recommended to wait at least 4 weeks prior to starting treatment with risankizumab.
 Patients treated with risankizumab should not receive live vaccines during treatment and for at least 21 weeks after treatment (see section 5.2).
+
 Hypersensitivity
 
 Serious hypersensitivity reactions, including anaphylaxis, have been reported with use of risankizumab (see section 4.8).
@@ -34,16 +34,34 @@ Excipients with known effect
 
 Skyrizi 150 mg solution for injection in pre-filled pen or pre-filled syringe
 
+Polysorbate
+
+This medicinal product contains 0.2 mg of polysorbate 20 in each 150 mg dose.
+Polysorbates may cause allergic reactions.
+
+Sodium
+
 This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled pen or pre-filled syringe, that is to say, essentially ‘sodium free’.
 
 Skyrizi 75 mg solution for injection in pre-filled syringe
 
+Polysorbate
+
+This medicinal product contains 0.34 mg of polysorbate 20 in each 150 mg dose.
+Polysorbates may cause allergic reactions.
+
+Sorbitol
+
 This medicinal product contains 68.0 mg sorbitol per 150 mg dose.
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
+
+Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 150 mg dose, that is to say, essentially ‘sodium free’.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
+
+This medicinal product contains 2 mg of polysorbate 20 in each 600 mg dose and 4 mg of polysorbate 20 in each 1 200 mg dose.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium-free’.
 
@@ -51,14 +69,20 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that i
 
 Skyrizi 180 mg and 360 mg solution for injection in cartridge
 
+This medicinal product contains 0.24 mg of polysorbate 20 in each 180 mg dose and 0.48 mg of polysorbate 20 in each 360 mg dose.
+
 This medicinal product contains less than 1 mmol sodium (23 mg) per cartridge, that is to say essentially ‘sodium-free’.
 
 Skyrizi 90 mg solution for injection in pre-filled syringe
 
-Sorbitol
+This medicinal product contains 0.8 mg of polysorbate 20 in each 360 mg dose.
 
 This medicinal product contains 164 mg sorbitol per 360 mg dose.
 
-Sodium
-
 This medicinal product contains less than 1 mmol sodium (23 mg) per 360 mg dose, that is to say essentially ‘sodium free’.
+
+Skyrizi 180 mg solution for injection in pre-filled syringe
+
+This medicinal product contains 0.24 mg of polysorbate 20 in each dose 180 mg dose and 0.48 mg of polysorbate 20 in each 360 mg dose.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per 180 mg dose and 360 mg dose, that is to say essentially ‘sodium free’.

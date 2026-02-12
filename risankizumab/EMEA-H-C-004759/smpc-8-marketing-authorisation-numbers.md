@@ -29,3 +29,8 @@ EU/1/19/1361/007
 Skyrizi 90 mg solution for injection in pre-filled syringe
 
 EU/1/19/1361/006
+
+Skyrizi 180 mg solution for injection in pre-filled syringe
+
+EU/1/19/1361/008
+EU/1/19/1361/009

@@ -46,3 +46,7 @@ Skyrizi 180 mg is available in packs containing 1 cartridge and 1 on-body inject
 Skyrizi 90 mg solution for injection in pre-filled syringe
 
 Skyrizi 90 mg is available in packs containing 4 pre-filled syringes.
+
+Skyrizi 180 mg solution for injection in pre-filled syringe
+
+Skyrizi 180 mg is available in packs containing 1 and 2 pre-filled syringes.

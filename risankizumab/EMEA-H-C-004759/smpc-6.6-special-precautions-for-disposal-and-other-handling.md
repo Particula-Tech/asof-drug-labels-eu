@@ -69,12 +69,15 @@ Prior to use, a visual inspection of the cartridge is recommended.
 The solution is free from foreign particles and practically free from product-related particles.
 Do not shake the cartridge.
 
-Skyrizi 90 mg solution for injection in pre-filled syringe
+Skyrizi 90 mg and 180 mg solution for injection in pre-filled syringe
 
 Before injecting, the carton should be removed from the refrigerator and allow to reach room temperature out of direct sunlight, for 15 to 30 minutes without removing the pre-filled syringes from the carton.
 
 Prior to use, a visual inspection of each pre-filled syringe is recommended.
 Do not shake the pre-filled syringe.
+The 90 mg solution for injection in pre-filled syringe should be colourless to slightly yellow and clear to slightly opalescent.
+
+The 180 mg solution for injection in pre-filled syringe should be colourless to yellow and clear to slightly opalescent.
 
 General precautions
 

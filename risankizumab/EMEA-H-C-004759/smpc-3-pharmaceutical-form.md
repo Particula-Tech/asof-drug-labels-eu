@@ -16,6 +16,6 @@ Concentrate for solution for infusion (sterile concentrate)
 
 [Skyrizi 360 mg solution for injection in cartridge]
 
-Skyrizi 180 mg and 360 mg solution for injection in cartridge
+Skyrizi 180 mg and 360 mg solution for injection in cartridge and 180 mg solution for injection in pre-filled syringe
 
 Skyrizi 90 mg solution for injection in pre-filled syringe

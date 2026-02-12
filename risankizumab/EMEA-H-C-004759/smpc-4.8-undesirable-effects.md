@@ -9,7 +9,6 @@ Tabulated list of adverse reactions
 Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to
 < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 1: List of adverse reactions
 
 | System Organ Class | Frequency | Adverse reactions |
@@ -17,11 +16,11 @@ Table 1: List of adverse reactions
 | Infections and infestations | Very common | Upper respiratory infectionsa |
 |  | Common | Tinea infectionsb |
 |  | Uncommon | Folliculitis |
+| Immune system disorders | Rare | Anaphylactic reactions |
 | Nervous system disorders | Common | Headachec |
 | Skin and subcutaneous tissue disorders | Common | Pruritus Rash Eczema |
 |  | Uncommon | Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
-| Immune system disorders | Rare | Anaphylactic reactions |
 | a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, fungal skin infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, rash |  |  |
 
 Description of selected adverse reactions
@@ -35,11 +34,11 @@ The rate of serious infections was 1.7 events per 100 subject-years from the pso
 Immunogenicity
 
 For subjects treated with risankizumab at the recommended clinical dose for up to 52 weeks in psoriasis clinical trials, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 24% (263/1 079) and 14% (150/1 079) of evaluated subjects, respectively.
-For subjects exposed to long term treatment of risankizumab (up to 204 weeks in the extension study), the immunogenicity profile observed was consistent compared to the first 52 weeks of treatment.
+For subjects exposed to long term treatment of risankizumab in the extension study, the immunogenicity profile observed up to 204 weeks of treatment was consistent compared to the first 52 weeks of treatment.
 
 For most subjects with psoriasis, antibodies to risankizumab including neutralising antibodies were not associated with changes in clinical response or safety.
 Among the few subjects (approximately 1%; 7/1 000 at week 16 and 6/598 at week 52) with high antibody titres (>128), clinical response appeared to be reduced.
-The incidence of injection site reactions is numerically higher in the anti-drug antibody-positive groups compared with anti-drug antibody-negative groups over short-term (16 weeks: 2.7% vs 1.3%) and longer-term treatment (>52 weeks: 5.0% vs 3.3%).
+The incidence of injection site reactions is numerically higher in the anti-drug antibody-positive groups compared with anti-drug antibody-negative groups over short-term (16 weeks: 2.7% vs 1.3%) and longer-term treatment (52 weeks: 5.0% vs 3.3%).
 The injection site reactions were all mild to moderate in severity, none were serious, and none led to discontinuation of risankizumab.
 
 For subjects treated with risankizumab at the recommended clinical dose for up to 28 weeks in psoriatic arthritis clinical trials, treatment-emergent anti-drug antibodies and neutralizing antibodies were detected in 12.1% (79/652) and 0% (0/652) of evaluated subjects, respectively.
@@ -68,18 +67,17 @@ The most frequently reported adverse reactions were upper respiratory infections
 | Infections and infestations | Very common | Upper respiratory infectionsa |
 |  | Common | Tinea infectionsb |
 |  | Uncommon | Folliculitis |
+| Immune system disorders | Rare | Anaphylactic reactions |
 | Nervous system disorders | Common | Headachec |
 | Skin and subcutaneous tissue disorders | Common | Pruritus Rash Eczema |
 |  | Uncommon | Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
-| Immune system disorders | Rare | Anaphylactic reactions |
 | a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, tinea infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia, malaise e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, hypersensitivity, nodule, rash, urticaria, vesicles, warmth; infusion site erythema, extravasation, reaction, swelling |  |  |
 
 Psoriasis
 
 Over the entire psoriasis programme including long-term exposure to risankizumab, the rate of infections was 75.5 events per 100 subject-years.
 The rate of serious infections was 1.7 events per 100 subject-years (see section 4.4).
-
 Crohn’s disease
 
 Overall, the safety profile observed in patients with Crohn’s disease treated with risankizumab was consistent with the safety profile observed in patients across indications.
