@@ -1,16 +1,20 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 The most common clinically significant adverse reactions associated with the use of Abraxane have been neutropenia, peripheral neuropathy, arthralgia/myalgia and gastrointestinal disorders.
 
 Tabulated list of adverse reactions
+
 Table 6 lists adverse reactions associated with Abraxane monotherapy at any dose in any indication during clinical trials (N = 789), Abraxane in combination with gemcitabine for pancreatic adenocarcinoma from the phase III clinical trial (N = 421), Abraxane in combination with carboplatin for non-small cell lung cancer from the phase III clinical trial (N = 514) and from post-marketing use.
-Frequencies are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
+
+Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon
+(≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 6: Adverse reactions reported with Abraxane
 
-|  | Monotherapy (N=789) | Combination therapy with gemcitabine (N =421) | Combination therapy with carboplatin (N = 514) |
+|  | Monotherapy (N = 789) | Combination therapy with gemcitabine (N = 421) | Combination therapy with carboplatin (N = 514) |
 | --- | --- | --- | --- |
 | Infections and infestations |  |  |  |
 | Common: | Infection, urinary tract infection, folliculitis, upper respiratory tract infection, candidiasis, sinusitis | Sepsis, pneumonia, oral candidiasis | Pneumonia, bronchitis, upper respiratory tract infection, urinary tract infection |
@@ -99,18 +103,20 @@ Table 6: Adverse reactions reported with Abraxane
 4 In some patients previously exposed to capecitabine.
 
 Description of selected adverse reactions
+
 This section contains the most common and clinically relevant adverse reactions related to Abraxane.
 
 Adverse reactions were assessed in 229 patients with metastatic breast cancer who were treated with 260 mg/m2 Abraxane once every three weeks in the pivotal phase III clinical study (Abraxane monotherapy).
 
 Adverse reactions were assessed in 421 patients with metastatic pancreatic cancer who were treated with Abraxane in combination with gemcitabine (125 mg/m2 Abraxane in combination with gemcitabine at a dose of 1000 mg/m2 given on Days 1, 8 and 15 of each 28-day cycle) and 402 gemcitabine monotherapy-treated patients receiving first-line systemic treatment for metastatic adenocarcinoma of the pancreas (Abraxane/gemcitabine).
 
-Adverse reactions were assessed in 514 patients with non-small cell lung cancer who were treated with Abraxane in combination with carboplatin (100mg/m2 Abraxane given on Days 1, 8 and 15 of each 21-day cycle in combination with carboplatin given on Day 1 of each cycle) in the phase III randomized, controlled clinical trial (Abraxane/carboplatin).
+Adverse reactions were assessed in 514 patients with non-small cell lung cancer who were treated with Abraxane in combination with carboplatin (100 mg/m2 Abraxane given on Days 1, 8 and 15 of each 21-day cycle in combination with carboplatin given on Day 1 of each cycle) in the phase III randomized, controlled clinical trial (Abraxane/carboplatin).
 Patient-reported taxane toxicity was assessed using the 4 subscales of the Functional Assessment of Cancer Therapy (FACT)-Taxane questionnaire.
 Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pain hands/feet and hearing) favored Abraxane and carboplatin (p ≤ 0.002).
 For the other subscale (oedema), there was no difference in the treatment arms.
 
 Infections and infestations
+
 Abraxane/gemcitabine
 Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine during the conduct of a trial in pancreatic adenocarcinoma.
 Of the 22 cases of sepsis reported in patients treated with Abraxane in combination with gemcitabine, 5 had a fatal outcome.
@@ -119,6 +125,7 @@ If a patient becomes febrile (regardless of neutrophil count), initiate treatmen
 For febrile neutropenia, withhold Abraxane and gemcitabine until fever resolves and ANC ≥ 1500 cells/mm3, then resume treatment at reduced dose levels (see section 4.2).
 
 Blood and lymphatic system disorders
+
 Abraxane monotherapy-metastatic breast cancer
 In patients with metastatic breast cancer, neutropenia was the most notable important haematological toxicity (reported in 79% of patients) and was rapidly reversible and dose-dependent; leukopenia was reported in 71% of patients.
 Grade 4 neutropenia (< 500 cells/mm3) occurred in 9% of patients treated with Abraxane.
@@ -144,6 +151,7 @@ Abraxane/carboplatin
 Anaemia and thrombocytopenia were more commonly reported in the Abraxane and carboplatin arm than in the Taxol and carboplatin arm (54% versus 28% and 45% versus 27% respectively).
 
 Nervous system disorders
+
 Abraxane monotherapy-metastatic breast cancer
 In general, the frequency and severity of neurotoxicity was dose-dependent in patients receiving Abraxane.
 Peripheral neuropathy (mostly Grade 1 or 2 sensory neuropathy) was observed in 68% of patients on Abraxane with 10% being Grade 3, and no cases of Grade 4.
@@ -162,6 +170,7 @@ Eye disorders
 There have been rare reports during post-marketing surveillance of reduced visual acuity due to cystoid macular oedema during treatment with Abraxane (see section 4.4).
 
 Respiratory, thoracic and mediastinal disorders
+
 Abraxane/gemcitabine
 Pneumonitis has been reported at a rate of 4% with the use of Abraxane in combination with gemcitabine.
 Of the 17 cases of pneumonitis reported in patients treated with Abraxane in combination with gemcitabine, 2 had a fatal outcome.
@@ -169,32 +178,39 @@ Monitor patients closely for signs and symptoms of pneumonitis.
 After ruling out infectious etiology and upon making a diagnosis of pneumonitis, permanently discontinue treatment with Abraxane and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
 
 Gastrointestinal disorders
+
 Abraxane monotherapy-metastatic breast cancer
 Nausea occurred in 29% of the patients and diarrhoea in 25% of the patients.
 
 Skin and subcutaneous tissue disorders
+
 Abraxane monotherapy-metastatic breast cancer
-Alopecia was observed in >80% of the patients treated with Abraxane.
+Alopecia was observed in > 80% of the patients treated with Abraxane.
 The majority of alopecia events occurred less than one month after initiation of Abraxane.
 Pronounced hair loss ≥ 50% is expected for the majority of patients who experience alopecia.
 
 Musculoskeletal and connective tissue disorders
+
 Abraxane monotherapy-metastatic breast cancer
 Arthralgia occurred in 32% of patients on Abraxane and was severe in 6% of cases.
 Myalgia occurred in 24% of patients on Abraxane and was severe in 7% of cases.
 The symptoms were usually transient, typically occurred three days after Abraxane administration and resolved within a week.
 
 General disorders and administration site conditions
+
 Abraxane monotherapy-metastatic breast cancer
 Asthenia/Fatigue was reported in 40% of the patients.
 
 Paediatric population
+
 The study consisted of 106 patients, 104 of whom were paediatric patients aged from 6 months to less than 18 years (see section 5.1).
 Every patient experienced at least 1 adverse reaction.
 The most frequently reported adverse reactions were neutropenia, anaemia, leukopenia and pyrexia.
 Serious adverse reactions reported in more than 2 patients were pyrexia, back pain, peripheral oedema and vomiting.
 No new safety signals were identified in the limited number of paediatric patients treated with Abraxane and the safety profile was similar to that of the adult population.
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

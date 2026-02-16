@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 Preparation and administration precautions
+
 Paclitaxel is a cytotoxic anticancer medicinal product and, as with other potentially toxic compounds, caution should be exercised in handling Abraxane.
 The use of gloves, goggles and protective clothing is recommended.
 If the dispersion contacts the skin, the skin should be washed immediately and thoroughly with soap and water.
@@ -12,6 +13,7 @@ Given the possibility of extravasation, it is advisable to closely monitor the i
 Limiting the infusion of Abraxane to 30 minutes, as directed, reduces the likelihood of infusion-related reactions.
 
 Reconstitution and administration of the product
+
 Abraxane is supplied as a sterile lyophilised powder for reconstitution before use.
 After reconstitution, each ml of dispersion contains 5 mg of paclitaxel formulated as albumin bound nanoparticles.
 
@@ -26,6 +28,7 @@ Once the addition is complete, the vial should be allowed to stand for a minimum
 Then, the vial should gently and slowly be swirled and/or inverted for at least 2 minutes until complete redispersion of any powder occurs.
 The generation of foam must be avoided.
 If foaming or clumping occurs, the dispersion must stand for at least 15 minutes until foam subsides.
+
 The reconstituted dispersion should be milky and homogenous without visible precipitates.
 Some settling of the reconstituted dispersion may occur.
 If precipitates or settling are visible, the vial should be gently inverted again to ensure complete redispersion prior to use.
@@ -40,7 +43,6 @@ Administer Abraxane using an infusion set incorporating a 15 µm filter to avoid
 Use of a 15 µm filter removes strands and does not change the physical or chemical properties of the reconstituted product.
 
 Use of filters with a pore size less than 15 µm may result in blockage of the filter.
-
 The use of specialized di(2-ethylhexyl)phthalate (DEHP)-free solution containers or administration sets is not necessary to prepare or administer Abraxane infusions.
 
 Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.

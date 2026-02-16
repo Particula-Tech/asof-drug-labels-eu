@@ -11,9 +11,8 @@ The recommended dose of Abraxane is 260 mg/m2 administered intravenously over 30
 Dose adjustments during treatment of breast cancer
 Patients who experience severe neutropenia (neutrophil count < 500 cells/mm3 for a week or longer) or severe sensory neuropathy during Abraxane therapy should have the dose reduced to 220 mg/m2 for subsequent courses.
 Following recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
-Abraxane should not be administered until neutrophil counts recover to >1500 cells/mm3.
+Abraxane should not be administered until neutrophil counts recover to > 1500 cells/mm3.
 For Grade 3 sensory neuropathy, withhold treatment until resolution to Grade 1 or 2, followed by a dose reduction for all subsequent courses.
-
 Pancreatic adenocarcinoma
 The recommended dose of Abraxane in combination with gemcitabine is 125 mg/m2 administered intravenously over 30 minutes on Days 1, 8 and 15 of each 28-day cycle.
 The concurrent recommended dose of gemcitabine is 1000 mg/m2 administered intravenously over 30 minutes immediately after the completion of Abraxane administration on Days 1, 8 and 15 of each 28-day cycle.
@@ -41,17 +40,14 @@ Table 2: Dose modifications for neutropenia and/or thrombocytopenia at the start
 |  | < 500 | OR | < 50,000 | Withhold doses |  |
 | Day 15: If Day 8 doses were reduced: |  |  |  |  |  |
 | Day 15 | ≥ 1000 | AND | ≥ 75,000 | Return to the Day 1 dose levels and follow with WBC Growth Factors OR Treat with same doses as Day 8 |  |
-|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Treat with Day 8 dose levels and follow with WBC Growth Factors OR Reduce doses 1 dose level from |  |
+|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Treat with Day 8 dose levels and follow with WBC Growth Factors OR Reduce doses 1 dose level from Day 8 doses |  |
+|  | < 500 | OR | < 50,000 | Withhold doses |  |
+| Day 15: IF Day 8 doses were withheld: |  |  |  |  |  |
+| Day 15 | ≥ 1000 | AND | ≥ 75,000 | Return to Day 1 dose levels and follow with WBC Growth Factors OR Reduce doses 1 dose level from Day 1 doses |  |
+|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Reduce 1 dose level and follow with WBC Growth Factors OR Reduce doses 2 dose levels from Day 1 doses |  |
+|  | < 500 | OR | < 50,000 | Withhold doses |  |
 
-|  |  |  |  | Day 8 doses |
-| --- | --- | --- | --- | --- |
-|  | < 500 | OR | < 50,000 | Withhold doses |
-| Day 15: IF Day 8 doses were withheld: |  |  |  |  |
-| Day 15 | ≥ 1000 | AND | ≥ 75,000 | Return to Day 1 dose levels and follow with WBC Growth Factors OR Reduce doses 1 dose level from Day 1 doses |
-|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Reduce 1 dose level and follow with WBC Growth Factors OR Reduce doses 2 dose levels from Day 1 doses |
-|  | < 500 | OR | < 50,000 | Withhold doses |
-
-Abbreviations: ANC=Absolute Neutrophil Count; WBC=white blood cell
+Abbreviations: ANC = Absolute Neutrophil Count; WBC = white blood cell
 
 Table 3: Dose modifications for other adverse drug reactions in patients with pancreatic adenocarcinoma
 
@@ -66,31 +62,35 @@ a. See Table 1 for dose level reductions
 
 Non-small cell lung cancer:
 The recommended dose of Abraxane is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8 and 15 of each 21-day cycle.
-The recommended dose of carboplatin is AUC = 6 mg•min/mL on Day 1 only of each 21-day cycle, beginning immediately after the end of Abraxane administration.
+The recommended dose of carboplatin is
+AUC = 6 mg•min/mL on Day 1 only of each 21-day cycle, beginning immediately after the end of Abraxane administration.
 
 Dose adjustments during treatment of non-small cell lung cancer:
-Abraxane should not be administered on Day 1 of a cycle until absolute neutrophil count (ANC) is ≥1500 cells/mm3 and platelet count is ≥100,000 cells/mm3.
-For each subsequent weekly dose of Abraxane, patients must have an ANC ≥500 cells/mm3 and platelets >50,000 cells/mm3 or the dose is to be withheld until counts recover.
+Abraxane should not be administered on Day 1 of a cycle until absolute neutrophil count (ANC) is
+≥ 1500 cells/mm3 and platelet count is ≥ 100,000 cells/mm3.
+For each subsequent weekly dose of Abraxane, patients must have an ANC ≥ 500 cells/mm3 and platelets > 50,000 cells/mm3 or the dose is to be withheld until counts recover.
 When counts recover, resume dosing the following week according to the criteria in Table 4.
 Reduce subsequent dose only if criteria in Table 4 are met.
 Table 4: Dose reductions for haematologic toxicities in patients with non-small cell lung cancer
 
 | Haematologic Toxicity | Occurrence | Dose of Abraxane (mg/m2)1 | Dose of carboplatin (AUC mg•min/mL)1 |
 | --- | --- | --- | --- |
-| Nadir ANC <500/mm3 with neutropenic fever > 38°C OR Delay of next cycle due to persistent neutropenia2 (Nadir ANC <1500/mm3) OR Nadir ANC <500/mm3 for > 1 week | First | 75 | 4.5 |
+| Nadir ANC < 500/mm3 with neutropenic fever > 38°C OR Delay of next cycle due to persistent neutropenia2 (Nadir ANC < 1500/mm3) OR Nadir ANC < 500/mm3 for > 1 week | First | 75 | 4.5 |
 |  | Second | 50 | 3.0 |
 |  | Third | Discontinue Treatment |  |
-| Nadir platelets <50,000/mm3 | First | 75 | 4.5 |
+| Nadir platelets < 50,000/mm3 | First | 75 | 4.5 |
 |  | Second | Discontinue Treatment |  |
 
-1On Day 1 of the 21-day cycle reduce the dose of Abraxane and carboplatin simultaneously.
+1 On Day 1 of the 21-day cycle reduce the dose of Abraxane and carboplatin simultaneously.
 On Days 8 or 15 of the 21-day cycle reduce the dose of Abraxane; reduce the dose of carboplatin in the subsequent cycle.
-2Maximum of 7 days post scheduled Day 1 dose of next cycle.
+2 Maximum of 7 days post scheduled Day 1 dose of next cycle.
 
 For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, interrupt treatment until the toxicity improves to ≤ Grade 1, then restart treatment according to the guidelines in Table 5.
-For ≥ Grade 3 peripheral neuropathy, withhold treatment until resolution to ≤ Grade 1.
+For
+≥ Grade 3 peripheral neuropathy, withhold treatment until resolution to ≤ Grade 1.
 Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5.
-For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
+For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to
+≤ Grade 2, then restart treatment according to the guidelines in Table 5.
 
 Table 5: Dose reductions for non-haematologic toxicities in patients with non-small cell lung cancer
 
@@ -101,7 +101,7 @@ Table 5: Dose reductions for non-haematologic toxicities in patients with non-sm
 |  | Third | Discontinue Treatment |  |
 | Grade 4 cutaneous toxicity, diarrhoea, or mucositis | First | Discontinue Treatment |  |
 
-1On Day 1 of the 21-day cycle reduce the dose of Abraxane and carboplatin simultaneously.
+1 On Day 1 of the 21-day cycle reduce the dose of Abraxane and carboplatin simultaneously.
 On Days 8 or 15 of the 21-day cycle reduce the dose of Abraxane; reduce the dose of carboplatin in the subsequent cycle.
 
 Special populations
@@ -117,8 +117,8 @@ For patients with metastatic adenocarcinoma of the pancreas that have moderate t
 
 For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
 Renal impairment
-Adjustment of the starting Abraxane dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to <90 ml/min).
-There are insufficient data available to recommend dose modifications of Abraxane in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 ml/min) (see section 5.2).
+Adjustment of the starting Abraxane dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥ 30 to < 90 ml/min).
+There are insufficient data available to recommend dose modifications of Abraxane in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance < 30 ml/min) (see section 5.2).
 
 Elderly
 No additional dosage reductions, other than those for all patients, are recommended for patients 65 years and older.
@@ -143,6 +143,7 @@ Currently available data are described in section s 4.8, 5.1 and 5.2 but no reco
 There is no relevant use of Abraxane in the paediatric population for the indication of metastatic breast cancer or pancreatic adenocarcinoma or non-small cell lung cancer.
 
 Method of administration
+
 Administer reconstituted Abraxane dispersion intravenously using an infusion set incorporating a 15 µm filter.
 Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
 
