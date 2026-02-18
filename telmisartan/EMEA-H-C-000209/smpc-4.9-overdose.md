@@ -3,11 +3,9 @@
 There is limited information available with regard to overdose in humans.
 
 Symptoms
-
 The most prominent manifestations of telmisartan overdose were hypotension and tachycardia; bradycardia dizziness, increase in serum creatinine, and acute renal failure have also been reported.
 
 Management
-
 Telmisartan is not removed by haemofiltration and is not dialyzable.
 The patient should be closely monitored, and the treatment should be symptomatic and supportive.
 Management depends on the time since ingestion and the severity of the symptoms.

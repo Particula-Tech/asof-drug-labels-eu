@@ -18,9 +18,7 @@ Should exposure to angiotensin II receptor blockers have occurred from the secon
 Infants whose mothers have taken angiotensin II receptor blockers should be closely observed for hypotension (see sections 4.3 and 4.4).
 
 Breast-feeding
-
 Because no information is available regarding the use of Micardis during breast-feeding, Micardis is not recommended and alternative treatments with better established safety profiles during breast-feeding are preferable, especially while nursing a newborn or preterm infant.
 
 Fertility
-
 In preclinical studies, no effects of Micardis on male and female fertility were observed.

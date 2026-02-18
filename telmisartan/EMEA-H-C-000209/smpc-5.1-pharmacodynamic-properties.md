@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Angiotensin II receptor blockers (ARBs), plain, ATC Code: C09CA07.
 
 Mechanism of action
-
 Telmisartan is an orally active and specific angiotensin II receptor (type AT1) blocker.
 Telmisartan displaces angiotensin II with very high affinity from its binding site at the AT1 receptor subtype, which is responsible for the known actions of angiotensin II.
 Telmisartan does not exhibit any partial agonist activity at the AT1 receptor.
@@ -20,7 +19,6 @@ In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensi
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
 Clinical efficacy and safety
-
 Treatment of essential hypertension
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours.
 The maximum reduction in blood pressure is generally attained 4 to 8 weeks after the start of treatment and is sustained during long-term therapy.
@@ -45,8 +43,7 @@ Patients were randomized to one of the three following treatment groups: telmisa
 (n = 8 542), ramipril 10 mg (n = 8 576), or the combination of telmisartan 80 mg plus ramipril 10 mg (n = 8 502), and followed for a mean observation time of 4.5 years.
 
 Telmisartan showed a similar effect to ramipril in reducing the primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure.
-The incidence of the primary endpoint was similar in the telmisartan
-(16.7 %) and ramipril (16.5 %) groups.
+The incidence of the primary endpoint was similar in the telmisartan (16.7 %) and ramipril (16.5 %) groups.
 The hazard ratio for telmisartan vs. ramipril was 1.01 (97.5 % CI 0.93-1.10, p (non-inferiority) = 0.0019 at a margin of 1.13).
 The all-cause mortality rate was 11.6 % and 11.8 % among telmisartan and ramipril treated patients, respectively.
 
@@ -81,10 +78,9 @@ The study was terminated early because of an increased risk of adverse outcomes.
 Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 Paediatric population
-
 The safety and efficacy of Micardis in children and adolescents aged below 18 years have not been established.
 
-The blood pressure lowering effects of two doses of telmisartan were assessed in 76 hypertensive, largely overweight patients aged 6 to < 18 years (body weight ≥20 kg and ≤120 kg, mean 74.6 kg), after taking telmisartan 1 mg/kg (n = 29 treated) or 2 mg/kg (n = 31 treated) over a four-week treatment period.
+The blood pressure lowering effects of two doses of telmisartan were assessed in 76 hypertensive, largely overweight patients aged 6 to < 18 years (body weight ≥ 20 kg and ≤ 120 kg, mean 74.6 kg), after taking telmisartan 1 mg/kg (n = 29 treated) or 2 mg/kg (n = 31 treated) over a four-week treatment period.
 By inclusion the presence of secondary hypertension was not investigated.
 In some of the investigated patients the doses used were higher than those recommended in the treatment of hypertension in the adult population, reaching a daily dose comparable to160 mg, which was tested in adults.
 After adjustment for age group effects mean SBP changes from baseline (primary objective) were -14.5 (1.7) mm Hg in the telmisartan 2 mg/kg group, -9.7 (1.7) mm Hg in the telmisartan 1 mg/kg group, and -6.0 (2.4) in the placebo group.

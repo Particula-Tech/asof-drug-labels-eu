@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Digoxin
-
 When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 When initiating, adjusting, and discontinuing telmisartan, monitor digoxin levels in order to maintain levels within the therapeutic range.
 
@@ -16,19 +15,17 @@ A combination with ACE inhibitors or NSAIDs, for example, presents a lesser risk
 Concomitant use not recommended.
 
 Potassium sparing diuretics or potassium supplements
-
 Angiotensin II receptor blockers such as telmisartan, attenuate diuretic induced potassium loss.
 Potassium sparing diuretics e.g. spirinolactone, eplerenone, triamterene, or amiloride, potassium supplements, or potassium-containing salt substitutes may lead to a significant increase in serum potassium.
 If concomitant use is indicated because of documented hypokalaemia, they should be used with caution and with frequent monitoring of serum potassium.
-Lithium
 
+Lithium
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors, and with angiotensin II receptor blockers, including telmisartan.
 If use of the combination proves necessary, careful monitoring of serum lithium levels is recommended.
 
 Concomitant use requiring caution.
 
 Non-steroidal anti-inflammatory medicinal products
-
 NSAIDs (i.e. acetylsalicylic acid at anti-inflammatory dosage regimens, COX-2 inhibitors and non-selective NSAIDs) may reduce the antihypertensive effect of angiotensin II receptor blockers.
 In some patients with compromised renal function (e.g. dehydrated patients or elderly patients with compromised renal function), the co-administration of angiotensin II receptor blockers and agents that inhibit cyclo-oxygenase may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible.
 Therefore, the combination should be administered with caution, especially in the elderly.
@@ -36,15 +33,12 @@ Patients should be adequately hydrated and consideration should be given to moni
 
 In one study the co-administration of telmisartan and ramipril led to an increase of up to 2.5 fold in the AUC0-24 and Cmax of ramipril and ramiprilat.
 The clinical relevance of this observation is not known.
-
 Diuretics (thiazide or loop diuretics)
-
 Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion, and in a risk of hypotension when initiating therapy with telmisartan.
 
 To be taken into account with concomitant use.
 
 Other antihypertensive agents
-
 The blood pressure lowering effect of telmisartan can be increased by concomitant use of other antihypertensive medicinal products.
 
 Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
@@ -53,5 +47,4 @@ Based on their pharmacological properties it can be expected that the following 
 Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics, or antidepressants.
 
 Corticosteroids (systemic route)
-
 Reduction of the antihypertensive effect.

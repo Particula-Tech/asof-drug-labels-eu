@@ -1,19 +1,18 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
-Serious adverse drug reactions include anaphylactic reaction and angioedema which may occur rarely (≥1/10 000 to < 1/1 000), and acute renal failure.
+Serious adverse drug reactions include anaphylactic reaction and angioedema which may occur rarely (≥ 1/10 000 to < 1/1 000), and acute renal failure.
 
 The overall incidence of adverse reactions reported with telmisartan was usually comparable to placebo (41,4% vs 43.9 %) in controlled trials in patients treated for hypertension.
 The incidence of adverse reactions was not dose related and showed no correlation with gender, age or race of the patients.
 The safety profile of telmisartan in patients treated for the reduction of cardiovascular morbidity was consistent with that obtained in hypertensive patients.
+
 The adverse reactions listed below have been accumulated from controlled clinical trials in patients treated for hypertension and from post-marketing reports.
 The listing also takes into account serious adverse reactions and adverse reactions leading to discontinuation reported in three clinical long-term studies including 21 642 patients treated with telmisartan for the reduction of cardiovascular morbidity for up to six years.
 
 Tabulated list of adverse reactions
-
-Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1 000 to < 1/100); rare
-(≥1/10 000 to < 1/1 000); very rare (< 1/10 000).
+Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare
+(≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Infections and infestations
@@ -45,7 +44,7 @@ Rare: Anxiety
 
 Nervous system disorders
 
-Uncommon: Syncope
+Uncommon: Syncope, dizziness
 Rare: Somnolence
 
 Eye disorders
@@ -112,7 +111,6 @@ increased, blood creatine phosphokinase increased
 1,2,3,4: for further description, please see sub-section “Description of selected adverse reactions”
 
 Description of selected adverse reactions
-
 Sepsis
 In the PRoFESS trial, an increased incidence of sepsis was observed with telmisartan compared with placebo.
 The event may be a chance finding or related to a mechanism currently not known (see also section 5.1).
@@ -128,8 +126,10 @@ Interstitial lung disease
 Cases of interstitial lung disease have been reported from post-marketing experience in temporal association with the intake of telmisartan.
 However, a causal relationship has not been established.
 
-Reporting of suspected adverse reactions
+Intestinal angioedema
+Cases of intestinal angioedema have been reported after the use of angiotensin II receptor blockers (see section 4.4).
 
+Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
