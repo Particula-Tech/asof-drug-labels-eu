@@ -21,11 +21,12 @@ NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre p
 Patient samples were required to have one of the two common EGFR mutations (Exon 19 deletion or Exon 21 L858R substitution mutation), as identified by local testing.
 Tumour tissue (94%) and/or plasma (6%) samples for all patients were tested locally to determine EGFR Exon 19 deletion and/or Exon 21 L858R substitution mutation status using polymerase chain reaction (PCR) in 65% and next generation sequencing (NGS) in 35% of patients.
 
-A total of 1074 patients were randomised (2:2:1) to receive Rybrevant in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity.
-Rybrevant was administered intravenously at 1050 mg (for patients < 80 kg) or 1400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5.
+A total of 1 074 patients were randomised (2:2:1) to receive Rybrevant in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity.
+Rybrevant was administered intravenously at 1 050 mg (for patients < 80 kg) or 1 400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5.
 Lazertinib was administered at 240 mg orally once daily.
 Osimertinib was administered at a dose of 80 mg orally once daily.
 Randomisation was stratified by EGFR mutation type (Exon 19 deletion or Exon 21 L858R), race (Asian or non-Asian), and history of brain metastasis (yes or no).
+
 Baseline demographics and disease characteristics were balanced across the treatment arms.
 The median age was 63 (range: 25–88) years with 45% of patients ≥65 years; 62% were female; and 59% were Asian, and 38% were White.
 Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (34%) or 1 (66%); 69% never smoked; 41% had prior brain metastases; and 90% had Stage IV cancer at initial diagnosis.
@@ -88,7 +89,7 @@ MARIPOSA-2 is a randomised (2:2:1) open-label, multicentre Phase 3 study in pati
 Testing did not need to be repeated at the time of study entry once EGFR mutation status was previously established) after failure of prior therapy including a third-generation EGFR tyrosine kinase inhibitor (TKI).
 A total of 657 patients were randomised in the study, of which 263 received carboplatin and pemetrexed (CP); and 131 which received Rybrevant in combination with carboplatin and pemetrexed (Rybrevant-CP).
 Additionally, 263 patients were randomised to receive Rybrevant in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study.
-Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients < 80 kg) or 2100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
+Rybrevant was administered intravenously at 1 400 mg (for patients < 80 kg) or 1 750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients < 80 kg) or 2 100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
 Pemetrexed was administered intravenously at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 
@@ -145,8 +146,8 @@ Central testing was also performed using the AmoyDx® LC10 tissue test, Thermo F
 
 Patients with brain metastases at screening were eligible for participation once they were definitively treated, clinically stable, asymptomatic, and off corticosteroid treatment for at least 2 weeks prior to randomisation.
 
-Rybrevant was administered intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients
-< 80 kg) or 2100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
+Rybrevant was administered intravenously at 1 400 mg (for patients < 80 kg) or 1 750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients
+< 80 kg) or 2 100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
 Pemetrexed was administered intravenously at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 Randomisation was stratified by ECOG performance status (0 or 1), and prior brain metastases (yes or no). Patients randomised to the carboplatin and pemetrexed arm who had confirmed disease progression were permitted to cross over to receive Rybrevant monotherapy.
@@ -155,7 +156,7 @@ The median age was 62 (range: 27 to 92) years, with 39% of the subjects ≥65 ye
 Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (35%) or 1 (64%); 58% never smoked; 23% had history of brain metastasis and 84% had Stage IV cancer at initial diagnosis.
 
 The primary endpoint for PAPILLON was PFS, as assessed by BICR.
-The median follow-up was14.9 months (range: 0.3 to 27.0).
+The median follow-up was 14.9 months (range: 0.3 to 27.0).
 
 Efficacy results are summarised in Table 13.
 
@@ -188,12 +189,12 @@ The PFS benefit of Rybrevant in combination with carboplatin and pemetrexed comp
 
 Figure 6: Kaplan-Meier curve of OS in previously untreated NSCLC patients
 
-Previously-treated non-small cell lung cancer(NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
+Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
 CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant in patients with locally advanced or metastatic NSCLC.
 Efficacy was evaluated in 114 patients with locally advanced or metastatic NSCLC who had EGFR Exon 20 insertion mutations, whose disease had progressed on or after platinum-based chemotherapy, and who had a median follow-up of 12.5 months.
 Tumour tissue (93%) and/or plasma (10%) samples for all patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 46% of patients and/or polymerase chain reaction (PCR) in 41% of patients; for 4% of patients, the testing methods were not specified.
 Patients with untreated brain metastases or a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study.
-Rybrevant was administered intravenously at 1050 mg for patients < 80 kg or 1400 mg for patients ≥80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity.
+Rybrevant was administered intravenously at 1 050 mg for patients < 80 kg or 1 400 mg for patients ≥80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity.
 The primary efficacy endpoint was investigator-assessed overall response rate (ORR), defined as confirmed complete response (CR) or partial response (PR) based on RECIST v1.1.
 In addition, the primary endpoint was assessed by a blinded independent central review (BICR).
 Secondary efficacy endpoints included duration of response (DOR).
@@ -228,13 +229,14 @@ Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Rybrevant in all subsets of the paediatric population in non-small cell lung cancer (see section 4.2 for information on paediatric use).
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
 Rybrevant subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20). rHuPH20 works locally and transiently to degrade hyaluronan ((HA), a naturally occurring glycoaminoglycan found throughout the body) in the extracellular matrix of the subcutaneous space by cleaving the linkage between the two sugars (N-acetylglucosamine and glucuronic acid), which comprise HA.
 
 Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, Exon 21 L858R substitution and Exon 20 insertion mutations.
 
 After the first full dose of Rybrevant subcutaneous formulation, mean serum EGFR and MET concentrations decreased substantially and remained suppressed for the duration of treatment for all studied doses.
+
 Rybrevant subcutaneous formulation decreased serum albumin concentration, a pharmacodynamic effect of MET inhibition, typically during the first 8 weeks (see section 4.8); thereafter, albumin concentration stabilised for the remainder of amivantamab treatment.
 
 Clinical experience of Rybrevant subcutaneous formulation
@@ -246,13 +248,14 @@ Clinical experience of Rybrevant intravenous formulation
 
 NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant intravenous formulation in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy.
 
-A total of 1074 patients were randomised (2:2:1) to receive Rybrevant intravenous formulation in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity.
-Rybrevant intravenous formulation was administered intravenously at 1050 mg (for patients < 80 kg) or 1400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5.
+A total of 1 074 patients were randomised (2:2:1) to receive Rybrevant intravenous formulation in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity.
+Rybrevant intravenous formulation was administered intravenously at 1 050 mg (for patients < 80 kg) or 1 400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5.
 
 Rybrevant intravenous formulation in combination with lazertinib demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
 
-The final analysis of OS demonstrated a statistically significant improvement in OS for Rybrevant intravenous formulation in combination with lazertinib compared to osimertinib (see Table 6 and Figure 2).
-Table 6: Efficacy results in MARIPOSA
+The final analysis of OS demonstrated a statistically significant improvement in OS for Rybrevant intravenous formulation in combination with lazertinib compared to osimertinib (see Table 9 and Figure 2).
+
+Table 9: Efficacy results in MARIPOSA
 
 |  | Rybrevant intravenous formulation + lazertinib (N=429) | Osimertinib (N=429) |
 | --- | --- | --- |
@@ -270,9 +273,9 @@ Table 6: Efficacy results in MARIPOSA
 | Median (95% CI), months | 25.8 (20.3, 33.9) | 18.1 (14.8, 20.1) |
 
 In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant intravenous formulation and lazertinib, demonstrated similar intracranial ORR to the control.
-Results are summarised in Table 7.
+Results are summarised in Table 10.
 
-Table 7: Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline - MARIPOSA
+Table 10: Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline - MARIPOSA
 
 |  | Rybrevant intravenous formulation + lazertinib (N=180) | Osimertinib (N=186) |
 | --- | --- | --- |
@@ -283,21 +286,82 @@ Table 7: Intracranial ORR and DOR by BICR assessment in subjects with intracrani
 | Number of responders | 140 | 144 |
 | Median, months (95% CI) | 35.0 (20.4, NE) | 25.1 (22.1, 31.2) |
 
-Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
+A total of 657 patients were randomised in the study, of which 263 received carboplatin and pemetrexed (CP); and 131 which received Rybrevant intravenous formulation in combination with carboplatin and pemetrexed (Rybrevant intravenous formulation-CP).
+Additionally, 263 patients were randomised to receive Rybrevant intravenous formulation in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study.
+Rybrevant intravenous formulation was administered intravenously at 1 400 mg (for patients < 80 kg) or 1 750 mg (for patients ≥80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients < 80 kg) or 2 100 mg (for patients ≥80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
+Pemetrexed was administered intravenously at 500 mg/m2 on once every 3 weeks until disease progression or unacceptable toxicity.
+
+Of the 394 patients randomised to the Rybrevant intravenous formulation-CP arm or CP arm, the median age was 62 (range: 31-85) years, with 38% of the patients ≥65 years of age; 60% were female; and 48% were Asian and 46% were White.
+
+Rybrevant intravenous formulation in combination with carboplatin and pemetrexed demonstrated a statistically significant improvement in progression-free survival (PFS) compared to carboplatin and pemetrexed, with a HR of 0.48 (95% CI: 0.36, 0.64; p<0.0001).
+At the time of the second interim analysis for OS, with a median follow-up of approximately 18.6 months for Rybrevant intravenous formulation-CP and approximately 17.8 months for CP, the OS HR was 0.73 (95% CI: 0.54, 0.99; p=0.0386).
+Efficacy results are summarised in Table 11.
+
+Table 11: Efficacy results in MARIPOSA-2
+
+|  | Rybrevant intravenous formulation+ carboplatin+ pemetrexed (N=131) | carboplatin+ pemetrexed (N=263) |
+| --- | --- | --- |
+| Progression-free survival (PFS)a |  |  |
+| Number of events (%) | 74 (57) | 171 (65) |
+| Median, months (95% CI) | 6.3 (5.6, 8.4) | 4.2 (4.0, 4.4) |
+| HR (95% CI); p-value | 0.48 (0.36, 0.64); p<0.0001 |  |
+| Overall survival (OS) |  |  |
+| Number of events (%) | 65 (50) | 143 (54) |
+| Median, months (95% CI) | 17.7 (16.0, 22.4) | 15.3 (13.7, 16.8) |
+| HR (95% CI); p-valueb | 0.73 (0.54, 0.99); p=0.0386 |  |
+| Objective response ratea |  |  |
+| ORR, % (95% CI) | 64% (55%, 72%) | 36% (30%, 42%) |
+| Odds Ratio (95% CI); p-value | 3.10 (2.00, 4.80); p<0.0001 |  |
+| Duration of response (DOR) a |  |  |
+| Median (95% CI), months | 6.90 (5.52, NE) | 5.55 (4.17, 9.56) |
+| Patients with DOR ≥6 months | 31.9% | 20.0% |
+
+PFS, DOR and ORR results are from data cut-off 10 July-2023 when hypothesis testing and final analysis for these endpoints was performed.
+
+The PFS benefit of Rybrevant intravenous formulation-CP compared to CP was consistent across all the predefined subgroups analysed, including ethnicity, age, gender, smoking history, and CNS metastases status at study entry.
+
+Treatment with Rybrevant intravenous formulation-CP was associated with a numeric increase in intracranial ORR (23.3% for Rybrevant intravenous formulation-CP versus 16.7% for CP, odds ratio of 1.52; 95% CI (0.51, 4.50), and intracranial DOR (13.3 months; 95% CI (1.4, NE) in the Rybrevant intravenous formulation-CP arm compared with 2.2 months; 95% CI (1.4, NE) in the CP arm).
+The median follow-up for Rybrevant intravenous formulation-CP was approximately 18.6 months.
+
+PAPILLON is a randomised, open-label, multicentre Phase 3 study comparing treatment with Rybrevant intravenous formulation in combination with carboplatin and pemetrexed to chemotherapy alone (carboplatin and pemetrexed) in patients with treatment-naïve, locally advanced or metastatic NSCLC with activating EGFR Exon 20 insertion mutations.
+
+Randomisation was stratified by ECOG performance status (0 or 1), and prior brain metastases (yes or no). Patients randomised to the carboplatin and pemetrexed arm who had confirmed disease progression were permitted to cross over to receive Rybrevant intravenous formulation monotherapy.
+
+A total of 308 subjects were randomised (1:1) to Rybrevant intravenous formulation in combination with carboplatin and pemetrexed (N=153) or carboplatin and pemetrexed (N=155).
+
+Table 12: Efficacy results in PAPILLON
+
+|  | Rybrevant intravenous formulation + carboplatin+ pemetrexed (N=153) | carboplatin+ pemetrexed (N=155) |
+| --- | --- | --- |
+| Progression-free survival (PFS) a |  |  |
+| Number of events | 84 (55%) | 132 (85%) |
+| Median, months (95% CI) | 11.4 (9.8, 13.7) | 6.7 (5.6, 7.3) |
+| HR (95% CI); p-value | 0.395 (0.29, 0.52); p<0.0001 |  |
+| Objective response ratea, b |  |  |
+| ORR, % (95% CI) | 73% (65%, 80%) | 47% (39%, 56%) |
+| Odds ratio (95% CI); p-value | 3.0 (1.8, 4.8); p<0.0001 |  |
+| Complete response | 3.9% | 0.7% |
+| Partial response | 69% | 47% |
+| Overall survival (OS)c |  |  |
+| Number of events | 40 | 52 |
+| Median OS, months (95% CI) | NE (28.3, NE) | 28.6 (24.4, NE) |
+| HR (95% CI); p-value | 0.756 (0.50, 1.14); p=0.1825 |  |
+
+The OS analysis was not adjusted for the potentially confounding effects of crossover (78 [50.3%] patients on the carboplatin + pemetrexed arm who received subsequent Rybrevant intravenous formulation monotherapy treatment).
+
+The PFS benefit of Rybrevant intravenous formulation in combination with carboplatin and pemetrexed compared to carboplatin and pemetrexed was consistent across all the predefined subgroups of brain metastases at study entry (yes or no), age (< 65 or ≥65), sex (male or female), race (Asian or non-Asian), weight (< 80 kg or ≥80 kg), ECOG performance status (0 or 1), and smoking history (yes or no).
 
 CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant intravenous formulation in patients with locally advanced or metastatic NSCLC.
-Rybrevant intravenous formulation was administered intravenously at 1050 mg for patients < 80 kg or 1400 mg for patients ≥80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity.
+Rybrevant intravenous formulation was administered intravenously at 1 050 mg for patients < 80 kg or 1 400 mg for patients ≥80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity.
 
 At baseline, 29% had ECOG performance status of 0 and 70% had ECOG performance status of 1; 57% never smoked; 100% had Stage IV cancer; and 25% had previous treatment for brain metastases.
 
-Efficacy results are summarised in Table 8.
-
-Table 8: Efficacy results in CHRYSALIS
+Table 13: Efficacy results in CHRYSALIS
 
 Immunogenicity
 Anti-drug antibodies (ADA) were uncommonly detected after treatment with Rybrevant subcutaneous formulation.
 No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
-Among the 389 participants who received Rybrevant subcutaneous formulation as monotherapy or as part of combination therapy, 37 participants (10%) were positive for treatment-emergent antibodies to rHuPH20.
+Among the 741 participants who received Rybrevant subcutaneous formulation as monotherapy or as part of combination therapy, 66 participants (9%) were positive for treatment-emergent antibodies to rHuPH20.
 The immunogenicity to rHuPH20 observed in these participants did not impact the pharmacokinetics of amivantamab.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Rybrevant in all subsets of the paediatric population in NSCLC (see section 4.2 for information on paediatric use).

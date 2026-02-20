@@ -21,6 +21,6 @@ Fertility
 There are no data on the effect of amivantamab on human fertility.
 Effects on male and female fertility have not been evaluated in animal studies.
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
 If the patient becomes pregnant while taking this medicinal product, the patient should be informed of the potential risk to the foetus (see section 5.3).

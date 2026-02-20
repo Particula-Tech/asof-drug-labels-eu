@@ -10,11 +10,17 @@ One mL of solution contains 0.6 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1.
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
-Rybrevant 1600 mg solution for injection
+Rybrevant 1 600 mg solution for injection
 One mL of solution for injection contains 160 mg amivantamab.
-One 10 mL vial of solution for injection contains 1600 mg of amivantamab.
+One 10 mL vial of solution for injection contains 1 600 mg of amivantamab.
 
-Rybrevant 2240 mg solution for injection
-One 14 mL vial of solution for injection contains 2240 mg of amivantamab.
+Rybrevant 2 240 mg solution for injection
+One 14 mL vial of solution for injection contains 2 240 mg of amivantamab.
+
+Rybrevant 2 400 mg solution for injection
+One 15 mL vial of solution for injection contains 2 400 mg of amivantamab.
+
+Rybrevant 3 520 mg solution for injection
+One 22 mL vial of solution for injection contains 3 520 mg of amivantamab.

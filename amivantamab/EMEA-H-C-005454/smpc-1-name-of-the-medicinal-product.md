@@ -2,7 +2,9 @@
 
 Rybrevant 350 mg concentrate for solution for infusion.
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
-Rybrevant 1600 mg solution for injection
-Rybrevant 2240 mg solution for injection
+Rybrevant 1 600 mg solution for injection
+Rybrevant 2 240 mg solution for injection
+Rybrevant 2 400 mg solution for injection
+Rybrevant 3 520 mg solution for injection

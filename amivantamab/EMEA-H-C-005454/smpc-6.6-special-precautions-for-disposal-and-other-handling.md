@@ -6,8 +6,8 @@ Preparation
 
 - Determine the dose required and the number of Rybrevant vials needed based on patient’s baseline weight (see section 4.2).
   Each vial contains 350 mg of amivantamab.
-- For every 2-week dosing, patients < 80 kg receive 1050 mg and for patients ≥80 kg, 1400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
-- For every 3-week dosing, patients < 80 kg receive 1400 mg once weekly for a total of 4 doses, then 1750 mg every 3 weeks starting at Week 7, and for patients ≥80 kg, 1750 mg once weekly for a total of 4 doses, then 2100 mg every 3 weeks starting at Week 7.
+- For every 2-week dosing, patients < 80 kg receive 1 050 mg and for patients ≥80 kg, 1 400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
+- For every 3-week dosing, patients < 80 kg receive 1 400 mg once weekly for a total of 4 doses, then 1 750 mg every 3 weeks starting at Week 7, and for patients ≥80 kg, 1 750 mg once weekly for a total of 4 doses, then 2 100 mg every 3 weeks starting at Week 7.
 - Check that the Rybrevant solution is colourless to pale yellow.
   Do not use if discolouration or visible particles are present.
 - Withdraw and then discard a volume of either 5% glucose solution or sodium chloride 9 mg/mL (0.9%) solution for injection from the 250 mL infusion bag that is equal to the required volume of Rybrevant solution to be added (discard 7 mL diluent from the infusion bag for each vial).
@@ -34,20 +34,26 @@ Administration
 Disposal
 This medicinal product is for single use only and any unused medicinal product that is not administered within 10 hours should be disposed of in accordance with local requirements.
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
 Rybrevant subcutaneous formulation is for single use only and is ready to use.
 
 The solution for injection should be prepared using aseptic technique as follows:
 
-- Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial needed based on the patient’s baseline weight (see section 4.2).
-- Patients < 80 kg receive 1600 mg and for patients ≥80 kg, 2240 mg weekly from Weeks 1 to 4 and then every 2 weeks starting at Week 5 onwards.
-- Remove the appropriate Rybrevant subcutaneous formulation vial from refrigerated storage (2°C to 8°C).
+- Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial(s) needed based on the patient’s baseline weight (see section 4.2).
+- For every 4-week dosing, patients < 80 kg receive 1 600 mg weekly from Weeks 1 to 4, then 3 520 mg every 4 weeks starting at Week 5 onwards.
+  Patients ≥ 80 kg receive 2 240 mg weekly from Weeks 1 to 4, then 4 640 mg every 4 weeks starting at Week 5 onwards.
+- For every 2-week dosing, patients < 80 kg receive 1 600 mg and patients ≥80 kg receive 2 240 mg weekly from Weeks 1 to 4, and then every 2 weeks starting at Week 5 onwards.
+- For every 3-week dosing, patients < 80 kg receive 1 600 mg on Week 1 Day 1, then 2 400 mg weekly from Weeks 2 to 4, and then every 3 weeks starting at Week 7 onwards.
+  Patients ≥ 80 kg receive 2 240 mg on Week 1 Day 1, then 3 360 mg weekly from Weeks 2 to 4, and then every 3 weeks starting at Week 7 onwards.
+- Remove the appropriate Rybrevant subcutaneous formulation vial(s) from refrigerated storage (2°C to 8°C).
   Do not use if opaque particles, discolouration or other foreign particles are present.
 - Equilibrate Rybrevant subcutaneous formulation to room temperature (15°C to 30°C) for at least 15 minutes.
   Do not warm Rybrevant subcutaneous formulation in any other way.
 - Withdraw the required injection volume of Rybrevant subcutaneous formulation from the vial into an appropriately sized syringe using a transfer needle.
   Smaller syringes require less force during preparation and administration.
+- Each injection volume should not exceed 15 mL.
+  Divide doses requiring greater than 15 mL into approximately equal volumes in multiple syringes.
 - Rybrevant subcutaneous formulation is compatible with stainless steel injection needles, polypropolene and polycarbonate syringes, and polyethylene, polyurethane, and polyvinylchloride subcutaneous infusion sets.
   A sodium chloride 9 mg/mL (0.9%) solution may also be used to flush an infusion set if needed.
 - Replace the transfer needle with the approriate ancillaries for transport or administration.

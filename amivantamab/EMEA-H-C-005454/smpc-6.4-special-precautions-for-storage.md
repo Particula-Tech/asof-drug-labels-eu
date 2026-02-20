@@ -6,6 +6,6 @@ Store in the original package in order to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
 For storage conditions after preparing the syringe, see section 6.3.

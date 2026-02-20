@@ -7,6 +7,6 @@ Rybrevant is indicated:
 - in combination with carboplatin and pemetrexed for the first-line treatment of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations.
 - as monotherapy for treatment of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations, after failure of platinum-based therapy.
 
-[Rybrevant 1600 mg solution for injection]
+[Rybrevant 1 600 mg solution for injection]
 
 Rybrevant subcutaneous formulation is indicated:
