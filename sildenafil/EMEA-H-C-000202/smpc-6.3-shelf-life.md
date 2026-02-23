@@ -8,4 +8,4 @@
 
 [VIAGRA 50 mg orodispersible films]
 
-2 years.
+(all sentences already above)
