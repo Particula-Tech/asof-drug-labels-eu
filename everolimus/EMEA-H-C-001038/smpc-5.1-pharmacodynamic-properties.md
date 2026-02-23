@@ -22,6 +22,7 @@ The primary endpoint for the study was progression-free survival (PFS) evaluated
 Supportive PFS analyses were based on an independent central radiology review.
 
 Secondary endpoints included overall survival (OS), objective response rate, clinical benefit rate, safety, change in quality of life (QoL) and time to ECOG PS (Eastern Cooperative Oncology Group performance status) deterioration.
+
 A total of 724 patients were randomised in a 2:1 ratio to the combination everolimus (10 mg daily) + exemestane (25 mg daily) (n=485) or to the placebo + exemestane arm (25 mg daily) (n=239).
 At the time of the final OS analysis, the median duration of everolimus treatment was 24.0 weeks (range 1.0-199.1 weeks).
 The median duration of exemestane treatment was longer in the everolimus + exemestane group at 29.5 weeks (1.0-199.1) compared to 14.1 weeks (1.0-156.0) in the placebo + exemestane group.
@@ -104,12 +105,12 @@ For the key secondary endpoint PFS the estimated HR was 1.26 (90% CI: 0.96, 1.66
 Results of the secondary endpoint OS were not consistent with the primary endpoint PFS, with a trend observed favouring the everolimus alone arm.
 The estimated HR was 1.27 (90% CI: 0.95, 1.70) for the comparison of OS in the everolimus alone arm relative to the everolimus + exemestane arm.
 The estimated HR for the comparison of OS in the everolimus + exemestane combination arm relative to capecitabine arm was 1.33 (90% CI: 0.99, 1.79).
+
 Advanced neuroendocrine tumours of pancreatic origin (pNET)
 RADIANT-3 (study CRAD001C2324), a phase III, multicentre, randomised, double-blind study of Afinitor plus best supportive care (BSC) versus placebo plus BSC in patients with advanced pNET, demonstrated a statistically significant clinical benefit of Afinitor over placebo by a 2.4-fold prolongation of median progression-free-survival (PFS) (11.04 months versus 4.6 months), (HR 0.35; 95% CI: 0.27, 0.45; p<0.0001) (see Table 5 and Figure 3).
 
 RADIANT-3 involved patients with well- and moderately-differentiated advanced pNET whose disease had progressed within the prior 12 months.
 Treatment with somatostatin analogues was allowed as part of BSC.
-
 The primary endpoint for the study was PFS evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
 Following documented radiological progression, patients could be unblinded by the investigator.
 Those randomised to placebo were then able to receive open-label Afinitor.
@@ -173,9 +174,9 @@ A total of 302 patients were randomised in a 2:1 ratio to receive either everoli
 Demographics and disease characteristics were generally balanced (median age 63 years [range 22 to 86], 76% Caucasian, history of prior somatostatin analogue [SSA] use).
 The median duration of blinded treatment was 40.4 weeks for patients receiving Afinitor and 19.6 weeks for those receiving placebo.
 After primary PFS analysis, 6 patients from the placebo arm crossed over to open-label everolimus.
+
 The efficacy results for the primary endpoint PFS (independent radiological review) were obtained from the final PFS analysis (see Table 6 and Figure 4).
 The efficacy results for PFS (investigator radiological review) were obtained from the final OS analysis (see Table 6).
-
 Table 6 RADIANT-4 – Progression-free survival results
 
 | Population | Afinitor n=205 | Placebo n=97 | Hazard ratio (95% CI) | p-valuea |
@@ -215,7 +216,6 @@ Time(months) 0 2 4 6 8 10 12 15 18 21 24 27 30 Everolimus 205 168 145 124 101 81
 Placebo 97 65 39 30 24 21 17 15 11 6 5 1 0
 
 In supportive analyses, positive treatment effect has been observed in all subgroups with the exception of the subgroup of patients with ileum as primary site of tumour origin (Ileum: HR=1.22 [95% CI: 0.56 to 2.65]; Non-ileum: HR=0.34 [95% CI: 0.22 to 0.54]; Lung: HR=0.43 [95% CI: 0.24 to 0.79]) (see Figure 5).
-
 Figure 5 RADIANT-4 – Progression free survival results by pre-specified patient subgroup (independent radiological review)
 
 All (N=302)
@@ -262,11 +262,11 @@ Hazard ratio (95% CI) from stratified Cox model
 The final overall survival (OS) analysis did not show a statistically significant difference between those patients who received Afinitor or placebo during the blinded treatment period of the study (HR=0.90 [95% CI: 0.66 to 1.22]).
 
 No difference in the time to definitive deterioration of WHO PS (HR=1.02; [95% CI: 0.65, 1.61]) and time to definitive deterioration in quality of life (FACT-G total score HR=0.74; [95% CI: 0.50, 1.10]) was observed between the two arms.
+
 Advanced renal cell carcinoma
 RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
 Patients were stratified according to Memorial Sloan-Kettering Cancer Center (MSKCC) prognostic score (favourable- vs. intermediate- vs. poor-risk groups) and prior anticancer therapy (1 vs. 2 prior VEGFR-TKIs).
-
 Progression-free survival, documented using RECIST (Response Evaluation Criteria in Solid Tumours) and assessed via a blinded, independent central review, was the primary endpoint.
 Secondary endpoints included safety, objective tumour response rate, overall survival, disease-related symptoms, and quality of life.
 After documented radiological progression, patients could be unblinded by the investigator: those randomised to placebo were then able to receive open-label everolimus 10 mg/day.

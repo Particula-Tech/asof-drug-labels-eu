@@ -13,6 +13,7 @@ Patients who develop radiological changes suggestive of non-infectious pneumonit
 If symptoms are moderate (Grade 2) or severe (Grade 3) the use of corticosteroids may be indicated until clinical symptoms resolve.
 
 For patients who require use of corticosteroids for treatment of non-infectious pneumonitis, prophylaxis for PJP/PCP may be considered.
+
 Infections
 
 Everolimus has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
@@ -51,12 +52,12 @@ Renal failure events
 
 Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with Afinitor (see section 4.8).
 Renal function should be monitored particularly where patients have additional risk factors that may further impair renal function.
+
 Laboratory tests and monitoring
 
 Renal function
 Elevations of serum creatinine, usually mild, and proteinuria have been reported (see section 4.8).
 Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
-
 Blood glucose
 Hyperglycaemia has been reported (see section 4.8).
 Monitoring of fasting serum glucose is recommended prior to the start of Afinitor therapy and periodically thereafter.
@@ -91,9 +92,9 @@ Dose adjustments of Afinitor can be taken into consideration based on predicted 
 Concomitant treatment with potent CYP3A4/PgP inhibitors result in dramatically increased plasma concentrations of everolimus (see section 4.5).
 There are currently not sufficient data to allow dosing recommendations in this situation.
 Hence, concomitant treatment of Afinitor and potent inhibitors is not recommended.
+
 Caution should be exercised when Afinitor is taken in combination with orally administered CYP3A4 substrates with a narrow therapeutic index due to the potential for drug interactions.
 If Afinitor is taken with orally administered CYP3A4 substrates with a narrow therapeutic index (e.g. pimozide, terfenadine, astemizole, cisapride, quinidine or ergot alkaloid derivatives), the patient should be monitored for undesirable effects described in the product information of the orally administered CYP3A4 substrate (see section 4.5).
-
 Hepatic impairment
 
 Exposure to everolimus was increased in patients with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment (see section 5.2).

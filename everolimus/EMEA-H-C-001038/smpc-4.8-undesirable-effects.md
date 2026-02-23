@@ -3,7 +3,6 @@
 Summary of the safety profile
 
 The safety profile is based on pooled data from 2,879 patients treated with Afinitor in eleven clinical studies, consisting of five randomised, double-blind, placebo controlled phase III studies and six open-label phase I and phase II studies, related to the approved indications.
-
 The most common adverse reactions (incidence ≥1/10) from the pooled safety data were (in decreasing order): stomatitis, rash, fatigue, diarrhoea, infections, nausea, decreased appetite, anaemia, dysgeusia, pneumonitis, oedema peripheral, hyperglycaemia, asthenia, pruritus, weight decreased, hypercholesterolaemia, epistaxis, cough and headache.
 
 The most frequent Grade 3-4 adverse reactions (incidence ≥1/100 to <1/10) were stomatitis, anaemia, hyperglycaemia, infections, fatigue, diarrhoea, pneumonitis, asthenia, thrombocytopenia, neutropenia, dyspnoea, proteinuria, lymphopenia, haemorrhage, hypophosphataemia, rash, hypertension, pneumonia, alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased and diabetes mellitus.
@@ -15,6 +14,7 @@ Table 3 presents the frequency category of adverse reactions reported in the poo
 Adverse reactions are listed according to MedDRA system organ class and frequency category.
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 3 Adverse reactions reported in clinical studies
 
 | Infections and infestations |  |
@@ -84,7 +84,6 @@ In clinical studies and post-marketing spontaneous reports, everolimus has been 
 Monitoring of renal function is recommended (see section 4.4).
 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of amenorrhoea (secondary amenorrhoea and other menstrual irregularities).
-
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of PJP/PCP, some with fatal outcome (see section 4.4).
 
 In clinical studies and post-marketing spontaneous reports, angioedema has been reported with and without concomitant use of ACE inhibitors (see section 4.4).

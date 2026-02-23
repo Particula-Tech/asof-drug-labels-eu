@@ -12,6 +12,7 @@ Studies in animals have shown reproductive toxicity effects including embryotoxi
 The potential risk for humans is unknown.
 
 Everolimus is not recommended during pregnancy and in women of childbearing potential not using contraception.
+
 Breast-feeding
 
 It is not known whether everolimus is excreted in human breast milk.
