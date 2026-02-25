@@ -27,4 +27,5 @@ Premature infants often have physiological differences compared to full-term inf
 One significant difference is the maturation of adrenergic receptors, including beta-1 receptors and these receptors may not be fully developed and may exhibit a variable response to dopamine hydrochloride, which may have a more or less pronounced effect on cardiac contractility compared to older infants or adults.
 
 Some premature infants may show a robust positive inotropic response, while others may have a more limited response.
+
 These differences in receptor maturation and individual variability require careful monitoring and titration of dopamine hydrochloride to optimise cardiac function while minimizing the risk of adverse effects.

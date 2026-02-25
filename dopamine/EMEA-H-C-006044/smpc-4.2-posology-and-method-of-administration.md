@@ -16,39 +16,29 @@ Doses above 10 µg/kg/min up to a maximum of 20 µg/kg/min may be administered i
 Dose of dopamine hydrochloride should be adjusted according to the patient’s response, with particular attention to diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias as indications for decreasing or temporarily suspending the dose (see section 4.4).
 
 For ease of dosing there are two different strengths for patients of different weight categories.
-Pre-calculated dose tables per weight are shown below with the recommended strength and vial volume to be used.
 
-Children weighing 2 kg to 9 kg
-Rates of infusion according to body weight for children from 2 kg to 9 kg, who should be provided the lower strength, Neoatricon 1.5 mg/mL solution for infusion 30 mL vial.
+Infusion rates may be calculated using the following formula:
 
-| Neoatricon 1.5 mg/mL |  |  |  |
-| --- | --- | --- | --- |
-| Body weight | Rates of infusion according to target dose |  |  |
-|  | 5 µg/kg/min | 10 µg/kg/min | 20 µg/kg/min |
-| 2 kg | 0.40 mL/hour | 0.80 mL/hour | 1.60 mL/hour |
-| 3 kg | 0.60 mL/hour | 1.20 mL/hour | 2.40 mL/hour |
-| 4 kg | 0.80 mL/hour | 1.60 mL/hour | 3.20 mL/hour |
-| 5 kg | 1.00 mL/hour | 2.00 mL/hour | 4.00 mL/hour |
-| 6 kg | 1.20 mL/hour | 2.40 mL/hour | 4.80 mL/hour |
-| 7 kg | 1.40 mL/hour | 2.80 mL/hour | 5.60 mL/hour |
-| 8 kg | 1.60 mL/hour | 3.20 mL/hour | 6.40 mL/hour |
-| 9 kg | 1.80 mL/hour | 3.60 mL/hour | 7.20 mL/hour |
+[Dose (µg/kg/minute) x Weight (kg) x 60 (minutes/hour)]
+Infusion Rate (mL/hour) = __________________________________________ Concentration (µg/mL)
 
-Children weighing 10 kg to 66 kg
-Rates of infusion according to body weight for children from 10 kg to 66 kg, who should be provided the higher strength: Neoatricon 4.5 mg/mL solution for infusion 50 mL vial.
+An example is provided for each concentration at a relevant weight below:
 
-| Neoatricon 4.5 mg/mL |  |  |  |
-| --- | --- | --- | --- |
-| Bodyweight | Rates of infusion according to target dose |  |  |
-|  | 5 µg /kg/min | 10 µg /kg/min | 20 µg /kg/min |
-| 10 kg | 0.67 mL/hour | 1.33 mL/ hour | 2.67 mL/hour |
-| 20 kg | 1.34 mL/hour | 2.68 mL/hour | 5.36 mL/hour |
-| 30 kg | 2.00 mL/hour | 4.00 mL/hour | 8.00 mL/hour |
-| 66 kg | 4.40 mL/hour | 8.80 mL/hour | 17.60 mL/hour |
+Example 1: for a 5 kg person at the recommended initial dose of 5 mcg/kg/minute using a 1.5 mg
+/mL concentration, the infusion rate would be as follows:
+
+[5 (µg/kg/minute) x 5 (kg) x 60 (minutes/hour)]
+Infusion Rate (mL/hour) = __________________________________________ = 1.00 (mL/hour) 1.500 (µg/mL)
+
+Example 2: for a 30 kg person at the recommended initial dose of 5 mcg/kg/minute using a 4.5 mg /mL concentration, the infusion rate would be as follows:
+
+[5 (µg/kg/minute) x 30 (kg) x 60 (minutes/hour)]
+Infusion Rate (mL/hour) = __________________________________________ = 2.00 (mL/hour) 4.500 (µg/mL)
 
 Weaning and discontinuation
 Dopamine hydrochloride should be discontinued gradually and should not be stopped abruptly.
 Haemodynamic status should be continually assessed during the weaning phase (see section 4.4).
+
 Special populations
 
 Hepatic and renal impairment
@@ -58,7 +48,6 @@ MAO inhibitors
 Patients who have been treated with MAO inhibitors prior to dopamine hydrochloride should be given reduced doses; the starting dose should be 10 % of the usual dose (see section 4.4 and 4.5).
 
 Method of administration
-
 For intravenous use.
 Dopamine hydrochloride should be administered via a central line [Umbilical venous catheter (UVC), Longline, or Surgical central venous line (CVL)].
 If no central access is available, a cannula in large vein should be used.

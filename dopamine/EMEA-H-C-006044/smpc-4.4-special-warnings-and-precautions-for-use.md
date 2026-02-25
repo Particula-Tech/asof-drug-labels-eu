@@ -14,6 +14,7 @@ Dopamine hydrochloride should be chosen if inotropic, chronotropic, vasoconstric
 However, the use of vasopressors in haemorrhagic or hypovolemic shock should be approached cautiously and under close monitoring.
 
 Excess administration of potassium-free solutions may result in significant hypokalaemia.
+
 If a disproportionate rise in diastolic pressure (i.e. a marked decrease in pulse pressure) is observed, the infusion rate should be decreased and the patients observed carefully for further evidence of predominant vasoconstriction activity, unless such an effect is desired.
 
 Constant evaluation of therapy in terms of blood volume, augmentation of cardiac contractility, and distribution of peripheral perfusion and urinary output is required for patients of any age.
@@ -22,7 +23,6 @@ Monitoring of potential cardiac adverse reactions
 
 Careful monitoring should be performed for dysrhythmia and tachycardia and if present consideration should be given to reducing the infusion rate or discontinuing dopamine hydrochloride if clinically appropriate.
 Any reversible causes of tachycardia such as volume depletion, hypoxia or pain should be corrected and tachycardia should be controlled.
-
 Peripheral vascular disease
 
 Patients should be closely monitored for any changes in colour or temperature of the skin of the extremities.
@@ -57,6 +57,7 @@ See also weaning instructions in section 4.2.
 Septic shock
 
 Based on signals of an increased mortality with the first line use of dopamine in paediatric and adult patients with septic shock, first line administration of dopamine in paediatric patients with sepsis is not recommended.
+
 Cardiac surgery
 
 Dopamine hydrochloride is selectively used in paediatric patients with low cardiac output syndrome (LCOS) and low systemic vascular resistance (SVR) to improve cardiac output.
@@ -98,6 +99,7 @@ It is therefore recommended to test all new-borns for TSH and T4 values not only
 Dopamine hydrochloride may lead to false positive results when urinary catecholamine excretion is determined.
 
 Prolactin
+
 Dopamine hydrochloride is known to reduce serum prolactin (see section 4.6).
 
 Excipients with known effect

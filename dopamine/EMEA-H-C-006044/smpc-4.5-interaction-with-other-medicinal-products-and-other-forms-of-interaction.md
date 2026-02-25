@@ -34,6 +34,7 @@ Tricyclic antidepressants and guanethidine
 Tricyclic antidepressants (e.g. amitriptyline, desipramine, doxepin, imipramine, nortriptyline) and guanethidine may potentiate the pressor response to dopamine hydrochloride.
 
 Inactivation of dopamine hydrochloride by addition of alkalizing substances
+
 Dopamine hydrochloride is inactivated in alkaline solution please refer to section 4.4 and section 6.2.
 
 Metoclopramide

@@ -10,6 +10,7 @@ The data in the following table is extracted from clinical studies and post-mark
 The frequency of adverse events cannot be estimated in the paediatric population.
 The adverse reactions are listed below by SOC (System Organ Class) and by frequency, most frequent reactions first, with the following guidelines: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 1: Adverse reactions identified in clinical studies and post-marketing
 
 | System organ class | Frequency | Adverse reaction |

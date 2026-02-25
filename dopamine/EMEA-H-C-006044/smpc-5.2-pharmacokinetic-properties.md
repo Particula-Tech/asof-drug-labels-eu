@@ -6,7 +6,6 @@ Orally administered dopamine hydrochloride is rapidly metabolised in the gastroi
 Following IV administration, the onset of action of dopamine hydrochloride occurs within 5 minutes, and dopamine hydrochloride has duration of action of less than 10 minutes.
 
 Distribution
-
 Dopamine is widely distributed in the body but does not cross the blood-brain barrier to a substantial extent.
 It is not known if dopamine crosses the placenta.
 
