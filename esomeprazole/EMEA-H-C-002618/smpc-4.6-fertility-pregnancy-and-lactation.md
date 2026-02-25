@@ -6,7 +6,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 As a precautionary measure, it is preferable to avoid the use of Nexium Control during pregnancy.
 
 Breast-feeding
-It is unknown whether esomeprazole/metabolites are excreted in human milk.
+Limited information indicates that esomeprazole is excreted in human milk.
 There is insufficient information on the effects of esomeprazole in newborns/infants.
 Esomeprazole should not be used during breast-feeding.
 

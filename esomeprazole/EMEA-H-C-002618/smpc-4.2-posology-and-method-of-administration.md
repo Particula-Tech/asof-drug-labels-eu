@@ -7,7 +7,7 @@ It might be necessary to take the tablets for 2-3 consecutive days to achieve im
 The duration of treatment is up to 2 weeks.
 Once complete relief of symptoms has occurred, treatment should be discontinued.
 
-If no symptom relief is obtained within 2 weeks of continuous treatment, the patient should be instructed to consult a doctor.
+If symptoms worsen or if no symptom relief is obtained within 2 weeks of continuous treatment, the patient should be instructed to consult a doctor.
 
 Special populations
 Patients with renal impairment
@@ -24,6 +24,7 @@ Paediatric population
 There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of “short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)”.
 
 Method of administration
+Oral use.
 The tablets should be swallowed whole with half a glass of water.
 The tablets must not be chewed or crushed.
 

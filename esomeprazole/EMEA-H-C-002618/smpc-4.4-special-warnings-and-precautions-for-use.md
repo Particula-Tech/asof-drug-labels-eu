@@ -6,6 +6,8 @@ Patients should be instructed to consult a doctor if:
 - They have significant unintentional weight loss, recurrent vomiting, dysphagia, haematemesis or melaena and when gastric ulcer is suspected or present, malignancy should be excluded as treatment with esomeprazole may alleviate symptoms and delay diagnosis.
 - They have had previous gastric ulcer or gastrointestinal surgery.
 - They have been on continuous symptomatic treatment of indigestion or heartburn for 4 or more weeks.
+  This may be a sign of a more serious condition.
+- They have frequent wheezing, particularly with heartburn.
 - They have jaundice or severe liver disease.
 - They are aged over 55 years with new or recently changed symptoms.
 
@@ -22,6 +24,7 @@ Combination with other medicinal products
 Co-administration of esomeprazole with atazanavir is not recommended (see section 4.5).
 If the combination of atazanavir with a PPI is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of atazanavir to 400 mg with 100 mg of ritonavir.
 Esomeprazole 20 mg should not be exceeded.
+
 Esomeprazole is a CYP2C19 inhibitor.
 When starting or ending treatment with esomeprazole, the potential for interactions with medicinal products metabolised through CYP2C19 should be considered.
 An interaction is observed between clopidogrel and esomeprazole.

@@ -26,12 +26,12 @@ Esomeprazole is completely eliminated from plasma between doses with no tendency
 The major metabolites of esomeprazole have no effect on gastric acid secretion.
 Almost 80% of an oral dose of esomeprazole is excreted as metabolites in the urine, the remainder in the faeces.
 Less than 1% of the parent compound is found in urine.
-
 Linearity/non-linearity
 The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d.
 The area under the plasma concentration-time curve increases with repeated administration of esomeprazole.
 This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration.
 This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
+
 Special patient populations
 Poor metabolisers
 Approximately 2.9±1.5% of the population lack a functional CYP2C19 enzyme and are called poor metabolisers.

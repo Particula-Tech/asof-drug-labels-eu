@@ -24,6 +24,7 @@ Capsule content
 Methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent
 Carmine (E120)
 Indigo carmine (E132)
+
 Capsule shell
 Gelatin
 Erythrosine (E127)

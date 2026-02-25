@@ -4,7 +4,6 @@ Interaction studies have only been performed in adults.
 
 Effects of esomeprazole on the pharmacokinetics of other medicinal products
 As esomeprazole is one enantiomer of omeprazole it is reasonable to advise about interactions reported with omeprazole.
-
 Protease inhibitors
 Omeprazole has been reported to interact with some protease inhibitors.
 The clinical importance and the mechanisms behind these reported interactions are not always known.
@@ -35,7 +34,7 @@ A reinforced monitoring of tacrolimus concentrations as well as renal function (
 
 Medicinal products with pH dependent absorption
 Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption.
-The absorption of medicinal products taken orally such as ketoconazole, itraconazole and erlotinib can decrease during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
+The absorption of medicinal products taken orally such as ketoconazole, itraconazole, erlotinib and levothyroxine can decrease and dose adjustments may be required during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
 
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (up to 30% in two out of ten subjects).
 Digoxin toxicity has been rarely reported.
@@ -46,6 +45,7 @@ Medicinal products metabolised by CYP2C19
 Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme.
 Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed.
 In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
+
 Warfarin
 Concomitant administration of 40 mg esomeprazole to warfarin-treated patients in a clinical study showed that coagulation times were within the accepted range.
 However, post-marketing, a few isolated cases of elevated INR of clinical significance have been reported during concomitant treatment.
@@ -81,9 +81,9 @@ Concomitant administration of 30 mg esomeprazole resulted in a 45% decrease in c
 Investigated medicinal products with no clinically relevant interaction
 Amoxicillin and quinidine
 Esomeprazole has been shown to have no clinically relevant effects on the pharmacokinetics of amoxicillin and quinidine.
-
 Naproxen or rofecoxib
 Studies evaluating concomitant administration of esomeprazole and either naproxen or rofecoxib did not identify any clinically relevant pharmacokinetic interactions during short-term studies.
+
 Effects of other medicinal products on the pharmacokinetics of esomeprazole
 Medicinal products which inhibit CYP2C19 and/or CYP3A4
 Esomeprazole is metabolised by CYP2C19 and CYP3A4.
