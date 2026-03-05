@@ -12,9 +12,19 @@ Excipient with known effect
 
 Each mL of concentrate contains 0.1 mmol (or 2.5 mg) sodium.
 
+Each 4 mL vial of concentrate contains 0.94 mg of polysorbate 80.
+
+Each 10 mL vial of concentrate contains 2.14 mg of polysorbate 80.
+
+Each 12 mL vial of concentrate contains 2.6 mg of polysorbate 80.
+
+Each 24 mL vial of concentrate contains 5.0 mg of polysorbate 80.
+
 For the full list of excipients, see section 6.1.
 
 [OPDIVO 600 mg solution for injection.]
 
 Each mL of solution for injection contains 120 mg of nivolumab.
 One vial of 5 mL contains 600 mg of nivolumab.
+
+Each 5 mL vial of this this medicinal product contains 2.5 mg of polysorbate 80.

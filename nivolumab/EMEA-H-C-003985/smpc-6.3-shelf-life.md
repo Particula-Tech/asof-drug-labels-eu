@@ -3,6 +3,7 @@
 Unopened vial
 
 3 years
+
 After preparation of infusion
 
 Chemical and physical in-use stability from the time of preparation has been demonstrated as follows (times are inclusive of the administration period):

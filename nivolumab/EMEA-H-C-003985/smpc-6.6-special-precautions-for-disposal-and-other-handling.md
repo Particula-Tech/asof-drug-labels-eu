@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 Preparation should be performed by trained personnel in accordance with good practices rules, especially with respect to asepsis.
-
 Preparation and administration
 
 Calculating the dose
@@ -9,6 +8,7 @@ More than one vial of OPDIVO concentrate may be needed to give the total dose fo
 
 Nivolumab monotherapy
 The prescribed dose for the adult patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
+
 Melanoma (advanced or adjuvant treatment) in adolescents.
 The prescribed dose for adolescents 12 years of age and older weighing at least 50 kg is 240 mg or 480 mg.
 For adolescents 12 years of age and older and weighing less than 50 kg, the prescribed dose is given in mg/kg.
@@ -45,6 +45,10 @@ The prescribed dose for the patient is 360 mg given regardless of body weight.
 Nivolumab in combination with cabozantinib
 The prescribed dose for the patient is nivolumab 240 mg or 480 mg given regardless of body weight.
 
+Nivolumab in combination with brentuximab vedotin
+The prescribed dose for the patient is given in mg/kg.
+Based on this prescribed dose, calculate the total dose to be given (please see above).
+
 Preparing the infusion
 Take care to ensure aseptic handling when you prepare the infusion.
 
@@ -63,7 +67,7 @@ OPDIVO concentrate may be diluted with either:
 
 STEP 1
 
-- Inspect the OPDIVO concentrate for particulate matter or discoloration.
+- Inspect the OPDIVO concentrate for particulate matter or discolouration.
   Do not shake the vial.
   OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid.
   Discard the vial if the solution is cloudy, is discoloured, or contains particulate matter other than a few translucent-to-white particles.
@@ -120,6 +124,7 @@ The hypodermic injection needle must be attached to the syringe immediately prio
 It is recommended to use the prepared dose immediately.
 
 If storage is required (see section 6.3), apply a syringe tip cap prior to storage.
+
 If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 
 Discard any unused solution remaining in the vial.

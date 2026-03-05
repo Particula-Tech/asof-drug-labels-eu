@@ -16,7 +16,7 @@ Immune-related adverse reactions
 
 When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
-Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy.
+Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib or in combination with brentuximab vedotin relative to nivolumab monotherapy.
 Therefore, the guidance below for immune-related adverse reactions applies to the OPDIVO component of the combination, except where specifically noted.
 Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
 Immune-related adverse reactions affecting more than one body system can occur simultaneously.
@@ -24,7 +24,6 @@ Immune-related adverse reactions affecting more than one body system can occur s
 Cardiac and pulmonary adverse reactions including pulmonary embolism have also been reported with combination therapy.
 Patients should be monitored for cardiac and pulmonary adverse reactions continuously, as well as for clinical signs, symptoms, and laboratory abnormalities indicative of electrolyte disturbances and dehydration prior to and periodically during treatment.
 Nivolumab in combination with ipilimumab should be discontinued for life-threatening or recurrent severe cardiac and pulmonary adverse reactions (see section 4.2).
-
 Patients should be monitored continuously (at least up to 5 months after the last dose) as an adverse reaction with nivolumab or nivolumab in combination with ipilimumab may occur at any time during or after discontinuation of therapy.
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
@@ -58,7 +57,6 @@ Patients should be monitored for diarrhoea and additional symptoms of colitis, s
 Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-related colitis.
 Infectious and other aetiologies of diarrhoea should be ruled out, therefore appropriate laboratory tests and additional examinations must be performed.
 If diagnosis of corticosteroid-refractory immune-related colitis is confirmed addition of an alternative immunosuppressive agent to the corticosteroid therapy, or replacement of the corticosteroid therapy, should be considered.
-
 For Grade 4 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 Nivolumab monotherapy should be withheld for Grade 3 diarrhoea or colitis, and corticosteroids initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
@@ -94,7 +92,6 @@ For Grade 4 serum creatinine elevation, nivolumab or nivolumab in combination wi
 For Grade 2 or 3 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
-
 Immune-related endocrinopathies
 Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency (including secondary adrenocortical insufficiency), hypophysitis (including hypopituitarism), diabetes mellitus, and diabetic ketoacidosis have been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 
@@ -131,7 +128,6 @@ Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 
 Rare cases of SJS and TEN some of them with fatal outcome have been observed.
 If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment.
 If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
-
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
@@ -162,10 +158,9 @@ If HLH is confirmed, administration of nivolumab or nivolumab in combination wit
 
 Infusion reactions
 
-Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
-In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
-Patients with mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
-
+Infusion reactions, including severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab or other therapeutic agents (see section 4.8).
+In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab or other therapeutic agent infusion must be discontinued and appropriate medical therapy administered.
+Patients with a mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab or other therapeutic agents with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
 Disease-specific precautions
 
 Advanced melanoma
@@ -234,8 +229,13 @@ Liver enzymes should be monitored before initiation of and periodically througho
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for cabozantinib).
 
 Classical Hodgkin lymphoma
+Nivolumab monotherapy
+
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+Nivolumab in combination with brentuximab vedotin
+Patients with active autoimmune disease, with nodular lymphocyte predominant HL, and who had prior exposure to anti-PD1, anti-PDL1, anti-PD-L2, anti-CD137 or anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways were excluded from the clinical trial of nivolumab in combination with brentuximab vedotin in the treatment of cHL (see section 5.1).
 
 Complications of allogeneic haematopoietic stem cell transplant (HSCT) in classical Hodgkin lymphoma
 Cases of acute graft-versus-host disease (GVHD) and transplant related mortality (TRM) have been observed from the follow-up of patients with cHL undergoing allogeneic HSCT after previous exposure to nivolumab.
@@ -257,10 +257,10 @@ Urothelial carcinoma
 Treatment of advanced urothelial carcinoma
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Adjuvant treatment of urothelial carcinoma
 Patients with a baseline performance score of ≥ 2 (except patients with a baseline performance score of 2 who have not received cisplatin based neoadjuvant chemotherapy and are considered ineligible for cisplatin adjuvant chemotherapy), evidence of disease after surgery, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial of adjuvant treatment of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 dMMR or MSI-H colorectal cancer
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -292,6 +292,7 @@ In the absence of data, nivolumab in combination with chemotherapy should be use
 
 Study CA209649 excluded patients with known HER2-positive status.
 Patients with undetermined status were allowed in the study and represented 40.3% of patients (see section 5.1).
+
 Hepatocellular carcinoma
 Patients who had baseline ECOG performance score ≥ 2, prior liver transplant, Child-Pugh C liver disease, a history of concurrent brain metastases, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in HCC (see sections 4.5 and 5.1).
 Limited data are available in HCC patients with Child-Pugh B. In the absence of data, nivolumab in combination with ipilimumab followed by nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -301,28 +302,32 @@ A higher risk of death may be associated with poor prognostic features.
 Physicians should consider this risk before initiating treatment with nivolumab in combination with ipilimumab in patients with poor prognostic features.
 
 Patients on controlled sodium diet
-
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
 This medicinal product contains 10 mg sodium per 4 mL vial, 25 mg sodium per 10 mL vial, 30 mg sodium per 12 mL vial or 60 mg sodium per 24 mL vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 Sodium intake could vary in case sodium chloride is used for the dilution steps.
 
-Patient alert card
+OPDIVO contains polysorbate 80 (E433)
+This medicinal product contains 0.94 mg of polysorbate 80 in each 4 mL vial; 2.14 mg of polysorbate 80 in each 10 mL vial; 2.6 mg of polysorbate 80 in each 12 mL vial; and 5.0 mg of polysorbate 80 in each 24 mL vial.
+Polysorbates may cause allergic reactions.
+
+Patient card
 
 All prescribers of OPDIVO must be familiar with the physician information and management guidelines.
 The prescriber must discuss the risks of OPDIVO therapy with the patient.
-The patient will be provided with the patient alert card with each prescription.
+The patient will be provided with the patient card with each prescription.
 
 [OPDIVO 600 mg solution for injection.]
+
+Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy.
 
 Cases of acute graft-versus-host disease (GVHD) and transplant related mortality (TRM) have been observed from the follow-up of patients with classical Hodgkin lymphoma undergoing allogeneic haematopoietic stem cell transplant (HSCT) after previous exposure to intravenous nivolumab.
 Careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case-by-case.
 In patients treated with intravenous nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients.
+
 Infusion reactions (intravenous formulation)
 Severe infusion reactions have been reported in clinical trials of intravenous nivolumab or intravenous nivolumab in combination with ipilimumab (see section 4.8).
 In case of a severe or life-threatening infusion reaction, the intravenous nivolumab or intravenous nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
 Patients with mild or moderate infusion reaction may receive intravenous nivolumab or intravenous nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
 
-OPDIVO contains polysorbate 80 (E433)
 This medicinal product contains 2.5 mg of polysorbate 80 in each 5 mL vial which is equivalent to 5 mg/10 mL.
-Polysorbates may cause allergic reactions.

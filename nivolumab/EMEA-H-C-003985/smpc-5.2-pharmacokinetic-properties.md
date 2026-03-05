@@ -34,13 +34,16 @@ Body weight-based dosing is recommended for adolescents 12 years of age and olde
 
 For nivolumab in combination with ipilimumab, the exposures of nivolumab and ipilimumab in adolescents 12 years of age and older are expected to be comparable to those in adult patients at the recommended dose.
 
+Similar to the adult population, nivolumab CL was lower in cHL paediatric patients relative to patients with solid tumours.
+The magnitude of the CL decrease was similar for paediatric and adult cHL patients.
+Exposures of nivolumab were similar (< 20% difference in geometric means) in paediatric patients with cHL receiving nivolumab 3 mg/kg IV every 3 weeks and adult patients with cHL receiving nivolumab 3 mg/kg IV every 3 weeks, or adult patients with solid tumours receiving nivolumab 3 mg/kg IV every 2 weeks.
+
 Renal impairment
 The effect of renal impairment on the CL of nivolumab was evaluated in patients with mild
 (GFR < 90 and ≥ 60 mL/min/1.73 m2; n = 379), moderate (GFR < 60 and ≥ 30 mL/min/1.73 m2;
 n = 179), or severe (GFR < 30 and ≥ 15 mL/min/1.73 m2; n = 2) renal impairment compared to patients with normal renal function (GFR ≥ 90 mL/min/1.73 m2; n = 342) in population PK analyses.
 No clinically important differences in the CL of nivolumab were found between patients with mild or moderate renal impairment and patients with normal renal function.
 Data from patients with severe renal impairment are too limited to draw conclusions on this population (see section 4.2).
-
 Hepatic impairment
 The effect of hepatic impairment on the CL of nivolumab was evaluated in patients with different tumour types (NSCLC, SCLC, melanoma, RCC, SCCHN, UC, GC, and cHL) with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST > ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 351) and in patients with moderate hepatic impairment (total bilirubin > 1.5 × to 3 × ULN and any AST; n = 10) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 3096) in a population PK analysis.
 No clinically important differences in the CL of nivolumab were found between patients with mild or moderate hepatic impairment and normal hepatic function.
@@ -75,6 +78,6 @@ The following factors had no clinically important effect on the clearance of niv
 
 In population PK analyses for intravenous nivolumab, the effect of renal impairment on the CL of nivolumab was evaluated in patients with mild (GFR < 90 and ≥ 60 mL/min/1.73 m2; n = 379), moderate (GFR < 60 and ≥ 30 mL/min/1.73 m2; n = 179), or severe (GFR < 30 and ≥ 15 mL/min/1.73 m2; n = 2) renal impairment compared to patients with normal renal function (GFR ≥ 90 mL/min/1.73 m2; n = 342).
 
-In population PK analyses for intravenous nivolumab, the effect of hepatic impairment on the CL of nivolumab was evaluated in patients with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST > ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 92) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 804).
-No clinically important differences in the CL of nivolumab were found between patients with mild hepatic impairment and normal hepatic function.
-Nivolumab has not been studied in patients with moderate (total bilirubin > 1.5 × to 3 × ULN and any AST) or severe hepatic impairment (total bilirubin > 3 × ULN and any AST) (see section 4.2).
+In population PK analyses for intravenous nivolumab, the effect of hepatic impairment on the CL of nivolumab was evaluated in patients with different tumour types (NSCLC, SCLC, melanoma, RCC, SCCHN, UC, GC, and cHL) with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or
+AST > ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 351) and in patients with moderate hepatic impairment (total bilirubin > 1.5 × to 3 × ULN and any AST;
+n = 10) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 3096).

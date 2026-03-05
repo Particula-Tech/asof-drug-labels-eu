@@ -10,12 +10,11 @@ With a minimum of 63 months follow-up in NSCLC, no new safety signals were ident
 
 Tabulated summary of adverse reactions
 Adverse reactions reported in the pooled dataset for patients treated with nivolumab monotherapy
-(n = 4646) are presented in Table 8.
+(n = 4646) are presented in Table 17.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
-Table 8: Adverse reactions with nivolumab monotherapy
+Table 17: Adverse reactions with nivolumab monotherapy
 
 Nivolumab monotherapy
 Infections and infestations
@@ -24,7 +23,6 @@ Common pneumoniaa, bronchitis
 Rare aseptic meningitis
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Rare histiocytic necrotising lymphadenitis (Kikuchi lymphadenitis)
-Nivolumab monotherapy
 Blood and lymphatic system disorders
 Very common lymphopaeniab, anaemiab,i, leucopoeniab, neutropaeniaa,b, thrombocytopaeniab
 Uncommon eosinophilia
@@ -65,6 +63,7 @@ Respiratory, thoracic and mediastinal disorders
 Very common dyspnoeaa, cough
 Common pneumonitisa, pleural effusion
 Uncommon lung infiltration
+Nivolumab monotherapy
 Gastrointestinal disorders
 Very common diarrhoea, vomiting, nausea, abdominal pain, constipation
 Common colitisa, stomatitis, dry mouth
@@ -72,7 +71,6 @@ Uncommon pancreatitis, gastritis
 Rare duodenal ulcer, pancreatic exocrine insufficiency, coeliac disease
 Hepatobiliary disorders
 Uncommon hepatitis, cholestasis
-Nivolumab monotherapy
 Skin and subcutaneous tissue disorders
 Very common rashc, pruritus
 Common vitiligo, dry skin, erythema, alopecia
@@ -98,13 +96,13 @@ hyperkalaemia, increased amylase, hypocalcaemia, hypomagnesaemia,
 hypokalaemia, hypercalcaemia
 Common increased total bilirubin, hypernatraemia, hypermagnesaemia
 
-Adverse reaction frequencies presented in Table 8 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
+Adverse reaction frequencies presented in Table 17 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
 a Fatal cases have been reported in completed or ongoing clinical studies.
 b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements.
 See “Description of selected adverse reactions; laboratory abnormalities” below.
 c Rash is a composite term which includes rash maculopapular, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash vesicular, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption and pemphigoid.
 d Reported also in studies outside the pooled dataset.
-The frequency is based on the program-wide exposure.
+The frequency is based on the programme-wide exposure.
 e Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
 f Post-marketing event (also see section 4.4).
 g Reported in clinical studies and in the post-marketing setting.
@@ -113,7 +111,6 @@ i Anaemia is a composite term which includes, among other causes, haemolytic ana
 j Includes adrenal insufficiency, adrenocortical insufficiency acute, and secondary adrenocortical insufficiency.
 k Includes encephalitis and limbic encephalitis.
 l Oedema is a composite term which includes generalised oedema, oedema peripheral, peripheral swelling and swelling.
-
 Nivolumab in combination with other therapeutic agents (see section 4.2)
 
 Summary of the safety profile
@@ -137,12 +134,19 @@ Nivolumab in combination with cabozantinib
 In the dataset of nivolumab 240 mg every 2 weeks in combination with cabozantinib 40 mg once daily in RCC (n =320), with a minimum follow -up of 16.0 months, the most frequent adverse reactions (≥ 10%) were diarrhoea (64.7%), fatigue (51.3%), -palmar plantar erythrodysaesthesia syndrome (40.0%), stomatitis (38.8%), musculoskeletal pain (37.5%), hypertension (37.2%), rash (36.3%), hypothyroidism (35.6%), decreased appetite (30.3%), nausea (28.8%), abdominal pain (25.0%), dysgeusia (23.8%), upper respiratory tract infection (20.6%), cough (20.6%), pruritus (20.6%), arthralgia (19.4%), vomiting (18.4%), dysphonia (17.8%), headache (16.3%), dyspepsia (15.9%), dizziness (14.1%), constipation (14.1%), pyrexia (14.1%), oedema (13.4%), muscle spasm (12.2%), dyspnoea (11.6%), proteinuria (10.9%) and hyperthyroidism (10.0%).
 The incidence of Grade 3-5 adverse reactions was 78%, with 0.3% fatal adverse reactions attributed to study drug.
 
+Nivolumab in combination with brentuximab vedotin
+
+In the dataset of nivolumab 3 mg/kg every 3 weeks in combination with brentuximab vedotin 1.8 mg/kg every 3 weeks in all treated patients with relapse or refractory cHL (n = 72), with a minimum follow-up of 40.7 months, the most frequent adverse reactions (≥ 10%) were nausea (50.0%), rash (29.2%), pyrexia (26.4%), headache (25.0%), diarrhoea (25.0%), musculoskeletal pain (25.0%), abdominal pain (22.2%), hypersensitivity (20.8%), infusion related reaction (18.1%), vomiting (18.1%), fatigue (18.1%), transaminases increased (13.9%), and constipation (11.1%).
+The incidence of Grade 3-5 adverse reactions was 36.1%.
+No fatal drug related adverse reactions were reported.
+
 Tabulated summary of adverse reactions
-Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 9.
+Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 18.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000), not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-Table 9: Adverse reactions with nivolumab in combination with other therapeutic agents
+
+Table 18: Adverse reactions with nivolumab in combination with other therapeutic agents
 
 Combination with Combination with Combination with
 ipilimumab (with or chemotherapy cabozantinib
@@ -173,6 +177,9 @@ hypersensitivity reaction
 Rare sarcoidosis
 Not known solid organ transplant
 rejectiong
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Endocrine disorders
 Very common hypothyroidism hypothyroidism,
 hyperthyroidism
@@ -186,9 +193,6 @@ thyroiditis,
 hypopituitarism,
 hypophysitis
 Rare hypoparathyroidism
-Combination with Combination with Combination with
-ipilimumab (with or chemotherapy cabozantinib
-without chemotherapy)
 Metabolism and nutrition disorders
 Very common decreased appetite, decreased appetite, decreased appetite,
 hyperglycaemiab, hyperglycaemiab, hypoglycaemiab,
@@ -225,6 +229,9 @@ Common blurred vision, dry eye dry eye, blurred vision dry eye, blurred vision
 Uncommon uveitis, episcleritis uveitis uveitis
 Rare Vogt Koyanagi Harada
 syndrome
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Cardiac disorders
 Common tachycardia, atrial tachycardia, atrial atrial fibrillation, tachycardia
 fibrillation fibrillation
@@ -236,9 +243,6 @@ Vascular disorders
 Very common hypertension
 Common hypertension thrombosisa, k, thrombosisk
 hypertension, vasculitis
-Combination with Combination with Combination with
-ipilimumab (with or chemotherapy cabozantinib
-without chemotherapy)
 Respiratory, thoracic and mediastinal disorders
 Very common cough, dyspnoea cough dysphonia, dyspnoea, cough
 Common pneumonitisa, pulmonary pneumonitisa, dyspnoea pneumonitis, pulmonary
@@ -264,12 +268,15 @@ disease
 Hepatobiliary disorders
 Common hepatitis hepatitis
 Uncommon hepatitis
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Skin and subcutaneous tissue disorders
 Very common rashc, pruritus rashc, pruritus palmar-plantar
 erythrodysaesthesia syndrome,
 rashc, pruritus
 Common alopecia, vitiligo, urticaria, palmar-plantar alopecia, dry skin, erythema,
-dry skin, erythema, erythrodysaesthesia hair colour change
+dry skin, erythema erythrodysaesthesia hair colour change
 syndrome, skin
 hyperpigmentation,
 alopecia, dry skin,
@@ -279,13 +286,10 @@ syndrome, erythema
 multiforme, psoriasis, other
 lichen disordersd
 Rare toxic epidermal
-necrolysisa,e , lichen
+necrolysisa,e, lichen
 sclerosus
 Not known lichen sclerosus, other lichen
 disorders
-Combination with Combination with Combination with
-ipilimumab (with or chemotherapy cabozantinib
-without chemotherapy)
 Musculoskeletal and connective tissue disorders
 Very common musculoskeletal painf, musculoskeletal painf musculoskeletal painf,
 arthralgia arthralgia, muscle spasm
@@ -309,6 +313,9 @@ Very common fatigue, pyrexia, oedema fatigue, pyrexia, oedema fatigue, pyrexia, 
 (including peripheral (including peripheral
 oedema) oedema)
 Common chest pain, pain, chills malaise pain, chest pain
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Investigations
 Very common increased alkaline hypocalcaemiab, increased alkaline
 phosphataseb, increased increased AST b, phosphataseb, increased ALTb,
@@ -318,11 +325,11 @@ increased creatinineb, increased amylaseb, creatinineb, increased
 increased amylaseb, hypomagnesaemiab, amylaseb, increased lipaseb,
 increased lipaseb, increased alkaline hypokalaemiab,
 hyponatraemiab, phosphataseb, hypomagnesaemiab,
-hyperkalaemiab, hypokalaemiab,, hyponatraemiab,
-hypokalaemiab, increased creatinineb, hypocalcaemiab,
-hypercalcaemiab, increased lipaseb, hypercalcaemiab,
-hypocalcaemiab hyperkalaemiab, hypophosphataemiab,
-increased total bilirubinb hyperkalaemiab,
+hyperkalaemiab, hypokalaemiab, increased hyponatraemiab,
+hypokalaemiab, creatinineb, increased hypocalcaemiab,
+hypercalcaemiab, lipaseb, hyperkalaemiab, hypercalcaemiab,
+hypocalcaemiab, increased total bilirubinb hypophosphataemiab,
+hypomagnesaemiab hyperkalaemiab,
 hypermagnesaemiab,
 hypernatraemiab
 Common hypernatraemiab, hypernatraemiab, blood cholesterol increased,
@@ -332,14 +339,14 @@ stimulating hormone,
 increased gamma-
 glutamyltransferase
 
-Adverse reaction frequencies presented in Table 9 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
+Adverse reaction frequencies presented in Table 18 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
 a Fatal cases have been reported in completed or ongoing clinical studies.
 b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements.
 See “Description of selected adverse reactions; laboratory abnormalities” below.
 c Rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash papulosquamous, rash vesicular, rash generalised, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption, nodular rash, and pemphigoid.
 d Lichen disorders is a composite term which includes lichen keratosis and lichen planus.
 e Reported also in studies outside the pooled dataset.
-The frequency is based on the program-wide exposure.
+The frequency is based on the programme-wide exposure.
 f Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
 g Post-marketing event (also see section 4.4).
 h Reported in clinical studies and in the post-marketing setting.
@@ -347,16 +354,64 @@ i Pericardial disorders is a composite term which includes pericarditis, pericar
 j Anaemia is a composite term which includes, among other causes, haemolytic anaemia and autoimmune anaemia, haemoglobin decreased, iron deficiency anaemia and red blood cell count decreased.
 k Thrombosis is a composite term which includes portal vein thrombosis, pulmonary vein thrombosis, pulmonary thrombosis, aortic thrombosis, arterial thrombosis, deep vein thrombosis, pelvic vein thrombosis, vena cava thrombosis, venous thrombosis, limb venous thrombosis.
 
+Adverse reactions reported for patients treated with nivolumab in combination with brentuximab vedotin (n = 72) are presented in Table 19.
+These reactions are presented by system organ class and by frequency.
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10).
+
+Table 19: Adverse reactions with nivolumab in combination with brentuximab vedotin
+
+Infections and infestations
+Very common Upper respiratory tract infection
+Blood and lymphatic system disorders
+Common neutropenia, anaemia, lymphopenia, febrile neutropenia, leukopenia, thrombocytopenia
+Immune system disorders
+Very common hypersensitivitya, infusion related reaction
+Endocrine disorders
+Common hyperthyroidism, hypothyroidism
+Metabolism and nutrition disorders
+Common decreased appetite, hyperglycaemia, hypokalaemia, hypernatraemia
+Nervous system disorders
+Very common Headache
+Common peripheral neuropathy, dizziness
+Vascular disorders
+Common thrombosis
+Respiratory, thoracic and mediastinal disorders
+Very common cough
+Common pneumonitis, dyspnoea
+Gastrointestinal disorders
+Very common diarrhoea, vomiting, nausea, abdominal pain, constipation
+Common stomatitis
+Skin and subcutaneous tissue disorders
+Very common rashb
+Common alopecia, pruritus, dry skin, erythema, urticaria
+Musculoskeletal and connective tissue disorders
+Very common musculoskeletal painc
+Renal and urinary disorders
+Common renal failure
+General disorders and administration site conditions
+Very common pyrexia, fatigue
+Common oedema
+Investigations
+Very common transaminases increasedd
+Common increased total bilirubin, increased amylase, increased lipase
+
+Adverse reaction frequencies presented in Table 19 may not be fully attributable to nivolumab alone or in combination with brentuximab but may contain contributions from the underlying disease or from medicinal product used in combination.
+
+a Hypersensitivity is a composite term which includes anaphylactic reaction.
+b Rash is a composite term which includes rash maculopapular, rash erythematous, rash pruritic, rash papular, dermatitis acneiform and dermatitis allergic.
+c Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, myalgia, neck pain, pain in extremity, spinal pain, arthralgia and jaw pain.
+d Transaminases increased is a composite term which includes alanine aminotransferase increased and aspartate aminotransferase increased.
+
 Description of selected adverse reactions
 
 Nivolumab or nivolumab in combination with other therapeutic agents is associated with immune-related adverse reactions.
 With appropriate medical therapy, immune-related adverse reactions resolved in most cases.
 Permanent discontinuation of treatment generally was required in a greater proportion of patients receiving nivolumab in combination with other agents than in those receiving nivolumab monotherapy.
-Table 10 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
-Additionally, for patients who experienced an event, Table 10 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
+Table 20 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
+Additionally, for patients who experienced an event, Table 20 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
 The management guidelines for these adverse reactions are described in section 4.4.
 
-Table 10: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
+Table 20: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
 
 |  | Nivolumab monotherapy % | Nivolumab in combination with ipilimumab (with or without chemotherapy) % | Nivolumab in combination with chemotherapy % | Nivolumab in combination with cabozantinib % |
 | --- | --- | --- | --- | --- |
@@ -382,7 +437,7 @@ a at least 40 mg daily prednisone equivalents b frequency is based on the number
 Immune-related pneumonitis
 In patients treated with nivolumab monotherapy, the incidence of pneumonitis, including interstitial lung disease and lung infiltration, was 3.3% (155/4646).
 The majority of cases were Grade 1 or 2 in severity reported in 0.9% (42/4646) and 1.7% (77/4646) of patients respectively.
-Grade 3 and 4 cases were reported in 0.7% (33/4646) and <0.1% (1/4646) of patients respectively.
+Grade 3 and 4 cases were reported in 0.7% (33/4646) and < 0.1% (1/4646) of patients respectively.
 Six patients (0.1%) had a fatal outcome.
 Median time to onset was 15.1 weeks (range: 0.7-85.1).
 Resolution occurred in 107 patients (69.0%) with a median time to resolution of 6.7 weeks (range: 0.1+-109.1+); + denotes a censored observation.
@@ -409,12 +464,13 @@ Resolution occurred in 14 patients (77.8%) with a median time to resolution of 7
 Immune-related colitis
 In patients treated with nivolumab monotherapy, the incidence of diarrhoea, colitis, or frequent bowel movements was 15.4% (716/4646).
 The majority of cases were Grade 1 or 2 in severity reported in 9.9% (462/4646) and 4.0% (186/4646) of patients respectively.
-Grade 3 and 4 cases were reported in 1.4% (67/4646) and <0.1% (1/4646) of patients respectively.
+Grade 3 and 4 cases were reported in 1.4% (67/4646) and < 0.1% (1/4646) of patients respectively.
 Median time to onset was 8.3 weeks (range: 0.1-115.6).
 Resolution occurred in 639 patients (90.3%) with a median time to resolution of 2.9 weeks (range: 0.1-124.4+).
+
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of diarrhoea or colitis was 26.0% (682/2626).
 Grade 2, Grade 3, and Grade 4 cases were reported in 8.1% (212/2626), 6.4% (167/2626), and 0.2% (4/2626), of patients, respectively.
-Two patients (<0.1%) had a fatal outcome.
+Two patients (< 0.1%) had a fatal outcome.
 Median time to onset was 1.4 months (range: 0.0-48.9).
 Resolution occurred in 618 patients (91%) with a median time to resolution of 2.9 weeks
 (range: 0.1-170.0+).
@@ -463,7 +519,8 @@ Resolution occurred in 101 patients (75.9%) with a median time to resolution of 
 Immune-related nephritis and renal dysfunction
 In patients treated with nivolumab monotherapy, the incidence of nephritis or renal dysfunction was 2.6% (121/4646).
 The majority of cases were Grade 1 or 2 in severity reported in 1.5% (69/4646) and 0.7% (32/4646) of patients respectively.
-Grade 3 and 4 cases were reported in 0.4% (18/4646) and <0.1% (2/4646) of patients, respectively.
+Grade 3 and 4 cases were reported in 0.4% (18/4646) and
+< 0.1% (2/4646) of patients, respectively.
 Median time to onset was 12.1 weeks (range: 0.1-79.1).
 Resolution occurred in 80 patients (69.0%) with a median time to resolution of 8.0 weeks
 (range: 0.3-79.1+).
@@ -513,7 +570,7 @@ Grade 3 hypophysitis occurred in 0.1% (2/1800) of patients.
 Grade 2 and Grade 3 hypopituitarism occurred in 0.2% (4/1800) of patients, each.
 Grade 2, Grade 3, and Grade 4 adrenal insufficiency occurred in 0.6% (11/1800), 0.2% (3/1800), and < 0.1% (1/1800) of patients, respectively.
 One patient (< 0.1%) had a fatal outcome due to adrenal insufficiency.
-Diabetes mellitus including Type 1 diabetes mellitus and fulminant Type 1 diabetes mellitus (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported.
+Diabetes mellitus including Type 1 diabetes mellitus, and fulminant Type 1 diabetes mellitus (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported.
 Median time to onset of these endocrinopathies was 15.3 weeks (range: 1.1-124.3).
 Resolution occurred in 101 patients (40.1%).
 Time to resolution ranged from 0.3+ to 233.6+ weeks.
@@ -550,7 +607,6 @@ Grade 2 and Grade 3 cases were reported in 23.1% (74/320) and 10.6% (34/320) of 
 Median time to onset was 6.14 weeks (range: 0.1-104.4 weeks).
 Resolution occurred in 137 patients (68.2%) with a median time to resolution of 18.1 weeks
 (range: 0.1-130.6+ weeks).
-
 Rare cases of SJS and TEN some of them with fatal outcome have been observed (see sections 4.2 and 4.4).
 
 Infusion reactions
@@ -562,13 +618,14 @@ Among patients with MPM treated with nivolumab 3 mg/kg in combination with ipili
 
 In patients treated with nivolumab in combination with chemotherapy, the incidence of hypersensitivity/infusion reactions was 8.2% (148/1800).
 Grade 2, Grade 3, and Grade 4 cases were reported in 4.6% (83/1800), 1.1% (20/1800), and 0.2% (3/1800) of patients, respectively.
+
 In patients treated with nivolumab in combination with cabozantinib, the incidence of hypersensitivity/infusion reactions was 2.5% (8/320).
 All 8 patients were Grade 1 or 2 in severity.
 Grade 2 cases were reported in 0.3% (1/320) of patients.
 
 Complications of allogeneic HSCT in classical Hodgkin lymphoma
 Rapid onset of GVHD has been reported with nivolumab use before and after allogeneic HSCT (see section 4.4).
-In 62 evaluated patients from two cHL studies who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 17/62 patients (27.4%).
+In 62 evaluated patients from two cHL studies assessing treatment of adult patients with relapsed or refractory cHL after ASCT, who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 17/62 patients (27.4%).
 Hyperacute GVHD, defined as acute GVHD occurring within 14 days after stem cell infusion, was reported in four patients (6%).
 A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (12%) within the first 6 weeks post-transplantation.
 Steroids were used in four patients and three patients responded to steroids.
@@ -583,7 +640,7 @@ Among the 45 patients with Grade ≥ 2 increased ALT or AST who were rechallenge
 
 Laboratory abnormalities
 In patients treated with nivolumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.4% for anaemia (all
-Grade 3), 0.7% for thrombocytopaenia, 0.7% for leucopoenia, 8.7% for lymphopaenia, 0.9% for neutropaenia, 1.7% for increased alkaline phosphatase, 2.6% for increased AST, 2.3% for increased ALT, 0.8% for increased total bilirubin, 0.7% for increased creatinine, 2.0% for hyperglycaemia, 0.7% for hypoglycaemia, 3.8% for increased amylase, 6.9% for increased lipase, 4.7% for hyponatraemia, 1.6% for hyperkalaemia, 1.3% for hypokalaemia, 1.1% for hypercalcaemia, 0.6% for hypermagnesaemia, 0.4% for hypomagnesaemia, 0.6% for hypocalcaemia, 0.6% for hypoalbuminaemia, and <0.1% for hypernatraemia.
+Grade 3), 0.7% for thrombocytopaenia, 0.7% for leucopoenia, 8.7% for lymphopaenia, 0.9% for neutropaenia, 1.7% for increased alkaline phosphatase, 2.6% for increased AST, 2.3% for increased ALT, 0.8% for increased total bilirubin, 0.7% for increased creatinine, 2.0% for hyperglycaemia, 0.7% for hypoglycaemia, 3.8% for increased amylase, 6.9% for increased lipase, 4.7% for hyponatraemia, 1.6% for hyperkalaemia, 1.3% for hypokalaemia, 1.1% for hypercalcaemia, 0.6% for hypermagnesaemia, 0.4% for hypomagnesaemia, 0.6% for hypocalcaemia, 0.6% for hypoalbuminaemia, and < 0.1% for hypernatraemia.
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.8% for anaemia, 1.8% for thrombocytopaenia, 2.2% for leucopoenia, 6.9% for lymphopaenia, 3.3% for neutropaenia, 2.7% for increased alkaline phosphatase, 9.8% for increased AST, 9.3% for increased ALT, 2.3% for increased total bilirubin, 1.8% for increased creatinine, 1.4% for hypoalbuminaemia, 7.1% for hyperglycaemia, 0.7% for hypoglycaemia, 7.8% for increased amylase, 16.3% for increased lipase, 0.8% for hypocalcaemia, 0.2% for hypernatraemia, 0.8% for hypercalcaemia, 2.0% for hyperkalaemia, 0.8% for hypermagnesaemia, 0.4% for hypomagnesaemia, 3.0% for hypokalaemia, and 8.7% for hyponatraemia.
 
@@ -603,28 +660,41 @@ Of the 1407 patients who were treated with nivolumab 240 mg every 2 weeks or 360
 Of the patients who were treated with nivolumab in combination with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26.0% with nivolumab 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks, 24.9% with nivolumab 3 mg/kg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks, and 37.8% with nivolumab 1 mg/kg and ipilimumab 3 mg/kg every 3 weeks.
 The incidence of neutralising antibodies against nivolumab was 0.8% with nivolumab 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks, 1.5% with nivolumab 3 mg/kg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks, and 4.6% with nivolumab 1 mg/kg and ipilimumab 3 mg/kg every 3 weeks.
 Of patients evaluable for the presence of anti-ipilimumab antibodies, the incidence of anti-ipilimumab antibodies ranged from 6.3 to 13.7% and neutralising antibodies against ipilimumab ranged from 0 to 0.4%.
-
 Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-nivolumab antibodies or neutralising antibodies against nivolumab, the incidence of anti-nivolumab antibodies was 33.8% and the incidence of neutralising antibodies was 2.6%.
 Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-ipilimumab antibodies or neutralising antibodies against ipilimumab, the incidence of anti-ipilimumab antibodies was 7.5%, and the neutralising antibodies was 1.6%.
+
+Of the patients who were treated with nivolumab in combination with brentuximab vedotin and evaluable for the presence of anti-nivolumab antibodies, the incidences of anti-nivolumab antibodies in patients at low risk of relapse and patients at standard risk of relapse were 36% and 12.5%, respectively.
+No patients tested positive for nivolumab neutralising antibodies.
+
+Of the patients who were treated with nivolumab in combination with brentuximab vedotin and evaluable for the presence of anti-brentuximab vedotin antibodies, the incidences of anti-brentuximab antibodies in patients at low risk of relapse and patients at standard risk of relapse were 95.8% and 58.5%, respectively.
+All patients who developed anti-brentuximab vedotin antibodies also tested positive for brentuximab vedotin neutralizing antibodies.
 
 Although the clearance of nivolumab was increased by 20% when anti-nivolumab-antibodies were present, there was no evidence of loss of efficacy or altered toxicity profile in the presence of nivolumab antibodies based on the pharmacokinetic and exposure-response analyses for both monotherapy and combination.
 
 Paediatric population
-
+Nivolumab as monotherapy or nivolumab in combination with ipilimumab
 The safety of nivolumab as monotherapy (3 mg/kg every 2 weeks) and in combination with ipilimumab (nivolumab 1 mg/kg or 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks) was evaluated in 97 paediatric patients aged ≥ 1 year to < 18 years (including 53 patients 12 to < 18 years) with recurrent or refractory solid or haematological tumours, including advanced melanoma, in clinical study CA209070.
 The safety profile in paediatric patients was generally similar to that seen in adults treated with nivolumab as monotherapy or in combination with ipilimumab.
-No new safety signals were observed.
+No new safety signals were identified.
 Long-term safety data is unavailable on the use of nivolumab in adolescents 12 years of age and older.
 
-The most common adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab monotherapy were fatigue (35.9%) and decreased appetite (21.9%).
+The most frequently reported adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab monotherapy were fatigue (35.9%) and decreased appetite (21.9%).
 The majority of adverse reactions reported for nivolumab monotherapy were Grade 1 or 2 in severity.
-Twenty-one patients (33%) had one or more Grades 3 to 4 adverse reactions.
+One or more Grades 3 to 4 adverse reactions were reported in twenty-one patients (33%).
 
-The most common adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab in combination with ipilimumab were fatigue (33.3%) and rash maculo-papular (21.2%).
+The most frequently reported adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab in combination with ipilimumab were fatigue (33.3%) and rash maculo-papular (21.2%).
 The majority of adverse reactions reported for nivolumab in combination with ipilimumab were Grade 1 or 2 in severity.
-Ten patients (30%) had one or more Grades 3 to 4 adverse reactions.
+One or more Grades 3 to 4 adverse reactions were reported in ten patients (30%).
 
-No new safety signals were observed in clinical study CA209908 of 151 paediatric patients with high-grade primary central nervous system (CNS) malignancies (see section 5.1), relative to data available in adult studies across indications.
+The safety of nivolumab as monotherapy (3 mg/kg every 2 weeks) and in combination with ipilimumab (3 mg/kg nivolumab followed by 1 mg/kg ipilimumab, every 3 weeks for 4 doses, followed by nivolumab monotherapy 3 mg/kg every 2 weeks) was evaluated in 151 paediatric patients aged ≥ 6 months to < 18 years old with high-grade primary CNS malignancies.
+No new safety signals were identified (see section 5.1), relative to data available in adult studies across indications.
+Nivolumab in combination with brentuximab vedotin
+The safety of nivolumab (3 mg/kg every 3 weeks) in combination with brentuximab vedotin
+(1.8 mg/kg every 3 weeks) was evaluated in 49 paediatric patients aged ≥ 5 to < 18 years with relapsed or refractory cHL in clinical study CA209744 No new safety signals were identified.
+
+The most frequently reported adverse reactions in at least 20% of paediatric patients treated with nivolumab in combination with brentuximab vedotin were nausea (57.1%), pyrexia (30.6%), abdominal pain (26.5%), rash (24.5%), headache (22.4%), musculoskeletal pain (22.4%), diarrhoea (20.4%), vomiting (20.4%), fatigue (20.4%), infusion related reaction (20.4%) and hypersensitivity (20.4%).
+The majority of adverse reactions reported for nivolumab in combination with brentuximab vedotin were Grade 1 or 2 in severity.
+Grades 3 to 4 adverse reactions were reported in 17 patients (34.7%).
 
 Elderly
 
@@ -656,9 +726,9 @@ In the pooled dataset of nivolumab as monotherapy administered intravenously acr
 
 The safety of nivolumab administered subcutaneously was similar to the known safety profile of the intravenous formulation of nivolumab, with an additional adverse reaction of injection site reaction (7% in the subcutaneous nivolumab arm (n = 247) vs 0% in the intravenous nivolumab arm (n = 245)).
 
-(n = 4646) are presented in Table 2.
+(n = 4646) are presented in Table 11.
 
-Table 2: Adverse reactions with nivolumab monotherapy
+Table 11: Adverse reactions with nivolumab monotherapy
 
 |  | Nivolumab monotherapy |
 | --- | --- |
@@ -733,171 +803,39 @@ Table 2: Adverse reactions with nivolumab monotherapy
 | Very common | increased AST, hyponatraemia, hypoalbuminaemia, increased alkaline phosphatase, increased creatinine, increased ALT, increased lipase, hyperkalaemia, increased amylase, hypocalcaemia, hypomagnesaemia, hypokalaemia, hypercalcaemia |
 | Common | increased total bilirubin, hypernatraemia, hypermagnesaemia |
 
-Adverse reaction frequencies presented in Table 2 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
-The frequency is based on the programme-wide exposure.
+Adverse reaction frequencies presented in Table 11 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
 m Reported in a study outside of the pooled dataset (subcutaneous injection related).
 The frequency is based on exposure to OPDIVO solution for injection in CA20967T and includes injection site erythema, application site pain, injection site oedema, injection site pain, application site erythema, application site rash, injection site discolouration, injection site inflammation, and injection site pruritus.
 
-In the pooled dataset of nivolumab administered in combination with ipilimumab (with or without chemotherapy) across tumour types (n = 2294) with minimum follow-up ranging from 6 to 47 months, the most frequent adverse reactions (≥ 10%) were fatigue (49%), diarrhoea (37%), rash (37%), nausea (30%), pruritus (29%), musculoskeletal pain (27%), pyrexia (24%), decreased appetite (23%), cough (22%), vomiting (19%), constipation (19%), arthralgia (19%), abdominal pain (19%), dyspnoea (18%), hypothyroidism (16%), headache (15%), upper respiratory tract infection (15%), oedema (13%), and dizziness (10%).
-The incidence of Grade 3-5 adverse reactions was 67% for nivolumab in combination with ipilimumab (with or without chemotherapy), with 0.7% fatal adverse reactions attributed to study drug.
-Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, fatigue (62%), rash (57%), diarrhoea (52%), nausea (42%), pruritus (40%), pyrexia (36%), and headache (26%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
-Among patients treated with nivolumab 360 mg in combination with ipilimumab 1 mg/kg and chemotherapy, anaemia (32%) and neutropaenia (15%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
-
-In the pooled dataset of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy across tumour types (n = 1572), with a minimum follow-up ranging from 7.4 to 20 months for gastric, GEJ or oesophageal adenocarcinoma, OSCC, or urothelial carcinoma, or following 3 cycles of treatment for resectable NSCLC, the most frequent adverse reactions (≥ 10%) were nausea (51%), fatigue (41%), peripheral neuropathy (34%), decreased appetite (32%), constipation (31%), diarrhoea (30%), vomiting (26%), stomatitis (19%), abdominal pain (19%), rash (19%), musculoskeletal pain (18%), pyrexia (17%), oedema (including peripheral oedema) (13%), cough (12%), and hypoalbuminaemia (10%).
-Incidences of Grade 3-5 adverse reactions were 72% for nivolumab in combination with chemotherapy, with 1.3% fatal adverse reactions attributed to nivolumab in combination with chemotherapy.
-Median duration of therapy was 6.44 months
-(95% CI: 5.95, 6.80) for nivolumab in combination with chemotherapy, 4.34 months
-(95% CI: 4.04, 4.70) for chemotherapy for gastric, GEJ or oesophageal adenocarcinoma, or OSCC, and 7.39 months (95% CI: 7.06, 8.38) for urothelial carcinoma.
-
 In the dataset of nivolumab intravenous formulation 240 mg every 2 weeks in combination with cabozantinib 40 mg once daily in RCC (n =320), with a minimum follow-up of 16.0 months, the most frequent adverse reactions (≥ 10%) were diarrhoea (64.7%), fatigue (51.3%), palmar-plantar erythrodysaesthesia syndrome (40.0%), stomatitis (38.8%), musculoskeletal pain (37.5%), hypertension (37.2%), rash (36.3%), hypothyroidism (35.6%), decreased appetite (30.3%), nausea (28.8%), abdominal pain (25.0%), dysgeusia (23.8%), upper respiratory tract infection (20.6%), cough (20.6%), pruritus (20.6%), arthralgia (19.4%), vomiting (18.4%), dysphonia (17.8%), headache (16.3%), dyspepsia (15.9%), dizziness (14.1%), constipation (14.1%), pyrexia (14.1%), oedema (13.4%), muscle spasm (12.2%), dyspnoea (11.6%), proteinuria (10.9%) and hyperthyroidism (10.0%).
 
-Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2294), nivolumab in combination with chemotherapy (n = 1572), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 3.
-Table 3: Adverse reactions with nivolumab in combination with other therapeutic agents
+Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 12.
 
-Very common anaemiab,i, neutropaeniab, anaemiab,i, anaemiab,
+Table 12: Adverse reactions with nivolumab in combination with other therapeutic agents
+
 (including cytokine related reaction anaphylactic reaction)
 release syndrome), (including cytokine
-rejectionf
-hyperglycaemiab, hypoalbuminaemia, hypoglycaemiab,
-hypoglycaemiab hyperglycaemiab, hyperglycaemiab, weight
-hypoglycaemiab decreased
-Common dehydration, hypophosphataemia dehydration
-hypoalbuminaemia,
-Very common headache, dizziness peripheral neuropathy dysgeusia, dizziness, headache
-Common peripheral neuropathy paraesthesia, dizziness, peripheral neuropathy
-headache
-Uncommon polyneuropathy, peroneal encephalitis autoimmune,
-Rare Guillain-Barré syndrome, Guillain-Barré
-neuritis, myelitis (including syndrome, encephalitis
 Rare Vogt-Koyanagi-Harada
-Not known pericardial disordersh
-Common hypertension thrombosisa, j, thrombosisj
-lichen disorders
-necrolysisa,d, lichen
-Very common musculoskeletal paine, musculoskeletal paine musculoskeletal paine,
-Rare cystitis noninfective cystitis noninfectiveg
 
-Adverse reaction frequencies presented in Table 3 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
-j Thrombosis is a composite term which includes portal vein thrombosis, pulmonary vein thrombosis, pulmonary thrombosis, aortic thrombosis, arterial thrombosis, deep vein thrombosis, pelvic vein thrombosis, vena cava thrombosis, venous thrombosis, limb venous thrombosis.
+Adverse reaction frequencies presented in Table 12 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
 
-Table 4 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
-Additionally, for patients who experienced an event, Table 4 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
+Table 13 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
+Additionally, for patients who experienced an event, Table 13 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
 
-Table 4: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
+Table 13: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
 
-|  | Nivolumab monotherapy % | Nivolumab in combination with ipilimumab (with or without chemotherapy) % | Nivolumab in combination with chemotherapy % | Nivolumab in combination with cabozantinib % |
-| --- | --- | --- | --- | --- |
-| Immune-related adverse reaction leading to permanent discontinuation |  |  |  |  |
-| Pneumonitis | 1.4 | 2.4 | 1.8 | 2.5 |
-| Colitis | 1.2 | 6 | 1.8 | 2.5 |
-| Hepatitis | 1.1 | 5 | 0.8 | 4.1 |
-| Nephritis and renal dysfunction | 0.3 | 1.2 | 3.3 | 0.6 |
-| Endocrinopathies | 0.5 | 2.3 | 0.6 | 1.3 |
-| Skin | 0.8 | 1.0 | 1.0 | 2.2 |
-| Hypersensitivity/Infusion reaction | 0.1 | 0.3 | 1.8 | 0 |
-| Immune-related adverse reaction requiring high-dose corticosteroidsa,b |  |  |  |  |
-| Pneumonitis | 65 | 59 | 58 | 56 |
-| Colitis | 14 | 31 | 8 | 8 |
-| Hepatitis | 21 | 36 | 8 | 23 |
-| Nephritis and renal dysfunction | 22 | 27 | 7 | 9 |
-| Endocrinopathies | 5 | 19 | 5 | 4.2 |
-| Skin | 3.3 | 8 | 6 | 8 |
-| Hypersensitivity/Infusion reaction | 18 | 16 | 22 | 0 |
+Diabetes mellitus including Type 1 diabetes mellitus, and fulminant Type 1 diabetes mellitus, (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported.
 
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of pneumonitis including interstitial lung disease, was 6.5% (150/2294).
-Grade 3, and Grade 4 cases were reported in 3.2% (74/2294), 1.1% (26/2294), and 0.3% (8/2294) of patients, respectively.
-Resolution occurred in 124 patients (82.7%) with a median time to resolution of 6.1 weeks (range: 0.1-149.3+).
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of pneumonitis including interstitial lung disease was 4.3% (67/1572).
-Grade 2, Grade 3, and Grade 4 cases were reported in 2.1% (33/1572), 0.9% (14/1572), and 0.2% (3/1572), of patients, respectively.
-Median time to onset was 25 weeks (range: 1.6-96.9).
-Resolution occurred in 48 patients (71.6%) with a median time to resolution of 10.4 weeks (range: 0.3+-121.3+).
-
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of diarrhoea or colitis was 27.3% (626/2294).
-Grade 2, Grade 3, and Grade 4 cases were reported in 8.5% (194/2294), 6.5% (150/2294), and 0.2% (4/2294), of patients, respectively.
-One patient (<0.1%) had a fatal outcome.
-Resolution occurred in 567 patients (91%) with a median time to resolution of 2.7 weeks
-(range: 0.1-159.4+).
-Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, the incidence of diarrhoea or colitis was 46.7%, including Grade 2 (13.6%), Grade 3 (15.8%), and Grade 4 (0.4%).
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of diarrhoea or colitis was 24.0% (377/1572).
-Grade 2, Grade 3, and Grade 4 cases were reported in 7.3% (115/1572), 3.2% (51/1572), and 0.4% (6/1572) of patients, respectively.
-Resolution occurred in 329 patients (87.7%) with a median time to resolution of 1.6 weeks (range: 0.1-212.3+).
-
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of liver function test abnormalities was 19.3% (442/2294).
-Grade 4 cases were reported in 4.5% (104/2294), 7.5% (171/2294), and 1.1% (25/2294) of patients, respectively.
-Median time to onset was 2 months (range: 0.0-36.6).
-Resolution occurred in 388 patients (88.2%) with a median time to resolution of 5.4 weeks (range: 0.1-175.9+).
-Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, the incidence of liver function test abnormalities was 30.1% including Grade 2 (6.9%), Grade 3 (15.8%), and Grade 4 (1.8%).
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of liver function test abnormalities was 18.6% (293/1572).
-Grade 2, Grade 3 and Grade 4 cases were reported in 5.6% (88/1572), 2.9% (45/1572) and < 0.1% (1/1572) of patients, respectively.
-Median time to onset was 7.7 weeks (range: 0.1-99.0).
-Resolution occurred in 231 patients (79.9%) with a median time to resolution of 7.4 weeks (range: 0.4-240.0+).
-
-Grade 3 and 4 cases were reported in 0.4% (18/4646) and
-< 0.1% (2/4646) of patients, respectively.
-
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of nephritis or renal dysfunction was 5.9% (135/2294).
-Grade 2, Grade 3, and Grade 4 cases were reported in 2.2% (50/2294), 0.9% (20/2294), and 0.5% (11/2294) of patients, respectively.
-Resolution occurred in 104 patients (75.8%) with a median time to resolution of 6.1 weeks
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of nephritis or renal dysfunction was 10.8% (170/1572).
-Grade 2, Grade 3, and Grade 4 cases were reported in 4.1% (64/1572), 1.5% (24/1572), and 0.1% (2/1572) of patients, respectively.
-Median time to onset was 6.9 weeks (range: 0.1-60.7).
-Resolution occurred in 111 patients (65.3%) with a median time to resolution of 11.6 weeks (range: 0.1-226.0+).
-
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of thyroid disorders was 22.9% (526/2294).
-Grade 2 and Grade 3 thyroid disorders were reported in 12.2% (281/2294) and 1.0% (24/2294) of patients, respectively.
-Grade 2 and Grade 3 hypophysitis (including lymphocytic hypophysitis) occurred in 2.0% (45/2294) and 1.6% (37/2294) of patients, respectively.
-Grade 2 and Grade 3 hypopituitarism occurred in 0.7% (16/2294) and 0.5% (11/2294) of patients, respectively.
-Grade 2, Grade 3, and Grade 4 adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute, blood corticotrophin decreased and immune-mediated adrenal insufficiency) occurred in 2.7% (62/2294), 1.7% (39/2294) and 0.2% (4/2294) of patients, respectively.
-Grade 1, Grade 2, Grade 3, and Grade 4 diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) occurred in < 0.1% (1/2294), 0.3% (8/2294), 0.2% (5/2294), and 0.3% (6/2294) of patients, respectively.
-Resolution occurred in 254 patients (39.1%).
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of thyroid disorders was 12.7% (199/1572).
-Grade 2 thyroid disorder was reported in 6.2% (97/1572) patients.
-Grade 3 hypophysitis occurred in 0.1% (2/1572) of patients.
-Grade 2 and Grade 3 hypopituitarism occurred in 0.2% (3/1572) and 0.3% (4/1572) of patients, respectively.
-Grade 2, Grade 3 and
-Grade 4 adrenal insufficiency occurred in 0.6% (9/1572), 0.2% (3/1572) and < 0.1% (1/1572) of patients, respectively.
-Diabetes mellitus including Type 1 diabetes mellitus, fulminant Type 1 diabetes mellitus, and diabetic ketoacidosis (3 Grade 2, 2 Grade 3, and 1 Grade 4) were reported.
-Median time to onset of these endocrinopathies was 14.7 weeks (range: 1.1-124.3).
-Resolution occurred in 81 patients (37.2%).
-Time to resolution ranged from 0.4 to 233.6+ weeks.
-
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of rash was 45.2% (1038/2294).
-Grade 2, Grade 3, and Grade 4 cases were reported in 13.6% (312/2294), 4.4% (102/2294), and < 0.1% (2/2294) of patients, respectively.
-Median time to onset was 0.8 months (range: 0.0-33.8).
-Resolution occurred in 724 patients (70%) with a median time to resolution of 11.3 weeks (range: 0.1-268.7+).
-Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, the incidence of rash was 65.2%, including Grade 2 (20.3%) and Grade 3 (7.8%).
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of rash was 25.6% (402/1572).
-Grade 2 and Grade 3 cases were reported in 6.2% (97/1572) and 2.5% (39/1572) of patients, respectively.
-Median time to onset was 7.0 weeks (range: 0.1-97.4).
-Resolution occurred in 273 patients (68.1%) with a median time to resolution of 12.3 weeks (range: 0.1-258.7+).
+Grade 2, Grade 3, and Grade 4 cases were reported in 14.3% (375/2626), 4.6% (120/2626), and 0.1% (3/2626) of Gpatients, respectively.
 
 Infusion reactions (intravenous formulation)
-
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of hypersensitivity/infusion reactions was 4.8% (110/2294).
-Grade 1, Grade 2, Grade 3, and Grade 4 cases were reported in 2.0% (47/2294), 2.5% (57/2294), 0.2% (5/2294), and < 0.1% (1/2294) of patients, respectively.
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of hypersensitivity/infusion reactions was 8.5% (134/1572).
-Grade 2, Grade 3, and Grade 4 cases were reported in 4.8% (76/1572), 1.1% (18/1572), and 0.2% (3/1572) of patients, respectively.
 
 In patients with Grade ≥ 2 increased ALT or AST (n = 85): median time to onset was 10.1 weeks (range: 2.0 to 106.6 weeks), 26% received corticosteroids for median duration of 1.4 weeks (range: 0.9 to 75.3 weeks), and resolution to Grades 0-1 occurred in 91% with median time to resolution of 2.3 weeks (range: 0.4 to 108.1+ weeks).
 Among the 45 patients with Grade ≥ 2 increased ALT or AST who were rechallenged with either nivolumab (n = 10) or cabozantinib (n = 10) administered as a single agent or with both (n = 25), recurrence of Grade ≥ 2 increased ALT or AST was observed in 3 patients receiving OPDIVO, 4 patients receiving cabozantinib, and 8 patients receiving both OPDIVO and cabozantinib.
 
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.8% for anaemia, 1.4% for thrombocytopaenia, 2.1% for leucopoenia, 7.0% for lymphopaenia, 3.2% for neutropaenia, 2.8% for increased alkaline phosphatase, 7.0% for increased AST, 8.1% for increased ALT, 1.3% for increased total bilirubin, 1.7% for increased creatinine, 5.8% for hyperglycaemia, 0.7% for hypoglycaemia, 8.2% for increased amylase, 16.3% for increased lipase, 0.7% for hypocalcaemia, 0.2% for hypernatraemia, 0.9% for hypercalcaemia, 1.9% for hyperkalaemia, 0.5% for hypermagnesaemia, 0.4% for hypomagnesaemia, 3.2% for hypokalaemia, and 9.2% for hyponatraemia.
-
-Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, a higher proportion of patients experienced a worsening from baseline to Grade 3 or 4 increased ALT (15.3%).
-
-In patients treated with nivolumab in combination with chemotherapy, the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 15.8% for anaemia, 6.9% for thrombocytopaenia, 12.2% leukopaenia, 14.6% for lymphopaenia, 27.6% neutropaenia, 2.4% for increased alkaline phosphatase, 3.4% for increased AST, 2.6% for increased ALT, 2.0% for increased bilirubin, 1.4% for increased creatinine, 4.5% for increased amylase, 5.2% for increased lipase, 0.5% for hypernatraemia, 8.8% for hyponatraemia, 1.9% for hyperkalaemia, 5.6% for hypokalaemia, 0.8% for hypercalcaemia, 1.9% for hypocalcaemia, 1.5% for hypermagnesaemia, 2.9% for hypomagnesaemia, 3.5% for hyperglycaemia, and 0.7% for hypoglycaemia.
-
 Subcutaneous formulation
+
 Of the 202 patients who were treated with nivolumab solution for injection and evaluable for the presence of anti-nivolumab antibodies, approximately 23% (46/202) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and 1% (2/202) had neutralizing antibodies against nivolumab.
 The incidence of treatment-emergent anti-recombinant human hyaluronidase PH20 (anti-rHuPH20) antibodies in patients treated with nivolumab solution for injection was 8.8% (19/215).
 
 Intravenous formulation
-
-Of the patients who were treated with nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy and evaluable for the presence of anti-product-antibodies, 7.5% tested positive for treatment emergent anti-product-antibodies with 0.5% tested positive for neutralising antibodies.
