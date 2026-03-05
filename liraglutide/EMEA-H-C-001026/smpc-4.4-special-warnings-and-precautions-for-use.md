@@ -10,16 +10,21 @@ There is no therapeutic experience in patients with congestive heart failure New
 There is limited experience in patients with inflammatory bowel disease and diabetic gastroparesis.
 Use of liraglutide is not recommended in these patients since it is associated with transient gastrointestinal adverse reactions, including nausea, vomiting and diarrhoea.
 
+Aspiration in association with general anaesthesia or deep sedation
+
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation.
+Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
+
 Acute pancreatitis
 
 Acute pancreatitis has been observed with the use of GLP-1 receptor agonists.
 Patients should be informed of the characteristic symptoms of acute pancreatitis.
 If pancreatitis is suspected, liraglutide should be discontinued; if acute pancreatitis is confirmed, liraglutide should not be restarted (see sections 4.8 and 5.1).
-
 Thyroid disease
 
 Thyroid adverse events, such as goitre, have been reported in clinical trials and in particular in patients with pre-existing thyroid disease.
 Liraglutide should therefore be used with caution in these patients.
+
 Hypoglycaemia
 
 Patients receiving liraglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia (see section 4.8).
