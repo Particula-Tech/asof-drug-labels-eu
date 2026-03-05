@@ -20,7 +20,7 @@ Each vial contains 300 mg of posaconazole.
 Each mL contains 18 mg of posaconazole.
 
 Each vial contains 462 mg (20 mmol) of sodium.
-Each vial contains 6,680 mg of cyclodextrin (as Betadex Sulfobutyl Ether Sodium (SBECD)).
+Each vial contains 6 680 mg of cyclodextrin (as Betadex Sulfobutyl Ether Sodium (SBECD)).
 
 [Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
 

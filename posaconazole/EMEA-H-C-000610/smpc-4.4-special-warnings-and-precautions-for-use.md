@@ -4,16 +4,17 @@ Hypersensitivity
 There is no information regarding cross-sensitivity between posaconazole and other azole antifungal agents.
 Caution should be used when prescribing posaconazole to patients with hypersensitivity to other azoles.
 
-Hepatic toxicity
+Hepatobiliary disorders
 Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
 Elevated liver function tests were generally reversible on discontinuation of therapy and in some instances these tests normalised without interruption of therapy.
-Rarely, more severe hepatic reactions with fatal outcomes have been reported.
-Posaconazole should be used with caution in patients with hepatic impairment due to limited clinical experience and the possibility that posaconazole plasma levels may be higher in these patients (see sections 4.2 and 5.2).
+Rarely, more severe hepatic reactions with fatal outcomes have been reported (see section 4.8).
+
 Monitoring of hepatic function
-Liver function tests should be evaluated at the start of and during the course of posaconazole therapy.
+Liver function tests should be evaluated prior to the start of and during the course of posaconazole therapy.
 Patients who develop abnormal liver function tests during posaconazole therapy must be routinely monitored for the development of more severe hepatic injury.
-Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of posaconazole should be considered if clinical signs and symptoms are consistent with development of liver disease.
+
+Posaconazole should be used with caution in patients with hepatic impairment due to the possibility of increased plasma levels (see section 5.2).
 
 QTc prolongation
 Some azoles have been associated with prolongation of the QTc interval.
@@ -53,9 +54,11 @@ Photosensitivity reaction
 Posaconazole may cause increased risk of photosensitivity reaction.
 Patients should be advised to avoid sun exposure during treatment without adequate protection such as protective clothing and sunscreen with a high sun protection factor (SPF).
 
+Excipients with known effect
 Glucose
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
 Patients with rare glucose-galactose malabsorption should not take this medicinal product.
+Use of this medicine may be harmful to the teeth.
 
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
@@ -66,6 +69,7 @@ This medicinal product contains 10 mg of sodium benzoate (E211) per 5 mL of susp
 Benzyl alcohol
 This medicinal product contains up to 1.25 mg of benzyl alcohol per 5 mL of suspension.
 Benzyl alcohol may cause anaphylactoid reactions.
+High volumes should be used with caution and only if necessary, especially in subjects with liver or kidney impairment because of the risk of accumulation and toxicity (metabolic acidosis).
 
 Propylene glycol
 This medicinal product contains up to 24.75 mg of propylene glycol (E1520) per 5 mL of suspension.
@@ -74,15 +78,9 @@ This medicinal product contains up to 24.75 mg of propylene glycol (E1520) per 5
 
 Rifamycin antibacterials (rifampicin, rifabutin), flucloxacillin, certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), and efavirenz.
 
-Plasma exposure
-Posaconazole plasma concentrations following administration of posaconazole tablets are generally higher than those obtained with posaconazole oral suspension.
-Posaconazole plasma concentrations following administration of posaconazole tablets may increase over time in some patients (see section 5.2).
-
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [Noxafil 300 mg concentrate for solution for infusion]
-
-Hepatic reactions (e.g. elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
 
 Monitoring of patients with severe renal impairment
 Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections (see sections 4.2 and 5.2).
@@ -91,21 +89,18 @@ In patients, mean maximum plasma concentrations (Cmax) after posaconazole concen
 An increased effect on the QTc interval cannot be ruled out.
 Particular caution is advised in such cases where posaconazole is administered peripherally, as the recommended infusion time of 30 minutes may further increase Cmax.
 
-Plasma concentrations following administration of posaconazole intravenous concentrate for solution for infusion are generally higher than those obtained with posaconazole oral suspension.
-Posaconazole plasma concentrations following administration of posaconazole may increase over time in some patients (see section 5.2).
-
 Thromboembolic events
 Thromboembolic events have been identified as a potential risk for posaconazole intravenous concentrate for solution for infusion but were not observed in the clinical studies.
 Thrombophlebitis was observed in clinical studies.
 Caution is warranted on any sign or symptom of thromboembolic events (see sections 4.8 and 5.3).
 
 This medicinal product contains 462 mg (20 mmol) sodium per vial, equivalent to 23 % of the WHO recommended maximum daily intake of sodium.
-The maximum daily dose of this product is equivalent to 46% of the WHO recommended maximum daily intake for sodium.
+The maximum daily dose of this product is equivalent to 46 % of the WHO recommended maximum daily intake for sodium.
 Noxafil 300 mg concentrate for solution for infusion is considered high in sodium.
 This should be particularly taken into account for those on a low salt diet.
 
 Cyclodextrin
-This medicinal product contains 6,680 mg of cyclodextrin per vial.
+This medicinal product contains 6 680 mg of cyclodextrin per vial.
 
 [Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
 

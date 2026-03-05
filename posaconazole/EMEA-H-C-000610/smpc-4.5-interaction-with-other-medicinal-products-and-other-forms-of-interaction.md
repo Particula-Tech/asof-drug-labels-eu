@@ -4,14 +4,14 @@ Effects of other medicinal products on posaconazole
 Posaconazole is metabolised via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux in vitro.
 Therefore, inhibitors (e.g. verapamil, ciclosporin, quinidine, clarithromycin, erythromycin, etc.) or inducers (e.g. rifampicin, rifabutin, certain anticonvulsants, etc.) of these clearance pathways may increase or decrease posaconazole plasma concentrations, respectively.
 
+Flucloxacillin
+Flucloxacillin (a CYP450 inducer) may decrease plasma posaconazole concentrations.
+Concomitant use of posaconazole and flucloxacillin should be avoided unless the benefit to the patient outweighs the risk (see section 4.4).
+
 Rifabutin
 Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) and AUC (area under the plasma concentration time curve) of posaconazole to 57 % and 51 %, respectively.
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
-
-Flucloxacillin
-Flucloxacillin (a CYP450 inducer) may decrease plasma posaconazole concentrations.
-Concomitant use of posaconazole and flucloxacillin should be avoided unless the benefit to the patient outweighs the risk (see section 4.4).
 
 Efavirenz
 Efavirenz (400 mg once a day) decreased the Cmax and AUC of posaconazole by 45 % and 50 %, respectively.
@@ -22,6 +22,7 @@ Combining fosamprenavir with posaconazole may lead to decreased posaconazole pla
 If concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
 Repeat dose administration of fosamprenavir (700 mg twice daily x 10 days) decreased the Cmax and AUC of posaconazole oral suspension (200 mg once daily on the 1st day, 200 mg twice daily on the 2nd day, then 400 mg twice daily x 8 days) by 21 % and 23 %, respectively.
 The effect of posaconazole on fosamprenavir levels when fosamprenavir is given with ritonavir is unknown.
+
 Phenytoin
 Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 % and 50 %, respectively.
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.
@@ -46,7 +47,7 @@ The effect of co-administration with posaconazole on plasma levels of CYP3A4 sub
 
 Terfenadine, astemizole, cisapride, pimozide, halofantrine and quinidine (CYP3A4 substrates)
 Co-administration of posaconazole and terfenadine, astemizole, cisapride, pimozide, halofantrine or quinidine is contraindicated.
-Co-administration may result in increased plasma concentrations of these medicinal products, leading to QTc prolongation and rare occurrences of torsades de pointes (see section 4.3).
+Co-administration may result in increased plasma concentrations of these medicinal products, leading to QTc prolongation and rare occurrences of torsade de pointes (see section 4.3).
 
 Ergot alkaloids
 Posaconazole may increase the plasma concentration of ergot alkaloids (ergotamine and dihydroergotamine), which may lead to ergotism.
@@ -55,6 +56,15 @@ Co-administration of posaconazole and ergot alkaloids is contraindicated (see se
 HMG-CoA reductase inhibitors metabolised through CYP3A4 (e.g. simvastatin, lovastatin, and atorvastatin)
 Posaconazole may substantially increase plasma levels of HMG-CoA reductase inhibitors that are metabolised by CYP3A4.
 Treatment with these HMG-CoA reductase inhibitors should be discontinued during treatment with posaconazole as increased levels have been associated with rhabdomyolysis (see section 4.3).
+Venetoclax
+Compared with venetoclax 400 mg administered alone, co-administration of 300 mg posaconazole, a strong CYP3A inhibitor, with venetoclax 50 mg and 100 mg for 7 days in 12 patients, increased venetoclax Cmax to 1.6-fold and 1.9-fold, and AUC to 1.9-fold and 2.4-fold, respectively (see sections 4.3 and 4.4).
+
+Midazolam and other benzodiazepines metabolised by CYP3A4
+In a study in healthy volunteers, posaconazole oral suspension (200 mg once daily for 10 days) increased the exposure (AUC) of intravenous midazolam (0.05 mg/kg) by 83 %.
+In another study in healthy volunteers, repeat dose administration of posaconazole oral suspension (200 mg twice daily for 7 days) increased the Cmax and AUC of intravenous midazolam (0.4 mg single dose) by an average of 1.3 and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole oral suspension 400 mg twice daily for 7 days increased the intravenous midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively.
+Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively.
+In addition, posaconazole oral suspension (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
+Due to the risk of prolonged sedation, it is recommended that dose adjustments of benzodiazepine that are metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) should be considered when posaconazole is administered concomitantly (see section 4.4) and also refer to the SmPC of the corresponding benzodiazepines metabolised by CYP3A4.
 
 Vinca alkaloids
 Most of the vinca alkaloids (e.g. vincristine and vinblastine) are substrates of CYP3A4.
@@ -76,7 +86,6 @@ Sirolimus concentrations should be measured upon initiation, during co-administr
 It should be noted that the relationship between sirolimus trough concentration and AUC is changed during co-administration with posaconazole.
 As a result, sirolimus trough concentrations that fall within the usual therapeutic range may result in sub-therapeutic levels.
 Therefore, trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
-
 Ciclosporin
 In heart transplant patients on stable doses of ciclosporin, posaconazole oral suspension 200 mg once daily increased ciclosporin concentrations requiring dose reductions.
 Cases of elevated ciclosporin levels resulting in serious adverse reactions, including nephrotoxicity and one fatal case of leukoencephalopathy, were reported in clinical efficacy studies.
@@ -96,13 +105,6 @@ Following co-administration of posaconazole oral suspension (400 mg twice daily)
 The addition of posaconazole to therapy with atazanavir or with atazanavir plus ritonavir was associated with increases in plasma bilirubin levels.
 Frequent monitoring for adverse reactions and toxicity related to antiretroviral agents that are substrates of CYP3A4 is recommended during co-administration with posaconazole.
 
-Midazolam and other benzodiazepines metabolised by CYP3A4
-In a study in healthy volunteers posaconazole oral suspension (200 mg once daily for 10 days) increased the exposure (AUC) of intravenous midazolam (0.05 mg/kg) by 83 %.
-In another study in healthy volunteers, repeat dose administration of posaconazole oral suspension (200 mg twice daily for 7 days) increased the Cmax and AUC of intravenous midazolam (0.4 mg single dose) by an average of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole oral suspension 400 mg twice daily for 7 days increased the intravenous midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively.
-Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively.
-In addition, posaconazole oral suspension (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
-Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) (see section 4.4).
-
 Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine)
 Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
 Dose adjustment of calcium channel blockers may be required.
@@ -119,10 +121,6 @@ All-trans retinoic acid (ATRA) or tretinoin
 As ATRA is metabolised by the hepatic CYP450 enzymes, notably CYP3A4, concomitant administration with posaconazole, which is a strong inhibitor of CYP3A4, may lead to increased exposure to tretinoin resulting in an increased toxicity (especially hypercalcaemia).
 Serum calcium levels should be monitored and, if needed, appropriate dose adjustments of tretinoin should be considered during the treatment with posaconazole, and during the following days after treatment.
 
-Venetoclax
-Compared with venetoclax 400 mg administered alone, co-administration of 300 mg posaconazole, a strong CYP3A inhibitor, with venetoclax 50 mg and 100 mg for 7 days in 12 patients, increased venetoclax Cmax to 1.6-fold and 1.9-fold, and AUC to 1.9-fold and 2.4-fold, respectively (see sections 4.3 and 4.4).
-Refer to the venetoclax SmPC.
-
 Paediatric population
 Interaction studies have only been performed in adults.
 
@@ -132,6 +130,9 @@ No clinically relevant effects were observed when posaconazole tablets are conco
 No dose adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient.
+
+In a study in healthy volunteers posaconazole oral suspension (200 mg once daily for 10 days) increased the exposure (AUC) of intravenous midazolam (0.05 mg/kg) by 83 %.
+In another study in healthy volunteers, repeat dose administration of posaconazole oral suspension (200 mg twice daily for 7 days) increased the Cmax and AUC of intravenous midazolam (0.4 mg single dose) by an average of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole oral suspension 400 mg twice daily for 7 days increased the intravenous midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively.
 
 [Noxafil 300 mg concentrate for solution for infusion]
 

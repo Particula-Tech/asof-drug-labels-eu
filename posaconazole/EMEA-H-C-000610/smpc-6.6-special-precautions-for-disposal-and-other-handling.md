@@ -41,7 +41,7 @@ Norepinephrine bitartrate
 Potassium chloride
 Vancomycin hydrochloride
 
-Any products not listed in the table above should not be coadministered with Noxafil through the same intravenous line (or cannula).
+Any products not listed in the table above should not be co-administered with Noxafil through the same intravenous line (or cannula).
 
 Noxafil concentrate for solution for infusion should be inspected visually for particulate matter prior to administration.
 The solution of Noxafil ranges from colourless to pale yellow.
@@ -80,6 +80,7 @@ Polyurethane 12 Fr or larger
 *PVC – polyvinyl chloride
 
 The tube should be flushed again with at least 10 mL water to ensure Noxafil is delivered and to clear the tube.
+
 After administration of the required volume, the remaining suspension in the mixing cup cannot be re-used and must be discarded.
 
 The dose should be administered orally within 30 minutes of mixing.
