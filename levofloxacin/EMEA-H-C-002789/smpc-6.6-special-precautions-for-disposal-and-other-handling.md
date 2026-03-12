@@ -23,5 +23,4 @@ When the treatment is complete, the controller will ‘beep’ twice.
 Disconnect the controller and dismantle the Zirela Nebuliser Handset for cleaning and disinfection.
 
 Do not put other medicinal products into the Zirela Nebuliser Handset.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

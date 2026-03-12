@@ -14,4 +14,5 @@ Levofloxacin did not show any genotoxic potential in a photomutagenicity assay.
 It reduced tumour development in a photocarcinogenicity study.
 
 Levofloxacin caused no impairment of fertility or reproductive performance in rats and its only effect on foetuses was delayed maturation as a result of maternal toxicity.
+
 Non-clinical studies conducted with levofloxacin using the inhalation route revealed no special hazard for humans based on conventional studies of safety pharmacology (respiratory), single dose toxicity and repeated dose toxicity.

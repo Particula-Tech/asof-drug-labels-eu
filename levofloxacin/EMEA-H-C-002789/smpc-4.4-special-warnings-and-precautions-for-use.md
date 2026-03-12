@@ -84,9 +84,9 @@ Dysglycaemia
 Disturbances in blood glucose, including both hypoglycaemia and hyperglycaemia have been reported, usually in diabetic patients receiving concomitant treatment with an oral hypoglycaemic medicinal product (e.g. glibenclamide) or with insulin.
 In diabetic patients, careful monitoring of blood glucose is recommended (see section 4.8).
 
-Clostridium difficile-associated disease
+Clostridioides difficile-associated disease
 
-Diarrhoea, particularly if severe, persistent and/or bloody, during or after treatment with levofloxacin (including several weeks after treatment), may be symptomatic of Clostridium difficile-associated disease (CDAD).
+Diarrhoea, particularly if severe, persistent and/or bloody, during or after treatment with levofloxacin (including several weeks after treatment), may be symptomatic of Clostridioides difficile-associated disease (CDAD).
 CDAD may range in severity from mild to life-threatening, the most severe form of which is pseudomembranous colitis.
 
 Resistance to levofloxacin, other antibacterial medicinal products and treatment-emergent microorganisms
