@@ -8,6 +8,7 @@ Doravirine is a pyridinone non-nucleoside reverse transcriptase inhibitor of HIV
 Doravirine does not inhibit the human cellular DNA polymerases α, ß, and mitochondrial DNA polymerase γ.
 
 Antiviral activity in cell culture
+
 Doravirine exhibited an EC50 value of 12.0±4.4 nM against wild-type laboratory strains of HIV-1 when tested in the presence of 100 % normal human serum using MT4-GFP reporter cells.
 Doravirine demonstrated antiviral activity against a broad panel of primary HIV-1 isolates (A, A1, AE, AG, B, BF, C, D, G, H) with EC50 values ranging from 1.2 nM to 10.0 nM.
 
@@ -21,17 +22,17 @@ In cell culture
 Doravirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes, as well as NNRTI-resistant HIV-1.
 Observed emergent amino acid substitutions in RT included: V106A, V106M, V106I, V108I, F227L, F227C, F227I, F227V, H221Y, M230I, L234I, P236L, and Y318F.
 The V106A, V106M, V108I, H221Y, F227C, M230I, P236L, and Y318F substitutions conferred 3.4-fold to 70-fold reductions in susceptibility to doravirine.
-Y318F in combination with V106A, V106M, V108I, and F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
+Y318F in combination with V106A, V106M, V108I, or F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
 Common NNRTI-resistant mutations (K103N, Y181C) were not selected in the in vitro study.
 V106A (yielding a fold change of around 19) appeared as an initial substitution in subtype B virus, and V106A or M in subtype A and C virus.
-Subsequently F227(L/C/V) or L234I emerged in addition to V106 substitution (double mutants yielding a fold change of > 100).
+Subsequently F227(L/C/V) or L234I emerged in addition to V106 substitutions (double mutants yielding a fold change of > 100).
 
 In clinical trials
 Treatment-naïve adult subjects
 The Phase 3 studies, DRIVE-FORWARD and DRIVE-AHEAD, included previously untreated patients (n = 747) where the following NNRTI substitutions were part of exclusion criteria: L100I, K101E, K101P, K103N, K103S, V106A, V106I, V106M, V108I, E138A, E138G, E138K, E138Q, E138R, V179L, Y181C, Y181I, Y181V, Y188C, Y188H, Y188L, G190A, G190S, H221Y, L234I, M230I, M230L, P225H, F227C, F227L, F227V.
 
-The following de novo resistance was seen in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having resistance data).
-Table 3: Resistance development up to week 96 in protocol defined virologic failure population + early discontinuation population
+The following de novo resistance was seen in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or at early study discontinuation and having resistance data).
+Table 3: Resistance development up to Week 96 in protocol defined virologic failure population + early discontinuation population
 
 |  | DRIVE-FORWARD |  | DRIVE-AHEAD |  |
 | --- | --- | --- | --- | --- |
@@ -39,8 +40,8 @@ Table 3: Resistance development up to week 96 in protocol defined virologic fail
 | Successful genotype, n | 15 | 18 | 32 | 33 |
 | Genotypic resistance to |  |  |  |  |
 | DOR or control (DRV or EFV) | 2 (DOR) | 0 (DRV) | 8 (DOR) | 14 (EFV) |
-| NRTI backbone M184I/V only K65R only K65R + M184I/V | 2** 2 0 0 | 0 0 0 0 | 6 4 1 1 | 5 4 0 1 |
-| *NRTIs in DOR arm: FTC/TDF (333) or ABC/3TC (50); NRTIs in DRV+r arm: FTC/TDF (335) or ABC/3TC (48) **Subjects received FTC/TDF ABC=abacavir; FTC=emtricitabine; DRV=darunavir; r=ritonavir |  |  |  |  |
+| NRTI backbone M184I/V only K65R only K65R + M184I/V | 2† 2 0 0 | 0 0 0 0 | 6 4 1 1 | 5 4 0 1 |
+| *NRTIs in DOR arm: FTC/TDF (333) or ABC/3TC (50); NRTIs in DRV+r arm: FTC/TDF (335) or ABC/3TC (48) †Subjects received FTC/TDF ABC=abacavir; FTC=emtricitabine; DRV=darunavir; r=ritonavir |  |  |  |  |
 
 Emergent doravirine associated resistance substitutions in RT included one or more of the following: A98G, V106I, V106A, V106M/T, Y188L, H221Y, P225H, F227C, F227C/R, and Y318Y/F.
 
@@ -57,11 +58,11 @@ None of the 24 subjects (11 in the immediate switch group, 13 in the delayed swi
 Paediatric subjects
 In the IMPAACT 2014 (Protocol 027) clinical trial, no subject who was virologically suppressed at baseline met the criteria for resistance analysis.
 One treatment-naïve subject who met the protocol-defined virologic failure criteria (defined as 2 consecutive plasma HIV-1 RNA test results
-≥200 copies/mL) at or after Week 24 was evaluated for the development of resistance; no emergence of genotypic or phenotypic resistance to doravirine was detected.
+≥200 copies/mL at or after Week 24) was evaluated for the development of resistance; no emergence of genotypic or phenotypic resistance to doravirine was detected.
 
 Cross-resistance
 
-Doravirine has been evaluated in a limited number of patients with NNRTI resistance (K103N n=7, G190A n=1); all patients were suppressed to < 40 copies/mL at week 48.
+Doravirine has been evaluated in a limited number of patients with NNRTI resistance (K103N n=7, G190A n=1); all patients were suppressed to < 40 copies/mL at Week 48.
 A breakpoint for a reduction in susceptibility, yielded by various NNRTI substitutions, that is associated with a reduction in clinical efficacy has not been established.
 Laboratory strains of HIV-1 harbouring the common NNRTI-associated mutations K103N, Y181C, or K103N/Y181C substitutions in RT exhibit less than a 3-fold decrease in susceptibility to doravirine compared to wild-type virus when evaluated in the presence of 100 % normal human serum.
 In in vitro studies, doravirine was able to suppress the following NNRTI-associated substitutions; K103N, Y181C, and G190A under clinically relevant concentrations.
@@ -77,7 +78,7 @@ Of the 8 subjects who developed high level doravirine resistance in the pivotal 
 Clinical experience
 
 Treatment-naïve adult subjects
-The efficacy of doravirine is based on the analyses of 96-week data from two randomised, multicentre, double-blind, active controlled Phase 3 trials, (DRIVE-FORWARD and DRIVE-AHEAD) in antiretroviral treatment-naïve, HIV-1 infected subjects (n = 1494).
+The efficacy of doravirine is based on the analyses of 96-week data from two randomised, multicentre, double-blind, active controlled Phase 3 trials, (DRIVE-FORWARD and DRIVE-AHEAD) in antiretroviral treatment-naïve, HIV-1 infected subjects (n = 1 494).
 Refer to Resistance section for NNRTI substitutions that were part of exclusion criteria.
 
 In DRIVE-FORWARD, 766 subjects were randomised and received at least 1 dose of either doravirine 100 mg or darunavir + ritonavir 800+100 mg once daily, each in combination with emtricitabine/tenofovir disoproxil (FTC/TDF) or abacavir/lamivudine (ABC/3TC) selected by the investigator.
@@ -117,18 +118,18 @@ Table 4: Efficacy response (< 40 copies/mL, Snapshot approach) in the pivotal st
 *For Week 96, certain subjects with missing HIV-1 RNA were excluded from the analysis.
 P007 was a Phase 2b trial in antiretroviral treatment-naïve HIV-1 infected adult subjects (n = 340).
 In Part I, subjects were randomised to receive one of 4 doses of doravirine or EFV, each in combination with FTC/TDF.
-After week 24, all subjects randomised to receive doravirine were switched to (or maintained on) doravirine 100 mg.
+After Week 24, all subjects randomised to receive doravirine were switched to (or maintained on) doravirine 100 mg.
 Additional subjects were randomised in Part II to receive either doravirine 100 mg or EFV, each in combination with FTC/TDF.
 In both parts of the trial, doravirine and EFV were administered as blinded-therapy and FTC/TDF was administered open-label.
-Table 5: Efficacy response at week 24 (Snapshot approach)
+Table 5: Efficacy response at Week 24 (Snapshot approach)
 
 |  | Doravirine 25 mg | Doravirine 50 mg | Doravirine 100 mg | Doravirine 200 mg | Efavirenz 600 mg |
 | --- | --- | --- | --- | --- | --- |
 |  | (N=40) n (%) | (N=43) n (%) | (N=42) n (%) | (N=41) n (%) | (N=42) n (%) |
 | HIV-1 RNA < 40 copies/mL | 32 (80) | 32 (74) | 30 (71) | 33 (80) | 27 (64) |
-| Treatment differences † (95 % CI) †† | 16 (-4, 34) | 10 (-10, 29) | 6.6 (-13, 26) | 16 (-3, 34) |  |
-| Mean CD4 change from baseline (cells/mm3) ** | 154 | 113 | 134 | 141 | 121 |
-| †A positive value favours doravirine over efavirenz. ††The 95 % CIs were calculated using Miettinen and Nurminen’s method with weights proportional to the size of each stratum (screening HBV-1 RNA > 100 000 copies/mL or ≤ 100 000 copies/mL. **Approach to handle missing data: Observed Failure (OF) approach. Baseline CD4 cell count was carried forward for subjects who discontinued assigned therapy due to lack of efficacy. Note: Both doravirine and efavirenz were administered with emtricitabine/tenofovir disoproxil (FTC/TDF). |  |  |  |  |  |
+| Treatment differences * (95 % CI) † | 16 (-4, 34) | 10 (-10, 29) | 6.6 (-13, 26) | 16 (-3, 34) |  |
+| Mean CD4 change from baseline (cells/mm3) ‡ | 154 | 113 | 134 | 141 | 121 |
+| *A positive value favours doravirine over efavirenz. †The 95 % CIs were calculated using Miettinen and Nurminen’s method with weights proportional to the size of each stratum (screening HBV-1 RNA > 100 000 copies/mL or ≤ 100 000 copies/mL. ‡Approach to handle missing data: Observed Failure (OF) approach. Baseline CD4 cell count was carried forward for subjects who discontinued assigned therapy due to lack of efficacy. Note: Both doravirine and efavirenz were administered with emtricitabine/tenofovir disoproxil (FTC/TDF). |  |  |  |  |  |
 
 Virologically suppressed adult subjects
 The efficacy of switching from a baseline regimen consisting of two nucleoside reverse transcriptase inhibitors in combination with a ritonavir- or cobicistat-boosted PI, or cobicistat-boosted elvitegravir, or an NNRTI to DOR/3TC/TDF was evaluated in a randomised, open-label trial (DRIVE-SHIFT), in virologically suppressed HIV-1 infected adults.
@@ -161,11 +162,11 @@ Table 6: Efficacy response (Snapshot approach) in the DRIVE-SHIFT study
 
 Discontinuation due to adverse events
 
-In a pooled analysis combining data from two treatment-naïve trials (P007 and DRIVE-AHEAD), a lower proportion of subjects who discontinued due to an adverse event by week 48 was seen for the combined doravirine (100 mg) treatment groups (2.8 %) compared with the combined EFV treatment group (6.1 %) (treatment difference -3.4 %, p-value 0.012).
+In a pooled analysis combining data from two treatment-naïve trials (P007 and DRIVE-AHEAD), a lower proportion of subjects who discontinued due to an adverse event by Week 48 was seen for the combined doravirine (100 mg) treatment groups (2.8 %) compared with the combined EFV treatment group (6.1 %) (treatment difference -3.4 %, p-value 0.012).
+
 Paediatric population
 
 The efficacy of doravirine was evaluated in combination with lamivudine and tenofovir disoproxil (DOR/3TC/TDF) in an open-label, single-arm trial in HIV-1 infected paediatric patients 12 to less than 18 years of age (IMPAACT 2014 (Protocol 027)).
-
 At baseline, the median age of subjects was 15 years (range: 12 to 17), 58% were female, 78% were Asian and 22% were Black, and the median CD4+ T-cell count was 713 cells per mm3 (range: 84 to 1,397).
 After switching to DOR/3TC/TDF, 95% (41/43) of virologically suppressed subjects remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 24 and 93% (40/43) remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 48.
 

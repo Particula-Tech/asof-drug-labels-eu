@@ -3,7 +3,6 @@
 Pregnancy
 
 There are no or limited amount of data from the use of doravirine in pregnant women.
-
 Antiretroviral pregnancy registry
 To monitor maternal-foetal outcomes in patients exposed to antiretroviral medicinal products while pregnant, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients in this registry.

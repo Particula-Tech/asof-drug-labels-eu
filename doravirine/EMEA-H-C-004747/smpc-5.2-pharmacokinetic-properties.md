@@ -70,6 +70,7 @@ No dose adjustment is required.
 Gender
 
 No clinically relevant pharmacokinetic differences have been identified between men and women for doravirine.
+
 Race
 
 No clinically relevant racial differences in the pharmacokinetics of doravirine have been identified based on a population pharmacokinetic analysis of doravirine in healthy and HIV-1 infected subjects.

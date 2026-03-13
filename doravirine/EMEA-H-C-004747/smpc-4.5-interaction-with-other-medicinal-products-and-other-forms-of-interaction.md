@@ -13,7 +13,6 @@ If co-administration with other moderate CYP3A inducers (e.g., dabrafenib, lesin
 
 Co-administration of doravirine and medicinal products that are inhibitors of CYP3A may result in increased plasma concentrations of doravirine.
 However, no dose adjustment is needed when doravirine is co-administered with CYP3A inhibitors.
-
 Effects of doravirine on other medicinal products
 
 Doravirine at a dose of 100 mg once daily is not likely to have a clinically relevant effect on the plasma concentrations of medicinal products that are dependent on transport proteins for absorption and/or elimination or that are metabolised by CYP enzymes.
@@ -22,6 +21,7 @@ However, co-administration of doravirine and the sensitive CYP3A substrate midaz
 Therefore caution should be used when co-administering doravirine with medicinal products that are sensitive CYP3A substrates that also have a narrow therapeutic window (e.g., tacrolimus and sirolimus).
 
 Interactions table
+
 Table 1 shows the established and other potential medicinal product interactions with doravirine but is not all inclusive (increase is indicated as ↑, decrease is indicated as ↓, and no change as ↔).
 
 Table 1: Interactions of doravirine with other medicinal products
@@ -38,9 +38,6 @@ Table 1: Interactions of doravirine with other medicinal products
 | enzalutamide | Interaction not studied. Expected: ↓ doravirine (Induction of CYP3A) | Co-administration is contraindicated. |
 | Antibiotics |  |  |
 | nafcillin | Interaction not studied. Expected: ↓ doravirine (Induction of CYP3A) | Co-administration should be avoided. If co-administration cannot be avoided, one tablet of doravirine should be taken twice daily (approximately 12 hours apart). |
-
-| Medicinal product by therapeutic area | Effects on medicinal product levels geometric mean ratio (90 % CI)* | Recommendation concerning co-administration with doravirine |
-| --- | --- | --- |
 | Anticonvulsants |  |  |
 | carbamazepine oxcarbazepine phenobarbital phenytoin | Interaction not studied. Expected: ↓ doravirine (Induction of CYP3A) | Co-administration is contraindicated. |
 | Antidiabetics |  |  |

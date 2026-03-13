@@ -2,13 +2,15 @@
 
 Summary of the safety profile
 
-In phase 3 clinical trials with doravirine plus 2 NRTIs, the most frequently reported adverse reactions were nausea (4 %) and headache (3 %).
+In phase 3 clinical trials with doravirine plus 2 nucleoside reverse transcriptase inhibitors (NRTIs), the most frequently reported adverse reactions were nausea (4 %) and headache (3 %).
 
 Tabulated summary of adverse reactions
 
-The adverse reactions with doravirine plus 2 NRTIs from Phase 3 clinical trials (DRIVE FORWARD, DRIVE SHIFT and DRIVE AHEAD) are listed below by body system organ class and frequency.
+The adverse reactions with doravirine plus 2 NRTIs from Phase 3 clinical trials (DRIVE FORWARD, DRIVE SHIFT and DRIVE AHEAD) and postmarketing experience are listed below by body system organ class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100) or rare (≥ 1/10 000 to < 1/1 000).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to
+< 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), or not known (cannot be estimated from the available data).
+
 Table 2: Tabulated summary of adverse reactions associated with doravirine used in combination with other antiretrovirals
 
 | Frequency | Adverse reactions |
@@ -33,10 +35,13 @@ Table 2: Tabulated summary of adverse reactions associated with doravirine used 
 | Common | nausea, diarrhoea, flatulence, abdominal pain4, vomiting |
 | Uncommon | constipation, abdominal discomfort5, abdominal distension, dyspepsia, faeces soft6, gastrointestinal motility disorder7 |
 | Rare | rectal tenesmus |
+| Hepatobiliary disorders |  |
+| Not known | hepatitis |
 | Skin and subcutaneous tissue disorders |  |
 | Common | rash8 |
 | Uncommon | pruritus |
 | Rare | dermatitis allergic, rosacea |
+| Not known | toxic epidermal necrolysis |
 | Musculoskeletal and connective tissue disorders |  |
 | Uncommon | myalgia, arthralgia |
 | Rare | musculoskeletal pain |
@@ -50,12 +55,19 @@ Table 2: Tabulated summary of adverse reactions associated with doravirine used 
 | Common | alanine aminotransferase increased9 |
 | Uncommon | lipase increased, aspartate aminotransferase increased, amylase increased, haemoglobin decreased |
 | Rare | blood creatine phosphokinase increased |
-| 1insomnia includes: insomnia, initial insomnia and sleep disorder 2depression includes: depression, depressed mood, major depression, and persistent depressive disorder 3anxiety includes: anxiety and generalised anxiety disorder 4abdominal pain includes: abdominal pain, and abdominal pain upper 5abdominal discomfort includes: abdominal discomfort, and epigastric discomfort 6faeces soft includes: faeces soft and abnormal faeces 7gastrointestinal motility disorder includes: gastrointestinal motility disorder, and frequent bowel movements 8rash includes: rash, rash macular, rash erythematous, rash generalised, rash maculo-papular, rash papular, and urticarial 9alanine aminotransferase increased includes: alanine aminotransferase increased and hepatocellular injury |  |
+| 1insomnia includes: insomnia, initial insomnia and sleep disorder 2depression includes: depression, depressed mood, major depression, and persistent depressive disorder 3anxiety includes: anxiety and generalised anxiety disorder 4abdominal pain includes: abdominal pain, and abdominal pain upper 5abdominal discomfort includes: abdominal discomfort, and epigastric discomfort 6faeces soft includes: faeces soft and abnormal faeces |  |
+| 7gastrointestinal motility disorder includes: gastrointestinal motility disorder, and frequent bowel movements 8rash includes: rash, rash macular, rash erythematous, rash generalised, rash maculo-papular, rash papular, and urticarial 9alanine aminotransferase increased includes: alanine aminotransferase increased and hepatocellular injury |  |
+
+Description of selected adverse reactions
 
 Immune reactivation syndrome
 
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+
+Severe cutaneous adverse reactions (SCARs)
+
+Severe cutaneous adverse reactions (SCARs), such as toxic epidermal necrolysis (TEN), have been reported in association with doravirine-containing treatment regimens (see section 4.4).
 
 Paediatric population
 
