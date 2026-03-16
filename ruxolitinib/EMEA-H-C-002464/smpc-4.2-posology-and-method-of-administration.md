@@ -20,21 +20,22 @@ Table 1 Starting doses in myelofibrosis
 
 Polycythaemia vera (PV)
 The recommended starting dose of Jakavi in PV is 10 mg twice daily.
-
 Graft versus host disease (GvHD)
 The recommended starting dose of Jakavi in acute and chronic GvHD is based on age (see Tables 2 and 3):
 
 Table 2 Starting doses in acute graft versus host disease
 
-| Age group | Starting dose |
-| --- | --- |
-| 12 years old and above 6 years to less than 12 years old 28 days to less than 6 years old | 10 mg twice daily 5 mg twice daily 8 mg/m2 twice daily |
+Age group Starting dose
+12 years old and above 10 mg twice daily
+6 years to less than 12 years old 5 mg twice daily
+28 days to less than 6 years old 8 mg/m2 twice daily
 
 Table 3 Starting doses in chronic graft versus host disease
 
-| Age group | Starting dose |
-| --- | --- |
-| 12 years old and above 6 years to less than 12 years old 6 months to less than 6 years old | 10 mg twice daily 5 mg twice daily 8 mg/m2 twice daily |
+Age group Starting dose
+12 years old and above 10 mg twice daily
+6 years to less than 12 years old 5 mg twice daily
+6 months to less than 6 years old 8 mg/m2 twice daily
 
 These starting doses in GvHD can be administered using either the tablet for patients who can swallow tablets whole or the oral solution.
 
@@ -189,6 +190,7 @@ Table 4 Dosing recommendations during ruxolitinib therapy for GvHD patients with
 The recommended starting dose for GvHD patients with severe renal impairment (creatinine clearance less than 30 ml/min) should be reduced by approximately 50% to be administered twice daily.
 
 There are no data for GvHD patients with end-stage renal disease (ESRD).
+
 Ruxolitinib dose can be titrated to reduce the risk of cytopenia.
 
 In patients with GvHD liver involvement and an increase of total bilirubin to >3 x ULN, blood counts should be monitored more frequently for toxicity and a dose reduction by one dose level is recommended (see section 4.4).

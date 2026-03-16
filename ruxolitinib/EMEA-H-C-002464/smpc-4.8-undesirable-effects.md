@@ -8,6 +8,7 @@ The most frequently reported adverse drug reactions were thrombocytopenia and an
 Haematological adverse drug reactions (any Common Terminology Criteria for Adverse Events [CTCAE] grade) included anaemia (83.8%), thrombocytopenia (80.5%) and neutropenia (20.8%).
 
 Anaemia, thrombocytopenia and neutropenia are dose-related effects.
+
 The three most frequent non-haematological adverse drug reactions were bruising (33.3%), other bleeding (including epistaxis, post-procedural haemorrhage and haematuria) (24.3%) and dizziness (21.9%).
 
 The three most frequent non-haematological laboratory abnormalities identified as adverse reactions were increased alanine aminotransferase (40.7%), increased aspartate aminotransferase (31.5%) and hypertriglyceridaemia (25.2%).
@@ -38,11 +39,11 @@ Grade 3 and 4 thrombocytopenia were reported in 31.3% and 47.7% of patients in R
 Grade 3 and 4 neutropenia were reported in 17.9% and 20.6% of patients in REACH2 and in 32.0% and 22.0% of patients in the paediatric pool, respectively.
 
 The most frequent non-haematological adverse drug reactions in REACH2 (adult and adolescent patients) and in the pool of paediatric patients (REACH2 and REACH4) were cytomegalovirus (CMV) infection (32.3% and 31.4%), sepsis (25.4% and 9.8%), urinary tract infections (17.9% and 9.8%), hypertension (13.4% and 17.6%) and nausea (16.4% and 3.9%), respectively.
+
 The most frequent non-haematological laboratory abnormalities identified as adverse drug reactions in REACH2 (adult and adolescent patients) and in the pool of paediatric patients (REACH2 and REACH4) were increased alanine aminotransferase (54.9% and 63.3%), increased aspartate aminotransferase (52.3% and 50.0%) and hypercholesterolaemia (49.2% and 61.2%), respectively.
 The majority were of grade 1 and 2, however grade 3 increased alanine aminotransferase was reported in 17.6% of patients in REACH2 and 27.3% of patients in the paediatric pool.
 
 Discontinuation due to adverse events, regardless of causality, was observed in 29.4% of patients in REACH2 and in 21.6% of patients in the paediatric pool.
-
 Chronic GvHD
 The most frequently reported adverse drug reactions in REACH3 (adult and adolescent patients) were anaemia, hypercholesterolemia and increased aspartate aminotransferase.
 The most frequently reported adverse drug reactions in the pool of paediatric patients (adolescents from REACH3 and paediatric patients from REACH5) were neutropenia, hypercholesterolaemia and increased alanine aminotransferase.
@@ -69,6 +70,7 @@ The median exposure upon which the adverse drug reaction frequency categories fo
 
 The safety of Jakavi in PV patients was evaluated using the long-term follow-up data from two phase 3 studies (RESPONSE, RESPONSE 2) including data from patients initially randomised to ruxolitinib (n=184) and patients who received ruxolitinib after crossing over from control treatments (n=156).
 The median exposure upon which the adverse drug reaction frequency categories for PV patients are based was 41.7 months (range 0.03 to 59.7 months).
+
 The safety of Jakavi in acute GvHD patients was evaluated in the phase 3 study REACH2 and in the phase 2 study REACH4.
 REACH2 included data from 201 patients ≥12 years of age initially randomised to Jakavi (n=152) and patients who received Jakavi after crossing over from the best available therapy (BAT) arm (n=49).
 The median exposure upon which the adverse drug reaction frequency categories were based was 8.9 weeks (range 0.3 to 66.1 weeks).
@@ -138,7 +140,6 @@ Table 6 Frequency category of adverse drug reactions reported in the phase 3 stu
 
 Upon discontinuation, MF patients may experience a return of MF symptoms such as fatigue, bone pain, fever, pruritus, night sweats, symptomatic splenomegaly and weight loss.
 In clinical studies in MF the total symptom score for MF symptoms gradually returned to baseline value within 7 days after dose discontinuation (see section 4.4).
-
 Table 7 Frequency category of adverse drug reactions reported in clinical studies in GvHD
 
 |  | Acute GvHD (REACH2) | Acute GvHD (Paediatric pool) | Chronic GvHD (REACH3) | Chronic GvHD (Paediatric pool) |
@@ -297,6 +298,7 @@ No patients in the ruxolitinib arm reported sepsis or tuberculosis.
 During long-term follow-up of phase 3 studies in PV, frequently reported infections were urinary tract infections (11.8%), herpes zoster (14.7%) and pneumonia (7.1%).
 Sepsis was reported in 0.6% of patients.
 No patients reported tuberculosis in long-term follow-up.
+
 In the phase 3 acute GvHD study (REACH2), during the comparative period, urinary tract infections were reported in 9.9% (grade ≥3, 3.3%) of patients in the ruxolitinib arm compared to 10.7% (grade
 ≥3, 6.0%) in the BAT arm.
 CMV infections were reported in 28.3% (grade ≥3, 9.3%) of patients in the ruxolitinib arm compared to 24.0% (grade ≥3, 10.0%) in the BAT arm.
@@ -336,7 +338,6 @@ reported in 20.4% of paediatric patients (grade 3 and 4: 8.5% and 4.1%, respecti
 In the comparative period of the phase 3 chronic GvHD study (REACH3), new or worsened lipase values were reported in 32.1% of patients in the ruxolitinib arm compared to 23.5% in the BAT arm; corresponding grade 3 (10.6% vs 6.2%) and grade 4 (0.6% vs 0%) increases were similar.
 During extended follow-up of patients treated with ruxolitinib, increased lipase values were reported in 35.9% of patients; grade 3 and 4 were observed in 9.5% and 0.4% of patients, respectively.
 Elevated lipase was reported with lower frequency (20.4%, grade 3 and 4: 3.8% and 1.9%, respectively) in paediatric patients.
-
 Increased systolic blood pressure
 In the phase 3 pivotal clinical studies in MF an increase in systolic blood pressure of 20 mmHg or more from baseline was recorded in 31.5% of patients on at least one visit compared with 19.5% of the control-treated patients.
 In COMFORT-I (MF patients) the mean increase from baseline in systolic BP was 0 to 2 mmHg on ruxolitinib versus a decrease of 2 to 5 mmHg in the placebo arm.
@@ -367,4 +368,5 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Adverse drug reactions from clinical studies in acute and chronic GvHD (Table 5) are listed by MedDRA system organ class.
 In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare
 (<1/10 000); not known (cannot be estimated from the available data).
+
 Table 5 Frequency category of adverse drug reactions reported in clinical studies in GvHD

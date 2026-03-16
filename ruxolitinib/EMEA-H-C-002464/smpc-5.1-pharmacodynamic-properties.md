@@ -34,6 +34,7 @@ Two randomised phase 3 studies (COMFORT-I and COMFORT-II) were conducted in pati
 In both studies, patients had palpable splenomegaly at least 5 cm below the costal margin and risk category of intermediate-2 or high risk based on the International Working Group (IWG) Consensus Criteria.
 The starting dose of Jakavi was based on platelet count.
 Patients with platelet counts ≤100 000/mm3 were not eligible for enrolment in COMFORT studies but 69 patients were enrolled in the EXPAND study, a Phase Ib, open label, dose-finding study in patients with MF (primary MF, post-polycythaemia vera MF or post-essential thrombocythaemia MF) and baseline platelet counts ≥50 000 and <100 000/mm3.
+
 COMFORT-I was a double-blind, randomised, placebo-controlled study in 309 patients who were refractory to or were not candidates for available therapy.
 The primary efficacy endpoint was proportion of subjects achieving ≥35% reduction from baseline in spleen volume at week 24 as measured by Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).
 
@@ -43,7 +44,6 @@ COMFORT-II was an open-label, randomised study in 219 patients.
 Patients were randomised 2:1 to ruxolitinib versus best available therapy.
 In the best available therapy arm, 47% of patients received hydroxyurea and 16% of patients received glucocorticoids.
 The primary efficacy endpoint was proportion of patients achieving ≥35% reduction from baseline in spleen volume at week 48 as measured by MRI or CT.
-
 Secondary endpoints included proportion of patients achieving a ≥35% reduction of spleen volume from baseline at week 24 and duration of maintenance of a ≥35% reduction from baseline spleen volume.
 
 In COMFORT-I and COMFORT-II, patient baseline demographics and disease characteristics were comparable between the treatment arms.
@@ -62,6 +62,7 @@ reduced by ≥35%
 p-value <0.0001 <0.0001
 
 A significantly higher proportion of patients in the Jakavi group achieved ≥35% reduction from baseline in spleen volume (Table 8) regardless of the presence or absence of the JAK2V617F mutation (Table 9) or the disease subtype (primary MF, post-polycythaemia vera MF, post-essential thrombocythaemia MF).
+
 Table 9 Percentage of patients with ≥35% reduction from baseline in spleen volume by JAK mutation status (safety set)
 
 |  | COMFORT-I |  |  |  | COMFORT-II |  |  |  |
@@ -75,7 +76,6 @@ The probability of maintaining spleen response (≥35% reduction) to Jakavi for 
 
 In COMFORT-I, 45.9% subjects in the Jakavi group achieved a ≥50% improvement from baseline in the week 24 total symptom score (measured using MFSAF diary v2.0), as compared to 5.3% in the placebo group (p<0.0001 using chi-square test).
 The mean change in the global health status at week 24, as measured by EORTC QLQ C30 was +12.3 for Jakavi and -3.4 for placebo (p<0.0001).
-
 In COMFORT-I, after a median follow-up of 34.3 months, the death rate in patients randomised to the ruxolitinib arm was 27.1% versus 35.1% in patients randomised to placebo; HR 0.687; 95% CI 0.459, 1.029; p=0.0668.
 
 In COMFORT-I, after a median follow–up of 61.7 months, the death rate in patients randomised to the ruxolitinib arm was 44.5% (69 of 155 patients) versus 53.2% (82 of 154) in patients randomised to placebo.
@@ -93,6 +93,7 @@ A randomised, open-label, active-controlled phase 3 study (RESPONSE) was conduct
 The starting dose of Jakavi was 10 mg twice daily.
 Doses were then adjusted in individual patients based on tolerability and efficacy with a maximum dose of 25 mg twice daily.
 BAT was selected by the investigator on a patient-by-patient basis and included hydroxyurea (59.5%), interferon/pegylated interferon (11.7%), anagrelide (7.2%), pipobroman (1.8%) and observation (15.3%).
+
 Baseline demographics and disease characteristics were comparable between the two treatments arms.
 The median age was 60 years (range 33 to 90 years).
 Patients in the ruxolitinib arm had PV diagnosis for a median of 8.2 years and had previously received hydroxyurea for a median of approximately 3 years.
@@ -109,7 +110,6 @@ Haematocrit control was achieved in 60% of patients in the Jakavi arm compared t
 
 Both key secondary endpoints were also met.
 The proportion of patients achieving a complete haematological remission was 23.6% on Jakavi compared to 8.0% on BAT (p=0.0013) and the proportion of patients achieving a durable primary response at week 48 was 20% on Jakavi and 0.9% on BAT (p<0.0001).
-
 Figure 1 Patients achieving the primary endpoint and components of the primary endpoint at week 32
 
 P value: < .0001 Individual components of primary
@@ -143,6 +143,7 @@ week 32 volume phlebotomy
 
 Symptom burden was assessed using the MPN-SAF total symptom score (TSS) electronic patient diary, which consisted of 14 questions.
 At week 32, 49% and 64% of patients treated with ruxolitinib achieved a ≥50% reduction in TSS-14 and TSS-5, respectively, compared to only 5% and 11% of patients on BAT.
+
 Treatment benefit perception was measured by the Patient Global Impression of Change (PGIC) questionnaire.
 66% of patients treated with ruxolitinib compared to 19% treated with BAT reported an improvement as early as four weeks after beginning treatment.
 Improvement in perception of treatment benefit was also higher in patients treated with ruxolitinib at week 32 (78% versus 33%).
@@ -174,6 +175,7 @@ Patients were stratified by severity of acute GvHD at the time of randomisation.
 Corticosteroid refractoriness was determined when patients had progression after at least 3 days, failed to achieve a response after 7 days or failed corticosteroid taper.
 
 BAT was selected by the investigator on a patient-by-patient basis and included anti-thymocyte globulin (ATG), extracorporeal photopheresis (ECP), mesenchymal stromal cells (MSC), low dose methotrexate (MTX), mycophenolate mofetil (MMF), mTOR inhibitors (everolimus or sirolimus), etanercept, or infliximab.
+
 In addition to Jakavi or BAT, patients could have received standard allogeneic stem cell transplantation supportive care including anti-infective medicinal products and transfusion support.
 Ruxolitinib was added to continued use of corticosteroids and/or calcineurin inhibitors (CNIs) such as cyclosporine or tacrolimus and/or topical or inhaled corticosteroid therapies per institutional guidelines.
 
@@ -196,7 +198,6 @@ The majority of enrolled patients had malignant underlying disease.
 The severity of acute GvHD was grade II in 34% and 34%, grade III in 46% and 47%, and grade IV in 20% and 19% of the Jakavi and BAT arms, respectively.
 
 The reasons for patients’ insufficient response to corticosteroids in the Jakavi and BAT arms were i) failure in achieving a response after 7 days of corticosteroid treatment (46.8% and 40.6%, respectively), ii) failure of corticosteroid taper (30.5% and 31.6%, respectively) or iii) disease progression after 3 days of treatment (22.7% and 27.7%, respectively).
-
 Among all patients, the most common organs involved in acute GvHD were skin (54.0%) and lower gastrointestinal tract (68.3%).
 More patients in the Jakavi arm had acute GvHD involving skin (60.4%) and liver (23.4%), compared to the BAT arm (skin: 47.7% and liver: 16.1%).
 
@@ -211,6 +212,7 @@ ORR at day 28 of treatment was higher in the Jakavi arm (62.3%) compared to the 
 There was a statistically significant difference between the treatment arms (stratified Cochrane-Mantel-Haenszel test p<0.0001, two-sided, OR: 2.64; 95% CI: 1.65, 4.22).
 
 There was also a higher proportion of complete responders in the Jakavi arm (34.4%) compared to BAT arm (19.4%).
+
 Day-28 ORR was 76% for grade II GvHD, 56% for grade III GvHD, and 53% for grade IV GvHD in the Jakavi arm, and 51% for grade II GvHD, 38% for grade III GvHD, and 23% for grade IV GvHD in the BAT arm.
 
 Among the non-responders at day 28 in the Jakavi and BAT arms, 2.6% and 8.4% had disease progression, respectively.
@@ -238,7 +240,6 @@ Chronic graft-versus-host disease
 In REACH3, 329 patients with moderate or severe corticosteroid-refractory, chronic GvHD were randomised 1:1 to Jakavi or BAT.
 Patients were stratified by severity of chronic GvHD at the time of randomisation.
 Corticosteroid refractoriness was determined when patients had lack of response or disease progression after 7 days, or had disease persistence for 4 weeks or failed corticosteroid taper twice.
-
 BAT was selected by the investigator on a patient-by-patient basis and included extracorporeal photopheresis (ECP), low dose methotrexate (MTX), mycophenolate mofetil (MMF), mTOR inhibitors (everolimus or sirolimus), infliximab, rituximab, pentostatin, imatinib, or ibrutinib.
 
 In addition to Jakavi or BAT, patients could have received standard allogeneic stem cell transplantation supportive care including anti-infective medicinal products and transfusion support.
@@ -253,6 +254,7 @@ Efficacy in patients that transition from active acute GvHD to chronic GvHD with
 Efficacy in acute or chronic GvHD after donor lymphocyte infusion (DLI) and in patients who did not tolerate steroid treatment is unknown.
 
 Tapering of Jakavi was allowed after the day 169 visit.
+
 Baseline demographics and disease characteristics were balanced between the two treatment arms.
 The median age was 49 years (range 12 to 76 years).
 The study included 3.6% adolescent, 61.1% male and 75.4% white patients.
@@ -274,7 +276,6 @@ REACH3 met its primary objective.
 At the time of primary analysis (data cut-off date: 08-May-2020), the ORR at week 24 was higher in the Jakavi arm (49.7%) compared to the BAT arm (25.6%).
 There was a statistically significant difference between the treatment arms (stratified Cochrane-Mantel-Haenszel test p<0.0001, two-sided, OR: 2.99; 95% CI: 1.86, 4.80).
 Results are presented in Table 12.
-
 Among the non-responders at day 169 in the Jakavi and BAT arms, 2.4% and 12.8% had disease progression, respectively.
 
 Table 12 Overall response rate at day 169 in REACH3
@@ -292,6 +293,7 @@ The key secondary endpoint, FFS, demonstrated a statistically significant 63% ri
 At 6-months, the majority of FFS events were “addition or initiation of another systemic therapy for cGvHD” (probability of that event was 13.4% vs 48.5% for the Jakavi and the BAT arms, respectively).
 Results for “relapse of underlying disease” and non-relapse mortality (NRM) were 2.46% vs 2.57% and 9.19% vs 4.46%, in the Jakavi and the BAT arms, respectively.
 No difference of cumulative incidences between treatment arms was observed when focusing on NRM only.
+
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Jakavi in all subsets of the paediatric population for the treatment of MF and PV.
@@ -313,7 +315,6 @@ Patients could also have received standard allogeneic stem cell transplantation 
 Jakavi was to be discontinued in case of lack of response to acute GvHD treatment at day 28.
 
 Tapering of Jakavi was allowed after the day 56 visit.
-
 Male and female patients accounted for 62.2% (n=28) and for 37.8% (n=17) of patients, respectively.
 Overall, 27 patients (60.0%) had underlying malignancy, most frequently leukaemia (26 patients, 57.8%).
 Among the 45 paediatric patients enrolled in REACH4, 13 (28.9%) had treatment-naïve acute GvHD and 32 (71.1%) had steroid-refractory acute GvHD.
@@ -330,6 +331,7 @@ Patients were enrolled into 4 groups based on age (Group 1 [≥12 years to <18 y
 <2 years, N=0]).
 The doses tested were 10 mg twice daily for Group 1, 5 mg twice daily for Group 2 and 4 mg/m2 twice daily for Group 3 and patients were treated for 39 cycles/156 weeks or until discontinuation.
 Jakavi was administered as either a 5 mg tablet or an oral solution for paediatric patients <12 years.
+
 Patients were enrolled with either steroid-refractory or treatment-naïve disease status.
 Patients were considered steroid refractory as per institutional criteria or per physician decision in case institutional criteria were not available and were permitted to have received additional prior systemic treatment for chronic GvHD in addition to corticosteroids.
 Patients were considered treatment naïve if they had not received any prior systemic treatment for chronic GvHD (except for a maximum 72 hours prior systemic corticosteroid therapy of methylprednisolone or equivalent after the onset of chronic GvHD).

@@ -16,8 +16,8 @@ Dose modifications or interruption for patients developing anaemia may also need
 
 Patients with a haemoglobin level below 10.0 g/dl at the beginning of the treatment have a higher risk of developing a haemoglobin level below 8.0 g/dl during treatment compared to patients with a higher baseline haemoglobin level (79.3% versus 30.1%).
 More frequent monitoring of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended for patients with baseline haemoglobin below 10.0 g/dl.
-Neutropenia (absolute neutrophil count <500) was generally reversible and was managed by temporarily withholding Jakavi (see sections 4.2 and 4.8).
 
+Neutropenia (absolute neutrophil count <500) was generally reversible and was managed by temporarily withholding Jakavi (see sections 4.2 and 4.8).
 Complete blood counts should be monitored as clinically indicated and dose adjusted as required (see sections 4.2 and 4.8).
 
 Infections
@@ -55,9 +55,9 @@ Lipid monitoring and treatment of dyslipidaemia according to clinical guidelines
 Major adverse cardiac events (MACE)
 
 In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years of age and older with at least one additional cardiovascular risk factor, a higher rate of MACE, defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib compared to tumour necrosis factor (TNF) inhibitors.
+
 MACE have been reported in patients receiving Jakavi.
 Prior to initiating or continuing therapy with Jakavi, the benefits and risks for the individual patient should be considered particularly in patients 65 years of age and older, patients who are current or past long-time smokers, and patients with a history of atherosclerotic cardiovascular disease or other cardiovascular risk factors.
-
 Thrombosis
 
 In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years of age and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of venous thromboembolic events (VTE) including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
@@ -98,8 +98,8 @@ Hepatic impairment
 The starting dose of Jakavi should be reduced by approximately 50% in MF and PV patients with hepatic impairment.
 Further dose modifications should be based on the safety and efficacy of the medicinal product.
 In GvHD patients with hepatic impairment not related to GvHD, the starting dose of Jakavi should be reduced by approximately 50% (see sections 4.2 and 5.2).
-Patients diagnosed with hepatic impairment while receiving ruxolitinib should have complete blood counts, including a white blood cell count differential, monitored at least every one to two weeks for the first 6 weeks after initiation of therapy with ruxolitinib and as clinically indicated thereafter once their liver function and blood counts have been stabilised.
 
+Patients diagnosed with hepatic impairment while receiving ruxolitinib should have complete blood counts, including a white blood cell count differential, monitored at least every one to two weeks for the first 6 weeks after initiation of therapy with ruxolitinib and as clinically indicated thereafter once their liver function and blood counts have been stabilised.
 Interactions
 
 If Jakavi is to be co-administered with strong CYP3A4 inhibitors or dual inhibitors of CYP3A4 and CYP2C9 enzymes (e.g. fluconazole), the unit dose of Jakavi should be reduced by approximately 50%, to be administered twice daily (see sections 4.2 and 4.5).

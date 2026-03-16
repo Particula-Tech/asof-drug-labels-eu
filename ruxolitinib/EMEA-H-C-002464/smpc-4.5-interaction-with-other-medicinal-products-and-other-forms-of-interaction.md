@@ -11,10 +11,10 @@ CYP3A4 inhibitors
 Strong CYP3A4 inhibitors (such as, but not limited to, boceprevir, clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, voriconazole)
 In healthy subjects co-administration of ruxolitinib (10 mg single dose) with a strong CYP3A4 inhibitor, ketoconazole, resulted in ruxolitinib Cmax and AUC that were higher by 33% and 91%, respectively, than with ruxolitinib alone.
 The half-life was prolonged from 3.7 to 6.0 hours with concurrent ketoconazole administration.
+
 When administering ruxolitinib with strong CYP3A4 inhibitors the unit dose of ruxolitinib should be reduced by approximately 50%, to be administered twice daily.
 
 Patients should be closely monitored (e.g. twice weekly) for cytopenias and dose titrated based on safety and efficacy (see section 4.2).
-
 Dual CYP2C9 and CYP3A4 inhibitors
 In healthy subjects co-administration of ruxolitinib (10 mg single dose) with a dual CYP2C9 and CYP3A4 inhibitor, fluconazole, resulted in ruxolitinib Cmax and AUC that were higher by 47% and 232%, respectively, than with ruxolitinib alone.
 
@@ -48,6 +48,7 @@ This may result in increased sytemic exposure of substrates of these transporter
 Therapeutic drug monitoring (TDM) or clinical monitoring of the affected substance is advised.
 
 It is possible that the potential inhibition of P-gp and BCRP in the intestine can be minimised if the time between administrations is kept apart as long as possible.
+
 A study in healthy subjects indicated that ruxolitinib did not inhibit the metabolism of the oral CYP3A4 substrate midazolam.
 Therefore, no increase in exposure of CYP3A4 substrates is anticipated when combining them with ruxolitinib.
 Another study in healthy subjects indicated that ruxolitinib does not affect the pharmacokinetics of an oral contraceptive containing ethinylestradiol and levonorgestrel.

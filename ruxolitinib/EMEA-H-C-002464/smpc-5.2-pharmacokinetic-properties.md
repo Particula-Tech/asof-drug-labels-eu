@@ -15,6 +15,7 @@ The mean volume of distribution at steady state is approximately 75 litres in MF
 The mean volume of distribution at steady state is approximately 30 litres in paediatric patients with acute or chronic GvHD and with a body surface area (BSA) below 1 m2.
 At clinically relevant concentrations of ruxolitinib, binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 A whole body autoradiography study in rats has shown that ruxolitinib does not penetrate the blood-brain barrier.
+
 Biotransformation
 
 Ruxolitinib is mainly metabolised by CYP3A4 (>50%), with additional contribution from CYP2C9.
@@ -40,7 +41,6 @@ Special populations
 
 Effects of age, gender or race
 Based on studies in healthy subjects, no relevant differences in ruxolitinib pharmacokinetics were observed with regard to gender and race.
-
 Population pharmacokinetics
 In a population pharmacokinetic evaluation in MF patients, no relationship was apparent between oral clearance and patient age or race.
 The predicted oral clearance was 17.7 l/h in women and 22.1 l/h in men, with 39% inter-subject variability in MF patients.
@@ -57,6 +57,7 @@ The pharmacokinetics of Jakavi in paediatric patients <18 years old with MF and 
 As in adult patients with GvHD, ruxolitinib was rapidly absorbed after oral administration in paediatric patients with GvHD.
 Dosing in children between 6 and 11 years old at 5 mg twice daily achieved comparable exposure to a dose of 10 mg twice daily in adolescents and adults with acute and chronic GvHD, confirming the exposure matching approach implemented as part of the extrapolation assumption.
 In children between 2 and 5 years old with acute and chronic GvHD, the exposure matching approach suggested a dose of 8 mg/m2 twice daily.
+
 Ruxolitinib has not been evaluated in paediatric patients with acute or chronic GvHD below the age of 2 years, therefore modelling which accounts for age-related aspects in younger patients has been used to predict the exposure in these patients, based on the data from adult patients.
 
 Based on a pooled population pharmacokinetic analysis in paediatric patients with acute or chronic GvHD, clearance of ruxolitinib decreased with decreasing BSA.
