@@ -161,28 +161,3 @@ Mean plasma MPAG AUC 0-12h was 2 – 3-fold higher than in post-transplant patie
 In 33 paediatric renal allograft recipients it was established that the dose predicted to provide an MPA AUC0-12h closest to the target exposure of 27.2 h⋅ mg/l was 600 mg/m2, and that doses calculated based on estimated BSA reduced interindividual variability (coefficient of variation, (CV)) by about 10%.
 
 In line with the established similarity in MPA exposure between paediatric renal transplant and adult renal transplant patients at their respective approved doses, existing data allows to conclude that MPA exposure at the recommended dosage will be similar in paediatric cardiac transplant and adult cardiac transplant patients.
-
-| Age group (n) |  | Adjusted Cmax mg/lA | Adjusted AUC0-12 h⋅mg/l |
-| --- | --- | --- | --- |
-|  |  | mean ± SD | mean ± SD (CI)A |
-| Day 7 |  |  |  |
-| <6 y | (17) | 13.2±7.16 | 27.4±9.54 (22.8-31.9) |
-| 6 - <12 y | (16) | 13.1±6.30 | 33.2±12.1 (27.3-39.2) |
-| 12-18 y | (21) | 11.7±10.7 | 26.3±9.14 (22.3-30.3)D |
-| p-valueB |  | - | - |
-| <2 yC | (6) | 10.3±5.80 | 22.5±6.68 (17.2-27.8) |
-| >18 y | (141) |  | 27.2±11.6 |
-| Month 3 |  |  |  |
-| <6 y | (15) | 22.7±10.1 | 49.7±18.2 |
-| 6 - <12 y | (14)E | 27.8±14.3 | 61.9±19.6 |
-| 12-18 y | (17) | 17.9±9.57 | 53.6±20.2F |
-| p-valueB |  | - | - |
-| <2 yC | (4) | 23.8±13.4 | 47.4±14.7 |
-| >18 y | (104) |  | 50.3±23.1 |
-| Month 9 |  |  |  |
-| <6 y | (12) | 30.4±9.16 | 60.9±10.7 |
-| 6 - <12 y | (11) | 29.2±12.6 mean ± SD | 66.8±21.2 mean ± SD (CI)A |
-| 12-18 y | (14) | 18.1±7.29 | 56.7±14.0 |
-| p-valueB |  | 0.004 | - |
-| <2 yC | (4) | 25.6±4.25 | 55.8±11.6 |
-| >18 y | (70) |  | 53.5±18.3 |

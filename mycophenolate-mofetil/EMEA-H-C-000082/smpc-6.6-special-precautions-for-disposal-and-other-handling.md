@@ -6,8 +6,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [CellCept 500 mg powder for concentrate for solution for infusion]
 
 Preparation of Infusion Solution (6 mg/ml)
-
 CellCept 500 mg powder for concentrate for solution for infusion does not contain an antibacterial preservative; therefore, reconstitution and dilution of the product must be performed under aseptic conditions.
+
 CellCept 500 mg powder for concentrate for solution for infusion must be prepared in two steps: the first step is a reconstitution step with glucose intravenous infusion 5% and the second step is a dilution step with glucose intravenous infusion 5%.
 A detailed description of the preparation is given below:
 

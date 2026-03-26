@@ -8,7 +8,7 @@ There is also evidence of a higher frequency of certain types of infections (see
 Tabulated list of adverse reactions
 
 The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies.
-The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000) and very rare (<1/10 000).
+The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), very rare (<1/10 000) and not known (cannot be estimated from the available data).
 Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
 Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatment in adults and adolescents, or through post-marketing surveillance
 
@@ -103,6 +103,7 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 | Vomiting | Very Common | Very Common | Very Common |
 | Immune system disorders |  |  |  |
 | Hypersenstivity | Uncommon | Common | Common |
+| Anaphylactic reactions | Not known | Not known | Not known |
 | Hypogammaglobulinaemia | Uncommon | Very Rare | Very Rare |
 | Hepatobiliary disorders |  |  |  |
 | Blood alkaline phosphatase increased | Common | Common | Common |
@@ -183,7 +184,6 @@ There have also been reports of bronchiectasis in children and adults.
 
 Immune system disorders
 Hypogammaglobulinaemia has been reported in patients receiving mycophenolate mofetil in combination with other immunosuppressants.
-
 General disorders and administration site conditions
 Oedema, including peripheral, face and scrotal oedema, was reported very commonly during the pivotal trials.
 Musculoskeletal pain such as myalgia, and neck and back pain were also very commonly reported.
@@ -336,6 +336,7 @@ in adults and adolescents, or through post-marketing surveillance
 | Vomiting | Very Common | Very Common |
 | Immune system disorders |  |  |
 | Hypersenstivity | Uncommon | Common |
+| Anaphylactic reactions | Not known | Not known |
 | Hypogammaglobulinaemia | Uncommon | Very Rare |
 | Hepatobiliary disorders |  |  |
 | Blood alkaline phosphatase increased | Common | Common |
@@ -475,6 +476,7 @@ adults and adolescents, or through post-marketing surveillance
 | Vomiting | Very Common | Very Common | Very Common |
 | Immune system disorders |  |  |  |
 | Hypersenstivity | Uncommon | Common | Common |
+| Anaphylactic reactions | Not known | Not known | Not known |
 | Hypogammaglobulinaemia | Uncommon | Very Rare | Very Rare |
 | Hepatobiliary disorders |  |  |  |
 | Blood alkaline phosphatase increased | Common | Common | Common |

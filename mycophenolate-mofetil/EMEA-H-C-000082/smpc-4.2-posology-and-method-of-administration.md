@@ -96,7 +96,8 @@ For instructions on reconstitution and dilution of the medicinal product before 
 [CellCept 1 g/5 ml powder for oral suspension]
 
 Treatment with 1 g/5 ml powder for oral suspension should be initiated within 72 hours following transplantation.
-The recommended dose in renal transplant patients is 1 g administered twice daily (2 g daily dose), i.e. 5 ml oral suspension twice daily.
+The recommended dose in renal transplant patients is 1 g administered twice daily
+(2 g daily dose), i.e. 5 ml oral suspension twice daily.
 
 The recommended mycophenolate mofetil initial dose for paediatric renal, cardiac and hepatic transplant patients is 600 mg/m2 (of body surface area (BSA)) administered orally, twice daily (initial total daily dose not to exceed 2 g, or 10 ml of the oral suspension).
 

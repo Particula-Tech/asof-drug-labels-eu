@@ -24,7 +24,6 @@ Environmental risk assessment studies have shown that the active substance, MPA 
 The highest dose tested in the animal carcinogenicity studies resulted in approximately 2 – 3 times the systemic exposure (AUC or Cmax) observed in renal transplant patients at the recommended clinical dose of 2 g/day.
 
 The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day (see section 4.6).
-
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day.
 
 [CellCept 1 g/5 ml powder for oral suspension]

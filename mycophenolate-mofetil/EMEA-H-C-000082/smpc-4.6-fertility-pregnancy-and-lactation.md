@@ -51,8 +51,8 @@ Limited data shows that mycophenolic acid is excreted in human milk.
 Because of the potential for serious adverse reactions to mycophenolic acid in breast-fed infants, treatment is contraindicated in nursing mothers (see section 4.3).
 
 Men
-
 The limited clinical evidence available does not indicate an increased risk of malformations or miscarriage following paternal exposure to mycophenolate mofetil.
+
 MPA is a powerful teratogen.
 It is not known if MPA is present in semen.
 Calculations based on animal data show that the maximum amount of MPA that could potentially be transferred to woman is so low that it would be unlikely to have an effect.
