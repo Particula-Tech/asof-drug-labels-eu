@@ -33,7 +33,7 @@ No dose adjustments are recommended.
 Elderly
 
 No dedicated studies of atezolizumab have been conducted in elderly patients.
-The effect of age on the pharmacokinetics of atezolizumab was assessed in a population pharmacokinetic analysis.
+The effect of age on the pharmacokinetics of atezolizumab was assessed in a population PK analysis.
 Age was not identified as a significant covariate influencing atezolizumab pharmacokinetics based on patients of age range of 21-89 years (n=472), and median of 62 years of age.
 No clinically important difference was observed in the pharmacokinetics of atezolizumab among patients < 65 years (n=274), patients between 65−75 years (n=152) and patients > 75 years (n=46) (see section 4.2).
 
@@ -52,9 +52,13 @@ The effect of severe renal impairment on the pharmacokinetics of atezolizumab is
 Hepatic impairment
 
 No dedicated studies of atezolizumab have been conducted in patients with hepatic impairment.
-In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
-No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN and any AST).
-Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
+In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x
+
+ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and
+AST ≤ ULN). No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN
+and any AST). Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction
+
+Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
 The effect of severe hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
 
 [Tecentriq 1 875 mg solution for injection]
@@ -84,7 +88,6 @@ Based on population PK analysis of Cycle 1 data from the randomised portion of I
 
 The atezolizumab geometric mean maximum serum concentration (Cmax) was 189 mcg/mL and median time to maximum serum concentration (Tmax) was 4.5 days.
 
-The effect of age on the pharmacokinetics of atezolizumab was assessed in a population PK analysis.
 Age was not identified as a significant covariate influencing the PK of intravenous atezolizumab based on patients of age range of 21 − 89 years (n=472), and median of 62 years of age.
 No clinically important difference was observed in the pharmacokinetics of atezolizumab among patients < 65 years (n = 274), patients between 65 − 75 years (n=152) and patients > 75 years (n = 46) (see section 4.2).
 
@@ -98,6 +101,9 @@ In the population pharmacokinetic analysis, no clinically important differences 
 90 mL/min/1.73 m2; n = 140) renal function.
 Only a few patients had severe renal impairment (eGFR 15 to 29 mL/min/1.73 m2; n = 8) (see section 4.2).
 
-No clinically relevant differences in the clearance of subcutaneous atezolizumab were found in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n = 111) or moderate (eGFR 30 to 59 mL/min/1.73 m2; n = 32) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73 m2; n = 103) renal function.
+No clinically relevant differences in the clearance of subcutaneous atezolizumab were found in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n = 111) or moderate (eGFR 30 to
+59 mL/min/1.73 m2; n = 32) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73 m2; n = 103) renal function.
 
 In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of intravenous or subcutaneously administered atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
+No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN and any AST).
+Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).

@@ -3,7 +3,7 @@
 L-histidine
 Glacial acetic acid
 Sucrose
-Polysorbate 20
+Polysorbate 20 (E 432)
 Water for injections
 
 [Tecentriq 1 875 mg solution for injection]

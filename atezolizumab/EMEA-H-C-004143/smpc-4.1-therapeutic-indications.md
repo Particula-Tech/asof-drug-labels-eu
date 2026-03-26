@@ -14,7 +14,6 @@ platinum-based chemotherapy for adult patients with NSCLC with a high risk of re
 tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR-mutant or
 
 ALK-positive NSCLC (see section 5.1 for selection criteria).
-
 Advanced NSCLC
 
 Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC.

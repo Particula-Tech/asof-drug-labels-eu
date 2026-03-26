@@ -16,7 +16,6 @@ Clinical efficacy and safety
 Urothelial carcinoma
 
 IMvigor211 (GO29294): Randomised trial in locally advanced or metastatic UC patients previously treated with chemotherapy
-
 A phase III, open-label, multi-centre, international, randomised study, (IMvigor211), was conducted to evaluate the efficacy and safety of atezolizumab compared with chemotherapy (investigator’s choice of vinflunine, docetaxel, or paclitaxel) in patients with locally advanced or metastatic UC who progressed during or following a platinum-containing regimen.
 This study excluded patients who had a history of autoimmune disease; active or corticosteroid-dependent brain metastases; administration of a live, attenuated vaccine within 28 days prior to enrolment; and administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal product within 2 weeks prior to enrolment.
 Tumour assessments were conducted every 9 weeks for the first 54 weeks, and every 12 weeks thereafter.
@@ -61,7 +60,11 @@ Consistent with the trend observed at primary analysis for 12-month OS rates, nu
 The percentage of patients alive at 24 months (KM estimate) was 12.7% in the chemotherapy arm and 22.5% in the atezolizumab arm; and at 30 months (KM estimate) was 9.8% in the chemotherapy arm and 18.1% in the atezolizumab arm.
 Table 4: Summary of efficacy in all comers (IMvigor211)
 
-Efficacy endpoint Atezolizumab (n = 467) Chemotherapy (n = 464)
+Atezolizumab Chemotherapy
+
+Efficacy endpoint
+
+(n = 467) (n = 464)
 
 Primary efficacy endpoint
 OS*
@@ -487,7 +490,11 @@ Table 13: Chemotherapy intravenous treatment regimens (IMpower110)
 
 Treatment Induction Maintenance
 regimen (Four or Six 21-day cycles) (21-day cycles)
-B (Non-squamous) Cisplatina (75 mg/m²) + pemetrexeda (500 mg/m²) OR carboplatina(AUC 6) + pemetrexeda (500 mg/m²) Pemetrexedb,d (500 mg/m²)
+B (Non- Cisplatina (75 mg/m²) + pemetrexeda (500 mg/m²) OR
+squamous) carboplatina(AUC 6) + pemetrexeda (500 mg/m²) Pemetrexedb,d
+
+(500 mg/m²)
+
 B Cisplatina (75 mg/m²) + gemcitabinea,c (1 250 mg/m2) OR Best supportive
 
 (Squamous) carboplatina (AUC 5) + gemcitabinea,c (1 000 mg/m2) cared a Cisplatin, carboplatin, pemetrexed and gemcitabine are administered until completion of 4 or 6 cycles, or progressive disease, or unacceptable toxicity b Pemetrexed is administered as maintenance regimen every 21 days until progressive disease or unacceptable toxicity c Gemcitabine is administered on days 1 and 8 of each cycle d No crossover was allowed from the control arm (platinum-based chemotherapy) to the atezolizumab arm (Arm A)
@@ -502,7 +509,7 @@ Overall, 69% of patients had non-squamous disease and 31% of patients had squamo
 The demographics and baseline disease characteristics in patients with high PD-L1 expression (PD-L1
 ≥ 50% TC or ≥ 10% IC) who do not have with EGFR mutations or ALK rearrangements (n=205) were generally representative of the broader study population and were balanced between the treatment arms.
 
-The primary endpoint was overall survival (OS).
+The primary endpoint was OS.
 At the time of the interim OS analysis, patients with high PD-L1 expression excluding those with EGFR mutations or ALK rearrangements (n=205) showed statistically significant improvement in OS for the patients randomised to atezolizumab (Arm A) as compared with chemotherapy (Arm B) (HR of 0.59, 95% CI: 0.40, 0.89; median OS of 20.2 months vs 13.1 months) with a two-sided p-value of 0.0106.
 The median survival follow-up time in patients with high PD-L1 expression was 15.7 months.
 
@@ -634,7 +641,11 @@ Figure 16 summarises the results of OS in the ITT and PD-L1 subgroups, demonstra
 
 Table 17: Summary of efficacy in the primary analysis population (all comers)* (OAK)
 
-Efficacy endpoint Atezolizumab (n = 425) Docetaxel (n = 425)
+Atezolizumab Docetaxel
+
+Efficacy endpoint
+
+(n = 425) (n = 425)
 
 Primary efficacy endpoint
 OS
@@ -712,8 +723,14 @@ Table 18: Intravenous treatment regimens (IMpower133)
 
 Treatment Induction Maintenance
 regimen (Four 21-Day Cycles) (21-Day Cycles)
-A atezolizumab (1 200 mg)a + carboplatin (AUC 5)b + etoposide (100 mg/m2)b,c atezolizumab (1 200 mg) a
-B placebo + carboplatin (AUC 5)b + etoposide (100 mg/m2)b,c placebo
+
+atezolizumab (1 200 mg)a + carboplatin (AUC 5)b
+
+A atezolizumab (1 200 mg) a
+
++ etoposide (100 mg/m2)b,c placebo + carboplatin (AUC 5)b + etoposide
+
+B (100 mg/m2)b,c placebo
 
 a Atezolizumab was administered until loss of clinical benefit as assessed by investigator b Carboplatin and etoposide were administered until completion of 4 cycles, or progressive disease or unacceptable toxicity, whichever occurs first c Etoposide was administered on day 1, 2 and 3 of each cycle
 
@@ -732,9 +749,7 @@ Data for patients with brain metastases are too limited to draw conclusions on t
 Table 19: Summary of efficacy (IMpower133)
 
 Key efficacy endpoints Arm A Arm B
-
 (Atezolizumab + (Placebo + carboplatin +
-
 carboplatin + etoposide) etoposide)
 
 Co-primary endpoints
@@ -755,9 +770,7 @@ p-value 0.0170
 6-month PFS (%) 30.9 22.4
 12-month PFS (%) 12.6 5.4
 Key efficacy endpoints Arm A Arm B
-
 (Atezolizumab + (Placebo + carboplatin +
-
 carboplatin + etoposide) etoposide)
 
 Co-primary endpoints
@@ -906,7 +919,7 @@ Bleeding (including fatal events) is a known adverse reaction with bevacizumab a
 Hence, patients were required to be evaluated for the presence of varices within 6 months prior to treatment, and were excluded if they had variceal bleeding within 6 months prior to treatment, untreated or incompletely treated varices with bleeding or high risk of bleeding.
 For patients with active hepatitis B, HBV DNA < 500 IU/mL was required within 28 days prior to initiation of study treatment, and standard anti-HBV treatment for a minimum of 14 days prior to study entry and for the length of study.
 
-Patients were also excluded if they had moderate or severe ascites; history of hepatic encephalopathy; known fibrolamellar HCC; sarcomatoid HCC, mixed cholangiocarcinoma and HCC; active co-infection of HBV and HCV; history of autoimmune disease; administration of a live, attenuated vaccine within 4 weeks prior to randomization; administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to randomization; untreated or corticosteroid-dependent brain metastases.
+Patients were also excluded if they had moderate or severe ascites; history of hepatic encephalopathy; known fibrolamellar HCC; sarcomatoid HCC, mixed cholangiocarcinoma and HCC; active co-infection of HBV and HCV; history of autoimmune disease; administration of a live, attenuated vaccine within 4 weeks prior to randomisation; administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to randomisation; untreated or corticosteroid-dependent brain metastases.
 Tumour assessments were performed every 6 weeks for the first 54 weeks following Cycle 1, Day 1, then every 9 weeks thereafter.
 
 The demographic and baseline disease characteristics of the study population were well balanced between the treatment arms.
@@ -1014,10 +1027,8 @@ Median in months NE 6.3
 Range (months) (1.3+, 13.4+) (1.4+, 9.1+)
 
 ‡ Stratified by geographic region (Asia excluding Japan vs rest of world), macrovascular invasion and/or extrahepatic spread (presence vs. absence), and baseline AFP (<400 vs. ≥400 ng/mL)
-1.
-Based on two-sided stratified log-rank test
-2.
-Nominal p-values based on two-sided Cochran-Mantel-Haenszel test
+1 Based on two-sided stratified log-rank test
+2 Nominal p-values based on two-sided Cochran-Mantel-Haenszel test
 + Denotes a censored value
 PFS=progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumours v1.1; HCC mRECIST = Modified RECIST Assessment for Hepatocellular Carcinoma; CI=confidence interval; ORR=objective response rate; DOR=duration of response; OS=overall survival; NE=not estimable
 
@@ -1042,8 +1053,6 @@ Tecentriq solution for injection contains the active substance atezolizumab whic
 Intravenous formulation
 
 Per the pre-specified hierarchical testing order, the IC2/3 population was tested first, with an OS hazard ratio (HR) of 0.87 (95% CI: 0.63, 1.21; median OS of 11.1 vs. 10.6 months for atezolizumab and chemotherapy respectively).
-
-The primary endpoint was OS.
 
 In an exploratory OS analysis with longer follow up (median: 31.3 months) for these patients, the median OS for the atezolizumab arm was unchanged relative to the primary OS interim analysis
 (20.2 months) and was 14.7 months for the chemotherapy arm (HR of 0.76, 95% CI: 0.54, 1.09).
@@ -1088,6 +1097,10 @@ Table 18: Summary of efficacy in the primary analysis population (all comers)* (
 A total of 403 patients were enrolled and randomised (1:1) to receive one of the treatment regimens described in Table 19.
 Table 19: Intravenous treatment regimens (IMpower133)
 
++ etoposide (100 mg/m2)b,c placebo + carboplatin (AUC 5)b + etoposide (100
+
+B mg/m2)b,c placebo
+
 The PFS, ORR and DOR results from the primary analysis as well as the exploratory OS final analysis results are summarised in Table 20.
 
 Table 20: Summary of efficacy (IMpower133)
@@ -1117,8 +1130,6 @@ There was no evidence of efficacy in patients with asymptomatic brain metastases
 Table 21: Summary of efficacy in patients with PD-L1 expression ≥ 1% (IMpassion130)
 
 Primary efficacy endpoints n = 185 n = 184
-
-Patients were also excluded if they had moderate or severe ascites; history of hepatic encephalopathy; known fibrolamellar HCC; sarcomatoid HCC, mixed cholangiocarcinoma and HCC; active co-infection of HBV and HCV; history of autoimmune disease; administration of a live, attenuated vaccine within 4 weeks prior to randomisation; administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to randomisation; untreated or corticosteroid-dependent brain metastases.
 
 The key efficacy results from the primary analysis are summarized in Table 22.
 

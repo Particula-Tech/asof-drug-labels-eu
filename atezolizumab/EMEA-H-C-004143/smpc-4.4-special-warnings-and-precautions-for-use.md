@@ -156,10 +156,10 @@ Patients should be monitored for signs and symptoms of myositis.
 Patients with possible myositis should be monitored for signs of myocarditis.
 
 If a patient develops signs and symptoms of myositis, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay.
-Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1-2 mg/kg bw/day prednisone or equivalent) should be initiated.
+Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1 to 2 mg/kg bw/day prednisone or equivalent) should be initiated.
 If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day.
-Treatment with atezolizumab should be permanently discontinued for Grade 4 or grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
+Treatment with atezolizumab should be permanently discontinued for Grade 4 or Grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
 
 Immune-mediated severe cutaneous adverse reactions
 
@@ -167,7 +167,7 @@ Immune-mediated severe cutaneous adverse reactions (SCARs), including cases of S
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
 For suspected SCARs, patients should be referred to a specialist for further diagnosis and management.
 
-Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1-2 mg/kg bw/day of prednisone or equivalent should be started.
+Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered.
 Atezolizumab should be withheld for patients with suspected SJS or TEN.
@@ -193,24 +193,23 @@ For suspected HLH, atezolizumab must be permanently discontinued and patients sh
 
 Other immune-mediated adverse reactions
 
-Given the mechanism of action of atezolizumab, other potential immune-mediated adverse reactions may occur, including noninfective cystitis.
+Given the mechanism of action of atezolizumab, other potential immune-mediated adverse reactions may occur, including noninfective cystitis, uveitis and autoimmune haemolytic anaemia.
 
 Evaluate all suspected immune-mediated adverse reactions to exclude other causes.
 Patients should be monitored for signs and symptoms of immune-mediated adverse reactions and, based on the severity of the reaction, managed with treatment modifications and corticosteroids as clinically indicated (see section 4.2 and section 4.8).
 
 Infusion-related reactions
 
-Infusion-related reactions have been observed with atezolizumab (see section 4.8).
-
-The rate of infusion should be reduced or treatment should be interrupted in patients with Grade 1 or 2 infusion-related reactions.
+Infusion-related reactions have been observed with atezolizumab, including anaphylaxis (see section 4.8).
+The rate of infusion should be reduced, or treatment should be interrupted, in patients with Grade 1 or 2 infusion-related reactions.
 Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion-related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
+
 Disease-specific precautions
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
 Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
@@ -239,9 +238,9 @@ Patients treated with bevacizumab have an increased risk of haemorrhage, and cas
 In patients with HCC, screening for and subsequent treatment of oesophageal varices should be performed as per clinical practice prior to starting treatment with the combination of atezolizumab and bevacizumab.
 Bevacizumab should be permanently discontinued in patients who experience Grade 3 or 4 bleeding with the combination treatment.
 Please refer to the bevacizumab Summary of Product Characteristics.
+
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
 Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.
@@ -253,6 +252,13 @@ Patients excluded from clinical trials
 Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, ECOG PS ≥ 2 (except for patients with advanced NSCLC ineligible for a platinum-based therapy), HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
 Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or intravenous antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
 
+Excipients with known effect
+
+This medicinal product contains polysorbate 20.
+Each vial of Tecentriq 840 mg concentrate for solution for infusion contains 5.6 mg of polysorbate 20, which is equivalent to 0.4 mg/mL.
+Each vial of Tecentriq 1 200 mg concentrate for solution for infusion contains 8 mg of polysorbate 20, which is equivalent to 0.4 mg/ml.
+Polysorbate 20 may cause allergic reactions.
+
 Patient card
 
 The prescriber must discuss the risks of Tecentriq therapy with the patient.
@@ -260,8 +266,6 @@ The patient will be provided with the patient card and instructed to carry the c
 
 [Tecentriq 1 875 mg solution for injection]
 
-Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1 to 2 mg/kg bw/day prednisone or equivalent) should be initiated.
-
-Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1 to2 mg/kg bw/day of prednisone or equivalent should be started.
-
 The rate of injection should be reduced or paused in patients with Grade 1 or 2 infusion-related reactions.
+
+Each vial of Tecentriq 1 875 mg solution for injection contains 9 mg of polysorbate 20, which is equivalent to 0.6 mg/ml.

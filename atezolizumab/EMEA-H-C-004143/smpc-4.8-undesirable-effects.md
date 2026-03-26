@@ -41,12 +41,14 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Infections and infestations |  |  |
 | Very common | urinary tract infectiona | lung infectionb |
 | Common |  | sepsisaj |
+| Rare | cytomegalovirus infection | cytomegalovirus infection |
 | Blood and lymphatic system disorders |  |  |
 | Very common |  | anaemia, thrombocytopeniad, neutropeniae, leukopeniaf |
-| Common | thrombocytopeniad | lymphopeniag |
-| Rare | haemophagocytic lymphohistiocytosis | haemophagocytic lymphohistiocytosis |
+| Common | thrombocytopeniad, neutropeniae | lymphopeniag |
+| Rare | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemiaav | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemiaav |
 | Immune system disorders |  |  |
 | Common | infusion-related reactionh | infusion-related reactionh |
+| Rare | sarcoidosisar |  |
 | Endocrine disorders |  |  |
 | Very common |  | hypothyroidismi |
 | Common | hypothyroidismi, hyperthyroidismj | hyperthyroidismj |
@@ -56,11 +58,12 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Common | hypokalaemiaae, hyponatraemiaaf, hyperglycaemia | hypokalaemiaae, hyponatraemiaaf, hypomagnesaemian |
 | Nervous system disorders |  |  |
 | Very common | headache | peripheral neuropathyo, headache |
-| Common |  | syncope, dizziness |
+| Common | peripheral neuropathyo | syncope, dizziness |
 | Uncommon | Guillain-Barré syndromep, meningoencephalitisq |  |
 | Rare | myasthenic syndromer, facial paresis, myelitis | facial paresis |
 | Eye disorders |  |  |
-| Rare | uveitis |  |
+| Uncommon | uveitisas |  |
+| Rare |  | uveitisas |
 | Cardiac disorders |  |  |
 | Common | pericardial disordersao |  |
 | Uncommon |  | pericardial disordersao |
@@ -75,7 +78,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Very common | nausea, vomiting, diarrhoeau | nausea, vomiting, diarrhoeau, constipation |
 | Common | colitisv, abdominal pain, dysphagia, oropharyngeal painw, dry mouth | stomatitis, dysgeusia, colitisv |
 | Uncommon | pancreatitisx |  |
-| Rare | Coeliac disease | Coeliac disease |
+| Rare | coeliac disease | coeliac disease |
 | Hepatobiliary disorders |  |  |
 | Common | AST increased, ALT increased, hepatitisy | AST increased, ALT increased |
 | Skin and subcutaneous tissue disorders |  |  |
@@ -85,8 +88,8 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Rare | pemphigoid | pemphigoid, lichen disordersaq |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain | arthralgia, musculoskeletal painaa, back pain |
-| Common | musculoskeletal painaa |  |
-| Uncommon | myositisab |  |
+| Common | musculoskeletal painaa, arthritisat | arthritisat |
+| Uncommon | myositisab, tenosynovitisau | tenosynovitisau |
 | Renal and urinary disorders |  |  |
 | Common | blood creatinine increasedc | proteinuriaac, blood creatinine increasedc |
 | Uncommon | nephritisad |  |
@@ -101,7 +104,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 a Includes reports of urinary tract infection, cystitis, pyelonephritis, escherichia urinary tract infection, urinary tract infection bacterial, kidney infection, pyelonephritis acute, pyelonephritis chronic, pyelitis, renal abscess, streptococcal urinary tract infection, urethritis, urinary tract infection fungal, urinary tract infection pseudomonal.
 b Includes reports of pneumonia, bronchitis, lower respiratory tract infection, infectious pleural effusion, tracheobronchitis, atypical pneumonia, lung abscess, infective exacerbation of chronic obstructive airways disease, paracancerous pneumonia, pyopneumothorax, pleural infection, post procedural pneumonia.
 c Includes reports of blood creatinine increased, hypercreatininaemia.
-d Includes reports of thrombocytopenia, platelet count decreased.
+d Includes reports of immune thrombocytopenia (reported in studies outside the pooled dataset), thrombocytopenia, platelet count decreased.
 e Includes reports of neutropenia, neutrophil count decreased, febrile neutropenia, neutropenic sepsis, granulocytopenia.
 f Includes reports of white blood cell count decreased, leukopenia.
 g Includes reports of lymphopenia, lymphocyte count decreased.
@@ -139,6 +142,12 @@ am Includes reports of nasopharyngitis, nasal congestion and rhinorrhoea.
 an Includes reports of psoriasis, dermatitis psoriasiform.
 ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive. ap Includes reports of dry skin, xerosis.
 aq Includes reports of lichenoid keratosis, lichen sclerosus and lichen planus.
+ar Includes reports of sarcoidosis, pulmonary sarcoidosis, and sarcoidosis of lymph node.
+as Includes reports of uveitis, iridocyclitis and iritis.
+at Includes reports of arthritis, joint swelling, osteoarthritis, rheumatoid arthritis, polyarthritis, spinal osteoarthritis, autoimmune arthritis, immune-mediated arthritis, spondylitis, joint effusion, arthropathy, oligoarthritis, rheumatic disorder.
+au Includes reports of tendonitis, tendon pain, tenosynovitis and synovitis.
+av Includes reports of autoimmune haemolytic anaemia, haemolytic anaemia.
+
 Description of selected adverse reactions
 
 The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical trials (see section 5.1).
@@ -191,6 +200,7 @@ Adrenal insufficiency occurred in 0.5% (25/5 039) of patients who received atezo
 The median time to onset was 6.2 months (range: 3 days to 21.4 months).
 Adrenal insufficiency led to discontinuation of atezolizumab in 5 (0.1%) patients.
 Adrenal insufficiency requiring the use of corticosteroids occurred in 0.4% (20/5 039) of patients receiving atezolizumab monotherapy.
+
 Hypophysitis
 
 Hypophysitis occurred in 0.2% (9/5 039) of patients who received atezolizumab monotherapy.
@@ -218,8 +228,7 @@ Diabetes mellitus led to the discontinuation of atezolizumab in < 0.1% (3/5 039)
 Four (< 0.1%) patients required the use of corticosteroids.
 
 Diabetes mellitus occurred in 2.0% (10/493) of HCC patients who received atezolizumab in combination with bevacizumab.
-The median time to onset was 4.4 months (range: 1.2 months -
-8.3 months).
+The median time to onset was 4.4 months (range: 1.2 months to 8.3 months).
 No events of diabetes mellitus led to atezolizumab withdrawal.
 
 Immune-mediated meningoencephalitis
@@ -227,7 +236,6 @@ Immune-mediated meningoencephalitis
 Meningoencephalitis occurred in 0.4% (22/5 039) of patients who received atezolizumab monotherapy.
 The median time to onset was 15 days (range: 0 days to 12.5 months).
 The median duration was 24 days (range: 6 days to 14.5+ months; + denotes a censored value).
-
 Meningoencephalitis requiring the use of corticosteroids occurred in 0.2% (12/5 039) of patients receiving atezolizumab and eight patients (0.2%) discontinued atezolizumab.
 
 Immune-mediated neuropathies
@@ -246,6 +254,7 @@ Facial paresis occurred in < 0.1% (1/5 039) of patients who received atezolizuma
 The time to onset was 29 days.
 The duration was 1.1 months.
 The event did not require the use of corticosteroids and the event did not lead to discontinuation of atezolizumab.
+
 Immune-mediated myelitis
 
 Myelitis occurred in < 0.1% (1/5 039) of patients who received atezolizumab monotherapy.
@@ -280,7 +289,6 @@ Nephritis occurred in 0.2% (11/5 039) of patients who received atezolizumab.
 The median time to onset was 5.1 months (range: 3 days to 17.5 months).
 Nephritis led to discontinuation of atezolizumab in 5 (≤ 0.1%) patients.
 Five (0.1%) patients required the use of corticosteroids.
-
 Immune-mediated myositis
 
 Myositis occurred in 0.6% (32/5 039) of patients who received atezolizumab monotherapy.
@@ -309,7 +317,8 @@ Pericardial disorders requiring the use of corticosteroids occurred in 0.2% (7/5
 
 Immune checkpoint inhibitor class effects
 
-There have been cases of the following adverse reaction(s) reported during treatment with other immune checkpoint inhibitors which might also occur during treatment with atezolizumab: pancreatic exocrine insufficiency.
+There have been cases of the following adverse reaction(s) reported during treatment with other immune checkpoint inhibitors which might also occur during treatment with atezolizumab:
+pancreatic exocrine insufficiency.
 
 Immunogenicity
 
@@ -332,7 +341,6 @@ Paediatric population
 
 The safety of atezolizumab in children and adolescents has not been established.
 No new safety signals were observed in a clinical trial with 69 paediatric patients (< 18 years) and the safety profile was comparable to adults.
-
 Elderly
 
 No overall differences in safety were observed between patients < 65, 65-74, and 75-84 years of age receiving atezolizumab monotherapy.
@@ -359,25 +367,23 @@ The most common adverse reactions
 
 The safety profile of Tecentriq solution for injection was overall similar to the known safety profile of the intravenous formulation, with an additional adverse reaction of injection site reaction (4.5% in the subcutaneous Tecentriq arm vs 0% in the intravenous atezolizumab arm).
 
-The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab (intravenous and subcutaneous) given as monotherapy or as
-
-combination therapy. Adverse reactions known to occur with atezolizumab or chemotherapies given
-alone may occur during treatment with these medicinal products in combination, even if these
-reactions were not reported in clinical trials with combination therapy. The following categories of
-
-frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
+The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 3 for atezolizumab (intravenous and subcutaneous) given as monotherapy or as combination therapy.
+Adverse reactions known to occur with atezolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
+The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
 | --- | --- | --- |
 | Infections and infestations |  |  |
 | Very common | urinary tract infectiona | lung infectionb |
 | Common |  | sepsisaj |
+| Rare | cytomegalovirus infection | cytomegalovirus infection |
 | Blood and lymphatic system disorders |  |  |
 | Very common |  | anaemia, thrombocytopeniad, neutropeniae, leukopeniaf |
-| Common | thrombocytopeniad | lymphopeniag |
-| Rare | haemophagocytic lymphohistiocytosis | haemophagocytic lymphohistiocytosis |
+| Common | thrombocytopeniad, neutropeniae | lymphopeniag |
+| Rare | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemiaaw | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemiaaw |
 | Immune system disorders |  |  |
 | Common | infusion-related reactionh | infusion-related reactionh |
+| Rare | sarcoidosisas |  |
 | Endocrine disorders |  |  |
 | Very common |  | hypothyroidismi |
 | Common | hypothyroidismi, hyperthyroidismj | hyperthyroidismj |
@@ -387,11 +393,12 @@ frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), 
 | Common | hypokalaemiaae, hyponatraemiaaf, hyperglycaemia | hypokalaemiaae, hyponatraemiaaf, hypomagnesaemian |
 | Nervous system disorders |  |  |
 | Very common | headache | peripheral neuropathyo, headache |
-| Common |  | syncope, dizziness |
+| Common | peripheral neuropathyo | syncope, dizziness |
 | Uncommon | Guillain-Barré syndromep, meningoencephalitisq |  |
 | Rare | myasthenic syndromer, facial paresis, myelitis | facial paresis |
 | Eye disorders |  |  |
-| Rare | uveitis |  |
+| Uncommon | uveitisat |  |
+| Rare |  | uveitisat |
 | Cardiac disorders |  |  |
 | Common | pericardial disordersao |  |
 | Uncommon |  | pericardial disordersao |
@@ -406,7 +413,7 @@ frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), 
 | Very common | nausea, vomiting, diarrhoeau | nausea, vomiting, diarrhoeau, constipation |
 | Common | colitisv, abdominal pain, dysphagia, oropharyngeal painw, dry mouth | stomatitis, dysgeusia, colitisv |
 | Uncommon | pancreatitisx |  |
-| Rare | Coeliac disease | Coeliac disease |
+| Rare | coeliac disease | coeliac disease |
 | Hepatobiliary disorders |  |  |
 | Common | AST increased, ALT increased, hepatitisy | AST increased, ALT increased |
 | Skin and subcutaneous tissue disorders |  |  |
@@ -416,8 +423,8 @@ frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), 
 | Rare | pemphigoid | pemphigoid, lichen disordersar |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain | arthralgia, musculoskeletal painaa, back pain |
-| Common | musculoskeletal painaa |  |
-| Uncommon | myositisab |  |
+| Common | musculoskeletal painaa, arthritisau | arthritisau |
+| Uncommon | myositisab, tenosynovitisav | tenosynovitisav |
 | Renal and urinary disorders |  |  |
 | Common | blood creatinine increasedc | proteinuriaac, blood creatinine increasedc |
 | Uncommon | nephritisad |  |
@@ -433,10 +440,13 @@ ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and
 The frequency is based on exposure to Tecentriq solution for injection in IMscin001 and IMscin002 and includes reports of injection site reaction, injection site pain, injection site erythema, and injection site rash.
 aq Includes reports of dry skin, xerosis.
 ar Includes reports of lichenoid keratosis, lichen sclerosus and lichen planus.
+as Includes reports of sarcoidosis, pulmonary sarcoidosis, and sarcoidosis of lymph node.
+at Includes reports of uveitis, iridocyclitis and iritis.
+au Includes reports of arthritis, joint swelling, osteoarthritis, rheumatoid arthritis, polyarthritis, spinal osteoarthritis, autoimmune arthritis, immune-mediated arthritis, spondylitis, joint effusion, arthropathy, oligoarthritis, rheumatic disorder.
+av Includes reports of tendonitis, tendon pain, tenosynovitis and synovitis.
+aw Includes reports of autoimmune haemolytic anaemia, haemolytic anaemia.
 
 The median duration was 1 months (range: 0 day to 52.1+ months; + denotes a censored value).
-
-The median time to onset was 4.4 months (range: 1.2 months to 8.3 months).
 
 Subcutaneous formulation
 
