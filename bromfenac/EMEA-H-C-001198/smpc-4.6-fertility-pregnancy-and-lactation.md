@@ -3,11 +3,13 @@
 Pregnancy
 There are no adequate data from the use of bromfenac in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk for humans is unknown.
-Since the systemic exposure in non-pregnant women is negligible after treatment with Yellox, the risk during pregnancy could be considered low.
+Even if systemic exposure is very low after treatment with Yellox, it is not known if the systemic Yellox exposure reached after ophthalmic administration can be harmful to an embryo/foetus.
+During the first and second trimester of pregnancy, Yellox should not be used unless clearly necessary.
+If used, the dose should be kept as low and duration of treatment as short as possible.
 
-However, because of the known effects of prostaglandin biosynthesis-inhibiting medicinal products on the foetal cardiovascular system (closure of ductus arteriosus), the use of Yellox during third trimester pregnancy should be avoided.
-The use of Yellox is in general not recommended during pregnancy unless the benefit outweighs the potential risk.
+During the third trimester of pregnancy, systemic use of prostaglandin synthetase inhibitors may induce cardiopulmonary and renal toxicity in the foetus.
+At the end of the pregnancy prolonged bleeding time in both mother and child may occur, and labour can be delayed.
+Therefore, Yellox is not recommended during the last trimester of pregnancy.
 
 Breast-feeding
 It is unknown whether bromfenac or its metabolites are excreted in human milk.
