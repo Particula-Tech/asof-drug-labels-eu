@@ -4,11 +4,11 @@ Therapy is to be initiated and continuously supervised by specialised physicians
 
 Patients treated with this medicinal product must be given the patient alert card and be informed about the risks of the medicinal product (see also package leaflet).
 After 2 years of treatment, patients should be re-informed about the risks, especially the increased risk of Progressive Multifocal Leukoencephalopathy (PML), and should be instructed together with their caregivers on early signs and symptoms of PML.
-
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
+
 Some patients may have been exposed to immunosuppressive medicinal products (e.g. mitoxantrone, cyclophosphamide, azathioprine).
 These medicinal products have the potential to cause prolonged immunosuppression, even after dosing is discontinued.
-Therefore the physician must confirm that such patients are not immunocompromised before starting treatment (see section 4.4).
+Therefore, the physician must confirm that such patients are not immunocompromised before starting treatment (see section 4.4).
 
 Posology
 
@@ -28,7 +28,7 @@ Special populations
 
 Elderly
 
-This medicinal product is not recommended for use in patients aged over 65 due to a lack of data in this population.
+This medicinal product is not recommended for use in patients aged over 65 years due to a lack of data in this population.
 
 Renal and hepatic impairment
 
@@ -47,7 +47,7 @@ This medicinal product is for intravenous use.
 
 For instructions on dilution of the medicinal product before administration (see section 6.6).
 
-After dilution (see section 6.6), the infusion is to be administered over approximately 1 hour and patients are to be observed during the infusion and for 1 hour after the completion of the infusion for signs and symptoms of hypersensitivity reactions.
+After dilution (see section 6.6), the infusion is to be administered over approximately 1 hour, and patients are to be observed during the infusion and for 1 hour after the completion of the infusion for signs and symptoms of hypersensitivity reactions.
 
 After the first 12 intravenous Tysabri doses, patients should continue to be observed during infusion.
 If the patients have not experienced any infusion reactions, the post dose observation time may be reduced or removed according to clinical judgement.
@@ -58,13 +58,14 @@ Tysabri 300 mg concentrate for solution for infusion must not be administered as
 [Tysabri 150 mg solution for injection in pre-filled syringe]
 
 Therapy is to be initiated and continuously supervised by specialised physicians experienced in the diagnosis and treatment of neurological conditions, with timely access to MRI.
-Administration is to be performed by a healthcare professional and patients must be monitored for early signs and symptoms of Progressive Multifocal Leukoencephalopathy (PML).
-After 2 years of treatment, patients should be re-informed about the risks, especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
+Patients must be monitored for early signs and symptoms of Progressive Multifocal Leukoencephalopathy (PML).
+In case of administration by a healthcare professional outside a clinical setting, self-administration or administration by a caregiver (see below), the Pre-Administration Checklist should be provided (see section 4.4 for educational guidance).
 
+After 2 years of treatment, patients should be re-informed about the risks, especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
 There are limited data for the subcutaneous formulation in the Tysabri naïve patient population (see section 4.4).
 
 The recommended dose for subcutaneous administration is 300 mg every 4 weeks.
-As each pre-filled syringe contains 150 mg natalizumab two pre-filled syringes need to be administered to the patient.
+As each pre-filled syringe contains 150 mg natalizumab, two pre-filled syringes need to be administered.
 
 Data on the safety and efficacy of natalizumab (intravenous infusion) at 2 years were generated from controlled, double–blind studies.
 
@@ -72,20 +73,33 @@ The efficacy of re-administration has not been established (for safety, see sect
 
 Any switch in route of administration of the medicinal product should be made 4 weeks after the previous dose.
 
-Tysabri 150 mg solution for injection in pre-filled syringe should be administered by a healthcare professional via subcutaneous (SC) injection only.
+Tysabri 150 mg solution for injection in pre-filled syringe is for subcutaneous (SC) injection only.
 It is not intended for intravenous (IV) infusion.
 
-Injections of two pre-filled syringes should be administered (total dose 300 mg), one after the other without significant delay.
+Two pre-filled syringes should be administered (total dose 300 mg), one after the other without significant delay.
 The second injection should be administered no later than 30 minutes after the first injection.
-
-The sites for subcutaneous injection are the thigh, abdomen, or the posterior aspect of the upper arm.
+The sites for subcutaneous injection are the thigh, abdomen (at least 6 cm away from the navel), or the posterior aspect of the upper arm (the latter only in case of injection by a healthcare professional or a caregiver).
 The injection should not be made into an area of the body where the skin is irritated, reddened, bruised, infected, or scarred in any way.
 When removing the syringe from the injection site, the plunger should be let go of while pulling the needle straight out.
 Letting go of the plunger will allow the needle guard to cover the needle.
 The second injection should be more than 3 cm away from the first injection location (see instructions for administration at the end of the package leaflet).
-Natalizumab naïve patients should be observed during the injection and for 1 hour after for signs and symptoms of injection reactions including hypersensitivity for the first 6 natalizumab doses.
-For patients currently receiving natalizumab and who have already received at least 6 doses, regardless of the route of natalizumab administration used for the first 6 doses, the 1-hour post-injection observation time for subsequent subcutaneous injections may be reduced or removed according to clinical judgement if the patients have not experienced any injection/infusion reactions.
 
-Natalizumab injections administered by a healthcare professional outside a clinical setting (e.g. at home) may be considered for patients who have previously tolerated at least 6 doses of natalizumab well, i.e. who have not experienced hypersensitivity reactions.
+Natalizumab naïve patients should be observed during the injection and for 1 hour after for signs and symptoms of injection reactions including hypersensitivity for the first six natalizumab doses.
+For patients currently receiving natalizumab and who have already received at least six doses, regardless of the route of natalizumab administration used for the first six doses, the 1-hour post-injection observation time for subsequent subcutaneous injections may be reduced or removed according to clinical judgement if the patients have not experienced any injection/infusion reactions.
+
+Administration outside the clinical setting (OCS)
+
+Natalizumab injections administered by a healthcare professional outside a clinical setting (e.g. at home) may be considered for patients who have previously tolerated at least six doses of natalizumab well, i.e. who have not experienced hypersensitivity reactions.
 The decision for a patient to receive injections outside a clinical setting should be made after evaluation and recommendation by the specialised physician.
 Healthcare professionals should be vigilant for the early signs and symptoms of PML (see section 4.4 for further information on PML and educational guidance).
+
+Self-administration or administration by a caregiver
+
+Self-administration by the patient or administration by a caregiver may be considered for patients who have previously tolerated at least six doses of natalizumab well, i.e. who have not experienced hypersensitivity reactions.
+The decision should be made after evaluation and recommendation by the specialised physician.
+
+Patients or caregivers must administer at least two doses via SC route (two injections each) under the guidance of a healthcare professional.
+They must be instructed to read the patient alert card and review the Pre-Administration Checklist prior to each dose.
+Patients or caregivers must be advised to remain vigilant for the early signs and symptoms of PML (see section 4.4 for further information on PML and educational guidance) and, if a hypersensitivity reaction occurs, to stop administration and seek medical attention immediately.
+
+After a treatment gap of 3 months or more, the six subsequent doses must be administered under the supervision of a healthcare professional because of the concern for hypersensitivity reaction.

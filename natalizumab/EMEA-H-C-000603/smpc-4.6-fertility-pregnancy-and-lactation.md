@@ -19,10 +19,10 @@ There is no evidence of a specific pattern of birth defects with this medicinal 
 
 There are no adequate and well-controlled studies of natalizumab therapy in pregnant women.
 
-Thrombocytopenia and anaemia in infants born to women exposed to natalizumab during pregnancy were reported in the postmarketing setting.
+Thrombocytopenia and anaemia in infants born to women exposed to natalizumab during pregnancy were reported in the post-marketing setting.
 Monitoring of platelet counts, haemoglobin, and haematocrit is recommended in neonates born to women exposed to natalizumab during pregnancy.
 
-This drug should be used during pregnancy only if clearly needed.
+This medicinal product should be used during pregnancy only if clearly needed.
 If a woman becomes pregnant while taking natalizumab, discontinuation of natalizumab should be considered.
 
 Breast-feeding
