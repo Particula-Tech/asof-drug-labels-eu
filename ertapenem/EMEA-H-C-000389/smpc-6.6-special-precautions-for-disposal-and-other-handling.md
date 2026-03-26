@@ -39,5 +39,4 @@ Compatibility of INVANZ with intravenous solutions containing heparin sodium and
 The reconstituted solutions should be inspected visually for particulate matter and discolouration prior to administration, whenever the container permits.
 Solutions of INVANZ range from colourless to pale yellow.
 Variations of colour within this range do not affect potency.
-
 Any unused product or waste material should be disposed of in accordance with local requirements.

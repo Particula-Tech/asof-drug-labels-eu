@@ -19,12 +19,12 @@ Medicinal products that inhibit peristalsis should not be given.
 
 Seizures
 Seizures have been reported during clinical investigation in adult patients treated with ertapenem (1 g once a day) during therapy or in the 14-day follow-up period.
-Seizures occurred most commonly in elderly patients and those with pre-existing central nervous system (CNS) disorders (e.g. brain lesions or history of seizures) and/or compromised renal function.
+Seizures occurred most commonly in elderly patients and those with pre-existing central nervous system (CNS) disorders (e.g., brain lesions or history of seizures) and/or compromised renal function.
 Similar observations have been made in the post-marketing environment.
 
 Encephalopathy
 Encephalopathy has been reported with the use of ertapenem (see section 4.8).
-If ertapenem-induced encephalopathy is suspected (e.g. myoclonus, seizures, altered mental status, depressed level of consciousness), discontinuation of ertapenem should be considered.
+If ertapenem-induced encephalopathy is suspected (e.g., myoclonus, seizures, altered mental status, depressed level of consciousness), discontinuation of ertapenem should be considered.
 Patients with renal impairment are at higher risk of ertapenem-induced encephalopathy and the resolution may be prolonged.
 
 Concomitant use with valproic acid
@@ -37,7 +37,7 @@ Therefore, caution should be exercised in such unusual cases.
 Considerations for use in particular populations
 Experience in the use of ertapenem in the treatment of severe infections is limited.
 In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index > III).
-In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39°C and/or bacteraemia); ten patients had bacteraemia.
+In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39 °C and/or bacteraemia); ten patients had bacteraemia.
 Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalised peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥ 15 and efficacy in these patients has not been established.
 
 The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.

@@ -1,21 +1,21 @@
 # 5.2 Pharmacokinetic properties
 
 Plasma concentrations
-Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in healthy young adults (25 to 45 years of age) were 155 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 9 micrograms/mL at 12 hour postdose, and 1 microgram/mL at 24 hour postdose.
-
+Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in healthy young adults (25 to 45 years of age) were 155 micrograms/mL (Cmax) at 0.5 hours postdose (end of infusion), 9 micrograms/mL at 12 hours postdose, and 1 microgram/mL at 24 hours postdose.
 Area under the plasma concentration curve (AUC) of ertapenem in adults increases nearly dose-proportionally over the 0.5 to 2 g dose range.
 
 There is no accumulation of ertapenem in adults following multiple intravenous doses ranging from 0.5 to 2 g daily.
+
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 3 to 23 months of age were
-103.8 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 13.5 micrograms/mL at 6 hour postdose, and 2.5 micrograms/mL at 12 hour postdose.
+103.8 micrograms/mL (Cmax) at 0.5 hours postdose (end of infusion), 13.5 micrograms/mL at 6 hours postdose, and 2.5 micrograms/mL at 12 hours postdose.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 2 to 12 years of age were
-113.2 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 12.8 micrograms/mL at 6 hour postdose, and 3.0 micrograms/mL at 12 hour postdose.
+113.2 micrograms/mL (Cmax) at 0.5 hours postdose (end of infusion), 12.8 micrograms/mL at 6 hours postdose, and 3.0 micrograms/mL at 12 hours postdose.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 20 mg/kg (up to a maximum dose of 1 g) dose in patients 13 to 17 years of age were
-170.4 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/mL at 12 hour postdose, and 1.1 microgram/mL at 24 hour postdose.
+170.4 micrograms/mL (Cmax) at 0.5 hours postdose (end of infusion), 7.0 micrograms/mL at 12 hours postdose, and 1.1 microgram/mL at 24 hours postdose.
 
-Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/mL at 12 hour postdose.
+Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/mL (Cmax) at 0.5 hours postdose (end of infusion), and 6.2 micrograms/mL at 12 hours postdose.
 
 Distribution
 Ertapenem is highly bound to human plasma proteins.
@@ -36,8 +36,8 @@ In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediate
 Biotransformation
 In healthy young adults (23 to 49 years of age), after intravenous infusion of radiolabelled 1 g ertapenem, the plasma radioactivity consists predominantly (94 %) of ertapenem.
 The major metabolite of ertapenem is the ring-opened derivative formed by dehydropeptidase-I-mediated hydrolysis of the beta-lactam ring.
-
 In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the six major CYP isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
+
 Elimination
 Following administration of a 1 g radiolabelled intravenous dose of ertapenem to healthy young adults (23 to 49 years of age), approximately 80 % is recovered in urine and 10 % in faeces.
 Of the 80 % recovered in urine, approximately 38 % is excreted as unchanged ertapenem and approximately 37 % as the ring-opened metabolite.

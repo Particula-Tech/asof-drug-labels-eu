@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 Adults
-The total number of patients treated with ertapenem in clinical studies was over 2,200 of which over 2,150 received a 1 g dose of ertapenem.
+The total number of patients treated with ertapenem in clinical studies was over 2 200 of which over 2 150 received a 1 g dose of ertapenem.
 Adverse reactions (i.e., considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported in approximately 20 % of patients treated with ertapenem.
 Treatment was discontinued due to adverse reactions in 1.3 % of patients.
 An additional 476 patients received ertapenem as a single 1 g dose prior to surgery in a clinical study for the prophylaxis of surgical site infections following colorectal surgery.
@@ -25,7 +25,7 @@ For patients who received only INVANZ, the most frequently reported laboratory a
 Tabulated list of adverse reactions
 For patients who received only INVANZ, the following adverse reactions were reported during therapy plus follow-up for 14 days after treatment was stopped:
 
-Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,000 to < 1/1,000); Very rare (< 1/10,000); Not known (cannot be estimated from the available data)
+Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1 000 to < 1/100); Rare (≥ 1/10 000 to < 1/1 000); Very rare (< 1/10 000); Not known (cannot be estimated from the available data)
 
 |  | Adults 18 years of age and older | Children and adolescents (3 months to 17 years of age) |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Common (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,
 | Cardiac disorders | Uncommon: Sinus bradycardia Rare: Arrhythmia, tachycardia |  |
 | Vascular disorders | Common: Infused vein complication, phlebitis/thrombophlebitis Uncommon: Hypotension Rare: Haemorrhage, increased blood pressure | Uncommon: Hot flush, hypertension |
 | Respiratory, thoracic and mediastinal disorders | Uncommon: Dyspnoea, pharyngeal discomfort Rare: Nasal congestion, cough, epistaxis, rales/rhonchi, wheezing |  |
-| Gastrointestinal disorders | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare: Dysphagia, faecal incontinence, pelvic peritonitis Not known: teeth staining | Common: Diarrhoea Uncommon: Faeces discoloured, melaena |
+| Gastrointestinal disorders | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare: Dysphagia, faecal incontinence, pelvic peritonitis Not known: Teeth staining | Common: Diarrhoea Uncommon: Faeces discoloured, melaena |
 | Hepatobiliary disorders | Rare: Cholecystitis, jaundice, liver disorder |  |
 | Skin and subcutaneous tissue disorders | Common: Rash, pruritus Uncommon: Erythema, urticaria Rare: Dermatitis, desquamation, hypersensitivity vasculitis Not known: Acute Generalised Exanthematous Pustulosis (AGEP), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) | Common: Diaper dermatitis Uncommon: Erythema, rash, petechiae |
 | Musculoskeletal and connective tissue disorders | Rare: Muscle cramp, shoulder pain Not known: Muscular weakness |  |

@@ -19,27 +19,15 @@ Ertapenem is effectively stable to hydrolysis by most classes of beta-lactamases
 Methicillin-resistant staphylococci and enterococci are resistant to ertapenem, owing to PBP target insensitivity; P. aeruginosa and other non-fermentative bacteria are generally resistant, probably owing to limited penetration and to active efflux.
 
 Resistance is uncommon in Enterobacteriaceae and ertapenem is generally active against those with extended-spectrum beta-lactamases (ESBLs).
-Resistance can however be observed when ESBLs or other potent beta-lactamases (e.g. AmpC types) are present in conjunction with reduced permeability, arising by the loss of one or more outer membrane porins, or with up-regulated efflux.
-Resistance can also arise via the acquisition of beta-lactamases with significant carbapenem-hydrolysing activity (e.g. IMP and VIM metallo-beta-lactamases or KPC types), though these are rare.
+Resistance can however be observed when ESBLs or other potent beta-lactamases (e.g., AmpC types) are present in conjunction with reduced permeability, arising by the loss of one or more outer membrane porins, or with up-regulated efflux.
+Resistance can also arise via the acquisition of beta-lactamases with significant carbapenem-hydrolysing activity (e.g., IMP and VIM metallo-beta-lactamases or KPC types), though these are rare.
 
 The mechanism of action of ertapenem differs from that of other classes of antibiotics, such as quinolones, aminoglycosides, macrolides and tetracyclines.
 There is no target-based cross-resistance between ertapenem and these substances.
 However, micro-organisms may exhibit resistance to more than one class of antibacterial agents when the mechanism is, or includes, impermeability to some compounds and/or an efflux pump.
+Susceptibility testing breakpoints
 
-Breakpoints
-
-The EUCAST MIC breakpoints are as follows:
-
-- Enterobacterales: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- Streptococcus pneumoniae: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- Haemophilus influenzae: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- M. catarrhalis: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- Gram negative anaerobes: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- Gram positive anaerobes: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- Viridans group streptococci: S ≤ 0.5 mg/L and R > 0.5 mg/L
-- Non species related breakpoints: S ≤ 0.5 mg/L and R > 0.5 mg/L
-
-(NB: Susceptibility of staphylococci to ertapenem is inferred from methicillin susceptibility and susceptibility of group A, B, C,& G streptococci is inferred from benzylpenicillin susceptibility)
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for ertapenem and are listed here: https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-mic-breakpoints_en.xlsx
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 
@@ -97,10 +85,10 @@ Chlamydia species
 Mycoplasma species
 Rickettsia species
 Legionella species
-* Activity has been satisfactorily demonstrated in clinical studies.
-† The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
-+ frequency of acquired resistance > 50 % in some Member States.
-# Methicillin-resistant staphylococci (including MRSA) are always resistant to beta-lactams.
+*Activity has been satisfactorily demonstrated in clinical studies.
+†The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
++frequency of acquired resistance > 50 % in some Member States.
+#Methicillin-resistant staphylococci (including MRSA) are always resistant to beta-lactams.
 
 Information from clinical studies
 
@@ -121,5 +109,4 @@ The proportion of patients with a favourable clinical response assessment at pos
 |  | 13 to 17 years | 15/16 | 93.8 | 4/6 | 66.7 |
 | Acute Pelvic Infections (API) | 13 to 17 years | 25/25 | 100.0 | 8/8 | 100.0 |
 
-† This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group
-(2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteraemia at entry into the study.
+†This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group (2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteraemia at entry into the study.
