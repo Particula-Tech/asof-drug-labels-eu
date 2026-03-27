@@ -7,6 +7,7 @@ Significant overdoses or injection into a blood vessel can also cause cerebral h
 Fatalities may also result from pulmonary oedema because of peripheral vascular constriction together with cardiac stimulation.
 
 Management
+
 Pressor effects of adrenaline may be counteracted by rapidly acting vasodilators or alpha-adrenergic blocking medicinal products.
 
 If an adrenaline overdose induces pulmonary oedema that interferes with respiration, treatment consists of a rapidly acting alpha-adrenergic blocking medicinal product such as phentolamine and/or intermittent positive-pressure respiration.

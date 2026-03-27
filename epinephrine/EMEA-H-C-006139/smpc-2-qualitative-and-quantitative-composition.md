@@ -1,6 +1,12 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each single-dose container delivers adrenaline (epinephrine) 2 mg in 100 microlitres
+EURneffy 1 mg nasal spray, solution in single-dose container
+
+Each single-dose container delivers adrenaline (epinephrine) 1 mg in 100 microlitres.
+
+EURneffy 2 mg nasal spray, solution in single-dose container
+
+Each single-dose container delivers adrenaline (epinephrine) 2 mg in 100 microlitres.
 
 Excipients with known effect
 
