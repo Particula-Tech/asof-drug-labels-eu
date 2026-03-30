@@ -6,7 +6,6 @@ Perjeta should be administered by a healthcare professional prepared to manage a
 Posology
 
 Patients treated with Perjeta must have HER2-positive tumour status, defined as a score of 3+ by immunohistochemistry (IHC) and/or a ratio of ≥ 2.0 by in situ hybridisation (ISH) assessed by a validated test.
-
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
 For full instructions on assay performance and interpretation please refer to the package leaflets of validated HER2 testing assays.
 

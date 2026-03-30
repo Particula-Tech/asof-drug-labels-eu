@@ -5,4 +5,8 @@ After dilution, one ml of solution contains approximately 3.02 mg of pertuzumab 
 
 Pertuzumab is a humanised IgG1 monoclonal antibody produced in mammalian (Chinese hamster ovary) cells by recombinant DNA technology.
 
+Excipient with known effect
+
+Each 14 ml vial contains 2.8 mg of polysorbate 20
+
 For the full list of excipients, see section 6.1.

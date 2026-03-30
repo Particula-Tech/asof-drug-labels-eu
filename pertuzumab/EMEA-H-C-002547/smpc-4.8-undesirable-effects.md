@@ -16,6 +16,7 @@ Table 2 summarizes the ADRs from the Perjeta-treated groups of the following piv
 
 In addition, ADRs reported in the post-marketing setting are included in Table 2.
 As Perjeta was used with trastuzumab and chemotherapy in these trials, it is difficult to ascertain the causal relationship of an adverse event to a particular medicinal product.
+
 The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency: Very common (≥ 1/10)
 Common (≥ 1/100 to < 1/10)
 Uncommon( ≥ 1/1,000 to < 1/100)
@@ -42,7 +43,8 @@ Table 2 Summary of ADRs in patients treated with Perjeta in clinical trials^, an
 | Cardiac disorders |  | Left ventricular dysfunction ** | Cardiac failure congestive** |  |
 | Vascular disorders | Hot flush |  |  |  |
 | Respiratory, thoracic and mediastinal disorders | Cough Epistaxis Dyspnoea |  | Interstitial lung disease Pleural effusion |  |
-| Gastrointestinal disorders | Diarrhoea Vomiting Stomatitis Nausea Constipation Dyspepsia Abdominal pain |  |  |  |
+| Gastrointestinal disorders | Diarrhoea Vomiting Stomatitis Nausea |  |  |  |
+|  | Constipation Dyspepsia Abdominal pain |  |  |  |
 | Skin and subcutaneous tissue disorders | Alopecia Rash Nail disorder Pruritus Dry skin |  |  |  |
 | Musculoskeletal and connective tissue disorders | Myalgia Arthralgia Pain in extremity |  |  |  |
 | General disorders and administration site conditions | Mucosal inflammation Oedema peripheral Pyrexia Fatigue Asthenia | Chills Pain Oedema |  |  |
@@ -99,7 +101,6 @@ Based on modifications made to the study treatment, most reactions were assessed
 In the neoadjuvant and adjuvant trials, hypersensitivity/anaphylaxis events were consistent with those observed in CLEOPATRA.
 In NEOSPHERE, two patients in the Perjeta and docetaxel-treated group experienced anaphylaxis.
 In both the TRYPHAENA and APHINITY trials, the overall frequency of hypersensitivity/anaphylaxis was highest in the Perjeta and TCH treated group (13.2% and 7.6%, respectively), of which 2.6% and 1.3% of events, respectively, were NCI-CTCAE Grade 3-4.
-
 Febrile neutropenia
 In the pivotal trial CLEOPATRA, the majority of patients in both treatment groups experienced at least one leucopenic event (63.0% of patients in the Perjeta-treated group and 58.3% of patients in the placebo-treated group), of which the majority were neutropenic events (see section 4.4).
 Febrile neutropenia occurred in 13.7% of Perjeta-treated patients and 7.6% of placebo-treated patients.

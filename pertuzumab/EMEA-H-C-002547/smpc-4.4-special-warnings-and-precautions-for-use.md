@@ -58,3 +58,9 @@ Treat diarrhoea according to standard practice and guidelines.
 Early intervention with loperamide, fluids and electrolyte replacement should be considered, particularly in elderly patients, and in case of severe or prolonged diarrhoea.
 Interruption of treatment with pertuzumab should be considered if no improvement in the patient’s condition is achieved.
 When the diarrhoea is under control treatment with pertuzumab may be reinstated.
+
+Excipients with known effect
+
+Perjeta contains polysorbate20.
+Each 14 ml vial contains 2.8 mg of polysorbate20.
+Polysorbates may cause allergic reactions.

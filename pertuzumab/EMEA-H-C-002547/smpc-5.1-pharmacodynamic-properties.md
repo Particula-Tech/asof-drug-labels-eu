@@ -64,7 +64,8 @@ Figure 1 IRF-assessed PFS by patient subgroup
 
 The event-driven final analysis of OS was performed when 389 patients had died (221 in the placebo-treated group and 168 in the Perjeta-treated group).
 The statistically significant OS benefit in favour of the Perjeta-treated group, previously observed at an interim analysis of OS (performed one year after the primary analysis), was maintained (HR 0.68, p = 0.0002 log-rank test).
-The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 3, Figure 2).
+The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see
+Table 3, Figure 2).
 
 A descriptive analysis of OS performed at the end of the study when 515 patients had died (280 in the placebo-treated group and 235 in the Perjeta-treated group) showed that the statistically significant OS benefit in favour of the Perjeta-treated group was maintained over time after a median follow-up of 99 months (HR 0.69, p < 0.0001 log-rank test; median time to death 40.8 months [placebo-treated group] versus 57.1 months [Perjeta-treated group]).
 Landmark survival estimates at 8 years were 37% in the Perjeta-treated group and 23% in the placebo-treated group.
