@@ -47,7 +47,9 @@ Administration
 
 - Inject KEYTRUDA solution for injection into the subcutaneous tissue of the thigh or abdomen, avoiding the 5 cm area around the navel.
   Do not inject into skin that is damaged, sore, bruised, scarred, scaly, or has red patches.
-  - Inject one 2.4 mL dose of KEYTRUDA solution for injection (395 mg) subcutaneously every 3 weeks over 1 minute.
-  - Inject one 4.8 mL dose of KEYTRUDA solution for injection (790 mg) subcutaneously every 6 weeks over 2 minutes.
+
+o Inject one 2.4 mL dose of KEYTRUDA solution for injection (395 mg) subcutaneously every 3 weeks over 1 minute.
+o Inject one 4.8 mL dose of KEYTRUDA solution for injection (790 mg) subcutaneously every 6 weeks over 2 minutes.
+
 - Rotate injection sites for subsequent injections.
 - During treatment with KEYTRUDA solution for injection, do not administer other medicinal products for subcutaneous use at the same site as KEYTRUDA solution for injection.

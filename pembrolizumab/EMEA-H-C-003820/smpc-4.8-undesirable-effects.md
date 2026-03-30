@@ -16,9 +16,9 @@ No new immune-mediated adverse reactions were identified in the adjuvant setting
 Pembrolizumab in combination with chemotherapy, radiation therapy (RT) or chemoradiotherapy (CRT) (see section 4.2)
 When pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components prior to initiation of treatment.
 
-The safety of pembrolizumab in combination with chemotherapy, RT or CRT has been evaluated in 6 695 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
-In this patient population, the most frequent adverse reactions were nausea (51%), anaemia (50%), diarrhoea (35%), fatigue (35%), constipation (32%), vomiting (27%), neutrophil count decreased (26%), and decreased appetite (26%).
-Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 69% for pembrolizumab combination therapy and 61% for chemotherapy alone, in patients with HNSCC were 80% for pembrolizumab combination therapy (chemotherapy or RT with or without chemotherapy), and 79% for chemotherapy plus cetuximab or RT with or without chemotherapy, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 77% for pembrolizumab combination therapy (chemotherapy with or without bevacizumab or in combination with CRT) and 71% for chemotherapy with or without bevacizumab or CRT alone, in patients with gastric cancer were 74% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 68% for chemotherapy with or without trastuzumab, in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone, in patients with EC were 59% for pembrolizumab combination therapy and 46% for chemotherapy alone and in patients with malignant pleural mesothelioma were 44% for pembrolizumab combination therapy and 30% for chemotherapy alone.
+The safety of pembrolizumab in combination with chemotherapy, RT or CRT has been evaluated in 7 015 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks or 400 mg pembrolizumab every 6 weeks, in clinical studies.
+In this patient population, the most frequent adverse reactions were anaemia (51%), nausea (50%), fatigue (36%), diarrhoea (35%), constipation (32%), vomiting (27%), and decreased appetite (26%).
+Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 69% for pembrolizumab combination therapy and 61% for chemotherapy alone, in patients with HNSCC were 80% for pembrolizumab combination therapy (chemotherapy or RT with or without chemotherapy), and 79% for chemotherapy plus cetuximab or RT with or without chemotherapy, in patients with oesophageal carcinoma were 86% for pembrolizumab combination therapy and 83% for chemotherapy alone, in patients with TNBC were 80% for pembrolizumab combination therapy and 77% for chemotherapy alone, in patients with cervical cancer were 77% for pembrolizumab combination therapy (chemotherapy with or without bevacizumab or in combination with CRT) and 71% for chemotherapy with or without bevacizumab or CRT alone, in patients with gastric cancer were 74% for pembrolizumab combination therapy (chemotherapy with or without trastuzumab) and 68% for chemotherapy with or without trastuzumab, in patients with biliary tract carcinoma were 85% for pembrolizumab combination therapy and 84% for chemotherapy alone, in patients with EC were 59% for pembrolizumab combination therapy and 46% for chemotherapy alone, in patients with malignant pleural mesothelioma were 44% for pembrolizumab combination therapy and 30% for chemotherapy alone and in patients with ovarian cancer were 83% for pembrolizumab combination therapy (chemotherapy with or without bevacizumab) and 71% for chemotherapy with or without bevacizumab.
 
 Pembrolizumab in combination with tyrosine kinase inhibitor (TKI) (see section 4.2)
 When pembrolizumab is administered in combination with axitinib or lenvatinib, refer to the SmPC for axitinib or lenvatinib prior to initiation of treatment.
@@ -29,6 +29,7 @@ The safety of pembrolizumab in combination with axitinib or lenvatinib in advanc
 In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%).
 Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% for sunitinib alone.
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
+
 Tabulated summary of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
@@ -69,8 +70,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Nervous system disorders |  |  |  |
 | Very common | headache | neuropathy peripheral, headache | headache, dysgeusia |
 | Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | dizziness, dysgeusia | dizziness, neuropathy peripheral, lethargy |
-| Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, epilepsy, lethargy | myasthenic syndrome⁎, encephalitis⁎ |
-| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome⁎, Guillain-Barré syndrome⁎, myelitis, optic neuritis, meningitis (aseptic) | optic neuritis |
+| Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, lethargy | myasthenic syndrome⁎, encephalitis⁎ |
+| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome⁎, Guillain-Barré syndrome⁎, myelitis, optic neuritis, epilepsy, meningitis (aseptic) | optic neuritis |
 | Eye disorders |  |  |  |
 | Common | dry eye | dry eye | dry eye |
 | Uncommon | uveitis⁎ | uveitis⁎ | uveitis⁎ |
@@ -96,12 +97,12 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 | Common | hepatitis⁎ | hepatitis⁎ | hepatitis⁎ |
 | Rare | cholangitis sclerosing | cholangitis sclerosing⁎ |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | pruritus⁎, rash⁎ | rash⁎, alopecia, pruritus⁎ | rash⁎, pruritus⁎ |
-| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, erythema, dermatitis, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
+| Very common | pruritus⁎, rash⁎ | alopecia, pruritus⁎, rash⁎ | rash⁎, pruritus⁎ |
+| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, dermatitis, erythema, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
 | Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, lichenoid keratosis⁎, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
 | Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  |  |  |
-| Very common | musculoskeletal pain⁎, arthralgia | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
+| Very common | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎ | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
 | Common | myositis⁎, pain in extremity, arthritis⁎ | myositis⁎, pain in extremity, arthritis⁎ | arthritis⁎ |
 | Uncommon | tenosynovitis⁎ | tenosynovitis⁎ | tenosynovitis⁎ |
 | Rare | Sjogren’s syndrome | Sjogren’s syndrome | Sjogren’s syndrome |
@@ -136,7 +137,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 - myelitis (including transverse myelitis)
 - meningitis aseptic (meningitis and meningitis noninfective)
 - uveitis (chorioretinitis, iritis and iridocyclitis)
-- myocarditis (autoimmune myocarditis)
+- myocarditis (autoimmune myocarditis and immune-mediated myocarditis)
 - pericarditis (autoimmune pericarditis, pleuropericarditis and myopericarditis)
 - vasculitis (central nervous system vasculitis, aortitis and giant cell arteritis)
 - pneumonitis (interstitial lung disease, organising pneumonia, immune-mediated pneumonitis, immune-mediated lung disease and autoimmune lung disease)
@@ -156,8 +157,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab†
 - myositis (myalgia, myopathy, necrotising myositis, polymyalgia rheumatica and rhabdomyolysis)
 - arthritis (joint swelling, polyarthritis, joint effusion, autoimmune arthritis and immune-mediated arthritis)
 - tenosynovitis (tendonitis, synovitis and tendon pain)
-- nephritis (autoimmune nephritis, immune-mediated nephritis, tubulointerstitial nephritis and renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome, glomerulonephritis, glomerulonephritis membranous and glomerulonephritis acute)
-- oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localised oedema and periorbital oedema)
+- nephritis (autoimmune nephritis, immune-mediated nephritis, tubulointerstitial nephritis, renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome, glomerulonephritis, glomerulonephritis membranous and glomerulonephritis acute)
+- oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema, lip oedema, face oedema, localised oedema and periorbital oedema)
 
 Pembrolizumab in combination with enfortumab vedotin (see section 4.2)
 When pembrolizumab is administered in combination with enfortumab vedotin, refer to the SmPC for enfortumab vedotin prior to initiation of treatment.
@@ -182,10 +183,10 @@ The median duration was 2.0 months (range: 1 day to 51.0+ months).
 Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.1%) than in patients who did not receive prior thoracic radiation (3.9%).
 Pneumonitis led to discontinuation of pembrolizumab in 131 (1.7%) patients.
 Pneumonitis resolved in 196 patients, 6 with sequelae.
-
 In patients with NSCLC, pneumonitis occurred in 230 (6.1%), including Grade 2, 3, 4 or 5 cases in 103 (2.7%), 63 (1.7%), 17 (0.4%) and 10 (0.3%), respectively.
 In patients with locally advanced or metastatic NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
 In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
+
 Immune-mediated colitis
 Colitis occurred in 158 (2.1%) patients, including Grade 2, 3 or 4 cases in 49 (0.6%), 82 (1.1%) and 6 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of colitis was 4.3 months (range: 2 days to 24.3 months).
@@ -275,7 +276,7 @@ There were no Grade 5 hepatic events.
 Laboratory abnormalities
 In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 9.9% for lymphocytes decreased, 7.3% for sodium decreased, 5.7% for haemoglobin decreased, 4.6% for glucose increased, 4.5% for phosphate decreased, 3.1% for ALT increased, 2.9% for AST increased, 2.6% for alkaline phosphatase increased, 2.2% for potassium decreased, 2.1% for neutrophils decreased, 1.7% for bilirubin increased, 1.7% for platelets decreased, 1.7% for potassium increased, 1.6% for calcium increased, 1.4% for albumin decreased, 1.3% for calcium decreased, 1.2% for creatinine increased, 0.8% for leukocytes decreased, 0.8% for magnesium increased, 0.6% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
 
-In patients treated with pembrolizumab in combination with chemotherapy, RT or CRT, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 36.2% for neutrophils decreased, 31.9% for lymphocytes decreased, 23.7% for leukocytes decreased, 20.3% for haemoglobin decreased, 11.8% for platelets decreased, 9.6% for sodium decreased, 7.8% for potassium decreased, 7.2% for phosphate decreased, 5.5% for glucose increased, 5.2% for ALT increased, 4.6% for AST increased, 3.4% for calcium decreased, 3.0% for bilirubin increased, 3.0% for potassium increased, 2.9% for creatinine increased, 2.4% for alkaline phosphatase increased, 2.2% for albumin decreased, 1.6% for calcium increased, 0.8% for glucose decreased and 0.4% for sodium increased.
+In patients treated with pembrolizumab in combination with chemotherapy, RT or CRT, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 36.4% for neutrophils decreased, 31.7% for lymphocytes decreased, 23.7% for leukocytes decreased, 20.2% for haemoglobin decreased, 11.4% for platelets decreased, 9.5% for sodium decreased, 7.8% for potassium decreased, 7.2% for phosphate decreased, 5.5% for glucose increased, 5.3% for ALT increased, 4.7% for AST increased, 3.4% for calcium decreased, 3.1% for creatinine increased, 3.0% for bilirubin increased, 3.0% for potassium increased, 2.4% for albumin decreased, 2.3% for alkaline phosphatase increased, 1.6% for calcium increased, 0.9% for glucose decreased, 0.4% for sodium increased and 0.2% for haemoglobin increased.
 
 In patients treated with pembrolizumab in combination with axitinib or lenvatinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.0% for lipase increased (not measured in patients treated with pembrolizumab and axitinib), 12.3% for lymphocyte decreased, 11.4% for sodium decreased, 11.2% for amylase increased, 11.2% for triglycerides increased, 10.4% for ALT increased, 8.9% for AST increased, 7.8% for glucose increased, 6.8% for phosphate decreased, 6.1% for potassium decreased, 5.1% for potassium increased, 4.5% for cholesterol increased, 4.4% for creatinine increased, 4.2% for haemoglobin decreased, 4.0% for neutrophils decreased, 3.1% for alkaline phosphatase increased, 3.0% for platelets decreased, 2.8% for bilirubin increased, 2.2% for calcium decreased, 2.2% for magnesium increased, 1.7% for leukocytes decreased, 1.5% for magnesium decreased, 1.5% for prothrombin INR increased, 1.4% for glucose decreased, 1.2% for albumin decreased, 1.0% for calcium increased, 0.4% for sodium increased, and 0.1% for haemoglobin increased.
 
@@ -306,7 +307,7 @@ The safety profile of KEYTRUDA solution for injection in combination with platin
 
 The safety of intravenous pembrolizumab as monotherapy has been evaluated in 7 631 patients across tumour types and across four doses (2 mg/kg bw every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg bw every 2 or 3 weeks) in clinical studies.
 
-The safety of intravenous pembrolizumab in combination with chemotherapy, RT or CRT has been evaluated in 6 695 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks, in clinical studies.
+The safety of intravenous pembrolizumab in combination with chemotherapy, RT or CRT has been evaluated in 7 015 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks or 400 mg pembrolizumab every 6 weeks, in clinical studies.
 
 The safety of intravenous pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1 456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate.
 
@@ -342,8 +343,8 @@ Adverse reactions observed in clinical studies of intravenous pembrolizumab as m
 | Nervous system disorders |  |  |  |
 | Very common | headache | neuropathy peripheral, headache | headache, dysgeusia |
 | Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | dizziness, dysgeusia | dizziness, neuropathy peripheral, lethargy |
-| Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, epilepsy, lethargy | myasthenic syndrome⁎, encephalitis⁎ |
-| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome⁎, Guillain-Barré syndrome⁎, myelitis, optic neuritis, meningitis (aseptic) | optic neuritis |
+| Uncommon | myasthenic syndrome⁎, epilepsy | encephalitis⁎, lethargy | myasthenic syndrome⁎, encephalitis⁎ |
+| Rare | Guillain-Barré syndrome⁎, encephalitis⁎, myelitis⁎, optic neuritis, meningitis (aseptic)⁎ | myasthenic syndrome⁎, Guillain-Barré syndrome⁎, myelitis, optic neuritis, epilepsy, meningitis (aseptic) | optic neuritis |
 | Eye disorders |  |  |  |
 | Common | dry eye | dry eye | dry eye |
 | Uncommon | uveitis⁎ | uveitis⁎ | uveitis⁎ |
@@ -369,12 +370,12 @@ Adverse reactions observed in clinical studies of intravenous pembrolizumab as m
 | Common | hepatitis⁎ | hepatitis⁎ | hepatitis⁎ |
 | Rare | cholangitis sclerosing | cholangitis sclerosing⁎ |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | pruritus⁎, rash⁎ | rash⁎, alopecia, pruritus⁎ | rash⁎, pruritus⁎ |
-| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, erythema, dermatitis, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
+| Very common | pruritus⁎, rash⁎ | alopecia, pruritus⁎, rash⁎ | rash⁎, pruritus⁎ |
+| Common | severe skin reactions⁎, erythema, dermatitis, dry skin, vitiligo⁎, eczema, alopecia, dermatitis acneiform | severe skin reactions⁎, dermatitis, erythema, dry skin, dermatitis acneiform, eczema | severe skin reactions⁎, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
 | Uncommon | psoriasis, lichenoid keratosis⁎, papule, hair colour changes | psoriasis, lichenoid keratosis⁎, vitiligo⁎, papule | eczema, lichenoid keratosis⁎, psoriasis, vitiligo⁎, papule, hair colour changes |
 | Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | Stevens-Johnson syndrome, erythema nodosum, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  |  |  |
-| Very common | musculoskeletal pain⁎, arthralgia | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
+| Very common | musculoskeletal pain⁎, arthralgia | arthralgia, musculoskeletal pain⁎ | arthralgia, musculoskeletal pain⁎, myositis⁎, pain in extremity |
 | Common | myositis⁎, pain in extremity, arthritis⁎ | myositis⁎, pain in extremity, arthritis⁎ | arthritis⁎ |
 | Uncommon | tenosynovitis⁎ | tenosynovitis⁎ | tenosynovitis⁎ |
 | Rare | Sjogren’s syndrome | Sjogren’s syndrome | Sjogren’s syndrome |
@@ -406,4 +407,5 @@ The incidence of treatment-emergent anti-recombinant berahyaluronidase alfa anti
 The clinical relevance of the development of anti-recombinant berahyaluronidase alfa antibodies after treatment with subcutaneous pembrolizumab is unknown.
 
 The safety of pembrolizumab solution for injection in paediatric patients has not been established in clinical studies.
+
 Intravenous formulation

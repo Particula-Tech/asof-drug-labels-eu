@@ -96,6 +96,10 @@ Biliary tract carcinoma (BTC)
 
 KEYTRUDA, in combination with gemcitabine and cisplatin, is indicated for the first-line treatment of locally advanced unresectable or metastatic biliary tract carcinoma in adults.
 
+Ovarian Cancer
+
+KEYTRUDA, in combination with paclitaxel, with or without bevacizumab, is indicated for the treatment of platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1 and who have received one or two prior systemic treatment regimens.
+
 [KEYTRUDA 395 mg solution for injection]
 
 KEYTRUDA as monotherapy is indicated for the treatment of adults with advanced (unresectable or metastatic) melanoma.

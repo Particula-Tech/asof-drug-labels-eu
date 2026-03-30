@@ -16,10 +16,10 @@ If specified in the indication, patient selection for treatment with KEYTRUDA ba
 Posology
 
 The recommended dose of KEYTRUDA in adults is either 200 mg every 3 weeks or 400 mg every 6 weeks administered as an intravenous infusion over 30 minutes.
-
 The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL or patients aged 12 years and older with melanoma is 2 mg/kg bodyweight (bw) (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
 
 For use in combination, see the Summary of Product Characteristics (SmPC) for the concomitant therapies.
+
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity (and up to maximum duration of therapy if specified for an indication).
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
@@ -37,7 +37,6 @@ Patients who experience disease progression that precludes definitive surgery or
 
 For locally advanced cervical cancer, patients should be treated with KEYTRUDA concurrent with chemoradiotherapy, followed by KEYTRUDA as monotherapy.
 KEYTRUDA can be administered as either 200 mg every 3 weeks or 400 mg every 6 weeks until disease progression, unacceptable toxicity or up to 24 months.
-
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
 KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
@@ -66,14 +65,8 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
 | Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
 
-Immune-mediated Severity Treatment modification
-adverse reactions
-
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
-
-* If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if
-
-corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
+* If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
 
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-mediated myocarditis is not known.
 
@@ -104,7 +97,6 @@ Patients treated with KEYTRUDA must be given the patient card and be informed ab
 Special populations
 Elderly
 No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5.1).
-
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
 KEYTRUDA has not been studied in patients with severe renal impairment (see sections 4.4 and 5.2).
@@ -112,6 +104,7 @@ KEYTRUDA has not been studied in patients with severe renal impairment (see sect
 Hepatic impairment
 No dose adjustment is needed for patients with mild or moderate hepatic impairment.
 KEYTRUDA has not been studied in patients with severe hepatic impairment (see sections 4.4 and 5.2).
+
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not been established except in paediatric patients with melanoma or cHL.
 Currently available data are described in sections 4.8, 5.1 and 5.2.
@@ -136,7 +129,6 @@ For instructions on dilution of the medicinal product before administration, see
 [KEYTRUDA 395 mg solution for injection]
 
 The recommended dose of KEYTRUDA solution for injection in adults is either:
-
 - 395 mg every 3 weeks administered as a subcutaneous injection over 1 minute or
 - 790 mg every 6 weeks administered as a subcutaneous injection over 2 minutes.
 
