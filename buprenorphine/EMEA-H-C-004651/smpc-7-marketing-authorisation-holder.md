@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Camurus AB
-Ideon Science Park
-SE-223 70 Lund
+Rydbergs torg 4
+SE-224 84 Lund
 Sweden medicalinfo@camurus.com
