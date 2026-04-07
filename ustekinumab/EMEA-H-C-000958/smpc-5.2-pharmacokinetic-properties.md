@@ -7,6 +7,7 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 Biotransformation
 The exact metabolic pathway for ustekinumab is unknown.
+
 Elimination
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg.
 Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn’s disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
@@ -16,8 +17,7 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
-No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients weighing less than 40 kg.
-
+No specific studies have been conducted with intravenous ustekinumab in elderly patients.
 In patients with Crohn’s disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution.
 Additionally in Crohn’s disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian).
 The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates.
@@ -30,7 +30,7 @@ A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conduc
 No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn’s disease (see section 4.5).
 
 Paediatric population
-Serum ustekinumab concentrations in paediatric Crohn’s disease patients weighing at least 40 kg, treated with the recommended weight-based dose were generally comparable to those in the adult Crohn’s disease population treated with the adult weight-based dose.
+Serum ustekinumab concentrations in paediatric patients 2 years and older and weighing at least 10 kg with Crohn’s disease, were generally comparable to those in the adult Crohn’s disease population.
 
 [STELARA 45 mg solution for injection]
 
@@ -72,7 +72,6 @@ In patients with Crohn’s disease and ulcerative colitis, based on observed dat
 In Crohn’s disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
 In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough ustekinumab concentrations.
 Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
-
 No specific studies have been conducted in elderly patients.
 
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
@@ -86,8 +85,16 @@ The bioavailability of ustekinumab following administration by syringe or pre-fi
 Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose.
 Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
 
-The steady-state serum concentrations in paediatric patients with Crohn’s disease weighing at least 40 kg were comparable to those in the adult Crohn’s disease population.
+The steady-state serum concentrations in paediatric patients with Crohn’s disease 2 years and older and weighing at least 10 kg were comparable to those in the adult Crohn’s disease population.
+
+Patients who had loss of response and low ustekinumab levels were dose adjusted to maintenance treatment every 4 weeks.
+Serum ustekinumab concentrations increased following dose escalation and were within the range of the concentrations at the approved recommended dose in adults treated every 8 weeks.
 
 [STELARA 45 mg solution for injection in pre-filled pen]
+
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+Serum concentration time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations.
+In patients with psoriasis, steady state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks.
+The median steady state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg).
 
 The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.

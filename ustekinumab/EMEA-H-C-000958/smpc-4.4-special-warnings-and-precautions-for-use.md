@@ -31,16 +31,14 @@ Thus, caution should be exercised when considering the use of STELARA in these p
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
 Systemic and respiratory hypersensitivity reactions
-Systemic
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment.
 Anaphylaxis and angioedema have occurred.
 If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
-Infusion-related reactions
+
 Infusion-related reactions were observed in clinical trials (see section 4.8).
 Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting.
 If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
 
-Respiratory
 Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab.
 Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalisation.
@@ -88,16 +86,17 @@ If lesions occur, especially in sun exposed areas of the skin or if accompanied 
 If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
 Special populations
-Elderly (≥65 years)
+
+Elderly
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
-Sodium content
+Excipients with known effect
+
 STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
 STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion.
 This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
-Polysorbate 80
 STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.40 mg/mL.
 Polysorbates may cause allergic reactions.
 
@@ -106,7 +105,9 @@ Polysorbates may cause allergic reactions.
 Latex sensitivity
 The needle cover on the syringe in the STELARA pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
 
-STELARA contains 0.04 mg (90 mg/1.0mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL.
+Excipient with known effect
+
+STELARA contains 0.04 mg (90 mg/1.0 mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL.
 
 [STELARA 45 mg solution for injection in pre-filled pen]
 

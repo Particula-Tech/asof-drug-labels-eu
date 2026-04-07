@@ -1,8 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most common adverse reactions (> 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache.
-Most were considered to be mild and did not necessitate discontinuation of study treatment.
+The most common adverse reactions in the controlled periods of the adult clinical studies were nasopharyngitis (occurring in 6.9% of ustekinumab-treated patients and 5.4% of patients on placebo) and headache (occurring in 7.0% of ustekinumab-treated patients and 5.2% of patients on placebo).
 The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4).
 The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis.
 
@@ -11,11 +10,11 @@ The safety data described below reflect exposure in adults to ustekinumab in 14 
 This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn’s disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients).
 2,194 patients with psoriasis, Crohn’s disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn’s disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
+Table 4 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3 List of adverse reactions
+Table 4 List of adverse reactions
 
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Common: Upper respiratory tract infection, nasopharyngitis,
@@ -55,6 +54,7 @@ General disorders and Common: Fatigue, injection site erythema, injection site p
 administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia
 
 * See section 4.4, Systemic and respiratory hypersensitivity reactions.
+
 Description of selected adverse reactions
 
 Infections
@@ -79,18 +79,22 @@ The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of foll
 The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 Hypersensitivity and infusion reactions
-In Crohn’s disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
+In adult Crohn’s disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
 In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
+In the paediatric Crohn’s disease study, there was one serious and one non-serious infusion reaction.
 Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
+
 Paediatric population
+
 Paediatric patients 6 years and older with plaque psoriasis
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis.
 The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks.
 In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
-Paediatric patients weighing at least 40 kg with Crohn’s disease
-The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn’s disease up to week 240 and week 52, respectively.
-In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn’s disease.
+Paediatric patients 2 years and older with Crohn’s disease
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn’s disease.
+34 patients in the Phase 1 study were followed up to 240 weeks and 101 patients in the Phase 3 study were followed up to 68 weeks, respectively.
+In general, the safety profile was similar to that seen in previous studies in adults with Crohn’s disease.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -99,23 +103,18 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [STELARA 45 mg solution for injection]
 
-This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn’s disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year ( 3,648 patients).
-2,194 patients with psoriasis, Crohn’s disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn’s disease were exposed for at least 5 years.
-
 Hypersensitivity reactions
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in < 1% of patients (see section 4.4).
 
 [STELARA 45 mg solution for injection in pre-filled pen]
-
-2,194 patients with psoriasis, Crohn’s disease or ulcerative colitis were exposed for atleast 4 years while 1,148 patients with psoriasis or Crohn’s disease were exposed for at least 5 years.
 
 Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 Table 1: List of adverse reactions
 
 General disorders and Common : Fatigue, injection site erythema, injection site pain
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 15,205 patient-years of exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 2.3 years for ulcerative colitis studies.
-The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in
-15,165 patient-years of follow-up).
+Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient years of follow up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab treated patients).
+The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers.
+The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow up for ustekinumab-treated patients (69 patients in 15,165 patient years of follow up).
 
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in <1% of patients (see section 4.4).

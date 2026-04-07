@@ -2,7 +2,7 @@
 
 Each vial contains 130 mg ustekinumab in 26 mL (5 mg/mL).
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG1κ monoclonal antibody produced in a murine myeloma cell line using recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
 
