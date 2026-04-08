@@ -3,19 +3,19 @@
 Summary of the safety profile
 
 The most common adverse reactions in atopic dermatitis, asthma, and CRSwNP are injection site reactions (includes erythema, oedema, pruritus, pain, and swelling), conjunctivitis, conjunctivitis allergic, arthralgia, oral herpes, and eosinophilia.
-An additional adverse reaction of injection site bruising was reported in EoE and COPD.
-Additional adverse reactions of injection site induration , and injection site dermatitis were reported in COPD and CSU.
-Additional adverse reactions of injection site rash were reported in COPD and injection site haematoma were reported in CSU.
+An additional adverse reaction of injection site bruising or haematoma was reported in EoE,COPD and CSU.
+Additional adverse reactions of injection site induration and injection site dermatitis were reported in COPD and CSU.
+Additional adverse reactions of injection site rash were reported in COPD.
 Rare cases of serum sickness, serum sickness-like reaction, anaphylactic reaction, and ulcerative keratitis have been reported (see section 4.4).
 
 Tabulated list of adverse reactions
 
-The dupilumab safety data presented in Table 7 were predominantly derived from 12 randomised, placebo-controlled trials, including atopic dermatitis, asthma, and CRSwNP patients.
+The dupilumab safety data presented in Table 8 were predominantly derived from 12 randomised, placebo-controlled trials, including atopic dermatitis, asthma, and CRSwNP patients.
 These studies involved 4,206 patients receiving dupilumab and 2,326 patients receiving placebo during the controlled period are representative of the overall safety profile for dupilumab.
-
-Listed in Table 6 are adverse reactions observed in clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); not known (cannot be estimated from the available data).
+Listed in Table 8 are adverse reactions observed in clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Table 7: List of adverse reactions
+
+Table 8: List of adverse reactions
 
 | MedDRA System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ The mean blood eosinophil levels decreased to below baseline by week 20 and was 
 Compared to placebo, no increase in mean blood eosinophil counts was observed in PN (PRIME and PRIME2).
 Mean and median blood eosinophil counts declined to near baseline or remained below baseline levels in EoE and COPD (BOREAS and NOTUS) during study treatment.
 
-Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was observed in < 3 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52, PRIME, and PRIME2 studies; TREET Parts A and B; BOREAS and NOTUS; and CUPID Study A, B, and C).
+Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was observed in < 3 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52, PRIME, and PRIME2 studies; TREET Parts A and B; BOREAS and NOTUS; CUPID Study A, B, and C.)
 
 Treatment-emergent eosinophilia (≥5,000 cells/mcL) was observed in 8.4% of dupilumab-treated patients and 0% in placebo-treated patients in study AD-1539, with median eosinophil counts declining below baseline at end of treatment period.
 
@@ -84,8 +84,9 @@ Upper respiratory tract infections composed of several terms, including, but not
 No increase was observed in the overall incidence of infections with dupilumab compared to placebo in the safety pool for COPD clinical studies.
 Serious infections were reported in 4.9% of patients treated with dupilumab and 4.8% of patients treated with placebo.
 
-No increase was observed in the overall incidence of infections with dupilumab compared to placebo in the safety pool for CSU clinical studies.
+In the safety pool for CUPID studies (A, B, and C) no increase was observed in the overall incidence of infections with dupilumab compared to placebo.
 In the safety pool, serious infections were observed in 0.5% of patients treated with dupilumab and 0.5% of patients treated with placebo.
+No serious infections were observed in children treated with dupilumab in the PKM16982 study.
 
 Immunogenicity
 As with all therapeutic proteins, there is a potential for immunogenicity with dupilumab.
@@ -100,16 +101,16 @@ Approximately 16 % of adolescent patients with atopic dermatitis who received du
 
 Approximately 9 % of patients with asthma who received dupilumab 200 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 4 % exhibited persistent ADA responses and approximately 4 % had neutralizing antibodies.
 
-Approximately 1% of patients 1 year of age and older with EoE who received dupilumab 300 mg QW (≥40 kg), 300 mg Q2W (≥30 to <60 kg), 200 mg Q2W (≥15 to <30 kg), or 100 mg Q2W (≥5 to <15 kg) for 52 weeks developed antibodies to dupilumab; the ADA responses were neither persistent nor neutralizing.
+Approximately 1% of patients 1 year of age and older with EoE who received dupilumab 300 mg QW (≥40 kg), 300 mg Q2W (≥30 to <60 kg), 200 mg Q2W (≥15 to <30 kg), or 100 mg Q2W (≥5 to <15 kg) for 52 weeks developed antibodies to dupilumab; the ADA responses were neither persistent nor neutralizing..
 
 Approximately 8% of patients with COPD who received dupilumab 300 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 3% exhibited persistent ADA responses and approximately 3% had neutralizing antibodies.
-
 Approximately 4.7% of adult patients with CSU who received dupilumab 300 mg Q2W and adolescent patients with CSU who received dupilumab 300 mg or 200 mg Q2W for 24 weeks developed antibodies to dupilumab; approximately 0.5% exhibited persistent ADA responses and approximately 1% had neutralizing antibodies.
+No paediatric patients 2 to 11 years of age with CSU who received dupilumab 200 mg Q4W, 300 mg Q4W, or 200 mg Q2W for 24 weeks developed a positive ADA response to dupilumab.
 
 Regardless of age or population, up to 7 % of patients in the placebo groups were positive for antibodies to dupilumab; up to 3 % exhibited persistent ADA response and up to 2 % had neutralizing antibodies.
+Less than 1 % of patients who received dupilumab at approved dosing regimens exhibited high titer ADA responses associated with reduced exposure and efficacy.
+In addition, there was one patient with serum sickness and one with serum sickness-like reaction (< 0.1 %) associated with high ADA titers (see section 4.4).
 
-Less than 1 % of patients who received dupilumab at approved dosing regimens exhibited high titre ADA responses associated with reduced exposure and efficacy.
-In addition, there was one patient with serum sickness and one with serum sickness-like reaction (< 0.1 %) associated with high ADA titres (see section 4.4).
 Paediatric population
 
 Atopic dermatitis
@@ -149,7 +150,6 @@ In children 6 to 11 years of age with moderate-to-severe asthma, eosinophilia (b
 ≥ 3,000 cells/mcL or deemed by the investigator to be an adverse event) was reported in 6.6 % of the dupilumab groups and 0.7% in the placebo group.
 Most eosinophilia cases were mild to moderate and not associated with clinical symptoms.
 These cases were transient, decreased over time, and did not lead to dupilumab treatment discontinuation.
-
 The long-term safety of dupilumab was assessed in an open-label extension study (EXCURSION) in children 6 to 11 years of age with moderate-to-severe asthma who previously participated in VOYAGE.
 Among 365 patients who entered EXCURSION, 350 completed 52 weeks of treatment and 228 patients completed a cumulative treatment duration of 104 weeks (VOYAGE and EXCURSION).
 The long-term safety profile of dupilumab in EXCURSION was consistent with the safety profile observed in the pivotal asthma study (VOYAGE) for 52 weeks of treatment.
@@ -172,6 +172,10 @@ Adolescents (12 to 17 years of age)
 
 The safety of dupilumab was assessed in 12 adolescents aged 12 to 17 years with CSU enrolled in CUPID (Study A, B, and C). An adverse event was reported in one adolescent treated with dupilumab.
 
+Children (2 to 11 years of age)
+
+The safety of dupilumab was assessed in 18 children aged 2 to 11 years with CSU enrolled in PKM16982 and CUPID (Study A and C). These data were generally consistent with the safety profile observed in CSU patients treated with dupilumab.
+
 Long-term safety
 
 Atopic dermatitis
@@ -182,11 +186,11 @@ The long-term safety profile of dupilumab observed in children and adolescents w
 
 In a phase 3, multicentre, open label extension (OLE) study (AD-1225), the long-term safety of repeat doses of dupilumab was assessed in 2,677 adults with moderate-to-severe AD exposed to 300 mg weekly dosing (99.7 %), including 179 who completed at least 260 weeks of the study.
 The long-term safety profile observed in this study up to 5 years was generally consistent with the safety profile of dupilumab observed in controlled studies.
-
 Asthma
 The safety profile of dupilumab in the 96 weeks long term safety study (TRAVERSE) was consistent with the safety profile observed in pivotal asthma studies for up to 52 weeks of treatment.
 
 The safety profile of dupilumab in children with asthma 6 to 11 years of age who participated in the 52 weeks long-term safety study (EXCURSION) was consistent with the safety profile observed in the pivotal asthma study (VOYAGE) for 52 weeks of treatment.
+
 CRSwNP
 The safety profile of dupilumab in adults with CRSwNP through week 52 was consistent with the safety profile observed at week 24.
 
@@ -203,13 +207,14 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
 The most common adverse reactions in atopic dermatitis, asthma, and CRSwNP are injection site reactions (includes erythema, oedema, pruritus, pain and swelling), conjunctivitis, conjunctivitis allergic, arthralgia, oral herpes, and eosinophilia.
-Additional adverse reactions of injection site induration, and injection site dermatitis were reported in COPD and CSU.
-
-Listed in Table 7 are adverse reactions observed in clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); not known (cannot be estimated from the available data).
+An additional adverse reaction of injection site bruising or haematoma was reported in EoE, COPD and CSU.
+Additional adverse reactions of injection site rash were reported in COPD.Rare cases of serum sickness, serum sickness-like reaction, anaphylactic reaction, and ulcerative keratitis have been reported (see section 4.4).
 
 Eczema herpeticum was reported in < 1 % of the dupilumab groups and in < 1 % of the placebo group in the 16-week atopic dermatitis monotherapy adult studies.
 
-Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was observed in < 3 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2 studies; TREET Parts A and B; BOREAS and NOTUS; and CUPID Study A, B, and C).
+Dupilumab-treated patients had a greater mean initial increase from baseline in eosinophil count compared to patients treated with placebo in the atopic dermatitis, asthma, CRSwNP, COPD, and CSU indications.
+
+Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was observed in < 3 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2 studies; TREET Parts A and B; BOREAS and NOTUS; CUPID Study A, B, and C).
 
 In the 52-week SINUS-52 study, serious infections were reported in 1.3% of patients treated with dupilumab and 1.3 % of patients treated with placebo.
 

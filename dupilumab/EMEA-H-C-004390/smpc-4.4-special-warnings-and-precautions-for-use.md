@@ -39,6 +39,7 @@ Dupilumab may influence the immune response against helminth infections by inhib
 Patients with pre-existing helminth infections should be treated before initiating dupilumab.
 If patients become infected while receiving treatment with dupilumab and do not respond to anti-helminth treatment, treatment with dupilumab should be discontinued until infection resolves.
 Cases of enterobiasis were reported in children 6 to 11 years old who participated in the paediatric asthma development program (see section 4.8).
+
 Conjunctivitis and keratitis related events
 
 Conjunctivitis and keratitis related events have been reported with dupilumab, predominantly in atopic dermatitis patients.
