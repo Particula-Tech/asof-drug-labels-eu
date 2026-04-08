@@ -24,3 +24,35 @@ In addition, 40/49 patients (81.6%) maintained deep histological remission
 Over a period of up to 3 years (i.e., 96-week open-label treatment with Jorveza, following a 48-week double-blind maintenance treatment with Jorveza) no loss of efficacy was observed.
 
 For information about the observed adverse reactions, see section 4.8.
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+Pharmacotherapeutic group: Antidiarrheals, intestinal anti-inflammatory/anti-infective agents, corticosteroids acting locally, ATC code: A07EA06
+
+In the treatment of EoE with this medicinal product, budesonide inhibits antigen-stimulated secretion of many pro-inflammatory signal molecules such as thymic stromal lymphopoietin, interleukin-13 and eotaxin-3 in the oesophageal epithelium, which results in a significant reduction of the oesophageal eosinophilic inflammatory infiltrate.
+
+Adults 18 years and older
+
+< 16 eosinophils/mm2 high power field in oesophageal biopsies and no or only minimal symptoms of dysphagia or pain during swallowing) in 34 out of 59 patients (57.6%) versus 0/29 patients (0%) in the placebo-group.
+
+Primary endpoint was the rate of patients free of treatment failure with treatment failure defined as clinical relapse (severity of dysphagia or pain during swallowing of ≥ 4 points on a 0 - 10 nummerical rating scale, respectively), and/or histological relapse (peak of ≥ 48 eosinophils/mm2 high power field), and/or food impaction requiring endoscopic intervention, and/or need of an endoscopic dilation, and/or premature withdrawal for any reason.
+
+The double-blind period was followed by an optional 96-week open-label treatment with a recommended dose of 0.5 mg budesonide BID or up to 1 mg budesonide BID orodispersible tablets.
+In addition, 40/49 patients (81.6%) maintained deep histological remission (0 eosinophils/mm2 high power field in all biopsies) from baseline of study BUL-2/EER to the end of treatment of the 96-week open-label period.
+Over a period of up to 3 years (i.e., 96-week open-label treatment with budesonide orodispersible tablets, following a 48-week double-blind maintenance treatment) no loss of efficacy was observed.
+
+Children and adolescents 2 to 17 years of age
+
+A randomised, placebo-controlled, double-blind phase II/III clinical study BUU-5/EEA (PEDEOS-1) was conducted in 76 paediatric patients (2 to 17 years) with active EoE, comparing a 12-week oral treatment of two different daily doses of 0.2 mg/mL budesonide oral suspension versus placebo:
+1) high dose (BOS-H; 2 to 11 years: 0.5 mg budesonide twice daily; 12 to 17 years: 1.0 mg budesonide twice daily); 2) low dose (BOS-L; 2 to 11 years: 0.5 mg budesonide once daily in the morning; 12 to 17 years: 1.0 mg budesonide once daily in the morning); 3) placebo suspension group.
+The primary endpoint was the rate of patients with pathological remission (peak eos < 16 eos/mm2 hpf [i.e. < 5 eos/mm2 hpf]) and clinical response (≥ 30%) decrease in the total score of PEESS v2.0) at week 12.
+Significantly more patients in the BOS-H (69.2%) and BOS-L (46.2%) groups achieved the endpoint versus placebo (0.0%) (FAS-DB, p < 0.0001).
+BOS-H induced histological remission in nearly all treated patients (88.5%) compared to BOS-L (61.5%) and to placebo (0%), independent of the localisation, extent, or severity of the oesophageal inflammation, as well as in both age subgroups.
+There was no signficant or clinically relevant difference in clinical response at week 12 (key secondary end-point).
+This is primarily explained by a high placebo response; however, the finding indicates that a reduction in symptoms may not reliably predict histological response.
+
+The double-blind phase was followed by an optional 12-week open-label induction phase with BOS-H for patients not appropriately responding to BOS-H, BOS-L, or placebo during the double-blind phase.
+Following these additional 12 weeks of BOS-H induction treatment, 45 of 52 patients (86.5%) were brought into pathological remission associated with clinical response.
+Patients responding to induction therapy could receive an additional 24-week open-label therapy with BOS-L, with the option of escalation to BOS-H.
+In this phase, BOS was highly effective in maintaining and even further strengthening the clinical remission achieved during induction therapy.
+No results on histological remission are available as no endoscopies were conducted during the extension phase.

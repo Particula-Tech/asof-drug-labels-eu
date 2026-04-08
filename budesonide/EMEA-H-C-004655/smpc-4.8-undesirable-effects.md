@@ -66,3 +66,34 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+Children and adolescents 2 to 17 years of age
+
+In the paediatric clinical study PEDEOS 1 (BUU-5/EEA) with budesonide 0.2 mg/mL oral suspension, local fungal infection (candidiasis, clinically manifested or confirmed by histology) occurred in 8.0% of patients across all budesonide dosage groups, with no dose effect.
+All cases were non-serious, generally of mild intensity, did not generally interfere with normal daily activities, and did not impact the treatment effect.
+
+Adults 18 years and older
+
+Fungal infections in the mouth, pharynx and the oesophagus were the most frequently observed adverse reactions in clinical studies with Jorveza 0.5 mg and 1 mg orodispersible tablets.
+In the clinical studies BUL-1/EEA and BUL-2/EER, a total of 44 out of 268 adult patients (16.4%) exposed to the orodispersible tablets experienced cases of suspected fungal infections associated with clinical symptoms, which were all of mild or moderate intensity.
+Long-term treatment with budesonide orodispersible tablets of up to 3 years (48-weeks in the BUL-2/EER followed by 96-week open-label treatment) did not increase the rate of side effects including local candidiasis.
+
+Adverse reactions observed in clinical studies with budesonide 0.5 mg and 1 mg orodispersible tablets and 0.2 mg/mL oral suspension are listed in the table below, by MedDRA system organ class and frequency.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000) or not known (cannot be estimated from the available data).
+
+| MedDRA system organ class | Very common | Common | Uncommon |
+| --- | --- | --- | --- |
+| Infections and infestations | Esophageal candidiasis, oral and/or oropharyngeal candidiasis |  | Nasopharyngitis, pharyngitis |
+| Immune system disorders |  |  | Angioedema |
+| Psychiatric disorders |  | Sleep disorder | Anxiety, agitation |
+| Nervous system disorders |  | Headache, dysgeusia | Dizziness |
+| Eye disorders |  | Dry eyes |  |
+| Vascular disorders |  |  | Hypertension |
+| Respiratory, thoracic and mediastinal disorders |  |  | Cough, dry throat, oropharyngeal pain |
+| Gastrointestinal disorders |  | Gastroesophageal reflux disease, nausea, oral paraesthesia, dyspepsia, upper abdominal pain, dry mouth, glossodynia | Abdominal pain, abdominal distension, dysphagia, erosive gastritis, gastric ulcer, lip edema, gingival pain |
+
+tongue disorder, oral
+
+The following known adverse reactions of the therapeutic class (corticosteroids, budesonide) could also occur with this medicinal product (frequency = not known).

@@ -18,3 +18,10 @@ Fertility
 
 There are no data on the effect of budesonide on human fertility.
 Fertility was unaffected following budesonide treatment in animal studies (see section 5.3).
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+Administration during pregnancy should be avoided unless there are compelling reasons for therapy with budesonide.
+
+However, only minor effects on the breast-fed child are anticipated after oral use of budesonide within the therapeutic range.
+A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from budesonide therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.

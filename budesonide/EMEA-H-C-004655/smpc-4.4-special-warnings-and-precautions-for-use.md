@@ -52,3 +52,43 @@ Because adrenal function may be suppressed by treatment with budesonide, an ACTH
 Sodium content
 
 Jorveza 0.5 mg and 1 mg orodispersible tablets contain 52 mg of sodium per daily dose, equivalent to 2.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+In clinical studies conducted with budesonide orodispersible tablets and oral suspension, the observation of oral, oropharyngeal and oesophageal candida infections has been very common.
+However, in a clinical study conducted with budesonide oral suspension the frequency was slightly lower (see section 4.8).
+
+If indicated, symptomatic candidiasis of the mouth and throat can be treated with topical or systemic antifungal therapy whilst still continuing treatment with budesonide oral suspension.
+
+Systemic effects of glucocorticosteroids and concomitant diseases
+
+Patients with infections, hypertension, diabetes mellitus, osteoporosis, peptic ulcer, glaucoma, cataract, family history of diabetes or family history of glaucoma may be at higher risk of experiencing systemic glucocorticosteroid adverse reactions (see below and section 4.8) and should therefore be monitored for the occurrence of such effects.
+
+Angioedema has been reported with the use of budesonide orodispersible tablets, mostly as part of allergic reactions which included rash and itching.
+
+Growth and monitoring
+
+It is recommended that the height of children receiving prolonged treatment with budesonide is regularly monitored.
+If growth is slowed, the benefits of corticosteroid treatment and the potential risks of growth impairment should be considered carefully.
+If it is decided to continue budesonide treatment, the dose should be reduced to the lowest dose at which effective control of the disease is maintained.
+
+Effects on the hypothalamic–pituitary–adrenal (HPA) axis
+
+Glucocorticosteroids may cause suppression of the HPA axis and reduce the stress response.
+
+CYP3A4 inhibitors
+
+Interference with ACTH stimulation test
+
+Information about excipients
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per mL of oral suspension, that is to say essentially ‘sodium-free’.
+
+Sodium benzoate
+This medicinal product contains 0.86 mg sodium benzoate in each mL of oral suspension.
+
+Sucrose
+This medicinal product contains 100 mg sucrose in each mL of oral suspension.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
+Sucrose may be harmful to the teeth.

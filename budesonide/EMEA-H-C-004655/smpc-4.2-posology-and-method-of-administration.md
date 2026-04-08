@@ -30,8 +30,9 @@ However, no systematic study investigating different levels of hepatic impairmen
 Patients with hepatic impairment should not be treated (see sections 4.4 and 5.2).
 
 Paediatric population
-The safety and efficacy of Jorveza in children and adolescents under the age of 18 years have not been established.
+The safety and efficacy of Jorveza orodispersible tablets in children and adolescents under the age of 18 years have not been established.
 No data are available.
+Jorveza 0.2 mg/mL oral suspension is available for paediatric EoE patients.
 
 Method of administration
 
@@ -51,3 +52,51 @@ Any oral solutions, sprays or chewable tablets should be used at least 30 minute
 
 The orodispersible tablet should not be chewed or swallowed undissolved.
 These measures ensure optimal exposure of the esophageal mucosa to the active substance by using the adhesive characteristics of mucins in the saliva.
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+Adult EoE patients may be treated with budesonide orodispersible tablets.
+
+Children 2 to 11 years of age
+The recommended daily dose is 1 mg budesonide to be administered as two separate doses per day: one dose of 2.5 mL suspension (corresponding to 0.5 mg budesonide) in the morning and one dose of 2.5 mL suspension (corresponding to 0.5 mg budesonide) in the evening.
+
+Adolescents 12 to 17 years of age
+The recommended daily dose is 2 mg budesonide to be administered as two separate doses per day: one dose of 5 mL suspension (corresponding to 1 mg budesonide) in the morning and one dose of 5 mL suspension (corresponding to 1 mg budesonide) in the evening.
+
+The usual duration of induction treatment is 12 weeks.
+For patients who are not appropriately responding within 12 weeks, the treatment can be extended to up to 24 weeks.
+Patients with long-standing or extensive disease and higher levels of disease activity have an increased likelihood of requiring an extended induction phase.
+
+The recommended daily dose is 0.5 mg budesonide to be administered as one dose of 2.5 mL suspension (corresponding to 0.5 mg budesonide) in the morning, depending on the individual clinical requirement of the patient.
+
+A maintenance dose of 0.5 mg budesonide twice daily is recommended for patients with a long-standing disease history and/or high extent of oesophageal inflammation in their acute disease state, see also section 5.1.
+
+The recommended daily dose is 1 mg budesonide to be administered as one dose of 5 mL suspension (corresponding to 1 mg budesonide) in the morning, depending on the individual clinical requirement of the patient.
+
+A maintenance dose of 1 mg budesonide twice daily is recommended for patients with a long-standing disease history and/or high extent of oesophageal inflammation in their acute disease state, see also section 5.1.
+
+Tapering of the dose is required after prolonged treatment.
+It is recommended to perform control endoscopies if symptoms persist or return.
+In addition, follow-up endoscopies are recommended in line with current clinical guidelines as symptoms may not reliably predict histological disease activity.
+
+There are currently no data available from adult or paediatric patients with renal impairment.
+
+Patients with hepatic impairment should not be treated (see section 5.2).
+
+The oral suspension should be taken after a meal.
+
+Only use the oral syringe provided as a measuring device to dose the oral suspension.
+Do not use any other measuring device.
+
+The suspension must be shaken well before use.
+To open the bottle, the cap must be pushed down firmly whilst turning it anti-clockwise.
+The oral syringe must be inserted tightly into the bottle, while the plunger of the oral syringe must be completely pushed down.
+The bottle must be turned upside-down and the oral syringe held firmly whilst gently filling up the syringe to the required level.
+When finished, the bottle must be turned upright and the oral syringe gently removed by screwing it off the bottle.
+Immediately afterwards, the tip of the syringe must be placed in the patient’s mouth and the plunger pressed all the way down.
+The patient should then completely swallow the suspension contained in the oral syringe.
+The cap must be screwed back onto the bottle.
+After each administration, the plunger must be removed from the barrel and both parts rinsed with cold water and allowed to air dry.
+The plunger must be inserted into the barrel before next use.
+
+Drinking, eating or performing oral hygiene (e.g. brushing teeth and rinsing) should be avoided for at least 30 minutes after taking the oral suspension.

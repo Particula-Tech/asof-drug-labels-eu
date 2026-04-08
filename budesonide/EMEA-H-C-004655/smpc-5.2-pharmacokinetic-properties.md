@@ -37,3 +37,31 @@ Hepatic impairment
 A relevant proportion of budesonide is metabolised in the liver by CYP3A4.
 The systemic exposure of budesonide is considerably increased in patients with severely impaired hepatic function.
 No studies have been conducted with Jorveza in patients with impaired liver function.
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+Following administration of Jorveza 0.2 mg/mL oral suspension, budesonide is rapidly absorbed.
+Pharmacokinetic data after administration of a single dose of 1 mg budesonide to fasted healthy subjects in two different studies show a median lag time of 0.00 - 0.08 hours (range 0.00 - 0.17 hours) and a median time to peak plasma concentration of 0.7 - 1.00 hours (range 0.33 – 1.75 hours).
+The mean peak plasma concentration (Cmax) was 0.39 - 0.41 ng/mL (range 0.09 – 0.90 ng/mL) and the area under the plasma-concentration-time curve (AUC0-∞) was 1.47 - 1.49 hr*ng/mL (range
+0.53 – 3.85 hr*ng/mL).
+
+After administration of the oral suspension under fed conditions the Cmax of budesonide decreased by 36% - 41% while Tmax increased by 0.90 - 1.25 h when compared to the administration under fasting conditions.
+No effect of food intake was noted on AUC0-∞.
+
+Following twice daily administration of 5 ml oral suspension over 7 days, budesonide showed an accumulation of approximately 15% for the extent of exposure (AUC0-24,ss), in comparison with the single dose.
+
+In paediatric EoE patients (2 to 17 years) the bioavailability of budesonide from the oral suspension was shown to be approximately 60% lower than in adult healthy volunteers.
+Paediatric patients 2 to 5 years of age showed slightly higher median exposure parameters (AUC and Cmax) than the older age groups while the range of exposures in younger children was fully within the range of exposures simulated for other age groups.
+
+In contrast, adult EoE patients treated with budesonide orodispersible tablets showed a 35% increase in peak plasma concentrations and a 60% increase in AUC0-12 compared to adult healthy subjects.
+
+The apparent volume of distribution following oral administration of 1 mg budesonide to healthy adult subjects was 35.52 ± 14.94 L/kg and 42.46 ± 23.90 L/kg following administration of 4 mg budesonide to adult patients with EoE (PK data for budesonide orodispersible tablets).
+
+Metabolism of budesonide is decreased in adult EoE patients compared to healthy subjects resulting in increased plasma concentrations of budesonide.
+
+The median elimination half-life in healthy subjects is 4.05 - 4.50 hours (range 2.38 - 5.47 hours).
+
+Renal impairment
+
+The effect of renal impairment on budesonide PK was not evaluated in a dedicated clinical study.
+Therefore budesonide is not recommended for use in patients with severe renal impairment.

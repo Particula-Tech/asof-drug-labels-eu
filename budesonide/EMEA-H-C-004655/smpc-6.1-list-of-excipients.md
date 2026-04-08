@@ -11,3 +11,13 @@ Anhydrous monosodium citrate
 Povidone (K25)
 Sodium hydrogen carbonate
 Sucralose
+
+[Jorveza 0.2 mg/mL oral suspension]
+
+Sucrose
+Water, purified
+Sodium benzoate (E 211)
+Disodium edetate
+Citric acid
+Methylcellulose [1500 mPa s]
+Blackcurrant flavour
