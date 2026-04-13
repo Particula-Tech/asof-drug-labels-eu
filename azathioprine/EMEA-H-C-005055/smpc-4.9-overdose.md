@@ -7,9 +7,8 @@ The main symptoms of myelosuppression are mouth and throat ulceration, bruising,
 Furthermore, spontaneous bleeding and extreme fatigue may occur.
 These symptoms are more likely to present following prolonged mild overdose, rather than after a single acute overdose.
 A case of a patient who ingested a single dose of 7.5 g azathioprine has been reported.
-Acute symptoms included nausea, vomiting and diarrhoea, followed by moderate leucopenia and mild impairment of the liver function.
+Acute symptoms included nausea, vomiting and diarrhoea, followed by moderate leukopenia and mild impairment of the liver function.
 Recovery was without sequelae.
-
 Management
 
 Since there is no specific antidote, the blood count should be closely monitored, appropriate symptomatic treatment should be initiated, where necessary, and the appropriate blood transfusions be administered.

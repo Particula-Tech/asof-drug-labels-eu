@@ -33,9 +33,9 @@ At the first sign of an abnormal change in the blood count, treatment should be 
 
 Patients receiving azathioprine must be advised to inform their doctor immediately about any evidence of infection, unexpected bruising or bleeding or other signs of myelosuppression.
 Myelosuppression is reversible if azathioprine is discontinued promptly.
-Thiopurine methyltransferase (TPMT)
+Thiopurine S-methyltransferase (TPMT)
 
-About 10% of patients have decreased activity of the enzyme thiopurine methyltransferase (TPMT) as a result of genetic polymorphism.
+About 10% of patients have decreased activity of the enzyme thiopurine S-methyltransferase (TPMT) as a result of genetic polymorphism.
 Especially in homozygous individuals, the degradation of azathioprine is impaired, so there is a higher risk of myelotoxic effects.
 
 This effect can be enhanced by co-administration with medicinal products which inhibit the enzyme TPMT, e.g. olsalazine, mesalazine and sulfasalazine (see section 4.5).
@@ -44,7 +44,7 @@ Testing for TPMT deficiency is recommended before treatment, in particular for a
 
 Patients with the NUDT15 variant
 
-Patients with inherited mutated NUDT15 gene are at increased risk of severe azathioprine toxicity, such as early leucopenia and alopecia, with conventional doses of thiopurine therapy.
+Patients with inherited mutated nudix hydrolase 15 (NUDT15) gene are at increased risk of severe azathioprine toxicity, such as early leukopenia and alopecia, with conventional doses of thiopurine therapy.
 They generally require dose reduction, particularly those being homozygous carriers of NUDT15 variants (see section 4.2).
 The frequency of NUDT15 c.415C>T has an ethnic variability of approximately 10% in East Asians, 4% in Hispanics, 0.2% in Europeans and 0% in Africans.
 In any case, close monitoring of blood counts is necessary.
@@ -63,9 +63,9 @@ Patients who have no history of exposure should avoid contact with individuals w
 If the patient is exposed to VZV, special care must be taken to prevent patients from developing chickenpox or herpes zoster, and passive immunisation with varicella-zoster immunoglobulin (VZIG) may be considered.
 If the patient is infected with VZV, appropriate measures should be taken, which may include antiviral therapy, discontinuation of treatment with azathioprine and supportive care.
 
-Progressive Multifocal Leucoencephalopathy (PML)
+Progressive Multifocal Leukoencephalopathy (PML)
 
-PML, an opportunistic infection caused by the JC virus, has been reported in patients receiving azathioprine with other immunosuppressive agents (see section 4.8).
+PML, an opportunistic infection caused by the John Cunningham (JC) virus, has been reported in patients receiving azathioprine with other immunosuppressive agents (see section 4.8).
 Immunosuppressive therapy should be withheld at the first signs or symptoms indicating PML and appropriate evaluation should be undertaken to establish a diagnosis.
 
 Mutagenicity
@@ -86,12 +86,12 @@ It has been reported that discontinuation of immunosuppression may provide parti
 A treatment regimen containing multiple immunosuppressants (including thiopurines) should therefore be used with caution as this could lead to lymphoproliferative disorders, some with reported fatalities.
 A combination of multiple immunosuppressants given concomitantly increases the risk of Epstein-Barr virus (EBV)-associated lymphoproliferative disorders.
 
-There are reports of hepatosplenic T-cell lymphoma in IBD patients who use azathioprine concomitantly with anti-TNF medicinal products.
+There are reports of hepatosplenic T-cell lymphoma in IBD patients who use azathioprine concomitantly with anti-TNF medicinal products (see section 4.8).
 
 Patients receiving multiple immunosuppressive agents may be at risk of over-immunosuppression.
 Therefore, such therapy should be maintained at the lowest effective dose level.
 
-The same as for patients with a high risk of developing skin cancers, exposure to sunlight and UV light should be limited and patients should wear protective clothing and use a sunscreen with a high protection factor to minimise the risk of skin cancer and photosensitivity (see also section 4.8).
+The same as for patients with a high risk of developing skin cancers, exposure to sunlight and UV light should be limited and patients should wear protective clothing and use a sunscreen with a high protection factor to minimise the risk of skin cancer and photosensitivity (see section 4.8).
 
 Macrophage activation syndrome
 
@@ -105,7 +105,7 @@ In preclinical studies azathioprine was mutagenic and teratogenic (see section 5
 Since there are conflicting findings on the teratogenic potential of azathioprine in humans, contraceptive measures must be taken by both male and female patients of reproductive age during azathioprine therapy for at least six months after the end of azathioprine therapy.
 This applies also to patients with impaired fertility due to chronic uraemia, since fertility usually returns to normal after transplantation.
 Azathioprine has been reported to interfere with the effectiveness of intrauterine contraceptive devices (coil or T-shaped ‘copper coil’).
-Therefore, it is recommended to use other or additional contraceptive measures (see also section 4.6).
+Therefore, it is recommended to use other or additional contraceptive measures (see section 4.6).
 
 Neuromuscular blocking agents
 
@@ -119,7 +119,7 @@ Therefore, it is recommended that patients are not administered with any live va
 Metabolic and nutritional disorders
 
 The administration of purine analogues (azathioprine and mercaptopurine) may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency/pellagra.
-Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease.
+Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease (see section 4.8).
 The diagnosis of pellagra should be considered in patients with a localised pigmented rash, gastroenteritis, and extensive neurological deficits including cognitive deterioration.
 Appropriate medical care with niacin/nicotinamide supplementation must be initiated, and dose reduction or discontinuation of azathioprine must be considered.
 
@@ -128,21 +128,25 @@ Ribavirin
 Concomitant use of ribavirin and azathioprine is not recommended.
 Ribavirin can reduce the efficacy of azathioprine and increase the toxicity levels of azathioprine (see section 4.5).
 
-Myelosuppressive agents
+Cytostatic/myelosuppressive agents
 
-The dose should be reduced with concomitant use of azathioprine and myelosuppressive agents.
+Where possible, concomitant administration of cytostatic medicinal products, or medicinal products which may have a myelosuppressive effect, such as penicillamine, should be avoided (see section 4.5).
+If combined with glucocorticosteroids, the azathioprine dose should be adjusted according to the clinical response (which may not be evident for weeks or months) and haematological tolerance and the glucocorticosteroid dose should be gradually reduced after several months of treatment (see section 4.2).
 
 Posterior reversible encephalopathy syndrome (PRES)
 
-Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients using azathioprine.
+Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients using azathioprine (see section 4.8).
 If patients using azathioprine present with symptoms indicating PRES such as headache, altered mental status, seizures, hypertension, and visual disturbances, a diagnostic imaging should be performed.
 If PRES is diagnosed, adequate blood pressure and seizure control and immediate discontinuation of azathioprine is advised.
 Most cases reported resolved following discontinuation of azathioprine and appropriate treatment.
 
-Excipients
+Excipients with known effect
 
 Sodium benzoate
-This medicinal product contains 1.5 mg sodium benzoate in each 1 ml which is equivalent to 300 mg/ 200 ml.
+
+This medicinal product contains 1.5 mg sodium benzoate in each 1 ml which is equivalent to 300 mg/200 ml.
+Sodium benzoate may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
 
 Sodium
-This medicinal product contains less than 1 mmol (23mg) sodium per dose, that is to say essentially 'sodium-free'.
+
+This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free'.

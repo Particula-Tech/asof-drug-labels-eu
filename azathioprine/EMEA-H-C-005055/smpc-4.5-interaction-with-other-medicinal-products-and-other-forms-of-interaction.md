@@ -21,8 +21,8 @@ Cytostatic/myelosuppressive agents
 
 Where possible, concomitant administration of cytostatic medicinal products, or medicinal products which may have a myelosuppressive effect, such as penicillamine, should be avoided (see section 4.4).
 There are conflicting clinical reports of interactions, resulting in serious haematological abnormalities, between azathioprine and trimethoprim/sulfamethoxazole.
-There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine and ACE Inhibitors.
-It has been suggested that cimetidine and indometacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
+There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine and angiotensin-converting enzyme (ACE) inhibitors.
+It has been suggested that cimetidine and indomethacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
 
 Allopurinol/oxipurinol/thiopurinol and other xanthine oxidase inhibitors
 
@@ -36,7 +36,6 @@ Aminosalicylate derivatives
 
 There is in vitro and in vivo evidence that aminosalicylate derivatives (e.g. olsalazine, mesalazine and sulfasalazine) inhibit the TPMT enzyme.
 Therefore, lower doses of azathioprine should be considered when administered concomitantly with aminosalicylate derivatives (see also section 4.4).
-
 Methotrexate
 
 20 mg/m2 oral methotrexate increased the AUC of 6-mercaptopurine by approximately 31% and 2 or 5 g/m2 intravenous methotrexate increased the AUC of 6-mercaptopurine by 69% and 93% respectively.
@@ -46,6 +45,7 @@ Infliximab
 
 An interaction has been observed between azathioprine and infliximab.
 Patients receiving ongoing azathioprine experienced transient increases in thioguanine nucleotide levels (an active metabolite of azathioprine) and a decrease in the mean leukocyte count in the initial weeks following infliximab infusion, which returned to previous levels after 3 months.
+
 Effects of azathioprine on concomitantly administered medicinal products
 
 Anticoagulants

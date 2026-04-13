@@ -6,14 +6,16 @@ Azathioprine is incompletely and variably absorbed.
 The mean absolute bioavailability of 6-MP after administration of azathioprine 50 mg is 47% (range: 27-80%).
 The extent of absorption of azathioprine is similar throughout the gastrointestinal tract, including the stomach, jejunum and caecum.
 The extent of 6-MP absorption after application of azathioprine however, varies depending on where the absorption occurs, with the highest level in the jejunum, followed by the stomach and caecum.
-
 In a comparative bioavailability study in healthy adult volunteers (n=29), 50 mg of azathioprine oral suspension was demonstrated to be bioequivalent to the reference 50 mg tablet for AUC, but not Cmax.
-The mean (90% CI) Cmax with the oral suspension was 12% (93% - 135%) higher than the tablet although the range of Cmax observations was more or less the same for the oral suspension and tablet; 5.7 – 40.0 and 4.4 – 39.5 ng/ml, respectively.
+The mean (90% CI) Cmax with the oral suspension was 12% (93-135%) higher than the tablet although the range of Cmax observations was more or less the same for the oral suspension and tablet;
+5.7-40.0 and 4.4-39.5 ng/ml, respectively.
 
 Although interactions with food were not studied, pharmacokinetic studies with 6-mercaptopurine have been conducted that are relevant to azathioprine.
 The mean relative bioavailability of 6-mercaptopurine was approximately 26% lower after administration with food and milk compared to after fasting.
 6-mercaptopurine is not stable in milk due to the presence of xanthine oxidase (30% degradation within 30 minutes) (see “Biotransformation”).
 Azathioprine should be taken at least 1 hour before or 2 hours after a meal or milk (see section 4.2).
+
+Pharmacokinetic/pharmacodynamic relationship
 
 There is no correlation between the plasma concentrations of azathioprine and 6-mercaptopurine and the therapeutic efficacy or toxicity of azathioprine.
 
@@ -25,7 +27,8 @@ The mean (± SD) apparent Vdss of 6-MP is 0.9 (± 0.8) l/kg, although this value
 Approximately 30% of azathioprine is bound to plasma proteins.
 
 Azathioprine and its metabolites pass through the central nervous system.
-6-MP concentration in the cerebrospinal fluid are low or negligible after intravenous or oral use.
+6-MP concentrations in the cerebrospinal fluid are low or negligible after intravenous or oral use.
+
 Biotransformation
 
 Azathioprine is rapidly metabolised in vivo by glutathione S-transferase into the metabolites 6-MP and 1-methyl-4-nitro-5-thioimidazole.
@@ -67,6 +70,11 @@ Special populations
 Elderly patients
 
 No specific studies have been carried out in the elderly (see section 4.2).
+
+Paediatric population
+
+No specific studies have been carried out with azathioprine in the general paediatric population (see section 4.2).
+
 Overweight children
 
 In a clinical trial in the United States, 18 children between the ages of 3 and 14 were evenly split into two groups; the crucial factor was whether the ratio of weight to height was greater or less than the 75th percentile.
@@ -86,7 +94,6 @@ Hepatic impairment
 In case of hepatic impairment, the metabolism of azathioprine is altered.
 Conversion into the active metabolites is restricted.
 However, the elimination of metabolites is reduced (see sections 4.2 and 4.4).
-
 An azathioprine study was carried out on a group of kidney transplant patients.
 They were split into three groups: patients with no liver disease, patients with hepatic dysfunction (but with no cirrhosis) and patients with hepatic dysfunction and cirrhosis.
 The study showed that the 6-mercaptopurine level was 1.6 times higher in patients with hepatic dysfunction (but with no cirrhosis) and 6 times higher in patients with hepatic dysfunction and cirrhosis, compared with patients with no liver disease.
