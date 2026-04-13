@@ -24,6 +24,8 @@ Common: Thrombocytopenia (< 80 x 109/L), anaemia (haemoglobin
 Nervous system disorders:
 Common: Headache
 Uncommon: Dizziness
+Eye disorders:
+Not known: Limbal stem cell deficiency
 Vascular disorders:
 Not known: Bleeding
 Gastrointestinal disorders:

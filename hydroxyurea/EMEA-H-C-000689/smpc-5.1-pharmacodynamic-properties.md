@@ -32,12 +32,12 @@ In NOHARM trial (Opoka 2017) children of mean age of 2.2 years old (from 1 to 3.
 Treatment was administered once daily at 20 ± 2.5 mg/kg for 12 months.
 A composite SCD-related clinical outcome (vaso-occlusive painful crisis, dactylitis, acute chest syndrome, splenic sequestration, or blood transfusion) was less frequent with hydroxyurea (45%) than placebo (69%, p=0.001).
 Regarding the risk of increased infection in children with drug-induced neutropenia, it was rare in NOHARM and did not differ on hydroxyurea versus placebo treatment.
-
 At the end of the NOHARM trial, children were enrolled in the NOHARM extension trial (John 2020), and randomly assigned in a 1:1 ratio either to receive hydroxycarbamide at a fixed standard dose (mean [±SD], 20±5 mg per kilogram per day) or to escalate hydroxycarbamide to the maximum tolerated dose.
 187 children were randomized: 94 (age 4.6 ± 1.0) in the fixed dose group (19.2±1.8 mg /kg/d) and 93 (age 4.8 ± 0.9) in the dose escalation group (29.5±3.6 mg/kg/d).
 After 18 months, an increase in Hb level (+0.3 g/dL) and % HbF (+8%) was found in the escalation group.
 Clinical adverse events of any grade were more frequent in the fixed-dose group, including all sickle cell–related events (245 vs 105) and specific events: vaso-occlusive pain crisis (200 vs 86) and acute chest syndrome or pneumonia (30 vs 8).
 The number of key medical interventions were also fewer in the dose-escalation group than in the fixed-dose group, both for transfusions (34 vs. 116) and hospitalizations (19 vs. 90).
+
 In infants with SS/Sb0 aged 9–23 months, a decrease of episodes of pain (-52%, 177 events vs 375), dactylitis (- 80%, 24 vs 123), acute chest syndrome (8 vs 27) and hospitalizations (- 28%, 232 vs 324) has been reported with hydroxycarbamide (n=96) compared to placebo (n=97) respectively in the randomized controlled trial Baby Hug.
 In 25 patients treated for 1 year in the uncontrolled ESCORT HU over 1 year, compared to 1 year prior to enrolment (n=25), reduction of vaso-occlusive crises: - 42% and hospitalizations: -55%.
 The benefit risk ratio and long-term safety remain to be established in this population.

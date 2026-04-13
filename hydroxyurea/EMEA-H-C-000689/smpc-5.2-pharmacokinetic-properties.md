@@ -17,7 +17,6 @@ Urea is one metabolite of hydroxycarbamide.
 Hydroxycarbamide at 30, 100 and 300 µM is not metabolised in vitro by cytochrome P450s of human liver microsomes.
 At concentrations ranging from 10 to 300 µM, hydroxycarbamide does not stimulate the in vitro ATPase activity of recombinant human P glycoprotein (PGP), indicating that hydroxycarbamide is not a PGP substrate.
 Hence, no interaction is to be expected in case of concomitant administration with substances being substrates of cytochromes P450 or P-glycoprotein.
-
 Elimination
 In a repeated dose study in adult patients with sickle cell syndrome approximately 60% of the hydroxycarbamide dose was detected in urine at steady state.
 In adults, the total clearance adjusted for bioavailability was 9.89 L/h (0.16 L/h/kg) thereof 5.64 and 4.25 L/h by renal and non-renal clearance, respectively.

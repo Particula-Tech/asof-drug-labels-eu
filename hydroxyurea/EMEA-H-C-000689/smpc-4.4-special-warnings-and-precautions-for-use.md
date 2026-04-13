@@ -24,6 +24,12 @@ These vasculitic toxicities were reported most often in patients with a history 
 Due to potentially severe clinical outcomes for the cutaneous vasculitic ulcers reported in patients with myeloproliferative disease, hydroxycarbamide should be discontinued and/or its dose reduced if cutaneous vasculitic ulcerations develop.
 Rarely, ulcers are caused by leukocytoclastic vasculitis.
 
+Limbal stem cell deficiency
+Cases of limbal stem cell deficiency have been reported during treatment with hydroxycarbamide.
+In some cases, limbal stem cell deficiency improved after treatment discontinuation.
+Patients presenting with relevant signs and symptoms (reduced/impaired vision, photophobia, redness, and pain) should be referred to an ophthalmologist.
+If limbal stem cell deficiency is confirmed, discontinuation of the treatment should be considered.
+
 Macrocytosis
 Hydroxycarbamide causes macrocytosis, which may mask the incidental development of folic acid and vitamin B12 deficiency.
 Prophylactic administration of folic acid is recommended.
