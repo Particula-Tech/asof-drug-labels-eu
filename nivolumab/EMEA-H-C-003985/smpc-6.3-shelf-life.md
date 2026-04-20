@@ -3,7 +3,6 @@
 Unopened vial
 
 3 years
-
 After preparation of infusion
 
 Chemical and physical in-use stability from the time of preparation has been demonstrated as follows (times are inclusive of the administration period):
@@ -18,7 +17,7 @@ From a microbiological point of view the prepared solution for infusion, regardl
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 7 days at 2°C to 8°C or 8 hours (of the total 7 days of storage) at room temperature (≤ 25°C).
 Aseptic handling should be ensured during the preparation of infusion (see section 6.6).
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Storage in syringe
 

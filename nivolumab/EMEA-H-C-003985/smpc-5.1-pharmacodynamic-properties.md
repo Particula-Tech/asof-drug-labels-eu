@@ -1487,6 +1487,8 @@ HR of 1.02 (95% CI: 0.70, 1.48) in OS was observed for nivolumab in combination 
 A higher rate of serious adverse reactions and discontinuation rate due to adverse reactions in patients 75 years of age or older relative to all patients who received nivolumab in combination with ipilimumab was shown (see section 4.8).
 However, due to the exploratory nature of this subgroup analysis, no definitive conclusions can be drawn.
 
+Renal cell carcinoma (RCC)
+
 Randomised phase 3 study of nivolumab in combination with ipilimumab vs. sunitinib (CA209214)
 The safety and efficacy of nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg for the treatment of advanced/metastatic RCC was evaluated in a phase 3, randomised, open-label study (CA209214).
 The study included patients (18 years or older) with previously untreated, advanced or metastatic renal cell carcinoma with a clear-cell component.
@@ -3082,7 +3084,7 @@ Data from SCCHN, adjuvant melanoma, and adjuvant OC or GEJC patients 75 years of
 Data from cHL patients 65 years of age or older are too limited to draw conclusions on this population.
 Data from MPM patients showed a higher rate of serious adverse reactions and discontinuation rate due to adverse reactions in patients 75 years of age or older (68% and 35%, respectively) relative to all patients who received nivolumab in combination with ipilimumab (54% and 28%, respectively).
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 OPDIVO solution for injection contains the active substance nivolumab, which provides the therapeutic effect of this medicinal product, and recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-formulated substances when administered subcutaneously.
 
@@ -3094,15 +3096,14 @@ The subcutaneous nivolumab clinical safety profile was comparable to intravenous
 
 Intravenous formulation
 
-Table 14 and Figure 1.
-
-Table 14: Efficacy results (CA20976K)
+Table 15 and Figure 1.
+Table 15: Efficacy results (CA20976K)
 
 At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p < 0.0001) was demonstrated.
 At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p < 0.0001) and OS was not mature.
-Table 15 and Figures 2 and 3 (all randomised population).
+Table 16 and Figures 2 and 3 (all randomised population).
 
-Table 15: Efficacy results (CA209238)
+Table 16: Efficacy results (CA209238)
 
 - - -•- - - Nivolumab ---•---- Ipilimumab
 
@@ -3112,18 +3113,18 @@ A total of 418 patients were randomised to receive either nivolumab (n = 210) ad
 
 ----•---- Nivolumab (events: 50/210), median and 95% CI: N.A.
 
-Efficacy results are shown in Table 16.
+Efficacy results are shown in Table 17.
 
-Table 16: Efficacy results (CA209066)
+Table 17: Efficacy results (CA209066)
 
-Efficacy results are presented in Table 17.
+Efficacy results are presented in Table 18.
 
-Table 17: Best overall response, time and duration of response (CA209037)
+Table 18: Best overall response, time and duration of response (CA209037)
 
 Of the 1 008 treated patients, 103 (10%) had ocular/uveal melanoma, 66 (7%) had an ECOG performance score of 2, 165 (16%) had asymptomatic treated and untreated CNS metastases,
-Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 18 below.
+Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 19 below.
 
-Table 18: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
+Table 19: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
 
 Thirty-two percent of patients had BRAF mutation-positive melanoma; 26.5% of patients had PD-L1 ≥ 5% tumour cell membrane expression.
 
@@ -3140,41 +3141,42 @@ OS rate and 95% CI at 12 months: 74% (69, 79), 24 months: 59% (53, 64), 36 month
 
 ----•---- Nivolumab (events: 76/117), median and 95% CI: 23.46 months (13.01, 36.53)
 
-Responses are summarised in Table 19.
+Responses are summarised in Table 20.
 
-Table 19: Objective response (CA209067) nivolumab +
+Table 20: Objective response (CA209067) nivolumab +
 
 ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 19) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
 
-EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 20 and Figure 11.
+The key efficacy results for the subgroup of patients with tumour PD-L1 expression ≥ 1% and disease stage II-IIIA from an exploratory analysis with a minimum follow-up of 32.9 months are summarized in Table 21.
 
-Table 20: Efficacy results in patients with tumour PD-L1 ≥ 1% (CA20977T)
+Table 21: Efficacy results in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease* (CA209816)
 
-Figure 11: Kaplan-Meier curves of EFS in patients with tumour PD-L1 ≥ 1% (CA20977T)
+- - -•- - - Chemotherapy (events: 38/86), median and 95% CI: 73.72 47.34, NR)
 
-The Kaplan-Meier curves for OS for the subgroup of patients with tumour PD-L1 expression ≥ 1% are shown in Figure 12.
-Figure 12: Kaplan-Meier curves of OS in patients with tumour PD-L1 ≥ 1% (CA20977T)
+EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 22 and Figure 13.
 
-The Kaplan-Meier curves for OS are shown in Figure 13.
+Table 22: Efficacy results in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
-Figure 13: Kaplan-Meier curves of OS (CA209017)
+The Kaplan-Meier curves for OS are shown in Figure 15.
+
+Figure 15: Kaplan-Meier curves of OS (CA209017)
 
 ----•---- Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27)
 
-Efficacy results are shown in Table 21.
-Table 21: Efficacy results (CA209017)
+Table 23: Efficacy results (CA209017)
 
 Nivolumab 3 mg/kg showed an ORR of 14.5% (95% CI: 8.7,22.2%), a median OS of 8.21 months (95% CI: 6.05,10.9), and a median PFS of 1.87 months (95% CI 1.77,3.15).
 
-Efficacy results based on investigator-assessed ORR are presented in Table 22 below.
-Table 22: ORR based on response evaluable patients – total and by subgroup (CA209171)
+Efficacy results based on investigator-assessed ORR are presented in Table 24 below.
+Table 24: ORR based on response evaluable patients – total and by subgroup (CA209171)
 
-The Kaplan-Meier curves for OS are shown in Figure 14.
-Figure 14: Kaplan-Meier curves of OS (CA209057)
+Figure 16: Kaplan-Meier curves of OS (CA209057)
 
 ----•---- Nivolumab 3 mg/kg (events: 190/292), median and 95% CI: 12.19 (9.66, 14.98)
 
-Table 23: Efficacy results (CA209057)
+Efficacy results are shown in Table 25.
+
+Table 25: Efficacy results (CA209057)
 
 |  |  |
 | --- | --- |
@@ -3184,23 +3186,21 @@ Table 23: Efficacy results (CA209057)
 |  | Minim |
 | Overall survivald Events Hazard ratioa |  |
 
-Table 24 summarises results of ORR and OS by tumour PD-L1 expression.
+Table 26 summarises results of ORR and OS by tumour PD-L1 expression.
 
-Table 24: ORR and OS by tumour PD-L1 expression (CA209057)
+Table 26: ORR and OS by tumour PD-L1 expression (CA209057)
 
-Renal cell carcinoma (RCC)
+Efficacy results for the intermediate/poor risk patients are shown in Table 27 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 17 (minimum follow-up of 60 months).
 
-Efficacy results for the intermediate/poor risk patients are shown in Table 25 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 15 (minimum follow-up of 60 months).
+Table 27: Efficacy results in intermediate/poor risk patients (CA209214)
 
-Table 25: Efficacy results in intermediate/poor risk patients (CA209214)
-
-Figure 15: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) - Minimum follow-up of 60 months
+Figure 17: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) - Minimum follow-up of 60 months
 
 ----•---- Nivolumab + ipilimumab (events: 242/425), median and 95.0% CI: 46.95 (35.35, 57.43)
 
-Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 26.
+Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 28.
 
-Table 26: Efficacy results (CA2099ER)
+Table 28: Efficacy results (CA2099ER)
 
 Difference in ORR (95% CI)g 28.6 (21.7, 35.6)
 
@@ -3208,12 +3208,12 @@ The primary analysis of PFS included censoring for new anti-cancer treatment (Ta
 
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of the IMDC risk category.
 
-An updated PFS and OS analysis were performed when all patients had a minimum follow-up of 16.0 months and a median follow-up of 23.5 months (see Figures 16 and 17).
+An updated PFS and OS analysis were performed when all patients had a minimum follow-up of 16.0 months and a median follow-up of 23.5 months (see Figures 18 and 19).
 
-Figure 16: Kaplan-Meier curves of PFS (CA2099ER)
+Figure 18: Kaplan-Meier curves of PFS (CA2099ER)
 
 ----•---- Nivolumab + cabozantinib (events: 175/323), median and 95.0% CI: 16.95 (12.58, 19.38)
-Figure 17: Kaplan-Meier curves of OS (CA2099ER)
+Figure 19: Kaplan-Meier curves of OS (CA2099ER)
 
 ----•---- Nivolumab + cabozantinib (events: 86/323), median and 95% CI: NE
 
@@ -3239,9 +3239,9 @@ The study demonstrated noninferiority of nivolumab 1200 mg administered subcutan
 At the primary analysis (minimum follow-up of 8 months) ORR was 24.2% (95% CI: 19.0, 30.0) for subcutaneous nivolumab and 18.2% (95% CI: 13.6, 23.6) for intravenous nivolumab.
 The estimate of objective response risk ratio was 1.33 (95% CI: 0.94, 1.88).
 To declare noninferiority, the lower bound of the two-sided 95% CI of the objective response risk ratio had to be ≥ 0.60.
-Updated efficacy results with a minimum follow-up of 14.9 months (data cut-off 21-Feb-2024) are shown in Table 27.
+Updated efficacy results with a minimum follow-up of 14.9 months (data cut-off 21-Feb-2024) are shown in Table 29.
 
-Table 27: Efficacy results - CA20967T
+Table 29: Efficacy results - CA20967T
 
 |  | Subcutaneous nivolumab | Intravenous nivolumab |
 | --- | --- | --- |
@@ -3258,61 +3258,60 @@ e Median computed using Kaplan-Meier method.
 
 Patients with any history of or concurrent brain metastases, prior treatment with a mammalian target of rapamycin (mTOR) inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
 
-The Kaplan-Meier curves for OS are shown in Figure 18.
+The Kaplan-Meier curves for OS are shown in Figure 20.
 
-Figure 18: Kaplan-Meier curves of OS (CA209025)
+Figure 20: Kaplan-Meier curves of OS (CA209025)
 
 410 389 359 337 305 275 213 139 73 29 3 0
 Everolimus
 
 ----•---- Nivolumab 3 mg/kg (events: 183/410), median and 95% CI: 25.00 (21.75, N.A.)
 
-The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 28 and Figure 18).
+The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 30 and Figure 20).
 
-Efficacy results are shown in Table 28.
-Table 28: Efficacy results (CA209025)
+Efficacy results are shown in Table 30.
+Table 30: Efficacy results (CA209025)
 
-The Kaplan-Meier curves for OS are shown in Figure 19.
-Efficacy results are shown in Table 29.
+The Kaplan-Meier curves for OS are shown in Figure 21.
 
-Figure 19: Kaplan-Meier curves of OS (CA209141)
+Figure 21: Kaplan-Meier curves of OS (CA209141)
 
-Table 29: Efficacy results (CA209141)
+Table 31: Efficacy results (CA209141)
 
-The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 30).
+The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 32).
 
-Table 30: OS by tumour PD-L1 expression (CA209141)
+Table 32: OS by tumour PD-L1 expression (CA209141)
 
-This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator’s choice (see Table 31).
-Table 31: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
+This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator’s choice (see Table 33).
+Table 33: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
 Urothelial carcinoma
 
-Efficacy results from this descriptive updated analysis are shown in Table 32 and Figure 20.
-Table 32: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
+Efficacy results from this descriptive updated analysis are shown in Table 34 and Figure 22.
+Table 34: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
 
-Figure 20: Kaplan-Meier curves of DFS in patients with tumour cell PD-L1 expression ≥ 1% (CA209274)
+Figure 22: Kaplan-Meier curves of DFS in patients with tumour cell PD-L1 expression ≥ 1% (CA209274)
 
 Treatment of advanced urothelial carcinoma
 
-Efficacy results are presented in Table 33 and Figures 21 and 22.
-Table 33: Efficacy Results (CA209901)
+Efficacy results are presented in Table 35 and Figures 23 and 24.
+Table 35: Efficacy Results (CA209901)
 
-Figure 21: Kaplan Meier curves of OS (CA209901)
+Figure 23: Kaplan Meier curves of OS (CA209901)
 
 • Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72 (18,63, 26.38)
 - - -•- - - Gemcitabine-cisplatin chemotherapy (events: 193/304), median and 95% CI: 18.85 (14.72, 22.44)
 
 Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
-Figure 22: Kaplan Meier curves of PFS (CA209901)
+Figure 24: Kaplan Meier curves of PFS (CA209901)
 
 - - -•- - - Gemcitabine-cisplatin chemotherapy (events: 191/304), median and 95% CI: 7.56 (6.05, 7.75)
 
 The primary analysis of PFS included censoring for new anti-cancer treatment before disease progression (Table 33).
 
-Additional efficacy measures included duration of response, PFS and OS (see Table 34).
+Additional efficacy measures included duration of response, PFS and OS (see Table 36).
 
-Table 34: Efficacy results (CA209275)a nivolumab
+Table 36: Efficacy results (CA209275)a nivolumab
 
 The safety and efficacy of nivolumab 240 mg in combination with ipilimumab 1 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks in the first-line treatment of unresectable or metastatic CRC with known tumour MSI-H or dMMR status were evaluated in a randomised, multi-arm, phase 3, open-label study (CA2098HW).
 Patients randomised to the chemotherapy arm could receive nivolumab plus ipilimumab combination upon progression assessed by BICR.
@@ -3322,66 +3321,66 @@ Bevacizumab 5 mg/kg on or cetuximab 500 mg/m2 administered prior to FOLFIRI ever
 Additionally,
 66 patients received a targeted agent, either bevacizumab (64%) or cetuximab (11%).
 
-The BICR-assessed PFS results are presented in Table 35 and Figure 23.
+The BICR-assessed PFS results are presented in Table 37 and Figure 25.
 
-Table 35: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW)a,
+Table 37: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW)a,
 
-Figure 23: Kaplan-Meier curve of PFS in first-line patients with MSI-H/dMMR centrally confirmed CRC (CA2098HW)
+Figure 25: Kaplan-Meier curve of PFS in first-line patients with MSI-H/dMMR centrally confirmed CRC (CA2098HW)
 
-Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 36.
+Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 38.
 
-Table 36: Efficacy results (CA209142)* nivolumab + ipilimumab
+Table 38: Efficacy results (CA209142)* nivolumab + ipilimumab
 
 A total of 970 patients were randomised to receive either nivolumab in combination with ipilimumab, (n = 325), nivolumab in combination with chemotherapy (n = 321) or chemotherapy (n = 324).
 
-Efficacy results are shown in Table 37.
+Efficacy results are shown in Table 39.
 
-Table 37: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Table 39: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
-The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are shown in Figures 24 and 25.
-Figure 24: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are shown in Figures 26 and 27.
+Figure 26: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
-Figure 25: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Figure 27: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PD-L1 expression (≥ 1% vs. <1% or indeterminate).
 
-Efficacy results are shown in Table 38 and Figure 26.
+Efficacy results are shown in Table 40 and Figure 28.
 
-Table 38: Efficacy results (ONO-4538-24/CA209473)
+Table 40: Efficacy results (ONO-4538-24/CA209473)
 
 Objective Response Rated, e 33 (19.3%) 34 (21.5%)
 
 d Based on Response Evaluable Set (RES) analysis, n = 171 in nivolumab group and n = 158 in investigator’s choice group.
-Figure 26: Kaplan-Meier curves of OS (ONO-4538-24/CA209473)
+Figure 28: Kaplan-Meier curves of OS (ONO-4538-24/CA209473)
 
-Efficacy results from this descriptive secondary analysis are shown in Table 39 and Figure 27.
+Efficacy results from this descriptive secondary analysis are shown in Table 41 and Figure 29.
 
-Table 39: Efficacy results (CA209577)
+Table 41: Efficacy results (CA209577)
 
-Figure 27: Kaplan-Meier curves of DFS (CA209577)
+Figure 29: Kaplan-Meier curves of DFS (CA209577)
 
-The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 28.
-Figure 28: Kaplan-Meier curves of OS (CA209577)
+The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 30.
+Figure 30: Kaplan-Meier curves of OS (CA209577)
 
 532 501 460 402 354 325 292 278 261 244 230 185 150 111 59 22 1 0
 
-Efficacy results are shown in Table 40, and Figures 29 and 30.
+Efficacy results are shown in Table 42, and Figures 31 and 32.
 
-Table 40: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
+Table 42: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
 
-Figure 29: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
+Figure 31: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
 
-Figure 30: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649)
+Figure 32: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649)
 
-Efficacy results are presented in Table 41 and Figure 31.
+Efficacy results are presented in Table 43 and Figure 33.
 
-Table 41: Efficacy results in first-line HCC (CA2099DW)a
+Table 43: Efficacy results in first-line HCC (CA2099DW)a
 
 |  | nivolumab + ipilimumab (n = 335) | lenvatinib or sorafenib (n = 333) |
 | --- | --- | --- |
 | Overall survival Events 194 (58%) 228 (68%) Median (months) 23.7 20.6 (95% CI) (18.8, 29.4) (17.5, 22.5) Hazard ratio (95% CI)b 0.79 (0.65, 0.96) p-valuec 0.0180 Overall Response Rate, n (%)d 121 (36.1) 44 (13.2) (95% CI) (31.0, 41.5) (9.8, 17.3) p-valuee < 0.0001 Complete response (%) 23 (6.9) 6 (1.8) Partial response (%) 98 (29.3) 38 (11.4) Duration of Response (months)d Median 30.4 12.9 (95% CI) (21.2, N.A.) (10.2, 31.2) |  |  |
 
-Figure 31: Kaplan-Meier curve of OS in first-line patients with HCC (CA2099DW)
+Figure 33: Kaplan-Meier curve of OS in first-line patients with HCC (CA2099DW)
 
 No dedicated studies of OPDIVO solution for injection have been conducted in paediatric patients.
 

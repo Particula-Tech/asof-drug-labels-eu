@@ -3,11 +3,10 @@
 Treatment must be initiated and supervised by physicians experienced in the treatment of cancer.
 
 PD-L1 testing
-
 If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be assessed by a CE-marked in vitro IVD medical device test.
 If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
-MSI/MMR testing
 
+MSI/MMR testing
 If specified in the indication, patient selection for treatment with OPDIVO based on MSI-H/dMMR tumour status should be assessed by a CE-marked IVD with the corresponding intended purpose.
 If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
 
@@ -73,9 +72,7 @@ Table 5: Recommended doses and infusion times for intravenous administration of 
 
 Oesophageal squamous cell carcinoma (OSCC)
 
-Table 6 Recommended doses and infusion times for intravenous administration of
-
-nivolumab in combination with ipilimumab for OSCC
+Table 6: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for OSCC
 
 |  | Combination therapy* |
 | --- | --- |
@@ -114,9 +111,7 @@ OPDIVO in combination with ipilimumab and chemotherapy
 
 Non-small cell lung cancer (NSCLC)
 
-Table 9 Recommended doses and infusion times for intravenous administration of
-
-nivolumab in combination with ipilimumab and platinum-based chemotherapy followed by nivolumab in combination with ipilimumab for NSCLC
+Table 9: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab and platinum-based chemotherapy followed by nivolumab in combination with ipilimumab for NSCLC
 
 |  | Combination phase for 2 cycles of platinum-based chemotherapy | Combination phase of nivolumab plus ipilimumab* |
 | --- | --- | --- |
@@ -130,7 +125,7 @@ OPDIVO in combination with chemotherapy
 
 Neoadjuvant treatment of NSCLC
 
-Table 10 Recommended doses and infusion times for intravenous administration of nivolumab in combination with platinum-based chemotherapy for neoadjuvant treatment of NSCLC (see section 5.1)
+Table 10: Recommended doses and infusion times for intravenous administration of nivolumab in combination with platinum-based chemotherapy for neoadjuvant treatment of NSCLC (see section 5.1)
 
 |  | Combination therapy for 3 cycles |
 | --- | --- |
@@ -139,7 +134,7 @@ Table 10 Recommended doses and infusion times for intravenous administration of 
 
 Neoadjuvant and adjuvant treatment of NSCLC
 
-Table 11 Recommended doses and infusion times for intravenous administration of nivolumab in combination with platinum-based chemotherapy for neoadjuvant treatment followed by nivolumab monotherapy for adjuvant treatment of NSCLC
+Table 11: Recommended doses and infusion times for intravenous administration of nivolumab in combination with platinum-based chemotherapy for neoadjuvant treatment followed by nivolumab monotherapy for adjuvant treatment of NSCLC
 
 |  | Combination phase Neoadjuvant phase for 4 cycles | Monotherapy phase* Adjuvant phase |
 | --- | --- | --- |
@@ -150,28 +145,28 @@ Table 11 Recommended doses and infusion times for intravenous administration of 
 
 Oesophageal squamous cell carcinoma (OSCC)
 
-Table 12 Recommended doses and infusion times for intravenous administration of nivolumab in combination with fluoropyrimidine- and platinum-based chemotherapy for OSCC (see section 5.1)*
+Table 12: Recommended doses and infusion times for intravenous administration of nivolumab in combination with fluoropyrimidine- and platinum-based chemotherapy for OSCC (see section 5.1)*
 
 |  | Combination therapy |
 | --- | --- |
 | Nivolumab | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes |
-| fluoropyrimidine- and platinum-based chemotherapy | Every 4 weeks |
+| Fluoropyrimidine- and platinum-based chemotherapy | Every 4 weeks |
 
 *Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 Gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma
 
-Table 13 Recommended doses and infusion times for intravenous administration of nivolumab in combination with fluoropyrimidine- and platinum-based chemotherapy for gastric, GEJ or oesophageal adenocarcinoma (see section 5.1)*
+Table 13: Recommended doses and infusion times for intravenous administration of nivolumab in combination with fluoropyrimidine- and platinum-based chemotherapy for gastric, GEJ or oesophageal adenocarcinoma (see section 5.1)*
 
 |  | Combination therapy |
 | --- | --- |
 | Nivolumab | 360 mg every 3 weeks over 30 minutes or 240 mg every 2 weeks over 30 minutes |
-| fluoropyrimidine- and platinum-based chemotherapy | Every 2 weeks or every 3 weeks, depending on the regimen |
+| Fluoropyrimidine- and platinum-based chemotherapy | Every 2 weeks or every 3 weeks, depending on the regimen |
 
 *Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 Urothelial carcinoma (UC)
 
-Table 14 Recommended doses and infusion times for intravenous administration of nivolumab in combination with cisplatin and gemcitabine followed by nivolumab monotherapy for UC (see section 5.1)
+Table 14: Recommended doses and infusion times for intravenous administration of nivolumab in combination with cisplatin and gemcitabine followed by nivolumab monotherapy for UC (see section 5.1)
 
 |  | Combination phase, up to 6 cycles | Monotherapy phase* |
 | --- | --- | --- |
@@ -405,7 +400,7 @@ Use separate infusion bags and filters for each infusion.
 
 For instructions on the preparation and handling of the medicinal product before administration, see section 6.6.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Patients currently receiving intravenous nivolumab monotherapy, or in combination with chemotherapy or cabozantinib, may transition to OPDIVO solution for injection.
 
@@ -430,7 +425,7 @@ Table 2: Recommended doses and infusion times for OPDIVO solution for infusion i
 
 Table 3: Recommended doses and infusion times for OPDIVO solution for infusion in combination with ipilimumab followed by OPDIVO solution for injection monotherapy for dMMR or MSI-H CRC
 
-|  |  | Combination phase, OPDIVO solution for infusion, intravenously (IV), and ipilimumab for 4 dosing cycles | Monotherapy phase OPDIVO solution for injection, subcutaneously (SC) |
+|  |  | Combination phase, OPDIVO solution for infusion, intravenously (IV), and ipilimumab for up to 4 dosing cycles | Monotherapy phase OPDIVO solution for injection, subcutaneously (SC) |
 | --- | --- | --- | --- |
 | Nivolumab | First-line treatment | 240 mg every 3 weeks over 30 minutes | 600 mg every 2 weeks or 1200 mg every 4 weeks The first dose should be administered 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab. Treatment is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression. |
 |  | Treatment after prior first-line fluoropyrimidine-based combination chemotherapy | 3 mg/kg every 3 weeks over 30 minutes | 600 mg every 2 weeks or 1200 mg every 4 weeks The first dose should be administered 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab. |
@@ -456,32 +451,37 @@ Table 6: Recommended doses for administration of OPDIVO solution for injection i
 
 |  | Combination therapy |
 | --- | --- |
-| Nivolumab | 600 mg every 2 weeks or 1200 mg of nivolumab every 4 weeks |
+| Nivolumab | 600 mg every 2 weeks or 1200 mg every 4 weeks |
 | Fluoropyrimidine- and platinum-based chemotherapy | Every 4 weeks |
 
 Table 7: Recommended doses for administration of OPDIVO solution for injection in combination with fluoropyrimidine- and platinum-based chemotherapy for the treatment of gastric, GEJ or oesophageal adenocarcinoma (see section 5.1)*
 
 |  | Combination therapy |
 | --- | --- |
-| Nivolumab | 600 mg every 2 weeks |
-| Fluoropyrimidine- and platinum-based chemotherapy | Every 2 weeks |
+| Nivolumab | 600 mg every 2 weeks or 900 mg every 3 weeks |
+| Fluoropyrimidine- and platinum-based chemotherapy | Every 2 weeks or every 3 weeks, depending on the nivolumab regimen |
 
-Table 8: Recommended doses and infusion times for OPDIVO solution for infusion in combination with cisplatin and gemcitabine followed by OPDIVO solution for injection monotherapy for UC (see section 5.1)
+Table 8: Recommended doses for OPDIVO solution for injection in combination with cisplatin and gemcitabine followed by OPDIVO monotherapy for UC (see section 5.1)
 
-|  | Combination phase OPDIVO solution for infusion, intravenously (IV) with cisplatin and gemcitabine for up to 6 dosing cycles | Monotherapy phase* OPDIVO solution for injection, subcutaneously (SC) |
+|  | Combination phase for up to 6 dosing cycles | Monotherapy phase* |
 | --- | --- | --- |
-| Nivolumab | 360 mg every 3 weeks over 30 minutes | 600 mg every 2 weeks or 1200 mg every 4 weeks |
+| Nivolumab | 900 mg every 3 weeks | 600 mg every 2 weeks or 1200 mg every 4 weeks |
 | Cisplatin and gemcitabine | Every 3 weeks | - |
+
+Table 9: Recommended doses for OPDIVO solution for injection in combination with platinum-based chemotherapy for neoadjuvant treatment of NSCLC (see section 5.1)
+
+|  | Combination therapy for 3 cycles |
+| --- | --- |
+| Nivolumab | 900 mg every 3 weeks |
+| Platinum-based chemotherapy | Every 3 weeks |
 
 Neoadjuvant and adjuvant treatment of non-small cell lung cancer (NSCLC)
 
-Table 9 Recommended doses and infusion times for OPDIVO solution for infusion in
+Table 10 Recommended doses for OPDIVO solution for injection in combination with platinum-based chemotherapy for neoadjuvant treatment followed by OPDIVO monotherapy for adjuvant treatment of NSCLC
 
-combination with platinum-based chemotherapy for neoadjuvant treatment followed by OPDIVO solution for injection monotherapy for adjuvant treatment of NSCLC
-
-|  | Combination phase Neoadjuvant treatment OPDIVO solution for infusion, intravenously (IV) with chemotherapy for 4 cycles | Monotherapy phase* Adjuvant treatment OPDIVO solution for injection, subcutaneously (SC) |
+|  | Combination phase (neoadjuvant treatment) for 4 cycles | Monotherapy phase* (adjuvant treatment) |
 | --- | --- | --- |
-| Nivolumab | 360 mg every 3 weeks over 30 minutes | 1200 mg every 4 weeks |
+| Nivolumab | 900 mg every 3 weeks | 1200 mg every 4 weeks |
 | Platinum-based chemotherapy | Every 3 weeks | - |
 
 Treatment with OPDIVO, either as a monotherapy or in combination with other therapeutic agents, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient (and up to maximum duration of therapy if specified for an indication).
@@ -489,7 +489,8 @@ Treatment with OPDIVO, either as a monotherapy or in combination with other ther
 For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 
 Guidelines for permanent discontinuation or withholding of doses are described in Table 10.
-Table 10: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+
+Table 11: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 resolve, radiographic abnormalities
 
@@ -557,7 +558,7 @@ Data from patients with severe hepatic impairment are too limited to draw conclu
 
 The safety and efficacy of OPDIVO solution for injection in children below 18 years of age have not been established.
 
-OPDIVO solution for injection is for subcutaneous use
+OPDIVO solution for injection is for subcutaneous use.
 It is important to check the vial labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) and dose is being administered to the patient as prescribed.
 
 OPDIVO solution for injection is not intended for intravenous administration and must be given by subcutaneous injection only using the doses specified.

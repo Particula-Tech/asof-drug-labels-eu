@@ -1,11 +1,11 @@
 # 6.6 Special precautions for disposal and other handling
 
 Preparation should be performed by trained personnel in accordance with good practices rules, especially with respect to asepsis.
+
 Preparation and administration
 
 Calculating the dose
 More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
-
 Nivolumab monotherapy
 The prescribed dose for the adult patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
 
@@ -99,7 +99,7 @@ Disposal
 Do not store any unused portion of the infusion solution for reuse.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Preparation of the syringe
 
@@ -112,19 +112,20 @@ OPDIVO solution for injection is compatible with polypropylene, polycarbonate, p
 OPDIVO solution for injection should be a clear to opalescent, colourless to yellow solution.
 Prior to use, visually inspect and discard if discoloured or contains extraneous particulate matter other than a few translucent-to-white particles.
 
+Calculate the appropriate number of vials of OPDIVO solution for injection needed based on the prescribed dose.
+
+Allow vial(s) to reach room termperature before withdrawing the dose.
+
 A syringe and a transfer needle are needed to withdraw the medicinal product from the vial.
 OPDIVO solution for injection may be administered subcutaneously using a 23G-25G hypodermic injection needle or subcutaneous administration set (e.g., winged/butterfly).
 
-If a dose of 600 mg is to be administered, allow 1 vial to reach room temperature, then withdraw 5 mL of OPDIVO solution for injection into the syringe.
-
-If a dose of 1200 mg is to be administered, allow 2 vials to reach room temperature, then withdraw 10 mL of OPDIVO solution for injection into the syringe.
+Withdraw the required volume either 5 mL (600 mg), 7.5 mL (900 mg), or 10 mL (1200 mg), according to the recommended dose.
 
 The hypodermic injection needle must be attached to the syringe immediately prior to administration to avoid clogging.
 
 It is recommended to use the prepared dose immediately.
 
 If storage is required (see section 6.3), apply a syringe tip cap prior to storage.
-
 If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 
 Discard any unused solution remaining in the vial.

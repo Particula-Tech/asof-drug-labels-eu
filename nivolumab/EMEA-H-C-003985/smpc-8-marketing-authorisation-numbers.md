@@ -5,6 +5,7 @@ EU/1/15/1014/002
 EU/1/15/1014/003
 EU/1/15/1014/004
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 EU/1/15/1014/005
+EU/1/15/1014/006

@@ -50,7 +50,7 @@ No clinically important differences in the CL of nivolumab were found between pa
 Similar results were observed in patients with HCC (mild hepatic impairment: n = 152; moderate hepatic impairment: n = 13).
 Nivolumab has not been studied in patients with severe hepatic impairment (total bilirubin > 3 × ULN and any AST) (see section 4.2).
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Nivolumab solution for injection pharmacokinetics (PK) were assessed using a population PK approach.
 The PK was studied at a dose of 1200 mg administered as multiple doses every 4 weeks.

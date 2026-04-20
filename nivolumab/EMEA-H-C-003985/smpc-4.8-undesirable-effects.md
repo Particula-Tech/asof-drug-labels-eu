@@ -719,16 +719,16 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 In the pooled dataset of nivolumab as monotherapy administered intravenously across tumour types
 (n = 4646) with minimum follow-up ranging from 2.3 to 28 months, the most frequent adverse reactions (≥ 10%) were fatigue (44%), musculoskeletal pain (28%), diarrhoea (26%), rash (24%), cough (22%), nausea (22%), pruritus (19%), decreased appetite (17%), arthralgia (17%), constipation (16%), dyspnoea (16%), abdominal pain (15%), upper respiratory tract infection (15%), pyrexia (13%), headache (13%), anaemia (13%) and vomiting (12%).
 
 The safety of nivolumab administered subcutaneously was similar to the known safety profile of the intravenous formulation of nivolumab, with an additional adverse reaction of injection site reaction (7% in the subcutaneous nivolumab arm (n = 247) vs 0% in the intravenous nivolumab arm (n = 245)).
 
-(n = 4646) are presented in Table 11.
+(n = 4646) are presented in Table 12.
 
-Table 11: Adverse reactions with nivolumab monotherapy
+Table 12: Adverse reactions with nivolumab monotherapy
 
 |  | Nivolumab monotherapy |
 | --- | --- |
@@ -809,9 +809,8 @@ The frequency is based on exposure to OPDIVO solution for injection in CA20967T 
 
 In the dataset of nivolumab intravenous formulation 240 mg every 2 weeks in combination with cabozantinib 40 mg once daily in RCC (n =320), with a minimum follow-up of 16.0 months, the most frequent adverse reactions (≥ 10%) were diarrhoea (64.7%), fatigue (51.3%), palmar-plantar erythrodysaesthesia syndrome (40.0%), stomatitis (38.8%), musculoskeletal pain (37.5%), hypertension (37.2%), rash (36.3%), hypothyroidism (35.6%), decreased appetite (30.3%), nausea (28.8%), abdominal pain (25.0%), dysgeusia (23.8%), upper respiratory tract infection (20.6%), cough (20.6%), pruritus (20.6%), arthralgia (19.4%), vomiting (18.4%), dysphonia (17.8%), headache (16.3%), dyspepsia (15.9%), dizziness (14.1%), constipation (14.1%), pyrexia (14.1%), oedema (13.4%), muscle spasm (12.2%), dyspnoea (11.6%), proteinuria (10.9%) and hyperthyroidism (10.0%).
 
-Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 12.
-
-Table 12: Adverse reactions with nivolumab in combination with other therapeutic agents
+Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 13.
+Table 13: Adverse reactions with nivolumab in combination with other therapeutic agents
 
 (including cytokine related reaction anaphylactic reaction)
 release syndrome), (including cytokine
@@ -819,10 +818,10 @@ Rare Vogt-Koyanagi-Harada
 
 Adverse reaction frequencies presented in Table 12 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
 
-Table 13 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
-Additionally, for patients who experienced an event, Table 13 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
+Table 14 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
+Additionally, for patients who experienced an event, Table 14 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
 
-Table 13: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
+Table 14: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
 
 Diabetes mellitus including Type 1 diabetes mellitus, and fulminant Type 1 diabetes mellitus, (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported.
 

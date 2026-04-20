@@ -22,9 +22,13 @@ Each 24 mL vial of concentrate contains 5.0 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Each mL of solution for injection contains 120 mg of nivolumab.
+
+One vial of 2.5 mL contains 300 mg of nivolumab.
 One vial of 5 mL contains 600 mg of nivolumab.
 
-Each 5 mL vial of this this medicinal product contains 2.5 mg of polysorbate 80.
+Each 2.5 mL vial of this medicinal product contains 1.25 mg of polysorbate 80.
+
+Each 5 mL vial of this medicinal product contains 2.5 mg of polysorbate 80.

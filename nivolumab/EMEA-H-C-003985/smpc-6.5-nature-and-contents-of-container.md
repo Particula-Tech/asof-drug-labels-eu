@@ -11,8 +11,10 @@ Pack size of 1 vial.
 
 Not all pack sizes may be marketed.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
-Type I glass vial with a butyl rubber stopper and an aluminium seal with a plastic orange flip-off cap containing 5 mL of solution for injection.
+OPDIVO 300 mg solution for injection: Type I glass vial with a butyl rubber stopper and an aluminium seal with a plastic violet flip-off cap containing 2.5 mL of solution for injection.
+
+OPDIVO 600 mg solution for injection: Type I glass vial with a butyl rubber stopper and an aluminium seal with a plastic orange flip-off cap containing 5 mL of solution for injection.
 
 Pack of one vial.

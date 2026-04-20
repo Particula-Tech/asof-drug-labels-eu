@@ -10,7 +10,7 @@ However, based on its mechanism of action, foetal exposure to nivolumab may incr
 
 Fertility studies have not been performed with nivolumab.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Subcutaneous formulation
 

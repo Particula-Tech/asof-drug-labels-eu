@@ -316,7 +316,7 @@ All prescribers of OPDIVO must be familiar with the physician information and ma
 The prescriber must discuss the risks of OPDIVO therapy with the patient.
 The patient will be provided with the patient card with each prescription.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy.
 
@@ -330,4 +330,15 @@ Severe infusion reactions have been reported in clinical trials of intravenous n
 In case of a severe or life-threatening infusion reaction, the intravenous nivolumab or intravenous nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
 Patients with mild or moderate infusion reaction may receive intravenous nivolumab or intravenous nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
 
-This medicinal product contains 2.5 mg of polysorbate 80 in each 5 mL vial which is equivalent to 5 mg/10 mL.
+Non-small cell lung cancer (NSCLC)
+
+Neoadjuvant and adjuvant treatment of NSCLC
+Renal cell carcinoma (RCC)
+
+dMMR or MSI-H colorectal cancer (CRC)
+
+Oesophageal squamous cell carcinoma (OSCC)
+
+Hepatocellular carcinoma (HCC)
+
+This medicinal product contains 1.25 mg of polysorbate 80 in each 2.5 mL vial and 2.5 mg of polysorbate 80 in each 5 mL vial which is equivalent to 5 mg/10 mL.

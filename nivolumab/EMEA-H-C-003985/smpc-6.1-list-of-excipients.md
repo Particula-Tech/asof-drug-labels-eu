@@ -9,7 +9,7 @@ Sodium hydroxide (for pH adjustment)
 Hydrochloric acid (for pH adjustment)
 Water for injections
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 Recombinant human hyaluronidase (rHuPH20)
 Histidine

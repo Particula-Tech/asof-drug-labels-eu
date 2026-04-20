@@ -7,6 +7,6 @@ The unopened vial can be stored at controlled room temperature up to 25°C with 
 
 For storage conditions after preparation of the infusion, see section 6.3.
 
-[OPDIVO 600 mg solution for injection.]
+[OPDIVO 300 mg solution for injection]
 
 For storage conditions after preparation of the syringe, see section 6.3.
