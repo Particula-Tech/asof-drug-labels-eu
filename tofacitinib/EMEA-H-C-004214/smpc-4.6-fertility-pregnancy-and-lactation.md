@@ -12,9 +12,9 @@ Women of childbearing potential/contraception in females
 Women of childbearing potential should be advised to use effective contraception during treatment with tofacitinib and for at least 4 weeks after the last dose.
 Breast-feeding
 
-It is not known whether tofacitinib is secreted in human milk.
+Based on published data, tofacitinib is excreted in human milk.
+The effects of tofacitinib on the breast-fed infant from published literature and post-marketing data is unknown and is limited to a small number of cases with no causally related adverse events.
 A risk to the breast-fed child cannot be excluded.
-Tofacitinib was secreted in the milk of lactating rats (see section 5.3).
 As a precautionary measure, the use of tofacitinib during breast-feeding is contraindicated (see section 4.3).
 
 Fertility

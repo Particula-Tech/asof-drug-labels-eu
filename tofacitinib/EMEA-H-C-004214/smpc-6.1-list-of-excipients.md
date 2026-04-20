@@ -18,7 +18,7 @@ cellulose acetate hydroxypropyl cellulose (E463) hypromellose (E464) titanium di
 
 Printing ink
 
-shellac (E904) ammomium hydroxide (E527) propylene glycol (E1520) black iron oxide (E172)
+shellac (E904) ammonium hydroxide (E527) propylene glycol (E1520) black iron oxide (E172)
 
 [XELJANZ 1 mg/mL oral solution]
 

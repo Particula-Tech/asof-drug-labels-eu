@@ -5,7 +5,7 @@ XELJANZ 5 mg film-coated tablets
 Each film-coated tablet contains tofacitinib citrate, equivalent to 5 mg tofacitinib.
 
 Excipient with known effect
-Each film-coated tablet contains 59.44 mg of lactose.
+Each filmcoated tablet contains 59.44 mg of lactose.
 
 XELJANZ 10 mg film-coated tablets
 

@@ -61,9 +61,9 @@ Table 2: Tofacitinib dose for patients with polyarticular juvenile idiopathic ar
 | --- | --- |
 | 10 - < 20 | 3.2 mg (3.2 mL of oral solution) twice daily |
 | 20 - < 40 | 4 mg (4 mL of oral solution) twice daily |
-| ≥40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
+| ≥ 40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
 
-Patients ≥40 kg treated with tofacitinib 5 mL oral solution twice daily may be switched to tofacitinib 5 mg film-coated tablets twice daily.
+Patients ≥ 40 kg treated with tofacitinib 5 mL oral solution twice daily may be switched to tofacitinib 5 mg film-coated tablets twice daily.
 Patients < 40 kg cannot be switched from tofacitinib oral solution.
 
 Dose interruption and discontinuation in adults and paediatric patients

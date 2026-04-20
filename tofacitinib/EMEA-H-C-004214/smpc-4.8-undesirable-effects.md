@@ -28,7 +28,7 @@ Overall, the safety profile observed in patients with UC treated with tofacitini
 
 Tabulated list of adverse reactions
 
-The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 8: Adverse reactions
@@ -54,7 +54,7 @@ Table 8: Adverse reactions
 | Injury, poisoning and procedural complications |  | Ligament sprain Muscle strain |  |  |  |
 
 *Spontaneous reporting data
-**Venous thromboembolism includes PE, DVT, and Retinal Venous Thrombosis
+**Venous thromboembolism includes PE, DVT, Retinal Venous Thrombosis, and Cerebral Venous Sinus Thrombosis
 
 Description of selected adverse reactions
 
@@ -162,7 +162,7 @@ In the RA long-term safety population, the pattern and incidence of confirmed de
 In the clinical studies in UC, changes in ANC observed with tofacitinib treatment were similar to the changes observed in clinical studies in RA.
 
 Platelets
-Patients in the Phase 3 controlled clinical studies (RA, PsA, AS, UC) were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
+Patients in the Phase 3 controlled clinical studies (RA, PsA, AS, UC) were required to have a platelet count ≥ 100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
 
 Liver enzyme tests
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were uncommonly observed in RA patients.
@@ -249,14 +249,14 @@ One (1) additional patient had an event of serious HZ outside the reporting wind
 Hepatic events
 
 Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment.
-In the integrated safety population, there were 2 patients with ALT elevations ≥3 times the ULN at 2 consecutive visits.
+In the integrated safety population, there were 2 patients with ALT elevations ≥ 3 times the ULN at 2 consecutive visits.
 Neither event met Hy’s Law criteria.
 Both patients were on background MTX therapy and each event resolved after discontinuation of MTX and permanent discontinuation of tofacitinib.
 
 Laboratory tests
 
 Changes in laboratory tests in JIA patients in the clinical development program were consistent with those seen in adult RA patients.
-Patients in the JIA pivotal study were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
+Patients in the JIA pivotal study were required to have a platelet count ≥ 100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
 
 Reporting of suspected adverse reactions
 
@@ -300,8 +300,12 @@ In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients trea
 
 In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, there was one serious infection (aseptic meningitis) yielding a rate of 0.43 patients with events per 100 patient-years.
 
-Patients in the Phase 3 controlled clinical studies (RA, PsA, AS) were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
+Patients in the Phase 3 controlled clinical studies (RA, PsA, AS) were required to have a platelet count ≥ 100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
 
 [XELJANZ 1 mg/mL oral solution]
 
-The adverse reactions listed in the table below are from clinical studies in adult patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+The adverse reactions listed in the table below are from clinical studies in adult patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+
+In the integrated safety population, there were 2 patients with ALT elevations ≥3 times the ULN at 2 consecutive visits.
+
+Patients in the JIA pivotal study were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.

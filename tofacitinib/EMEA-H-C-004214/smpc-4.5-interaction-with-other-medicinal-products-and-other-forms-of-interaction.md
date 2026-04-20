@@ -20,19 +20,15 @@ Coadministered PK Ratio and 90% CI Recommendation
 
 Medicinal Product
 
-CYP3A Inhibitor
-
-Ketoconazole AUC Tofacitinib dose should be reduced a
+CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
-CYP3A & CYP2C19 Inhibitor
 
-Fluconazole AUC Tofacitinib dose should be reduced a
+CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
-CYP Inducer
 
-Rifampicin AUC Efficacy may be decreased
+CYP Inducer Rifampicin AUC Efficacy may be decreased
 
 Cmax
 
@@ -46,6 +42,7 @@ Ciclosporin AUC Combined use of tofacitinib with
 Cmax ciclosporin should be avoided
 
 0 0.5 1 1.5 2 2.5
+
 Ratio relative to reference
 
 Note: Reference group is administration of tofacitinib alone.
@@ -64,6 +61,8 @@ Paediatric population
 Interaction studies have only been performed in adults.
 
 [XELJANZ 11 mg prolonged-release tablets]
+
+CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
 
 a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
 

@@ -19,7 +19,7 @@ The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has no
 
 Venous thromboembolism (VTE)
 
-Serious VTE events including pulmonary embolism (PE), some of which were fatal, and deep vein thrombosis (DVT), have been observed in patients taking tofacitinib.
+Serious VTE events including pulmonary embolism (PE), some of which were fatal, cerebral venous sinus thrombosis (CVST), and deep vein thrombosis (DVT), have been observed in patients taking tofacitinib (see Table 8 in section 4.8).
 In a randomised post-authorisation safety study in patients with rheumatoid arthritis who were 50 years of age or older with at least one additional cardiovascular risk factor, a dose dependent increased risk for VTE was observed with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
 
 In a post hoc exploratory analysis within this study, in patients with known VTE risk factors, occurrences of subsequent VTEs were observed more frequently in tofacitinib-treated patients that, at 12 months treatment, had D-dimer level ≥2× ULN versus those with D-dimer level <2× ULN; this was not evident in TNF inhibitor-treated patients.
@@ -30,7 +30,6 @@ However, D-dimer levels ≥2× ULN at Month 12 were observed in approximately 30
 Tofacitinib 10 mg twice daily for maintenance treatment is not recommended in patients with UC who have known VTE, MACE and malignancy risk factors, unless there is no suitable alternative treatment available (see section 4.2).
 
 In patients with cardiovascular or malignancy risk factors (see also section 4.4 “Major adverse cardiovascular events (including myocardial infarction)” and “Malignancies and lymphoproliferative disorders”) tofacitinib should only be used if no suitable treatment alternatives are available.
-
 In patients with VTE risk factors other than MACE or malignancy risk factors, tofacitinib should be used with caution.
 VTE risk factors other than MACE or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, inherited coagulation disorder.
 Patients should be re-evaluated periodically during tofacitinib treatment to assess for changes in VTE risk.
@@ -207,7 +206,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-Considering the increased risk of serious infections, myocardial infarction, malignancies and all cause mortality with tofacitinib in patients 65 years of age and older , tofacitinib should only be used in these patients if no suitable treatment alternatives are available (see further details below in section 4.4 and section 5.1).
+Serious VTE events including pulmonary embolism (PE), some of which were fatal, cerebral venous sinus thrombosis (CVST), and deep vein thrombosis (DVT), have been observed in patients taking tofacitinib (see Table 7 in section 4.8).
 
 In a post hoc exploratory analysis within this study, in patients with known VTE risk factors, occurrences of subsequent VTEs were observed more frequently in tofacitinib-treated patients that, at 12 months treatment, had D-dimer level ≥2× ULN versus those with D-dimer level <2×ULN; this was not evident in TNF inhibitor-treated patients.
 
@@ -250,5 +249,6 @@ Examples of propylene glycol exposures based on daily doses (see section 4.2) ar
 
 Sodium benzoate
 This medicinal product contains 0.9 mg sodium benzoate in each mL.
+
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially ‘sodium-free’.
