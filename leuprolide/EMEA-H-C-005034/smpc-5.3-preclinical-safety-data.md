@@ -11,4 +11,8 @@ Carcinogenicity studies were performed in rats and mice over 24 months.
 In rats, a dose-related increase in pituitary apoplexy was observed after subcutaneous administration at doses of 0.6 to 4 mg/kg/day.
 No such effect was observed in mice.
 
+Leuprorelin was not mutagenic in a set of in-vitro and in vivo assays.
+
+[CAMCEVI 42 mg prolonged-release suspension for injection]
+
 Leuprorelin was not mutagenic in a set of in-vitro and in-vivo assays.

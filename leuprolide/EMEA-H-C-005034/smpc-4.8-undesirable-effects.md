@@ -5,10 +5,11 @@ Summary of the safety profile
 Adverse reactions seen with leuprorelin-containing medicinal products are mainly subject to the specific pharmacological action of leuprorelin, namely increases and decreases in certain hormone levels.
 The most commonly reported adverse reactions are hot flashes, nausea, malaise and fatigue and transient local irritation at the site of injection.
 Mild or moderate hot flashes occur in approximately 58% of patients.
+
 Tabulated list of adverse reactions
 
 The following undesirable effects were reported during clinical studies with leuprorelin-containing medicinal products for injection in patients with advanced prostate carcinoma.
-Undesirable effects are classified, by frequency, as very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
+Undesirable effects are classified, by frequency, as very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1 000, <1/100), rare (≥1/10 000, <1/1 000) and very rare (<1/10 000), not known (cannot be estimated from the available data).
 
 Table 1: Undesirable effects reported for leuprorelin-containing medicinal products for injection
 
@@ -69,7 +70,7 @@ Description of selected adverse reactions
 
 Other undesirable effects which have been reported in general to occur with leuprorelin treatment include peripheral oedema, pulmonary embolism, palpitations, myalgia, an alteration in the skin sensation, muscle weakness, chills, rash, amnesia, and visual disturbances.
 Muscular atrophy has been observed with long-term use of medicinal products in this class.
-Infarction of pre-existing pituitary adenoma has been reported rarely after administration of both short and long acting GnRH agonists.
+Infarction of pre-existing pituitary adenoma has been reported rarely after administration of both short and long-acting GnRH agonists.
 There have been rare reports of thrombocytopenia and leucopenia.
 Changes in glucose tolerance have been reported.
 
@@ -87,17 +88,26 @@ It can be anticipated that long periods of treatment with leuprorelin may show i
 Regarding the increased risk for fractures owing to osteoporosis (see section 4.4).
 
 Exacerbation of signs and symptoms of the disease
+
 Treatment with leuprorelin can cause exacerbations of signs and symptoms of the disease during the first few weeks.
 If conditions such as vertebral metastases and/or urinary obstruction or haematuria are aggravated, neurological problems, such as weakness and/or paraesthesia of the lower limbs or worsening of urinary symptoms may occur.
 
 Clinical experience on local skin tolerability with CAMCEVI
 
-Local skin tolerability of CAMCEVI was assessed in the main study FP01C-13-001 per four aspects: itchiness, erythema, burning, and stinging sensation.
-Of the 137 subjects receiving subcutaneous injections of CAMCEVI, most subjects showed no to mild skin irritation after the injection.
-Generally, the reported localised events were mild to moderate and resolved.
+Local skin tolerability of CAMCEVI 21 mg was assessed in the main study FP01C-17-001 per four aspects: itchiness, erythema, burning, and stinging.
+Of the 144 subjects receiving subcutaneous injections of CAMCEVI 21 mg, most subjects showed no to mild skin irritation after the injection.
+Generally, the reported localised events were mild and resolved.
 
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[CAMCEVI 42 mg prolonged-release suspension for injection]
+
+Infarction of pre-existing pituitary adenoma has been reported rarely after administration of both short and long acting GnRH agonists.
+
+Local skin tolerability of CAMCEVI was assessed in the main study FP01C-13-001 per four aspects: itchiness, erythema, burning, and stinging sensation.
+Of the 137 subjects receiving subcutaneous injections of CAMCEVI, most subjects showed no to mild skin irritation after the injection.
+Generally, the reported localised events were mild to moderate and resolved.

@@ -8,7 +8,7 @@ Periodic monitoring of electrocardiograms and electrolytes should be considered.
 Cardiovascular diseases
 
 Increased risk of developing myocardial infarction, sudden cardiac death and stroke has been reported in association with use of GnRH agonists in men.
-The risk appears low based on the reported odds ratios, and should be evaluated carefully along with cardiovascular risk factors when determining a treatment for patients with prostate cancer.
+The risk appears low based on the reported odds ratios and should be evaluated carefully along with cardiovascular risk factors when determining a treatment for patients with prostate cancer.
 Patients receiving GnRH agonists should be monitored for symptoms and signs suggestive of development of cardiovascular disease and be managed according to current clinical practice.
 Transient testosterone flare
 
@@ -49,8 +49,8 @@ Convulsions
 
 Post-marketing reports of convulsions have been observed in patients on leuprorelin with or without a history of predisposing factors (see section 4.8).
 Convulsions are to be managed according to the current clinical practice.
+Idiopathic intracranial hypertension
 
-Idiopathic intracranial hypertension:
 Idiopathic intracranial hypertension (pseudotumor cerebri) has been reported in patients receiving leuprorelin.
 Patients should be warned for signs and symptoms of idiopathic intracranial hypertension, including severe or recurrent headache, vision disturbances and tinnitus.
 If idiopathic intracranial hypertension occurs, discontinuation of leuprorelin should be considered.
@@ -66,3 +66,7 @@ Cases of ureteral obstruction and spinal cord compression, which may contribute 
 If spinal cord compression or renal impairment develops, standard treatment of these complications should be instituted.
 
 Patients with vertebral and/or brain metastases as well as patients with urinary tract obstruction should be closely monitored during the first few weeks of therapy.
+
+[CAMCEVI 42 mg prolonged-release suspension for injection]
+
+The risk appears low based on the reported odds ratios, and should be evaluated carefully along with cardiovascular risk factors when determining a treatment for patients with prostate cancer.

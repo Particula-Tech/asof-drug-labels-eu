@@ -13,10 +13,10 @@ Pharmacodynamic effects
 Administration of leuprorelin results in an initial increase in circulating levels of luteinising hormone (LH) and follicle stimulating hormone (FSH), leading to a transient increase in levels of the gonadal steroids, testosterone and dihydrotestosterone in males.
 Continuous administration of leuprorelin results in decreased levels of LH and FSH.
 In males, testosterone is reduced to below castrate threshold (≤ 50 ng/dL).
-
-Following the first dose of leuprorelin, mean serum testosterone concentrations transiently increased, then fell to below castrate threshold levels (≤ 50 ng/dL) within 3-4 weeks, and were maintained below castrate threshold with 6-monthly administration of the medicinal product (Figure 1 below).
+Following the first dose of leuprorelin, mean serum testosterone concentrations transiently increased, then fell to below castrate threshold levels (≤ 50 ng/dL) within 3-4 weeks, and were maintained below castrate threshold with 3-monthly administration of the medicinal product (Figure 1 below).
 Long-term studies on leuprorelin have shown that continuation of therapy maintains testosterone below the castrate level for up to seven years, and presumably indefinitely.
-Tumour size was not measured directly during the clinical trial programme, but there was an indirect beneficial tumour response as shown by a 97% reduction in mean PSA for leuprorelin.
+
+Tumour size was not measured directly during the clinical trial programme, but there was an indirect beneficial tumour response as shown by a 96.7% reduction in mean PSA for leuprorelin.
 
 In a phase III randomised clinical study including 970 patients with locally advanced prostate cancer (mainly T2c-T4 with some T1c to T2b patients with pathological regional nodal disease) of whom 483 were assigned to short-term androgen suppression (6 months) in combination with radiation therapy and 487 to long-term therapy (3 years), a non-inferiority analysis compared the short-term to long- term concomitant and adjuvant hormonal treatment with GnRH agonist (triptorelin or goserelin).
 The 5-year overall mortality was 19.0% and 15.2%, in the short-term and long-term groups, respectively.
@@ -32,19 +32,35 @@ Clear differentiation of the respective study populations for the indications lo
 Clinical data have shown that radiotherapy followed by 3 years of androgen deprivation therapy is preferable to radiotherapy followed by 6 months of androgen deprivation therapy.
 The recommended duration of androgen deprivation therapy in medical guidelines for T3-T4 patients receiving radiotherapy is 2-3 years.
 
-Clinical experience on efficacy with CAMCEVI
+Clinical experience on efficacy with CAMCEVI 21 mg
 
-The multicentre, single-arm, open-label, 48-week phase 3 study of leuprorelin included 137 male patients with high-risk localised and locally advanced prostate cancer in need for androgen deprivation therapy.
-The efficacy of the medicinal product (two doses administered 24 weeks apart) was evaluated by the percentage of subjects with serum testosterone concentrations suppressed to castrate threshold levels, the effect on serum LH levels as measure for testosterone level control, and the effect on serum PSA levels.
+The multicentre, single-arm, open label, 24-week phase 3 study of leuprorelin included 144 male patients with high-risk localised and locally advanced prostate cancer in need for androgen deprivation therapy.
+The efficacy of the medicinal product (two doses administered 12 weeks apart) was evaluated by the percentage of subjects with serum testosterone concentrations suppressed to castrate threshold levels, the effect on serum LH levels as measure for testosterone level control, and the effect on serum PSA levels.
+
 The percentage of patients with serum testosterone levels below the castrate threshold
-(≤ 50 ng/dL) by day 28 was 98.5% (135 out of 137 patients; intent-to-treat) and 99.2% (123 out of 124 subjects; per protocol), respectively (Figure 1).
-Figure 1: Mean serum testosterone concentration over time with CAMCEVI (n=124; per protocol population)
+(≤ 50 ng/dL) by day 28 was 98.6% (141 out of 143 subjects; intent-to-treat) and 98.5% (130 out of 132 subjects; per protocol), respectively (Figure 1).
+Figure 1: Mean serum testosterone concentration over time with CAMCEVI 21 mg (n=132; per protocol population)
 
 Dotted line indicates the castrate level (50 ng/dL) of serum testosterone.
 
-Mean serum LH levels were significantly reduced after the first injection, and this effect remained until the end of the study (decrease versus baseline by 98% [day 336]).
-Tumour size was not directly measured in this study, but an indirect beneficial tumour response can be presumed for leuprorelin as shown by a significant reduction in mean PSA levels over time after injection of the medicinal product (mean of 70 ng/mL at baseline decreased to a mean minimum of 2.6 ng/mL [per-protocol population] at Day 168.
+Mean serum LH levels were significantly reduced after the first injection, and this effect remained until the end of the study (decrease versus baseline by 97% [day 168]).
+Tumour size was not directly measured in this study, but an indirect beneficial tumour response can be presumed for leuprorelin as shown by a significant reduction in mean PSA levels over time after injection of the medicinal product (mean of 35.9 ng/mL at baseline decreased to a mean minimum of 1.2 ng/mL [per-protocol population] at Day 168.
 
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing leuprorelin in all subsets of the paediatric population in prostate carcinoma (see section 4.2 for information on paediatric use).
+
+[CAMCEVI 42 mg prolonged-release suspension for injection]
+
+Following the first dose of leuprorelin, mean serum testosterone concentrations transiently increased, then fell to below castrate threshold levels (≤ 50 ng/dL) within 3-4 weeks, and were maintained below castrate threshold with 6-monthly administration of the medicinal product (Figure 1 below).
+Tumour size was not measured directly during the clinical trial programme, but there was an indirect beneficial tumour response as shown by a 97% reduction in mean PSA for leuprorelin.
+
+Clinical experience on efficacy with CAMCEVI
+
+The multicentre, single-arm, open-label, 48-week phase 3 study of leuprorelin included 137 male patients with high-risk localised and locally advanced prostate cancer in need for androgen deprivation therapy.
+The efficacy of the medicinal product (two doses administered 24 weeks apart) was evaluated by the percentage of subjects with serum testosterone concentrations suppressed to castrate threshold levels, the effect on serum LH levels as measure for testosterone level control, and the effect on serum PSA levels.
+(≤ 50 ng/dL) by day 28 was 98.5% (135 out of 137 patients; intent-to-treat) and 99.2% (123 out of 124 subjects; per protocol), respectively (Figure 1).
+Figure 3: Mean serum testosterone concentration over time with CAMCEVI (n=124; per protocol population)
+
+Mean serum LH levels were significantly reduced after the first injection, and this effect remained until the end of the study (decrease versus baseline by 98% [day 336]).
+Tumour size was not directly measured in this study, but an indirect beneficial tumour response can be presumed for leuprorelin as shown by a significant reduction in mean PSA levels over time after injection of the medicinal product (mean of 70 ng/mL at baseline decreased to a mean minimum of 2.6 ng/mL [per-protocol population] at Day 168.

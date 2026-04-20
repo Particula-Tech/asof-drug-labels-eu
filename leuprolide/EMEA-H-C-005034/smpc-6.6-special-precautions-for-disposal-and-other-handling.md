@@ -43,7 +43,7 @@ clockwise with approximately a three-
 quarter turn until the needle is secure. Do
 not overtighten. Discard pre-filled
 CAMCEVI syringe if over-twist causes
-syringe breakage.
+syringe or needle breakage.
 
 Step 3 - Administration procedure:
 
@@ -82,3 +82,7 @@ protected in a suitable sharps container.
 Any unused medicinal product or waste material
 should be disposed of in accordance with local
 requirements.
+
+[CAMCEVI 42 mg prolonged-release suspension for injection]
+
+syringe breakage.
