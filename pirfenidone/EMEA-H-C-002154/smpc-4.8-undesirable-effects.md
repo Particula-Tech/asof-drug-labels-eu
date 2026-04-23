@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most frequently reported adverse reactions during clinical study experience with Esbriet at a dose of 2,403 mg/day compared to placebo, respectively, were nausea (32.4% versus 12.2%), rash (26.2% versus 7.7%), diarrhoea (18.8% versus 14.4%), fatigue (18.5% versus 10.4%), dyspepsia (16.1% versus 5.0%), decreased appetite (20.7% versus 8.0%), headache (10.1% versus 7.7%), and photosensitivity reaction (9.3% versus 1.1%).
+The most frequently reported adverse reactions during clinical study experience with Esbriet at a dose of 2,403 mg/day compared to placebo, respectively, were nausea (32.4% versus 12.2%), rash (26.2% versus 7.7%), diarrhoea (18.8% versus 14.4%), fatigue (18.5% versus 10.4%), dyspepsia (16.1% versus 5.0%), decreased appetite (20.7%% versus 8.0%), headache (10.1% versus 7.7%), and photosensitivity reaction (9.3% versus 1.1%).
 
 Tabulated list of adverse reactions
 The safety of Esbriet has been evaluated in clinical studies including 1,650 volunteers and patients.
@@ -56,7 +56,7 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 1.
 Identified through post-marketing surveillance (see section 4.4)
 2.
-Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see sections 4.3, 4.4).
+Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see section 4.3, 4.4).
 
 Exposure-adjusted analyses of pooled clinical trials in IPF confirmed that the safety and tolerability profile of Esbriet in IPF patients with advanced disease (n=366) is consistent with that established in IPF patients with non-advanced disease (n=942).
 
@@ -70,9 +70,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Esbriet 267 mg film-coated tablets]
-
-The most frequently reported adverse reactions during clinical study experience with Esbriet at a dose of 2,403 mg/day compared to placebo, respectively, were nausea (32.4% versus 12.2%), rash (26.2% versus 7.7%), diarrhoea (18.8% versus 14.4%), fatigue (18.5% versus 10.4%), dyspepsia (16.1% versus 5.0%), decreased appetite (20.7%% versus 8.0%), headache (10.1% versus 7.7%), and photosensitivity reaction (9.3% versus 1.1%).
-
-Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see section 4.3, 4.4).

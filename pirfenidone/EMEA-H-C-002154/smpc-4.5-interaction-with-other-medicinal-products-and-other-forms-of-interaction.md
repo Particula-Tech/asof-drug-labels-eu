@@ -12,13 +12,13 @@ Esbriet is contraindicated in patients with concomitant use of fluvoxamine (see 
 Fluvoxamine should be discontinued prior to the initiation of Esbriet therapy and avoided during Esbriet therapy due to the reduced clearance of pirfenidone.
 Other therapies that are inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of pirfenidone
 (e.g. CYP2C9, 2C19, and 2D6) should be avoided during pirfenidone treatment.
-
 In vitro and in vivo extrapolations indicate that strong and selective inhibitors of CYP1A2 (e.g. enoxacin) have the potential to increase the exposure to pirfenidone by approximately 2 to 4-fold.
-If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of pirfenidone should be reduced to 801 mg daily (one capsule, three times a day).
+If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of pirfenidone should be reduced to 801 mg daily (267 mg, three times a day).
 Patients should be closely monitored for emergence of adverse reactions associated with Esbriet therapy.
 Discontinue Esbriet if necessary (see sections 4.2 and 4.4).
+
 Co-administration of Esbriet and 750 mg of ciprofloxacin (a moderate inhibitor of CYP1A2) increased the exposure to pirfenidone by 81%.
-If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (two capsules, three times a day).
+If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (534 mg, three times a day).
 Esbriet should be used with caution when ciprofloxacin is used at a dose of 250 mg or 500 mg once or two times a day.
 
 Esbriet should be used with caution in patients treated with other moderate inhibitors of CYP1A2 (e.g. amiodarone, propafenone).
@@ -37,9 +37,3 @@ In the case of moderate inducers of CYP1A2 (e.g. omeprazole), concomitant use ma
 
 Co-administration of medicinal products that act as potent inducers of both CYP1A2 and the other CYP isoenzymes involved in the metabolism of pirfenidone (e.g. rifampicin) may result in significant lowering of pirfenidone plasma levels.
 These medicinal products should be avoided whenever possible.
-
-[Esbriet 267 mg film-coated tablets]
-
-If concomitant use of Esbriet with a strong and selective inhibitor of CYP1A2 cannot be avoided, the dose of pirfenidone should be reduced to 801 mg daily (267 mg, three times a day).
-
-If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (534 mg, three times a day).

@@ -18,9 +18,9 @@ PIPF-004 and PIPF-006 compared treatment with Esbriet 2403 mg/day to placebo.
 The studies were nearly identical in design, with few exceptions including an intermediate dose group (1,197 mg/day) in PIPF-004.
 In both studies, treatment was administered three times daily for a minimum of 72 weeks.
 The primary endpoint in both studies was the change from Baseline to Week 72 in percent predicted Forced Vital Capacity (FVC).
-In the combined PIPF-004 and PIPF-006 population treated with the dose of 2,403 mg/d comprising in total 692 patients, the median baseline percent predicted FVC values were 73.9% in the Esbriet group and 72.0% in the placebo group (range: 50-123% and 48-138%, respectively), and the median baseline percent predicted Carbon Monoxide Diffusing Capacity (DLCO) 45.1% in the Esbriet group and 45.6% in the placebo group (range: 25-81% and 21-94%, respectively).
-In PIPF-004, 2.4% in the Esbriet group and 2.1% in the placebo group had percent predicted FVC below 50% and/or percent predicted DLCO below 35% at Baseline.
-In PIPF-006, 1.0% in the Esbriet group and 1.4% in the placebo group had percent predicted FVC below 50% and/or percent predicted DLCO below 35% at Baseline.
+In the combined PIPF-004 and PIPF-006 population treated with the dose of 2,403 mg/d comprising in total 692 patients, the median baseline percent predicted FVC values were 73.9% in the Esbriet group and 72.0% in the placebo group (range: 50-123% and 48-138%, respectively), and the median baseline percent predicted Carbon Monoxide Diffusing Capacity (DLco) 45.1% in the Esbriet group and 45.6% in the placebo group (range: 25-81% and 21-94%, respectively).
+In PIPF-004, 2.4% in the Esbriet group and 2.1% in the placebo group had percent predicted FVC below 50% and/or percent predicted DLco below 35% at Baseline.
+In PIPF-006, 1.0% in the Esbriet group and 1.4% in the placebo group had percent predicted FVC below 50% and/or percent predicted DLco below 35% at Baseline.
 
 In study PIPF-004, the decline of percent predicted FVC from Baseline at Week 72 of treatment was significantly reduced in patients receiving Esbriet (N=174) compared with patients receiving placebo (N=174; p=0.001, rank ANCOVA).
 Treatment with Esbriet also significantly reduced the decline of percent predicted FVC from Baseline at Weeks 24 (p=0.014), 36 (p<0.001), 48 (p<0.001), and 60 (p<0.001).
@@ -77,7 +77,6 @@ The study (SP3) in Japanese patients compared pirfenidone 1800 mg/day (comparabl
 Treatment with pirfenidone significantly reduced mean decline in vital capacity (VC) at Week 52 (the primary endpoint) compared with placebo (-0.09±0.02 l versus -0.16±0.02 l respectively, p=0.042).
 
 IPF patients with advanced lung function impairment
-
 In pooled post-hoc analyses of studies PIPF-004, PIPF-006 and PIPF-016, in the population of advanced IPF (n = 170) with FVC < 50% at baseline and/or DLco < 35% at baseline, the annual decline of FVC in patients receiving Esbriet (n=90) compared with patients receiving placebo (n=80) was -150.9 mL and -277.6 mL, respectively.
 
 In MA29957, a supportive 52-week Phase IIb, multicentre, randomised, double-blind, placebo-controlled clinical trial in IPF patients with advanced lung function impairment (DLco < 40% of predicted) and at high risk of grade 3 pulmonary hypertension, 89 patients treated with Esbriet monotherapy had a similar decline in FVC as Esbriet-treated patients in the post-hoc analysis of the pooled phase 3 trials PIPF-004, PIPF-006, and PIPF-016.

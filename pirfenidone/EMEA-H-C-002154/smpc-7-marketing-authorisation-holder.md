@@ -1,6 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
-Emil-Barell-Strasse 1
-79639 Grenzach-Wyhlen
-Germany
+H.A.C.
+Pharma
+Péricentre 2
+43 Avenue de la Côte de Nacre
+14000 Caen
+France

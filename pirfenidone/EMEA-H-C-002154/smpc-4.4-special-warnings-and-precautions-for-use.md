@@ -49,6 +49,7 @@ Reports of anaphylactic reactions have also been received.
 Therefore, patients who develop signs or symptoms of angioedema or severe allergic reactions following administration of Esbriet should immediately discontinue treatment.
 Patients with angioedema or severe allergic reactions should be managed according to standard of care.
 Esbriet must not be used in patients with a history of angioedema or hypersensitivity due to Esbriet (see section 4.3).
+
 Dizziness
 
 Dizziness has been reported in patients taking Esbriet.
@@ -72,9 +73,5 @@ Hyponatraemia has been reported in patients treated with Esbriet (see section 4.
 As the symptoms of hyponatraemia may be subtle and masked by the presence of concomitant morbidities, regular monitoring of the relevant laboratory parameters is recommended, especially in the presence of evocative signs and symptoms such as nausea, headache or dizziness.
 
 Sodium
-
-Esbriet contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.
-
-[Esbriet 267 mg film-coated tablets]
 
 Esbriet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

@@ -1,39 +1,24 @@
 # 6.1 List of excipients
 
-Capsule content
+Tablet core
 
 Microcrystalline cellulose
 Croscarmellose sodium
-Povidone
-Magnesium stearate
-
-Capsule shell
-
-Titanium dioxide (E171)
-Gelatin
-
-Printing Inks
-
-Brown S-1-16530 or 03A2 inks containing:
-Shellac
-Iron oxide black (E172)
-Iron oxide red (E172)
-Iron oxide yellow (E172)
-Propylene glycol
-Ammonium hydroxide
-
-[Esbriet 267 mg film-coated tablets]
-
-Tablet core
-
 Povidone K30
 Colloidal anhydrous silica
+Magnesium stearate
 
 Film coat
 
 Polyvinyl alcohol
+Titanium dioxide (E171)
 Macrogol 3350
 Talc
 267 mg tablet
+Iron oxide yellow (E172)
 534 mg tablet
+Iron oxide yellow (E172)
+Iron oxide red (E172)
 801 mg tablet
+Iron oxide red (E172)
+Iron oxide black (E172)

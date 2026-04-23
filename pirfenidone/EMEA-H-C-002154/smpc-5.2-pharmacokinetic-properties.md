@@ -23,9 +23,10 @@ Biotransformation
 
 Approximately 70–80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
 In vitro data indicate some pharmacologically relevant activity of the major metabolite (5-carboxy-pirfenidone) at concentrations in excess of peak plasma concentrations in IPF patients.
-This may become clinically relevant in patients with moderate renal impairment where plasma exposure to 5-carboxy-pirfenidone is increased.
+This may become clinically relevant in patients with moderate renal impairment where plasma exposure to 5-carboxy-pirfenidone is increased
 
 Elimination
+
 The oral clearance of pirfenidone appears modestly saturable.
 In a multiple-dose, dose-ranging study in healthy older adults administered doses ranging from 267 mg to 1,335 mg three times a day, the mean clearance decreased by approximately 25% above a dose of 801 mg three times a day.
 Following single dose administration of pirfenidone in healthy older adults, the mean apparent terminal elimination half-life was approximately 2.4 hours.
@@ -45,7 +46,7 @@ Renal impairment
 
 No clinically relevant differences in the pharmacokinetics of pirfenidone were observed in subjects with mild to severe renal impairment compared with subjects with normal renal function.
 The parent substance is predominantly metabolised to 5-carboxy-pirfenidone.
-The mean (SD) AUC0-∞ of 5-carboxy-pirfenidone was significantly higher in the moderate (p = 0.009) and severe (p < 0.0001) renal impairment groups than in the group with normal renal function. ; 100 (26.3) mg•h/L and 168
+The mean (SD) AUC0-∞ of 5-carboxy-pirfenidone was significantly higher in the moderate (p = 0.009) and severe (p < 0.0001) renal impairment groups than in the group with normal renal function; 100 (26.3) mg•h/L and 168
 (67.4) mg•h/L compared to 28.7 (4.99) mg•h/L respectively.
 
 | Renal Impairment Group | Statistics | AUC0-∞ (mg•hr/L) |  |
@@ -66,7 +67,3 @@ Pirfenidone should be used with caution in patients with moderate renal impairme
 The use of pirfenidone is contraindicated in patients with severe renal impairment (CrCl <30ml/min) or end stage renal disease requiring dialysis (see sections 4.2 and 4.3).
 
 Population pharmacokinetic analyses from 4 studies in healthy subjects or subjects with renal impairment and one study in patients with IPF showed no clinically relevant effect of age, gender or body size on the pharmacokinetics of pirfenidone.
-
-[Esbriet 267 mg film-coated tablets]
-
-The mean (SD) AUC0-∞ of 5-carboxy-pirfenidone was significantly higher in the moderate (p = 0.009) and severe (p < 0.0001) renal impairment groups than in the group with normal renal function; 100 (26.3) mg•h/L and 168
