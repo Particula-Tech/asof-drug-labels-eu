@@ -3,6 +3,7 @@
 In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%).
 Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for placebo-treated patients (4.5%).
 The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
+
 In diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
 
 The following table presents the adverse drug reactions that were reported in placebo-controlled trials in which 1,965 hypertensive patients received irbesartan.
@@ -39,7 +40,6 @@ Not known: tinnitus
 Cardiac disorders
 
 Uncommon: tachycardia
-
 Vascular disorders
 
 Common: orthostatic hypotension*
@@ -53,7 +53,11 @@ Gastrointestinal disorders
 
 Common: nausea/vomiting
 Uncommon: diarrhoea, dyspepsia/heartburn
+
+Rare: intestinal angioedema
+
 Not known: dysgeusia
+
 Hepatobiliary disorders
 
 Uncommon: jaundice

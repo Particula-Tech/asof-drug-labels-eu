@@ -12,10 +12,10 @@ In particular, the addition of a diuretic such as hydrochlorothiazide has been s
 In hypertensive type 2 diabetic patients, therapy should be initiated at 150 mg irbesartan once daily and titrated up to 300 mg once daily as the preferred maintenance dose for treatment of renal disease.
 
 The demonstration of renal benefit of Aprovel in hypertensive type 2 diabetic patients is based on studies where irbesartan was used in addition to other antihypertensive agents, as needed, to reach target blood pressure (see sections 4.3, 4.4, 4.5 and 5.1).
-
 Special Populations
 
 Renal impairment
+
 No dosage adjustment is necessary in patients with impaired renal function.
 A lower starting dose
 (75 mg) should be considered for patients undergoing haemodialysis (see section 4.4).

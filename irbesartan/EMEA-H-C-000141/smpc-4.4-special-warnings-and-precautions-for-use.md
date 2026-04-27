@@ -11,7 +11,6 @@ There is no experience regarding the administration of Aprovel in patients with 
 
 Hypertensive patients with type 2 diabetes and renal disease: the effects of irbesartan both on renal and cardiovascular events were not uniform across all subgroups, in an analysis carried out in the study with patients with advanced renal disease.
 In particular, they appeared less favourable in women and non-white subjects (see section 5.1).
-
 Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
 Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1).
 If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure.
@@ -22,6 +21,12 @@ Close monitoring of serum potassium in patients at risk is recommended (see sect
 
 Hypoglycaemia: Aprovel may induce hypoglycaemia, particularly in diabetic patients.
 In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema:
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including Aprovel (see section 4.8).
+These patients presented with abdominal pain, nausea, vomiting and diarrhoea.
+Symptoms resolved after discontinuation of angiotensin II receptor antagonists.
+If intestinal angioedema is diagnosed, Aprovel should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Aprovel is not recommended (see section 4.5).
 
@@ -38,7 +43,6 @@ As observed for angiotensin converting enzyme inhibitors, irbesartan and the oth
 Pregnancy: angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy.
 Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
-
 Paediatric population: irbesartan has been studied in paediatric populations aged 6 to 16 years old but the current data are insufficient to support an extension of the use in children until further data become available (see sections 4.8, 5.1 and 5.2).
 
 Excipients:
@@ -77,5 +81,4 @@ Aprovel 150 mg film-coated tablet contains sodium.
 [Aprovel 300 mg film-coated tablets.]
 
 Aprovel 300 mg film-coated tablet contains lactose.
-
 Aprovel 300 mg film-coated tablet contains sodium.
