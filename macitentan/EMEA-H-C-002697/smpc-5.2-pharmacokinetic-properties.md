@@ -15,15 +15,17 @@ In healthy subjects, the exposure to macitentan and its active metabolite is unc
 
 Distribution
 
-Macitentan and its active metabolite are highly bound to plasma proteins (> 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein.
-Macitentan and its active metabolite ACT-132577 are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and ACT-132577, respectively.
+Macitentan and its active metabolite aprocitentan are highly bound to plasma proteins (> 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein.
+Macitentan and its active metabolite aprocitentan are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and aprocitentan, respectively.
 
 Biotransformation
 
-Macitentan has four primary metabolic pathways.
-Oxidative depropylation of the sulfamide yields a pharmacologically active metabolite.
-This reaction is dependent on the cytochrome P450 system, mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and CYP2C19.
-The active metabolite circulates in human plasma and may contribute to the pharmacological effect.
+Macitentan has four primary metabolic pathways. Oxidative depropylation of the sulfamide yields a
+pharmacologically active metabolite aprocitentan. This reaction is dependent on the cytochrome P450
+system, mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and
+CYP2C19. The active metabolite circulates in human plasma and may contribute to the
+
+pharmacological effect.
 Other metabolic pathways yield products without pharmacological activity.
 For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8, CYP2C19 and CYP3A4.
 
@@ -34,8 +36,7 @@ The major excretion route is via urine, accounting for about 50% of the dose.
 
 Comparison between film-coated tablet and dispersible tablet formulations
 
-Bioequivalence of macitentan 10 mg was established between the film-coated tablet and 4 x 2.5 mg
-dispersible tablets in a study with 28 healthy subjects.
+Bioequivalence of macitentan 10 mg was established between the film-coated tablet and 4 x 2.5 mg dispersible tablets in a study with 28 healthy subjects.
 
 Special populations
 
@@ -61,5 +62,11 @@ Exposures of macitentan comparable to that of adult PAH patients receiving 10 mg
 Exposure to macitentan in adult patients with PAH was approximately 1.2-fold greater than in healthy subjects.
 
 In healthy adult subjects, the exposure to macitentan and its active metabolite is unchanged in the presence of food and, therefore, macitentan may be taken with or without food.
+
+For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8,
+CYP2C19 and CYP3A4.
+
+Bioequivalence of macitentan 10 mg was established between the film-coated tablet and 4 x 2.5 mg
+dispersible tablets in a study with 28 healthy subjects.
 
 There is no clinically relevant effect of sex or ethnic origin on the pharmacokinetics of macitentan and its active metabolite.

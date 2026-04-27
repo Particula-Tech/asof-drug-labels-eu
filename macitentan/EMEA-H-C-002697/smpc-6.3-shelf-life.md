@@ -4,4 +4,4 @@
 
 [Opsumit 2.5 mg dispersible tablets]
 
-2 years.
+3 years.

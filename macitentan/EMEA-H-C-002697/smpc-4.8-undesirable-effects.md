@@ -40,7 +40,8 @@ Description of selected adverse reactions
 
 2 Hypotension has been associated with the use of ERAs including macitentan.
 In SERAPHIN, a long-term double-blind study in patients with PAH, hypotension was reported for 7.0% and 4.4% of patients on macitentan 10 mg and placebo, respectively.
-This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
+This corresponded to
+3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
 
 3 Oedema/fluid retention has been associated with the use of ERAs including macitentan.
 In SERAPHIN, a long-term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
@@ -102,9 +103,6 @@ professionals are asked to report any suspected adverse reactions via the nation
 listed in Appendix V.
 
 [Opsumit 2.5 mg dispersible tablets]
-
-This corresponded to
-3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
 
 The incidence of aminotransferase elevations (ALT/AST) > 3 × ULN was 3.4% on macitentan 10 mg and 4.5% on placebo in SERAPHIN, a double-blind study in adult patients with PAH.
 

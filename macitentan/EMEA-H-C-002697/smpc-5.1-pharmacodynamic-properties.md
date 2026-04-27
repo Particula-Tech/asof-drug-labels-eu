@@ -28,7 +28,6 @@ All patients were followed up to end-of-study (EOS) for vital status.
 EOS was declared when the predefined number of primary endpoint events was reached.
 In the period between end-of-treatment (EOT) and EOS, patients could receive open-label macitentan 10 mg or alternative PAH therapy.
 The overall median double-blind treatment duration was 115 weeks (up to a maximum of 188 weeks on macitentan).
-
 The mean age of all patients was 46 years (range 12–85 years of age, including 20 patients below 18, 706 patients between 18–74 years, and 16 patients aged 75 and older) with the majority of subjects being Caucasian (55%) and female (77%).
 Approximately 52%, 46%, and 2% of patients were in WHO FC II, III, and IV, respectively.
 
@@ -42,7 +41,8 @@ The treatment effect was established early and was sustained.
 Efficacy of macitentan 10 mg on the primary endpoint was consistent across subgroups of age, sex, ethnic origin, geographical region, aetiology, by monotherapy or in combination with another PAH therapy and by WHO FC (I/II and III/IV).
 
 Figure 1 Kaplan-Meier estimates of the first morbidity-mortality event in SERAPHIN
-Table 1 Summary of outcome events
+
+Table 1: Summary of outcome events
 
 | Endpoints & statistics | Patients with events |  | Treatment comparison: macitentan 10 mg vs placebo |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -150,7 +150,7 @@ Exposure-matching to adult patients was not established in this age group (see s
 
 Treatment with macitentan 10 mg resulted in a 45% risk reduction (hazard ratio [HR] 0.55; 97.5% CI: 0.39 to 0.76; logrank p < 0.0001) of the composite morbidity-mortality endpoint up to EOT when compared to placebo [Figure 1 and Table 2].
 
-Table 2 Summary of outcome events
+Table 2: Summary of outcome events
 
 The mean age was 9.8 years (range 2.1 years-17.9 years), with 35 (23.6%) aged ≥2 to <6 years, 61 (41.2%) aged
 

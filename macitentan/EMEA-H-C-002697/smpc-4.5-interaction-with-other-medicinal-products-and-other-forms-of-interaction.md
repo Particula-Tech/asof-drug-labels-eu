@@ -2,8 +2,12 @@
 
 In vitro studies
 
-The cytochrome P450 CYP3A4 is the main enzyme involved in the metabolism of macitentan and in the formation of its active metabolite, with minor contribution from CYP2C8, CYP2C9, and CYP2C19 enzymes (see section 5.2).
-Macitentan and its active metabolite do not have clinically relevant inhibitory or inducing effects on cytochrome P450 enzymes.
+| The cytochrome P450 CYP3A4 is the main enzyme involved in the metabolism of macitentan and in |  |
+| --- | --- |
+| the formation of its active metabolite aprocitentan, with minor contribution from CYP2C8, CYP2C9, |  |
+| and CYP2C19 enzymes (see section 5.2). | Macitentan and its active metabolite do not have clinically |
+
+relevant inhibitory or inducing effects on cytochrome P450 enzymes.
 
 Macitentan and its active metabolite are not inhibitors of hepatic or renal uptake transporters at clinically relevant concentrations, including the organic anion transporting polypeptides (OATP1B1 and OATP1B3).
 Macitentan and its active metabolite are not relevant substrates of OATP1B1 and OATP1B3 but enter the liver by passive diffusion.
