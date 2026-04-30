@@ -63,9 +63,9 @@ Carefully prepare the SPRYCEL oral suspension for administration, measure the do
 1.
 Mix the SPRYCEL oral suspension in the closed bottle Shake
 
-by shaking for 30 seconds. bottle repeatedl
+by shaking for 30 seconds. bottle repeatedly
 
-y for 30
+for 30
 
 - Shake well before each seconds.
 
@@ -118,21 +118,21 @@ Wash the outside and the inside of the syringe with water and allow to air dry a
 
 - Do not wash in a dishwasher.
 
-DO NOT USE A
+- Do not take the DO NOT USE A
+syringe apart in DISHWASHER
 
-- Do not take the DISHWASHER
-
-syringe apart in order to avoid damaging it.
+order to avoid damaging it.
 
 ALLOW TO
-AIR DRY AFTER
 
-11. Refer to the EACH USE
+11. Refer to the AIR DRY AFTER
+package leaflet (see EACH USE
 
-package leaflet (see section 5 ‘How to store SPRYCEL’) for instructions on discarding any
+section 5 ‘How to store SPRYCEL’) for instructions on discarding any
 
-unused medicine, TAKE APART DO NOT
-syringe and bottle. THE SYRINGE
+unused medicine, syringe and bottle. TAKE APART DO NOT
+
+THE SYRINGE
 
 Once constituted, the oral suspension should only be administered using the oral dosing syringe supplied with each pack.
 Refer to the package leaflet for more detailed instructions for use.

@@ -4,6 +4,7 @@ SPRYCEL 20 mg film-coated tablets
 EU/1/06/363/004
 EU/1/06/363/007
 EU/1/06/363/001
+
 SPRYCEL 50 mg film-coated tablets
 EU/1/06/363/005
 EU/1/06/363/008
