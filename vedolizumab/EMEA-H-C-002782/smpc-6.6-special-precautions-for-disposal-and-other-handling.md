@@ -46,8 +46,8 @@ Do not leave the pre-filled syringe or pre-filled pen in direct sunlight.
 Do not freeze.
 Do not use if it has been frozen.
 
-Inspect the solution visually for particulate matter and discoloration prior to administration.
+Inspect the solution visually for particulate matter and discolouration prior to administration.
 The solution should be colourless to yellow.
-Do not use pre-filled syringe or pre-filled pen with visible particulate matter or discoloration.
+Do not use pre-filled syringe or pre-filled pen with visible particulate matter or discolouration.
 
 Each pre-filled syringe or pre-filled pen is for single use only.

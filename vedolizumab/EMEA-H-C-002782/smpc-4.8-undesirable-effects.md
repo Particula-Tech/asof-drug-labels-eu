@@ -5,17 +5,16 @@ Summary of the safety profile
 The most commonly reported adverse reactions are infections (such as nasopharyngitis, upper respiratory tract infection, bronchitis, influenza and sinusitis), headache, nausea, pyrexia, fatigue, cough, arthralgia.
 
 Infusion related reactions (with symptoms such as dyspnoea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate) have also been reported in patients treated with vedolizumab.
-
 Tabulated list of adverse reactions
 
 The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class.
-Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), very rare (< 1/10 000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1.
 Adverse reactions
 
-| System organ class | Frequency | Adverse reaction(s) |
+| System organ class | Frequency | Adverse reactions |
 | --- | --- | --- |
 | Infections and infestations | Very common | Nasopharyngitis |
 |  | Common | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, Herpes zoster |
@@ -27,14 +26,14 @@ Adverse reactions
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
 |  | Not known | Interstitial lung disease |
-| Gastrointestinal disorders | Common | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids, Rectal haemorrhage* |
+| Gastrointestinal disorders | Common | Anal abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids, Rectal haemorrhage* |
 | Hepatobiliary disorders | Common | Liver enzyme increased |
 |  | Very rare | Hepatitis |
 | Skin and subcutaneous tissue disorders | Common | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne |
 |  | Uncommon | Folliculitis |
 | Musculoskeletal and connective tissue disorders | Very common | Arthralgia |
-|  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
-| General disorders and administration site conditions | Common | Pyrexia, Infusion related reaction (asthenia* and chest discomfort*), Infusion site reaction (including: Infusion site pain and Infusion site irritation) |
+|  | Common | Muscle spasms, Back pain, Muscular weakness, Pain in the extremity |
+| General disorders and administration site conditions | Common | Pyrexia, Fatigue, Infusion related reaction (asthenia* and chest discomfort*), Infusion site reaction (including: Infusion site pain and Infusion site irritation) |
 |  | Uncommon | Chills, Feeling cold |
 | *Reported in the EARNEST pouchitis study |  |  |
 
@@ -65,19 +64,14 @@ Most patients continued on vedolizumab after the infection resolved.
 
 In GEMINI 1 and 2 controlled studies with intravenous vedolizumab, the rate of serious infections was 0.07 per patient year in vedolizumab-treated patients and 0.06 per patient year in placebo-treated patients.
 Over time, there was no significant increase in the rate of serious infections.
-
 In the EARNEST controlled study (pouchitis) with intravenous vedolizumab, only 1 out of 51 subjects (2.0%) in the vedolizumab group experienced a serious infection of gastroenteritis.
 The subject was hospitalized for observation, recovered from the event and completed the study.
 
 In controlled and open-label studies (ulcerative colitis and Crohn’s disease) in adults with intravenous vedolizumab, serious infections have been reported, which include tuberculosis, sepsis (some fatal), salmonella sepsis, listeria meningitis, and cytomegaloviral colitis.
+
 In clinical studies with intravenous vedolizumab (ulcerative colitis and Crohn’s disease), the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m2 and above was higher than for those with BMI less than 30 kg/m2.
 
 In clinical studies with intravenous vedolizumab (ulcerative colitis and Crohn’s disease), a slightly higher incidence of serious infections was reported in vedolizumab-treated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.
-
-Malignancy
-
-Overall, results from the clinical program to date do not suggest an increased risk for malignancy with vedolizumab treatment; however, the number of malignancies was small and long-term exposure was limited.
-Long-term safety evaluations are ongoing.
 
 Reporting of suspected adverse reactions
 
@@ -89,7 +83,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 No clinically relevant differences in the overall safety profile and adverse reactions were observed in patients who received subcutaneous vedolizumab compared to the safety profile observed in clinical studies with intravenous vedolizumab with the exception of injection site reactions (with subcutaneous administration).
 
-| System organ class | Frequency | Adverse reaction(s) |
+| System organ class | Frequency | Adverse reactions |
 | --- | --- | --- |
 | Infections and infestations | Very common | Nasopharyngitis |
 |  | Common | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, Herpes zoster |
@@ -101,17 +95,15 @@ No clinically relevant differences in the overall safety profile and adverse rea
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
 |  | Not known | Interstitial lung disease |
-| Gastrointestinal disorders | Common | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids |
+| Gastrointestinal disorders | Common | Anal abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids |
 | Hepatobiliary disorders | Common | Liver enzyme increased |
 |  | Very rare | Hepatitis |
 | Skin and subcutaneous tissue disorders | Common | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne |
 |  | Uncommon | Folliculitis |
 | Musculoskeletal and connective tissue disorders | Very common | Arthralgia |
-|  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
-| General disorders and administration site conditions | Common | Pyrexia, Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Injection site reactions# |
+|  | Common | Muscle spasms, Back pain, Muscular weakness, Pain in the extremity |
+| General disorders and administration site conditions | Common | Pyrexia, Fatigue, Injection site reactions |
 |  | Uncommon | Chills, Feeling cold |
-
-#Subcutaneous administration only.
 
 Injection site reactions
 
@@ -128,7 +120,6 @@ In clinical studies with subcutaneous vedolizumab, the rate of infections was 0.
 The most frequent infections were nasopharyngitis, upper respiratory tract infection, bronchitis and influenza.
 
 In clinical studies with subcutaneous vedolizumab, the rate of serious infections was 0.02 per patient year in subcutaneous vedolizumab-treated patients.
-
 In clinical studies with intravenous and subcutaneous vedolizumab, the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m2 and above was higher than for those with BMI less than 30 kg/m2.
 
 In clinical studies with intravenous and subcutaneous vedolizumab, a slightly higher incidence of serious infections was reported in vedolizumab-treated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.

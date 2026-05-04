@@ -44,7 +44,7 @@ If PML is suspected, treatment with vedolizumab must be withheld; if confirmed, 
 Malignancies
 
 The risk of malignancy is increased in patients with ulcerative colitis and Crohn’s disease.
-Immunomodulatory medicinal products may increase the risk of malignancy (see section 4.8).
+Immunomodulatory medicinal products may increase the risk of malignancy.
 
 Prior and concurrent use of biological products
 
@@ -70,10 +70,13 @@ Induction of remission in Crohn’s disease
 
 Induction of remission in Crohn’s disease may take up to 14 weeks in some patients.
 The reasons for this are not fully known and are possibly related to the mechanism of action.
-This should be taken into consideration, particularly in patients with severe active disease at baseline not previously treated with TNFα antagonists.
-(see also section 5.1.)
+This should be taken into consideration, particularly in patients with severe active disease at baseline not previously treated with TNFα antagonists (see also section 5.1).
 
 Exploratory subgroup analyses from the clinical trials in Crohn’s disease suggested that vedolizumab administered in patients without concomitant corticosteroid treatment may be less effective for induction of remission in Crohn’s disease than in those patients already receiving concomitant corticosteroids (regardless of use of concomitant immunomodulators; see section 5.1).
+
+Polysorbate 80 content
+
+This medicinal product contains 3.31 mg of polysorbate 80 in each Entyvio 300 mg vial.
 
 [Entyvio 108 mg solution for injection in pre-filled syringe]
 
@@ -85,8 +88,8 @@ If an anaphylactic reaction, or other severe reaction occurs, administration of 
 
 Treatment is not to be initiated in patients with active, severe infections until the infections are controlled, and physicians should consider withholding treatment in patients who develop a severe infection while on chronic treatment with vedolizumab.
 
-This should be taken into consideration, particularly in patients with severe active disease at baseline not previously treated with TNFα antagonists (see also section 5.1).
-
 Sodium content
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
+
+This medicinal product contains 1.48 mg of polysorbate 80 in each Entyvio 108 mg pre-filled pen or pre-filled syringe.

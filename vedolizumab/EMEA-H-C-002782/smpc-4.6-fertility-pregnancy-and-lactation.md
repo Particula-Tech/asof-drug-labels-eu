@@ -3,6 +3,7 @@
 Women of childbearing potential
 
 Women of childbearing potential should use adequate contraception to prevent pregnancy and to continue its use for at least 18 weeks after the last treatment.
+
 Pregnancy
 
 There are limited amount of data from the use of vedolizumab in pregnant women.

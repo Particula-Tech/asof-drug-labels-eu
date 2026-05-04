@@ -14,8 +14,8 @@ The α4β7 integrin is expressed on a discrete subset of memory T helper lymphoc
 Vedolizumab reduces gastrointestinal inflammation in UC, CD and pouchitis patients.
 Inhibiting the interaction of α4β7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood.
 The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
-
-In healthy subjects, ulcerative colitis patients, or Crohn’s disease patients, vedolizumab does not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T lymphocytes, total memory T helper lymphocytes, monocytes or natural killer cells, in the peripheral blood with no leukocytosis observed.
+In healthy subjects, ulcerative colitis patients, or Crohn’s disease patients, vedolizumab does not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T lymphocytes, total memory
+T helper lymphocytes, monocytes or natural killer cells, in the peripheral blood with no leukocytosis observed.
 
 Vedolizumab did not affect immune surveillance and inflammation of the central nervous system in Experimental Autoimmune Encephalomyelitis in non-human primates, a model of multiple sclerosis.
 Vedolizumab did not affect immune responses to antigenic challenge in the dermis and muscle (see section 4.4).
@@ -100,6 +100,10 @@ Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%,
 Patients who failed to demonstrate response at week 6 remained in the study and received vedolizumab every 4 weeks.
 Clinical response using partial Mayo scores was achieved at week 10 and week 14 by greater proportions of vedolizumab patients (32% and 39%, respectively) compared with placebo patients (15% and 21%, respectively).
 
+Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures.
+Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
+
+Study extension
 Patients who lost response to vedolizumab when treated every 8 weeks were allowed to enter an open-label extension study and receive vedolizumab every 4 weeks.
 In these patients, clinical remission was achieved in 25% of patients at week 28 and week 52.
 
@@ -107,9 +111,6 @@ Patients who achieved a clinical response after receiving vedolizumab at week 0 
 In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
 
 In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
-
-Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures.
-Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
 
 Crohn’s disease
 
@@ -221,14 +222,15 @@ Enhanced clinical response was observed at week 10 and week 14 for greater propo
 There was no clinically meaningful difference in clinical remission between treatment groups at these time points.
 Analyses of week 52 clinical remission in patients who were non-responders at week 6 but achieved response at week 10 or week 14 indicate that non-responder CD patients may benefit from a dose of vedolizumab at week 10.
 
+Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
+
+Study extension
 Patients who lost response to vedolizumab when treated every 8 weeks in GEMINI 2 were allowed to enter an open-label extension study and received vedolizumab every 4 weeks.
 In these patients, clinical remission was achieved in 23% of patients at week 28 and 32% of patients at week 52.
-
 Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks.
 In these patients, clinical remission was achieved in 46% of patients by 28 weeks and 41% of patients by 52 weeks.
-In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
 
-Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
+In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
 
 Pouchitis
 
@@ -237,7 +239,7 @@ Enrolled patients had undergone proctocolectomy and ileal pouch anal anastomosis
 All patients received concomitant antibiotic treatment with ciprofloxacin 500 mg twice daily from the start of treatment through week 4.
 Patients received additional courses of antibiotics during the study as needed, including for pouchitis flares.
 
-Patients (n=102) were randomised (1:1) to receive either intravenous vedolizumab 300 mg or intravenous placebo at 0, 2 and 6 weeks, and every 8 weeks thereafter, until week 30.
+Patients (n = 102) were randomised (1:1) to receive either intravenous vedolizumab 300 mg or intravenous placebo at 0, 2 and 6 weeks, and every 8 weeks thereafter, until week 30.
 The primary endpoint was clinical remission (defined as an mPDAI score < 5 and a reduction in total mPDAI score of ≥ 2 points from baseline) at week 14.
 Table 6 shows the results from the primary and secondary endpoints at week 14 and Table 7 shows the results from secondary endpoints at week 34.
 
@@ -266,8 +268,8 @@ PDAI remission‡ 17.6% 37.3% 19.6 (1.9, 37.0)
 Clinical response§ 29.4% 51.0% 21.6 (1.9, 39.8)
 
 *Clinical remission is defined as mPDAI score < 5 and reduction in total mPDAI score of ≥ 2 points from baseline
-‡ PDAI remission is defined as PDAI score < 7 and a reduction in PDAI score of ≥ 3 points from baseline §Clinical response is defined as reduction of mPDAI score of ≥ 2 points from baseline
-Approximately two-thirds of patients had received prior (for UC or pouchitis) TNF α antagonist therapy (33 in vedolizumab and 31 in placebo treatment groups).
+‡PDAI remission is defined as PDAI score < 7 and a reduction in PDAI score of ≥ 3 points from baseline §Clinical response is defined as reduction of mPDAI score of ≥ 2 points from baseline
+Approximately two-thirds of patients had received prior (for UC or pouchitis) TNFα antagonist therapy (33 in vedolizumab and 31 in placebo treatment groups).
 Among these patients, 33.3% in the vedolizumab group achieved clinical remission at W14 compared with 9.7% in the placebo group.
 
 Paediatric population
@@ -296,7 +298,8 @@ Ulcerative colitis - vedolizumab for subcutaneous administration
 The efficacy and safety of subcutaneous vedolizumab for the treatment of adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 with endoscopic sub score ≥ 2) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 52 (VISIBLE 1).
 In VISIBLE 1, enrolled patients (n = 383) had failed at least 1 conventional therapy, including corticosteroids, immunomodulators, and/or TNFα antagonists (including primary non responders).
 
-Patients who achieved clinical response to open-label treatment with intravenous vedolizumab at week 6 were eligible to be randomised For the evaluation of the week 52 endpoints, 216 (56.4%) patients were randomised and treated in a double-blind fashion (2:1:1) to 1 of the following regimens: subcutaneous vedolizumab 108 mg every 2 weeks, intravenous vedolizumab 300 mg every 8 weeks, or placebo.
+Patients who achieved clinical response to open-label treatment with intravenous vedolizumab at week 6 were eligible to be randomised.
+For the evaluation of the week 52 endpoints, 216 (56.4%) patients were randomised and treated in a double-blind fashion (2:1:1) to 1 of the following regimens: subcutaneous vedolizumab 108 mg every 2 weeks, intravenous vedolizumab 300 mg every 8 weeks, or placebo.
 
 The baseline demographics were similar for patients in vedolizumab and placebo groups.
 The baseline Mayo score was between 9 to 12 (severe ulcerative colitis) in about 62% and 6 to 8 (moderate ulcerative colitis) in about 38% of the overall study population.
@@ -305,7 +308,6 @@ Primary study endpoint clinical remission was defined as a complete Mayo score o
 Clinical response was defined as a reduction in complete Mayo score of ≥ 3 points and ≥ 30% from baseline with an accompanying decrease in rectal bleeding subscore of ≥ 1 point or absolute rectal bleeding subscore of ≤ 2 points and no individual subscore >1 point.
 
 Table 4 shows the evaluated results from the primary and secondary endpoints.
-
 Week 52 efficacy results of VISIBLE I
 
 Endpointa Placebob n = 56 every 2 weeks Vedolizumab SC 108 mg n = 106 every 8 weeks Vedolizumab 300 mg n = 54 IV Vedolizumab SC Estimatec of vs. Placebo difference treatment (95% CI) P-valuec
@@ -322,7 +324,6 @@ NS = non significant (2-tailed p-value > 0.05)
 
 The primary and secondary endpoints were analysed in subgroups of patients who had failed prior TNFα antagonist therapy (37%; n = 80) and patients who were naïve to previous TNFα antagonist therapy (63%; n = 136).
 Results of study patients treated with placebo and subcutaneous vedolizumab in these subgroups are presented in Table 5.
-
 VISIBLE 1 Study results at week 52 analysed by response to prior previous TNFα antagonist therapy
 Treatment once every 2 weeks
 
@@ -340,22 +341,29 @@ Durable clinical response 35.1% 62.7%
 Durable clinical remission 8.1% 22.4%
 Corticosteroid free clinical remissionb 8.3% 30.4%
 
-a Patients who had failed prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 12 for placebo and n = 22 for subcutaneous vedolizumab b Patients who were naïve to prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 12 for placebo and n = 23 for subcutaneous vedolizumab
+aPatients who had failed prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 12 for placebo and n = 22 for subcutaneous vedolizumab bPatients who were naïve to prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 12 for placebo and n = 23 for subcutaneous vedolizumab
 
 Health related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and EuroQol-5 Dimension (EQ-5D, including EQ 5D VAS), which is a generic measure.
 Work productivity was assessed by work productivity and activity impairment questionnaire (WPAI-UC).
 Patients treated with subcutaneous vedolizumab maintained improvements in IBDQ, EQ-5D and WPAI-UC scores at week 52 to a greater extent than patients who received placebo.
 
-Patients who completed VISIBLE 1 were eligible to enrol in an ongoing, open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn’s disease.
+Patients who completed VISIBLE 1 were eligible to enrol in an open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn’s disease.
+
+Clinical remission in the open-label extension study was defined as a partial Mayo score of ≤ 2 and no individual subscore > 1 point.
+
+In this open-label extension study, clinical remission was observed in ulcerative colitis patients for up to 264 weeks.
+
+Of the patients who completed VISIBLE 1 who received subcutaneous maintenance vedolizumab, the clinical remission rate after 100 weeks of treatment was 75.4% (52/69).
+
+Of the patients who completed VISIBLE 1, who received intravenous maintenance vedolizumab, the clinical remission rate after 100 weeks of treatment (52 weeks of intravenous treatment and 48 weeks of subcutaneous treatment) was 68.6% (24/35).
 
 Patients in VISIBLE 1 who did not achieve clinical response at week 6 received a third dose of vedolizumab 300 mg by intravenous infusion at week 6.
 Of patients who received a third dose of vedolizumab 300 mg by intravenous infusion at week 6, 79.7% (114/143) achieved a clinical response at week 14.
 Patients who achieved a clinical response at week 14 were eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every 2 weeks.
-Clinical remission as assessed by the partial Mayo score (a standardised measure that includes 3 of the 4 scored subscales of the complete Mayo score: stool frequency, rectal bleeding, and physician global assessment) was achieved by 39.2% (40/102) of these patients at week 40 after transitioning to subcutaneous vedolizumab in the open-label extension study.
+Of these patients, after 62 weeks of treatment (14 weeks of intravenous treatment and 48 weeks of subcutaneous treatment), the clinical remission rate was 35.5% (38/107).
 
-Patients randomised to intravenous vedolizumab treatment group in VISIBLE 1 received vedolizumab 300 mg intravenously at weeks 0, 2, and 6 and every 8 weeks thereafter until week 52.
-At week 52, these patients entered the open-label extension study and received subcutaneous vedolizumab 108 mg every 2 weeks.
-Clinical remission as assessed by the partial Mayo score was maintained in 77% of patients at 24 weeks after transitioning to subcutaneous vedolizumab in the open-label extension study.
+Patients in VISIBLE 1 who discontinued early due to treatment failure were also eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every week.
+After 48 weeks of subcutaneous treatment in the open-label extension study, the clinical remission rate was 16.0% (4/25).
 
 Crohn’s disease – vedolizumab for intravenous administration
 
@@ -373,7 +381,6 @@ Crohn’s disease - vedolizumab for subcutaneous administration
 The efficacy and safety of subcutaneous vedolizumab for the treatment of adult patients with moderately to severely active Crohn’s disease (CDAI score of 220 to 450) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 52 (VISIBLE 2).
 In VISIBLE 2, enrolled patients (n = 644) had inadequate response to, loss of response to, or intolerance to one conventional therapy, including corticosteroids, immunomodulators, and/or TNFα antagonists (including primary non-responders).
 
-Patients who achieved clinical response to open-label treatment with intravenous vedolizumab at week 6 were eligible to be randomised.
 For the evaluation of the week 52 endpoints, 409 (64%) patients were randomised and treated in a double-blind fashion (2:1) to receive subcutaneous vedolizumab 108 mg (n = 275) or subcutaneous placebo (n = 134) every 2 weeks.
 
 The baseline CDAI was > 330 (severe Crohn’s disease) in about 41% and ≤ 330 (moderate Crohn’s disease) in about 59% of the overall study population.
@@ -404,9 +411,9 @@ Clinical remission in TNFα antagonist naïve patients†† 42.9% 48.6% 4.3 (-1
 §Clinical remission: CDAI score ≤ 150, at week 52
 #Enhanced clinical response: ≥ 100-point decrease in CDAI score from baseline (week 0), at week 52 **Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids and were in clinical remission at week 52.
 Patient numbers using oral corticosteroids at baseline were n = 44 for placebo and n = 95 for subcutaneous vedolizumab.
-†† Clinical remission (CDAI score ≤ 150, at week 52) in TNFα antagonist naïve patients (n = 63 placebo;
+††Clinical remission (CDAI score ≤ 150, at week 52) in TNFα antagonist naïve patients (n = 63 placebo;
 n = 107 subcutaneous vedolizumab
-‡‡ nominal p-value
+‡‡nominal p-value
 
 The primary and secondary endpoints were analysed in subgroups of patients who were naïve to prior TNFα antagonist therapy (42%; n = 170), patients who had failed prior TNFα antagonist therapy (51%; n = 210), and patients who had exposure to prior TNFα antagonist therapy but did not experience treatment failure (7%; n = 29).
 Results of study patients treated with placebo and subcutaneous vedolizumab in these subgroups are presented in Tables 9 and 10.
@@ -422,20 +429,34 @@ Clinical remission 42.9% 48.6% 4.3 (-11.6, 20.3)
 Enhanced clinical response 47.6% 54.2% 4.4 (-11.6, 20.3)
 remission** Corticosteroid-free 18.2% 41.0% 22.8 (-3.2, 46.8)
 
-** Patients who were naïve to prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 22 for placebo and n = 39 for subcutaneous vedolizumab
+**Patients who were naïve to prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 22 for placebo and n = 39 for subcutaneous vedolizumab
 Table 10.
 Week 52 efficacy results in patients who failed TNFα antagonist therapy in VISIBLE 2
 
 Endpoint n = 59 n = 151 Placebo
 Clinical remission 28.8% 46.4% 17.6 (3.8, 31.4)
 Enhanced clinical response 45.8% 49.0% 3.2 (-11.8, 18.2)
-Corticosteroid-free remission** 15.0% 46.2% 31.2 (5.2, 54.5)
+remission** Corticosteroid-free 15.0% 46.2% 31.2 (5.2, 54.5)
 
-** Patients who had failed prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 20 for placebo and n = 52 for subcutaneous vedolizumab
+**Patients who had failed prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 20 for placebo and n = 52 for subcutaneous vedolizumab
 
 HRQOL was assessed by IBDQ, a disease specific instrument, and EQ-5D (including EQ-5D VAS), which is a generic measure.
 Work productivity was assessed by WPAI-CD.
 Patients treated with subcutaneous vedolizumab maintained improvements in IBDQ, EQ-5D and WPAI-CD scores at week 52 to a greater extent than patients who received placebo.
-Patients who completed VISIBLE 2 were eligible to enrol in an ongoing, open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn’s disease.
+
+Patients who completed VISIBLE 2 were eligible to enrol in an open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn’s disease.
+
+Clinical remission in the open-label extension study was defined as a Harvey-Bradshaw Index (HBI) score of < 4 points.
+
+In this open-label extension study, clinical remission was observed in Crohn’s disease patients for up to 264 weeks.
+
+Of the patients who completed VISIBLE 2 who received subcutaneous maintenance vedolizumab, the clinical remission rate after 100 weeks of treatment (intravenous induction followed by subcutaneous maintenance) the open-label extension study was 58.2% (92/158).
+
+Patients in VISIBLE 2 who did not achieve clinical response at week 6 were to receive a third dose of vedolizumab 300 mg by intravenous infusion at week 6.
+Of patients who received a third dose of vedolizumab 300 mg by intravenous infusion at week 6, 65.1% (125/192) achieved a clinical response at week 14.
+Of these patients, after 62 weeks of treatment (14 weeks of intravenous treatment and 48 weeks of subcutaneous treatment), the clinical remission rate was 49.2% (58/118).
+
+Patients in VISIBLE 2 who discontinued early due to treatment failure were also eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every week.
+After 48 weeks of subcutaneous treatment in the open-label extension study, the clinical remission rate was 17.6% (12/68).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with vedolizumab in 1 or more subsets of the paediatric population in ulcerative colitis and Crohn’s disease (see section 4.2 for information on paediatric use).

@@ -81,6 +81,7 @@ Ulcerative colitis and Crohn’s disease
 
 The recommended dose regimen of subcutaneous vedolizumab as a maintenance treatment, following at least 2 intravenous infusions, is 108 mg administered by subcutaneous injection once every 2 weeks.
 The first subcutaneous dose should be administered in place of the next scheduled intravenous dose and every 2 weeks thereafter.
+
 For the intravenous dose regimen, see section 4.2 of the Entyvio 300 mg powder for concentrate for solution for infusion SmPC.
 
 Insufficient data are available to determine if patients who experience a decrease in response on maintenance treatment with subcutaneous vedolizumab would benefit from an increase in dosing frequency.
@@ -89,11 +90,12 @@ There are no data on transition of patients from subcutaneous vedolizumab to int
 
 Retreatment and missed dose(s)
 If treatment with subcutaneous vedolizumab is interrupted or if a patient misses a scheduled dose(s) of subcutaneous vedolizumab, patient should be advised to inject the next subcutaneous dose as soon as possible and then every 2 weeks thereafter.
-The treatment interruption period in clinical trials extended up to 46 weeks with no evident increase in adverse reactions or injection site reactions during re-initiation of treatment with subcutaneous vedolizumab (see section 4.8).
+
+The treatment interruption period in clinical trials extended up to 46 weeks.
+Efficacy was regained with no evident increase in adverse reactions or injection site reactions after re-initiation of treatment with subcutaneous vedolizumab (see section 4.8).
 
 Entyvio solution for injection (in a pre-filled syringe or a pre-filled pen) is for subcutaneous injection only.
 
 After proper training on correct subcutaneous injection technique, a patient or caregiver may inject with subcutaneous vedolizumab if their physician determines it is appropriate.
 Comprehensive instructions for administration using the pre-filled syringe or the pre-filled pen are given in the respective package leaflet.
-
 For further instructions on preparation and special precautions for handling, see section 6.6.
