@@ -33,7 +33,8 @@ The PK characteristics of MabThera in paediatric patients with DLBCL/BL/BAL/BLL 
 
 No PK data are available in the ≥ 6 months to < 3 years age group, however, population PK prediction supports comparable systemic exposure (AUC, Ctrough) in this age group compared to ≥ 3 years (Table 24).
 Smaller baseline tumour size is related to higher exposure due to lower time dependent clearance, however, systemic exposures impacted by different tumour sizes remain in the range of exposure that was efficacious and had an acceptable safety profile.
-Table 24: Predicted PK Parameters following the Rituximab Dosing Regimen in Paediatric DLBCL/BL/BAL/BLL
+Table 24: Predicted PK Parameters following the Rituximab Dosing Regimen in
+Paediatric DLBCL/BL/BAL/BLL
 
 | Age group | ≥ 6 mo to < 3 years | ≥ 3 to < 12 years | ≥ 12 to < 18 years |
 | --- | --- | --- | --- |
@@ -58,8 +59,10 @@ No pharmacokinetic data are available in patients with hepatic or renal impairme
 The pharmacokinetics of rituximab were assessed following two intravenous (IV) doses of 500 mg and 1000 mg on Days 1 and 15 in four studies.
 In all these studies, rituximab pharmacokinetics were dose proportional over the limited dose range studied.
 Mean Cmax for serum rituximab following first infusion ranged from 157 to 171 µg/mL for 2 x 500 mg dose and ranged from 298 to 341 µg/mL for 2 x 1000 mg dose.
-Following second infusion, mean Cmax ranged from 183 to 198 µg/mL for the 2 × 500 mg dose and ranged from 355 to 404 µg/mL for the 2 × 1000 mg dose.
-Mean terminal elimination half-life ranged from 15 to 16 days for the 2 x 500 mg dose group and 17 to 21 days for the 2 × 1000 mg dose group.
+Following second infusion, mean Cmax ranged from 183 to 198 µg/mL for the 2 ×
+500 mg dose and ranged from 355 to 404 µg/mL for the 2 × 1000 mg dose.
+Mean terminal elimination half-life ranged from 15 to 16 days for the 2 x 500 mg dose group and 17 to 21 days for the 2 ×
+1000 mg dose group.
 Mean Cmax was 16 to 19% higher following second infusion compared to the first infusion for both doses.
 
 The pharmacokinetics of rituximab were assessed following two IV doses of 500 mg and 1000 mg upon re-treatment in the second course.
@@ -109,7 +112,7 @@ Absorption
 
 Rituximab pharmacokinetics following single dose administration of MabThera subcutaneous 375 mg/m2, 625 mg/m2 and 800 mg/m2 were compared with MabThera intravenous 375 mg/m2 in FL patients.
 Following subcutaneous administration, the absorption of rituximab is slow, reaching maximal concentrations about 3 days after administration.
-Based on popPK analysis an absolute bioavailability of 71% was estimated.
+Based on popPK analysis an absolute bioavailability of 64.6% was estimated.
 Rituximab exposure increased dose proportional over the 375 mg/m2 to 800 mg/m2 subcutaneous dose range.
 Pharmacokinetic parameters such as clearance, distribution volume, and elimination half-life were comparable for both formulations.
 
@@ -148,12 +151,9 @@ Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcu
 | MabThera subcutaneous formulation | 134.6 |  | 3778 |  |
 | MabThera intravenous formulation | 83.1 |  | 2734 |  |
 
-In a population pharmacokinetic analysis in 403 follicular lymphoma patients who received subcutaneous and/or intravenous MabThera, single or multiple infusions of MabThera as a single agent or in combination with chemotherapy, the population estimates of nonspecific clearance (CL1), initial specific clearance (CL2) likely contributed by B-cells or tumour burden, and central compartment volume of distribution (V1) were 0.194 L/day, 0.535 L/day, and 4.37 L/day, respectively.
-The estimated median terminal elimination half-life of MabThera subcutaneous formulation was 29.7 days (range, 9.9 to 91.2 days).
-The analysis data set contained 6 003 quantifiable samples from 403 patients administered SC and/or IV rituximab in trials BP22333 (3 736 samples from 277 patients) and BO22334 (2 267 samples from 126 patients).
-Twenty-nine (0.48%) post-dose observations (all from trial BP22333) were below the quantification limit.
-There were no missing covariate values except baseline B-cell count.
-Baseline tumour load was available only in trial BO22334.
+In a population pharmacokinetic analysis in 399 follicular lymphoma patients who received subcutaneous and/or intravenous MabThera, single or multiple infusions of MabThera as a single agent or in combination with chemotherapy, the population estimates of nonspecific clearance (CL1), initial specific clearance (CL2) likely contributed by B-cells or tumour burden, and central compartment volume of distribution (V1) were 0.200 L/day, 0.398 L/day, and 4.54 L, respectively.
+The estimated median terminal elimination half-life of MabThera subcutaneous formulation was 34 days (range, 18.9 to 87.1 days).
+The analysis data set contained 8163 quantifiable samples from 399 patients administered SC and/or IV rituximab in trial BO22334
 
 Special populations
 
@@ -162,7 +162,8 @@ BSA ≥ 1.90 m2).
 The corresponding AUCτ ratios were 1.66, 1.17 and 1.32.
 
 There was no evidence of clinically relevant dependencies of rituximab pharmacokinetics on age and sex.
-Anti-rituximab antibodies were detected in only 13 patients and did not result in any clinically relevant increase in steady-state clearance.
+
+Anti-rituximab antibodies were detected in only 22 patients and did not result in any clinically relevant increase in steady-state clearance.
 
 [MabThera 1600 mg solution for subcutaneous injection]
 
@@ -181,7 +182,8 @@ In addition, central volume was slightly (9%) lower in females compared to males
 Absorption parameters of subcutaneous formulation, decreased with increasing BMI.
 Conditional simulations that summarised the impact of all body size dependencies on rituximab exposure demonstrated that, while fixed subcutaneous dosing leads to larger differences in exposure (Ctrough and AUCτ) between subjects with low and high body sizes compared to body-weight-adjusted intravenous dosing, it allows to maintain Ctrough and AUCτ values for all body-size groups at the levels not lower than levels attained by intravenous dosing, thus achieving at least the same target saturation as for intravenous dosing.
 For subjects weighing > 90 kg, Ctrough values were the same for the intravenous and subcutaneous regimens.
-For subjects weighing 60-90 kg and < 60 kg, average Ctrough values following intravenous dosing were approximately 16% and 34% lower compared to the subcutaneous regimen, respectively.
+For subjects weighing 60-90 kg and <
+60 kg, average Ctrough values following intravenous dosing were approximately 16% and 34% lower compared to the subcutaneous regimen, respectively.
 Similarly, for subjects in the high BSA tritile, Ctrough values were the same for the intravenous and subcutaneous regimens.
 For subjects in the middle and low BSA tritiles, average Ctrough values following intravenous dosing were approximately 12% and 26% lower compared to the subcutaneous regimen.
 

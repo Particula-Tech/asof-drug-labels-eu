@@ -2,7 +2,7 @@
 
 Concentrate for solution for infusion.
 
-Clear, colourless liquid with pH of 6.2 – 6.8 and osmolality of 324 – 396 mOsmol/kg.
+Clear to opalescent, colourless to pale yellow liquid with a pH of 6.2 – 6.8 and an Osmolality of 324 – 396 mOsmol/kg.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 

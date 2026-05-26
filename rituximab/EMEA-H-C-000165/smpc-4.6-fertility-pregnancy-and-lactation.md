@@ -18,6 +18,7 @@ Breast-feeding
 Limited data on rituximab excretion into breast milk suggest very low rituximab concentrations in milk (relative infant dose less than 0.4%).
 Few cases of follow-up of breastfed infants describe normal growth and development up to 2 years.
 However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breast-feeding is not recommended while being treated with rituximab and optimally for 6 months following rituximab treatment.
+
 Fertility
 
 Animal studies did not reveal deleterious effects of rituximab on reproductive organs.

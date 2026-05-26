@@ -5,7 +5,6 @@ The highest intravenous dose of MabThera tested in humans to date is 5000 mg (22
 No additional safety signals were identified.
 
 Patients who experience overdose should have immediate interruption of their infusion and be closely monitored.
-
 In the post-marketing setting five cases of MabThera overdose have been reported.
 Three cases had no reported adverse event.
 The two adverse events that were reported were flu-like symptoms, with a dose of 1.8 g of rituximab and fatal respiratory failure, with a dose of 2 g of rituximab.

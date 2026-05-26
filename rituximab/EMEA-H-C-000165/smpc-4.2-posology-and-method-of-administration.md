@@ -9,7 +9,6 @@ Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paraceta
 
 Non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
 In adult patients with non-Hodgkin’s lymphoma and CLL, premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy.
-
 In paediatric patients with non-Hodgkin’s lymphoma, premedication with paracetamol and H1 antihistamine (= diphenhydramine or equivalent) should be administered 30 to 60 minutes before the start of the infusion of MabThera.
 In addition, prednisone should be given as indicated in Table 1.
 
@@ -122,8 +121,7 @@ Paediatric population
 Non-Hodgkin’s lymphoma
 
 In paediatric patients from 6 months to less than 18 years of age with previously untreated, advanced stage CD20 positive DLBCL/BL/BAL/BLL, MabThera should be used in combination with systemic Lymphome Malin B (LMB) chemotherapy (see Tables 1 and 2).
-The recommended dosage of
-MabThera is 375 mg/m2 BSA, administered as an IV infusion.
+The recommended dosage of MabThera is 375 mg/m2 BSA, administered as an IV infusion.
 No MabThera dose adjustments, other than by BSA, are required.
 
 The safety and efficacy of MabThera in paediatric patients aged 6 months to less than 18 years of age has not been established in indications other than previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL.
@@ -193,12 +191,12 @@ The recommended initial rate for infusion is 50 mg/h; after the first 30 minutes
 Subsequent infusions
 
 Subsequent doses of MabThera can be infused at an initial rate of 100 mg/h, and increased by 100 mg/h increments at 30-minute intervals, to a maximum of 400 mg/h.
-
 Non-Hodgkin’s lymphoma - paediatric patients
 
 First infusion
 
 The recommended initial rate for infusion is 0.5 mg/kg/h (maximum 50 mg/h); it can be escalated by 0.5 mg/kg/h every 30 minutes if there is no hypersensitivity or infusion-related reactions, to a maximum of 400 mg/h.
+
 Subsequent infusions
 
 Subsequent doses of MabThera can be infused at an initial rate of 1 mg/kg/h (maximum 50 mg/h); it can be increased by 1 mg/kg/h every 30 minutes to a maximum of 400 mg/h.
@@ -240,12 +238,9 @@ The recommended dose of MabThera subcutaneous formulation used as a maintenance 
 Diffuse large B-cell non-Hodgkin's lymphoma
 
 The recommended dose is: first cycle, MabThera intravenous formulation: 375 mg/m2 body surface area, followed by subsequent cycles with MabThera subcutaneous formulation injected at a fixed dose of 1400 mg per cycle.
-In total:
-8 cycles.
+In total: 8 cycles.
 
 MabThera is administered on Day 1 of each chemotherapy cycle after intravenous infusion of the glucocorticoid component of CHOP.
-
-Safety and efficacy of MabThera have not been established in combination with other chemotherapies i n diffuse large B-cell non-Hodgkin’s lymphoma.
 
 When MabThera is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied (see section 4.8).
 
