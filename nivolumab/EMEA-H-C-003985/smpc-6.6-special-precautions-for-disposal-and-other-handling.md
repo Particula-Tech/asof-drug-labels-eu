@@ -6,9 +6,9 @@ Preparation and administration
 
 Calculating the dose
 More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
+
 Nivolumab monotherapy
 The prescribed dose for the adult patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
-
 Melanoma (advanced or adjuvant treatment) in adolescents.
 The prescribed dose for adolescents 12 years of age and older weighing at least 50 kg is 240 mg or 480 mg.
 For adolescents 12 years of age and older and weighing less than 50 kg, the prescribed dose is given in mg/kg.

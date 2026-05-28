@@ -32,19 +32,21 @@ OPDIVO as monotherapy is indicated for the treatment of advanced renal cell carc
 
 Classical Hodgkin lymphoma (cHL)
 
-OPDIVO as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
+OPDIVO in combination with doxorubicin, vinblastine and dacarbazine (AVD) is indicated for adults and adolescents 12 years of age and older with previously untreated Stage III or IV classical Hodgkin lymphoma.
 
 OPDIVO in combination with brentuximab vedotin is indicated for the treatment of children 5 years of age and older, adolescents and adults up to 30 years of age with relapsed or refractory classical Hodgkin lymphoma after one prior line of therapy (see section 5.1).
+
+OPDIVO as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
 
 Squamous cell cancer of the head and neck (SCCHN)
 
 OPDIVO as monotherapy is indicated for the treatment of recurrent or metastatic squamous cell cancer of the head and neck in adults progressing on or after platinum-based therapy (see section 5.1).
-
 Urothelial carcinoma (UC)
 
 OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with muscle invasive urothelial carcinoma (MIUC) with tumour cell PD-L1 expression ≥ 1%, who are at high risk of recurrence after undergoing radical resection of MIUC (see section 5.1).
 
 OPDIVO in combination with cisplatin and gemcitabine is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial carcinoma.
+
 OPDIVO as monotherapy is indicated for the treatment of locally advanced unresectable or metastatic urothelial carcinoma in adults after failure of prior platinum-containing therapy.
 
 Mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer (CRC)

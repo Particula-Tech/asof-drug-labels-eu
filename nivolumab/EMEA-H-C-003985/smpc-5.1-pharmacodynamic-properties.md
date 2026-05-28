@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and antibody drug conjugates, PD-1/PDL-1 (Programmed cell death protein 1/ death ligand 1) inhibitors.
 ATC code: L01FF01.
+
 Mechanism of action
 
 Nivolumab is a human immunoglobulin G4 (IgG4) monoclonal antibody (HuMAb), which binds to the programmed death-1 (PD-1) receptor and blocks its interaction with PD-L1 and PD-L2.
@@ -17,7 +18,6 @@ Clinical efficacy and safety
 
 Based on modelling of dose/exposure efficacy and safety relationships, there are no clinically significant differences in efficacy and safety between a nivolumab dose of 240 mg every 2 weeks or 3 mg/kg every 2 weeks.
 Additionally, based on these relationships, there were no clinically significant differences between a nivolumab dose of 480 mg every 4 weeks or 3 mg/kg every 2 weeks in adjuvant treatment of melanoma, advanced melanoma and advanced RCC.
-
 Melanoma
 
 Adjuvant treatment of melanoma
@@ -40,6 +40,7 @@ Baseline characteristics were generally balanced between the two groups.
 The median age was 62 years (range: 19-92), 61% were men, and 98% were white.
 Baseline ECOG performance status score was 0 (94%) or 1 (6%).
 Sixty percent had stage IIB and 40% had stage IIC.
+
 At a primary pre-specified interim analysis (minimum follow-up 7.8 months) a statistically significant improvement in RFS was demonstrated with nivolumab compared to placebo with a HR of 0.42
 (95% CI: 0.30, 0.59; p < 0.0001).
 At an updated descriptive RFS analysis (minimum follow-up of 15.6 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.53
@@ -49,9 +50,8 @@ At an additional RFS descriptive analysis (minimum follow-up 26.9 months), nivol
 The median follow-up was 34.25 months for the nivolumab arm and 33.92 months for the placebo arm.
 The outcomes were consistent with the formal interim analysis.
 Results reported from the analyses with minimum follow-up of 15.6 months are summarised in
-Table 21 and Figure 1.
-
-Table 21: Efficacy results (CA20976K)
+Table 22 and Figure 1.
+Table 22: Efficacy results (CA20976K)
 
 nivolumab placebo
 (n = 526) (n = 264)
@@ -70,6 +70,7 @@ a Based on stratified Cox proportional hazard model.
 b Based on Kaplan-Meier estimates.
 
 RFS benefit was consistent across key subgroups, including disease stage, T-category, and age.
+
 Figure 1: Recurrence-free survival (CA20976K)
 
 Recurrence-Free Survival per Investigator (months)
@@ -88,10 +89,11 @@ The exploratory RFS analyses by PD-L1 expression showed a HR for nivolumab vs pl
 
 Randomised phase 3 study of nivolumab vs ipilimumab 10 mg/kg (CA209238)
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of patients with completely resected melanoma were evaluated in a phase 3, randomised, double-blind study (CA209238).
-The study included adult patients, who had an ECOG performance status score of 0 or 1, with Stage IIIB/C or Stage IV American Joint Committee on Cancer (AJCC), 7th edition, histologically confirmed melanoma that is completely surgically resected.
+The study included adult patients, who had an ECOG performance status score of 0 or 1, with Stage IIIB/C or Stage IV AJCC, 7th edition, histologically confirmed melanoma that is completely surgically resected.
 Per the AJCC 8th edition, this corresponds to patients with lymph node involvement or metastases.
 Patients were enrolled regardless of their tumour PD-L1 status.
-Patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation) prior therapy with, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T cell co-stimulation or checkpoint pathways), were excluded from the study.
+Patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation) prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways), were excluded from the study.
+
 A total of 906 patients were randomised to receive either nivolumab 3 mg/kg (n = 453) administered every 2 weeks or ipilimumab 10 mg/kg (n = 453) administered every 3 weeks for 4 doses then every 12 weeks beginning at week 24 for up to 1 year.
 Randomisation was stratified by tumour PD-L1 expression (≥ 5% vs. < 5%/indeterminate), and stage of disease per the AJCC staging system.
 Tumour assessments were conducted every 12 weeks for the first 2 years then every 6 months thereafter.
@@ -103,18 +105,18 @@ The median age was 55 years (range: 18-86), 58% were men, and 95% were white.
 Baseline ECOG performance status score was 0 (90%) or 1 (10%).
 The majority of patients had AJCC Stage III disease (81%), and 19% had Stage IV disease.
 Forty-eight percent of patients had macroscopic lymph nodes and 32% had tumour ulceration.
-Forty-two percent of patients were BRAF V600 mutation positive while 45% were BRAF wild type and 13% BRAF were status unknown.
+Forty-two percent of patients were BRAF V600 mutation-positive while 45% were BRAF wild-type and 13% BRAF were status unknown.
 For tumour PD-L1 expression, 34% of patients had PD-L1 expression ≥ 5% and 62% had < 5% as determined by clinical trial assay.
 Among patients with quantifiable tumour PD-L1 expression, the distribution of patients was balanced across the treatment groups.
 Tumour PD-L1 expression was determined using the
 PD-L1 IHC 28-8 pharmDx assay.
 
 At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p< 0.0001) was demonstrated.
-At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p< 0.0001) and OS was not mature.
+At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% CI: 0.54, 0.81; p< 0.0001) and OS was not mature.
 Efficacy results with minimum follow-up of 36 months (RFS pre-specified final analysis) and 48 months (OS pre-specified final analysis) are shown in
-Table 22 and Figure 2 and 3 (all randomised population).
+Table 23 and Figure 2 and 3 (all randomised population).
 
-Table 22: Efficacy results (CA209238)
+Table 23: Efficacy results (CA209238)
 
 nivolumab ipilimumab 10 mg/kg
 (n = 453) (n = 453)
@@ -126,6 +128,8 @@ Events 188 (41.5%) 239 (52.8%)
 Hazard ratioa 0.68
 95% CI (0.56, 0.82)
 p-value p < 0.0001
+nivolumab ipilimumab 10 mg/kg
+(n = 453) (n = 453)
 Median (95% CI) months NR (38.67, NR) 24.87 (16.62, 35.12)
 
 Recurrence-free survival with minimum follow-up 48 months
@@ -139,8 +143,6 @@ Rate (95% CI) at 18 months 65.8 (61.2, 70.0) 53.0 (48.1, 57.6)
 Rate (95% CI) at 24 months 62.6 (57.9, 67.0) 50.2 (45.3, 54.8)
 Rate (95% CI) at 36 months 57.6 (52.8, 62.1) 44.4 (39.6, 49.1)
 Rate (95% CI) at 48 months 51.7 (46.8, 56.3) 41.2 (36.4, 45.9)
-nivolumab ipilimumab 10 mg/kg
-(n = 453) (n = 453)
 
 Final pre-specified analysis
 Overall survival with minimum follow-up 48 months
@@ -235,9 +237,9 @@ The observed OS benefit was consistently demonstrated across subgroups of patien
 Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 5% or 10%).
 Data available indicate that the onset of nivolumab effect is delayed such that benefit of nivolumab above chemotherapy may take 2-3 months.
 
-Efficacy results are shown in Table 23.
+Efficacy results are shown in Table 24.
 
-Table 23: Efficacy results (CA209066)
+Table 24: Efficacy results (CA209066)
 
 nivolumab dacarbazine
 (n = 210) (n = 208)
@@ -267,7 +269,7 @@ Median (95% CI) 5.1 (3.48, 10.81) 2.2 (2.10, 2.40)
 Rate (95% CI)
 
 At 6 months 48.0 (40.8, 54.9) 18.5 (13.1, 24.6)
-At 12 months 41.8 (34.0, 49.3) NA
+At 12 months 41.8 (34.0, 49.3) N.A.
 Objective response 84 (40.0%) 29 (13.9%)
 (95% CI) (33.3, 47.0) (9.5, 19.4)
 Odds ratio (95% CI) 4.06 (2.52, 6.54)
@@ -311,9 +313,9 @@ Baseline characteristics were balanced between groups except for the proportions
 
 At the time of this final ORR analysis, results from 120 nivolumab-treated patients and
 47 chemotherapy-treated patients who had a minimum of 6 months of follow-up were analysed.
-Efficacy results are presented in Table 24.
+Efficacy results are presented in Table 25.
 
-Table 24: Best overall response, time and duration of response (CA209037)
+Table 25: Best overall response, time and duration of response (CA209037)
 
 nivolumab chemotherapy
 (n = 120) (n = 47)
@@ -337,7 +339,7 @@ Updated analysis (24-month follow-up)
 Among all randomised patients, the ORR was 27.2% (95% CI: 22.0, 32.9) in the nivolumab group and 9.8% (95% CI: 5.3, 16.1) in the chemotherapy group.
 Median durations of response were 31.9 months (range: 1.4+-31.9) and 12.8 months (range: 1.3+-13.6+), respectively.
 The PFS HR for nivolumab vs. chemotherapy was 1.03 (95% CI: 0.78, 1.36).
-The ORR and PFS were assessed by IRRC per RECIST version 1.1.
+The ORR and PFS were assessed by IRRC per RECIST, version 1.1.
 
 There was no statistically significant difference between nivolumab and chemotherapy in the final OS analysis.
 The primary OS analysis was not adjusted to account for subsequent therapies, with 54 (40.6%) patients in the chemotherapy arm subsequently receiving an anti-PD1 treatment.
@@ -379,9 +381,9 @@ Safety was the primary endpoint and efficacy was a secondary endpoint.
 Of the 1008 treated patients, 103 (10%) had ocular/uveal melanoma, 66 (7%) had an ECOG performance score of 2, 165 (16%) had asymptomatic treated and untreated CNS metastases,
 13 (1.3%) had treated leptomeningeal metastases, 25 (2%) had autoimmune disease, and 84 (8%) had Grade 3-4 immune-related AEs with prior anti-CTLA-4 therapy.
 No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups.
-Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 25 below.
+Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 26 below.
 
-Table 25: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
+Table 26: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
 
 Total Ocular/ ECOG PS 2 CNS Autoimmune Grade 3-4
 Uveal metastasis disease irAEs with
@@ -389,14 +391,14 @@ melanoma anti-CTLA-4
 N 161/588 4/61 4/20 20/73 3/16 13/46
 (%)a (27.4) (6.6) (20.0) (27.4) (18.8) (28.3)
 
-a Responses were assessed per RECIST 1.1 for 588/1008 (58.3%) of patients who continued treatment through week 12 and had a follow-up scan at week 12.
+a Responses were assessed per RECIST, version 1.1 for 588/1008 (58.3%) of patients who continued treatment through week 12 and had a follow-up scan at week 12.
 
 Randomised phase 3 study of nivolumab in combination with ipilimumab or nivolumab as monotherapy vs. ipilimumab as monotherapy (CA209067)
 The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg or nivolumab 3 mg/kg vs. ipilimumab 3 mg/kg monotherapy for the treatment of advanced (unresectable or metastatic) melanoma were evaluated in a phase 3, randomised, double-blind study (CA209067).
 The differences between the two nivolumab-containing groups were evaluated descriptively.
 The study included adult patients with confirmed unresectable Stage III or Stage IV melanoma.
 Patients were to have ECOG performance status score of 0 or 1.
-Patients who had not received prior systemic anticancer therapy for unresectable or metastatic melanoma were enrolled.
+Patients who had not received prior systemic anti-cancer therapy for unresectable or metastatic melanoma were enrolled.
 Prior adjuvant or neoadjuvant therapy was allowed if it was completed at least 6 weeks prior to randomisation.
 Patients with active autoimmune disease, ocular/uveal melanoma, or active brain or leptomeningeal metastases were excluded from the study.
 
@@ -416,8 +418,7 @@ The median age was 61 years (range: 18 to 90 years), 65% of patients were men, a
 ECOG performance status score was 0 (73%) or 1 (27%).
 The majority of the patients had AJCC Stage IV disease (93%); 58% had M1c disease at study entry.
 Twenty-two percent of patients had received prior adjuvant therapy.
-Thirty-two percent of patients had BRAF mutation-positive melanoma; 26.5% of patients had PD-L1
-≥ 5% tumour cell membrane expression.
+Thirty-two percent of patients had BRAF mutation-positive melanoma; 26.5% of patients had PD-L1 ≥ 5% tumour cell membrane expression.
 Four percent of patients had a history of brain metastasis, and 36% of patients had a baseline LDH level greater than ULN at study entry.
 Among patients with quantifiable tumour PD-L1 expression, the distribution of patients was balanced across the three treatment groups.
 Tumour PD-L1 expression was determined using the
@@ -620,9 +621,9 @@ Nivolumab+ipilimumab vs. ipilimumab - HR (95% CI): 0.52 (0.39, 0.70)
 Nivolumab vs. ipilimumab - HR (95% CI): 0.52 (0.39, 0.69)
 Nivolumab+ipilimumab vs. nivolumab - HR (95% CI): 1.01 (0.74, 1.37)
 Minimum follow-up for the analysis of ORR was 90 months.
-Responses are summarised in Table 26.
+Responses are summarised in Table 27.
 
-Table 26: Objective response (CA209067) nivolumab +
+Table 27: Objective response (CA209067) nivolumab +
 
 ipilimumab nivolumab ipilimumab
 (n = 314) (n = 316) (n = 315)
@@ -654,7 +655,7 @@ This observation was maintained with the OS results with a minimum follow-up of 
 Among 131 patients who discontinued the combination due to adverse reaction after 28 months of follow-up, the ORR was 71% (93/131) with 20% (26/131) achieving a complete response and median OS was not reached.
 
 Both nivolumab-containing arms demonstrated greater objective response rates than ipilimumab regardless of PD-L1 expression levels.
-ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 26) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
+ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 27) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
 
 After 90 months of follow-up, median durations of response for patients with tumour PD-L1 expression level ≥ 5% were 78.19 months (range: 18.07-N.A.) in the combination arm,77.21 months (range: 26.25-N.A.) in the nivolumab monotherapy arm and 31.28 months (range: 6.08-N.A.) in the ipilimumab arm.
 At tumour PD-L1 expression < 5%, median durations of response were not reached (range: 61.93-N.A.) in the combination arm, were 90.84 months (range: 50.43-N.A.) in the nivolumab monotherapy arm and 19.25 months (range: 5.32-47.44) in the ipilimumab monotherapy arm.
@@ -663,26 +664,25 @@ No clear cut off for PD-L1 expression can reliably be established when consideri
 Results from exploratory multivariate analyses identified patient and tumour characteristics (ECOG performance status, M stage, baseline LDH, BRAF mutation status, PD-L1 status, and gender) which might contribute to the survival outcome.
 
 Efficacy by BRAF status:
-After 90 months of follow-up, BRAF[V600] mutation-positive and BRAF wild-type patients randomised to nivolumab in combination with ipilimumab had a median PFS of 16.76 months
+After 90 months of follow-up, BRAF V600 mutation-positive and BRAF wild-type patients randomised to nivolumab in combination with ipilimumab had a median PFS of 16.76 months
 (95% CI: 8.28, 32.0) and 11.7 months (95% CI: 7.0, 19.32), while those in the nivolumab monotherapy arm had a median PFS of 5.62 months (95% CI: 2.79, 9.46) and 8.18 months
 (95% CI: 5.13, 19.55), respectively.
-BRAF[V600] mutation-positive and BRAF wild-type patients randomised to ipilimumab monotherapy had a median PFS of 3.09 months (95% CI: 2.79, 5.19) and 2.83 months (95% CI: 2.76, 3.06), respectively.
+BRAF V600 mutation-positive and BRAF wild-type patients randomised to ipilimumab monotherapy had a median PFS of 3.09 months (95% CI: 2.79, 5.19) and 2.83 months (95% CI: 2.76, 3.06), respectively.
 
-After 90 months of follow-up, BRAF[V600] mutation-positive and BRAF wild-type patients randomised to nivolumab in combination with ipilimumab had an ORR of 67.0% (95% CI: 57.0, 75.9; n = 103) and 54.0% (95% CI: 47.1, 60.9; n = 211), while those in the nivolumab monotherapy arm had an ORR of 37.87% (95% CI: 28.2, 48.1; n = 98) and 48.2% (95% CI: 41.4, 55.0; n = 218), respectively.
-BRAF[V600] mutation-positive and BRAF wild-type patients randomised to ipilimumab monotherapy had an ORR of 23.0% (95% CI: 15.2, 32.5; n = 100) and 17.2% (95% CI: 12.4, 22.9;
+After 90 months of follow-up, BRAF V600 mutation-positive and BRAF wild-type patients randomised to nivolumab in combination with ipilimumab had an ORR of 67.0% (95% CI: 57.0, 75.9; n = 103) and 54.0% (95% CI: 47.1, 60.9; n = 211), while those in the nivolumab monotherapy arm had an ORR of 37.87% (95% CI: 28.2, 48.1; n = 98) and 48.2% (95% CI: 41.4, 55.0; n = 218), respectively.
+BRAF V600 mutation-positive and BRAF wild-type patients randomised to ipilimumab monotherapy had an ORR of 23.0% (95% CI: 15.2, 32.5; n = 100) and 17.2% (95% CI: 12.4, 22.9;
 n = 215).
 
-After 90 months of follow-up, in BRAF [V600] mutation-positive patients median OS was not reached in the combination arm and 45.5 months in the nivolumab monotherapy arm.
-Median OS for BRAF [V600] mutation-positive patients in the ipilimumab monotherapy arm was 24.6 months.
+After 90 months of follow-up, in BRAF V600 mutation-positive patients median OS was not reached in the combination arm and 45.5 months in the nivolumab monotherapy arm.
+Median OS for BRAF V600 mutation-positive patients in the ipilimumab monotherapy arm was 24.6 months.
 In BRAF wild-type patients median OS was 39.06 months in the combination arm, 34.37 months in the nivolumab monotherapy arm and 18.5 months in the ipilimumab monotherapy arm.
 The OS HRs for nivolumab in combination with ipilimumab vs. nivolumab monotherapy were 0.66
-(95% CI: 0.44, 0.98) for BRAF[V600] mutation-positive patients and 0.95 (95% CI: 0.74, 1.22) for BRAF wild-type patients.
+(95% CI: 0.44, 0.98) for BRAF V600 mutation-positive patients and 0.95 (95% CI: 0.74, 1.22) for BRAF wild-type patients.
 
-Randomised phase 2 study of nivolumab in combination with ipilimumab and ipilimumab (CA209069)
-Study CA209069 was a randomised, Phase 2, double-blind study comparing the combination of nivolumab and ipilimumab with ipilimumab alone in 142 patients with advanced (unresectable or metastatic) melanoma with similar inclusion criteria to study CA209067 and the primary analysis in patients with BRAF wild-type melanoma (77% of patients).
+Randomised phase 2 study of nivolumab in combination with ipilimumab vs ipilimumab (CA209069)
+Study CA209069 was a randomised, phase 2, double-blind study comparing the combination of nivolumab and ipilimumab with ipilimumab alone in 142 patients with advanced (unresectable or metastatic) melanoma with similar inclusion criteria to study CA209067 and the primary analysis in patients with BRAF wild-type melanoma (77% of patients).
 Investigator assessed ORR was 61% (95% CI: 48.9, 72.4) in the combination arm (n = 72) versus 11% (95% CI: 3.0, 25.4) for the ipilimumab arm (n = 37).
-The estimated 2 and 3 year OS rates were 68% (95% CI: 56, 78) and 61% (95% CI: 49, 71), respectively, for the combination (n = 73) and 53% (95% CI: 36, 68) and 44%
-(95% CI: 28, 60), respectively, for ipilimumab (n = 37).
+The estimated 2 and 3 year OS rates were 68% (95% CI: 56, 78) and 61% (95% CI: 49, 71), respectively, for the combination (n = 73) and 53% (95% CI: 36, 68) and 44% (95% CI: 28, 60), respectively, for ipilimumab (n = 37).
 
 Non-small cell lung cancer
 
@@ -690,7 +690,7 @@ Neoadjuvant treatment of NSCLC
 
 Randomised, open-label, phase 3 study of nivolumab in combination with platinum-based chemotherapy vs. platinum-based chemotherapy (CA209816)
 The safety and efficacy of nivolumab in combination with platinum-based chemotherapy for 3 cycles were evaluated in a phase 3, randomised, open-label study (CA209816).
-The study included patients with ECOG performance status 0 or 1, measurable disease (per RECIST version 1.1), and whose tumours were resectable, histologically confirmed Stage IB (≥ 4 cm), II, or IIIA NSCLC (per the 7th edition AJCC/Union for International Cancer Control (UICC) staging criteria).
+The study included patients with ECOG performance status 0 or 1, measurable disease (per RECIST, version 1.1), and whose tumours were resectable, histologically confirmed Stage IB (≥ 4 cm), II, or IIIA NSCLC (per the 7th edition AJCC/Union for International Cancer Control (UICC) staging criteria).
 
 The following selection criteria define patients with high risk of recurrence who are included in the therapeutic indication and are reflective of a patient population with stage II-IIIA disease according to the 7th edition AJCC/UICC staging criteria: any patient with a tumour size ≥5 cm; any patient with N1 or N2 disease (regardless of primary tumour size); patients with multiple tumour nodules in either the same lobe or different ipsilateral lobes; patients with tumours that are invasive of thoracic structures (directly invade visceral pleura, parietal pleura, chest wall, diaphragm, phrenic nerve, mediastinal pleura, parietal pericardium, mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, oesophagus, vertebral body, carina); or tumours that involve the main bronchus; or tumours that are associated with atelectasis or obstructive pneumonitis that extends to the hilar region or involves the entire lung.
 
@@ -708,7 +708,7 @@ Platinum-based chemotherapy consisted of investigator’s choice of paclitaxel 1
 In the chemotherapy arm, two additional treatment regimen options included vinorelbine 25 mg/m2 or 30 mg/m2 and cisplatin 75 mg/m2; or docetaxel 60 mg/m2 or 75 mg/m2 and cisplatin 75 mg/m2 (any histology).
 
 Tumour assessments were performed at baseline, within 14 days of surgery, every 12 weeks after surgery for 2 years, then every 6 months for 3 years, and every year for 5 years until disease recurrence or progression.
-The primary efficacy outcome measures were event-free survival (EFS) based on BICR assessment and pathological complete response rate (pCR) by blinded-independent pathology review (BIPR).
+The primary efficacy outcome measures were event-free survival (EFS) based on Blinded Independent Central Review (BICR) assessment and pathological complete response rate (pCR) by blinded-independent pathology review (BIPR).
 OS was a key secondary efficacy outcome measure and exploratory endpoints included feasibility of surgery.
 
 Baseline characteristics in the ITT population were generally balanced across treatment groups.
@@ -727,9 +727,9 @@ At a pre-specified interim analysis, the HR for OS (minimum follow up 21 months)
 At the final OS analysis with a minimum follow up of 59.9 months, the HR for OS was 0.72 (95.18% CI: 0.52, 1.00), with a statistically significant p-value of 0.0479 (stratified log-rank test) for nivolumab in combination with chemotherapy vs. chemotherapy.
 
 Exploratory subgroup analysis by tumour PD-L1 expression and disease stage
-The key efficacy results for the subgroup of patients with tumour PD-L1 expression ≥ 1% and disease stage II-IIIA from an exploratory analysis with a minimum follow-up of 32.9 months are summarized in Table 27.
+The key efficacy results for the subgroup of patients with tumour PD-L1 expression ≥ 1% and disease stage II-IIIA from an exploratory analysis with a minimum follow-up of 32.9 months are summarized in Table 28.
 
-Table 27: Efficacy results in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease* (CA209816)
+Table 28: Efficacy results in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease* (CA209816)
 
 nivolumab + chemotherapy chemotherapy
 (n = 81) (n = 86)
@@ -820,9 +820,9 @@ In a pre-specified interim analysis in all randomised patients with a median fol
 Median EFS was not reached (95% CI: 28.94, NE) in the nivolumab in combination with chemotherapy/nivolumab arm and 18.43 months (95% CI: 13.63, 28.06) in the placebo with chemotherapy/placebo arm (HR = 0.58, 97.36% CI: 0.42, 0.81; stratified log-rank p-value 0.00025).
 In a pre-specified interim analysis in all randomised patients with a median follow-up of 41 months (range: 31.3-59.8 months), median OS was not reached in both the nivolumab in combination with chemotherapy/nivolumab arm and in the placebo with chemotherapy/placebo arm (HR = 0.85, 97.63% CI: 0.58, 1.25).
 Exploratory subgroup analysis by tumour PD-L1 expression
-EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 28 and Figure 13.
+EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 29 and Figure 13.
 
-Table 28: Efficacy results in patients with tumour PD-L1 ≥ 1% (CA20977T)
+Table 29: Efficacy results in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 |  | nivolumab with chemotherapy/ nivolumab (n = 128) | placebo with chemotherapy/ placebo (n = 128) |
 | --- | --- | --- |
@@ -865,7 +865,7 @@ First-line treatment of NSCLC
 
 Randomised phase 3 study of nivolumab in combination with ipilimumab and 2 cycles of platinum-based chemotherapy vs. 4 cycles of platinum-based chemotherapy (CA2099LA)
 The safety and efficacy of nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-based chemotherapy were evaluated in a phase 3, randomised, open-label study (CA2099LA).
-The study included patients (18 years or older) with histologically confirmed non-squamous or squamous Stage IV or recurrent NSCLC (per the 7th International Association for the Study of Lung Cancer classification), ECOG performance status 0 or 1, and no prior anticancer therapy (including EGFR and ALK inhibitors).
+The study included patients (18 years or older) with histologically confirmed non-squamous or squamous Stage IV or recurrent NSCLC (per the 7th International Association for the Study of Lung Cancer classification), ECOG performance status 0 or 1, and no prior anti-cancer therapy (including EGFR and ALK inhibitors).
 Patients were enrolled regardless of their tumour PD-L1 status.
 
 Patients with sensitising EGFR mutations or ALK translocations, active (untreated) brain metastases, carcinomatous meningitis, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
@@ -892,10 +892,10 @@ No patients received prior immunotherapy.
 CA2099LA primary efficacy outcome measure was OS.
 Additional efficacy endpoints were PFS, ORR, and duration of response as assessed by BICR.
 
-The study demonstrated a statistically significant benefit in OS, PFS, and ORR for patients randomised to nivolumab in combination with ipilimumab and platinum-based chemotherapy as compared to platinum-based chemotherapy alone at the prespecified interim analysis when 351 events were observed (87% of the planned number of events for final analysis).
+The study demonstrated a statistically significant benefit in OS, PFS, and ORR for patients randomised to nivolumab in combination with ipilimumab and platinum-based chemotherapy as compared to platinum-based chemotherapy alone at the pre-specified interim analysis when 351 events were observed (87% of the planned number of events for final analysis).
 Minimum follow-up for OS was 8.1 months.
 
-Efficacy results are shown in Figure 15 (updated OS analysis with a minimum follow-up of 12.7 months) and Table 29 (primary analysis with a minimum follow-up of 8.1 months).
+Efficacy results are shown in Figure 15 (updated OS analysis with a minimum follow-up of 12.7 months) and Table 30 (primary analysis with a minimum follow-up of 8.1 months).
 
 An updated efficacy analysis was performed when all patients had a minimum follow-up of 12.7 months (see Figure 15).
 At the time of this analysis, the hazard ratio for OS was 0.66 (95% CI: 0.55, 0.80) and the hazard ratio for PFS was 0.68 (95% CI: 0.57, 0.82).
@@ -915,7 +915,7 @@ Chemotherapy
 • Nivolumab + ipilimumab + chemotherapy (events: 190/361), median and 95% CI: 15.64 (13.93, 19.98)
 - - -•- - - Chemotherapy (events: 242/358), median and 95% CI: 10.91 (9.46, 12.55)
 
-Table 29: Efficacy results (CA2099LA)
+Table 30: Efficacy results (CA2099LA)
 
 nivolumab + ipilimumab + chemotherapy (n = 361) chemotherapy (n = 358)
 
@@ -965,8 +965,8 @@ Subsequent immunotherapy (including anti-PD-1, anti-PD-L1, and anti-CTLA4) was r
 
 In study CA2099LA, subgroup descriptive analysis relative to chemotherapy, OS benefit was shown in patients treated with nivolumab in combination with ipilimumab and chemotherapy with squamous histology (HR [95% CI] 0.65 [0.46, 0.93], n = 227) and in patients with non-squamous histology (HR [95% CI] 0.72 [0.55, 0.93], n = 492).
 
-Table 30 summarises efficacy results of OS, PFS, and ORR by tumour PD-L1 expression in pre-specified subgroup analyses.
-Table 30: Efficacy results by tumour PD-L1 expression (CA2099LA)
+Table 31 summarises efficacy results of OS, PFS, and ORR by tumour PD-L1 expression in pre-specified subgroup analyses.
+Table 31: Efficacy results by tumour PD-L1 expression (CA2099LA)
 
 |  | nivolumab + ipilimumab + chemo-therapy | chemo-therapy | nivolumab + ipilimumab + chemo-therapy | chemo-therapy | nivolumab + ipilimumab + chemo-therapy | chemo-therapy | nivolumab + ipilimumab + chemo-therapy | chemo-therapy |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1037,8 +1037,8 @@ Study CA209017 included a limited number of patients ≥ 75 years (11 in the niv
 Nivolumab showed numerically less effect on OS (HR 1.85; 95% CI: 0.76, 4.51), PFS (HR = 1.76; 95%-CI: 0.77, 4.05) and ORR (9.1% vs. 16.7%).
 Because of the small sample size, no definitive conclusions can be drawn from these data.
 
-Efficacy results are shown in Table 31.
-Table 31: Efficacy results (CA209017)
+Efficacy results are shown in Table 32.
+Table 32: Efficacy results (CA209017)
 
 nivolumab docetaxel
 (n = 135) (n = 137)
@@ -1136,9 +1136,9 @@ Study CA209171 was a single-arm, open label study of nivolumab monotherapy in pa
 Safety was the primary endpoint and efficacy was a secondary endpoint.
 Of the 811 treated patients, 103 (13%) had an ECOG performance score of 2, 686 (85%) were < 75 years old and 125 (15%) were ≥ 75 years old.
 No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups.
-Efficacy results based on investigator-assessed ORR are presented in Table 32 below.
+Efficacy results based on investigator-assessed ORR are presented in Table 33 below.
 
-Table 32: ORR based on response evaluable patients – total and by subgroup (CA209171)
+Table 33: ORR based on response evaluable patients – total and by subgroup (CA209171)
 
 Results Total ECOG PS 2 < 75 years ≥ 75 years
 N responders/ N evaluablea 66/671 1/64 55/568 11/103
@@ -1160,11 +1160,11 @@ Patients with treated brain metastases were eligible if neurologically returned 
 A total of 582 patients were randomised to receive either nivolumab 3 mg/kg administered intravenously over 60 minutes every 2 weeks (n = 292) or docetaxel 75 mg/m2 every 3 weeks
 (n = 290).
 Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
-Tumour assessments were conducted according to the RECIST version 1.1.
+Tumour assessments were conducted according to the RECIST, version 1.1.
 The primary efficacy outcome measure was OS.
 Key secondary efficacy outcome measures were investigator-assessed ORR and PFS.
-Additional prespecified subgroup analyses were conducted to evaluate the efficacy of tumour PD-L1 expression at predefined levels of 1%, 5% and 10%.
-Assessment according to discrete PD-L1 expression intervals were not included in the prespecified analyses due to the small sample sizes within the intervals.
+Additional pre-specified subgroup analyses were conducted to evaluate the efficacy of tumour PD-L1 expression at predefined levels of 1%, 5% and 10%.
+Assessment according to discrete PD-L1 expression intervals were not included in the pre-specified analyses due to the small sample sizes within the intervals.
 
 Pre-study tumour tissue specimens were systematically collected prior to randomisation in order to conduct pre-planned analyses of efficacy according to tumour PD-L1 expression.
 Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
@@ -1188,15 +1188,15 @@ Docetaxel
 • Nivolumab 3 mg/kg (events: 190/292), median and 95% CI: 12.19 (9.66, 14.98)
 - - -•- - - Docetaxel (events: 223/290), median and 95% CI: 9.36 (8.05, 10.68)
 
-The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis).
-Efficacy results are shown in Table 33.
+The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with docetaxel at the pre-specified interim analysis when 413 events were observed (93% of the planned number of events for final analysis).
+Efficacy results are shown in Table 34.
 
-Table 33: Efficacy results (CA209057)
+Table 34: Efficacy results (CA209057)
 
 nivolumab docetaxel
 (n = 292) (n = 290)
 
-Prespecified interim analysis
+Pre-specified interim analysis
 Minimum follow-up: 13.2 months
 Overall survival
 
@@ -1206,19 +1206,20 @@ Hazard ratioa 0.73
 p-valueb 0.0015
 Median (95% CI) months 12.19 (9.66, 14.98) 9.36 (8.05, 10.68)
 Rate (95% CI) at 12 months 50.5 (44.6, 56.1) 39.0 (33.3, 44.6)
-
-|  |  |
-| --- | --- |
-| Confirmed objective response (95% CI) Odds ratio (95% CI) p-value Complete response (CR) Partial response (PR) Stable disease (SD) Median duration of response Months (range) Median time to response Months (range) Progression-free survival Events Hazard ratio 95% CI p-value Median (95% CI) (months) Rate (95% CI) at 12 months |  |
-|  | Minim |
-| Overall survivalc Events Hazard ratioa (95% CI) Rate (95% CI) at 24 months Confirmed objective response (95% CI) Median duration of response Months (range) Progression-free survival Rate (95% CI) at 24 months |  |
-
-nivolumab docetaxel
-(n = 292) (n = 290)
 Confirmed objective response 56 (19.2%) 36 (12.4%)
 (95% CI) (14.8, 24.2) (8.8, 16.8)
 Odds ratio (95% CI) 1.68 (1.07, 2.64)
 p-value 0.0246
+
+|  |  |
+| --- | --- |
+| Complete response (CR) Partial response (PR) Stable disease (SD) Median duration of response Months (range) Median time to response Months (range) Progression-free survival Events Hazard ratio 95% CI p-value Median (95% CI) (months) Rate (95% CI) at 12 months |  |
+|  | Minim |
+| Overall survivalc Events Hazard ratioa (95% CI) Rate (95% CI) at 24 months Confirmed objective response (95% CI) Median duration of response Months (range) Progression-free survival Rate (95% CI) at 24 months |  |
+|  | Minim |
+
+nivolumab docetaxel
+(n = 292) (n = 290)
 Complete response (CR) 4 (1.4%) 1 (0.3%)
 Partial response (PR) 52 (17.8%) 35 (12.1%)
 Stable disease (SD) 74 (25.3%) 122 (42.1%)
@@ -1226,7 +1227,6 @@ Months (range) 17.15 (1.8-22.6+) 5.55 (1.2+-15.2+)
 Months (range) 2.10 (1.2-8.6) 2.61 (1.4-6.3)
 Events 234 (80.1%) 245 (84.5%)
 95% CI (0.77, 1.11)
-p-value 0.3932
 Median (95% CI) (months) 2.33 (2.17, 3.32) 4.21 (3.45, 4.86)
 Rate (95% CI) at 12 months 18.5 (14.1, 23.4) 8.1 (5.1, 12.0)
 
@@ -1241,23 +1241,25 @@ Confirmed objective response 19.2% 12.4%
 Months (range) 17.2 (1.8-33.7+) 5.6 (1.2+-16.8)
 Rate (95% CI) at 24 months 11.9 (8.3, 16.2) 1.0 (0.2, 3.3)
 
-|  |  |
-| --- | --- |
-|  | Minim |
-| Overall survivald Events Hazard ratioa (95% CI) Rate (95% CI) at 60 months Confirmed objective response (95% CI) Median duration of response Months (range) Progression-free survival Rate (95% CI) at 60 months |  |
-
-nivolumab docetaxel
-(n = 292) (n = 290)
-
 Updated analysis
 Minimum follow-up: 62.7 months
+Overall survivald
 
 Events 250 (85.6%) 279 (96.2%)
+Hazard ratioa 0.70
 (95% CI) (0.58, 0.83)
 Rate (95% CI) at 60 months 14.0 (10.2, 18.3) 2.1 (0.9, 4.4)
 Confirmed objective response 19.5% 12.4%
 (95% CI) (15.1, 24.5) (8.8, 16.8)
+
+Median duration of response
+
 Months (range) 17.2 (1.8-70.4+) 5.6 (0.0+-33.4)
+nivolumab docetaxel
+(n = 292) (n = 290)
+
+Progression-free survival
+
 Rate (95% CI) at 60 months 7.5 (4.5, 11.4) All patients had either progressed,
 
 were censored, or lost to follow-up a Derived from a stratified proportional hazards model.
@@ -1273,9 +1275,9 @@ Patients with tumour PD-L1 expression by all predefined expression levels in the
 In terms of ORR, increasing PD-L1 expression was associated with larger ORR.
 Comparable to the overall population, median duration of response was increased with nivolumab vs. docetaxel for patients with no PD-L1 expression (18.3 months vs. 5.6 months) and for patients with PD-L1 expression (16.0 months vs. 5.6 months).
 
-Table 34 summarises results of ORR and OS by tumour PD-L1 expression.
+Table 35 summarises results of ORR and OS by tumour PD-L1 expression.
 
-Table 34: ORR and OS by tumour PD-L1 expression (CA209057)
+Table 35: ORR and OS by tumour PD-L1 expression (CA209057)
 
 PD-L1 expression nivolumab docetaxel
 
@@ -1293,7 +1295,6 @@ Odds ratio (95% CI)
 95% CI: 8.7, 49.1 95% CI: 9.0, 38.9
 ≥ 50%a 27/66 (40.9%) 3/46 (6.5%) 9.92 (2.68, 54.09)
 95% CI: 29.0, 53.7 95% CI: 1.4, 17.9
-PD-L1 expression nivolumab docetaxel
 
 OS by tumour PD-L1 expression
 Minimum follow-up: 13.2 months
@@ -1307,6 +1308,7 @@ ratio (95% CI)
 ≥ 1% to < 10%a 27 (37) 30 (44) 1.33 (0.79, 2.24)
 ≥ 10% to < 50%a 11 (20) 26 (33) 0.61 (0.30, 1.23)
 ≥ 50%a 30 (66) 37 (46) 0.32 (0.20, 0.53)
+PD-L1 expression nivolumab docetaxel
 
 Updated analysis
 Minimum follow-up: 24.2 months
@@ -1340,26 +1342,26 @@ Randomisation was stratified by histology (epithelioid vs. sarcomatoid or mixed 
 A total of 605 patients were randomised to receive either nivolumab in combination with ipilimumab (n = 303) or chemotherapy (n = 302).
 Patients in the nivolumab in combination with ipilimumab arm received nivolumab 3 mg/kg over 30 minutes by intravenous infusion every 2 weeks in combination with ipilimumab 1 mg/kg over 30 minutes by intravenous infusion every 6 weeks for up to 2 years.
 Patients in the chemotherapy arm received chemotherapy for up to 6 cycles (each cycle was 21 days).
-Chemotherapy consisted of cisplatin 75 mg/m2 and pemetrexed 500 mg/m2 or carboplatin 5 AUC and pemetrexed 500 mg/m2.
+Chemotherapy consisted of cisplatin 75 mg/m2 and pemetrexed 500 mg/m2 or carboplatin AUC 5 and pemetrexed 500 mg/m2.
 
 Treatment continued until disease progression, unacceptable toxicity, or for up to 24 months.
 Treatment could continue beyond disease progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
 Patients who discontinued combination therapy because of an adverse reaction attributed to ipilimumab were permitted to continue nivolumab monotherapy.
 Tumour assessments were performed every 6 weeks after first dose of study treatment for the first 12 months, then every 12 weeks until disease progression or study treatment was discontinued.
-
 CA209743 baseline characteristics were generally balanced across all treatment groups.
 The median age was 69 years (range: 25-89) with 72% ≥ 65 years of age and 26% ≥ 75 years of age.
 The majority of patients were white (85%) and male (77%).
 Baseline ECOG performance status was 0 (40%) or 1 (60%), 80% of patients with PD-L1 ≥ 1% and 20% with PD-L1 < 1%, 75% had epithelioid and 25% had non-epithelioid histology.
 
 CA209743 primary efficacy outcome measure was OS.
-Key secondary efficacy endpoints were PFS, ORR, and duration of response as assessed by Blinded Independent Central Review (BICR) utilising modified RECIST criteria for pleural mesothelioma.
-Descriptive analyses for these secondary endpoints are presented in Table 35.
+Key secondary efficacy endpoints were PFS, ORR, and duration of response as assessed by BICR utilising modified RECIST criteria for pleural mesothelioma.
+Descriptive analyses for these secondary endpoints are presented in Table 36.
 
-The study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab in combination with ipilimumab as compared to chemotherapy at the prespecified interim analysis when 419 events were observed (89% of the planned number of events for final analysis).
+The study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab in combination with ipilimumab as compared to chemotherapy at the pre-specified interim analysis when 419 events were observed (89% of the planned number of events for final analysis).
 Minimum follow-up for OS was 22 months.
 
-Efficacy results are shown in Figure 18 and Table 35.
+Efficacy results are shown in Figure 18 and Table 36.
+
 Figure 18: Kaplan-Meier curves of OS (CA209743)
 
 Overall survival (months)
@@ -1371,8 +1373,7 @@ Nivolumab + ipilimumab
 
 • Nivolumab + ipilimumab (events: 200/303), median and 95% CI: 18.07 (16.82, 21.45)
 - - -•- - - Chemotherapy (events: 219/302), median and 95% CI: 14.09 (12.45, 16.23)
-
-Table 35: Efficacy results (CA209743)
+Table 36: Efficacy results (CA209743)
 
 nivolumab + ipilimumab chemotherapy
 (n = 303) (n = 302)
@@ -1394,8 +1395,6 @@ Hazard ratio 1.0
 (95% CI)a (0.82, 1.21)
 Median (months)c 6.8 7.2
 (95% CI) (5.6, 7.4) (6.9, 8.1)
-nivolumab + ipilimumab chemotherapy
-(n = 303) (n = 302)
 Overall response rate 40% 43%
 (95% CI) (34.1, 45.4) (37.1, 48.5)
 Complete response (CR) 1.7% 0
@@ -1413,9 +1412,9 @@ c Kaplan-Meier estimate.
 Subsequent systemic therapy was received by 44.2% and 40.7% of patients in the combination and chemotherapy arms, respectively.
 Subsequent immunotherapy (including anti-PD-1, anti-PD-L1, and anti-CTLA-4) was received by 3.3% and 20.2% of patients in the combination and chemotherapy arms, respectively.
 
-Table 36 summarises efficacy results of OS, PFS, and ORR by histology in prespecified subgroup analyses.
+Table 37 summarises efficacy results of OS, PFS, and ORR by histology in pre-specified subgroup analyses.
 
-Table 36: Efficacy results by histology (CA209743)
+Table 37: Efficacy results by histology (CA209743)
 
 Epithelioid Non-epithelioid
 (n = 471) (n = 134)
@@ -1433,6 +1432,12 @@ Median (months) 18.73 16.23 16.89 8.80
 (95% CI) (17.05, 21.72) (14.09, 19.15) (11.83, 25.20) (7.62, 11.76)
 Rate (95% CI) at 41.2 31.8 39.5 9.7
 24 months (34.7, 47.6) (25.7, 38.1) (27.5, 51.2) (3.8, 18.9)
+Epithelioid Non-epithelioid
+(n = 471) (n = 134)
+nivolumab chemotherapy nivolumab chemotherapy
++ (n = 235) + (n = 67)
+ipilimumab ipilimumab
+(n = 236) (n = 67)
 
 Progression-free survival
 
@@ -1448,8 +1453,9 @@ Median (months) (95% CI)c (7.16, 14.59) (5.59, 7.13) (8.31, N.A.) (2.79, 7.03)
 a Hazard ratio based on unstratified Cox proportional hazards model.
 b Confidence interval based on the Clopper and Pearson method c Median computed using Kaplan-Meier method
 
-Table 37 summarises efficacy results of OS, PFS, and ORR by baseline tumour PD-L1 expression in prespecified subgroup analyses.
-Table 37: Efficacy results by tumour PD-L1 expression (CA209743)
+Table 38 summarises efficacy results of OS, PFS, and ORR by baseline tumour PD-L1 expression in pre-specified subgroup analyses.
+
+Table 38: Efficacy results by tumour PD-L1 expression (CA209743)
 
 PD-L1 < 1% PD-L1 ≥ 1%
 (n = 135) (n = 451)
@@ -1482,8 +1488,8 @@ b Median computed using Kaplan-Meier method.
 c Confidence interval based on the Clopper and Pearson method.
 
 A total of 157 MPM patients aged ≥ 75 years were enrolled in study CA209743 (78 in the nivolumab in combination with ipilimumab arm and 79 in the chemotherapy arm).
-A
-HR of 1.02 (95% CI: 0.70, 1.48) in OS was observed for nivolumab in combination with ipilimumab vs. chemotherapy within this study subgroup.
+A HR of
+1.02 (95% CI: 0.70, 1.48) in OS was observed for nivolumab in combination with ipilimumab vs. chemotherapy within this study subgroup.
 A higher rate of serious adverse reactions and discontinuation rate due to adverse reactions in patients 75 years of age or older relative to all patients who received nivolumab in combination with ipilimumab was shown (see section 4.8).
 However, due to the exploratory nature of this subgroup analysis, no definitive conclusions can be drawn.
 
@@ -1510,11 +1516,10 @@ The median duration of time from initial diagnosis to randomisation was 0.4 year
 The median duration of treatment was 7.9 months (range: 1 day-21.4+ months) in nivolumab with ipilimumab-treated patients and was 7.8 months (range: 1 days-20.2+ months) in sunitinib-treated patients.
 Nivolumab with ipilimumab was continued beyond progression in 29% of patients.
 
-Efficacy results for the intermediate/poor risk patients are shown in Table 38 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 19 (minimum follow-up of 60 months).
+Efficacy results for the intermediate/poor risk patients are shown in Table 39 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 19 (minimum follow-up of 60 months).
 
 OS results at an additional descriptive analysis undertaken at a minimum follow-up of 60 months show outcomes consistent with the original primary analysis.
-
-Table 38: Efficacy results in intermediate/poor risk patients (CA209214)
+Table 39: Efficacy results in intermediate/poor risk patients (CA209214)
 
 nivolumab + ipilimumab sunitinib
 (n = 425) (n = 422)
@@ -1540,8 +1545,6 @@ Hazard ratioa 0.82
 99.1% CI (0.64, 1.05)
 p-valueb,h 0.0331
 Median (95% CI) 11.6 (8.71, 15.51) 8.4 (7.03, 10.81)
-nivolumab + ipilimumab sunitinib
-(n = 425) (n = 422)
 Confirmed objective response 177 (41.6%) 112 (26.5%)
 
 (BICR)
@@ -1575,6 +1578,8 @@ At 24 months 66.3 (61.5, 70.6) 52.4 (47.4, 57.1)
 At 36 months 54.6 (49.7, 59.3) 43.7 (38.7, 48.5)
 At 48 months 49.9 (44.9, 54.6) 35.8 (31.1, 40.5)
 At 60 months 43.0 (38.1, 47.7) 31.3 (26.8, 35.9)
+nivolumab + ipilimumab sunitinib
+(n = 425) (n = 422)
 
 Progression-free survival
 
@@ -1611,7 +1616,6 @@ h p-value is compared to alpha 0.009 in order to achieve statistical significanc
 “+” denotes a censored observation.
 NE = non-estimable
 * Descriptive analysis based on data cut-off: 26-Feb-2021.
-
 Figure 19: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) - Minimum follow-up of 60 months
 
 Overall survival (months)
@@ -1637,20 +1641,19 @@ At a minimum of 24 months follow-up, OS in favourable risk patients receiving ni
 With 60 months minimum follow-up, the HR for OS was 0.94 (95% CI: 0.65, 1.37).
 
 There are no data on the use of nivolumab in combination with ipilimumab in patients with only a non clear-cell histology in first-line RCC.
-
 Patients ≥ 75 years of age represented 8% of all intermediate/poor risk patients in CA209214, and the combination of nivolumab and ipilimumab showed numerically less effect on OS (HR 0.97, 95% CI: 0.48, 1.95) in this subgroup versus the overall population at a minimum follow-up of 17.5 months.
 Because of the small size of this subgroup, no definitive conclusions can be drawn from these data.
 
 Randomised phase 3 study of nivolumab in combination with cabozantinib vs. sunitinib (CA2099ER)
 The safety and efficacy of nivolumab 240 mg in combination with cabozantinib 40 mg for the first-line treatment of advanced/metastatic RCC was evaluated in a phase 3, randomised, open-label study (CA2099ER).
-The study included patients (18 years or older) with advanced or metastatic RCC with a clear cell component, Karnofsky Performance Status (KPS) ≥ 70%, and measurable disease as per RECIST v1.1 regardless of their PD-L1 status or IMDC risk group.
+The study included patients (18 years or older) with advanced or metastatic RCC with a clear cell component, Karnofsky Performance Status (KPS) ≥ 70%, and measurable disease as per RECIST, version 1.1 regardless of their PD-L1 status or IMDC risk group.
 The study excluded patients with autoimmune disease or other medical conditions requiring systemic immunosuppression, patients who had prior treatment with an anti-PD-1, anti PD-L1, anti-PD-L2, anti-CD137, or anti-CTLA-4 antibody, poorly controlled hypertension despite antihypertensive therapy, active brain metastases and uncontrolled adrenal insufficiency.
 Patients were stratified by IMDC prognostic score, PD-L1 tumour expression, and region.
 
 A total of 651 patients were randomised to receive either nivolumab 240 mg (n = 323) administered intravenously every 2 weeks in combination with cabozantinib 40 mg once daily orally or sunitinib
 (n = 328) 50 mg daily, administered orally for 4 weeks followed by 2 weeks off.
 Treatment continued until disease progression or unacceptable toxicity with nivolumab administration for up to 24 months.
-Treatment beyond initial investigator-assessed RECIST version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator.
+Treatment beyond initial investigator-assessed RECIST, version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator.
 First tumour assessment post-baseline was performed at 12 weeks (± 7 days) following randomisation.
 Subsequent tumour assessments occurred at every 6 weeks (± 7 days) until Week 60, then every 12 weeks (± 14 days) until radiographic progression, confirmed by the BICR.
 The primary efficacy outcome measure was PFS as determined by a BICR.
@@ -1666,8 +1669,9 @@ For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression < 1% or inde
 The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in nivolumab with cabozantinib-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
 
 The study demonstrated a statistically significant benefit in PFS, OS, and ORR for patients randomised to nivolumab in combination with cabozantinib as compared to sunitinib.
-Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 39.
-Table 39: Efficacy results (CA2099ER)
+Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 40.
+
+Table 40: Efficacy results (CA2099ER)
 
 nivolumab + cabozantinib sunitinib
 (n = 323) (n = 328)
@@ -1679,6 +1683,8 @@ Hazard ratioa 0.51
 95% CI (0.41, 0.64)
 p-valueb, c < 0.0001
 Median (95% CI)d 16.59 (12.45, 24.94) 8.31 (6.97, 9.69)
+nivolumab + cabozantinib sunitinib
+(n = 323) (n = 328)
 
 Overall survival
 
@@ -1721,17 +1727,17 @@ g Strata adjusted difference in objective response rate (nivolumab + cabozantini
 h 2-sided p-value from CMH test.
 NE = non-estimable
 
-The primary analysis of PFS included censoring for new anti-cancer treatment (Table 39).
+The primary analysis of PFS included censoring for new anti-cancer treatment (Table 40).
 Results for PFS with and without censoring for new anti-cancer treatment were consistent.
 
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. suntinib regardless of the IMDC risk category.
 Median PFS for the favourable risk group was not reached for nivolumab in combination with cabozantinib, and was 12.81 months in the sunitinib arm (HR = 0.60; 95% CI: 0.37, 0.98).
 Median PFS for the intermediate risk group was 17.71 months for nivolumab in combination with cabozantinib and was 8.38 months in the sunitinib arm (HR = 0.54; 95% CI: 0.41, 0.73).
 Median PFS for the poor risk group was 12.29 months for nivolumab in combination with cabozantinib and was 4.21 months in the sunitinib arm (HR = 0.36; 95% CI: 0.23, 0.58).
+
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of tumour PD-L1 expression.
 Median PFS for tumour PD-L1 expression ≥ 1% was 13.08 months for nivolumab in combination with cabozantinib, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68).
 For tumour PD-L1 expression < 1%, the median PFS was 19.84 months for nivolumab in combination with cabozantinib, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
-
 An updated PFS and OS analysis were performed when all patients had a minimum follow-up of 16.0 months and a median follow-up of 23.5 months (see Figures 20 and 21).
 The PFS hazard ratio was 0.52 (95% CI: 0.43, 0.64).
 The OS hazard ratio was 0.66 (95% CI: 0.50, 0.87).
@@ -1761,14 +1767,12 @@ Nivolumab + cabozantinib
 • Nivolumab + cabozantinib (events: 86/323), median and 95% CI: NE
 - - -•- - - Sunitinib (events: 116/328), median and 95% CI: 29.47 (28.35, NE)
 
-Renal cell carcinoma
-
 Randomised phase 3 study of nivolumab as monotherapy vs. everolimus (CA209025)
-The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of advanced RCC with a clear cell component was evaluated in a Phase 3, randomised, open-label study (CA209025).
+The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of advanced RCC with a clear cell component was evaluated in a phase 3, randomised, open-label study (CA209025).
 The study included patients (18 years or older) who have experienced disease progression during or after 1 or 2 prior anti-angiogenic therapy regimens and no more than 3 total prior systemic treatment regimens.
 Patients had to have a Karnofsky Performance Score (KPS) ≥ 70%.
 This study included patients regardless of their tumour PD-L1 status.
-Patients with any history of or concurrent brain metastases, prior treatment with an mammalian target of rapamycin (mTOR) inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
+Patients with any history of or concurrent brain metastases, prior treatment with a mammalian target of rapamycin (mTOR) inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
 
 A total of 821 patients were randomised to receive either nivolumab 3 mg/kg (n = 410) administered intravenously over 60 minutes every 2 weeks or everolimus (n = 411) 10 mg daily, administered orally.
 Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
@@ -1777,7 +1781,6 @@ Tumour assessments were continued after treatment discontinuation in patients wh
 Treatment beyond initial investigator-assessed RECIST, version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug as determined by the investigator.
 The primary efficacy outcome measure was OS.
 Secondary efficacy assessments included investigator-assessed ORR and PFS.
-
 Baseline characteristics were generally balanced between the two groups.
 The median age was 62 years (range: 18-88) with 40% ≥ 65 years of age and 9% ≥ 75 years of age.
 The majority of patients were male (75%) and white (88%), all Memorial Sloan Kettering Cancer Center (MSKCC) risk groups were represented, and 34% and 66% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively.
@@ -1801,10 +1804,10 @@ Nivolumab
 • Nivolumab 3 mg/kg (events: 183/410), median and 95% CI: 25.00 (21.75, N.A.)
 - - -•- - - Everolimus 10 mg (events: 215/411), median and 95% CI: 19.55 (17.64, 23.06)
 
-The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 40 and Figure 22).
+The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the pre-specified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 41 and Figure 22).
 OS benefit was observed regardless of tumour PD-L1 expression level.
-Efficacy results are shown in Table 40.
-Table 40: Efficacy results (CA209025)
+Efficacy results are shown in Table 41.
+Table 41: Efficacy results (CA209025)
 
 nivolumab everolimus
 (n = 410) (n = 411)
@@ -1857,31 +1860,172 @@ p < 0.001) and time to improvement (HR = 1.66 (1.33, 2.08), p < 0.001) were sign
 While both arms of the study received active therapy, the QoL data should be interpreted in the context of the open-label study design and therefore cautiously taken.
 
 Phase 3b/4 safety study (CA209374)
-Additional safety and descriptive efficacy data are available from study CA209374, an open-label Phase 3b/4 safety study of nivolumab monotherapy (treated with 240 mg every 2 weeks) for the treatment of patients with advanced or metastatic RCC (n = 142), including 44 patients with non-clear cell histology.
+Additional safety and descriptive efficacy data are available from study CA209374, an open-label phase 3b/4 safety study of nivolumab monotherapy (treated with 240 mg every 2 weeks) for the treatment of patients with advanced or metastatic RCC (n = 142), including 44 patients with non-clear cell histology.
 
 In subjects with non-clear cell histology, at a minimum follow-up of approximately 16.7 months ORR and median duration of response were 13.6% and 10.2 months, respectively.
 Clinical activity was observed regardless of tumour PD-L1 expression status.
 
 Classical Hodgkin lymphoma
 
+Randomised phase 3 study of nivolumab in combination with AVD vs. brentuximab vedotin in combination with AVD (CA2098UT)
+The safety and efficacy of nivolumab in combination with doxorubicin, vinblastine, and dacarbazine (AVD) for the treatment of adults and adolescents 12 years of age and older with previously untreated Stage III or IV cHL were evaluated in a randomised, multicenter, open-label phase 3 study.
+
+A total of 994 patients were randomized 1:1 to receive either nivolumab with AVD chemotherapy
+(n = 496) or brentuximab vedotin with AVD chemotherapy (BV + AVD) (n = 498).
+Stratification factors for randomization were age (12-17 vs. 18-60 vs. > 60 years), international prognostic score (0-3 vs 4-7), and pre-specified residual PET radiation therapy (yes vs. no). Tumour assessments were performed at 4-8 weeks after dosing cycle 6 or when study treatment was discontinued.
+The primary efficacy outcome measure was PFS assessed by investigator.
+Additional efficacy outcome measures included OS, EFS, and complete metabolic response rate at the end of treatment.
+
+The study population consisted of subjects with histologically confirmed newly diagnosed, previously untreated Stage III or IV cHL (nodular sclerosing, mixed cellularity, lymphocyte-rich, or lymphocyte-depleted, or not otherwise specified) and bidimensionally measurable disease (at least one lesion with longest diameter > 1.5 cm).
+Subjects with nodular lymphocyte predominant Hodgkin Lymphoma were not eligible.
+Subjects underwent a whole body or limited whole body PET-CT scan performed within 42 days prior to randomization.
+Patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, peripheral neuropathy that is > Grade 2, active interstitial pneumonitis or interstitial lung disease, or CNS lymphoma were excluded from the trial.
+
+Patients in both treatment arms were treated intravenously on days 1 and 15 of each 28-day cycle for 6 dosing cycles with either:
+
+- Nivolumab 240 mg over 30 minutes with doxorubicin (25 mg/m2), vinblastine (6 mg/m2), and dacarbazine (375 mg/m2) every 2 weeks in adults and adolescents (12 years of age and older weighing at least 80 kg), or
+- Nivolumab 3 mg/kg over 30 minutes with doxorubicin (25 mg/m2), vinblastine (6 mg/m2), and dacarbazine (375 mg/m2) every 2 weeks in adolescents 12 years of age and older weighing less than 80 kg, or
+- Brentuximab vedotin 1.2 mg/kg with doxorubicin (25 mg/m2), vinblastine (6 mg/m2), and dacarbazine (375 mg/m2) every 2 weeks in adults and adolescents
+
+Baseline characteristics in all randomized subjects were balanced between the two treatment arms.
+The median age of the trial population was 27 years (range: 12 to 83), and 31 (6%) ≥ 65 years old.
+The majority of the patients were white (75%) and 56% were male.
+Baseline ECOG performance status was 0 (56%), 1 (38%), or 2 (5%).
+36% of patients had Stage III and 64% had Stage IV cHL at diagnosis.
+In nivolumab + AVD arm, 338 patients (68.1%) had an IPS of 0-3 and 158 patients (31.9%) had IPS of 4-7 at diagnosis.
+
+At the pre-specified interim analysis (minimum follow-up 2.4 months), a statistically significant improvement of PFS with nivolumab in combination with AVD chemotherapy compared to
+BV + AVD with HR of 0.42 (95% CI: 0.27, 0.67) was demonstrated.
+In an updated descriptive analysis with a minimum follow-up of 30.4 months, OS was not mature.
+Efficacy results are presented in Table 42 and Figure 23.
+Table 42: Efficacy Results (CA2098UT)
+
+nivolumab + AVD BV + AVD
+(n = 496) (n = 498)
+
+Minimum follow-up: 2.4 months
+Progression-free Survival
+
+Events (%) 28/496 (5.6) 62/498 (12.4)
+Hazard ratio 0.42
+(95% CI)a (0.27, 0.67)
+p-valueb <0.0001
+Median (months)c N.A. N.A.
+
+(95% CI) a HR is nivolumab + AVD over BV + AVD from Cox proportional hazard model stratified by age (12-17 vs 18-60 vs > 60 years), IPS (0-3 vs 4-7), and pre-specified plan to use residual PET RT (yes vs no) as performed by Oncology Patient Enrollment Network (OPEN).
+b One-sided log-rank test for superiority stratified by the same factor as used in the Cox proportional hazard model c Based on Kaplan-Meier estimates
+
+Figure 23: Kaplan-Meier curve of PFS (CA2098UT)
+
+Progression-free Survival per Investigator (months)
+Number of subjects at risk
+Nivolumab+AVD
+
+496 412 285 189 93 36 6 0
+
+BV+AVD
+
+498 396 249 165 89 32 9 0
+
+● Nivolumab+AVD (events 28/496), median and 95% CI: N.A.
+- - -•- - - BV+AVD (events: 62/498), median and 95% CI: N.A.
+
+Based on clinical data cut-off: 15-Dec-2022, minimum follow-up of 2.4 months
+Open-label phase 2 study of nivolumab in combination with brentuximab vedotin (CA209744)
+The safety and efficacy of nivolumab 3 mg/kg in combination with brentuximab vedotin 1.8 mg/kg for the treatment of relapsed or refractory cHL after one prior line of therapy were evaluated in a phase 2, risk-based, response adapted, open-label study.
+Cohort R1 included 28 patients at low risk of relapse and Cohort R2 included 44 patients at standard risk of relapse.
+Risk stratification was based on stage at initial diagnosis, time to relapse (from end of therapy), B symptoms or extranodal disease at relapse, extensive disease where radiation therapy was contraindicated at relapse, or relapse in a prior radiation field, as shown in the Table 43.
+CD30 expression was not measured prior to the study enrolment.
+
+Table 43: Risk stratification algorithm for study CA209744
+
+| Stage at initial diagnosis | Time to relapse (from end of therapy) | B symptoms or extranodal disease at relapse, extensive disease where radiation therapy was contraindicated at relapse, or relapse in a prior radiation field | Relapse risk category |
+| --- | --- | --- | --- |
+| IA, IIA | ≥ 12 months | No | Cohort R1 Low Risk |
+|  | 3-12 months (≤ 3 cycles and no RT) | No |  |
+| IB, IIB, IIIA | > 12 months | No |  |
+| All Others |  |  | Cohort R2 Standard Risk |
+
+The first tumour assessments were conducted 6 weeks after the start of treatment and continued thereafter until disease progression or treatment completion or discontinuation.
+The co-primary efficacy outcome measures in Cohort R1 were complete metabolic response (CMR) rate by BICR at any time prior to radiation therapy and EFS rate by BICR at 3 years.
+The primary efficacy outcome measure in Cohort R2 was CMR rate by BICR at any time prior to high-dose chemotherapy (HDCT/ASCT).
+Additional efficacy measures included ORR per BICR following 4 cycles of nivolumab in combination with brentuximab vedotin and PFS rate by BICR at 3 years.
+Patients with prior exposure to anti-PD(L) 1/2 or brentuximab vedotin were excluded from the study.
+
+All patients entered the Induction phase and received treatment with nivolumab in combination with brentuximab vedotin.
+Patients with investigator assessed tumour progression after two cycles were taken off treatment.
+Patients who did not achieve CMR after 4 cycles of nivolumab in combination with brentuximab vedotin moved to the Intensification phase and received 2 cycles (Cohort R1) or 2-4 cycles (Cohort R2) of brentuximab vedotin with 90 mg/m2/day of bendamustine to help achieve CMR.
+Patients who achieved CMR following 4 cycles of nivolumab in combination with brentuximab vedotin in Cohort R1 received 2 additional cycles of nivolumab in combination with brentuximab vedotin prior to the Consolidation phase.
+Patients who achieved CMR after induction or intensification moved to the Consolidation phase where they received radiation therapy (Cohort R1) or HDCT/ASCT (Cohort R2).
+
+Baseline characteristics were balanced across treatment groups.
+Most patients were in the age group of ≥ 5 years to < 18 years in both R1 and R2 cohorts (64.3% and 70.5%, respectively).
+In Cohort R1 there were 3 children (5-11 years), 15 adolescents (12-17 years) and 10 adults (18-30 years) and in Cohort R2 there were 4 children (5-11 years), 27 adolescents (12-17 years) and 13 adults (18-30 years) treated.
+In Cohort R1, 64.3% were female while in Cohort R2, 65.9% were male.
+In Cohort R1, 64.3% had Stage IIA disease at study entry, while in Cohort R2, 25%, 22.7%, and 25% had Stage IIA, IIB, and IVA disease at study entry, respectively.
+The mean Karnofsky and Lansky performance status was > 95% in both cohorts.
+In Cohort R1, 82.1% had a time from end of prior therapy to relapse of
+≥ 12 months.
+In Cohort R2, 36.4% had a time from end of prior therapy to relapse of < 3 months, while 40.9% had a time from end of prior therapy to relapse of ≥ 3 months to < 12 months.
+96.4% of subjects in Cohort R1 had relapsed after prior line of therapy, whereas Cohort R2 generally had an even distribution among relapsed (45.5%) and refractory (54.5%) response to prior line of therapy.
+
+All patients received prior anti-cancer therapy in Cohorts R1 and R2.
+The most common prior anti-cancer therapy was OEPA/COPDAC in both Cohort R1 (42.9%) and Cohort R2 (45.5%).
+The baseline characteristics and prior cancer therapies of treated paediatric patients were consistent with those of all treated patients in CA209744.
+
+Efficacy results are shown in Table 44.
+
+Table 44: Efficacy results (CA209744)
+
+Cohort R1 Cohort R2
+Low risk of relapse Standard risk of relapse
+All treated Treated paediatric All treated Treated paediatric
+patients patients patients patients
+(n = 28) (n = 18) (n = 44) (n = 31)
+
+Complete metabolic response prior to consolidationa,b
+
+n (%) 26 (92.9) 16 (88.9) 39 (88.6) 28 (90.3)
+95% CI (76.5, 99.1) (65.3, 98.6) (75.4, 96.2) (74.2, 98.0)
+
+Overall response rate after 4 cycles of inductionc
+
+n (%) 27 (96.4) 17 (94.4) 41 (93.2) 29 (93.5)
+95% CI (81.7, 99.9) (72.7, 99.9) (81.3, 98.6) (78.6, 99.2)
+
+Complete metabolic response, n (%)
+
+23 (82.1) 13 (72.2) 33 (75.0) 23 (74.2)
+
+Partial metabolic response, n (%)
+
+4 (14.3) 4 (22.2) 8 (18.2) 6 (19.4)
+
+a The denominator is the number of response-evaluable patients.
+All Treated patients/Treated Paediatric patients were response-evaluable.
+Six patients in Cohort R1 and 11 patients in Cohort R2 received brentuximab vedotin in combination with bendamustine as intensification chemotherapy, prior to consolidation, since they did not achieve a CMR following 4 cycles of induction with nivolumab in combination with brentuximab vedotin.
+b In cohort R1, 22 patients proceeded to consolidation with RT therapy on study.
+In cohort R2, 41 patients underwent HDCT +ASCT as consolidation (32 on study and 9 off study at PI discretion).
+c The denominator is the number of subjects who were evaluable after 4 cycles of nivolumab +brentuximab vedotin.
+
 Open-label, phase 2 study (CA209205) and open-label, phase 1b study (CA209039) of nivolumab monotherapy
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of relapsed or refractory cHL following ASCT was evaluated in two multi-centre, open-label, single-arm studies (CA209205 and CA209039).
 
-CA209205 is a Phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL.
+CA209205 is a phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL.
 It includes 243 patients who had ASCT; Cohort A included 63 (26%) patients who were brentuximab vedotin naïve; Cohort B included 80 (33%) patients who had received brentuximab vedotin after ASCT failure; and Cohort C included 100 (41%) patients who had received brentuximab vedotin before and/or after ASCT out of which 33 (14%) patients received brentuximab vedotin only prior to ASCT.
 All patients received nivolumab 3 mg/kg monotherapy intravenously over 60 minutes every 2 weeks.
 The first tumour assessments were conducted 9 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
 The primary efficacy outcome measure was ORR as determined by an IRRC.
 Additional efficacy measures included duration of response, PFS and OS.
 
-CA209039 is a Phase 1b open-label, multi-centre, dose-escalation, and multidose study of nivolumab in relapsed/refractory hematologic malignancies, including 23 patients with cHL treated with nivolumab 3 mg/kg monotherapy; amongst which, 15 patients received prior brentuximab vedotin treatment as a salvage therapy following ASCT, similar to Cohort B of study CA209205.
+CA209039 is a phase 1b open-label, multi-centre, dose-escalation, and multidose study of nivolumab in relapsed/refractory hematologic malignancies, including 23 patients with cHL treated with nivolumab 3 mg/kg monotherapy; amongst which, 15 patients received prior brentuximab vedotin treatment as a salvage therapy following ASCT, similar to Cohort B of study CA209205.
 The first tumour assessments were conducted 4 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
 Efficacy assessments included investigator-assessed ORR, retrospectively evaluated by an IRRC, and duration of response.
-
 Data from the 80 patients from CA209205 Cohort B and from the 15 patients from CA209039 who received prior brentuximab vedotin treatment following ASCT were integrated.
 Additional data from 100 patients from CA209205 Cohort C who received brentuximab before and/or after ASCT are also presented.
-Baseline characteristics were similar across the two studies and cohorts (see Table 41 below).
-Table 41: Baseline patient characteristics in CA209205 Cohort B, Cohort C and CA209039
+Baseline characteristics were similar across the two studies and cohorts (see Table 45 below).
+
+Table 45: Baseline patient characteristics in CA209205 Cohort B, Cohort C and CA209039
 
 |  | CA209205 | CA209205 | CA209039 | CA209205 |
 | --- | --- | --- | --- | --- |
@@ -1908,9 +2052,9 @@ a 18/80 (22.5%) of the patients in CA209205 Cohort B presented B-Symptoms at bas
 b 25/100 (25%) of the patients in CA209205 Cohort C presented B-Symptoms at baseline.
 
 Efficacy from both studies was evaluated by the same IRRC.
-Results are shown in Table 42.
+Results are shown in Table 46.
 
-Table 42: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma CA209205 Cohort Ba CA209205 Cohort Ba CA209039 and CA209039
+Table 46: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma CA209205 Cohort Ba CA209205 Cohort Ba CA209039 and CA209039
 
 Number (n)/ minimum follow-up (months) (n = 95/12.0) (n = 80/12.0) (n = 15/12.0)
 Objective response, n (%); (95% CI) 63 (66%); (56, 76) 54 (68%); (56, 78) 9 (60%); (32, 84)
@@ -1941,8 +2085,8 @@ b Data unstable due to the limited duration of response for Cohort B resulting f
 NE = non-estimable
 
 Updated efficacy results from longer follow-up data of Cohort B (minimum 68.7 months) and
-Cohort C (minimum 61.9 months) from CA209205 are presented below in Table 43.
-Table 43: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow-up of study CA209205
+Cohort C (minimum 61.9 months) from CA209205 are presented below in Table 47.
+Table 47: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow-up of study CA209205
 
 CA209205 Cohort B CA209205 Cohort C
 Number (n)/ minimum follow-up (months) (n = 80/68.7) (n = 100/61.9)a
@@ -2001,83 +2145,6 @@ In a post-hoc analysis of the 80 patients in CA209205 Cohort B, 37 had no respon
 Among these 37 patients, treatment with nivolumab resulted in an ORR of 62.2% (23/37).
 The median duration of response is 25.6 months (10.6, 56.5) for the 23 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
 
-Open-label phase 2 study of nivolumab in combination with brentuximab vedotin (CA209744)
-The safety and efficacy of nivolumab 3 mg/kg in combination with brentuximab vedotin 1.8 mg/kg for the treatment of relapsed or refractory cHL after one prior line of therapy were evaluated in a phase 2, risk-based, response adapted, open-label study.
-Cohort R1 included 28 patients at low risk of relapse and Cohort R2 included 44 patients at standard risk of relapse.
-Risk stratification was based on stage at initial diagnosis, time to relapse (from end of therapy), B symptoms or extranodal disease at relapse, extensive disease where radiation therapy was contraindicated at relapse, or relapse in a prior radiation field, as shown in the Table 44.
-CD30 expression was not measured prior to the study enrolment.
-
-Table 44: Risk stratification algorithm for study CA209744
-
-| Stage at initial diagnosis | Time to relapse (from end of therapy) | B symptoms or extranodal disease at relapse, extensive disease where radiation therapy was contraindicated at relapse, or relapse in a prior radiation field | Relapse risk category |
-| --- | --- | --- | --- |
-| IA, IIA | ≥ 12 months | No | Cohort R1 Low Risk |
-|  | 3-12 months (≤ 3 cycles and no RT) | No |  |
-| IB, IIB, IIIA | > 12 months | No |  |
-| All Others |  |  | Cohort R2 Standard Risk |
-
-The first tumour assessments were conducted 6 weeks after the start of treatment and continued thereafter until disease progression or treatment completion or discontinuation.
-The co-primary efficacy outcome measures in Cohort R1 were complete metabolic response (CMR) rate by BICR at any time prior to radiation therapy and EFS rate by BICR at 3 years.
-The primary efficacy outcome measure in Cohort R2 was CMR rate by BICR at any time prior to high-dose chemotherapy (HDCT/ASCT).
-Additional efficacy measures included ORR per BICR following 4 cycles of nivolumab in combination with brentuximab vedotin and PFS rate by BICR at 3 years.
-Patients with prior exposure to anti-PD(L) 1/2 or brentuximab vedotin were excluded from the study.
-
-All patients entered the Induction Phase and received treatment with nivolumab in combination with brentuximab vedotin.
-Patients with investigator assessed tumour progression after two cycles were taken off treatment.
-Patients who did not achieve CMR after 4 cycles of nivolumab in combination with brentuximab vedotin moved to the Intensification Phase and received 2 cycles (Cohort R1) or 2-4 cycles (Cohort R2) of brentuximab vedotin with 90 mg/m2/day of bendamustine to help achieve CMR.
-Patients who achieved CMR following 4 cycles of nivolumab in combination with brentuximab vedotin in Cohort R1 received 2 additional cycles of nivolumab in combination with brentuximab vedotin prior to the Consolidation Phase.
-Patients who achieved CMR after induction or intensification moved to the Consolidation Phase where they received radiation therapy (Cohort R1) or HDCT/ASCT (Cohort R2).
-
-Baseline characteristics were balanced across treatment groups.
-Most patients were in the age group of ≥ 5 years to < 18 years in both R1 and R2 cohorts (64.3% and 70.5%, respectively).
-In Cohort R1 there were 3 children (5-11 years), 15 adolescents (12-17 years) and 10 adults (18-30 years) and in Cohort R2 there were 4 children (5-11 years), 27 adolescents (12-17 years) and 13 adults (18-30 years) treated.
-In Cohort R1, 64.3% were female while in Cohort R2, 65.9% were male.
-In Cohort R1, 64.3% had Stage IIA disease at study entry, while in Cohort R2, 25%, 22.7%, and 25% had Stage IIA, IIB, and IVA disease at study entry, respectively.
-The mean Karnofsky and Lansky performance status was > 95% in both cohorts.
-In Cohort R1, 82.1% had a time from end of prior therapy to relapse of
-≥ 12 months.
-In Cohort R2, 36.4% had a time from end of prior therapy to relapse of < 3 months, while 40.9% had a time from end of prior therapy to relapse of ≥ 3 months to < 12 months.
-96.4% of subjects in Cohort R1 had relapsed after prior line of therapy, whereas Cohort R2 generally had an even distribution among relapsed (45.5%) and refractory (54.5%) response to prior line of therapy.
-
-All patients received prior anti-cancer therapy in Cohorts R1 and R2.
-The most common prior anti-cancer therapy was OEPA/COPDAC in both Cohort R1 (42.9%) and Cohort R2 (45.5%).
-
-The baseline characteristics and prior cancer therapies of treated paediatric patients were consistent with those of all treated patients in CA209744.
-
-Efficacy results are shown in Table 45.
-Table 45: Efficacy results (CA209744)
-
-Cohort R1 Cohort R2
-Low risk of relapse Standard risk of relapse
-All treated Treated paediatric All treated Treated paediatric
-patients patients patients patients
-(n = 28) (n = 18) (n = 44) (n = 31)
-
-Complete metabolic response prior to consolidationa,b
-
-n (%) 26 (92.9) 16 (88.9) 39 (88.6) 28 (90.3)
-95% CI (76.5, 99.1) (65.3, 98.6) (75.4, 96.2) (74.2, 98.0)
-
-Overall response rate after 4 cycles of inductionc
-
-n (%) 27 (96.4) 17 (94.4) 41 (93.2) 29 (93.5)
-95% CI (81.7, 99.9) (72.7, 99.9) (81.3, 98.6) (78.6, 99.2)
-
-Complete metabolic response, n (%)
-
-23 (82.1) 13 (72.2) 33 (75.0) 23 (74.2)
-
-Partial metabolic response, n (%)
-
-4 (14.3) 4 (22.2) 8 (18.2) 6 (19.4)
-
-a The denominator is the number of response-evaluable patients.
-All Treated patients/Treated Paediatric patients were response-evaluable.
-Six patients in Cohort R1 and 11 patients in Cohort R2 received brentuximab vedotin in combination with bendamustine as intensification chemotherapy, prior to consolidation, since they did not achieve a CMR following 4 cycles of induction with nivolumab in combination with brentuximab vedotin.
-b In cohort R1, 22 patients proceeded to consolidation with RT therapy on study.
-In cohort R2, 41 patients underwent HDCT +ASCT as consolidation (32 on study and 9 off study at PI discretion).
-c The denominator is the number of subjects who were evaluable after 4 cycles of nivolumab +brentuximab vedotin.
-
 Squamous cell cancer of the head and neck
 
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of metastatic or recurrent SCCHN were evaluated in a phase 3, randomised, open-label study (CA209141).
@@ -2090,11 +2157,12 @@ Patients with treated brain metastases were eligible if neurologically returned 
 A total of 361 patients were randomised to receive either nivolumab 3 mg/kg (n = 240) administered intravenously over 60 minutes every 2 weeks or investigator’s choice of either cetuximab (n = 15), 400 mg/m2 loading dose followed by 250 mg/m2 weekly or methotrexate (n = 52) 40 to 60 mg/m2 weekly, or docetaxel (n = 54) 30 to 40 mg/m2 weekly.
 Randomisation was stratified by prior cetuximab treatment.
 Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
-Tumour assessments, according to RECIST version 1.1, were conducted 9 weeks after randomisation and continued every 6 weeks thereafter.
-Treatment beyond initial investigator-assessed RECIST version 1.1-defined progression was permitted in patients receiving nivolumab, if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator.
+Tumour assessments, according to RECIST, version 1.1, were conducted 9 weeks after randomisation and continued every 6 weeks thereafter.
+Treatment beyond initial investigator-assessed RECIST, version 1.1-defined progression was permitted in patients receiving nivolumab, if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator.
 The primary efficacy outcome measure was OS.
 Key secondary efficacy outcome measures were investigator-assessed PFS and ORR.
-Additional prespecified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at predefined levels of 1%, 5%, and 10%.
+Additional pre-specified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at predefined levels of 1%, 5%, and 10%.
+
 Pre-study tumour tissue specimens were systematically collected prior to randomisation in order to conduct pre-planned analyses of efficacy according to tumour PD-L1 expression.
 Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
@@ -2103,10 +2171,9 @@ The median age was 60 years (range: 28-83) with 31% ≥ 65 years of age and 5% �
 Baseline ECOG performance status score was 0 (20%) or 1 (78%), 77% were former/current smokers, 90% had Stage IV disease, 66% had two or more lesions, 45%, 34% and 20% received 1, 2, or 3 or more prior lines of systemic therapy, respectively, and 25% were HPV-16 status positive.
 
 With a minimum follow-up of 11.4 months, the trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator’s choice.
-The Kaplan-Meier curves for OS are shown in Figure 23.
-Efficacy results are shown in Table 46.
-
-Figure 23: Kaplan-Meier curves of OS (CA209141)
+The Kaplan-Meier curves for OS are shown in Figure 24.
+Efficacy results are shown in Table 48.
+Figure 24: Kaplan-Meier curves of OS (CA209141)
 
 Overall survival (months)
 
@@ -2118,7 +2185,8 @@ Investigator’s choice
 
 • Nivolumab 3 mg/kg (events: 184/240), median and 95% CI: 7.72 (5.68, 8.77)
 - - -•- - - Investigator’s choice (events: 105/121), median and 95% CI: 5.06 (4.04, 6.24)
-Table 46: Efficacy results (CA209141)
+
+Table 48: Efficacy results (CA209141)
 
 nivolumab investigator’s choice
 (n = 240) (n = 121)
@@ -2143,6 +2211,8 @@ p-value 0.2597
 Median (95% CI) (months) 2.04 (1.91, 2.14) 2.33 (1.97, 3.12)
 Rate (95% CI) at 6 months 21.0 (15.9, 26.6) 11.1 (5.9, 18.3)
 Rate (95% CI) at 12 months 9.5 (6.0, 13.9) 2.5 (0.5, 7.8)
+nivolumab investigator’s choice
+(n = 240) (n = 121)
 Confirmed objective responsec 32 (13.3%) 7 (5.8%)
 (95% CI) (9.3, 18.3) (2.4, 11.6)
 Odds ratio (95% CI) 2.49 (1.07, 5.82)
@@ -2166,8 +2236,9 @@ Quantifiable tumour PD-L1 expression was measured in 67% of patients in the nivo
 Tumour PD-L1 expression levels were balanced between the two treatment groups (nivolumab vs. investigator’s choice) at each of the predefined tumour PD-L1 expression levels of ≥ 1% (55% vs. 62%), ≥ 5% (34% vs. 43%), or ≥ 10% (27% vs. 34%).
 
 Patients with tumour PD-L1 expression by all predefined expression levels in the nivolumab group demonstrated greater likelihood of improved survival compared to investigator’s choice.
-The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 47).
-Table 47: OS by tumour PD-L1 expression (CA209141)
+The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 49).
+
+Table 49: OS by tumour PD-L1 expression (CA209141)
 
 PD-L1 Expression nivolumab investigator’s choice
 
@@ -2183,10 +2254,9 @@ ratio (95% CI)
 ≥ 10% 30 (43) 31 (34) 0.57 (0.34, 0.95)
 
 In an exploratory post-hoc analysis using a non-validated assay, both tumour cell PD-L1 expression and tumour-associated immune cell (TAIC) PD-L1 expression were analysed in relation to the magnitude of treatment effect of nivolumab compared to investigator’s choice.
-This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator’s choice (see Table 48).
+This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator’s choice (see Table 50).
 Due to the small numbers of patients in the subgroups, and exploratory nature of the analysis, no definitive conclusions can be drawn from these data.
-
-Table 48: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
+Table 50: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
 Median OSa (months) Median PFSa (months) ORR (%)
 HRb (95% CI) HRb (95% CI) (95% CI)c
@@ -2228,6 +2298,7 @@ d PD-L1+ TAIC in the tumour microenvironment were qualitatively assessed, and ch
 
 Patients with investigator-assessed primary site of oropharyngeal cancer were tested for HPV (determined by p16 immunohistochemistry [IHC]).
 OS benefit was observed regardless of HPV status (HPV-positive: HR = 0.63; 95% CI: 0.38, 1.04, HPV-negative: HR = 0.64; 95% CI: 0.40, 1.03, and HPV-unknown: HR = 0.78; 95% CI: 0.55, 1.10).
+
 Patient-reported outcomes (PROs) were assessed using the EORTC QLQ-C30, EORTC QLQ-H&N35, and 3-level EQ-5D.
 Over 15 weeks of follow-up, patients treated with nivolumab exhibited stable PROs, while those assigned to investigator’s choice therapy exhibited significant declines in functioning (e.g., physical, role, social) and health status as well as increased symptomatology (e.g., fatigue, dyspnoea, appetite loss, pain, sensory problems, social contact problems).
 The PRO data should be interpreted in the context of the open-label study design and therefore taken cautiously.
@@ -2254,7 +2325,8 @@ Secondary efficacy outcome measures included overall survival (OS).
 
 Baseline characteristics were generally balanced across treatment groups.
 In patients with tumour cell PD-L1 expression ≥ 1%, the median age was 66 years (range: 34 - 92 years), 76% were male and 76% were white.
-Eighty two percent had muscle invasive bladder cancer (MIBC), 18% had upper tract urothelial carcinoma (UTUC) (renal pelvis and ureter), 42% of patients received prior cisplatin in the neoadjuvant setting, 45% of patients were N+ at radical resection, patients had ECOG performance status of 0 (61%), 1 (37%), or 2 (2%), and 7% of patients had a haemoglobin < 10 g/dL.
+Eighty two percent had muscle invasive bladder cancer, 18% had upper tract urothelial carcinoma (renal pelvis and ureter), 42% of patients received prior cisplatin in the neoadjuvant setting, 45% of patients were N+ at radical resection, patients had ECOG performance status of 0 (61%),
+1 (37%), or 2 (2%), and 7% of patients had a haemoglobin < 10 g/dL.
 
 At the primary pre-specified interim analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 6.3 months and median follow-up of 22.1 months for the nivolumab arm), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab as compared to placebo.
 Median DFS as determined by the investigator was not reached (95% CI: 21.19, N.R.) for nivolumab versus 8.41 months (95% CI: 5.59, 21.19) for placebo, HR 0.55 (98.72% CI: 0.35, 0.85), p-value = 0.0005.
@@ -2263,9 +2335,8 @@ Results for DFS with and without censoring for new anti-cancer treatment were co
 
 In an updated descriptive DFS analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 11.4 months and median follow-up of 25.5 months for the nivolumab arm), DFS improvement was confirmed.
 
-Efficacy results from this descriptive updated analysis are shown in Table 49 and Figure 24.
-
-Table 49: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
+Efficacy results from this descriptive updated analysis are shown in Table 51 and Figure 25.
+Table 51: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
 
 nivolumab placebo
 (n = 140) (n = 142)
@@ -2281,7 +2352,8 @@ NR: not reached, NE: non-estimable.
 a Stratified Cox proportional hazard model.
 Hazard Ratio is nivolumab over placebo.
 b Based on Kaplan-Meier estimates.
-Figure 24: Kaplan-Meier curves of DFS in patients with tumour cell PD-L1 expression ≥ 1% (CA209274)
+
+Figure 25: Kaplan-Meier curves of DFS in patients with tumour cell PD-L1 expression ≥ 1% (CA209274)
 
 Disease-Free Survival (Months)
 
@@ -2304,7 +2376,7 @@ The safety and efficacy of nivolumab in combination with cisplatin and gemcitabi
 The study included subjects
 (18 years or older) with histological or cytological evidence of metastatic or surgically unresectable transitional cell carcinoma (TCC) of the urothelium involving the renal pelvis, ureter, bladder or urethra, who were eligible for cisplatin and gemcitabine.
 Minor histologic variants (< 50% overall) were acceptable (TCC must have been the dominant histology).
-All subjects were required to have measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per RECIST 1.1 criteria.
+All subjects were required to have measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per RECIST, version 1.1 criteria.
 No prior systemic anti-cancer therapy for metastatic or surgically unresectable urothelial carcinoma was permitted.
 Prior neoadjuvant chemotherapy or prior adjuvant platinum-based chemotherapy following radical cystectomy were permitted as long as the disease recurrence took place ≥ 12 months from completion of therapy.
 Prior intravesical therapy was permitted if completed at least 4 weeks prior to initiation of study treatment.
@@ -2320,9 +2392,9 @@ Patients received gemcitabine dosed at 1000 mg/m2 IV over 30-minutes on Days 1 a
 A total of 92 patients (49 in the nivolumab in combination with cisplatin and gemcitabine arm and 43 in the cisplatin and gemcitabine arm) switched from cisplatin to carboplatin after at least one cycle of cisplatin.
 
 The study demonstrated a statistically significant benefit in OS and PFS for patients randomised to nivolumab in combination with cisplatin and gemcitabine compared to cisplatin and gemcitabine alone.
-Efficacy results are presented in Table 50 and Figures 25 and 26.
+Efficacy results are presented in Table 52 and Figures 26 and 27.
 
-Table 50: Efficacy Results (CA209901)
+Table 52: Efficacy Results (CA209901)
 
 |  | nivolumab and cisplatin-gemcitabine chemotherapy (n = 304) | cisplatin- gemcitabine chemotherapy (n = 304) |
 | --- | --- | --- |
@@ -2342,7 +2414,8 @@ Table 50: Efficacy Results (CA209901)
 
 a Based on Kaplan-Meier Estimates b Stratified Cox proportional hazard model.
 c 2 sided p-value from stratified log-rank test.
-Figure 25: Kaplan Meier curves of OS (CA209901)
+
+Figure 26: Kaplan Meier curves of OS (CA209901)
 
 Overall Survival (months)
 
@@ -2353,7 +2426,7 @@ Nivolumab + gemcitabine-cisplatin chemotherapy
 
 •- Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72 (18,63, 26.38)
 - - -•- - - Gemcitabine-cisplatin chemotherapy (events: 193/304), median and 95% CI: 18.85 (14.72, 22.44) Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
-Figure 26: Kaplan Meier curves of PFS (CA209901)
+Figure 27: Kaplan Meier curves of PFS (CA209901)
 
 Progression free Survival (months)
 
@@ -2365,7 +2438,7 @@ Nivolumab + gemcitabine-cisplatin chemotherapy
 • Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92 (7.62, 9.49)
 - - -•- - - Gemcitabine-cisplatin chemotherapy (events: 191/304), median and 95% CI: 7.56 (6.05, 7.75) Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 
-The primary analysis of PFS included censoring for new anti-cancer treatment before disease progression (Table 50).
+The primary analysis of PFS included censoring for new anti-cancer treatment before disease progression (Table 52).
 Results for PFS with and without censoring for new anti-cancer treatment before disease progression were consistent.
 
 Open-label phase 2 study (CA209275)
@@ -2387,7 +2460,7 @@ The median age was 66 years (range: 38 to 90) with 55% ≥ 65 years of age and 1
 The majority of patients were white (86%) and male (78%).
 Baseline ECOG performance status was 0 (54%) or 1 (46%).
 
-Table 51: Efficacy results (CA209275)a nivolumab
+Table 53: Efficacy results (CA209275)a nivolumab
 (n = 270)
 
 Confirmed objective response 54 (20.0%)
@@ -2449,7 +2522,7 @@ NE: non-estimable
 Results from post-hoc, exploratory analyses indicate that in patients with low (e.g. < 1%) to no tumour PD-L1 expression, other patient characteristics (e.g. liver metastases, visceral metastases, baseline haemoglobin < 10g/dL and ECOG performance status = 1) might contribute to the clinical outcome.
 
 Open-label phase 1/2 study (CA209032)
-CA209032 was a Phase 1/2 open-label multi-cohort study which included a cohort of 78 patients (including 18 subjects who received planned crossover treatment with nivolumab 3 mg/kg plus ipilimumab 1 mg/kg combination) with similar inclusion criteria to study CA209275 treated with nivolumab monotherapy 3 mg/kg for urothelial carcinoma.
+CA209032 was a phase 1/2 open-label multi-cohort study which included a cohort of 78 patients (including 18 subjects who received planned crossover treatment with nivolumab 3 mg/kg plus ipilimumab 1 mg/kg combination) with similar inclusion criteria to study CA209275 treated with nivolumab monotherapy 3 mg/kg for urothelial carcinoma.
 At a minimum follow-up of 9 months, investigator-assessed confirmed ORR was 24.4% (95% CI: 15.3, 35.4).
 The median duration of response was not reached (range: 4.4-16.6+ months).
 The median OS was 9.7 months (95% CI: 7.26, 16.16) and the estimated OS rates were 69.2% (CI: 57.7, 78.2) at 6 months and 45.6% (CI: 34.2, 56.3) at 12 months.
@@ -2474,7 +2547,7 @@ Bevacizumab 5 mg/kg or cetuximab 500 mg/m2 administered prior to mFOLFOX6 every 
 Bevacizumab 5 mg/kg or cetuximab 500 mg/m2 administered prior to FOLFIRI every 2 weeks.
 Treatment continued until disease progression, unacceptable toxicity, or for nivolumab in combination with ipilimumab up to 24 months.
 Patients who discontinued combination therapy because of an adverse reaction attributed to ipilimumab were permitted to continue nivolumab as a single agent.
-Tumour assessments per RECIST v1.1 were conducted every 6 weeks for the first 24 weeks, then every 8 weeks thereafter until week 96, then every 16 weeks thereafter until week 146, and then every 24 weeks.
+Tumour assessments per RECIST version 1.1 were conducted every 6 weeks for the first 24 weeks, then every 8 weeks thereafter until week 96, then every 16 weeks thereafter until week 146, and then every 24 weeks.
 
 The baseline characteristics of all randomised previously untreated for metastatic disease patients were: the median age was 63 years (range: 21 to 87), with 46% ≥ 65 years of age and 18% ≥ 75 years of age; 46% were male and 86% were White.
 Baseline ECOG performance status was 0 (54%) and ≥ 1 (46%); tumour location was right-sided or left-sided for 68% and 32% of patients, respectively; and 39 patients had confirmed Lynch syndrome among the 223 patients with a known status.
@@ -2482,14 +2555,14 @@ The baseline characteristics of previously untreated for metastatic disease pati
 Among the 101 patients randomised to receive chemotherapy, 88 received chemotherapy per protocol, including oxaliplatin-containing regimens (58%) and irinotecan-containing regimens (42%).
 Additionally, 66 patients received a targeted agent, either bevacizumab (64%) or cetuximab (11%).
 
-A primary efficacy outcome measure of the study was BICR-assessed PFS per RECIST 1.1.
+A primary efficacy outcome measure of the study was BICR-assessed PFS per RECIST, version 1.1.
 Additional efficacy measures included ORR assessed by BICR, OS, and duration of response.
 
 The study met the primary endpoint, at the planned interim analysis, demonstrating a statistically significant improvement in BICR assessed-PFS for patients with centrally confirmed MSI-H/dMMR in the nivolumab in combination with ipilimumab arm compared with the chemotherapy arm.
-The BICR-assessed PFS results are presented in Table 52 and Figure 27.
+The BICR-assessed PFS results are presented in Table 54 and Figure 28.
 At the time of this interim analysis, the other endpoints, including the data from nivolumab monotherapy arm, were not tested, due to testing hierarchy.
 
-Table 52: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW)a
+Table 54: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW)a
 
 nivolumab + ipilimumab chemotherapy
 (n = 171) (n = 84)
@@ -2504,7 +2577,7 @@ Median (95% CI) (months) NR (38.4, NR) 5.9 (4.4, 7.8)
 
 a Median follow-up of 31.5 months (range: 6.1 to 48.4 months).
 b Based on stratified 2-sided log-rank test
-Figure 27: Kaplan-Meier curve of PFS in first-line patients with MSI-H/dMMR centrally confirmed CRC (CA2098HW)
+Figure 28: Kaplan-Meier curve of PFS in first-line patients with MSI-H/dMMR centrally confirmed CRC (CA2098HW)
 
 Progression free survival (months)
 
@@ -2518,7 +2591,7 @@ Nivolumab + ipilimumab
 - - - • - - - Chemotherapy (events: 52/84), median and 95% CI: 5.85 (4.37, 7.79)
 
 Open-label study of nivolumab in combination with ipilimumab in dMMR or MSI-H CRC in patients who received prior fluoropyrimidine-based combination chemotherapy
-The safety and efficacy of nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg for the treatment of dMMR or MSI-H metastatic CRC was evaluated in a Phase 2, multi-centre, open-label, single-arm study (CA209142).
+The safety and efficacy of nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg for the treatment of dMMR or MSI-H metastatic CRC was evaluated in a phase 2, multi-centre, open-label, single-arm study (CA209142).
 The study included patients (18 years or older) with locally determined dMMR or MSI-H status, who had disease progression during, after, or were intolerant to, prior therapy with fluoropyrimidine and oxaliplatin or irinotecan.
 Patients who had their most recent prior treatment in the adjuvant setting should have progressed on or within 6 months of completion of adjuvant chemotherapy.
 Patients had an ECOG performance status score of 0 or 1 and were enrolled regardless of their tumour PD-L1 status.
@@ -2526,7 +2599,7 @@ Patients with active brain metastases, active autoimmune disease, or medical con
 
 A total of 119 patients were treated with nivolumab 3 mg/kg administered intravenously over 60 minutes in combination with ipilimumab 1 mg/kg administered intravenously over 90 minutes every 3 weeks for 4 doses followed by nivolumab monotherapy 3 mg/kg every 2 weeks.
 Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
-Tumour assessments according to RECIST version 1.1 were conducted every 6 weeks for the first 24 weeks and every 12 weeks thereafter.
+Tumour assessments according to RECIST, version 1.1 were conducted every 6 weeks for the first 24 weeks and every 12 weeks thereafter.
 The primary outcome measure was investigator-assessed ORR.
 Secondary outcome measures were BICR-assessed ORR and disease control rate.
 Analysis of ORR included duration of and time to response.
@@ -2538,9 +2611,9 @@ Of the 119 treated patients, 109 had received prior fluoropyrimidine- based chem
 Before study enrolment, of the 119 treated patients, 118 (99%) had received fluorouracil, 111 (93%) had received oxaliplatin, 87 (73%) had received irinotecan as part of prior therapies; 82 (69%) had received prior treatment with fluoropyrimidine, oxaliplatin, and irinotecan.
 Twenty three percent, 36%, 24%, and 16% received 1, 2, 3, or 4 or more prior therapies respectively, and 29% of patients had received an EGFR inhibitor.
 
-Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 53.
+Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 55.
 
-Table 53: Efficacy results (CA209142)* nivolumab + ipilimumab
+Table 55: Efficacy results (CA209142)* nivolumab + ipilimumab
 (n = 119)
 
 Confirmed objective response, n (%) 77 (64.7)
@@ -2597,12 +2670,12 @@ Nivolumab in combination with ipilimumab vs. chemotherapy
 
 The primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with tumour cell PD-L1 expression ≥ 1%.
 Secondary endpoints per the pre-specified hierarchical testing included OS, PFS (by BICR), and ORR (by BICR) in all randomised patients.
-The tumour assessments per RECIST v1.1 were conducted every 6 weeks up to and including week 48, then every 12 weeks thereafter.
+The tumour assessments per RECIST version 1.1 were conducted every 6 weeks up to and including week 48, then every 12 weeks thereafter.
 
 At the primary pre-specified analysis, with a minimum follow-up of 13.1 months, the study demonstrated a statistically significant improvement in OS in patients with tumour cell PD-L1 expression ≥ 1%.
-Efficacy results are shown in Table 54.
+Efficacy results are shown in Table 56.
 
-Table 54: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Table 56: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 nivolumab + ipilimumab chemotherapya
 (n = 158) (n = 157)
@@ -2644,9 +2717,9 @@ Median PFS was 4.04 months (95% CI: 2.40, 4.93) for nivolumab plus ipilimumab vs
 The ORR was 35.4% (95% CI: 28.0, 43.4) for nivolumab plus ipilimumab vs. 19.7% (95% CI:
 13.8, 26.8) for chemotherapy.
 
-The Kaplan-Meier curves for OS with a minimum follow-up of 20 months are shown in Figure 28.
+The Kaplan-Meier curves for OS with a minimum follow-up of 20 months are shown in Figure 29.
 
-Figure 28: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Figure 29: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 Overall survival (months)
 
@@ -2663,11 +2736,11 @@ Nivolumab in combination with chemotherapy vs. chemotherapy
 
 The primary efficacy outcome measures were PFS (by BICR) and OS in patients with tumour cell PD-L1 expression ≥ 1%.
 Secondary endpoints per the pre-specified hierarchical testing included OS, PFS (by BICR), and ORR (by BICR) in all randomised patients.
-The tumour assessments per RECIST v1.1 were conducted every 6 weeks up to and including week 48, then every 12 weeks thereafter.
+The tumour assessments per RECIST version 1.1 were conducted every 6 weeks up to and including week 48, then every 12 weeks thereafter.
 At the primary pre-specified analysis, with a minimum follow-up of 12.9 months the study demonstrated a statistically significant improvement in OS and PFS in patients with tumour cell PD-L1 expression ≥ 1%.
-Efficacy results are shown in Table 55.
+Efficacy results are shown in Table 57.
 
-Table 55: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Table 57: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 nivolumab + chemotherapy chemotherapya
 (n = 158) (n = 157)
@@ -2708,8 +2781,8 @@ Median OS was 15.05 months (95% CI: 11.93, 18.63) for nivolumab plus chemotherap
 Median PFS was 6.93 months (95% CI: 5.68, 8.35) for nivolumab plus chemotherapy vs. 4.44 months (95% CI: 2.89, 5.82) for chemotherapy (HR = 0.66; 95% CI: 0.50, 0.87).
 The ORR was 53.2% (95% CI: 45.1, 61.1) for nivolumab plus chemotherapy vs. 19.7%
 (95% CI: 13.8, 26.8) for chemotherapy.
-The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are shown in Figures 29 and 30.
-Figure 29: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are shown in Figures 30 and 31.
+Figure 30: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 Overall survival (months)
 
@@ -2721,7 +2794,7 @@ Nivolumab + chemotherapy
 - - -•- - - Nivolumab + chemotherapy (events: 118/158), median and 95% CI: 15.05 (11.93, 18.63)
 - - -•- - - Chemotherapy (events: 130/157), median and 95% CI: 9.07 (7.69, 10.02)
 Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
-Figure 30: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Figure 31: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 Progression-free survival (months)
 
@@ -2742,12 +2815,12 @@ Patients who were refractory or intolerant to taxane therapy, had brain metastas
 A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator’s choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m2 intravenously every 3 weeks, or paclitaxel
 (n = 144) 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off.
 Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PD-L1 expression (≥ 1% vs. < 1% or indeterminate).
-Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity.
+Treatment continued until disease progression, assessed by the investigator per RECIST, version 1.1, or unacceptable toxicity.
 Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter.
 Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no rapid progression, investigator-assessed benefit, tolerance to treatment, stable performance status, and for whom treatment beyond progression would not delay an imminent intervention to prevent serious complications associated with disease progression (e.g. brain metastasis).
 The primary efficacy outcome measure was OS.
 Key secondary efficacy outcome measures were investigator-assessed ORR and PFS.
-Additional prespecified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at a predefined level of 1%.
+Additional pre-specified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at a predefined level of 1%.
 Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
 Baseline characteristics were generally balanced between the two groups.
@@ -2755,12 +2828,12 @@ The median age was 65 years (range: 33-87), 53% were ≥ 65 years of age, 10% we
 Baseline ECOG performance status was 0 (50%) or 1 (50%).
 
 With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator’s choice taxane chemotherapy.
-Efficacy results are shown in Table 56 and Figure 31.
+Efficacy results are shown in Table 58 and Figure 32.
 
 A higher proportion of patients experienced death within the first 2.5 months in the nivolumab arm (32/210, 15.2%) as compared to the chemotherapy arm (15/209, 7.2%).
 No specific factor(s) associated with early deaths could be identified.
 
-Table 56: Efficacy results (ONO-4538-24/CA209473)
+Table 58: Efficacy results (ONO-4538-24/CA209473)
 
 nivolumab investigator’s choice
 (n = 210) (n = 209)
@@ -2789,7 +2862,7 @@ b Based on a stratified proportional hazards model.
 c Based on a stratified log-rank test.
 d Based on Response Evaluable Set (RES) analysis, n=171 in nivolumab group and n=158 in investigator’s choice group.
 e Not significant, p-value 0.6323.
-Figure 31: Kaplan-Meier curves of OS (ONO-4538-24/CA209473)
+Figure 32: Kaplan-Meier curves of OS (ONO-4538-24/CA209473)
 
 Overall Survival (Months)
 
@@ -2830,9 +2903,9 @@ Median DFS as determined by the investigator was 22.41 months (95% CI: 16.62, 34
 The primary analysis of DFS included censoring for new anti-cancer treatment.
 Results for DFS with and without censoring for new anti-cancer treatment were consistent.
 In an updated descriptive DFS analysis with minimum of 14 months and median of 32.2 months follow-up, DFS improvement was confirmed.
-Efficacy results from this descriptive secondary analysis are shown in Table 57 and Figure 32.
+Efficacy results from this descriptive secondary analysis are shown in Table 59 and Figure 33.
 
-Table 57: Efficacy results (CA209577)
+Table 59: Efficacy results (CA209577)
 
 nivolumab placebo
 (n = 532) (n = 262)
@@ -2849,7 +2922,7 @@ Rate (95% CI) at 24 months 48.3 (43.7, 52.8) 36.0 (29.9, 42.0)
 a Based on all randomised patients.
 b Based on a stratified cox proportional hazards model.
 c Descriptive analysis based on data cut-off: 18-Feb-2021.
-Figure 32: Kaplan-Meier curves of DFS (CA209577)
+Figure 33: Kaplan-Meier curves of DFS (CA209577)
 
 Disease-free Survival (months)
 
@@ -2865,8 +2938,8 @@ Based on data cut-off: 18-Feb-2021, minimum follow-up of 14 months
 At the final OS analysis with a minimum follow up of 60 months, the HR for OS was 0.85
 (95.87% CI: 0.70, 1.04), p-value = 0.1064.
 Median OS was 51.71 (95% CI: 41.03, 61.63) months in the nivolumab arm compared with 35.25 (95% CI: 30.72, 48.76) months in the placebo arm.
-The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 33.
-Figure 33: Kaplan-Meier curves of OS (CA209577)
+The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 34.
+Figure 34: Kaplan-Meier curves of OS (CA209577)
 
 Overall Survival (months)
 
@@ -2910,9 +2983,9 @@ The ORR was 60% (95% CI: 55, 65) for nivolumab in combination with chemotherapy 
 (95% CI: 40, 50) for chemotherapy.
 
 At an updated descriptive analysis with a minimum follow-up of 19.4 months, OS improvements were consistent with the primary analysis.
-Efficacy results are shown in Table 58, and Figures 34, and 35.
+Efficacy results are shown in Table 60, and Figures 35, and 36.
 
-Table 58: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
+Table 60: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
 
 nivolumab + chemotherapy chemotherapy
 (n = 473) (n = 482)
@@ -2943,12 +3016,12 @@ Duration of responsed,e
 Median (95% CI) (months)c 9.69 (8.25, 12.22) 6.97 (5.62, 7.85)
 
 a Descriptive analysis based on data cut-off: 04-Jan-2021.
-b Based on stratified long Cox proportional hazard model.
+b Based on stratified log Cox proportional hazard model.
 c Kaplan-Meier estimate.
 d Confirmed by BICR.
 e Based on patients with measurable disease at baseline.
 
-Figure 34: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
+Figure 35: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
 Overall survival (months)
 
 Number of subjects at risk
@@ -2959,7 +3032,7 @@ Nivolumab + chemotherapy
 • Nivolumab + chemotherapy (events: 344/473), median and 95% CI: 14.42 (13.14, 16.26)
 - - -•- - - Chemotherapy (events: 397/482), median and 95% CI: 11.10 (10.02, 12.09)
 Minimum follow-up of 19.4 months
-Figure 35: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649)
+Figure 36: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649)
 
 Progression free survival (months)
 
@@ -2999,9 +3072,9 @@ The majority of patients had BCLC stage C (73%) disease at baseline, 19% had sta
 A total of 54% of patients had extrahepatic spread; 25% had macrovascular invasion; and 33% had AFP levels ≥ 400 µg/L.
 
 The study demonstrated a statistically significant benefit in OS and ORR for patients randomised to nivolumab in combination with ipilimumab compared to investigator’s choice of lenvatinib or sorafenib.
-Efficacy results are presented in Table 59 and Figure 36.
+Efficacy results are presented in Table 61 and Figure 37.
 
-Table 59: Efficacy results in first-line HCC (CA2099DW)a
+Table 61: Efficacy results in first-line HCC (CA2099DW)a
 
 nivolumab + ipilimumab lenvatinib or sorafenib
 (n = 335) (n = 333)
@@ -3029,10 +3102,10 @@ Median follow up of 35.2 months.
 b Based on stratified Cox proportional hazard model.
 c Based on a 2-sided stratified log-rank test.
 Boundary for statistical significance: p-value ≤ 0.0257.
-d Assessed by BICR using RECIST 1.1.
+d Assessed by BICR using RECIST, version 1.1.
 e Based on a 2-sided stratified Cochran-Mantel-Haenszel test.
 Boundary for statistical significance: p-value ≤ 0.025.
-Figure 36: Kaplan-Meier curve of OS in first-line patients with HCC (CA2099DW)
+Figure 37: Kaplan-Meier curve of OS in first-line patients with HCC (CA2099DW)
 
 Overall survival (months)
 
@@ -3058,7 +3131,7 @@ The main primary outcome measures were safety, tolerability and antitumour activ
 Among the 64 paediatric patients treated with nivolumab monotherapy, 60 were response-evaluable patients (melanoma n = 1, solid tumours n = 47 and haematological tumours n = 12).
 In the 48 response-evaluable paediatric patients with melanoma or solid tumours, no objective responses were observed.
 In the 12 response-evaluable paediatric patients with haematological tumours, ORR was 25.0% (95% CI: 5.5, 57.2), including 1 complete response in cHL and 2 partial responses, one in cHL and another one in NHL.
-In the descriptive analyses for the 64 paediatric patients treated with nivolumab monotherapy, the median OS was 6.67 months (95% CI: 5.98, NA); 6.14 months
+In the descriptive analyses for the 64 paediatric patients treated with nivolumab monotherapy, the median OS was 6.67 months (95% CI: 5.98, N.A.); 6.14 months
 (95% CI: 5.39, 24.67) for patients with melanoma or solid tumours, and not reached for patients with haematological tumours.
 
 Among the 30 response-evaluable paediatric patients treated with nivolumab in combination with ipilimumab (solid tumours other than melanoma only), no objective responses were observed.
@@ -3099,10 +3172,14 @@ Intravenous formulation
 Table 15 and Figure 1.
 Table 15: Efficacy results (CA20976K)
 
+The study included adult patients, who had an ECOG performance status score of 0 or 1, with Stage IIIB/C or Stage IV American Joint Committee on Cancer (AJCC), 7th edition, histologically confirmed melanoma that is completely surgically resected.
+Patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation) prior therapy with, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T cell co-stimulation or checkpoint pathways), were excluded from the study.
+
+Forty-two percent of patients were BRAF V600 mutation positive while 45% were BRAF wild type and 13% BRAF were status unknown.
+
 At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p < 0.0001) was demonstrated.
 At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p < 0.0001) and OS was not mature.
 Table 16 and Figures 2 and 3 (all randomised population).
-
 Table 16: Efficacy results (CA209238)
 
 - - -•- - - Nivolumab ---•---- Ipilimumab
@@ -3126,8 +3203,6 @@ Efficacy results based on investigator-assessed response rates at week 12 are pr
 
 Table 19: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
 
-Thirty-two percent of patients had BRAF mutation-positive melanoma; 26.5% of patients had PD-L1 ≥ 5% tumour cell membrane expression.
-
 ----•---- Nivolumab (events: 208/316), median and 95% CI: 6.93 (5.13, 10.18).
 
 ----•---- Nivolumab (events: 139/208), median and 95% CI: 5.39 (2.96, 7.13)
@@ -3147,11 +3222,27 @@ Table 20: Objective response (CA209067) nivolumab +
 
 ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 19) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
 
+After 90 months of follow-up, BRAF[V600] mutation-positive and BRAF wild-type patients randomised to nivolumab in combination with ipilimumab had a median PFS of 16.76 months
+BRAF[V600] mutation-positive and BRAF wild-type patients randomised to ipilimumab monotherapy had a median PFS of 3.09 months (95% CI: 2.79, 5.19) and 2.83 months (95% CI: 2.76, 3.06), respectively.
+
+After 90 months of follow-up, BRAF[V600] mutation-positive and BRAF wild-type patients randomised to nivolumab in combination with ipilimumab had an ORR of 67.0% (95% CI: 57.0, 75.9; n = 103) and 54.0% (95% CI: 47.1, 60.9; n = 211), while those in the nivolumab monotherapy arm had an ORR of 37.87% (95% CI: 28.2, 48.1; n = 98) and 48.2% (95% CI: 41.4, 55.0; n = 218), respectively.
+BRAF[V600] mutation-positive and BRAF wild-type patients randomised to ipilimumab monotherapy had an ORR of 23.0% (95% CI: 15.2, 32.5; n = 100) and 17.2% (95% CI: 12.4, 22.9;
+
+After 90 months of follow-up, in BRAF [V600] mutation-positive patients median OS was not reached in the combination arm and 45.5 months in the nivolumab monotherapy arm.
+Median OS for BRAF [V600] mutation-positive patients in the ipilimumab monotherapy arm was 24.6 months.
+(95% CI: 0.44, 0.98) for BRAF[V600] mutation-positive patients and 0.95 (95% CI: 0.74, 1.22) for BRAF wild-type patients.
+
+Randomised phase 2 study of nivolumab in combination with ipilimumab and ipilimumab (CA209069)
+
+The primary efficacy outcome measures were event-free survival (EFS) based on BICR assessment and pathological complete response rate (pCR) by blinded-independent pathology review (BIPR).
+
 The key efficacy results for the subgroup of patients with tumour PD-L1 expression ≥ 1% and disease stage II-IIIA from an exploratory analysis with a minimum follow-up of 32.9 months are summarized in Table 21.
 
 Table 21: Efficacy results in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease* (CA209816)
 
 - - -•- - - Chemotherapy (events: 38/86), median and 95% CI: 73.72 47.34, NR)
+
+In the adjuvant phase, within 90 days after the surgery patients received either nivolumab 480 mg administered intravenously over 30 minutes every 4 weeks, or placebo administered every 4 weeks until disease progression, recurrence, or unacceptable toxicity, for up to 13 cycles.
 
 EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 22 and Figure 13.
 
@@ -3163,6 +3254,7 @@ Figure 15: Kaplan-Meier curves of OS (CA209017)
 
 ----•---- Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27)
 
+Efficacy results are shown in Table 23.
 Table 23: Efficacy results (CA209017)
 
 Nivolumab 3 mg/kg showed an ORR of 14.5% (95% CI: 8.7,22.2%), a median OS of 8.21 months (95% CI: 6.05,10.9), and a median PFS of 1.87 months (95% CI 1.77,3.15).
@@ -3178,17 +3270,13 @@ Efficacy results are shown in Table 25.
 
 Table 25: Efficacy results (CA209057)
 
-|  |  |
-| --- | --- |
-| Confirmed objective response (95% CI) Odds ratio (95% CI) p-value Complete response (CR) Partial response (PR) Stable disease (SD) Median duration of response Months (range) Median time to response Months (range) Progression-free survival Events Hazard ratio 95% CI p-value Median (95% CI) (months) Rate (95% CI) at 12 months |  |
-|  | Minim |
-| Overall survivalc Events Hazard ratioa (95% CI) Rate (95% CI) at 24 months Confirmed objective response (95% CI) Median duration of response Months (range) Progression-free survival Rate (95% CI) at 24 months |  |
-|  | Minim |
-| Overall survivald Events Hazard ratioa |  |
+p-value 0.3932
 
 Table 26 summarises results of ORR and OS by tumour PD-L1 expression.
 
 Table 26: ORR and OS by tumour PD-L1 expression (CA209057)
+
+The median duration of treatment was 7.9 months (range: 1 day-21.4+ months) in nivolumab with ipilimumab-treated patients and was 7.8 months (range: 1 day-20.2+ months) in sunitinib-treated patients.
 
 Efficacy results for the intermediate/poor risk patients are shown in Table 27 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 17 (minimum follow-up of 60 months).
 
@@ -3199,12 +3287,11 @@ Figure 17: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA20921
 ----•---- Nivolumab + ipilimumab (events: 242/425), median and 95.0% CI: 46.95 (35.35, 57.43)
 
 Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 28.
-
 Table 28: Efficacy results (CA2099ER)
 
 Difference in ORR (95% CI)g 28.6 (21.7, 35.6)
 
-The primary analysis of PFS included censoring for new anti-cancer treatment (Table 26).
+The primary analysis of PFS included censoring for new anti-cancer treatment (Table 28).
 
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of the IMDC risk category.
 
@@ -3256,7 +3343,7 @@ c Stratified by weight (< 80 kg vs ≥ 80 kg) and IMDC risk group (favourable vs
 d Strata adjusted risk ratio (subcutaneous nivolumab over intravenous nivolumab) using Mantel-Haenszel method.
 e Median computed using Kaplan-Meier method.
 
-Patients with any history of or concurrent brain metastases, prior treatment with a mammalian target of rapamycin (mTOR) inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
+The majority of patients were male (75%) and white (88%), all Memorial Sloan Kettering Cancer Center risk groups were represented, and 34% and 66% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively.
 
 The Kaplan-Meier curves for OS are shown in Figure 20.
 
@@ -3267,12 +3354,13 @@ Everolimus
 
 ----•---- Nivolumab 3 mg/kg (events: 183/410), median and 95% CI: 25.00 (21.75, N.A.)
 
-The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 30 and Figure 20).
+The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the pre-specified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 30 and Figure 20).
 
 Efficacy results are shown in Table 30.
 Table 30: Efficacy results (CA209025)
 
 The Kaplan-Meier curves for OS are shown in Figure 21.
+Efficacy results are shown in Table 31.
 
 Figure 21: Kaplan-Meier curves of OS (CA209141)
 
@@ -3286,6 +3374,8 @@ This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD
 Table 33: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
 Urothelial carcinoma
+
+Eighty two percent had muscle invasive bladder cancer (MIBC), 18% had upper tract urothelial carcinoma (UTUC) (renal pelvis and ureter), 42% of patients received prior cisplatin in the neoadjuvant setting, 45% of patients were N+ at radical resection, patients had ECOG performance status of 0 (61%), 1 (37%), or 2 (2%), and 7% of patients had a haemoglobin < 10 g/dL.
 
 Efficacy results from this descriptive updated analysis are shown in Table 34 and Figure 22.
 Table 34: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
@@ -3321,6 +3411,8 @@ Bevacizumab 5 mg/kg on or cetuximab 500 mg/m2 administered prior to FOLFIRI ever
 Additionally,
 66 patients received a targeted agent, either bevacizumab (64%) or cetuximab (11%).
 
+A primary efficacy outcome measure of the study was BICR-assessed PFS per RECIST version 1.1.
+
 The BICR-assessed PFS results are presented in Table 37 and Figure 25.
 
 Table 37: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW)a,
@@ -3338,6 +3430,7 @@ Efficacy results are shown in Table 39.
 Table 39: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are shown in Figures 26 and 27.
+
 Figure 26: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 Figure 27: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
@@ -3367,6 +3460,8 @@ Figure 30: Kaplan-Meier curves of OS (CA209577)
 Efficacy results are shown in Table 42, and Figures 31 and 32.
 
 Table 42: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
+
+b Based on stratified long Cox proportional hazard model.
 
 Figure 31: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
 

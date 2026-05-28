@@ -17,4 +17,3 @@ Histidine hydrochloride monohydrate
 Sucrose
 Pentetic acid
 Methionine
-Water for injection

@@ -1,12 +1,13 @@
 # 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by physicians experienced in the treatment of cancer.
-
 PD-L1 testing
+
 If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be assessed by a CE-marked in vitro IVD medical device test.
 If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
 
 MSI/MMR testing
+
 If specified in the indication, patient selection for treatment with OPDIVO based on MSI-H/dMMR tumour status should be assessed by a CE-marked IVD with the corresponding intended purpose.
 If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
 
@@ -23,7 +24,7 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 |  | Adolescents (12 years of age and older and weighing less than 50 kg): 3 mg/kg every 2 weeks over 30 minutes or 6 mg/kg every 4 weeks over 60 minutes |
 | Renal cell carcinoma Muscle invasive urothelial carcinoma (MIUC) (adjuvant** treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Oesophageal or gastro-oesophageal junction cancer (adjuvant** treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes for the first 16 weeks, followed by 480 mg every 4 weeks over 30 minutes |
-| Non-small cell lung cancer Classical Hodgkin lymphoma Squamous cell cancer of the head and neck Urothelial carcinoma Oesophageal squamous cell carcinoma | 240 mg every 2 weeks over 30 minutes |
+| Non-small cell lung cancer Relapsed or refractory classical Hodgkin lymphoma Squamous cell cancer of the head and neck Urothelial carcinoma Oesophageal squamous cell carcinoma | 240 mg every 2 weeks over 30 minutes |
 
 *As per monotherapy indication in section 4.1.
 **For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
@@ -38,7 +39,7 @@ Table 2: Recommended doses and infusion times for intravenous administration of 
 
 |  | Combination phase, for 4 dosing cycles | Monotherapy phase |
 | --- | --- | --- |
-| Nivolumab | Adults and adolescents 12 years of age and older: (regardless of weight) 1 mg/kg every 3 weeks over 30 minutes | Adults and adolescents (12 years of age and older and weighing at least 50 kg): 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes The first dose should be administered: • 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or • 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks. Adolescents (12 years of age and older and weighing less than 50 kg): 3 mg/kg every 2 weeks over 30 minutes or 6 mg/kg every 4 weeks over 60 minutes The first dose should be administered: • 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 3 mg/kg every 2 weeks; or • 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 6 mg/kg every 4 weeks. |
+| Nivolumab | Adults and adolescents 12 years of age and older: (regardless of weight) 1 mg/kg every 3 weeks over 30 minutes | Adults and adolescents (12 years of age and older and weighing at least 50 kg): 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes The first dose should be administered: • 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or • 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks Adolescents (12 years of age and older and weighing less than 50 kg): 3 mg/kg every 2 weeks over 30 minutes or 6 mg/kg every 4 weeks over 60 minutes The first dose should be administered: • 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 3 mg/kg every 2 weeks; or • 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 6 mg/kg every 4 weeks |
 | Ipilimumab | Adults and adolescents 12 years of age and older (regardless of weight): 3 mg/kg every 3 weeks over 30 minutes | - |
 
 Malignant pleural mesothelioma (MPM)
@@ -175,16 +176,27 @@ Table 14: Recommended doses and infusion times for intravenous administration of
 
 *Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months from first dose, whichever comes first.
 
+Previously untreated Stage III or IV classical Hodgkin lymphoma (cHL)
+
+Table 15: Recommended doses and infusion times for intravenous administration of nivolumab in combination with AVD chemotherapy for previously untreated cHL (see section 5.1)
+
+|  |  | Combination phase for 6 dosing cycles* |
+| --- | --- | --- |
+| Nivolumab | Adults and adolescents (12 years of age and older weighing at least 80 kg) | 240 mg every 2 weeks over 30 minutes |
+| Nivolumab | Adolescents (12 years of age and older weighing less than 80 kg) | 3 mg/kg every 2 weeks over 30 minutes |
+| Doxorubicin, vinblastine and dacarbazine (AVD) |  | Every 2 weeks |
+
+*One dosing cycle of nivolumab in combination with AVD is 28 days
 OPDIVO in combination with brentuximab vedotin
 
-Classical Hodgkin lymphoma
+Relapsed or refractory cHL
 
-Table 15: Recommended doses and infusion times for intravenous administration of nivolumab in combination with brentuximab vedotin for cHL
+Table 16: Recommended doses and infusion times for intravenous administration of nivolumab in combination with brentuximab vedotin for relapsed or refractory cHL
 
 |  | Combination therapy* |
 | --- | --- |
 | Nivolumab | 3 mg/kg every 3 weeks over 30 minutes For Cycle 1 only, nivolumab should be administered on Day 8 of the cycle. For Cycles 2-6, nivolumab should be administered 30 minutes after completion of brentuximab vedotin administration, on the same day. |
-| Brentuximab Vedotin | 1.8 mg/kg up to a maximum of 180 mg, every 3 weeks over 30 minutes |
+| Brentuximab Vedotin | 1.8 mg/kg up to a maximum of 180 mg, every 3 weeks over 30 minutes For Cycles 1-6, brentuximab vedotin should be administered on Day 1 of the Cycle. |
 
 *Treatment is risk-based, response-adapted.
 For information on risk stratification see section 5.1.
@@ -200,13 +212,14 @@ Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab
 
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
+
 Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in combination with other therapeutic agents.
 Dosing delay or discontinuation may be required based on individual safety and tolerability.
-Guidelines for permanent discontinuation or withholding of doses are described in Table 16.
+Guidelines for permanent discontinuation or withholding of doses are described in Table 17.
 Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4.
 When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
 
-Table 16: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+Table 17: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 Immune-related Severity Treatment modification
 
@@ -221,6 +234,10 @@ pneumonitis is complete
 Grade 3 or 4 pneumonitis Permanently discontinue
 
 treatment
+
+Immune-related Severity Treatment modification
+
+adverse reaction
 
 Grade 2 diarrhoea or colitis Withhold dose(s) until symptoms
 
@@ -273,10 +290,6 @@ or treatment
 
 Total bilirubin increases to > 3 times ULN
 
-Immune-related Severity Treatment modification
-
-adverse reaction
-
 Grade 2 or 3 creatinine elevation Withhold dose(s) until creatinine
 
 returns to baseline and
@@ -289,6 +302,10 @@ dysfunction
 Grade 4 creatinine elevation Permanently discontinue
 
 treatment
+
+Immune-related Severity Treatment modification
+
+adverse reaction
 Symptomatic Grade 2 or 3 hypothyroidism, Withhold dose(s) until symptoms
 
 hyperthyroidism, hypophysitis, resolve and management with
@@ -347,6 +364,7 @@ OPDIVO as monotherapy or in combination with other therapeutic agents should be 
 - Persistent Grade 2 or 3 adverse reactions despite management.
 
 Patients treated with OPDIVO must be given the patient card and be informed about the risks of OPDIVO (see also package leaflet).
+
 When OPDIVO is administered in combination with ipilimumab, if either agent is withheld, the other agent should also be withheld.
 If dosing is resumed after a delay, either the combination treatment or OPDIVO monotherapy could be resumed based on the evaluation of the individual patient.
 
@@ -356,7 +374,7 @@ If dosing is resumed after a delay, either the combination treatment, OPDIVO mon
 
 OPDIVO in combination with cabozantinib in RCC
 When OPDIVO is used in combination with cabozantinib, the above treatment modifications in
-Table 16 also apply to the OPDIVO component.
+Table 17 also apply to the OPDIVO component.
 In addition, for liver enzyme elevations, in patients with RCC being treated with OPDIVO in combination with cabozantinib:
 
 - If ALT or AST > 3 times ULN but ≤ 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both OPDIVO and cabozantinib should be withheld until these adverse reactions recover to Grades 0-1.
@@ -381,19 +399,21 @@ OPDIVO must be administered with caution in patients with severe (total bilirubi
 
 Paediatric population
 
-The safety and efficacy of OPDIVO in children below 18 years of age have not been established except in adolescents 12 years of age and older with melanoma and paediatric patients 5 years of age and older with cHL.
-Currently available data of OPDIVO as monotherapy, in combination with ipilimumab, or in combination with brentuximab vedotin are described in sections 4.2, 4.8, 5.1 and 5.2.
+The safety and efficacy of OPDIVO in children below 18 years of age have not been established except in adolescents 12 years of age and older with melanoma or previously untreated cHL, and paediatric patients 5 years of age and older with relapsed or refractory cHL.
+Currently available data of OPDIVO as monotherapy, in combination with ipilimumab, in combination with brentuximab vedotin or in combination with AVD are described in sections 4.2, 4.8, 5.1 and 5.2.
 
 Method of administration
 
 OPDIVO is for intravenous use only.
-It is to be administered as an intravenous infusion over a period of 30 or 60 minutes depending on the dose (see Tables 1, 2, 3, 4 and 5).
+It is to be administered as an intravenous infusion over a period of 30 or 60 minutes depending on the dose (see Tables 1 to 16).
 The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 μm.
 
 OPDIVO must not be administered as an intravenous push or bolus injection.
+
 The total dose of OPDIVO required can be infused directly as a 10 mg/mL solution or can be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection (see section 6.6).
 
-When administered in combination with ipilimumab and/or chemotherapy, OPDIVO should be given first followed by ipilimumab (if applicable) and then by chemotherapy on the same day.
+When administered in combination with ipilimumab and/or chemotherapy, OPDIVO should be given first followed by ipilimumab (if applicable) and then by chemotherapy on the same day, except for administration in combination with AVD in patients with previously untreated cHL.
+When administered in combination with AVD, doxorubicin, vinblastine and dacarbazine should be given first, followed by OPDIVO on the same day.
 When administered in combination with brentuximab vedotin, for Cycle 1, brentuximab vedotin should be given on Day 1 and OPDIVO on Day 8.
 For Cycle 2-6, OPDIVO should be given at least 30 minutes after the completion of brentuximab vedotin infusion on the same day.
 Use separate infusion bags and filters for each infusion.
@@ -551,8 +571,8 @@ If dosing is resumed after a delay, either the intravenous combination treatment
 Table 10 also apply to the OPDIVO component.
 
 No dose adjustment is required for elderly patients (≥ 65 years).
-Based on the population pharmacokinetic (PK) results for intravenous nivolumab, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 
+Based on the population pharmacokinetic (PK) results for intravenous nivolumab, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Based on the population PK results for intravenous nivolumab, no dose adjustment is required in patients with mild or moderate hepatic impairment (see section 5.2).
 Data from patients with severe hepatic impairment are too limited to draw conclusions on this populations.
 
