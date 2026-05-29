@@ -1,0 +1,16 @@
+{
+  "active_substance": "furosemide",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/006617",
+  "eu_number": "EU/1/26/2027",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2026-05-29",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bopediat",
+  "molecule": "furosemide",
+  "molecule_name": "FUROSEMIDE",
+  "name": "Bopediat",
+  "register_name": "Bopediat",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h2027.htm"
+}
