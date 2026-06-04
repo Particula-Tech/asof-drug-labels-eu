@@ -2,7 +2,7 @@
 
 Women of childbearing potential/Contraception
 
-Women of childbearing potential treated with isatuximab should use effective contraception during treatment and for 5 months after cessation of treatment.
+Women of childbearing potential treated with isatuximab should use effective contraception during treatment and for 7 months after cessation of treatment.
 
 Pregnancy
 
@@ -19,6 +19,5 @@ For this specific period, a decision must be made whether to discontinue breast-
 Afterwards, isatuximab could be used during breast-feeding if clinically needed.
 
 Fertility
-No human and animal data are available to determine potential effects of isatuximab on fertility in males and females (see section 5.3).
 
-For other medicinal products that are administered with isatuximab, refer to the respective current
+No human and animal data are available to determine potential effects of isatuximab on fertility in males and females (see section 5.3).

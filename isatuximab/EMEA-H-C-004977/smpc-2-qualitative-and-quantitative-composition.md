@@ -13,3 +13,7 @@ Each vial with 5 ml of concentrate for solution for infusion of isatuximab conta
 Each vial with 25 ml of concentrate for solution for infusion of isatuximab contains 5 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1.
+
+[Sarclisa 1 400 mg solution for injection]
+
+Each vial contains 1 400 mg of isatuximab in 10 mL of solution (140 mg/mL).

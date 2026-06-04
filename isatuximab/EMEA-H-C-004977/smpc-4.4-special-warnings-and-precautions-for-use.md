@@ -6,8 +6,8 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Infusion reactions
 
-Infusion reactions, mostly mild or moderate, have been observed in 38.2 % of patients treated with SARCLISA in ICARIA-MM, in 45.8 % of patients treated with Isa-Kd in IKEMA, in 24.0% of patients treated with Isa-VRd in IMROZ, and in 12.7% of patients treated with Isa-VRd during the induction period in GMMG-HD7 (see section 4.8).
-In ICARIA-MM, all infusion reactions started during the first SARCLISA infusion and resolved on the same day in 98 % of the infusions.
+Infusion reactions, mostly mild or moderate, have been observed in 38.2 % of patients treated with isatuximab in ICARIA-MM, in 45.8 % of patients treated with Isa-Kd in IKEMA, in 24.0% of patients treated with Isa-VRd in IMROZ, and in 12.7% of patients treated with Isa-VRd during the induction period in GMMG-HD7 (see section 4.8).
+In ICARIA-MM, all infusion reactions started during the first isatuximab infusion and resolved on the same day in 98 % of the infusions.
 The most common symptoms of an infusion reaction included dyspnoea, cough, chills and nausea.
 The most common severe signs and symptoms included hypertension, dyspnoea, and bronchospasm.
 In IKEMA, the infusion reactions occurred on the infusion day in 99.2 % of episodes.
@@ -17,19 +17,20 @@ The most common symptoms of an infusion reaction included cough, dyspnoea, nasal
 The most common severe signs and symptoms included
 
 hypertension and dyspnoea. In IMROZ, the IRs started on the infusion day in all patients, mostly
-during the first SARCLISA infusion, and resolved the same day in 97.3% of patients. All IRs resolved.
+during the first isatuximab infusion, and resolved the same day in 97.3% of patients. All IRs resolved.
 The most common symptoms of an IR included dyspnoea and chills. The most common severe sign
 and symptom was hypertension. In GMMG-HD7, during the induction period, in patients treated with
 
 Isa-VRd, 88.1% of those experiencing an IR experienced it at the first infusion and 21.4% at the subsequent infusions.
-All IRs resolved.
-(see section 4.8).
-However, serious infusion reactions including severe anaphylactic reactions have also been observed after SARCLISA administration (see section 4.8).
+All IRs resolved (see section 4.8).
+However, serious infusion reactions including severe anaphylactic reactions have also been observed after isatuximab administration.
+Anaphylactic reactions with a fatal outcome have been reported (see section 4.8).
 
-To decrease the risk and severity of infusion reactions, patients should be pre-medicated prior to SARCLISA infusion with montelukast (at least at cycle 1), acetaminophen, diphenhydramine or equivalent; dexamethasone is to be used as both premedication and anti-myeloma treatment (see section 4.2).
-Vital signs should be frequently monitored during the entire SARCLISA infusion.
-When required, interrupt SARCLISA infusion and provide appropriate medical and supportive measures (see section 4.2).
-In case symptoms do not improve to grade ≤ 1 after interruption of SARCLISA infusion, persist or worsen despite appropriate medicinal products, require hospitalization or are life-threatening, permanently discontinue SARCLISA and institute appropriate management.
+To decrease the risk and severity of infusion reactions, patients should be pre-medicated prior to isatuximab infusion with montelukast (at least at cycle 1), acetaminophen, diphenhydramine or equivalent; dexamethasone is to be used as both premedication and anti-myeloma treatment (see section 4.2).
+Vital signs should be frequently monitored during the entire isatuximab infusion.
+When required, interrupt isatuximab infusion and provide appropriate medical and supportive measures (see section 4.2).
+In case symptoms do not improve to grade ≤ 1 after interruption of isatuximab infusion, persist or worsen despite appropriate medicinal products, require hospitalization or are life-threatening, permanently discontinue isatuximab and institute appropriate management.
+In case of anaphylactic reaction or life-threatening (grade 4) infusion reaction, permanently discontinue Sarclisa and institute appropriate management.
 
 Neutropenia
 
@@ -42,15 +43,15 @@ Neutropenic complications have been observed in 12.5% of patients, including 2.3
 In patients treated with Isa-VRd during the induction period in GMMG-HD7, neutropenia was reported as a laboratory abnormality in 30.9% of patients and as an adverse reaction in 16.1% of patients, with Grade 3-4 neutropenia reported as a laboratory abnormality in 5.9% of patients (with 3.1% Grade 3 and 2.8% Grade 4) and as an adverse reaction in 16.1% of patients (see section 4.8).
 Complete blood cell counts should be monitored periodically during treatment.
 Patients with neutropenia should be monitored for signs of infection.
-No dose reductions of SARCLISA are recommended.
-SARCLISA dose delays and the use of colony-stimulating factors (e.g. G-CSF) should be considered to mitigate the risk of neutropenia (see section 4.2).
+No dose reductions of isatuximab are recommended.
+Isatuximab dose delays and the use of colony-stimulating factors (e.g. G-CSF) should be considered to mitigate the risk of neutropenia (see section 4.2).
 
 (1) Haematology laboratory values were recorded as adverse reactions only if they led to treatment discontinuation and/or dose modification and/or fulfilled a serious criterion.
 
 Infection
 
-A higher incidence of infections, including grade ≥ 3 infections, mainly pneumonia, upper respiratory tract infection and bronchitis, occurred with SARCLISA (see section 4.8).
-Patients receiving SARCLISA should be closely monitored for signs of infection and appropriate standard therapy instituted.
+A higher incidence of infections, including grade ≥ 3 infections, mainly pneumonia, upper respiratory tract infection and bronchitis, occurred with isatuximab (see section 4.8).
+Patients receiving isatuximab should be closely monitored for signs of infection and appropriate standard therapy instituted.
 Antibacterial and antiviral prophylaxis (such as herpes zoster prophylaxis) according to treatment guidelines should be considered during treatment (see sections 4.2 and 4.8).
 
 Second primary malignancies
@@ -66,19 +67,22 @@ Two patients (1.1 %) in the Isa-Kd group and one patient (0.8 %) in the Kd group
 Patients with skin cancer continued treatment after resection of the skin cancer.
 Solid tumours other than skin cancer were diagnosed within 3 months after treatment initiation in 3 patients (1.7 %) treated with Isa-Kd and in 2 patients (1.6 %)
 
-| treated with Kd. | In IMROZ study, at a median follow-up time of 59.73 months, SPMs were reported |
-| --- | --- |
-| in 42 patients (16.0%) treated with Isa-VRd (0.041 events per patient-year) and in 16 patients (8.8%) |  |
-| treated with VRd (0.026 events per patient-year). SPMs were skin cancers in 22 patients (8.4%) |  |
-| treated with Isa-VRd and in 7 patients (3.9%) treated with VRd, were solid tumours other than skin |  |
-| cancer in 17 patients (6.5%) treated with Isa-VRd and in 7 patients (3.9%) treated with VRd, and |  |
+treated with Kd. In IMROZ study, at a median follow-up time of 59.73 months, SPMs were reported
+in 42 patients (16.0%) treated with Isa-VRd (0.041 events per patient-year) and in 16 patients (8.8%)
+treated with VRd (0.026 events per patient-year). SPMs were skin cancers in 22 patients (8.4%)
+treated with Isa-VRd and in 7 patients (3.9%) treated with VRd, were solid tumours other than skin
+cancer in 17 patients (6.5%) treated with Isa-VRd and in 7 patients (3.9%) treated with VRd, and
+haematological malignancy in 3 patients (1.1%) treated with Isa-VRd and in 2 patients (1.1%) treated
+with VRd. Patients with SPM of skin cancer continued treatment after resection of the skin cancer,
+except one patient in each treatment group. SPMs with fatal outcome were reported in 6 patients
+(2.3%) treated with Isa-VRd (neuroendocrine carcinoma of the skin, malignant melanoma, squamous
+cell carcinoma of skin, squamous cell carcinoma of lung, colorectal cancer, and rectal
+adenocarcinoma) and in 2 patients (1.1%) treated with VRd (metastases to peritoneum and
+adenocarcinoma of colon). In GMMG-HD7, during the induction, intensification and follow up for
 
-haematological malignancy in 3 patients (1.1%) treated with Isa-VRd and in 2 patients (1.1%) treated with VRd.
-Patients with SPM of skin cancer continued treatment after resection of the skin cancer, except one patient in each treatment group.
-SPMs with fatal outcome were reported in 6 patients (2.3%) treated with Isa-VRd (neuroendocrine carcinoma of the skin, malignant melanoma, squamous cell carcinoma of skin, squamous cell carcinoma of lung, colorectal cancer, and rectal adenocarcinoma) and in 2 patients (1.1%) treated with VRd (metastases to peritoneum and adenocarcinoma of colon).
-In GMMG-HD7, during the induction, intensification and follow up for patients not secondary randomised, SPMs were reported in 2 patients (0.6%) treated with Isa-VRd and in 4 patients (1.2%) treated with VRd.
+patients not secondary randomised, SPMs were reported in 2 patients (0.6%) treated with Isa-VRd and in 4 patients (1.2%) treated with VRd.
 SPMs were skin cancer in 1 patient (0.3%) treated with VRd, were solid tumours other than skin cancer in 1 patient (0.3%) treated with Isa-VRd and in 2 patients (0.6%) treated with VRd, and haematological malignancies in 1 patient (0.3%) treated with Isa-VRd and in 1 patient (0.3%) treated in VRd.
-The overall incidence of SPMs in all the SARCLISA-exposed patients is 6.1 %.
+The overall incidence of SPMs in all the isatuximab-exposed patients is 6.1 %.
 Physicians should carefully evaluate patients before and during treatment as per IMWG guidelines for occurrence of SPM and initiate treatment as indicated.
 
 Tumour lysis syndrome
@@ -89,10 +93,10 @@ Patients should be monitored closely and appropriate precautions taken.
 Interference with serological testing (indirect antiglobulin test)
 
 Isatuximab binds to CD38 on red blood cells (RBCs) and may result in a false positive indirect antiglobulin test (indirect Coombs test).
-This interference with the indirect Coombs test may persist for at least 6 months after the last infusion of SARCLISA.
-To avoid potential problems with RBC transfusion, patients being treated with SARCLISA should have blood type and screen tests performed prior to the first infusion.
-Phenotyping may be considered prior to starting SARCLISA treatment as per local practice.
-If treatment with SARCLISA has already started, the blood bank should be informed.
+This interference with the indirect Coombs test may persist for at least 6 months after the last infusion of isatuximab.
+To avoid potential problems with RBC transfusion, patients being treated with isatuximab should have blood type and screen tests performed prior to the first infusion.
+Phenotyping may be considered prior to starting isatuximab treatment as per local practice.
+If treatment with isatuximab has already started, the blood bank should be informed.
 Patients should be monitored for theoretical risk of haemolysis.
 If an emergency transfusion is required, non- cross- matched ABO/Rh-compatible RBCs can be given as per local blood bank practices (see section 4.5).
 
@@ -100,16 +104,78 @@ Interference with determination of complete response
 
 Isatuximab is an IgG kappa monoclonal antibody that could be detected on both serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for the clinical monitoring of endogenous M-protein (see section 4.5).
 This interference can impact the accuracy of the determination of complete response in some patients with IgG kappa myeloma protein.
+This interference may persist for at least 6 months after the last administration of isatuximab.
 Twenty-two patients in the Isa-Pd arm who met Very Good Partial Response (VGPR) criteria with only residual immunofixation-positivity were tested for interference.
 Serum samples from these patients were tested by mass spectrometry to separate isatuximab signal from the myeloma M-protein signal.
 In the Isa-Kd arm, out of the 27 patients identified with potential interference and tested by mass spectrometry at the sensitivity level of the immunofixation test (25 mg/dL), 15 non-Complete Response (non-CR) patients as per Independent Response Committee (IRC) showed no detectable residual myeloma M-protein.
 Among these 15 patients, 11 patients had plasma cell < 5% in bone marrow.
 This indicates that 11 additional patients out of the 179 Isa-Kd patients (6.1 %) could have CR as best response leading to a potential CR rate of 45.8 % (see section 4.5).
 
+Educational materials
+
+All prescribers who intend to prescribe isatuximab as well as healthcare professionals at blood banks/transfusion centres must ensure they have received and are familiar with the healthcare professional educational material prepared for the management of the risk of interference with serological testing.
+Prescribers must explain to the patients that isatuximab may affect the results of their serological testing for at least 6 months after their last dose of isatuximab.
+This is also explained in the patient card that prescribers must give to patients at time of the first dose of isatuximab.
+The patients must be instructed to carry the card during treatment and for at least 6 months after the treatment has ended and to share it with their healthcare team.
+
 Elderly
 
-Data are limited in the elderly population ≥ 85 years old (see sections 4.2 and 4.8).
+Data are limited in the elderly population ≥ 85 years old (see section 4.8).
 
 Excipient with known effect
+
 This medicine contains 0.2 mg of polysorbate 80 in each mL of isatuximab concentrate for solution for infusion, which is equivalent to 0.1 mg/kg of body weight.
 Polysorbates may cause allergic reactions.
+
+[Sarclisa 1 400 mg solution for injection]
+
+Systemic administration reactions (SARs)
+
+In clinical trials with subcutaneous isatuximab (N=522), SARs occurred in 16 patients (3.1 %);
+14 patients (2.7%) experienced only one episode.
+An SAR occurred at first administration in 10 patients (1.9%).
+They were mostly low grades (Grade 1 or 2) and resolved at the most within
+
+3 days. The reported symptoms of SARs (all below 1%) were mainly pyrexia, dyspnoea, and sinus
+tachycardia. There was one Grade 3 episode of SAR in one patient that experienced hypertension and
+
+dyspnoea.
+In case of Grade >2 SARs, administration adjustments should be considered (see sections 4.2 and 4.8).
+To decrease the risk and severity of SARs, patients should be pre-medicated prior to isatuximab subcutaneous administration with montelukast (at cycle 1 only), acetaminophen, diphenhydramine or equivalent; dexamethasone is to be used as both premedication and anti-myeloma treatment (see section 4.2).
+
+Neutropenia was reported in clinical trials with isatuximab subcutaneous or intravenous in combination therapies.
+With isatuximab subcutaneous combination therapies, a higher incidence of Grade 3-4 neutropenia reported as laboratory abnormality was observed in patients with body weight < 50 kg compared to patients with a higher body weight, with however similar incidences of neutropenic complications (see section 4.8).
+Antibacterial and antiviral prophylaxis (such as herpes zoster prophylaxis) can be considered during treatment (see section 4.2).
+No dose reductions of isatuximab subcutaneous are recommended.
+Isatuximab subcutaneous dose delays and the use of colony-stimulating factors (e.g. G-CSF) should be considered to mitigate the risk of neutropenia (see section 4.2).
+
+Infections
+
+Infections were reported in clinical trials with isatuximab subcutaneous or intravenous in combination therapies, with an incidence of 66.4% of patients, including grade >3 infections reported in 29.9% of patients.
+Upper respiratory tract infection, pneumonia, and bronchitis were the most frequently reported infections (see section 4.8).
+Patients receiving isatuximab subcutaneous should be closely monitored for signs of infection and appropriate standard therapy instituted.
+Antibacterial and antiviral prophylaxis (such as herpes zoster prophylaxis) should be considered during treatment (see section 4.2).
+
+Second primary malignancies (SPMs) were reported in clinical trials with isatuximab subcutaneous or
+
+| intravenous in combination therapies (see section 4.8). | . |
+| --- | --- |
+| The overall incidence of SPMs in isatuximab-exposed patients (subcutaneous and intravenous |  |
+| formulations) is 5.4%. Monitor patients for the development of second primary malignancies and |  |
+| initiate treatment as indicated. |  |
+
+Cases of tumour lysis syndrome (TLS) have been reported in patients who received regimens containing isatuximab administered intravenously.
+
+This interference with the indirect Coombs test may persist for at least 6 months after the last administration of isatuximab.
+To avoid potential problems with RBC transfusion, patients being treated with isatuximab should have blood type and screen tests performed prior to the first administration.
+
+Isatuximab is an IgG kappa monoclonal antibody that could be detected on both serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for the clinical monitoring of endogenous M-protein.
+In patients with persistent very good partial response, where interference is suspected, consider using a validated isatuximab-specific IFE assay (Sebia Hydrashift) to remove isatuximab interference and specifically visualize any remaining serum M protein, to facilitate determination of complete response (see section 4.5).
+
+This is also explained in the patient card that prescribers must give to patients at time of the first dose of Sarclisa.
+
+Data are limited in the population ≥ 85 years old (see section 4.8).
+
+Body weight > 120 kg
+
+There is a potential for reduced efficacy with isatuximab subcutaneous in patients with a body weight > 120 kg, due to the effect of body weight on exposure (see section 5.2).

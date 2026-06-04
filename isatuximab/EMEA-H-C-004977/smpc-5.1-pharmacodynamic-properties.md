@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01FC02.
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and antibody drug conjugates, ATC code: L01FC02.
 
 Mechanism of action
 
@@ -17,7 +17,7 @@ In vitro, isatuximab can activate NK cells in the absence of CD38 positive targe
 In vivo, a decrease in absolute counts of total CD16+ and CD56+ NK cells, CD19+ B-cells, CD4+
 T- cells and TREG (CD3+, CD4+, CD25+, CD127-) was observed in peripheral blood of patients treated with isatuximab monotherapy.
 
-In multiple myeloma patients, SARCLISA monotherapy induced clonal expansion of the T-cell receptor repertoire indicating an adaptive immune response.
+In multiple myeloma patients, isatuximab monotherapy induced clonal expansion of the T-cell receptor repertoire indicating an adaptive immune response.
 
 The combination of isatuximab and pomalidomide in vitro enhances cell lysis of CD38 expressing multiple myeloma cells by effector cells (ADCC), and by direct tumour cell killing compared to that of isatuximab alone.
 In vivo animal experiments using a human multiple myeloma xenograft model in mice demonstrated that the combination of isatuximab and pomalidomide results in enhanced antitumour activity compared to the activity of isatuximab or pomalidomide alone.
@@ -25,15 +25,16 @@ In vivo animal experiments using a human multiple myeloma xenograft model in mic
 Clinical efficacy and safety
 
 Relapsed and/or refractory multiple myeloma
+
 ICARIA-MM (EFC14335)
 
-The efficacy and safety of SARCLISA in combination with pomalidomide and dexamethasone were evaluated in ICARIA-MM (EFC14335), a multicentre, multinational, randomised, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
+The efficacy and safety of isatuximab in combination with pomalidomide and dexamethasone were evaluated in ICARIA-MM (EFC14335), a multicentre, multinational, randomised, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
 Patients had received at least two prior therapies including lenalidomide and a proteasome inhibitor with disease progression on or within 60 days after the end of the previous therapy.
 Patients with primary refractory disease were excluded.
 
-A total of 307 patients were randomised in a 1:1 ratio to receive either SARCLISA in combination with pomalidomide and dexamethasone (Isa-Pd, 154 patients) or pomalidomide and dexamethasone (Pd, 153 patients).
+A total of 307 patients were randomised in a 1:1 ratio to receive either isatuximab in combination with pomalidomide and dexamethasone (Isa-Pd, 154 patients) or pomalidomide and dexamethasone (Pd, 153 patients).
 Treatment was administered in both groups in 28-day cycles until disease progression or unacceptable toxicity.
-SARCLISA 10 mg/kg was administered as an I.V. infusion weekly in the first cycle and every two weeks thereafter.
+Isatuximab 10 mg/kg was administered as an I.V. infusion weekly in the first cycle and every two weeks thereafter.
 Pomalidomide 4 mg was taken orally once daily from day 1 to day 21 of each 28-day cycle.
 Dexamethasone (oral/intravenous) 40 mg (20 mg for patients ≥ 75 years of age) was given on days 1, 8, 15 and 22 for each 28-day cycle.
 
@@ -54,9 +55,9 @@ The improvement in PFS represented a 40.4 % reduction in the risk of disease pro
 
 Efficacy results are presented in Table 13 and Kaplan-Meier curves for PFS and OS are provided in Figures 1 and 2:
 
-Table 13: Efficacy of SARCLISA in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+Table 13: Efficacy of isatuximab in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
-| Endpoint | SARCLISA + pomalidomide + dexamethasone N = 154 | Pomalidomide + dexamethasone N = 153 |
+| Endpoint | Isatuximab + pomalidomide + dexamethasone N = 154 | Pomalidomide + dexamethasone N = 153 |
 | --- | --- | --- |
 | Progression-Free Survivala b |  |  |
 | Median (months) [95 % CI] | 11.53 [8.936-13.897] | 6.47 [4.468-8.279] |
@@ -106,12 +107,12 @@ In study TCD14079 part B, there were no new safety signals or differences in eff
 
 IKEMA (EFC15246)
 
-The efficacy and safety of SARCLISA in combination with carfilzomib and dexamethasone were evaluated in IKEMA (EFC15246), a multicentre, multinational, randomized, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
+The efficacy and safety of isatuximab in combination with carfilzomib and dexamethasone were evaluated in IKEMA (EFC15246), a multicentre, multinational, randomized, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
 Patients had received one to three prior therapies.
 Patients with primary refractory disease, who had previously been treated with carfilzomib, or who were refractory to previous anti-CD38 monoclonal antibody treatment were excluded.
-A total of 302 patients were randomized in a 3:2 ratio to receive either SARCLISA in combination with carfilzomib and dexamethasone (Isa-Kd, 179 patients) or carfilzomib and dexamethasone (Kd, 123 patients).
+A total of 302 patients were randomized in a 3:2 ratio to receive either isatuximab in combination with carfilzomib and dexamethasone (Isa-Kd, 179 patients) or carfilzomib and dexamethasone (Kd, 123 patients).
 Treatment was administered in both groups in 28-day cycles until disease progression or unacceptable toxicity.
-SARCLISA 10 mg/kg was administered as an I.V. infusion weekly in the first cycle and every two weeks thereafter.
+Isatuximab 10 mg/kg was administered as an I.V. infusion weekly in the first cycle and every two weeks thereafter.
 Carfilzomib was administered as an I.V. infusion at the dose of 20 mg/m² on days 1 and 2; 56 mg/m² on days 8, 9, 15 and 16 of cycle 1; and at the dose of 56 mg/m² on days 1, 2, 8, 9, 15 and 16 for subsequent cycles of each 28-day cycle.
 Dexamethasone (IV on the days of isatuximab and/ or carfilzomib infusions, and PO on the other days) 20 mg was given on days 1, 2, 8, 9, 15, 16, 22 and 23 for each 28-day cycle.
 
@@ -135,9 +136,9 @@ With a median follow-up time of 20.73 months, the primary analysis of PFS showed
 
 Efficacy results are presented in Table 14 and Kaplan-Meier curves for PFS and OS are provided in the Figures 3 and 4:
 
-Table 14: Efficacy of SARCLISA in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+Table 14: Efficacy of isatuximab in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
-| Endpoint | SARCLISA + carfilzomib + dexamethasone N = 179 | Carfilzomib + dexamethasone N = 123 |
+| Endpoint | Isatuximab + carfilzomib + dexamethasone N = 179 | Carfilzomib + dexamethasone N = 123 |
 | --- | --- | --- |
 | Progression-Free Survivala Median (months) [95 % CI] Hazard ratiob [99 % CI] p-value (Stratified Log-Rank test)b | NR 19.15 [NR -NR] [15.77-NR] 0.531 [0.318-0.889] 0.0013 |  |
 | Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95 % CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 86.6 % 82.9 % [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7 % 27.6 % 33.0 % 28.5 % 14.0 % 26.8 % |  |
@@ -190,26 +191,26 @@ Newly diagnosed multiple myeloma
 
 IMROZ (EFC12522)
 
-The efficacy and safety of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone were evaluated in IMROZ (EFC12522), a multicentre, international, randomized, open-label, 2-arm, phase III study in patients with newly diagnosed multiple myeloma (NDMM) who are not eligible for stem cell transplantation.
+The efficacy and safety of isatuximab in combination with bortezomib, lenalidomide, and dexamethasone were evaluated in IMROZ (EFC12522), a multicentre, international, randomized, open-label, 2-arm, phase III study in patients with newly diagnosed multiple myeloma (NDMM) who are not eligible for stem cell transplantation.
 Patients over the age of 80 years were excluded, as well as patients with comorbidities that do not allow transplant procedures in patients with NDMM, based on investigator’s medical assessment (e.g., lung or coronary heart disease).
 
-A total of 446 patients were randomized in a 3:2 ratio to receive either SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd, 265 patients) or bortezomib, lenalidomide, and dexamethasone (VRd, 181 patients) administered in both groups during 4 cycles of 42-day for the induction period.
+A total of 446 patients were randomized in a 3:2 ratio to receive either isatuximab in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd, 265 patients) or bortezomib, lenalidomide, and dexamethasone (VRd, 181 patients) administered in both groups during 4 cycles of 42-day for the induction period.
 After completion of cycle 4, patients entered the continuous treatment period starting from cycle 5, 28-day cycles administered up to disease progression or unacceptable toxicity.
-During the continuous treatment period, patients of the Isa-VRd group received SARCLISA in combination with lenalidomide, and dexamethasone (Isa-Rd), and patients in the VRd group received lenalidomide, and dexamethasone (Rd).
+During the continuous treatment period, patients of the Isa-VRd group received isatuximab in combination with lenalidomide, and dexamethasone (Isa-Rd), and patients in the VRd group received lenalidomide, and dexamethasone (Rd).
 
-During the induction period (cycle 1 to 4, 42-day cycles), SARCLISA 10 mg/kg was administered as an I.V. infusion on day 1, 8, 15, 22, and 29, in the first cycle and on day 1, 15, and 29, from cycle 2 to 4.
+During the induction period (cycle 1 to 4, 42-day cycles), isatuximab 10 mg/kg was administered as an I.V. infusion on day 1, 8, 15, 22, and 29, in the first cycle and on day 1, 15, and 29, from cycle 2 to 4.
 Bortezomib was administered subcutaneously at the dose of 1.3 mg/m² on days 1, 4, 8, 11, 22, 25, 29, and 32 of each cycle.
 Lenalidomide was administered per os at the dose of 25 mg/day from day 1 to 14 and from day 22 to 35 of each cycle.
 Dexamethasone (I.V. on the days of isatuximab infusions, and PO on the other days) 20 mg/day was given on days 1, 2, 4, 5, 8, 9, 11, 12, 15, 22, 23, 25, 26, 29, 30, 32, and 33 of each cycle, and administered on days 1, 4, 8, 11, 15, 22, 25, 29, and 32 of each cycle for patients ≥75 years old.
 
-During the continuous treatment period (from cycle 5, 28-day cycles), SARCLISA 10 mg/kg was administered as an I.V. infusion on day 1 and 15 from cycle 5 to 17, and on day 1 from cycle 18.
+During the continuous treatment period (from cycle 5, 28-day cycles), isatuximab 10 mg/kg was administered as an I.V. infusion on day 1 and 15 from cycle 5 to 17, and on day 1 from cycle 18.
 Lenalidomide was administered per os at the dose of 25 mg/day from day 1 to 21 of each cycle.
 Dexamethasone (I.V. on the days of isatuximab infusions, and PO on the other days) 20 mg/day was given on days 1, 8, 15, and 22 of each cycle.
 
 Overall, demographic and disease characteristics at baseline were similar between the two treatment groups.
 The median patient age was 72 years (range 60-80), 26% of patients were ≥75 years.
-ECOG PS was 0 in 46.4% of patients in the Isa-VRd group and 43.6% in the VRd group, 1 in 42.3% in the Isa-VRd group and 45.9% in the VRd group, and 2 in 10.9% in the Isa-VRd group and 10.5% in the VRd group,and 3 in 0.4% in the Isa-VRd group and 0% in the VRd group.
-The proportion of patients with renal impairment (eGFR<60 mL/min/1.73m2) was 24.9% in the Isa-VRd group versus 34.3% in the VRd group.
+ECOG PS was 0 in 46.4% of patients in the Isa-VRd group and 43.6% in the VRd group, 1 in 42.3% in the Isa-VRd group and 45.9% in the VRd group, and 2 in 10.9% in the Isa-VRd group and 10.5% in the VRd group, and 3 in 0.4% in the Isa-VRd group and 0% in the VRd group.
+The proportion of patients with renal impairment (eGFR<60 mL/min/1.73 m2) was 24.9% in the Isa-VRd group versus 34.3% in the VRd group.
 The Revised International Staging System (R-ISS) stage at study entry was I in 24.9%, II in 61.5%, and III in 10.2% of patients.
 Overall, 15.1% of patients had high-risk chromosomal abnormalities at study entry; del(17p), t(4;14), and t(14;16) were present in 5.7%, 7.9% and 1.9% of patients, respectively.
 In addition, 1q21+ was present in 35.8% of patients.
@@ -220,9 +221,9 @@ With a median follow-up time of 59.73 months, the pre-planned second interim ana
 
 Efficacy results are presented in Table 15 and Kaplan-Meier curves for PFS are provided in Figure 5:
 
-Table 15*: Efficacy of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of newly diagnosed multiple myeloma, transplant ineligible patients (intent-to-treat analysis)
+Table 15*: Efficacy of isatuximab in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of newly diagnosed multiple myeloma, transplant ineligible patients (intent-to-treat analysis)
 
-| Endpoint | SARCLISA + bortezomib + lenalidomide + dexamethasone N =265 | Bortezomib + lenalidomide + dexamethasone N = 181 |
+| Endpoint | Isatuximab + bortezomib + lenalidomide + dexamethasone N =265 | Bortezomib + lenalidomide + dexamethasone N = 181 |
 | --- | --- | --- |
 | Progression-Free Survival a Median (months) [95% CI] Hazard ratio b [98.5% CI] p-value (Stratified Log-Rank test)b | NR 54.34 [NR-NR] [45.21-NR] 0.596 [0.406-0.876] 0.0009 |  |
 | CR or better (sCR and CR) [95% CI]c p-value (Stratified Log-Rank test)b | 74.7% 64.1% [0.6904-0.7984] [0.5664-0.7107] 0.0160 |  |
@@ -230,11 +231,11 @@ Table 15*: Efficacy of SARCLISA in combination with bortezomib, lenalidomide, an
 | Overall Response Ratee Responders (sCR+CR+VGPR+PR) [95% CI]c | 91.3% [0.8726-0.9442] | 92.3% [0.8736-0.9571] |
 | Stringent Complete Response (sCR) Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 10.9% 63.8% 14.3% | 5.5% 58.6% 18.8% |
 |  | 2.3% | 9.4% |
-| a PFS results were assessed by an Independent Response Committee based on central laboratory data |  |  |
-| for M-protein and central radiologic imaging review using the International Myeloma Working Group |  |  |
-| (IMWG) criteria. |  |  |
-| b Stratified by age (<70 years vs ≥70 years) and Revised International Staging System (R-ISS) stage (I |  |  |
-| or II vs. III or not classified) according to IRT |  |  |
+| a PFS results were assessed by an Independent Response Committee based on central laboratory data for M- |  |  |
+| protein and central radiologic imaging review using the International Myeloma Working Group (IMWG) |  |  |
+| criteria. |  |  |
+| b Stratified by age (<70 years vs ≥70 years) and Revised International Staging System (R-ISS) stage (I or II vs. |  |  |
+| III or not classified) according to IRT |  |  |
 | c Estimated using Clopper-Pearson method. |  |  |
 | d Based on a sensitivity level of 10-5 by NGS in ITT population. |  |  |
 
@@ -265,26 +266,27 @@ Cutoff date = 26-September-2023.
 
 GMMG-HD7 (IIT 15403)
 
-The efficacy and safety of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone were evaluated in GMMG-HD7, a prospective, randomized, open-label, 2-arm, phase III study performed by the German-Speaking Myeloma Multicenter Group (GMMG), in patients with newly diagnosed multiple myeloma who are eligible for stem cell transplantation.
+The efficacy and safety of isatuximab in combination with bortezomib, lenalidomide, and dexamethasone were evaluated in GMMG-HD7, a prospective, randomized, open-label, 2-arm, phase III study performed by the German-Speaking Myeloma Multicenter Group (GMMG), in patients with newly diagnosed multiple myeloma who are eligible for stem cell transplantation.
 Patient eligibility for ASCT was mainly assessed based on the patients age (<70 years old) or comorbidities which could prevent the patient from receiving high dose therapies with autologous transplant.
 The study was conducted in 2 Parts; Part 1 includes induction and intensification treatments, and Part 2 is the maintenance treatment (ongoing phase).
 The results from Part 1 are described.
 
-A total of 662 patients were randomized in a 1:1 ratio to receive either SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd, 331 patients) or bortezomib, lenalidomide, and dexamethasone (VRd, 331 patients), administered in both groups during 3 cycles (cycles 1 to 3) of 42 days each for the induction treatment.
+A total of 662 patients were randomized in a 1:1 ratio to receive either isatuximab in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd, 331 patients) or bortezomib, lenalidomide, and dexamethasone (VRd, 331 patients), administered in both groups during 3 cycles (cycles 1 to 3) of 42 days each for the induction treatment.
 After cycle 3, patients were given a standard intensification treatment including ASCT.
 ASCT was repeated 2-3 months after initial ASCT in patients with no CR or in high-risk patients.
-In Part 2, prior to the start of the maintenance treatment, patients were randomized again in a 1:1 ratio to receive either SARCLISA in combination with lenalidomide or lenalidomide alone.
+In Part 2, prior to the start of the maintenance treatment, patients were randomized again in a 1:1 ratio to receive either isatuximab in combination with lenalidomide or lenalidomide alone.
 Maintenance treatment is administered with 28-day cycles for a maximum of 3 years until disease progression or unacceptable toxicity, whichever occurred first.
 In both treatment arms, patients received dexamethasone for the first maintenance cycle only.
 
-During the induction period, SARCLISA 10 mg/kg was administered as an IV infusion on days 1, 8, 15, 22, and 29, in cycle 1, and on days 1, 15, and 29, from cycles 2 to 3.
+During the induction period, isatuximab 10 mg/kg was administered as an IV infusion on days 1, 8, 15, 22, and 29, in cycle 1, and on days 1, 15, and 29, from cycles 2 to 3.
 Bortezomib was administered subcutaneously at the dose of 1.3 mg/m² on days 1, 4, 8, 11, 22, 25, 29, and 32 of each cycle.
 Lenalidomide was administered orally at the dose of 25 mg/day from days 1 to 14 and from days 22 to 35 of each cycle.
-Dexamethasone (IV on the days of SARCLISA infusions, and orally on the other days) 20 mg/day was given on days 1, 2, 4, 5, 8, 9, 11, 12, 15, 22, 23, 25, 26, 29, 30, 32, and 33 of each cycle.
+Dexamethasone (IV on the days of isatuximab infusions, and orally on the other days) 20 mg/day was given on days 1, 2, 4, 5, 8, 9, 11, 12, 15, 22, 23, 25, 26, 29, 30, 32, and 33 of each cycle.
 
 Overall, demographic and disease characteristics at baseline were similar between the treatment groups (Isa-VRd versus VRd).
 The median patient age was 59.5 years (range 26-70), 23.9% of patients were ≥65 years.
-The proportion of patients with renal impairment (eGFR<60 mL/min/1.73m2) was 19.7% in the Isa-VRd group versus 17.7% in the VRd group.
+The proportion of patients with renal impairment
+(eGFR<60 mL/min/1.73 m2) was 19.7% in the Isa-VRd group versus 17.7% in the VRd group.
 The International Staging System (ISS) stage at study entry was I in 41.4%, II in 36.9%, and III in 21.8% of patients.
 The Revised International Staging System (R-ISS) stage at study entry was I in 26.6%, II in 61%, and III in 8% of patients.
 Overall, 18.7% of patients had high-risk chromosomal abnormalities at study entry; del(17p), t(4;14), and t(14;16) were present in 8.9%, 10.1% and 2.6% of patients, respectively.
@@ -300,9 +302,9 @@ With a median follow-up time of 49.31 months, the analysis of PFS from the 1st r
 
 Efficacy results are presented in Table 16 and Kaplan-Meier curves for PFS are provided in Figure 6
 
-Table 16: Efficacy of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of newly diagnosed multiple myeloma, transplant eligible patients (intent-to-treat analysis)
+Table 16: Efficacy of isatuximab in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of newly diagnosed multiple myeloma, transplant eligible patients (intent-to-treat analysis)
 
-| Endpoint | SARCLISA + bortezomib + lenalidomide + dexamethasone (N=331) | Bortezomib + lenalidomide + dexamethasone (N=331) |
+| Endpoint | Isatuximab + bortezomib + lenalidomide + dexamethasone (N=331) | Bortezomib + lenalidomide + dexamethasone (N=331) |
 | --- | --- | --- |
 | PFS from the 1st randomization, followed by lenalidomide maintenance treatment Median (months) | NR | NR |
 | [95% CI] | [NR – NR] | [51.351 to NR] |
@@ -326,14 +328,149 @@ Cut-off date = 31 January 2024
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with SARCLISA in one or more subsets of the paediatric population in the treatment of malignant neoplasms of the haematopoietic and lymphoid tissue.
+The European Medicines Agency has deferred the obligation to submit the results of studies with isatuximab intravenous in one or more subsets of the paediatric population in the treatment of malignant neoplasms of the haematopoietic and lymphoid tissue.
 See section 4.2 for information on paediatric use.
 
 A phase 2, single-arm, study in 67 paediatric patients was conducted in 3 separate disease cohorts.
-Fifty-nine patients with relapsed or refractory T-acute lymphoblastic leukaemia (T-ALL, 11 patients), B-acute lymphoblastic leukemia (B-ALL, 25 patients), and acute myeloid leukaemia (AML, 23 patients) were evaluable for efficacy.
+Fifty-nine patients with relapsed or refractory T-acute lymphoblastic leukaemia (T-ALL, 11 patients), B-acute lymphoblastic leukaemia (B-ALL, 25 patients), and acute myeloid leukaemia (AML, 23 patients) were evaluable for efficacy.
 For patients with T-ALL and B-ALL, the treatment consisted of one induction cycle and one consolidation cycle.
 For patients with AML, the treatment consisted of up to two induction cycles.
 The median age was 8 years (range 17 months to 17 years).
-Patients were treated with SARCLISA in combination with standard chemotherapies (e.g., antimetabolites, anthracyclines, and alkylating agents).
+Patients were treated with isatuximab in combination with standard chemotherapies (e.g., antimetabolites, anthracyclines, and alkylating agents).
 At interim analysis, complete response rate (the primary efficacy endpoint, defined as complete response, CR, or complete response with incomplete peripheral recovery, CRi), did not meet the pre-specified statistical threshold in the 3 cohorts with 52.0 % of B-ALL patients, 45.5 % of T-ALL patients, and 60.9 % of AML patients reaching complete response (CR+CRi).
 The study was stopped after the prespecified interim analysis.
+
+[Sarclisa 1 400 mg solution for injection]
+
+In vitro, isatuximab acts through IgG Fc-dependent mechanisms including antibody dependent cell mediated cytotoxicity (ADCC), antibody dependent cellular phagocytosis (ADCP), and complement dependent cytotoxicity (CDC).
+
+T- cells and TREG (CD3+, CD4+, CD25+, CD127-) was observed in peripheral blood of patients treated with isatuximab monotherapy with intravenous formulation in multiple myeloma patients.
+In addition, isatuximab induced clonal expansion of the T-cell receptor repertoire indicating an adaptive immune response.
+
+Clinical experience of isatuximab subcutaneous
+
+IRAKLIA (EFC15951, Isa-SC + Pd vs Isa-IV + Pd)
+
+IRAKLIA is a multicentre, multinational, randomised, open-label, 2-arm, non-inferiority phase 3 study in patients with relapsed and/or refractory multiple myeloma (RMMM).
+This study compared the efficacy, pharmacokinetics, and safety of isatuximab 1 400 mg administered subcutaneously versus isatuximab as a 10 mg/kg intravenous infusion, in combination with pomalidomide and dexamethasone (Isa-SC + Pd versus Isa-IV + Pd).
+Patients had received at least one prior therapy including lenalidomide and a proteasome inhibitor with disease progression on or within 60 days after the end of the lenalidomide therapy.
+
+A total of 531 patients were randomized in a 1:1 ratio to receive either isatuximab 1 400 mg fixed dose as subcutaneous administration with CirCLIQ OBDS (Isa-SC + Pd arm, 263 patients) or isatuximab as a 10 mg/kg intravenous infusion (Isa-IV + Pd arm, 268 patients), in combination with pomalidomide and dexamethasone.
+From Cycle 6 onwards, a home administration, by a healthcare professional, was proposed to the patients in Isa-SC arm on Day 15.
+The decision to propose at home administration on Day 15 was based on the absence of a systemic administration reaction at Cycle 4 and Cycle 5, the haematology test at Day 1 of each corresponding cycle and the investigator’s judgement.
+Twelve (12) patients out of 202 enrolled in countries allowing it, received at least one at home administration by a healthcare professional and the total number of injections with CirCLIQ OBDS at home was 55.
+In both treatment arms, isatuximab was administered weekly in the first cycle and every two weeks thereafter.
+Dexamethasone orally 40 mg (20 mg for patients ≥75 years of age) was given on days 1, 8, 15, and 22 of each 28-day cycle.
+
+Overall, demographic and disease characteristics at baseline were similar between the two treatment arms.
+The median patient age was 66 years (range 31-86), 17.9% of patients were ≥75 years; 69.4% of patients were White, 20.9% Asian, and 4.2% Black or African American; The proportion of patients with renal impairment (eGFR <60 mL/min/1.73 m2) was 32% in the Isa-SC+ Pd arm and 23% in the Isa-IV+ Pd arm.
+The International Staging System (ISS) stage at study entry was I in 59.3%, II in 26.6% and III in 12.1% of patients.
+Overall, 20.5% of patients had high-risk chromosomal abnormalities at study entry; del(17p), t(4;14), t(14;16), and chromosomal 1q21 abnormality were present in 10%, 9.6%, 2.1% and 35.6% of patients, respectively.
+The median body weight was 72 kg (range: 36 to 161), with 32% of patients with a weight <65 kg, 44.1% with a weight >65 kg to <85 kg, and 23.9% with a weight >85 kg.
+The median number of prior lines of therapy was 2 (range 1-8) and 30% of patients had received 1 prior line of therapy.
+All patients except 1 received a prior proteasome inhibitor and prior lenalidomide, and 56% of patients received prior stem cell transplantation.
+Patients were previously exposed to daratumumab in 14.1 % of patients in Isa-SC + Pd arm vs 10.8 % in Isa-IV + Pd arm.
+The majority of patients (83.6%) were refractory to lenalidomide, 50% to a proteasome inhibitor, and 44% to both an immunomodulator and a proteasome inhibitor.
+The median duration of treatment with isatuximab was 34 weeks in both treatment arms.
+Full dose administration with CirCLIQ OBDS was obtained in 99.9% of injections (5 140 of 5 145 injections).
+The median duration of the injection with CirCLIQ OBDS was 13 minutes and the majority (97.9%) was completed in ≤ 20 minutes.
+
+IRAKLIA was designed to demonstrate non-inferiority of treatment with isatuximab subcutaneous 1 400 mg versus isatuximab intravenous based on the co-primary efficacy endpoints Overall Response Rate (ORR) and the pharmacokinetic endpoint of Ctrough at steady state (corresponding to predose at Cycle 6 Day 1) (see section 5.2).
+
+ORR results were assessed by an Independent Review Committee, based on central laboratory data for M-protein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
+
+At median follow-up time of 12 months, the results show that isatuximab 1 400 mg administered subcutaneously in combination with Pd is non-inferior to isatuximab 10 mg/kg administered intravenously in combination with Pd in terms of ORR and Ctrough at steady state (see section 5.2).
+For ORR, the noninferiority was met since the lower limit of the 95% CI of the relative risk of 1.008 [95% CI: 0.903 to 1.126] was greater than the non-inferiority margin of 0.839.
+
+ORR was 71.1 % in the isatuximab subcutaneous arm and 70.5 % in the isatuximab intravenous arm.
+
+Efficacy results are presented in Table 11.
+Table 11*: Efficacy of isatuximab subcutaneous versus isatuximab intravenous in combination with pomalidomide and dexamethasone in the treatment of multiple myeloma (IRAKLIA)
+
+|  | Subcutaneous isatuximab | Intravenous isatuximab + |
+| --- | --- | --- |
+| Endpoints | + Pomalidomide + | Pomalidomide + |
+|  | Dexamethasone | Dexamethasone |
+|  | (Isa SC-Pd) | (Isa IV-Pd) |
+|  | (N=263) | (N=268) |
+| Overall response rate |  |  |
+| (sCR, CR, VGPR or PR) n (%)a | 187 (71.1%) | 189 (70.5%) |
+| [95% CI]b | [65.22% to 76.5%] | [64.67% to 75.91%] |
+| Relative risk [95% CI]c vs Isa-IV+Pd | 1.008 [0.903 to 1.126] |  |
+| VGPR or better rate |  |  |
+| n (%) | 122 (46.4%) | 123 (45.9%) |
+| [95% CI] | [40.24% to 52.62%] | [39.82% to 52.07%] |
+
+* Cutoff date: 06 Nov 2024.
+Median follow-up time:12 months a sCR, CR, VGPR, and PR were evaluated by the Independent Review Committee (IRC) using the IMWG response criteria.
+b Estimated using Clopper-Pearson method.
+c Estimated using Farrington-Manning method.
+The non-inferiority was met if lower limit of 95% CI is greater or equal to 0.839.
+
+Patient satisfaction was assessed using the Patient Experience and Satisfaction Questionnaire (PESQ).
+In the ITT population, the incidence of patients who responded as satisfied or as very satisfied with the injection method used to administer isatuximab (item-8 of the PESQ), was 70 % in the Isa-SC + Pd arm and 53.4% in the Isa-IV + Pd arm with an adjusted relative risk of 1.304 (95% CI: 1.136 to 1.496).
+Due to the open-label design of the study, a bias cannot be ruled out.
+
+IZALCO (ACT17453, Isa-SC + Kd)
+
+IZALCO study investigated patient preference (key secondary endpoint) between manual administration with a syringe and OBDS administration of isatuximab subcutaneous 1 400 mg.
+A total of 74 participants were randomized in a 3:1 ratio to receive subcutaneous isatuximab 1 400 mg manually or via OBDS.
+After the first 3 cycles, the delivery method was switched for each participant (from OBDS to manual, and vice versa) for 3 additional cycles.
+At Cycle 7, each participant chose their preferred method of administration for the rest of the study.
+Among the 47 patients evaluable for administration preference at cycle 6, 74.5% (95% CI: 59.65%-86.1%) preferred CirCLIQ OBDS administration (1-sided p-value: 0.0004, statistically significant against the null hypothesis of a ≤50% preference rate).
+
+Clinical experience of isatuximab intravenous
+
+ICARIA-MM (EFC14335, Isa-IV + Pd vs Pd)
+
+Efficacy results are presented in Table 12 and Kaplan-Meier curves for PFS and OS are provided in Figures 1 and 2:
+
+Table 12: Efficacy of isatuximab in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+
+IKEMA (EFC15246, Isa-IV + Kd vs Kd)
+
+Dexamethasone (IV on the days of isatuximab and/ or carfilzomib infusions, and per os (PO) on the other days) 20 mg was given on days 1, 2, 8, 9, 15, 16, 22 and 23 for each 28-day cycle.
+
+Efficacy results are presented in Table 13 and Kaplan-Meier curves for PFS and OS are provided in the Figures 3 and 4:
+
+Table 13: Efficacy of isatuximab in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
+
+IMROZ (EFC12522, Isa-IV + VRd vs VRd)
+
+The proportion of patients with renal impairment (eGFR<60 mL/min/1.73m2) was 24.9% in the Isa-VRd group versus 34.3% in the VRd group.
+
+Efficacy results are presented in Table 14 and Kaplan-Meier curves for PFS are provided in Figure 5:
+
+Table 14*: Efficacy of isatuximab in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of newly diagnosed multiple myeloma, transplant ineligible patients (intent-to-treat analysis)
+
+| Endpoint | Isatuximab + bortezomib + lenalidomide + dexamethasone N =265 | Bortezomib + lenalidomide + dexamethasone N = 181 |
+| --- | --- | --- |
+| Progression-Free Survival a Median (months) [95% CI] Hazard ratio b [98.5% CI] p-value (Stratified Log-Rank test)b | NR 54.34 [NR-NR] [45.21-NR] 0.596 [0.406-0.876] 0.0009 |  |
+| CR or better (sCR and CR) [95% CI]c p-value (Stratified Log-Rank test)b | 74.7% 64.1% [0.6904-0.7984] [0.5664-0.7107] 0.0160 |  |
+| Minimal Residual Disease negativityd and CR [95% CI]c p-value (stratified Cochran-Mantel-Haenszel)b | 55.5% 40.9% [0.4927-0.6155] [0.3365-0.4842] 0.0026 |  |
+| Overall Response Ratee Responders (sCR+CR+VGPR+PR) [95% CI]c | 91.3% [0.8726-0.9442] | 92.3% [0.8736-0.9571] |
+| Stringent Complete Response (sCR) Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 10.9% 63.8% 14.3% | 5.5% 58.6% 18.8% |
+|  | 2.3% | 9.4% |
+| a PFS results were assessed by an Independent Response Committee based on central laboratory data |  |  |
+| for M-protein and central radiologic imaging review using the International Myeloma Working Group |  |  |
+| (IMWG) criteria. |  |  |
+| b Stratified by age (<70 years vs ≥70 years) and Revised International Staging System (R-ISS) stage (I |  |  |
+| or II vs. III or not classified) according to IRT |  |  |
+| c Estimated using Clopper-Pearson method. |  |  |
+
+d Based on a sensitivity level of 10-5 by NGS in ITT population.
+
+GMMG-HD7 (IIT 15403, Isa-IV +VRd vs VRd)
+
+The proportion of patients with renal impairment (eGFR<60 mL/min/1.73m2) was 19.7% in the Isa-VRd group versus 17.7% in the VRd group.
+
+Efficacy results are presented in Table 15 and Kaplan-Meier curves for PFS are provided in Figure 6
+Table 15: Efficacy of isatuximab in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone in the treatment of newly diagnosed multiple myeloma, transplant eligible patients (intent-to-treat analysis)
+
+The European Medicines Agency has waived the obligation to submit the results of studies with isatuximab subcutaneous in one or more subsets of the paediatric population in the treatment of malignant neoplasms of the haematopoietic and lymphoid tissue (see section 4.2 for information on paediatric use).
+
+Subcutaneous formulation
+No dedicated studies with subcutaneous isatuximab have been conducted in paediatric patients.
+
+Intravenous formulation
+Patients were treated with isatuximab intravenous in combination with standard chemotherapies (e.g., antimetabolites, anthracyclines, and alkylating agents).

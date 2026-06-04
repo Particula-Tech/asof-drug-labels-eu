@@ -3,3 +3,7 @@
 EU/1/20/1435/001
 EU/1/20/1435/002
 EU/1/20/1435/003
+
+[Sarclisa 1 400 mg solution for injection]
+
+EU/1/20/1435/004
