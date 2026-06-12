@@ -22,7 +22,7 @@ Interference with estradiol antibody assays
 Due to the structural similarity of fulvestrant and estradiol, fulvestrant may interfere with antibody based-estradiol assays and may result in falsely increased levels of estradiol.
 
 Ethanol
-Faslodex contains 10% w/v ethanol (alcohol) as an excipient, i.e. up to 500 mg per injection, equivalent to 10 ml beer or 4 ml wine.
+Faslodex contains 10% w/v ethanol (alcohol) as an excipient, i.e. up to 500 mg per injection, equivalent to 12 ml beer or 5 ml wine.
 This may be harmful for those suffering from alcoholism and should be taken into account in high risk groups such as patients with liver disease and epilepsy.
 
 Benzyl alcohol
