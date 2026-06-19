@@ -28,6 +28,12 @@ This medicinal product contains 0.34 mg of polysorbate 20 in each 150 mg dose.
 
 For the full list of excipients, see section 6.1.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+Each pre-filled syringe contains 55 mg risankizumab in 0.37 mL solution.
+
+This medicinal product contains 0.07 mg of polysorbate 20 in each 55 mg dose.
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 Each vial contains 600 mg of risankizumab in 10.0 mL of solution.

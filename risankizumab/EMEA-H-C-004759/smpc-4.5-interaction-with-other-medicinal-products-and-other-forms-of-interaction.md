@@ -7,6 +7,10 @@ Concomitant immunosuppressive therapy or phototherapy
 
 The safety and efficacy of risankizumab in combination with immunosuppressants, including biologics or phototherapy, have not been evaluated.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 Interactions between risankizumab and inhibitors, inducers, or substrates of medicinal product metabolising enzymes are not expected and no dose adjustment is needed (see section 5.2).

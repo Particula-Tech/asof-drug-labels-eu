@@ -18,6 +18,10 @@ Skyrizi 75 mg is available in packs containing 2 pre-filled syringes and 2 alcoh
 
 Not all presentations may be marketed.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+Skyrizi 55 mg is available in packs containing 1 pre-filled syringe.
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 10.0 mL concentrate solution for infusion in a glass vial closed with a coated bromobutyl rubber stopper.

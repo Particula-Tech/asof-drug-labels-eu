@@ -19,6 +19,7 @@ Tuberculosis
 Prior to initiating treatment with risankizumab, patients should be evaluated for tuberculosis (TB) infection.
 Patients receiving risankizumab should be monitored for signs and symptoms of active TB.
 Anti-TB therapy should be considered prior to initiating risankizumab in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
+
 Immunisations
 
 Prior to initiating therapy with risankizumab, completion of all appropriate immunisations should be considered according to current immunisation guidelines.
@@ -42,7 +43,6 @@ Polysorbates may cause allergic reactions.
 Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled pen or pre-filled syringe, that is to say, essentially ‘sodium free’.
-
 Skyrizi 75 mg solution for injection in pre-filled syringe
 
 Polysorbate
@@ -58,6 +58,12 @@ The additive effect of concomitantly administered products containing sorbitol (
 Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 150 mg dose, that is to say, essentially ‘sodium free’.
+
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+This medicinal product contains 0.07 mg of polysorbate 20 in each 55 mg dose.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially ‘sodium free’.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 

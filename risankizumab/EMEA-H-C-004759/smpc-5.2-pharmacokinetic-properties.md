@@ -3,7 +3,6 @@
 The pharmacokinetics of risankizumab was similar between subjects with plaque psoriasis and subjects with psoriatic arthritis.
 
 Absorption
-
 Risankizumab exhibited linear pharmacokinetics with dose-proportional increase in exposure across dose ranges of 18 to 300 mg and 0.25 to 1 mg/kg administered subcutaneously, and 200 to 1 200 mg and 0.01 to 5 mg/kg administered intravenously.
 
 Following subcutaneous dosing of risankizumab, peak plasma concentrations were achieved between 3-14 days after dosing with an estimated absolute bioavailability of 89%.
@@ -11,6 +10,7 @@ With dosing of 150 mg at week 0, week 4, and every 12 weeks thereafter, estimate
 
 Bioequivalence was demonstrated between a single risankizumab 150 mg injection and two risankizumab 75 mg injections in pre-filled syringe.
 Bioequivalence was also demonstrated between risankizumab 150 mg pre-filled syringe and pre-filled pen.
+
 Distribution
 
 The mean (±standard deviation) steady-state volume of distribution (Vss) of risankizumab was 11.4 (±2.7) L in Phase 3 studies in subjects with psoriasis, indicating that the distribution of risankizumab is primarily confined to the vascular and interstitial spaces.
@@ -41,14 +41,15 @@ Population pharmacokinetic analyses indicated that risankizumab exposure was not
 Special populations
 
 Paediatric population
-
-The pharmacokinetics of risankizumab in paediatric subjects has not been established.
+Risankizumab exposures in subjects 6 to less than 18 years of age with plaque psoriasis were similar to those in adults.
+At the recommended dosing regimens evaluated in these subjects, estimated median steady-state peak and trough plasma concentrations were 15.7 and 2.3 µg/mL, respectively, in subjects weighing ≥40 kg, and 11.1 and 1.6 µg/mL, respectively, in subjects weighing <40 kg.
 
 Elderly
 
 Of the 2 234 subjects with plaque psoriasis exposed to risankizumab, 243 were 65 years or older and 24 subjects were 75 years or older.
 Of the 1 542 subjects with psoriatic arthritis exposed to risankizumab, 246 were 65 years or older and 34 subjects were 75 years or older.
 No overall differences in risankizumab exposure were observed between older and younger subjects who received risankizumab.
+
 Patients with renal or hepatic impairment
 
 No specific studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab.
@@ -60,12 +61,20 @@ Body weight
 
 Risankizumab clearance and volume of distribution increase as body weight increases which may result in reduced efficacy in subjects with high body weight (>130 kg).
 However, this observation is based on a limited number of subjects.
-No dose adjustment based on body weight is currently recommended.
+No dose adjustment based on body weight is currently recommended in adult patients.
 
 Gender or race
 
 The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis or psoriatic arthritis.
 No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared to Caucasian subjects in a clinical pharmacokinetic study in healthy volunteers.
+
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+Population pharmacokinetic analyses indicated that risankizumab exposure was not impacted by concomitant treatment used by some subjects with plaque psoriasis during the clinical studies.
+
+Based on population pharmacokinetic analyses, serum creatinine levels, creatinine clearance, or hepatic function markers (ALT/AST/bilirubin) did not have a meaningful impact on risankizumab clearance in subjects with plaque psoriasis.
+
+The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
@@ -75,6 +84,7 @@ Risankizumab exhibited linear pharmacokinetics with dose-proportional increase i
 
 Following subcutaneous dosing of risankizumab, peak plasma concentrations were achieved between 3-14 days after dosing with an estimated absolute bioavailability of 74-89%.
 With dosing of 150 mg at week 0, week 4 and every 12 weeks thereafter, estimated steady-state peak and trough plasma concentrations are 12 and 2 µg/mL, respectively.
+
 In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at weeks 0, 4, and 8 followed by 360 mg subcutaneous maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 156 and 38.8 µg/mL respectively during the induction period (weeks 8-12) and steady-state median peak and trough concentrations are estimated to be 28.0 and 8.13 µg/mL respectively during the maintenance period (weeks 40-48).
 
 In subjects with ulcerative colitis treated with 1 200 mg intravenous induction dose at weeks 0, 4, and 8 followed by 180 mg or 360 mg subcutaneous maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 350 and 87.7 µg/mL respectively during the induction period (weeks 8-12) and steady-state median peak and trough concentrations are estimated to be 19.6 and 4.64 µg/mL for the 180 mg subcutaneous dose and 39.2 and 9.29 µg/mL for the 360 mg subcutaneous dose, respectively, during the maintenance period (weeks 40-48).
@@ -102,6 +112,7 @@ Based on population pharmacokinetic analyses, serum creatinine levels, creatinin
 
 However, this observation is based on a limited number of subjects with plaque psoriasis.
 Body weight had no clinically meaningful impact on risankizumab exposure or efficacy in psoriatic arthritis, Crohn’s disease, or ulcerative colitis.
+No dose adjustment based on body weight is currently recommended.
 
 The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis, Crohn’s disease or ulcerative colitis.
 No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared to Caucasian subjects in clinical pharmacokinetic studies in healthy volunteers.

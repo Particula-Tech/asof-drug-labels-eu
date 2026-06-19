@@ -2,6 +2,10 @@
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.

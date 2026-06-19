@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC18
 
 Mechanism of action
-
 Risankizumab is a humanised immunoglobulin G1 (IgG1) monoclonal antibody that selectively binds with high affinity to the p19 subunit of human interleukin 23 (IL-23) cytokine without binding to IL-12 and inhibits its interaction with the IL-23 receptor complex.
 IL-23 is a cytokine that is involved in inflammatory and immune responses.
 By blocking IL-23 from binding to its receptor, risankizumab inhibits IL-23-dependent cell signalling and release of proinflammatory cytokines.
@@ -17,7 +16,7 @@ In a study of subjects with psoriatic arthritis, statistically significant and c
 
 Clinical efficacy and safety
 
-Plaque Psoriasis
+Adult plaque psoriasis
 
 The efficacy and safety of risankizumab was assessed in 2 109 subjects with moderate to severe plaque psoriasis in four multicentre, randomised, double-blind studies (ULTIMMA-1, ULTIMMA-2, IMMHANCE, and IMMVENT).
 Enrolled subjects were 18 years of age and older with plaque psoriasis who had a body surface area (BSA) involvement of ≥10%, a static Physician Global Assessment (sPGA) score of ≥3 in the overall assessment (plaque thickness/induration, erythema, and scaling) of psoriasis on a severity scale of 0 to 4, a Psoriasis Area and Severity Index (PASI) score
@@ -35,12 +34,12 @@ ULTIMMA-1 and ULTIMMA-2
 ULTIMMA-1 and ULTIMMA-2 enrolled 997 subjects (598 randomised to risankizumab 150 mg, 199 to ustekinumab 45 mg or 90 mg [according to baseline weight], and 200 to placebo).
 Subjects received treatment at week 0, week 4, and every 12 weeks thereafter.
 The two co-primary endpoints in ULTIMMA-1 and ULTIMMA-2 were the proportion of subjects who achieved 1) PASI 90 response and 2) sPGA score of clear or almost clear (sPGA 0 or 1) at week 16 versus placebo.
-The results for the co-primary and other endpoints are presented in Table 2 and Figure 1.
-Table 2: Efficacy and quality of life results in adults with plaque psoriasis in ULTIMMA-1 and ULTIMMA-2
+The results for the co-primary and other endpoints are presented in Table 3 and Figure 1.
+Table 3: Efficacy and quality of life results in adults with plaque psoriasis in ULTIMMA-1 and ULTIMMA-2
 
 |  | ULTIMMA-1 |  |  | ULTIMMA-2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Risankizumab (N=304) n (%) | Ustekinumab (N=100) n (%) | Placebo (N=102) n (%) | Risankizumab (N=294) n (%) | Ustekinumab (N=99) n (%) | Placebo (N=98) n (%) |
+|  | Risankizuma b (N=304) n (%) | Ustekinuma b (N=100) n (%) | Placebo (N=102) n (%) | Risankizumab (N=294) n (%) | Ustekinuma b (N=99) n (%) | Placebo (N=98) n (%) |
 | sPGA of clear or almost clear (0 or 1) |  |  |  |  |  |  |
 | Week 16a | 267 (87.8) | 63 (63.0) | 8 (7.8) | 246 (83.7) | 61 (61.6) | 5 (5.1) |
 | Week 52 | 262 (86.2) | 54 (54.0) | -- | 245 (83.3) | 54 (54.5) | -- |
@@ -74,7 +73,7 @@ PBO = placebo p<0.001 at each time point
 Examination of age, gender, race, body weight ≤130 kg, baseline PASI score, concurrent psoriatic arthritis, previous non-biologic systemic treatment, previous biologic treatment, and previous failure of a biologic did not identify differences in response to risankizumab among these subgroups.
 
 Improvements were observed in psoriasis involving the scalp, the nails, and the palms and soles at week 16 and week 52 in subjects treated with risankizumab.
-Table 3: Mean changes from baseline in NAPSI, PPASI, and PSSI
+Table 4: Mean changes from baseline in NAPSI, PPASI, and PSSI
 
 |  | ULTIMMA-1 |  | ULTIMMA-2 |  | IMMHANCE |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -153,11 +152,14 @@ Subjects randomised to adalimumab received 80 mg at week 0, 40 mg at week 1, and
 Starting at week 16, subjects who were receiving adalimumab continued or switched treatment based on response:
 
 - <PASI 50 were switched to risankizumab
-- PASI 50 to <PASI 90 were re-randomised to either continue adalimumab or switch to risankizumab
+- PASI 50 to <PASI 90 were re-randomised to either continue adalimumab or switch to
+
+risankizumab
+
 - PASI 90 continued to receive adalimumab
 
-Results are presented in Table 4.
-Table 4: Efficacy and quality of life results at week 16 in adults with plaque psoriasis in IMMVENT
+Results are presented in Table 5.
+Table 5: Efficacy and quality of life results at week 16 in adults with plaque psoriasis in IMMVENT
 
 |  | Risankizumab (N=301) n (%) | Adalimumab (N=304) n (%) |
 | --- | --- | --- |
@@ -170,9 +172,9 @@ Table 4: Efficacy and quality of life results at week 16 in adults with plaque p
 
 For subjects who had PASI 50 to <PASI 90 with adalimumab at week 16 and were re-randomised, differences in PASI 90 response rates between switching to risankizumab and continuing adalimumab were noted 4 weeks after re-randomisation (49.1% vs 26.8%, respectively).
 
-Results 28 weeks after re-randomisation are presented in Table 5 and Figure 4.
+Results 28 weeks after re-randomisation are presented in Table 6 and Figure 4.
 
-Table 5: Efficacy results 28 weeks after re-randomisation in IMMVENT
+Table 6: Efficacy results 28 weeks after re-randomisation in IMMVENT
 
 |  | Switched to Risankizumab (N=53) n (%) | Continued on Adalimumab (N=56) n (%) |
 | --- | --- | --- |
@@ -204,14 +206,14 @@ At baseline, 76.2% of subjects had sPGA = 3 and 23.8% had sPGA = 4.
 
 At baseline, 54.3% of subjects were naïve to any systemic therapy (including non-biologic and biologic), 0% of subjects had received prior phototherapy, 15.2% had received prior non-biologic systemic therapy, and 37.1% had received prior biologic therapy.
 
-The results for the primary and key secondary endpoints are presented in Table 6.
+The results for the primary and key secondary endpoints are presented in Table 7.
 
-Table 6.
+Table 7.
 Efficacy results in adults with scalp psoriasis in UNLIMMITED-S at week 16
 
 | Endpoint | Risankizumab (N=51) n (%) | Placebo (N=54) n (%) | Treatment difference (95% CI) |
 | --- | --- | --- | --- |
-| scalp IGA of clear or almost clear (0 or 1)a | 31 (60.8) | 7 (13.0) | 47.0 [31.2, 62,8] |
+| scalp IGA of clear or almost clear (0 or 1)a | 31 (60.8) | 7 (13.0) | 47.0 [31.2, 62.8] |
 | PSSI 75b | 38 (74.5) | 12 (22.2) | 52.9 [37.5, 68.3] |
 | PSSI 90c | 27 (52.9) | 7 (13.0) | 39.8 [24.4, 55.2] |
 | PSSI 100d | 23 (45.1) | 7 (13.0) | 31.2 [15.4, 46.9] |
@@ -233,9 +235,9 @@ At baseline, 80.7% of subjects had sPGA = 3 and 19.3% had sPGA = 4.
 
 At baseline, 61.5% of subjects were naïve to any systemic therapy (including non-biologic and biologic), 2.8% of subjects had received prior phototherapy, 16.5% had received prior non-biologic systemic therapy, and 25.7% had received prior biologic therapy.
 
-The results for the primary and all secondary endpoints are presented in Table 7.
+The results for the primary and all secondary endpoints are presented in Table 8.
 
-Table 7.
+Table 8.
 Efficacy results in adults with genital psoriasis in UNLIMMITED-G at week 16
 
 | Endpoint | Risankizumab (N=55) n (%) | Placebo (N=54) n (%) | Treatment difference (95% CI) |
@@ -276,9 +278,9 @@ Clinical response
 
 Treatment with risankizumab resulted in significant improvement in measures of disease activity compared with placebo at week 24.
 For both studies, the primary endpoint was the proportion of subjects who achieved an American College of Rheumatology (ACR) 20 response at week 24.
-The key efficacy results are shown in Table 8.
+The key efficacy results are shown in Table 9.
 
-Table 8.
+Table 9.
 Efficacy results in studies KEEPSAKE1 and KEEPSAKE2
 
 KEEPSAKE1 KEEPSAKE2
@@ -308,10 +310,10 @@ Week 52* - 183/444 (41.2) - 61/197 (31.0)
 a) multiplicity-controlled p≤0.001 risankizumab vs placebo comparison.
 b) nominal p≤0.001 risankizumab vs placebo comparison.
 c) nominal p≤0.05 risankizumab vs placebo comparison.
-d) Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with baseline LEI
->0.
-e) Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with baseline LDI
->0.
+d) Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with
+baseline LEI >0.
+e) Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with
+baseline LDI >0.
 
 Response over time
 
@@ -322,12 +324,13 @@ Percent of subjects achieving ACR20 responses in study KEEPSAKE1 through week 24
 
 Baseline Week 4 Week 8 Week 12 Week 16 Week 24
 Visit
-•••○••• Placebo (N=481) ──■── Risankizumab (N=483)
+•••○••• Placebo (N=481) ──■── Risankizumab
+(N=483)
 
 A greater ACR20 response for risankizumab versus placebo was seen as early as week 4 in 19.6% of subjects in KEEPSAKE2.
-
 Responses observed in risankizumab groups were similar regardless of concomitant non-biologic DMARD use, number of prior non-biologic DMARDs, age, gender, race, and BMI.
 In KEEPSAKE2, responses were seen regardless of prior biologic therapy.
+
 The safety profile of risankizumab with up to 52 weeks of exposure was consistent with the profile observed up to 24 weeks.
 
 In both studies, the proportion of subjects achieving modified PsA Response Criteria (PsARC) at week 24 was higher in subjects receiving risankizumab compared with placebo.
@@ -339,9 +342,9 @@ Treatment with risankizumab resulted in improvements in individual ACR component
 Treatment with risankizumab resulted in statistically significant improvement in the skin manifestations of psoriasis in subjects with PsA.
 
 Treatment with risankizumab resulted in statistically significant improvement in the modified Nail Psoriasis Severity Index (mNAPSI) and the 5-point Physician’s Global Assessment of Fingernail Psoriasis (PGA-F) scores in subjects with nail psoriasis at baseline (67.3%) in KEEPSAKE1.
-This improvement was maintained through week 52 (see Table 9).
+This improvement was maintained through week 52 (see Table 10).
 
-Table 9.
+Table 10.
 Nail psoriasis efficacy results in KEEPSAKE1
 
 Placebo Risankizumab
@@ -356,13 +359,13 @@ PGA-F clear/minimal and ≥2-grade improvement c
 Week 24 n (%) 30 (15.9) 71
 (37.8) d
 Week 52 n (%) - 105 (58.0)
-a) Summarized for subjects with baseline nail psoriasis (Placebo N=338; risankizumab N=309;
-at week 52, for mNAPSI, observed risankizumab N=290, for PGA-F, observed risankizumab
-N=291).
+a) Summarized for subjects with baseline nail psoriasis (Placebo N=338; risankizumab
+N=309; at week 52, for mNAPSI, observed risankizumab N=290, for PGA-F,
+observed risankizumab N=291).
 b) Multiplicity-controlled p≤0.001 risankizumab vs placebo comparison.
-c) Summarized for subjects with nail psoriasis and a PGA-F overall global assessment score of
-‘Mild’, ‘Moderate’ or ‘Severe’ at Baseline (Placebo N=190; risankizumab N=188, at week 52
-observed risankizumab N=181).
+c) Summarized for subjects with nail psoriasis and a PGA-F overall global assessment
+score of ‘Mild’, ‘Moderate’ or ‘Severe’ at Baseline (Placebo N=190; risankizumab
+N=188, at week 52 observed risankizumab N=181).
 d) Nominal p≤0.001 risankizumab vs placebo comparison.
 
 Radiographic response
@@ -388,7 +391,70 @@ There is insufficient evidence of the efficacy of risankizumab in subjects with 
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Skyrizi in one or more subsets of the paediatric population in the treatment of plaque psoriasis and psoriatic arthritis (see section 4.2 for information on paediatric use).
+Paediatric plaque psoriasis
+
+The efficacy, safety, and pharmacokinetics of risankizumab were assessed in a total of 137 paediatric subjects 6 to less than 18 years of age in a four-part study (OptIMMize-1) which enrolled 12, 82, 13 and 30 subjects to Parts 1, 2, 3 and 4, respectively.
+Subjects who completed this study had the opportunity to enrol in the open-label extension study, OptIMMize-2.
+
+OptIMMize-1
+
+Part 2 was a randomised, efficacy assessor-blinded, active treatment-controlled cohort that enrolled paediatric subjects 12 to less than 18 years of age.
+Part 4 was a single-arm, open-label cohort that enrolled paediatric subjects 6 to less than 12 years of age.
+Enrolled subjects had moderate to severe plaque psoriasis defined as BSA involvement of ≥10% with sPGA score of ≥3 or a
+PASI score ≥12.
+
+In Part 2 and Part 4, subjects weighing ≥40 kg received risankizumab 150 mg and subjects weighing <40 kg received risankizumab 55 mg at week 0, week 4, and every 12 weeks thereafter.
+The co-primary endpoints were sPGA of clear or almost clear (0 or 1) and PASI 75 at week 16.
+
+In Part 2, subjects had a median baseline PASI score of 15.7 and a median BSA of 18.0%.
+A total of 3.7% had received prior biologic therapy.
+Subjects were randomised 2:1 to receive risankizumab (N=54) or ustekinumab (N=28).
+Subjects randomised to ustekinumab received 0.75 mg/kg for subjects <60 kg; 45 mg for subjects 60 to <100 kg; 90 mg for subjects ≥100 kg, at week 0 and week 4.
+At week 16, ustekinumab subjects were switched to receive risankizumab every 12 weeks thereafter.
+The duration of treatment was up to 68 weeks.
+In Part 4, subjects had a median baseline PASI score of 14.7, and a median BSA of 14.5%.
+A total of 3.3% received prior biologic therapy.
+The duration of treatment was 52 weeks.
+
+The efficacy results using descriptive statistics in OptIMMize-1 at week 16 of initial treatment are presented below (see Table 11).
+
+Table 11.
+Efficacy Results in OptIMMize-1 at Week 16
+
+|  | Part 2 |  | Part 4 |
+| --- | --- | --- | --- |
+|  | Risankizumab (N=54) n (%) | Ustekinumab (N=28) n (%) | Risankizumab (N=30) n (%) |
+| sPGA of clear or almost clear (0 or 1)a | 43 (79.6) | 21 (75.0) | 27 (90.0) |
+| PASI 75 a | 46 (85.2) | 24 (85.7) | 26 (86.7) |
+| PASI 90 | 35 (64.8) | 17 (60.7) | 23 (76.7) |
+| PASI 100 | 22 (40.7) | 5 (17.9) | 13 (43.3) |
+| sPGA of clear (0) | 22 (40.7) | 5 (17.9) | 13 (43.3) |
+| a Co-primary endpoints |  |  |  |
+
+Efficacy was maintained through week 52 as assessed by the endpoints presented in Table 11.
+
+In Part 2, subjects originally on risankizumab who achieved sPGA of clear or almost clear at week 16 were re-randomised to continue risankizumab every 12 weeks through week 52 (N=22) or were withdrawn from therapy (N=21).
+At week 52, 95.5% (21/22) of the subjects continuing risankizumab maintained sPGA of clear or almost clear compared with 42.9% (9/21) for those withdrawn from risankizumab.
+
+In Part 2, improvements from baseline were reported in health-related quality of life in subjects treated with risankizumab and ustekinumab as measured by the Children’s Dermatology Life Quality Index score (CDLQI: -7.4 and -6.8, respectively) at week 16 of initial treatment.
+In Part 2, among subjects with a baseline itch score of at least 4 points, 64.9% (24/37) of subjects treated with risankizumab and 57.1% (8/14) treated with ustekinumab had an improvement in itch at week 16 of initial treatment as measured by a reduction of at least 4 points from baseline on an 11-point itch Numeric Rating Scale.
+
+OptIMMize-2
+
+In OptIMMize-2, the long-term efficacy, safety and tolerability of 150 mg or 55 mg (weight-based) risankizumab every 12 weeks were assessed in 129 paediatric subjects 6 to less than 18 years of age with moderate to severe plaque psoriasis who had completed participation in OptIMMize-1.
+In OptiIMMize-2, response rates for PASI 75/90/100 and sPGA of clear or almost clear were maintained among the 36 subjects who continued risankizumab treatment up to week 108.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Skyrizi in one or more subsets of the paediatric population in the treatment of psoriatic arthritis (see section 4.2 for information on paediatric use).
+
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+Enrolled subjects were 18 years of age and older with plaque psoriasis who had a body surface area (BSA) involvement of ≥10%, a static Physician Global Assessment (sPGA) score of ≥3 in the overall assessment (plaque thickness/induration, erythema, and scaling) of psoriasis on a severity scale of 0 to 4, a Psoriasis Area and Severity Index (PASI) score ≥12, and who were candidates for systemic therapy or phototherapy.
+
+Enrolled subjects had moderate to severe plaque psoriasis defined as BSA involvement of ≥10% with sPGA score of ≥3 or a PASI score ≥12.
+
+The efficacy results using descriptive statistics in OptIMMize-1 at week 16 of initial treatment are presented below (see Table 9).
+
+Efficacy was maintained through week 52 as assessed by the endpoints presented in Table 9.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
@@ -411,7 +477,7 @@ ADVANCE and MOTIVATE
 In studies ADVANCE and MOTIVATE, subjects were randomised to receive risankizumab at either 600 mg (recommended dose), 1 200 mg, or placebo, at week 0, week 4, and week 8.
 
 In ADVANCE, 58% (491/850) subjects had failed or were intolerant to treatment with one or more biologic therapies (prior biologic failure), and 42% (359/850) had failed or were intolerant to therapy with conventional therapies but not biologic therapies (without prior biologic failure).
-In ADVANCE, among the subjects without prior biologic failure, (87%) 314/359 were naïve to biologic therapy and the remaining 13% had received a biologic but never failed or demonstrated intolerance.
+In ADVANCE, among the subjects without prior biologic failure, 87% (314/359) were naïve to biologic therapy and the remaining 13% had received a biologic but never failed or demonstrated intolerance.
 All patients in MOTIVATE had prior biologic failure.
 
 In both studies, a greater proportion of subjects treated with risankizumab achieved the co-primary endpoints of clinical remission at week 12 and endoscopic response at week 12 compared to placebo.
@@ -422,7 +488,7 @@ Efficacy results in ADVANCE and MOTIVATE
 
 |  | ADVANCE |  |  | MOTIVATE |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo intravenous ly (N=175) % | Risankizumab 600 mg intravenously (N=336) % | Treatment differenced (95% CI) | Placebo intravenous ly (N=187) % | Risankizumab 600 mg intravenously (N=191) % | Treatment differenced (95% CI) |
+|  | Placebo intravenou sly (N=175) % | Risankizumab 600 mg intravenously (N=336) % | Treatment differenced (95% CI) | Placebo intravenou sly (N=187) % | Risankizumab 600 mg intravenously (N=191) % | Treatment differenced (95% CI) |
 | Co-primary endpoints |  |  |  |  |  |  |
 | Clinical remission at week 12e | 22% | 43% | 22% [14%, 30%]a | 19% | 35% | 15% [6%, 24%]b |
 | Endoscopic response at week 12f | 12% | 40% | 28% [21%, 35%]a | 11% | 29% | 18% [10%, 25%]a |
@@ -455,6 +521,7 @@ Efficacy results at week 12 in subgroups of subjects with prior biologic treatme
 | Without prior biologic failure | 13% (N=78) | 50% (N=141) | 38% [27%, 49%] |
 
 In ADVANCE, a higher proportion of subjects treated with risankizumab with and without prior biologic failure achieved CDAI<150 compared to placebo (With prior biologic failure, risankizumab =42%, placebo=26%; Without prior biologic failure, risankizumab =49%, placebo=23%).
+
 CD-related hospitalisations
 
 Rates of CD-related hospitalisations through week 12 were lower in subjects treated with risankizumab compared to placebo (ADVANCE, risankizumab =3%, placebo=12%, p<0.001; MOTIVATE, risankizumab =3%, placebo=11%, p≤0.01).
@@ -475,8 +542,8 @@ Efficacy results in FORTIFY at week 52 (64 weeks from initiation of induction do
 |  | Risankizumab intravenous induction/ Placebo subcutaneously f (N=164) % | Risankizumab intravenous induction/ Risankizumab 360 mg subcutaneously (N=141) % | Treatment difference (95% CI) |
 | Co-primary endpoints |  |  |  |
 | Clinical remission | 40% | 52% | 15% [5%, 25%]a,g |
-| Prior biologic failure | 34% (N=123) | 48% (N=102) | 14% [1%, 27%] |
-| Without prior biologic failure | 56% (N=41) | 62% (N=39) | 5% [-16%, 27%] |
+| Prior biologic failure | 34% (N=123) | 48% (N=102) | 14% [1%,27%] |
+| Without prior biologic failure | 56% (N=41) | 62% (N=39) | 5% [-16%,27%] |
 | Endoscopic response | 22% | 47% | 28% [19%, 37%]b,g |
 | Prior biologic failure | 20% (N=123) | 44% (N=102) | 23% [11%, 35%] |
 | Without prior biologic failure | 27% (N=41) | 54% (N=39) | 27% [6%, 48%] |
@@ -485,7 +552,14 @@ Efficacy results in FORTIFY at week 52 (64 weeks from initiation of induction do
 | Maintenance of clinical remissionh | (N = 91) 51% | (N = 72) 69% | 21% [6%, 35%]d,g |
 | Endoscopic remission | 13% | 39% | 28% [20%, 37%]c,g |
 | Mucosal healing | (N = 162) 10% | (N = 141) 31% | 22% [14%, 30%]c,g |
-| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). c Nominal p<0.001 risankizumab vs placebo comparison without overall type I error control. d Nominal p≤0.01 risankizumab vs placebo comparison without overall type I error control. e Nominal p≤0.05 risankizumab vs placebo comparison without overall type I error control. f The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (FORTIFY). g Adjusted treatment difference. h Maintenance of clinical remission: clinical remission at week 52 in subjects with clinical remission at week 0. |  |  |  |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). |  |  |  |
+
+c Nominal p<0.001 risankizumab vs placebo comparison without overall type I error control.
+d Nominal p≤0.01 risankizumab vs placebo comparison without overall type I error control.
+e Nominal p≤0.05 risankizumab vs placebo comparison without overall type I error control.
+f The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (FORTIFY).
+g Adjusted treatment difference.
+h Maintenance of clinical remission: clinical remission at week 52 in subjects with clinical remission at week 0.
 
 Deep remission (clinical remission and endoscopic remission) at week 52 was observed at higher rates in subjects treated with risankizumab intravenously / risankizumab subcutaneously compared to subjects who received risankizumab intravenously/placebo subcutaneously (28% vs. 10%, respectively, nominal p<0.001).
 
@@ -518,6 +592,7 @@ Enrolled subjects were ≥ 18 and ≤ 80 years of age with adapted Mayo Score (a
 The 12-week intravenous induction study (INSPIRE) included a 12-week extension period for subjects who did not achieve clinical response [defined as a decrease from baseline in the aMS ≥ 2 points and
 ≥ 30% from baseline, and a decrease in rectal bleeding subscore (RBS) ≥ 1 or an absolute RBS ≤ 1] at Week 12.
 INSPIRE was followed by a 52-week randomised withdrawal study of subcutaneous maintenance treatment (COMMAND) that enrolled subjects with clinical response to 12 weeks of risankizumab intravenous induction treatment, representing at least 64 weeks of therapy.
+
 INSPIRE
 
 In study INSPIRE, 975 subjects were randomised and received either risankizumab 1 200 mg or placebo, at week 0, week 4, and week 8.
@@ -546,22 +621,13 @@ Efficacy results in INSPIRE at week 12
 | Without biologic and/or JAK inhibitor failure | 41% (N=155) | 74% (N=317) | 33% [24%, 42%] |
 | Endoscopic and histologic assessment |  |  |  |
 | Mucosal healingd | 12% | 37% | 24%f [19%, 29%] |
-| With biologic and/or JAK inhibitor failure | 10% (N=170) | 26% (N=333) | 16% [9%, 22%] |
+| With biologic and/or JAK inhibitor failure | 10% (N=170) | 26% (N=333) | 16% |
+|  |  |  | [9%, 22%] |
 | Without biologic and/or JAK inhibitor failure | 14% (N=155) | 48% (N=317) | 33% [26%, 41%] |
 | Histologic-endoscopic mucosal healinge | 8% | 24% | 17%f [12%, 21%] |
 | With biologic and/or JAK inhibitor failure | 7% (N=170) | 16% (N=333) | 9% [3%, 14%] |
-| Without biologic and/or JAK inhibitor failure | 8% (N=155) | 33% (N=317) | 25% |
-
-[18%, 32%]
-a Primary endpoint
-b Clinical remission per aMS: SFS ≤ 1, and not greater than baseline, RBS = 0, and ES ≤ 1 without evidence of
-friability
-c Clinical response per aMS: decrease from Baseline ≥ 2 points and ≥ 30%, and a decrease in RBS ≥ 1 or an
-absolute RBS ≤ 1
-d ES ≤ 1 without the evidence of friability
-e ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of
-crypts, no crypt destruction and no erosions, ulcerations or granulation tissue)
-f p < 0.00001, adjusted treatment difference (95% CI)
+| Without biologic and/or JAK inhibitor failure | 8% (N=155) | 33% (N=317) | 25% [18%, 32%] |
+| a Primary endpoint b Clinical remission per aMS: SFS ≤ 1, and not greater than baseline, RBS = 0, and ES ≤ 1 without evidence of friability c Clinical response per aMS: decrease from Baseline ≥ 2 points and ≥ 30%, and a decrease in RBS ≥ 1 or an absolute RBS ≤ 1 d ES ≤ 1 without the evidence of friability e ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) f p < 0.00001, adjusted treatment difference (95% CI) |  |  |  |
 
 Clinical disease activity and symptoms
 
@@ -580,12 +646,12 @@ Risankizumab 1 200 mg intravenously (N=650)
 A significantly greater proportion of subjects treated with risankizumab compared to placebo had no abdominal pain (36% vs 26%, respectively, p < 0.01) and no bowel urgency (44% vs 28%, respectively, p < 0.00001) at week 12.
 
 Other UC Symptoms
-
 Number of faecal incontinence episodes per week was reduced in a significantly greater amount in subjects treated with risankizumab compared to placebo at week 12 (change from baseline in risankizumab = -3.8, placebo = -2.2, p = 0.00003).
 
 The proportion of subjects who had no nocturnal bowel movements was significantly greater in subjects treated with risankizumab compared to placebo at week 12 (67% vs 43%, respectively, p < 0.00001).
 
 The proportion of subjects who had no tenesmus was significantly greater in subjects treated with risankizumab compared to placebo at week 12 (49% vs 30%, respectively, p < 0.00001).
+
 Number of days with sleep interruption due to UC symptoms per week were reduced in a significantly greater amount in subjects treated with risankizumab compared to placebo at week 12 (change from baseline in risankizumab = -2.5, placebo = -1.5, p < 0.00001).
 
 UC-related hospitalisations
@@ -608,11 +674,12 @@ Of these 411 subjects, 407 (99%) failed biologics and 78 (19%) failed JAK inhibi
 In COMMAND, a significantly greater proportion of the above 548 subjects treated with risankizumab 180 mg subcutaneously or risankizumab 360 mg subcutaneously achieved the primary endpoint of clinical remission per aMS at week 52 compared to placebo (see Table 6).
 Results of the primary endpoint and key secondary endpoints are listed in Table 6.
 
+Table 6.
 Efficacy results in COMMAND at week 52 (64 weeks from initiation of induction dose)
 
 | Endpoint | Risankizumab intravenous induction/ Placebo subcutaneousl y+ (N=183) % | Risankizumab intravenous induction/ Risankizumab 180 mg subcutaneously (N=179) % | Risankizumab intravenous induction/ Risankizumab 360 mg subcutaneousl y (N=186) % | Treatment difference (97.5% CI)++ |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Risankizumab intravenous induction/ Risankizumab 180 mg subcutaneousl y | Risankizumab intravenous induction/ Risankizumab 360 mg subcutaneously |
+|  |  |  |  | Risankizuma b intravenous induction/ Risankizuma b 180 mg subcutaneous ly | Risankizuma b intravenous induction/ Risankizuma b 360 mg subcutaneous ly |
 | Disease activity and UC symptoms |  |  |  |  |  |
 | Clinical remissionab | 25% | 40% | 38% | 16%h [6%, 27%] | 14%h [4%, 24%] |
 | With biologic and/or JAK inhibitor failure | 23% (N=138) | 37% (N=134) | 29% (N=139) | 13% [1%, 26%] | 6% [-6%, 18%] |
@@ -633,7 +700,9 @@ Efficacy results in COMMAND at week 52 (64 weeks from initiation of induction do
 | Histologic-endoscopic mucosal healingg | 23% | 43% | 42% | 20%h [10%, 31%] | 20% h [10%, 30%] |
 | With biologic and/or JAK inhibitor failure | 22% (N=138) | 39% (N=134) | 33% (N=139) | 17% [5%, 29%] | 11% [-1%, 23%] |
 | Without biologic and/or JAK inhibitor failure | 29% (N=45) | 55% (N=45) | 69% (N=47) | 26% [3%, 49%] | 40% [19%, 62%] |
-| + The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (COMMAND). ++ Adjusted difference for the overall treatment difference. a Primary endpoint b Clinical remission per aMS: SFS ≤ 1, and not greater than baseline, RBS = 0, and ES ≤ 1 without evidence of friability c Clinical remission per aMS at week 52 among subjects who achieved clinical remission at the end of induction treatment d Clinical remission per aMS at week 52 and corticosteroid-free for ≥90 days e Clinical response per aMS: decrease from Baseline ≥ 2 points and ≥ 30%, and a decrease in RBS ≥ 1 or an absolute RBS ≤ 1 f ES of ≤ 1 without the evidence of friability g ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) h Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p ≤ 0.01). i Nominal p ≤ 0.01 risankizumab vs placebo comparison j Nominal p ≤ 0.05 risankizumab vs placebo comparison k p = 0.2234 |  |  |  |  |  |
+| + The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (COMMAND). ++ Adjusted difference for the overall treatment difference. a Primary endpoint b Clinical remission per aMS: SFS ≤ 1, and not greater than baseline, RBS = 0, and ES ≤ 1 without evidence of friability c Clinical remission per aMS at week 52 among subjects who achieved clinical remission at the end of induction treatment d Clinical remission per aMS at week 52 and corticosteroid-free for ≥90 days e Clinical response per aMS: decrease from Baseline ≥ 2 points and ≥ 30%, and a decrease in RBS ≥ 1 or an absolute RBS ≤ 1 f ES of ≤ 1 without the evidence of friability g ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) |  |  |  |  |  |
+
+h Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p ≤ 0.01). i Nominal p ≤ 0.01 risankizumab vs placebo comparison j Nominal p ≤ 0.05 risankizumab vs placebo comparison k p = 0.2234
 
 A significantly greater proportion of subjects treated with risankizumab intravenously/risankizumab 180 mg subcutaneously compared to risankizumab intravenously/placebo had no abdominal pain (47% vs 30%, respectively, p < 0.001) and no bowel urgency (54% vs 31%, respectively, p < 0.00001) at week 52.
 A greater proportion of subjects treated with risankizumab intravenously /risankizumab 360 mg subcutaneously compared to risankizumab intravenously/placebo had no bowel urgency (49% vs 31%, respectively, p < 0.001) at week 52, and a numerically higher proportion of subjects had no abdominal pain compared to risankizumab intravenously/placebo (38% vs 30%, respectively, p = 0.0895) at week 52.
@@ -681,7 +750,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 |  | ADVANCE |  |  | MOTIVATE |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo intravenously (N=175) % | Risankizumab 600 mg intravenously (N=336) % | Treatment differenced (95% CI) | Placebo intravenous ly (N=187) % | Risankizumab 600 mg intravenously (N=191) % | Treatment differenced (95% CI) |
+|  | Placebo intravenousl y (N=175) % | Risankizumab 600 mg intravenously (N=336) % | Treatment differenced (95% CI) | Placebo intravenou sly (N=187) % | Risankizumab 600 mg intravenously (N=191) % | Treatment differenced (95% CI) |
 | Co-primary endpoints |  |  |  |  |  |  |
 | Clinical remission at week 12e | 22% | 43% | 22% [14%, 30%]a | 19% | 35% | 15% [6%, 24%]b |
 | Endoscopic response at week 12f | 12% | 40% | 28% [21%, 35%]a | 11% | 29% | 18% [10%, 25%]a |
@@ -692,8 +761,11 @@ The European Medicines Agency has deferred the obligation to submit the results 
 | CDAI <150 at week 12 | 25% | 45% | 21% [12%, 29%]a | 20% | 42% | 22% [13%, 31%]a |
 | Mucosal healing at week 12h | (N=173) 8% | (N=336) 21% | 14% [8%, 19%]a | (N=186) 4% | (N=190) 14% | 9% [4%, 15%]b |
 | Endoscopic remission at week 12i | 9% | 24% | 15% [9%, 21%]a | 4% | 19% | 15% [9%, 21%]a |
-| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). c Nominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. |  |  |  |  |  |  |
 
+a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001).
+b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01).
+c Nominal p ≤ 0.05 risankizumab vs placebo comparison.
+d Adjusted treatment difference.
 e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline.
 f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease.
 g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission.
@@ -739,11 +811,12 @@ These improvements were maintained in subjects treated with risankizumab intrave
 | Histologic-endoscopic mucosal healinge | 8% | 24% | 17%f [12%, 21%] |
 | With biologic and/or JAK inhibitor failure | 7% (N=170) | 16% (N=333) | 9% [3%, 14%] |
 | Without biologic and/or JAK inhibitor failure | 8% (N=155) | 33% (N=317) | 25% [18%, 32%] |
-| a Primary endpoint b Clinical remission per aMS: SFS ≤ 1, and not greater than baseline, RBS = 0, and ES ≤ 1 without evidence of friability c Clinical response per aMS: decrease from Baseline ≥ 2 points and ≥ 30%, and a decrease in RBS ≥ 1 or an absolute RBS ≤ 1 d ES ≤ 1 without the evidence of friability e ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) f p < 0.00001, adjusted treatment difference (95% CI) |  |  |  |
+
+a Primary endpoint b Clinical remission per aMS: SFS ≤ 1, and not greater than baseline, RBS = 0, and ES ≤ 1 without evidence of friability c Clinical response per aMS: decrease from Baseline ≥ 2 points and ≥ 30%, and a decrease in RBS ≥ 1 or an absolute RBS ≤ 1 d ES ≤ 1 without the evidence of friability e ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) f p < 0.00001, adjusted treatment difference (95% CI)
 
 | Endpoint | Risankizumab intravenous induction/ Placebo subcutaneousl y+ (N=183) % | Risankizumab intravenous induction/ Risankizumab 180 mg subcutaneously (N=179) % | Risankizumab intravenous induction/ Risankizumab 360 mg subcutaneousl y (N=186) % | Treatment difference (97.5% CI)++ |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Risankizumab intravenous induction/ Risankizumab 180 mg subcutaneousl y | Risankizumab intravenous induction/ Risankizumab 360 mg subcutaneously |
+|  |  |  |  | Risankizuma b intravenous induction/ Risankizuma b 180 mg subcutaneous ly | Risankizuma b intravenous induction/ Risankizuma b 360 mg subcutaneous ly |
 | Disease activity and UC symptoms |  |  |  |  |  |
 | Clinical remissionab | 25% | 40% | 38% | 16%h [6%, 27%] | 14%h [4%, 24%] |
 | With biologic and/or JAK inhibitor failure | 23% (N=138) | 37% (N=134) | 29% (N=139) | 13% [1%, 26%] | 6% [-6%, 18%] |

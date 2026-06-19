@@ -11,6 +11,7 @@ Skyrizi 150 mg solution for injection in pre-filled syringe
 Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the pre-filled syringe from the carton.
 
 The solution should be colourless to yellow and clear to slightly opalescent.
+
 Skyrizi 75 mg solution for injection in pre-filled syringe
 
 Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the pre-filled syringes from the carton.
@@ -31,6 +32,13 @@ Comprehensive instructions for use are provided in the package leaflet.
 Each pre-filled pen or pre-filled syringe is for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+Prior to use, a visual inspection of each pre-filled syringe is recommended.
+Do not shake the pre-filled syringe.
+
+Each pre-filled syringe is for single use only.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 
@@ -73,8 +81,6 @@ Skyrizi 90 mg and 180 mg solution for injection in pre-filled syringe
 
 Before injecting, the carton should be removed from the refrigerator and allow to reach room temperature out of direct sunlight, for 15 to 30 minutes without removing the pre-filled syringes from the carton.
 
-Prior to use, a visual inspection of each pre-filled syringe is recommended.
-Do not shake the pre-filled syringe.
 The 90 mg solution for injection in pre-filled syringe should be colourless to slightly yellow and clear to slightly opalescent.
 
 The 180 mg solution for injection in pre-filled syringe should be colourless to yellow and clear to slightly opalescent.

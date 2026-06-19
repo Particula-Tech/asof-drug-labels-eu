@@ -6,6 +6,12 @@ Keep the pre-filled pen or the pre-filled syringe(s) in the outer carton in orde
 
 Skyrizi 150 mg pre-filled pen or pre-filled syringe may be stored out of the refrigerator (up to a maximum of 25°C) for up to 24 hours in the original carton to protect from light.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+The pre-filled syringe may be stored out of the refrigerator (up to a maximum of 25°C) for up to 24 hours in the original carton to protect from light.
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 Keep the vial in the outer carton in order to protect from light.

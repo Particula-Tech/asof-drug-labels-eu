@@ -6,10 +6,11 @@ The most frequently reported adverse reactions were upper respiratory infections
 
 Tabulated list of adverse reactions
 
-Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to
+Adverse reactions for risankizumab from clinical studies (Table 2) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to
 < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Table 1: List of adverse reactions
+
+Table 2: List of adverse reactions
 
 | System Organ Class | Frequency | Adverse reactions |
 | --- | --- | --- |
@@ -33,24 +34,28 @@ The rate of serious infections was 1.7 events per 100 subject-years from the pso
 
 Immunogenicity
 
-For subjects treated with risankizumab at the recommended clinical dose for up to 52 weeks in psoriasis clinical trials, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 24% (263/1 079) and 14% (150/1 079) of evaluated subjects, respectively.
+For adult subjects treated with risankizumab at the recommended clinical dose for up to 52 weeks in psoriasis clinical trials, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 24% (263/1 079) and 14% (150/1 079) of evaluated subjects, respectively.
 For subjects exposed to long term treatment of risankizumab in the extension study, the immunogenicity profile observed up to 204 weeks of treatment was consistent compared to the first 52 weeks of treatment.
 
-For most subjects with psoriasis, antibodies to risankizumab including neutralising antibodies were not associated with changes in clinical response or safety.
+For most adult subjects with psoriasis, antibodies to risankizumab including neutralising antibodies were not associated with changes in clinical response or safety.
 Among the few subjects (approximately 1%; 7/1 000 at week 16 and 6/598 at week 52) with high antibody titres (>128), clinical response appeared to be reduced.
 The incidence of injection site reactions is numerically higher in the anti-drug antibody-positive groups compared with anti-drug antibody-negative groups over short-term (16 weeks: 2.7% vs 1.3%) and longer-term treatment (52 weeks: 5.0% vs 3.3%).
 The injection site reactions were all mild to moderate in severity, none were serious, and none led to discontinuation of risankizumab.
 
-For subjects treated with risankizumab at the recommended clinical dose for up to 28 weeks in psoriatic arthritis clinical trials, treatment-emergent anti-drug antibodies and neutralizing antibodies were detected in 12.1% (79/652) and 0% (0/652) of evaluated subjects, respectively.
+For paediatric subjects 6 to less than 18 years of age treated with risankizumab at the recommended clinical dose for up to 52 weeks in the psoriasis clinical trial, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 14.8% (13/88) and 2.3% (2/88) of evaluated subjects, respectively.
+Antibodies to risankizumab were not associated with changes in clinical response or safety; however, the number of patients who were positive for antibodies to risankizumab is too small for definitive conclusions about the impact on efficacy and safety of risankizumab.
+
+For adult subjects treated with risankizumab at the recommended clinical dose for up to 28 weeks in psoriatic arthritis clinical trials, treatment-emergent anti-drug antibodies and neutralizing antibodies were detected in 12.1% (79/652) and 0% (0/652) of evaluated subjects, respectively.
 Antibodies to risankizumab were not associated with changes in clinical response or safety for psoriatic arthritis.
 
 Psoriatic arthritis
 
 Overall, the safety profile observed in patients with psoriatic arthritis treated with risankizumab was consistent with the safety profile observed in patients with plaque psoriasis.
 
-Elderly
+Paediatric population
 
-There is limited safety information in subjects aged ≥65 years.
+The safety of risankizumab was assessed in a four-part trial of paediatric subjects with moderate to severe plaque psoriasis that evaluated safety for up to 52 weeks in 137 paediatric subjects 6 to less than 18 years of age.
+Overall, the safety profile observed in paediatric subjects with plaque psoriasis treated with risankizumab was consistent with the safety profile observed in adult subjects with plaque psoriasis.
 
 Reporting of suspected adverse reactions
 
@@ -58,9 +63,17 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 The most frequently reported adverse reactions were upper respiratory infections (15.6% in Crohn’s disease and 26.2% in ulcerative colitis).
+
+Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to
+
+Table 1: List of adverse reactions
 
 | System Organ Class | Frequency | Adverse reactions |
 | --- | --- | --- |
@@ -103,6 +116,9 @@ For subjects with Crohn’s disease treated with risankizumab at the recommended
 For subjects with ulcerative colitis treated with risankizumab at the recommended intravenous induction and subcutaneous maintenance doses (180 mg or 360 mg) for up to 64 weeks in ulcerative colitis clinical trials, treatment-emergent anti-drug antibodies and neutralising antibodies were detected in 8.9% (8/90) and 6.7% (6/90) for the 180 mg subcutaneous dose, or 4.4% (4/91) and 2.2% (2/91) for the 360 mg subcutaneous dose, of evaluated subjects, respectively.
 
 Antibodies to risankizumab including neutralizing antibodies were not associated with changes in clinical response or safety.
+Elderly
+
+There is limited safety information in subjects aged ≥65 years.
 
 [Skyrizi 360 mg solution for injection in cartridge]
 

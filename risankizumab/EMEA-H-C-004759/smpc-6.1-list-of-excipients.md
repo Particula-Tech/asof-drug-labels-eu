@@ -16,6 +16,10 @@ Sorbitol
 Polysorbate 20
 Water for injections
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 (all sentences already above)

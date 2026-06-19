@@ -4,11 +4,30 @@ This medicinal product is intended for use under the guidance and supervision of
 
 Posology
 
+Adult plaque psoriasis
+
+The recommended dose for adult patients is 150 mg administered as a subcutaneous injection at week 0, week 4, and every 12 weeks thereafter (either as two 75 mg pre-filled syringe injections or one 150 mg pre-filled pen or pre-filled syringe injection).
+
+Paediatric plaque psoriasis (from 6 to less than 18 years of age)
+
+The recommended dose for paediatric patients is based on body weight (Table 1) and administered as a subcutaneous injection at week 0, week 4, and every 12 weeks thereafter.
+
+Table 1.
+Recommended dose for paediatric plaque psoriasis
+
+| Body weight at time of dosing | Recommended dose |
+| --- | --- |
+| <40 kg | 55 mg (given as one 55 mg pre-filled syringe injection)* |
+| ≥40 kg | 150 mg (given as two 75 mg pre-filled syringe injections or one 150 mg pre-filled pen or pre-filled syringe injection) |
+
+*For children and adolescents weighing less than 40 kg, refer to the Skyrizi 55 mg pre-filled syringe
+
+Psoriatic arthritis
+
 The recommended dose is 150 mg administered as a subcutaneous injection at week 0, week 4, and every 12 weeks thereafter (either as two 75 mg pre-filled syringe injections or one 150 mg pre-filled pen or pre-filled syringe injection).
 
-Consideration should be given to discontinuing treatment in patients who have shown no response after 16 weeks of treatment.
+For the above indications, consideration should be given to discontinuing treatment in patients who have shown no response after 16 weeks of treatment.
 Some plaque psoriasis patients with initial partial response may subsequently improve with continued treatment beyond 16 weeks.
-
 Missed dose
 
 If a dose is missed, the dose should be administered as soon as possible.
@@ -19,7 +38,6 @@ Special populations
 Elderly
 
 No dose adjustment is required (see section 5.2).
-There is limited information in subjects aged ≥ 65 years.
 
 Renal or hepatic impairment
 
@@ -28,13 +46,14 @@ These conditions are generally not expected to have any significant impact on th
 
 Paediatric population
 
-The safety and efficacy of risankizumab in children and adolescents aged 5 to less than 18 years have not been established.
+The safety and efficacy of risankizumab in children and adolescents below the age of 18 years with psoriatic arthritis have not yet been established.
 No data are available.
 
 There is no relevant use of risankizumab in children aged below 6 years for the indication of moderate to severe plaque psoriasis or in children aged below 5 years for the indication of psoriatic arthritis.
+
 Overweight patients
 
-No dose adjustment is required (see section 5.2).
+No dose adjustment is required(see section 5.2).
 
 Method of administration
 
@@ -44,6 +63,8 @@ The injection should be administered in the thigh or abdomen.
 Patients should not inject into areas where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis.
 
 Patients may self-inject Skyrizi after training in subcutaneous injection technique.
+In children and adolescents 10 to less than 18 years of age, it is recommended that Skyrizi is administered by or under the supervision of an adult.
+In children 6 to less than 10 years of age, Skyrizi should be administered by an adult.
 Patients should be instructed to read the ‘Instructions for use’ provided in the package leaflet before administration.
 
 Administration of Skyrizi in the upper, outer arm may only be performed by a healthcare professional or caregiver.
@@ -52,6 +73,19 @@ Skyrizi 75 mg solution for injection in pre-filled syringe
 
 Two pre-filled syringes should be injected for the full 150 mg dose.
 The two injections should be administered at different anatomic locations.
+
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+| Body weight at time of dosing | Recommended dose |
+| --- | --- |
+| <40 kg | 55 mg (given as one 55 mg pre-filled syringe injection) |
+| ≥40 kg | 150 mg (given as two 75 mg pre-filled syringe injections or one 150 mg pre-filled pen or pre-filled syringe injection)* |
+
+*For children and adolescents weighing at least 40 kg, refer to the Skyrizi 150 mg pre-filled pen,
+150 mg pre-filled syringe and 75 mg pre-filled syringe Summary of Product Characteristics.
+For the above indication, consideration should be given to discontinuing treatment in patients who have shown no response after 16 weeks of treatment.
+
+There is no relevant use of risankizumab in children aged below 6 years for the indication of moderate to severe plaque psoriasis.
 
 [Skyrizi 600 mg concentrate for solution for infusion]
 

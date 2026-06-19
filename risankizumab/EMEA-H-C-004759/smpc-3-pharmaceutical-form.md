@@ -10,6 +10,10 @@ Skyrizi 75 mg solution for injection in pre-filled syringe
 
 The solution is colourless to slightly yellow and clear to slightly opalescent.
 
+[Skyrizi 55 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
 [Skyrizi 600 mg concentrate for solution for infusion]
 
 Concentrate for solution for infusion (sterile concentrate)
