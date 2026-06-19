@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vial
-2 years.
+2 years
 
 After preparation of infusion
 Chemical and physical in-use stability has been demonstrated for up to 42 days at 2 °C to 8 °C or at 23 °C to 27 °C.
@@ -11,6 +11,8 @@ If not used immediately, in-use storage times and conditions prior to use are th
 If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
 
 [KEYTRUDA 395 mg solution for injection]
+
+3 years
 
 Prepared syringe
 Once transferred from the vial into the syringe, chemical and physical in-use stability has been demonstrated for KEYTRUDA solution for injection for up to 30 days at 2 °C to 8 °C (protected from light) and for up to 24 hours at room temperature (under ambient room light).

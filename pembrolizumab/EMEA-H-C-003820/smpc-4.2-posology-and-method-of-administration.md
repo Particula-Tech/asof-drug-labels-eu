@@ -29,6 +29,8 @@ For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be admini
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
+For the neoadjuvant and adjuvant treatment of cisplatin-ineligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 3 doses of 200 mg every 3 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 14 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
 For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 200 mg every 3 weeks or 1 dose of 400 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 200 mg every 3 weeks or 6 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA monotherapy as neoadjuvant treatment should not receive KEYTRUDA in combination with radiation with or without concomitant cisplatin as adjuvant treatment.
 
@@ -63,10 +65,14 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 | Other immune-mediated adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome | Permanently discontinue |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
+| Myocarditis-myositis-myasthenia gravis overlap syndrome† | Grade 2 | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grades 3 or 4 | Permanently discontinue |
 | Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
 
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 * If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
+† Presenting as an overlap of either two or all three conditions.
+The most severe CTCAE grade of the individual events should be considered when assessing the recommended treatment modification for KEYTRUDA.
 
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-mediated myocarditis is not known.
 
@@ -78,7 +84,6 @@ For Grade 4 haematological toxicity, only in patients with cHL, KEYTRUDA should 
 KEYTRUDA in combination with axitinib in RCC
 For RCC patients treated with KEYTRUDA in combination with axitinib, see the SmPC regarding dosing of axitinib.
 When used in combination with pembrolizumab, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer (see section 5.1).
-
 For liver enzyme elevations, in patients with RCC being treated with KEYTRUDA in combination with axitinib:
 
 - If ALT or AST ≥ 3 times ULN but < 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both KEYTRUDA and axitinib should be withheld until these adverse reactions recover to Grades 0-1.
@@ -97,6 +102,7 @@ Patients treated with KEYTRUDA must be given the patient card and be informed ab
 Special populations
 Elderly
 No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5.1).
+
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
 KEYTRUDA has not been studied in patients with severe renal impairment (see sections 4.4 and 5.2).
@@ -123,25 +129,25 @@ KEYTRUDA concentrate for solution for infusion should not be substituted for or 
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
 
 When administering KEYTRUDA as part of a combination with enfortumab vedotin, KEYTRUDA should be administered after enfortumab vedotin when given on the same day.
-
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
 [KEYTRUDA 395 mg solution for injection]
 
-The recommended dose of KEYTRUDA solution for injection in adults is either:
+The recommended dose of KEYTRUDA solution for injection in adults and in adolescents with melanoma or cHL aged 12 years and older who weigh greater than 40 kg is either:
 - 395 mg every 3 weeks administered as a subcutaneous injection over 1 minute or
 - 790 mg every 6 weeks administered as a subcutaneous injection over 2 minutes.
 
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
-For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 395 mg every 3 weeks or 1 dose of 790 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 395 mg every 3 weeks or 6 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+For the neoadjuvant and adjuvant treatment of cisplatin-ineligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 3 doses of 395 mg every 3 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 14 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
+For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 395 mg every 3 weeks or 1 dose of 790 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 395 mg every 3 weeks or 6 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 395 mg every 3 weeks or 4 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 395 mg every 3 weeks or 5 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
 KEYTRUDA can be administered as either 395 mg every 3 weeks or 790 mg every 6 weeks until disease progression, unacceptable toxicity or up to 24 months.
 
-The safety and efficacy of KEYTRUDA solution for injection in children below 18 years of age have not been established.
-Currently available data for intravenous pembrolizumab are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made on KEYTRUDA solution for injection.
+The safety and efficacy of KEYTRUDA solution for injection have not been established in paediatric patients except for adolescents aged 12 years and older with melanoma or cHL.
+A recommended dose for adolescents aged 12 years and older who weigh 40 kg or less has not been established (see sections 4.8, 5.1 and 5.2).
 
 KEYTRUDA solution for injection is for subcutaneous use only.
 Do not administer KEYTRUDA solution for injection intravenously.

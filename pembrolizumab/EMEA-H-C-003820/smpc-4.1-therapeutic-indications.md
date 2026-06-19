@@ -30,6 +30,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of adult and paediatric p
 
 Urothelial carcinoma
 
+KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+
 KEYTRUDA, in combination with enfortumab vedotin, is indicated for the first-line treatment of unresectable or metastatic urothelial carcinoma in adults.
 
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who have received prior platinum-containing chemotherapy (see section 5.1).
@@ -43,10 +45,10 @@ KEYTRUDA as monotherapy is indicated for the treatment of resectable locally adv
 KEYTRUDA, as monotherapy or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy, is indicated for the first-line treatment of metastatic or unresectable recurrent head and neck squamous cell carcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1 (see section 5.1).
 
 KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastatic head and neck squamous cell carcinoma in adults whose tumours express PD-L1 with a ≥ 50% TPS and progressing on or after platinum-containing chemotherapy (see section 5.1).
-
 Renal cell carcinoma (RCC)
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
+
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
 KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with renal cell carcinoma at increased risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions (for selection criteria, see section 5.1).
@@ -102,8 +104,4 @@ KEYTRUDA, in combination with paclitaxel, with or without bevacizumab, is indica
 
 [KEYTRUDA 395 mg solution for injection]
 
-KEYTRUDA as monotherapy is indicated for the treatment of adults with advanced (unresectable or metastatic) melanoma.
-
-KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with Stage IIB, IIC or III melanoma and who have undergone complete resection (see section 5.1).
-
-KEYTRUDA as monotherapy is indicated for the treatment of adults with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) or following at least two prior therapies when ASCT is not a treatment option.
+KEYTRUDA as monotherapy is indicated for the treatment of adults and adolescents aged 12 years and older with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) or following at least two prior therapies when ASCT is not a treatment option.

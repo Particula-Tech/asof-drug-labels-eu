@@ -11,6 +11,7 @@ Immune-mediated adverse reactions, including severe and fatal cases, have occurr
 Most immune-mediated adverse reactions occurring during treatment with pembrolizumab were reversible and managed with interruptions of pembrolizumab, administration of corticosteroids and/or supportive care.
 Immune-mediated adverse reactions have also occurred after the last dose of pembrolizumab.
 Immune-mediated adverse reactions affecting more than one body system can occur simultaneously.
+
 For suspected immune-mediated adverse reactions, adequate evaluation to confirm aetiology or exclude other causes should be ensured.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
@@ -45,6 +46,7 @@ Immune-mediated nephritis
 Nephritis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in renal function, and other causes of renal dysfunction excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper) and, based on severity of creatinine elevations, pembrolizumab should be withheld for Grade 2, and permanently discontinued for Grade 3 or Grade 4 nephritis (see section 4.2).
+
 Immune-mediated endocrinopathies
 Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
@@ -70,7 +72,6 @@ Hypothyroidism may be managed with replacement therapy without treatment interru
 Hyperthyroidism may be managed symptomatically.
 Pembrolizumab should be withheld for Grade ≥ 3 until recovery to Grade ≤ 1 hyperthyroidism.
 Thyroid function and hormone levels should be monitored to ensure appropriate hormone replacement.
-
 For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed.
 Otherwise treatment should be discontinued (see sections 4.2 and 4.8).
 
@@ -84,8 +85,9 @@ For suspected SJS or TEN, pembrolizumab should be withheld and the patient shoul
 If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (see section 4.2).
 
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
+
 Other immune-mediated adverse reactions
-The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective, hypoparathyroidism and pericarditis (see sections 4.2 and 4.8).
+The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective, hypoparathyroidism, pericarditis and myocarditis-myositis-myasthenia gravis overlap syndrome (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
 
@@ -120,6 +122,7 @@ Patients with Grades 1 or 2 infusion reaction may continue to receive pembrolizu
 
 Use of pembrolizumab in combination with chemotherapy
 Pembrolizumab in combination with chemotherapy should be used with caution in patients ≥ 75 years after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
+
 Disease-specific precautions
 
 Use of pembrolizumab in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
@@ -141,7 +144,6 @@ In general, the frequency of adverse reactions for pembrolizumab combination the
 A direct comparison of pembrolizumab when used in combination with chemotherapy to pembrolizumab monotherapy is not available.
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
-
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
 
 Use of pembrolizumab for first-line treatment of patients with HNSCC
@@ -152,6 +154,7 @@ Physicians should consider the benefit/risk balance of the available treatment o
 Use of pembrolizumab for treatment of patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma
 A direct comparison of pembrolizumab when used in combination with lenvatinib to pembrolizumab monotherapy is not available.
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with lenvatinib) before initiating treatment in patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma.
+
 Use of pembrolizumab for adjuvant treatment of patients with melanoma
 A trend toward increased frequency of severe and serious adverse reactions in patients ≥ 75 years was observed.
 Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥ 75 years are limited.
@@ -185,6 +188,7 @@ After careful consideration of the potential increased risk, pembrolizumab may b
 Excipients with known effect
 This medicinal product contains 0.2 mg of polysorbate 80 in each mL of concentrate.
 Polysorbates may cause allergic reactions.
+
 Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.

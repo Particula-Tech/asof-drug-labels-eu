@@ -66,5 +66,6 @@ Following intravenous administration of pembrolizumab 200 mg every 3 weeks in pa
 Based on available safety data in cHL and other tumour types for intravenous pembrolizumab, these differences are not clinically meaningful.
 
 The following factors had no clinically important effect on the absorption of pembrolizumab following subcutaneous administration of KEYTRUDA solution for injection: age, sex, body weight (range: 37 to 144 kg), tumour type, race and injection site (thigh or abdomen).
+Pembrolizumab exposures with subcutaneous doses of 395 mg every 3 weeks or 790 mg every 6 weeks in adolescents aged 12 years and older who weigh greater than 40 kg are expected to be an average of 30% higher to those of adult patients at the same dose, however this difference is not clinically meaningful.
 Based on the intravenous pembrolizumab population PK analysis, the following factors had no clinically important effect on the clearance of pembrolizumab: age (range: 15-94 years), sex, race, mild or moderate renal impairment, mild or moderate hepatic impairment and tumour burden.
 The relationship between body weight and clearance supports the use of a fixed dose.
