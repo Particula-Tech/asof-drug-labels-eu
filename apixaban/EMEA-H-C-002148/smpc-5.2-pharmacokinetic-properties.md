@@ -27,6 +27,8 @@ Distribution
 In adults, plasma protein binding is approximately 87%.
 The volume of distribution (Vss) is approximately 21 litres.
 
+No data on apixaban plasma protein binding specific to paediatric population is available.
+
 Biotransformation and elimination
 
 Apixaban has multiple routes of elimination.
@@ -42,8 +44,6 @@ O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major s
 Apixaban is metabolised mainly via CYP3A4/5 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2.
 Unchanged apixaban is the major active substance-related component in human plasma with no active circulating metabolites present.
 Apixaban is a substrate of transport proteins, P-gp and breast cancer resistance protein (BCRP).
-
-No data on apixaban plasma protein binding specific to paediatric population is available.
 
 Elderly
 
@@ -104,7 +104,7 @@ Findings from a population pharmacokinetic analysis in patients who received api
 Differences in pharmacokinetic properties relating to ethnic origin and race were not studied in paediatric patients.
 Body weight
 
-Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight >120 kg was associated with approximately 30% lower exposure and body weight <50 kg was associated with approximately 30% higher exposure.
+Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
 
 Administration of apixaban to paediatric patients is based on a fixed-dose by weight-tier regimen.
 
@@ -119,19 +119,12 @@ This is consistent with the previously documented relationship in adults.
 
 [Eliquis 5 mg film-coated tablets]
 
-In adults, plasma protein binding in humans is approximately 87%.
-
 In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 15 below; each corresponds to an eGFR < 30 mL/min/1.73 m2 BSA for patients ≥ 2 years of age.
-
 Table 15: eGFR eligibility thresholds for study CV185325
-
-Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
 
 [Eliquis 0.15 mg granules in capsules for opening]
 
 Apixaban is rapidly absorbed, reaching maximum concentration (Cmax) in paediatric patients approximately 2 hours after single-dose administration.
-
-In paediatrics patients, apixaban has a total apparent clearance of about 3.0 L/h.
 
 In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 5 below; each corresponds to an eGFR < 30 mL/min/1.73 m2 BSA for patients ≥ 2 years of age.
 
@@ -139,7 +132,6 @@ Table 5: eGFR eligibility thresholds for study CV185325
 
 Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m2 did not participate in
 Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to
-
 In adults, there was no impact of impaired renal function on peak concentration of apixaban.
 
 In adult subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function.
@@ -151,12 +143,6 @@ In adults, exposure to apixaban was approximately 18% higher in females than in 
 In adults, when compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
 
 [Eliquis 0.5 mg coated granule in sachet]
-
-In paediatric patients, apixaban has a total apparent clearance of about 3.0 L/h.
-
-In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 5 below; each corresponds to an eGFR <30 mL/min/1.73 m2 BSA for patients ≥ 2 years of age.
-
-This per protocol threshold correspnded to the eGFR below which a prospective patient was considered to have “inadequate renal function” that precluded participation in Study CV185325.
 
 Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal insufficiency.
 

@@ -39,6 +39,8 @@ Iron oxide black
 
 [Eliquis 0.5 mg coated granule in sachet]
 
+Granule core
+
 Croscarmellose sodium (E468)
 Sodium laurilsulfate (E487)
 

@@ -35,4 +35,4 @@ Haemodialysis decreased apixaban AUC by 14% in adult subjects with end-stage ren
 
 [Eliquis 0.5 mg coated granule in sachet]
 
-Reversal of apixaban pharmacodynamic effects, as demonstrated by changes in the thrombin generation assay, was evident at the end of infusion and reached baseline values within 4 hours after the start of a 30 minutes 4-factor PCC infusion in healthy subjects.
+(all sentences already above)

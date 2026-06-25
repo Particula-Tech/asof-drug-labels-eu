@@ -7,6 +7,7 @@ EU/1/11/691/004
 EU/1/11/691/005
 EU/1/11/691/013
 EU/1/11/691/015
+EU/1/11/691/020
 
 [Eliquis 5 mg film-coated tablets]
 

@@ -42,9 +42,10 @@ The duration of overall therapy should be individualised after careful assessmen
 Treatment of VTE and prevention of recurrent VTE in paediatric patients
 Apixaban treatment for paediatric patients from 28 days to less than 18 years of age should be initiated following at least 5 days of initial parenteral anticoagulation therapy (see section 5.1).
 
-Treatment with apixaban in paediatric patients is based on weight-tiered dosing.The recommended dose of apixaban in paediatric patients weighing ≥ 35 kg is shown in Table 2.
+Treatment with apixaban in paediatric patients is based on weight-tiered dosing.
+The recommended dose of apixaban in paediatric patients weighing ≥ 35 kg is shown in Table 2.
 
-Table 2: Dose recommendation for treatment of VTE and prevention of recurrent VTE in paediatric patients weighing ≥ 35 kg
+Table 2: Dose recommendation for treatment of VTE and prevention of recurrent VTE in paediatric patients weighing ≥ 35 kg (after initial parenteral anticoagulation)
 
 |  | Days 1-7 |  | Day 8 and beyond |  |
 | --- | --- | --- | --- | --- |
@@ -70,6 +71,8 @@ Switching from Eliquis to VKA therapy
 When converting patients from Eliquis to VKA therapy, administration of Eliquis should be continued for at least 2 days after beginning VKA therapy.
 After 2 days of coadministration of Eliquis with VKA therapy, an INR should be obtained prior to the next scheduled dose of Eliquis.
 Coadministration of Eliquis and VKA therapy should be continued until the INR is ≥ 2.
+
+No data are available for paediatric patients.
 
 Elderly
 VTEp and VTEt – No dose adjustment required (see sections 4.4 and 5.2).
@@ -133,11 +136,12 @@ The dosing regimen should be reduced to 2.5 mg apixaban given twice daily for at
 If cardioversion is required before 5 doses of apixaban can be administered, a 10 mg loading dose should be given, followed by 5 mg twice daily.
 The dosing regimen should be reduced to a 5 mg loading dose followed by 2.5 mg twice daily if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment).
 The administration of the loading dose should be given at least 2 hours before cardioversion (see section 5.1).
+
 For all patients undergoing cardioversion, confirmation should be sought prior to cardioversion that the patient has taken apixaban as prescribed.
 Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
 
 Patients with NVAF and acute coronary syndrome (ACS) and/or percutaneous coronary intervention (PCI)
-There is limited experience of treatment with apixaban at the recommended dose for NVAF patients when used in combination with antiplatelet agents in patients with ACS and/or undergoing PCI after haemostasis is achieved (see sections 4.4, 5.1).
+There is limited experience of treatment with apixaban at the recommended dose for NVAF patients when used in combination with antiplatelet agents in patients with ACS and/or undergoing PCI after haemostasis is achieved (see sections 4.4 and 5.1).
 
 Paediatric population
 The safety and efficacy of Eliquis in paediatric patients aged 28 days to less than 18 years have not been established in indications other than treatment of venous thromboembolism (VTE) and prevention of recurrent VTE.
@@ -157,9 +161,6 @@ Alternatively, Eliquis tablets may be crushed and suspended in 60 mL of water or
 Crushed Eliquis tablets are stable in water, G5W, apple juice, and apple puree for up to 4 hours.
 
 [Eliquis 5 mg film-coated tablets]
-
-Treatment with apixaban in paediatric patients is based on weight-tiered dosing.
-The recommended dose of apixaban in paediatric patients weighing ≥ 35 kg is shown in Table 2.
 
 Missed dose for adults and paediatric patients
 
@@ -187,7 +188,7 @@ For patients weighing ≥ 35 kg, Eliquis 2.5 mg and 5 mg film coated tablets can
 Refer to the Eliquis 2.5 mg and 5 mg film coated tablets Summary of Product Characteristics for dosing instructions.
 
 For weight not listed in the dosing table, no dosing recommendation can be provided.
-Table 1: Dose recommendations for treatment of VTE and prevention of recurrent VTE in paediatric patients, by weight in kg
+Table 1: Dose recommendations for treatment of VTE and prevention of recurrent VTE in paediatric patients, by weight in kg (after initial parenteral anticoagulation)
 
 |  |  | Days 1-7 |  | Day 8 and beyond |  |
 | --- | --- | --- | --- | --- | --- |
@@ -203,7 +204,7 @@ Table 1: Dose recommendations for treatment of VTE and prevention of recurrent V
 
 Missed dose
 
-No data are available for paediatric patients.
+- for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg, a dose reduction is necessary (for details, refer to the Summary of Product Characteristics for Eliquis 2.5 mg film-coated tablets).
 
 Eliquis is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 4.3).
 

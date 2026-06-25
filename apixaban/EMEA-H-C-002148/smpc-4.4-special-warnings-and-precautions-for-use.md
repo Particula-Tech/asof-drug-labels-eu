@@ -34,9 +34,9 @@ Concomitant use of ASA increased the risk of ISTH (International Society on Thro
 In a clinical study of high-risk post acute coronary syndrome patients without atrial fibrillation, characterised by multiple cardiac and non-cardiac comorbidities, who received ASA or the combination of ASA and clopidogrel, a significant increase in risk of ISTH major bleeding was reported for apixaban (5.13% per year) compared to placebo (2.04% per year).
 In study CV185325, no clinically important bleeding events were reported in the 12 paediatric patients treated with apixaban and ASA ≤ 165 mg daily concomitantly.
 
-Use of thrombolytic agents for the treatment of acute ischemic stroke
+Use of thrombolytic agents for the treatment of acute ischaemic stroke
 
-There is very limited experience with the use of thrombolytic agents for the treatment of acute ischemic stroke in patients administered apixaban (see section 4.5).
+There is very limited experience with the use of thrombolytic agents for the treatment of acute ischaemic stroke in patients administered apixaban (see section 4.5).
 
 Patients with prosthetic heart valves
 
@@ -117,7 +117,7 @@ Also, the coadministration of apixaban with ASA in elderly patients should be us
 
 Body weight
 
-In adults low body weight (< 60 kg) may increase haemorrhagic risk (see section 5.2).
+In adults, low body weight (< 60 kg) may increase haemorrhagic risk (see section 5.2).
 
 Patients with hepatic impairment
 
@@ -170,7 +170,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 [Eliquis 5 mg film-coated tablets]
 
-Transfusion of fresh frozen plasma,administration of prothrombin complex concentrates (PCCs),or recombinant factor VIIa may be considered.
+Transfusion of fresh frozen plasma, administration of prothrombin complex concentrates (PCCs),or recombinant factor VIIa may be considered.
 
 In patients with atrial fibrillation and conditions that warrant mono or dual antiplatelet therapy, a careful assessment of the potential benefits against the potential risks should be made before combining this therapy with Eliquis.
 
@@ -181,15 +181,13 @@ For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE
 
 Also, the co-administration of apixaban with ASA in elderly patients should be used cautiously because of a potentially higher bleeding risk.
 
-In adults, low body weight (< 60 kg) may increase haemorrhagic risk (see section 5.2).
-
 These medicinal products may increase apixaban exposure by 2-fold (see section 4.5) or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment).
 
 - for the prevention of stroke and systemic embolism in patients with NVAF and for the prevention of recurrent DVT and PE, apixaban should be used with caution;
 
 [Eliquis 0.15 mg granules in capsules for opening]
 
-Transfusion of fresh frozen plasma,administration of prothrombin complex concentrates (PCCs),or recombinant factor VIIa may also be considered.
+Transfusion of fresh frozen plasma, administration of prothrombin complex concentrates (PCCs),or recombinant factor VIIa may also be considered.
 However, there is no clinical experience with the use of 4factor PCC products to reverse bleeding in paediatric and adult patients who have received apixaban.
 
 Patients with prosthetic heart valve
