@@ -39,9 +39,9 @@ Patients may continue lenalidomide and dexamethasone therapy until disease progr
 
 When platelets Recommended course
 Falls to < 25 x 109/L Stop lenalidomide dosing for remainder of cycleª
-Returns to ≥ 50 x 109/L Decrease by one dose level when dosing
+Returns to ≥ 50 x 109/L Decrease by one dose level when dosing resumed
 
-resumed at next cycle ª If Dose limiting toxicity (DLT) occurs on > day 15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
+at next cycle ª If Dose limiting toxicity (DLT) occurs on > day 15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
