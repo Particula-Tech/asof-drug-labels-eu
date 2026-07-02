@@ -7,4 +7,5 @@ Each pack contains 1 bottle.
 
 100 ml brown glass bottle (type III) with a white child-resistant HDPE screw cap with sealing and tamper evidence.
 Each bottle contains 90 ml oral suspension.
-Each pack contains one bottle, one LDPE bottle adapter and 3 polypropylene (PP) oral syringes (1 ml, 3 ml and 5 ml).
+Each pack contains one bottle, one LDPE bottle adapter and 3 polypropylene (PP) oral syringes
+(1.5 ml, 3 ml and 6 ml).

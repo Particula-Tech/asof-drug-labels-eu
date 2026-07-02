@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Other alimentary tract and metabolism products, Vario
 Mechanism of action
 Nitisinone is a competitive inhibitor of 4-hydroxyphenylpyruvate dioxygenase, the second step in the tyrosine metabolism.
 By inhibiting the normal catabolism of tyrosine in patients with HT-1 and AKU, nitisinone prevents the accumulation of harmful metabolites downstream of 4-hydroxyphenylpyruvate dioxygenase.
-
 The biochemical defect in HT-1 is a deficiency of fumarylacetoacetate hydrolase, which is the final enzyme of the tyrosine catabolic pathway.
 Nitisinone prevents the accumulation of the toxic intermediates maleylacetoacetate and fumarylacetoacetate.
 These intermediates are otherwise converted to the toxic metabolites succinylacetone and succinylacetoacetate.

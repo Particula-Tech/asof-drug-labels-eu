@@ -48,60 +48,51 @@ It is recommended that if nitisinone treatment is initiated with food, this shou
 [Orfadin 4 mg/ml oral suspension]
 
 The suspension is administered in the patient’s mouth with an oral syringe without dilution.
-A 1 ml,
-3 ml and 5 ml oral syringes are included in the pack to measure the dose in ml in accordance with the prescribed posology.
-The oral syringes are graduated in 0.01 ml, 0.1 ml and 0.2 ml steps respectively.
+A 1.5 ml, 3 ml and 6 ml oral syringes are included in the pack to measure the dose in ml in accordance with the prescribed posology.
+The oral syringes are graduated in 0.05 ml, 0.1 ml and 0.25 ml steps respectively.
 The table below shows the dose conversion (mg/ml) for the three oral syringes sizes.
 Dose conversion tables respectively for the three oral syringe sizes:
 
-| 1-ml oral syringe (0.01 ml graduation) | Dose Orfadin |  |
+| 1.5-ml oral syringe (0.05 ml graduation) | Dose Orfadin |  |
 | --- | --- | --- |
 |  | mg | ml |
 |  | 1.00 | 0.25 |
-|  | 1.25 | 0.31 |
-|  | 1.50 | 0.38 |
-|  | 1.75 | 0.44 |
+|  | 1.20 | 0.30 |
+|  | 1.40 | 0.35 |
+|  | 1.60 | 0.40 |
+|  | 1.80 | 0.45 |
 |  | 2.00 | 0.50 |
-|  | 2.25 | 0.56 |
-|  | 2.50 | 0.63 |
-|  | 2.75 | 0.69 |
+|  | 2.20 | 0.55 |
+|  | 2.40 | 0.60 |
+|  | 2.60 | 0.65 |
+|  | 2.80 | 0.70 |
 |  | 3.00 | 0.75 |
-|  | 3.25 | 0.81 |
-|  | 3.50 | 0.88 |
-|  | 3.75 | 0.94 |
+|  | 3.20 | 0.80 |
+|  | 3.40 | 0.85 |
+|  | 3.60 | 0.90 |
+|  | 3.80 | 0.95 |
 |  | 4.00 | 1.00 |
 
-| 3-ml oral syringe (0.1 ml graduation) | Dose Orfadin |  |
-| --- | --- | --- |
-|  | mg | ml |
-|  | 4.5 | 1.1 |
-|  | 5.0 | 1.3 |
-|  | 5.5 | 1.4 |
-|  | 6.0 | 1.5 |
-|  | 6.5 | 1.6 |
-|  | 7.0 | 1.8 |
-|  | 7.5 | 1.9 |
-|  | 8.0 | 2.0 |
-|  | 8.5 | 2.1 |
-|  | 9.0 | 2.3 |
-|  | 9.5 | 2.4 |
-|  | 10.0 | 2.5 |
-|  | 10.5 | 2.6 |
-|  | 11.0 | 2.8 |
-|  | 11.5 | 2.9 |
-|  | 12.0 | 3.0 |
-
-| 5-ml oral syringe (0.2 ml graduation) | Dose Orfadin |  |
-| --- | --- | --- |
-|  | mg | ml |
-|  | 13.0 | 3.2 |
-|  | 14.0 | 3.6 |
-|  | 15.0 | 3.8 |
-|  | 16.0 | 4.0 |
-|  | 17.0 | 4.2 |
-|  | 18.0 | 4.6 |
-|  | 19.0 | 4.8 |
-|  | 20.0 | 5.0 |
+| 3-ml oral syringe (0.1 ml graduation) | Dose Orfadin |  | 6-ml oral Dose Orfadin syringe mg ml (0.25 ml 12.0 3.00 graduation) 13.0 3.25 14.0 3.50 15.0 3.75 16.0 4.00 17.0 4.25 18.0 4.50 19.0 4.75 20.0 5.00 21.0 5.25 22.0 5.50 23.0 5.75 24.0 6.00 | 6-ml oral syringe (0.25 ml graduation) | Dose Orfadin |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | mg | ml |  |  | mg | ml |
+|  | 4.0 | 1.0 |  |  | 12.0 | 3.00 |
+|  | 4.5 | 1.1 |  |  | 13.0 | 3.25 |
+|  | 5.0 | 1.3 |  |  | 14.0 | 3.50 |
+|  | 5.5 | 1.4 |  |  | 15.0 | 3.75 |
+|  | 6.0 | 1.5 |  |  | 16.0 | 4.00 |
+|  | 6.5 | 1.6 |  |  | 17.0 | 4.25 |
+|  | 7.0 | 1.8 |  |  | 18.0 | 4.50 |
+|  | 7.5 | 1.9 |  |  | 19.0 | 4.75 |
+|  | 8.0 | 2.0 |  |  | 20.0 | 5.00 |
+|  | 8.5 | 2.1 |  |  | 21.0 | 5.25 |
+|  | 9.0 | 2.3 |  |  | 22.0 | 5.50 |
+|  | 9.5 | 2.4 |  |  | 23.0 | 5.75 |
+|  | 10.0 | 2.5 |  |  | 24.0 | 6.00 |
+|  | 10.5 | 2.6 |  |  |  |  |
+|  | 11.0 | 2.8 |  |  |  |  |
+|  | 11.5 | 2.9 |  |  |  |  |
+|  | 12.0 | 3.0 |  |  |  |  |
 
 Important information about instructions for use:
 Re-dispersing is required before each use by vigorous shaking.
