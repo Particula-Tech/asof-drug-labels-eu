@@ -7,9 +7,10 @@ Adults
 After oral administration of mirabegron in healthy volunteers mirabegron is absorbed to reach peak plasma concentrations (Cmax) between 3 and 4 hours.
 The absolute bioavailability increased from 29% at a dose of 25 mg to 35% at a dose of 50 mg.
 Mean Cmax and AUC increased more than dose proportionally over the dose range.
-In the overall adult population of males and females, a 2-fold increase in dose from 50 mg to 100 mg mirabegron increased Cmax and AUCtau by approximately 2.9-and 2.6-fold, respectively, whereas a 4-fold increase in dose from 50 mg to 200 mg mirabegron increased Cmax and AUCtau by approximately 8.4- and 6.5-fold.
+In the overall adult population of males and females, a 2-fold increase in dose from 50 mg to 100 mg mirabegron increased Cmax and AUCtau by approximately 2.9- and 2.6-fold, respectively, whereas a 4-fold increase in dose from 50 mg to 200 mg mirabegron increased Cmax and AUCtau by approximately 8.4- and 6.5-fold.
 Steady-state concentrations are achieved within 7 days of once daily dosing with mirabegron.
 After once daily administration, plasma exposure of mirabegron at steady-state is approximately double that seen after a single dose.
+
 Paediatric population
 
 The median Tmax of mirabegron following oral administration of a single dose of mirabegron tablets or oral suspension in patients under fed state was 4-5 hours.
@@ -17,7 +18,6 @@ Population pharmacokinetic analysis predicted that the median Tmax of mirabegron
 
 The bioavailability of the oral suspension formulation is lower than that of the tablet.
 The ratio of the population mean exposure (AUCtau) of the oral suspension to the tablet is approximately 45%.
-
 Effect of food on absorption
 
 Adults
@@ -55,13 +55,13 @@ Mirabegron is metabolised via multiple pathways involving dealkylation, oxidatio
 Mirabegron is the major circulating component following a single dose of 14C-mirabegron.
 Two major metabolites were observed in adult human plasma; both are phase 2 glucuronides representing 16% and 11% of total exposure.
 These metabolites are not pharmacologically active.
+
 Based on in vitro studies, mirabegron is unlikely to inhibit the metabolism of co-administered medicinal products metabolised by the following cytochrome P450 enzymes: CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP2E1 because mirabegron did not inhibit the activity of these enzymes at clinically relevant concentrations.
 Mirabegron did not induce CYP1A2 or CYP3A.
 Mirabegron is predicted not to cause clinically relevant inhibition of OCT-mediated drug transport.
 
 Although in vitro studies suggest a role for CYP2D6 and CYP3A4 in the oxidative metabolism of mirabegron, in vivo results indicate that these isozymes play a limited role in the overall elimination.
 In vitro and ex vivo studies have shown the involvement from butyrylcholinesterase, UGT and possibly alcohol dehydrogenase (ADH) in the metabolism of mirabegron, in addition to CYP3A4 and CYP2D6.
-
 CYP2D6 polymorphism
 In healthy adult subjects who are genotypically poor metabolisers of CYP2D6 substrates (used as a surrogate for CYP2D6 inhibition), mean Cmax and AUCinf of a single 160 mg dose of a mirabegron IR formulation were 14% and 19% higher than in extensive metabolisers, indicating that CYP2D6 genetic polymorphism has minimal impact on the mean plasma exposure to mirabegron.
 Interaction of mirabegron with a known CYP2D6 inhibitor is not expected and was not studied.
@@ -96,6 +96,7 @@ Paediatric population
 
 In patients 3 to less than 18 years of age, age was not predicted to have any impact on key mirabegron pharmacokinetic parameters after accounting for differences in body weight.
 Models including age did not result in meaningful improvements to the paediatric population pharmacokinetic model, indicating that inclusion of body weight was sufficient to address differences in mirabegron pharmacokinetics due to age.
+
 Gender
 
 Adults
@@ -106,7 +107,6 @@ Gender differences in Cmax and AUC are attributed to differences in body weight 
 Paediatric population
 
 Gender has no meaningful impact on mirabegron pharmacokinetics in the paediatric population from 3 to less than 18 years of age.
-
 Race
 
 The pharmacokinetics of mirabegron in adults are not influenced by race.

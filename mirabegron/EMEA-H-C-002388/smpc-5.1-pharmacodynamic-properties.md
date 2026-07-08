@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Urologicals, drugs for urinary frequency and incontinence, ATC code: G04BD12
+Pharmacotherapeutic group: Urologicals, drugs for urinary frequency and incontinence, ATC code: G04BD12.
 
 Mechanism of action
 
@@ -234,10 +234,11 @@ FAS-I: Subset of FAS who also had at least 1 incontinence episode in the baselin
 Neurogenic detrusor overactivity in paediatric patients
 Efficacy of mirabegron tablets and oral suspension was evaluated in a 52-week, open-label, baseline-controlled, multicentre, dose titration study for the treatment of NDO in paediatric patients.
 Patients had a diagnosis of NDO with involuntary detrusor contractions with detrusor pressure increase greater than 15 cm H2O and performed clean intermittent catheterisation (CIC).
-Patients ≥ 35 kg received tablets and patients < 35 kg (or ≥ 35 kg but unable to tolerate tablets) received oral suspension.
+Patients
+≥ 35 kg received tablets and patients < 35 kg (or ≥ 35 kg but unable to tolerate tablets) received oral suspension.
 For all patients, mirabegron was administered orally once daily with food.
-The starting dose (PED25) was a 25 mg tablet or between 3-6 ml of oral suspension (depending on patient weight).
-This dose was up-titrated to PED50, a 50 mg tablet or between 6-11 ml of oral suspension (depending on body weight).
+The starting dose was a 25 mg tablet or between 3-6 ml of oral suspension (depending on patient weight).
+This dose was up-titrated to 50 mg tablet or between 6-11 ml of oral suspension (depending on body weight).
 The dose titration period was a maximum of 8 weeks followed by a dose maintenance period of at least 52 weeks.
 
 A total of 86 patients aged 3 to less than 18 years of age received mirabegron.
@@ -298,8 +299,24 @@ Table 8: Patient- or clinician-reported questionnaire endpoints in paediatric pa
 * N is the number of patients who took at least one dose and provided valid values for MCC at baseline and week 24.
 † Number of patients (children/adolescents) with data available for both baseline and week 24.
 PIN-Q score: n=24/21, Total PGI-S score: n=25/22; Total CGI-C at week 24: n=41/24.
-
 Paediatric population
+
+Overactive bladder
+Efficacy of mirabegron tablets and oral suspension was evaluated in a 12-week, double-blind, randomised, multicentre, parallel group, placebo-controlled sequential dose titration study for the treatment of OAB in paediatric patients (5 to less than 18 years of age).
+Patients ≥ 35 kg received tablets and patients < 35 kg (or ≥ 35 kg but unable to swallow tablets) received oral suspension.
+For all patients, mirabegron was administered orally once daily with food.
+The starting dose was a 25 mg tablet or between 3‑6 ml of oral suspension (depending on patient weight).
+This dose was up‑titrated to 50 mg tablet or between 6‑11 ml of oral suspension (depending on patient weight).
+Dose titration to the higher dose was conducted after 4 weeks on treatment, unless the investigator decided otherwise.
+
+A total of 23 children (aged 5 to less than 12 years) and 3 adolescents (aged 12 to less than 18 years of age) received study drug: 13 subjects received placebo and 13 subjects received mirabegron.
+Ten of the 12 subjects in the placebo group and 9 of 11 subjects in the mirabegron group completed the study through 12 weeks of treatment.
+
+The primary efficacy endpoint was the change from baseline in the mean number of micturitions per 24 hours after 12 weeks of treatment and was assessed only in children (aged 5 to less than 12 years).
+Due to the small number of subjects, a proper assessment of the efficacy endpoints was not possible, and the observed results were inconclusive.
+
+The adjusted LS mean (SEM) change from baseline to week 12/end of treatment in the frequency of micturition events per 24 hours was -3.84 (0.89) in children on placebo and -1.62 (0.89) in children on mirabegron.
+The LS mean (SEM) difference between treatment groups (placebo minus mirabegron) was not statistically significant: 2.22 (1.34) (90% CI: -0.15, 4.59; P = 0.121).
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Betmiga in all subsets of the paediatric population in “Treatment of idiopathic overactive bladder” (see section 4.2 for information on paediatric use).
 

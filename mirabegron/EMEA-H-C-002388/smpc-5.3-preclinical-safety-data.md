@@ -11,14 +11,11 @@ The main findings in rabbit embryofetal development studies included malformatio
 In addition, malformations of the lung (absent accessory lobe of the lung) and increased post-implantation loss were observed in the rabbit at systemic exposures 14-fold higher than observed at the MHRD, while in the rat reversible effects on ossification were noted (wavy ribs, delayed ossification, decreased number of ossified sternebrae, metacarpi or metatarsi) at systemic exposures 22-fold higher than observed at the MHRD.
 The observed embryofetal toxicity occurred at doses associated with maternal toxicity.
 The cardiovascular malformations observed in the rabbit were shown to be mediated via activation of the beta 1-adrenoceptor.
+
 The overall safety profile seen in juvenile rats was comparable to that observed in adult animals.
+Juvenile rats orally administered mirabegron for 13 weeks showed elevated liver enzymes with an increase in liver weights without histopathological findings at systemic exposures approximately 12-fold higher than the projected human systemic exposure in children.
 Repeat dose safety studies performed in juvenile rats showed no effect on physical development or sexual maturation.
 Mirabegron administration from weaning through sexual maturation had no effect on mating ability, fertility or embryofoetal development.
-Mirabegron administration increased lipolysis and food consumption in juvenile rats.
+Mirabegron administration increased lipolysis and food consumption and decreased body weight gain in juvenile rats.
 
 Pharmacokinetic studies performed with radio-labelled mirabegron have shown that the parent compound and/or its metabolites are excreted in the milk of rats at levels that were approximately 1.7-fold higher than plasma levels at 4 hours post administration (see section 4.6).
-
-[Betmiga 8 mg/ml granules for prolonged-release oral suspension]
-
-The main findings in rabbit embryofoetal development studies included malformations of the heart (dilated aorta, cardiomegaly) at systemic exposures 36-fold higher than observed at the MHRD.
-The observed embryofoetal toxicity occurred at doses associated with maternal toxicity.

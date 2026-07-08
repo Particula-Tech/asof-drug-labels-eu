@@ -17,5 +17,5 @@ Each ml of oral suspension contains 8 mg of mirabegron.
 
 Excipient(s) with known effect
 
-Each ml of oral suspension contains 0.5 mg ethyl parahydroxybenzoate (E214)
-Each ml of oral suspension contains 1.4 mg methyl parahydroxybenzoate (E218)
+Each ml of oral suspension contains 0.5 mg ethyl parahydroxybenzoate (E214).
+Each ml of oral suspension contains 1.4 mg methyl parahydroxybenzoate (E218).

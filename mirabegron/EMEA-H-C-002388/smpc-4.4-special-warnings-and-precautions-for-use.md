@@ -46,6 +46,7 @@ This medicinal product is not recommended for use in patients with severe renal 
 Mirabegron has not been studied in patients with severe hepatic impairment (Child-Pugh Class C) and, therefore, it is not recommended for use in this patient population.
 
 Mirabegron, at therapeutic doses, has not demonstrated clinically relevant QT prolongation in clinical studies (see section 5.1).
+
 Patients with bladder outlet obstruction and patients taking antimuscarinics medicinal products for overactive bladder (OAB)
 
 A controlled clinical safety study in patients with BOO did not demonstrate increased urinary retention in patients treated with mirabegron; however, mirabegron should be administered with caution to patients with clinically significant BOO.

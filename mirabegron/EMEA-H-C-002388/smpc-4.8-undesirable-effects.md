@@ -3,7 +3,8 @@
 Summary of the safety profile
 
 The safety of Betmiga was evaluated in 8 433 adult patients with OAB, of which 5 648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received Betmiga for at least 1 year (365 days).
-In the three 12-week phase 3 double blind, placebo-controlled studies, 88% of the patients completed treatment with this medicinal product, and 4% of the patients discontinued due to adverse events.
+In the three 12-week phase 3 double blind, placebo-controlled studies,
+88% of the patients completed treatment with this medicinal product, and 4% of the patients discontinued due to adverse events.
 Most adverse reactions were mild to moderate in severity.
 
 The most common adverse reactions reported for adult patients treated with Betmiga 50 mg during the three 12-week phase 3 double blind, placebo-controlled studies are tachycardia and urinary tract infections.
@@ -42,12 +43,15 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Paediatric population
 
-The safety of mirabegron tablets and oral suspension was evaluated in 86 paediatric patients aged 3 to less than 18 years with NDO in a 52-week, open-label, baseline-controlled, multicentre, dose titration study.
+The safety of mirabegron tablets and oral suspension was evaluated in 86 paediatric patients aged 3 to less than 18 years with neurogenic detrusor overactivity in a 52-week, open-label, baseline-controlled, multicentre, dose titration study.
 The most commonly reported adverse reactions observed in the paediatric population were urinary tract infection, constipation, and nausea.
 
 In the paediatric patients with NDO, no severe adverse reactions were reported.
+The safety of mirabegron tablets and oral suspension was evaluated in 26 paediatric patients aged 5 to less than 18 years of age with overactive bladder in a 12-week, double-blind, randomised, multicentre, parallel group, placebo-controlled sequential dose titration study.
+The most commonly reported adverse reactions observed in the paediatric population were nasopharyngitis, fatigue and mood swing.
 
 Overall, the safety profile in children and adolescents is similar to that observed in adults.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -57,11 +61,10 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Betmiga 8 mg/ml granules for prolonged-release oral suspension]
 
 The safety of mirabegron tablets was evaluated in 8 433 adult patients with OAB, of which 5 648 received at least one dose of mirabegron in the phase 2/3 clinical program, and 622 patients received mirabegron for at least 1 year (365 days).
+In the three 12-week phase 3 double blind, placebo-controlled studies, 88% of the patients completed treatment with this medicinal product, and 4% of the patients discontinued due to adverse events.
 
 The most common adverse reactions reported for adult patients treated with mirabegron 50 mg during the three 12-week phase 3 double blind, placebo-controlled studies are tachycardia and urinary tract infections.
 The frequency of tachycardia was 1.2% in patients receiving mirabegron 50 mg.
 Tachycardia led to discontinuation in 0.1% patients receiving mirabegron 50 mg.
 The frequency of urinary tract infections was 2.9% in patients receiving mirabegron 50 mg.
 Urinary tract infections led to discontinuation in none of the patients receiving mirabegron 50 mg.
-
-The safety of mirabegron oral suspension and tablets was evaluated in 86 paediatric patients aged 3 to less than 18 years with NDO in a 52-week, open-label, baseline-controlled, multicentre, dose titration study.

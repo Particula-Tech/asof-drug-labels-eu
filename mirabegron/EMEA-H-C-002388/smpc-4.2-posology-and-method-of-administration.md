@@ -16,6 +16,8 @@ The recommended starting dose of Betmiga prolonged-release tablets is 25 mg once
 If needed, the dose may be increased to a maximum dose of 50 mg once daily with food after 4 to 8 weeks.
 During long-term therapy, patients should be periodically evaluated for treatment continuation and for potential dose adjustment, at least annually or more frequently if indicated.
 
+Missed dose
+
 Patients should be instructed to take any missed doses, unless more than 12 hours have passed since the missed dose.
 If more than 12 hours have passed, the missed dose can be skipped, and the next dose should be taken at the usual time.
 
@@ -72,8 +74,8 @@ No dose adjustment is necessary according to gender.
 Paediatric population
 
 Overactive bladder
-The safety and efficacy of mirabegron in children below 18 years of age with OAB have not yet been established.
-No data are available.
+The safety and efficacy of mirabegron in children below 18 years of age with OAB have not been established.
+Currently available data are described in section 5.1 but no recommendation on a posology can be made.
 
 Neurogenic detrusor overactivity
 The safety and efficacy of mirabegron in children below 3 years of age have not yet been established.
