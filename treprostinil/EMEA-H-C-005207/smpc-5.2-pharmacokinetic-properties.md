@@ -22,6 +22,7 @@ Three are products of oxidation of the 3-hydroxyloctyl side chain, one is a gluc
 Only 3.7% of the dose was recovered in the urine as unchanged parent drug.
 
 An in vitro study demonstrated no inhibitory potential of treprostinil to human hepatic microsomal cytochrome P450 isoenzymes (CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A).
+
 Moreover, administration of treprostinil had no inducing effect on hepatic microsomal protein, total cytochrome (CYP) P 450 content or on the activities of the isoenzymes CYP1A, CYP2B and CYP3A.
 
 Hepatic insufficiency

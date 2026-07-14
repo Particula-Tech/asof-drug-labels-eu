@@ -5,12 +5,12 @@ General therapy
 The decision to initiate therapy with treprostinil should take into consideration the high probability that continuous infusion will have to be continued for a prolonged period.
 Thus the patient's ability to accept and to be responsible for an indwelling catheter and infusion device should be carefully considered.
 The clinical team responsible for the therapy must ensure that the patient is fully trained and competent to use the chosen infusion device (see section 4.2).
+
 Treprostinil is a potent pulmonary and systemic vasodilator.
 In subjects presenting with low systemic arterial pressure, treprostinil treatment may increase the risk of systemic hypotension.
 Treatment is not recommended for patients with systolic arterial pressure of less than 85 mmHg.
 
 It is recommended to monitor systemic blood pressure and heart rate during any change in dose with instructions to stop the infusion if symptoms of hypotension develop, or a systolic blood pressure of 85 mmHg or lower is detected.
-
 If a patient develops pulmonary oedema while on treprostinil, the possibility of a concomitant pulmonary veno-occlusive disease should be considered.
 The treatment should be stopped as pulmonary veno-occlusive disease is a contraindication for therapy with treprostinil (see section 4.3).
 
@@ -49,4 +49,5 @@ This medicinal product contains 39.1 mg sodium per 10 ml vial of 5 mg/ml, equiva
 
 Trepulmix 10 mg/ml solution for infusion
 This medicinal product contains 37.4 mg sodium per 10 ml vial of 10 mg/ml, equivalent to 1.9% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
 To be taken into consideration by patients on a controlled sodium diet.

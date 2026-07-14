@@ -29,12 +29,11 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | Back pain | Uncommon |
 | General disorders and administration site conditions | Infusion site pain, infusion site reaction, bleeding or haematoma | Very common |
 |  | Infusion site abscess | Common |
-
-Infusion site infection Common
-Oedema Common
-Flushing Common
-Decreased appetite Uncommon
-Fatigue Uncommon
+|  | Infusion site infection | Common |
+|  | Oedema | Common |
+|  | Flushing | Common |
+|  | Decreased appetite | Uncommon |
+|  | Fatigue | Uncommon |
 
 Description of selected adverse reactions
 Bleeding events

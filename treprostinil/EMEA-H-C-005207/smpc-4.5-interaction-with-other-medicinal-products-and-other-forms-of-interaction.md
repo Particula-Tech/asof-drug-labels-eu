@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Concomitant administration with diuretics, antihypertensive agents, or other vasodilators
-
 Concomitant administration of treprostinil with diuretics, antihypertensive agents or other vasodilators increases the risk of systemic hypotension.
 
 Concomitant administration with platelet aggregation inhibitors, including NSAIDs and anticoagulants
