@@ -18,7 +18,7 @@ It should be noted that GIST patients may have hepatic metastases which could le
 
 Cases of liver injury, including hepatic failure and hepatic necrosis, have been observed with imatinib.
 When imatinib is combined with high dose chemotherapy regimens, an increase in serious hepatic reactions has been detected.
-Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see section 4.5 and 4.8).
+Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see sections 4.5 and 4.8).
 
 Fluid retention
 
@@ -83,7 +83,7 @@ Liver function (transaminases, bilirubin, alkaline phosphatase) should be monito
 In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients.
 Patients with renal impairment should be given the minimum starting dose.
 Patients with severe renal impairment should be treated with caution.
-The dose can be reduced if not tolerated (see section 4.2 and 5.2).
+The dose can be reduced if not tolerated (see sections 4.2 and 5.2).
 
 Long-term treatment with imatinib may be associated with a clinically significant decline in renal function.
 Renal function should, therefore, be evaluated prior to the start of imatinib therapy and closely monitored during therapy, with particular attention to those patients exhibiting risk factors for renal dysfunction.

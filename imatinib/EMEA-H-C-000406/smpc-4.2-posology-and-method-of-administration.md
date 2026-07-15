@@ -2,11 +2,14 @@
 
 Therapy should be initiated by a physician experienced in the treatment of patients with haematological malignancies and malignant sarcomas, as appropriate.
 
+For doses other than 400 mg and 800 mg (see dosage recommendation below), 100 mg and 400 mg divisible tablets are available.
+
 The prescribed dose should be administered orally with a meal and a large glass of water to minimise the risk of gastrointestinal irritations.
 Doses of 400 mg or 600 mg should be administered once daily, whereas a daily dose of 800 mg should be administered as 400 mg twice a day, in the morning and in the evening.
-For patients (children) unable to swallow the capsules, their content may be diluted in a glass of either still water or apple juice.
-Since studies in animals have shown reproductive toxicity, and the potential risk for the human foetus is unknown, women of child-bearing potential who open capsules should be advised to handle the contents with caution and avoid skin-eye contact or inhalation (see section 4.6).
-Hands should be washed immediately after handling open capsules.
+
+For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of still water or apple juice.
+The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 ml for a 100 mg tablet, and 200 ml for a 400 mg tablet) and stirred with a spoon.
+The suspension should be administered immediately after complete disintegration of the tablet(s).
 
 Posology for CML in adult patients
 
@@ -21,7 +24,6 @@ Blast crisis is defined as blasts ≥ 30% in blood or bone marrow or extramedull
 
 Treatment duration: In clinical trials, treatment with Glivec was continued until disease progression.
 The effect of stopping treatment after the achievement of a complete cytogenetic response has not been investigated.
-
 Dose increases from 400 mg to 600 mg or 800 mg in patients with chronic phase disease, or from 600 mg to a maximum of 800 mg (given as 400 mg twice daily) in patients with accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
 
@@ -32,6 +34,7 @@ The dose of 340 mg/m2 daily is recommended for children with chronic phase CML a
 Treatment can be given as a once daily dose or alternatively the daily dose may be split into two administrations – one in the morning and one in the evening.
 The dose recommendation is currently based on a small number of paediatric patients (see sections 5.1 and 5.2).
 There is no experience with the treatment of children below 2 years of age.
+
 Dose increases from 340 mg/m2 daily to 570 mg/m2 daily (not to exceed the total dose of 800 mg) may be considered in children in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
 
@@ -56,7 +59,6 @@ The recommended dose of Glivec is 400 mg/day for adult patients with MDS/MPD.
 
 Treatment duration: In the only clinical trial performed up to now, treatment with Glivec was continued until disease progression (see section 5.1).
 At the time of analysis, the treatment duration was a median of 47 months (24 days - 60 months).
-
 Posology for HES/CEL
 
 The recommended dose of Glivec is 100 mg/day for adult patients with HES/CEL.
@@ -64,6 +66,7 @@ The recommended dose of Glivec is 100 mg/day for adult patients with HES/CEL.
 Dose increase from 100 mg to 400 mg may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
 Treatment should be continued as long as the patient continues to benefit.
+
 Posology for GIST
 
 The recommended dose of Glivec is 400 mg/day for adult patients with unresectable and/or metastatic malignant GIST.
@@ -127,9 +130,7 @@ Liver dysfunction classification:
 | Mild | Total bilirubin: = 1.5 ULN AST: >ULN (can be normal or <ULN if total bilirubin is >ULN) |
 | Moderate | Total bilirubin: >1.5–3.0 ULN AST: any |
 | Severe | Total bilirubin: >3–10 ULN AST: any |
-
-ULN = upper limit of normal for the institution
-AST = aspartate aminotransferase
+| ULN = upper limit of normal for the institution AST = aspartate aminotransferase |  |
 
 Renal insufficiency
 Patients with renal dysfunction or on dialysis should be given the minimum recommended dose of 400 mg daily as starting dose.
@@ -141,11 +142,3 @@ Older people
 Imatinib pharmacokinetics have not been specifically studied in older people.
 No significant age-related pharmacokinetic differences have been observed in adult patients in clinical trials which included over 20% of patients age 65 and older.
 No specific dose recommendation is necessary in older people.
-
-[Glivec 100 mg film-coated tablets]
-
-For doses other than 400 mg and 800 mg (see dosage recommendation below), 100 mg and 400 mg divisible tablets are available.
-
-For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of still water or apple juice.
-The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 ml for a 100 mg tablet, and 200 ml for a 400 mg tablet) and stirred with a spoon.
-The suspension should be administered immediately after complete disintegration of the tablet(s).

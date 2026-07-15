@@ -8,9 +8,9 @@ Events that have been reported at different dose ranges are as follows:
 
 Adult population
 
-1200 to 1600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhoea, rash, erythema, oedema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
-1800 to 3200 mg (as high as 3200 mg daily for 6 days): Weakness, myalgia, increased creatine phosphokinase, increased bilirubin, gastrointestinal pain.
-6400 mg (single dose): One case reported in the literature of one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, decreased neutrophil count, increased transaminases.
+1 200 to 1 600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhoea, rash, erythema, oedema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
+1 800 to 3 200 mg (as high as 3 200 mg daily for 6 days): Weakness, myalgia, increased creatine phosphokinase, increased bilirubin, gastrointestinal pain.
+6 400 mg (single dose): One case reported in the literature of one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, decreased neutrophil count, increased transaminases.
 8 to 10 g (single dose): Vomiting and gastrointestinal pain have been reported.
 
 Paediatric population

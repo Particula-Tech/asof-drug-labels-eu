@@ -21,6 +21,7 @@ Imatinib was not considered genotoxic when tested in an in vitro bacterial cell 
 Positive genotoxic effects were obtained for imatinib in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity (chromosome aberration) in the presence of metabolic activation.
 Two intermediates of the manufacturing process, which are also present in the final product, are positive for mutagenesis in the Ames assay.
 One of these intermediates was also positive in the mouse lymphoma assay.
+
 In a study of fertility, in male rats dosed for 70 days prior to mating, testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 This was not seen at doses ≤ 20 mg/kg.
 A slight to moderate reduction in spermatogenesis was also observed in the dog at oral doses ≥ 30 mg/kg.
@@ -37,7 +38,6 @@ The no observed effect level (NOEL) for both the maternal animals and the F1 gen
 Imatinib was teratogenic in rats when administered during organogenesis at doses ≥ 100 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
-
 No new target organs were identified in the rat juvenile development toxicology study (day 10 to 70 postpartum) with respect to the known target organs in adult rats.
 In the juvenile toxicology study, effects upon growth, delay in vaginal opening and preputial separation were observed at approximately 0.3 to 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
 In addition, mortality was observed in juvenile animals (around weaning phase) at approximately 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.

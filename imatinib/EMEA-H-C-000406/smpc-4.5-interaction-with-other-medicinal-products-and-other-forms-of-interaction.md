@@ -27,7 +27,7 @@ Dose adjustments do not seem to be necessary when imatinib is co-administrated w
 In patients treated with metoprolol clinical monitoring should be considered.
 
 In vitro, Glivec inhibits paracetamol O-glucuronidation with Ki value of 58.5 micromol/l.
-This inhibition has not been observed in vivo after the administration of Glivec 400 mg and paracetamol 1000 mg.
+This inhibition has not been observed in vivo after the administration of Glivec 400 mg and paracetamol 1 000 mg.
 Higher doses of Glivec and paracetamol have not been studied.
 
 Caution should therefore be exercised when using high doses of Glivec and paracetamol concomitantly.
@@ -39,3 +39,6 @@ However, the mechanism of the observed interaction is presently unknown.
 In Ph+ ALL patients, there is clinical experience of co-administering Glivec with chemotherapy (see section 5.1), but drug-drug interactions between imatinib and chemotherapy regimens are not well characterised.
 Imatinib adverse events, i.e. hepatotoxicity, myelosuppression or others, may increase and it has been reported that concomitant use with L-asparaginase could be associated with increased hepatotoxicity (see section 4.8).
 Therefore, the use of Glivec in combination requires special precaution.
+
+Imatinib may have the potential to delay the clearance of methotrexate, particularly when methotrexate is used at high doses (>500 mg/m2).
+Caution is recommended when Glivec is given concomitantly with methotrexate.

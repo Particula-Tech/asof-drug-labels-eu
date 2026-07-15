@@ -2,12 +2,12 @@
 
 Pharmacokinetics of Glivec
 
-The pharmacokinetics of Glivec have been evaluated over a dosage range of 25 to 1,000 mg.
+The pharmacokinetics of Glivec have been evaluated over a dosage range of 25 to 1 000 mg.
 Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
 
 Absorption
 
-Mean absolute bioavailability for the capsule formulation is 98%.
+Mean absolute bioavailability for imatinib is 98%.
 There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
@@ -24,6 +24,7 @@ The plasma protein binding of the N-demethylated metabolite is similar to that o
 
 Imatinib and the N-demethyl metabolite together accounted for about 65% of the circulating radioactivity (AUC(0-48h)).
 The remaining circulating radioactivity consisted of a number of minor metabolites.
+
 The in vitro results showed that CYP3A4 was the major human P450 enzyme catalysing the biotransformation of imatinib.
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
 
@@ -37,11 +38,10 @@ Elimination
 
 Based on the recovery of compound(s) after an oral 14C-labelled dose of imatinib, approximately 81% of the dose was recovered within 7 days in faeces (68% of dose) and urine (13% of dose).
 Unchanged imatinib accounted for 25% of the dose (5% urine, 20% faeces), the remainder being metabolites.
-
 Plasma pharmacokinetics
 
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
-The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
+The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1 000 mg imatinib after oral administration.
 There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5–2.5-fold at steady state when dosed once daily.
 
 Pharmacokinetics in GIST patients
@@ -65,6 +65,7 @@ Pharmacokinetics in children
 As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in both phase I and phase II studies.
 Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
 The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
+
 Based on pooled population pharmacokinetic analysis in paediatric patients with haematological disorders (CML, Ph+ALL, or other haematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
 After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in paediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
@@ -77,7 +78,3 @@ The increase is approximately 1.5- to 2-fold, corresponding to a 1.5-fold elevat
 The free drug clearance of imatinib is probably similar between patients with renal impairment and those with normal renal function, since renal excretion represents only a minor elimination pathway for imatinib (see sections 4.2 and 4.4).
 
 Although the results of pharmacokinetic analysis showed that there is considerable inter-subject variation, the mean exposure to imatinib did not increase in patients with varying degrees of liver dysfunction as compared to patients with normal liver function (see sections 4.2, 4.4 and 4.8).
-
-[Glivec 100 mg film-coated tablets]
-
-Mean absolute bioavailability for imatinib is 98%.

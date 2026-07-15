@@ -1,11 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Hard capsule
-
-White to yellow powder in an orange to greyish-orange opaque capsule, marked “NVR SI”.
-
-[Glivec 100 mg film-coated tablets]
-
 Film-coated tablet
 
 Glivec 100 mg film-coated tablets

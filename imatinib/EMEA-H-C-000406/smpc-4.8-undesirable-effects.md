@@ -13,10 +13,10 @@ GI and tumoural bleeding may be serious and sometimes fatal.
 The most commonly reported (≥ 10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
 Superficial oedemas were a common finding in all studies and were described primarily as periorbital or lower limb oedemas.
 However, these oedemas were rarely severe and may be managed with diuretics, other supportive measures, or by reducing the dose of Glivec.
-
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 Considering the limited safety database, the adverse events thus far reported in children are consistent with the known safety profile in adult patients with Ph+ ALL.
 The safety database for children with Ph+ALL is very limited though no new safety concerns have been identified.
+
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
@@ -26,7 +26,7 @@ Adverse reactions
 
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequency categories are defined using the following convention: very common
-(≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
+(≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), very rare (<1/10 000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
 
@@ -39,7 +39,7 @@ Table 1 Tabulated summary of adverse reactions
 | Uncommon: | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia1, sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
 | Rare: | Fungal infection |
 | Not known: | Hepatitis B reactivation* |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  |
 | Rare: | Tumour lysis syndrome |
 | Not known: | Tumour haemorrhage/tumour necrosis* |
 | Immune system disorders |  |
@@ -115,26 +115,15 @@ Table 1 Tabulated summary of adverse reactions
 | Very common: | Fluid retention and oedema, fatigue |
 | Common: | Weakness, pyrexia, anasarca, chills, rigors |
 | Uncommon: | Chest pain, malaise |
+
 | Investigations |  |
+| --- | --- |
 | Very common: | Weight increased |
 | Common: | Weight decreased |
 | Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
 | Rare: | Blood amylase increased |
+| * These types of reactions have been reported mainly from post-marketing experience with Glivec. This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications. Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure. 1 Pneumonia was reported most commonly in patients with transformed CML and in patients with GIST. 2 Headache was the most common in GIST patients. 3 On a patient-year basis, cardiac events including congestive heart failure were more commonly observed in patients with transformed CML than in patients with chronic CML. 4 Flushing was most common in GIST patients and bleeding (haematoma, haemorrhage) was most common in patients with GIST and with transformed CML (CML-AP and CML-BC). 5 Pleural effusion was reported more commonly in patients with GIST and in patients with transformed CML (CML-AP and CML-BC) than in patients with chronic CML. 6+7 Abdominal pain and gastrointestinal haemorrhage were most commonly observed in GIST patients. 8 Some fatal cases of hepatic failure and of hepatic necrosis have been reported. 9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in post-marketing. 10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients. 11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions. 12 Including erythema nodosum. |  |
 
-* These types of reactions have been reported mainly from post-marketing experience with Glivec.
-This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications.
-Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
-1 Pneumonia was reported most commonly in patients with transformed CML and in patients with GIST.
-2 Headache was the most common in GIST patients.
-3 On a patient-year basis, cardiac events including congestive heart failure were more commonly observed in patients with transformed CML than in patients with chronic CML.
-4 Flushing was most common in GIST patients and bleeding (haematoma, haemorrhage) was most common in patients with GIST and with transformed CML (CML-AP and CML-BC).
-5 Pleural effusion was reported more commonly in patients with GIST and in patients with transformed CML (CML-AP and CML-BC) than in patients with chronic CML.
-6+7 Abdominal pain and gastrointestinal haemorrhage were most commonly observed in GIST patients.
-8 Some fatal cases of hepatic failure and of hepatic necrosis have been reported.
-9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in post-marketing
-10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
-11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
-12 Including erythema nodosum.
 Laboratory test abnormalities
 
 Haematology
@@ -152,7 +141,6 @@ In the study in patients with unresectable and/or metastatic GIST, grade 3 and 4
 Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients.
 No patient developed grade 4 thrombocytopenia.
 The decreases in white blood cell (WBC) and neutrophil counts occurred mainly during the first six weeks of therapy, with values remaining relatively stable thereafter.
-
 Biochemistry
 Severe elevation of transaminases (<5%) or bilirubin (<1%) was seen in CML patients and was usually managed with dose reduction or interruption (the median duration of these episodes was approximately one week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1% of CML patients.
