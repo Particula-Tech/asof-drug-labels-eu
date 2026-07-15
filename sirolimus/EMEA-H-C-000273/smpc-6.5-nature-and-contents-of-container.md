@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Each pack contains: one bottle (amber glass) containing 60 mL of Rapamune solution, one syringe adapter, 30 dosing syringes (amber polypropylene) and one syringe carry case.
+Each pack contains: one bottle (amber glass) with child-resistant polypropylene cap, containing 60 mL of solution, one syringe adapter, 30 dosing syringes (amber polypropylene) and one syringe carry case.
 
 [Rapamune 0.5 mg coated tablets]
 

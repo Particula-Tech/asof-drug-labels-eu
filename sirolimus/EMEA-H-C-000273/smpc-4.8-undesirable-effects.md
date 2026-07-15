@@ -20,12 +20,12 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Non-melanoma skin cancer* | Lymphoma*; Malignant melanoma*; Post transplant lympho-proliferative disorder |  | Neuroendo crine carcinoma of the skin* |
 | Blood and lymphatic system disorders | Thrombo-cytopaenia; Anaemia; Leucopenia | Haemolytic uraemic syndrome; Neutropaenia | Pancytopaenia; Thrombotic thrombo-cytopaenic purpura |  |  |
 | Immune system disorders |  | Hyper-sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction) |  |  |  |
-| Metabolism and nutrition disorders | Hypokalaemia; Hypophos-phataemia; Hyperlipidaemia (including hypercholesterol-aemia); Hyperglycaemia; Hyper-triglyceridaemia; Diabetes mellitus |  |  |  |  |
+| Metabolism and nutrition disorders | Hypokalaemia; Hypophos-phataemia; Hyperlipidaemia (including hypercholesterol -aemia); Hyperglycaemia; Hyper-triglyceridaemia; Diabetes mellitus |  |  |  |  |
 | Nervous system disorders | Headache |  |  |  | Posterior reversible encephalo-pathy syndrome |
 | Cardiac disorders | Tachycardia | Pericardial effusion |  |  |  |
 | Vascular disorders | Hypertension; Lymphocele | Venous thrombosis (including deep vein thrombosis) | Lymphoedema |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosis |  |
-| Gastrointestinal disorders | Abdominal pain; Constipation; Diarrhoea; Nausea | Pancreatitis; Stomatitis; Ascites |  |  |  |
+| Gastrointestina l disorders | Abdominal pain; Constipation; Diarrhoea; Nausea | Pancreatitis; Stomatitis; Ascites |  |  |  |
 | Hepatobiliary disorders | Liver function test abnormal (including alanine aminotransferase increased and aspartate amino-transferase increased) |  | Hepatic failure* |  |  |
 | Skin and subcutaneous tissue disorders | Rash; Acne |  | Dermatitis exfoliative | Hypersen-sitivity vasculitis |  |
 | Musculoskeleta l and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |  |
