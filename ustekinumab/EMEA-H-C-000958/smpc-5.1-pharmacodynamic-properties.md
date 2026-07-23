@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
-
 Mechanism of action
 Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23.
 Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells.
@@ -37,7 +36,7 @@ Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy.
 Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies.
 In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5).
 Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8.
@@ -106,7 +105,6 @@ At week 8, after a single intravenous induction dose, the change in SES-CD score
 
 Fistula response
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
-
 Health-related quality of life
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires.
 At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo.
@@ -269,11 +267,11 @@ Table 9: Summary of secondary endpoints through maintenance week 44
 
 |  | 90 mg or 60 mg/m2 ustekinumab every 8 weeks N = 41 | 90 mg or 60 mg/m2 ustekinumab every 12 weeks N = 44 | Total number of patients N = 85 |
 | --- | --- | --- | --- |
-| Clinical Remission * | 48.8% (20/41) | 59.1% (26/44) | 54.1% (46/85) |
-| Corticosteroid-free Clinical Remission § | 46.3% (19/41) | 59.1% (26/44) | 52.9% (45/85) |
-| Clinical remission for patients who were in clinical remission at induction week 8 * | 73.9% (17/23) | 62.5% (15/24) | 68.1% (32/47) |
-| Clinical Response † | 56.1% (23/41) | 63.6% (28/44) | 60.0% (51/85) |
-| Endoscopic response £ | 25.0% (10/40) | 30.2% (13/43) | 27.7% (23/83) |
+| Clinical Remission* | 48.8% (20/41) | 59.1% (26/44) | 54.1% (46/85) |
+| Corticosteroid-free Clinical Remission§ | 46.3% (19/41) | 59.1% (26/44) | 52.9% (45/85) |
+| Clinical remission for patients who were in clinical remission at induction week 8* | 73.9% (17/23) | 62.5% (15/24) | 68.1% (32/47) |
+| Clinical Response† | 56.1% (23/41) | 63.6% (28/44) | 60.0% (51/85) |
+| Endoscopic response£ | 25.0% (10/40) | 30.2% (13/43) | 27.7% (23/83) |
 
 * Clinical remission is defined as PCDAI score ≤10 points.
 § Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
@@ -286,10 +284,10 @@ Patients were either switched from treatment every 12 weeks to every 8 weeks or 
 2 patients were dose adjusted to the shorter dosing interval.
 In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
 
-Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady state of 8-week ustekinumab trough concentration <1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy.
-This open-label sub study was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m2 (based on BSA) administered every 4 weeks.
-A total of 26 patients enrolled in the sub study.
-Among participating patients, 11 (42.3%) transitioned from 12-weekly to 4-weekly dosing, and 15 (57.7%) transitioned from 8-weekly to 4-weekly dosing.
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady-state of 8-week ustekinumab trough concentration <1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy.
+This open-label substudy was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m2 (based on BSA) administered every 4 weeks.
+A total of 26 patients enrolled in the substudy.
+Among participating patients, 11 (42.3%) transitioned from every 12 weeks to every 4 weeks dosing, and 15 (57.7%) transitioned from every 8 weeks to every 4 weeks dosing.
 At 16 weeks, after dosing frequency was changed, 95.0% (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
 
 The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult Crohn’s disease population (see section 4.8).
@@ -300,8 +298,64 @@ The mean (SD) change from baseline at maintenance week 44 in C-Reactive protein 
 Health-related quality of life
 The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
-Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
+Paediatric ulcerative colitis
+The safety and efficacy of ustekinumab was evaluated in 112 paediatric patients 2 years and older in a multicentre phase 3 study (UNIFI Jr) for paediatric patients with moderately to severely active ulcerative colitis.
+Disease assessment was defined at baseline (week 0) as a Mayo score of 6 to 12, including an endoscopy subscore of ≥2 determined by central review of the video of the endoscopy.
+
+The study enrolled 3 patients between 2 to 5 years old and 27 patients between 6 to 11 years old;
+34 patients weighed less than 40 kg, including 16 patients who weighed less than 30 kg.
+Patients included in the study had to have failed biologic therapy, corticosteroids or immunomodulators.
+The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC) administered either every 8 weeks or every 12 weeks.
+
+Efficacy results
+The primary endpoint of the study was clinical remission at induction week 8 (defined by Mayo subscores as: a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline).
+The proportion of patients who achieved clinical remission was 25.0% (28/112) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+At induction week 8, clinical remission was achieved in 29.4% of patients (20/68) with nonbiologic failure, compared to 18.2% of patients (8/44) with biologic failures.
+54 (48.2%) of 112 patients achieved symptomatic remission (defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline).
+
+The proportion of patients in clinical response at induction week 8 (defined as a decrease from baseline in the Modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1) was 67.0% (75/112).
+Of the 112 patients who received IV induction treatment, 97% (109/112) patients entered the maintenance period of which 79 were induction responders.
+
+Table 10 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 10: Summary of secondary endpoints through maintenance week 44
+
+|  | 90 mg or 60 mg/m2 ustekinumab every 8 weeks N = 39 | 90 mg or 60 mg/m2 ustekinumab every 12 weeks N = 40 | Total number of patients N = 79 |
+| --- | --- | --- | --- |
+| Clinical remission† | 48.7% (19/39) | 32.5% (13/40) | 40.5% (32/79) |
+| Symptomatic remission** | 74.4% (29/39) | 57.5% (23/40) | 65.8% (52/79) |
+| Corticosteroid-free clinical remission§ | 48.7% (19/39) | 32.5% (13/40) | 40.5% (32/79) |
+| Clinical remission at week 44 for patients who were in clinical remission at induction week 8† | 56.3% (9/16) | 63.6% (7/11) | 59.3% (16/27) |
+| Endoscopic improvement£ | 48.7% (19/39) | 32.5% (13/40) | 40.5% (32/79) |
+| Histological-endoscopic mucosal improvement based on GS⸸ | 46.2% (18/39) | 27.5% (11/40) | 36.7% (29/79) |
+
+† Clinical remission is defined by Mayo subscores as: a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.
+** Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline.
+§ Corticosteroid-free clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline; and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
+£ Endoscopic improvement is defined as a Mayo endoscopy subscore of 0 or 1 with no friability present on the endoscopy.
+⸸ Histologic-endoscopic mucosal improvement based on Geboes score (GS) is defined as achieving a combination of histologic improvement (neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations or granulation tissue according to the Geboes grading system) and endoscopic improvement (a Mayo endoscopy subscore of 0 or 1 with no friability present in the endoscopy).
+
+Dosing frequency adjustment
+Patients who entered the maintenance period and experienced loss of response based on partial Mayo score and had normal ustekinumab exposure were eligible for dose adjustment.
+Patients were either switched from treatment every 12 weeks to every 8 weeks (5/40) or stayed on treatment every 8 weeks (sham adjustment) (2/39).
+In these dose adjusted patients, clinical remission was achieved in 28.6% (2/7) of patients by maintenance week 44.
+
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady-state of 8-week ustekinumab trough concentration <1.4 µg/mL) were eligible to enroll in an optional Exposure Optimization Substudy.
+This open-label substudy was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m2 (based on BSA) administered every 4 weeks.
+A total of 22 patients enrolled and 21 were treated in the substudy.
+Among participating patients, 13 (59.1%) transitioned from every 12 weeks to every 4 weeks dosing, and 9 (40.9%) transitioned from every 8 weeks to every 4 weeks dosing.
+At 16 weeks, after dosing frequency was changed, 84.6% (11/13) of evaluable patients were in clinical response based on partial Mayo score and 56.3% (9/16) were in clinical remission based on PUCAI score.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult ulcerative colitis population (see section 4.8).
+
+Serum and faecal inflammatory biomarkers
+Among the 26 patients with elevated CRP levels at baseline, 3 (21.4%) of the 14 patients in the every 12 week treatment group and 9 (75.0%) of the 12 patients in the every 8 week treatment group had normalised CRP levels at maintenance week 44.
+
+Among the 63 induction responders with abnormal faecal calprotectin levels at baseline, 8 (25.0%) of the 32 patients in the every 12 week treatment group and 16 (51.6%) of the 31 patients in the every 8 week treatment group had normalised faecal calprotectin levels at maintenance week 44.
+
+Health-related quality of life
+In patients aged ≥10 years in whom IMPACT-III was assessed, total scores and all subdomains (including bowel symptoms, systemic symptoms, emotional functioning, social functioning and body image and tests and treatment) demonstrated clinically meaningful improvements at 44 weeks.
 
 [STELARA 45 mg solution for injection]
 
@@ -331,7 +385,7 @@ Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) 
 Similar disease severity was also seen in Psoriasis Study 3.
 
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 5 and 6).
-Table 5 Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
+Table 5: Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
 
 |  | Week 12 2 doses (week 0 and week 4) |  |  | Week 28 3 doses (week 0, week 4 and week 16) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -360,7 +414,7 @@ Table 5 Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoria
 a p < 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
 b PGA = Physician Global Assessment
 
-Table 6 Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
+Table 6: Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
 
 |  | Psoriasis Study 3 |  |  |
 | --- | --- | --- | --- |
@@ -414,7 +468,7 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24.
 The key efficacy results are shown in Table 7 below.
 
-Table 7 Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
+Table 7: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
 |  | Psoriatic arthritis Study 1 |  |  | Psoriatic arthritis Study 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -583,7 +637,7 @@ Beyond week 12, efficacy was generally higher and better sustained in the recomm
 The safety profiles of the recommended dose and half of the recommended dose were comparable.
 
 Children (6-11 years)
-The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.).
+The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open-label, single-arm, multicentre, phase 3, study (CADMUS Jr.).
 Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
 
 Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy.
@@ -596,7 +650,7 @@ The proportion of patients with a PGA score of cleared (0) or minimal (1) at wee
 Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52.
 Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 13).
 
-Table 13 Summary of primary and secondary endpoints at week 12 and week 52
+Table 13: Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11) |  |  |
 | --- | --- | --- |
@@ -623,9 +677,14 @@ Table 14 presents the analyses for the secondary endpoints through maintenance w
 
 Table 14: Summary of secondary endpoints through maintenance week 44
 
-At 16 weeks, after dosing frequency was changed, 95.0 % (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
+The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m2 (patients weighing less than 40 kg, based on BSA) (see section 4.2) administered either every 8 weeks or every 12 weeks.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis and ulcerative colitis (see section 4.2 for information on paediatric use).
+Table 15 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 15: Summary of secondary endpoints through maintenance week 44
+
+Paediatric population
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
 
 [STELARA 45 mg solution for injection in pre-filled pen]
 
@@ -639,12 +698,17 @@ The safety and efficacy of ustekinumab was assessed in 927 patients in two rando
 
 The key efficacy results are shown in Table 4 below.
 
-Table 4 Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
+Table 4: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
 Table 5: Induction of clinical response and remission in UNITI-1 and UNITI 2
 
 § Patients who are anti-TNFα refractory/intolerant.
 a p < 0.01 b p < 0.05 c nominally significant (p < 0.05)
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in ulcerative colitis and juvenile idiopathic arthritis.
+Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+£ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 of the STELARA 130 mg
+Concentrate for solution for infusion SmPC.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis.
 The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.

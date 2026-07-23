@@ -14,7 +14,7 @@ Table 4 provides a list of adverse reactions from adult psoriasis, psoriatic art
 The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 4 List of adverse reactions
+Table 4: List of adverse reactions
 
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Common: Upper respiratory tract infection, nasopharyngitis,
@@ -82,6 +82,7 @@ Hypersensitivity and infusion reactions
 In adult Crohn’s disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
 In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
 In the paediatric Crohn’s disease study, there was one serious and one non-serious infusion reaction.
+In the paediatric ulcerative colitis study, there was one serious and two non-serious infusion reactions.
 Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
 
 Paediatric population
@@ -93,8 +94,13 @@ In general, the adverse events reported in these two studies with safety data up
 
 Paediatric patients 2 years and older with Crohn’s disease
 The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn’s disease.
-34 patients in the Phase 1 study were followed up to 240 weeks and 101 patients in the Phase 3 study were followed up to 68 weeks, respectively.
+34 patients in the phase 1 study were followed up to 240 weeks and 101 patients in the phase 3 study were followed up to 68 weeks, respectively.
 In general, the safety profile was similar to that seen in previous studies in adults with Crohn’s disease.
+
+Paediatric patients 2 years and older with ulcerative colitis
+The safety of ustekinumab has been studied in one phase 3 study of paediatric patients with moderately to severely active ulcerative colitis.
+In this study, 112 patients were followed up to 68 weeks.
+In general, the safety profile was similar to that seen in previous studies in adults with ulcerative colitis.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

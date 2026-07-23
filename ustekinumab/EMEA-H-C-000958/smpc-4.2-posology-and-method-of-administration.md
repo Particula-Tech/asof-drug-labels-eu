@@ -30,7 +30,7 @@ No dose recommendations can be made.
 
 Paediatric population
 
-Paediatric Crohn's disease (2 years and older)
+Paediatric Crohn's disease and ulcerative colitis (2 years and older)
 Patients weighing less than 40 kg (BSA-based dosing)
 Treatment is to be initiated with a single intravenous (IV) dose based on the patient’s body surface area (BSA), see Table 2.
 The infusion solution is to be composed of infusion solution volume from the total number of vials of STELARA 130 mg as specified in Table 2.
@@ -60,14 +60,11 @@ Body weight of patient at the time of Recommended dosea Number of 130 mg Vials d
 a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose.
-For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in prefilled syringe SmPC.
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
 
-The safety and efficacy of STELARA for the treatment of Crohn’s disease in paediatric patients less than 2 years and less than 10 kg have not been established.
+Paediatric population
+The safety and efficacy of STELARA in paediatric patients with Crohn’s disease or ulcerative colitis less than 2 years of age and less than 10 kg have not been established.
 No data are available.
-
-Paediatric ulcerative colitis
-The safety and efficacy of STELARA in treatment of ulcerative colitis in paediatric patients less than 18 years have not yet been established.
-No data are available
 
 Method of administration
 STELARA 130 mg is for intravenous use only.
@@ -97,7 +94,8 @@ The safety and efficacy of STELARA in children with psoriasis less than 6 years 
 Paediatric plaque psoriasis (6 years and older)
 The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2).
 STELARA should be administered at weeks 0 and 4, then every 12 weeks thereafter.
-Table 1 Recommended dose of STELARA for paediatric psoriasis
+
+Table 1: Recommended dose of STELARA for paediatric psoriasis
 
 | Body weight at the time of dosing | Recommended Dose |
 | --- | --- |
@@ -109,7 +107,7 @@ To calculate the volume of injection (mL) for patients < 60 kg, use the followin
 The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe.
 A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
 
-Table 2 Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
+Table 2: Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
 
 | Body weight at time of dosing (kg) | Dose (mg) | Volume of injection (mL) |
 | --- | --- | --- |
@@ -167,26 +165,24 @@ After this, dosing every 12 weeks is recommended.
 
 Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
 
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1 and section 5.2).
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to 8 weeks maintenance dose.
 
 Immunomodulators and/or corticosteroids may be continued during treatment with STELARA.
 In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
 In Crohn’s disease or ulcerative colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-In paediatric patients with Crohn’s disease weighing less than 40 kg the recommended maintenance dose is a subcutaneous dose administered based on the patient’s BSA, see Table 3.
+In paediatric patients weighing less than 40 kg the recommended maintenance dose is a subcutaneous dose administered based on the patient’s BSA, see Table 3.
 The calculated volume should be rounded to the nearest 0.1 mL and administered using a 1 mL graduated syringe.
-Table 3 Injection volumes for paediatric patients with Crohn’s disease weighing less than 40 kg
+
+Table 3: Injection volumes for paediatric patients weighing less than 40 kg
 
 BSA Range (m2) of patient at Recommended Volume of Number of
-time of dosing Dose (mg) injection (mL) 45 mg/0.5 mL Vials
-
-Body weight < 40 kg
-
+time of dosing Dose injection 45 mg/0.5 mL Vials
 0.40 to <0.62 36 mg 0.4 1 vial
 0.62 to <0.95 45 mg 0.5 1 vial*
 0.95 to <1.25 63 mg 0.7 2 vials
@@ -194,7 +190,7 @@ Body weight < 40 kg
 
 * The pre‑filled syringe (PFS) presentation may be used as an alternative to the 45 mg/0.5 mL vial for administration of the required dose
 
-In paediatric patients with Crohn’s disease weighing at least 40 kg, the recommended maintenance dose is a subcutaneous 90 mg dose.
+In paediatric patients weighing at least 40 kg, the recommended maintenance dose is a subcutaneous 90 mg dose.
 
 Dosing frequency in paediatric patients (2 years and older)
 The first subcutaneous administration of STELARA should take place at week 8 after the intravenous dose.
@@ -207,7 +203,7 @@ If trough levels are >7.2 µg/mL and the patient has achieved response and is ma
 Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
 
 Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with STELARA.
-In patients who have responded to treatment with STELARA, these medications maybe reduced or discontinued in accordance with standard of care.
+In patients who have responded to treatment with STELARA, these medications may be reduced or discontinued in accordance with standard of care.
 
 STELARA 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.
@@ -220,15 +216,15 @@ For further instructions on preparation and special precautions for handling, se
 
 [STELARA 45 mg solution for injection in pre-filled pen]
 
-However, 90 mg resulted in greater efficacy.
-(see section 5.1,
-Table 4).
+Table 2).
 
 The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients.
 See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
 
-The safety and efficacy of STELARA for the treatment of Crohn’s disease in paediatric patients less than 2 years or ulcerative colitis in children less than 18 years have not yet been established.
-See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients 2 years and older with Crohn’s disease.
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to every 8 weeks maintenance dose.
+
+The safety and efficacy of STELARA for the treatment of Crohn’s disease in paediatric patients less than 2 years or ulcerative colitis in children less than 2 years have not yet been established.
+See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients 2 years and older with Crohn’s disease or ulcerative colitis.
 
 STELARA 45 mg and 90 mg pre-filled pens are for subcutaneous injection only.
 

@@ -24,7 +24,6 @@ Malignancies
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy.
 Some patients who received STELARA in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8).
 The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
-
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA.
 Thus, caution should be exercised when considering the use of STELARA in these patients.
 
@@ -93,10 +92,12 @@ Because there is a higher incidence of infections in the elderly population in g
 
 Excipients with known effect
 
+Sodium content
 STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
 STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion.
 This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
+Polysorbate 80 content
 STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.40 mg/mL.
 Polysorbates may cause allergic reactions.
 

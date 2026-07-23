@@ -8,9 +8,13 @@ Paediatric Crohn's disease
 
 STELARA is indicated for the treatment of moderately to severely active Crohn’s disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
-Ulcerative colitis
+Adult ulcerative colitis
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+
+Paediatric ulcerative colitis
+
+STELARA is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional therapy or a biologic.
 
 [STELARA 45 mg solution for injection]
 
@@ -29,3 +33,5 @@ STELARA, alone or in combination with MTX, is indicated for the treatment of act
 [STELARA 45 mg solution for injection in pre-filled pen]
 
 Crohn’s disease
+
+Ulcerative colitis
