@@ -1,0 +1,16 @@
+{
+  "active_substance": "colchicine",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/006653",
+  "eu_number": "EU/1/26/2048",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2026-07-24",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/colchicine-agepha-pharma",
+  "molecule": "colchicine",
+  "molecule_name": "COLCHICINE",
+  "name": "Colchicine Agepha Pharma",
+  "register_name": "Colchicine AGEPHA Pharma",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h2048.htm"
+}
