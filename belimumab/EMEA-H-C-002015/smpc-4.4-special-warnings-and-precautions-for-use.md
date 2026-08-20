@@ -50,6 +50,7 @@ In controlled clinical intravenous and subcutaneous studies, psychiatric disorde
 Physicians should assess the risk of depression and suicide considering the patient’s medical history and current psychiatric status before treatment with Benlysta and continue to monitor patients during treatment.
 Physicians must advise patients (and caregivers where appropriate) to contact their health care provider about new or worsening psychiatric symptoms.
 In patients who experience such symptoms, treatment discontinuation is to be considered.
+
 Severe cutaneous adverse reactions
 
 Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported in association with Benlysta treatment.

@@ -6,13 +6,13 @@ The healthcare professional must provide proper training in subcutaneous techniq
 A patient may self-inject, or the patient caregiver may administer Benlysta after the healthcare professional determines that it is appropriate.
 
 For patients under 10 years of age, Benlysta pre-filled pen must be administered by a healthcare professional or trained caregiver.
+
 Posology
 
 SLE
 
 The patient’s condition should be evaluated continuously.
 Discontinuation of treatment with Benlysta is to be considered if there is no improvement in disease control after 6 months of treatment.
-
 Adults
 The recommended dose is 200 mg once weekly, administered subcutaneously.
 Dosing is not based on weight (see section 5.2).
@@ -53,6 +53,7 @@ If a patient with SLE is being transitioned from Benlysta intravenous administra
 Lupus nephritis
 If a patient with lupus nephritis is being transitioned from Benlysta intravenous administration to subcutaneous administration, it is recommended that the first dose of 200 mg subcutaneous injection be administered 1 to 2 weeks after the last intravenous dose.
 This transition can occur any time after the patient completes the first 2 intravenous doses (see section 5.2).
+
 Special populations
 
 Elderly
@@ -60,7 +61,6 @@ Elderly
 Data on patients ≥ 65 years are limited (see section 5.1).
 Benlysta should be used with caution in the elderly.
 Dose adjustment is not required (see section 5.2).
-
 Renal impairment
 
 Belimumab has been studied in a limited number of SLE patients with renal impairment.
@@ -103,7 +103,6 @@ Comprehensive instructions for subcutaneous administration of Benlysta in a pre-
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
 Benlysta infusions must be administered by a qualified healthcare professional trained to give infusion therapy.
-
 Administration of Benlysta may result in severe or life-threatening hypersensitivity reactions and infusion reactions.
 Patients have been reported to develop symptoms of acute hypersensitivity several hours after the infusion has been administered.
 Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see sections 4.4 and 4.8).

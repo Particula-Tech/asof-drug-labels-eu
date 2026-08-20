@@ -8,7 +8,6 @@ The data presented in the table below reflect exposure in 674 patients with SLE 
 The safety data presented include data beyond Week 52 in some patients with SLE.
 The data reflect additional exposure in 224 patients with active lupus nephritis who received Benlysta intravenously (10 mg/kg body weight for up to 104 weeks).
 Data from post-marketing reports are also included.
-
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
 
 Adverse reactions were reported in 84 % of Benlysta-treated patients and 87 % of placebo-treated patients.
