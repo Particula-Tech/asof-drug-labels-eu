@@ -87,7 +87,6 @@ Injecting the entire volume of the pre-filled syringe could result in overdose.
 To expel the air bubble along with the excess medicinal product, slowly push the plunger until the edge below the dome of the rubber stopper is aligned with the black dosing line on the syringe (equivalent to 0.05 ml, i.e., 0.5 mg ranibizumab).
 
 For the intravitreal injection, a 30G x ½″ sterile injection needle should be used.
-
 To prepare Lucentis for intravitreal administration, please adhere to the instructions for use:
 
 Introduction Read all the instructions carefully before using the pre-filled syringe.

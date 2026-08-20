@@ -100,7 +100,6 @@ Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
 Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value <0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
-
 Treatment of visual impairment due to CNV (other than secondary to PM and wet AMD)
 The clinical safety and efficacy of Lucentis in patients with visual impairment due to CNV have been assessed based on the 12-month data of the double-masked, sham-controlled pivotal study G2301 (MINERVA).
 In this study 178 adult patients were randomised in a 2:1 ratio to receive:
@@ -112,6 +111,7 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3.
 An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12-month period.
+
 The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards.
 In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
@@ -125,8 +125,8 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Reduction in CSFTb from baseline to Month 2 a | 77 µm | -9.8 µm |
 
 a One-sided p<0.001 comparison with sham control b CSFT - central retinal subfield thickness
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
+
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
 Table 4 Treatment effect overall and across baseline aetiology subgroups
@@ -147,7 +147,6 @@ BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 
 The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period.
 The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5).
 Overall, ranibizumab treatment was well tolerated.
-
 Treatment of visual impairment due to DME
 The efficacy and safety of Lucentis have been assessed in three randomised, controlled studies of at least 12 months duration.
 A total of 868 patients (708 active and 160 control) were enrolled in these studies.
@@ -158,6 +157,7 @@ The mean average change in BCVA from Month 1 to Month 12 compared to baseline wa
 In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 ratio to receive ranibizumab 0.5 mg monotherapy and sham laser photocoagulation, combined ranibizumab 0.5 mg and laser photocoagulation or sham injection and laser photocoagulation.
 240 patients, who had previously completed the 12-month RESTORE study, were enrolled in the open-label, multicentre 24-month extension (RESTORE Extension) study.
 Patients were treated with ranibizumab 0.5 mg pro re nata (PRN) in the same eye as the core study (D2301 RESTORE).
+
 Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figure 4 (RESTORE).
 
 Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
@@ -423,5 +423,8 @@ In addition the European Medicines Agency has waived the obligation to submit th
 
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
 
+Figure 4 12Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
+
 The safety and efficacy of ranibizumab 0.5 mg in pre-filled syringe have not been studied in paediatric patients.
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).

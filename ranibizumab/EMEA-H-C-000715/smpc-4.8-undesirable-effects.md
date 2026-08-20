@@ -51,6 +51,8 @@ Uncommon Blindness, endophthalmitis, hypopyon, hyphaema,
 
 keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
 
+Not known Retinal vasculitis**, retinal occlusive vasculitis**
+
 Respiratory, thoracic and mediastinal disorders
 
 Common Cough
@@ -73,6 +75,7 @@ Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 * observed only in DME population
+** from post-marketing reporting
 
 Product-class-related adverse reactions
 
@@ -96,3 +99,7 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Lucentis 10 mg/ml solution for injection in pre-filled syringe]
+
+**from post-marketing reporting

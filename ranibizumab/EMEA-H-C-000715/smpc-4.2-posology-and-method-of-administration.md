@@ -11,6 +11,7 @@ The interval between two doses injected into the same eye should be at least fou
 
 Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment.
 In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
+
 Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
 
 If, in the physician’s opinion, visual and anatomic parameters indicate that the patient is not benefiting from continued treatment, Lucentis should be discontinued.
@@ -33,7 +34,6 @@ Lucentis can be administered in patients who have received previous laser photoc
 
 Lucentis and verteporfin photodynamic therapy in CNV secondary to PM
 There is no experience of concomitant administration of Lucentis and verteporfin.
-
 Preterm infants
 The recommended dose for Lucentis in preterm infants is 0.2 mg given as an intravitreal injection.
 This corresponds to an injection volume of 0.02 ml.
@@ -55,6 +55,7 @@ Dose adjustment is not needed in patients with renal impairment (see section 5.2
 Elderly
 No dose adjustment is required in the elderly.
 There is limited experience in patients older than 75 years with DME.
+
 Paediatric population
 The safety and efficacy of Lucentis in children and adolescents below 18 years of age for indications other than retinopathy of prematurity have not been established.
 Available data in adolescent patients aged 12 to 17 years with visual impairment due to CNV are described in section 5.1 but no recommendation on a posology can be made.
@@ -76,7 +77,6 @@ Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the p
 Adults
 In adults the injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
 The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
-
 Paediatric population
 For treatment of preterm infants the low volume high accuracy syringe provided together with an injection needle (30G x ½″) in the VISISURE kit should be used (see also section 6.6).
 
