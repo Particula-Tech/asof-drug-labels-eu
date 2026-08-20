@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 Most serious adverse reactions of methotrexate include bone marrow suppression, pulmonary toxicity, hepatotoxicity, renal toxicity, neurotoxicity, thromboembolic events, anaphylactic shock and Stevens-Johnson syndrome.
 
 Most frequently (very common) observed adverse reactions of methotrexate include gastrointestinal disorders (e.g. stomatitis, dyspepsia, abdominal pain, nausea, loss of appetite) and abnormal liver function tests (e.g. increased Alanine aminotransferase (ALAT), Aspartate aminotransferase (ASAT), bilirubin, alkaline phosphatase).
@@ -10,7 +9,6 @@ Other frequently (common) occurring adverse reactions are leukopenia, anaemia, t
 The most relevant adverse reaction is suppression of the haematopoietic system and gastrointestinal disorders.
 
 List of adverse reactions
-
 Frequencies are defined using the following convention:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare
 (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
@@ -79,7 +77,7 @@ Common: Exanthema, erythema, pruritus.
 Uncommon: Photosensitivity reactions , loss of hair, increase in rheumatic nodules, skin ulcer, herpes zoster, vasculitis, herpetiform eruptions of the skin, urticaria.
 Rare: Increased pigmentation, acne, petechiae, ecchymosis, allergic vasculitis.
 Very rare: Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell’s syndrome), increased pigmentary changes of the nails, acute paronychia, furunculosis, telangiectasia.
-Not known: Skin exfoliation / dermatitis exfoliative
+Not known: Skin exfoliation / dermatitis exfoliative, epidermal necrosis
 
 Musculoskeletal and connective tissue disorders
 Uncommon: Arthralgia, myalgia, osteoporosis.

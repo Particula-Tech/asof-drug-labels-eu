@@ -26,6 +26,7 @@ Methotrexate causes embryotoxicity, abortion and foetal defects in humans.
 Therefore, the possible risks of effects on reproduction, pregnancy loss and congenital malformations should be discussed with female patients of childbearing potential (see section 4.6).
 The absence of pregnancy must be confirmed before Nordimet is used.
 If women of child bearing potential are treated, effective contraception must be used during treatment and for at least six months after.
+
 For contraception advice for men, see section 4.6.
 
 Recommended examinations and safety measures
@@ -38,7 +39,6 @@ During therapy
 The tests below must be conducted every week during the first two weeks, then every two weeks for the next month; afterwards, depending on leukocyte count and stability of the patient, at least once monthly during the next six months and at least every three months thereafter.
 Increased monitoring frequency should also be considered when increasing the dose.
 Particularly elderly patients should be examined for early signs of toxicity in short intervals.
-
 Examination of the oral cavity and throat for mucosal change.
 
 Complete blood count with differential blood count and platelets
@@ -108,6 +108,7 @@ If lymphomas should fail to regress spontaneously, initiation of cytotoxic thera
 
 In patients with pathological accumulation of liquid in body cavities (“third space”), such as ascites or pleural effusions, the plasma elimination half-life of methotrexate is prolonged.
 Pleural effusions and ascites should be drained prior to initiation of methotrexate treatment.
+
 Conditions leading to dehydration such as emesis, diarrhoea or stomatitis, can increase the toxicity of methotrexate due to elevated levels of the active substance.
 In these cases use of methotrexate should be interrupted until the symptoms cease.
 
@@ -115,7 +116,6 @@ Diarrhoea and ulcerative stomatitis can be toxic effects and require interruptio
 If haematemesis, black discoloration of the stool or blood in stool occur, therapy is to be interrupted.
 
 Progressive multifocal leukoencephalopathy (PML)
-
 Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients receiving methotrexate, mostly in combination with other immunosuppressive medication.
 PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms.
 
@@ -125,7 +125,6 @@ Use in children < 3 years of age is not recommended as insufficient data on effi
 (see section 4.2).
 
 Photosensitivity
-
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking methotrexate (see section 4.8).
 Exposure to intense sunlight or UV rays should be avoided unless medically indicated.
 Patients should use adequate sun-protection to protect themselves from intense sunlight.
@@ -136,6 +135,13 @@ Concomitant administration of folate antagonists such as trimethoprim /sulphamet
 
 Encephalopathy / Leukoencephalopathy have been reported in oncologic patients receiving methotrexate therapy and cannot be excluded for methotrexate therapy in non-oncologic indications.
 
-Sodium contents
+Skin toxicity
+Epidermal necrosis, mostly accompanied by leukopenia, thrombocytopenia and mucosal lesions, has been reported with methotrexate treatment (see section 4.8).
+This cutaneous reaction may clinically mimic Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN).
+Patients should be advised of the signs and symptoms of the severe cutaneous adverse reactions and should seek medical advice from their physician immediately when observing any indicative signs or symptoms.
+If signs and symptoms suggestive of these reactions appear, methotrexate should be withdrawn immediately, and appropriate treatment should be initiated.
+Intervention with folinic acid has been described for epidermal necrosis.
+Methotrexate should not be reintroduced unless SJS and TEN have been excluded.
 
+Sodium contents
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially ‘sodium-free’.

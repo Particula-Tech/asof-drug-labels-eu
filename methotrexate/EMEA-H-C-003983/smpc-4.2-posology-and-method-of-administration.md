@@ -11,7 +11,6 @@ In the treatment of rheumatoid arthritis, active juvenile idiopathic arthritis, 
 Nordimet must only be used once a week.
 Dosage errors in the use of Nordimet can result in serious adverse reactions, including death.
 Please read this section of the summary of product characteristics very carefully.
-
 When switching from oral use to subcutaneous use, a reduction in the dose may be required, due to the variable bioavailability of methotrexate after oral administration.
 
 Folic acid or folinic acid supplementation may be considered in accordance with current therapeutic guidelines.
@@ -89,7 +88,6 @@ The safety and efficacy of Nordimet in children < 3 years of age have not been e
 No data available.
 
 Method of administration
-
 It must be explicitly pointed out to the patient that Nordimet is applied only once a week.
 It is recommended to specify a certain day of the week as “day for injection”.
 
