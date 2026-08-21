@@ -2,7 +2,7 @@
 
 The pharmacokinetics of alpelisib were investigated in patients under an oral dosing regimen ranging from 30 to 450 mg daily.
 Healthy subjects received single oral doses ranging from 300 to 400 mg.
-The pharmcokinetics were comparable in both oncology patients and healthy subjects.
+The pharmacokinetics were comparable in both oncology patients and healthy subjects.
 
 Absorption
 
@@ -30,14 +30,13 @@ In vitro studies demonstrated that formation of the hydrolysis metabolite BZG791
 Alpelisib hydrolysis occurs systemically by both chemical decomposition and enzymatic hydrolysis via ubiquitously expressed, high-capacity enzymes (esterases, amidases, choline esterase) not limited to the liver.
 CYP3A4-mediated metabolites and glucuronides amounted to ~15% of the dose; BZG791 accounted for ~40-45% of the dose.
 The rest of the dose, which was found as unchanged alpelisib in urine and faeces, was either excreted as alpelisib or not absorbed.
-
 Elimination
 
 Alpelisib exhibits low clearance with 9.2 l/h (CV% 21%) based on population pharmacokinetic analysis under fed conditions.
 The population-derived half-life, independent of dose and time, was 8 to 9 hours at steady state with 300 mg once daily.
 
 In a human mass-balance study, after oral administration, alpelisib and its metabolites were primarily found in the faeces (81.0%) as alpelisib, or metabolised as BZG791.
-Excretion in the urine is minor (13.5%), with unchanged alpelisib (2%).
+Excretion in the urine is minor (13.5%), with unchanged alpelisib (2.0%).
 Following a single oral dose of [14C]-alpelisib, 94.5% of the total administered radioactive dose was recovered within 8 days.
 
 Linearity/non-linearity
@@ -67,7 +66,6 @@ Based on in vitro data, inhibition of the renal organic anion transporter OAT3 b
 Alpelisib showed only weak in vitro inhibition towards the ubiquitously expressed efflux transporters (P-gp, BCRP, MRP2, BSEP), solute carrier transporters at the liver inlet (OATP1B1, OATP1B3, OCT1) and solute carrier transporters in the kidney (OAT1, OCT2, MATE1, MATE2K).
 As unbound systemic steady-state concentrations (or concentrations at the liver inlet) at both the therapeutic dose and maximum tolerated dose are significantly lower than the experimentally determined unbound inhibition constants or IC50, the inhibition will not translate into clinical significance.
 Due to high alpelisib concentrations in the intestinal lumen, an effect on intestinal P-gp and BCRP cannot be fully excluded.
-
 Special populations
 
 Effect of age, weight and gender
@@ -78,14 +76,15 @@ The pharmacokinetics of Piqray in children aged 0-18 years have not been establi
 No data are available.
 
 Elderly (age 65 years or above)
-Of 284 patients who received Piqray in the phase III study (in the alpelisib plus fulvestrant arm),
-117 patients were ≥65 years of age and 34 patients were between 75 and 87 years of age.
+Of 376 patients who received Piqray in combination with fulvestrant in the phase III studies,
+157 patients were ≥65 years of age and 46 patients were between 75 and 87 years of age.
 No overall differences in exposure of Piqray were observed between these patients and younger patients (see section 4.2).
 
 Race/Ethnicity
 Population pharmacokinetic analyses and pharmacokinetic analyses from a phase I study in Japanese cancer patients showed that there are no clinically relevant effects of ethnicity on the systemic exposure of Piqray.
 
 Non-compartmental pharmacokinetic parameters after single and multiple daily doses of Piqray for Japanese patients were very similar to those reported in the Caucasian population.
+
 Renal impairment
 Based on a population pharmacokinetic analysis that included 117 patients with normal renal function (eGFR ≥90 ml/min/1.73 m2) / (CLcr ≥90 ml/min), 108 patients with mild renal impairment (eGFR 60 to <90 ml/min/1.73 m2)/ (CLcr 60 to <90 ml/min), and 45 patients with moderate renal impairment (eGFR 30 to <60 ml/min/1.73 m2), mild and moderate renal impairment had no effect on the exposure of alpelisib (see section 4.2).
 

@@ -19,9 +19,9 @@ Therefore, alpelisib can be co-administered with acid-reducing agents, provided 
 CYP3A4 inducers
 Once-daily administration of 600 mg rifampin (a strong CYP3A4 inducer) for 7 days followed by co-administration with a single 300 mg oral dose of alpelisib on day 8, decreased alpelisib Cmax by 38% and AUC by 57% in healthy adults (N=25).
 Co-administration of rifampin 600 mg once daily for 15 days with alpelisib 300 mg once daily starting from day 8 to day 15 decreased the steady-state alpelisib Cmax by 59% and AUC by 74%.
-
 Co-administration with a strong CYP3A4 inducer decreases alpelisib AUC, which may reduce alpelisib efficacy.
 Co-administration of alpelisib with strong CYP3A4 inducers (e.g. apalutamide, carbamazepine, enzalutamide, mitotane, phenytoin, rifampin, St. John’s wort) should be avoided and selection of an alternative concomitant medicinal product, with no or minimal potential to induce CYP3A4, should be considered.
+
 Medicinal products whose plasma concentrations may be altered by alpelisib
 
 CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 substrates

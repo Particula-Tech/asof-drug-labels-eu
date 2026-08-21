@@ -7,7 +7,6 @@ The bone marrow and lymphoid tissue, pancreas and some reproductive organs of bo
 Effects on bone marrow and lymphoid tissue were generally reversible on cessation of treatment.
 Effects on the pancreas and reproductive organs did not fully reverse but showed a tendency towards reversion.
 In exploratory rat studies evidence of inflammatory changes of the skin was found.
-
 Cardiovascular safety pharmacology
 In vitro inhibition of hERG channels (IC50 of 9.4 µM) was shown at concentrations ~13-fold higher than the exposure in humans, at the recommended dose of 300 mg/day.
 No relevant electrophysiological effect was seen in dogs.
@@ -23,6 +22,7 @@ Reproductive toxicity
 
 Embryo-foetal development studies in rats and rabbits have demonstrated that oral administration of alpelisib during organogenesis induced embryotoxicity, foetotoxicity and teratogenicity.
 In rats and rabbits, following prenatal exposure to alpelisib, increased incidences of pre- and post-implantation losses, reduced foetal weights and increased incidences of foetal abnormalities (enlarged brain ventricle, decreased bone ossification and skeletal malformations) were observed starting at exposures below those in humans at the highest recommended dose of 300 mg, indicating potential clinical relevance.
+
 In repeated dose toxicity studies, adverse events were observed in reproductive organs, such as vaginal or uterine atrophy and oestrus cycle variations in rats, decreases in prostate and testes weight in rats and dogs and prostate atrophy in dogs at clinically relevant doses based on AUC.
 
 In fertility studies conducted in male and female rats, similar effects on fertility were observed.

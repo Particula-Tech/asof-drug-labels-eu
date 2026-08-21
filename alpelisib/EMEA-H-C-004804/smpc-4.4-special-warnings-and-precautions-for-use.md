@@ -13,7 +13,7 @@ Appropriate treatment should be promptly initiated.
 Severe cutaneous reactions
 
 Severe cutaneous reactions have been reported with alpelisib.
-In the phase III clinical study, Stevens-Johnson syndrome (SJS) and erythema multiforme (EM) were reported in 1 (0.4%) and 3 (1.1%) patients, respectively.
+In the pooled safety dataset from phase III clinical studies, Stevens-Johnson syndrome (SJS) and erythema multiforme (EM) were reported in 2 (0.5%) and 3 (0.8%) patients, respectively.
 Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported in the post-marketing setting (see section 4.8).
 
 Treatment should not be initiated in patients with a history of severe cutaneous reactions.
@@ -30,12 +30,12 @@ Hyperglycaemia
 
 Severe hyperglycaemia, in some cases associated with hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS) or ketoacidosis, has been observed in patients treated with Piqray.
 Some cases of ketoacidosis with fatal outcome have been reported in the post-marketing setting.
-In the phase III clinical study, hyperglycaemia occurred more frequently in patients who were diabetic (0 out of 12 patients [0%] with grade 1-2, and 10 out of 12 patients [83.3%] with grade 3-4), pre-diabetic (43 out of 159 patients [27.0%] with grade 1-2, and 77 out of 159 patients [48.4%] with grade 3-4), had BMI ≥30 at screening (14 out of 74 patients [18.9%] with grade 1-2, and 38 out of 74 patients [51.4%] with grade 3-4) or ≥75 years of age (6 out of 34 patients [17.6%] with grade 1-2, and 19 out of 34 patients [55.9%] with grade 3-4).
+In the pooled safety dataset from phase III clinical studies, hyperglycaemia occurred more frequently in patients who were diabetic (1 out of 18 patients [5.6%] with grade 1-2, and 15 out of 18 patients [83.3%] with grade 3-4), pre-diabetic (55 out of 192 patients [28.6%] with grade 1-2, and 91 out of 192 patients [47.4%] with grade 3-4), had BMI ≥30 at screening (21 out of 91 patients [23.1%] with grade 1-2, and 47 out of 91 patients [51.6%] with grade 3-4) or ≥75 years of age (10 out of 46 patients [21.7%] with grade 1-2, and 22 out of 46 patients [47.8%] with grade 3-4).
 
 As hyperglycaemia may occur with a rapid onset after starting treatment, it is recommended to self-monitor frequently in the first 4 weeks and especially within the first 2 weeks of treatment, as clinically indicated.
 A specific schedule for fasting glucose monitoring is recommended in Table 6.
 
-In the phase III clinical study, patients with a history of diabetes mellitus intensified use of antidiabetic medicinal products while on treatment with Piqray.
+In the phase III clinical study CBYL719C2301, patients with a history of diabetes mellitus intensified use of antidiabetic medicinal products while on treatment with Piqray.
 
 All patients should be instructed on lifestyle changes that may reduce hyperglycaemia (e.g. dietary restrictions and physical activity).
 
@@ -53,16 +53,16 @@ Table 6 Schedule of fasting glucose monitoring
 
 Patients should be advised of the signs and symptoms of hyperglycaemia (e.g. excessive thirst, urinating more often than usual or greater amount of urine than usual, increased appetite with weight loss).
 
-In the 191 patients with hyperglycaemia, 86.9% (166/191) were managed with antidiabetic medication, and 75.9% (145/191) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
-Oral antidiabetic medication was used in 154 patients.
-Out of these 154 patients, 17 (11.0%) discontinued study treatment due to hyperglycaemia.
-Concomitant insulin medication was used in 56 patients; of these 13 (23.2%) discontinued study treatment due to hyperglycaemia.
+In the 258 patients with hyperglycaemia, 86% (222/258) were managed with antidiabetic medication, and 74.4% (192/258) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
+Oral antidiabetic medication was used in 204 patients.
+Out of these 204 patients, 19 (9.3%) discontinued study treatment due to hyperglycaemia.
+Concomitant insulin medication was used in 76 patients; of these 15 (19.7%) discontinued study treatment due to hyperglycaemia.
 
-Out of 164 patients with grade ≥2 hyperglycaemia, 157 had at least 1 grade improvement, median time to improvement from the first event was 8 days (95% CI: 8 to 10 days).
+Out of 206 patients with grade ≥2 hyperglycaemia, 195 had at least 1 grade improvement, median time to improvement from the first event was 8 days (95% CI: 8 to 10 days).
 
-Of the patients with elevated FPG who continued fulvestrant treatment after discontinuing Piqray (n=61), 93.4% (n=57) had FPG levels that returned to baseline.
+Of the patients with elevated FPG who continued fulvestrant treatment after discontinuing Piqray (n=80), 95.0% (n=76) had FPG levels that returned to baseline.
 
-The safety of Piqray in patients with Type 1 and uncontrolled Type 2 diabetes has not been established as these patients were excluded from the phase III clinical study.
+The safety of Piqray in patients with Type 1 and uncontrolled Type 2 diabetes has not been established as these patients were excluded from the phase III clinical studies.
 Patients with a medical history of Type 2 diabetes were included.
 Patients with a history of diabetes mellitus may require intensified diabetic treatment and should be closely monitored.
 
@@ -81,18 +81,17 @@ Diarrhoea or colitis
 Patients should be monitored for diarrhoea and other symptoms of colitis, such as abdominal pain and mucus or blood in stools.
 
 Severe diarrhoea and clinical consequences, such as dehydration and acute kidney injury, have been reported during treatment with Piqray and resolved with appropriate intervention.
-59.9% of patients (n=170) experienced diarrhoea during treatment with Piqray.
-Grade 3 diarrhoea occurred in 7.4% (n=21) of patients with no reported cases of grade 4.
-Among patients with grade 2 or 3 diarrhoea (n=79), the median time to onset was 54 days (range: 1 to 1 731 days).
+In the pooled safety dataset from phase III clinical studies, 57.7% of patients (n=217) experienced diarrhoea during treatment with Piqray.
+Grade 3 diarrhoea occurred in 6.1% (n=23) of patients with no reported cases of grade 4.
+Among patients with grade 2 or 3 diarrhoea (n=94), the median time to onset was 49.5 days (range: 1 to 1 731 days).
 
-Dose reductions of Piqray were required in 6.3% of patients and 2.8% of patients discontinued Piqray due to diarrhoea.
-In the 170 patients who experienced diarrhoea, antidiarrhoeal medications (e.g. loperamide) were required to manage symptoms in 65.3% (111/170).
+In the pooled safety dataset from phase III clinical studies, dose reductions of Piqray were required in 4.8% of patients and 2.7% of patients discontinued Piqray due to diarrhoea.
+In the 217 patients who experienced diarrhoea, antidiarrhoeal medications (e.g. loperamide) were required to manage symptoms in 62.2% (135/217).
 
 Based on the severity of the diarrhoea or colitis, Piqray may require dose interruption, reduction or discontinuation as described in Table 4 (see section 4.2).
 
 Patients should be advised to start antidiarrhoeal treatment, increase oral fluids and notify their physician if diarrhoea or other symptoms of colitis occur while taking Piqray.
 In case of colitis, additional treatment, such as steroids, may be considered as clinically indicated.
-
 Osteonecrosis of the jaw
 
 Caution should be exercised when Piqray and bisphosphonates or RANK-ligand inhibitors (e.g. denosumab) are used either simultaneously or sequentially.
