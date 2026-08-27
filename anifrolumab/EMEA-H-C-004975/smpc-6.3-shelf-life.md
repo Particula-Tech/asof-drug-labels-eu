@@ -15,5 +15,7 @@ If not used immediately, in-use storage times and conditions prior to use are th
 
 4 years.
 
-If needed, an unopened carton can be stored at room temperature (20 °C – 25 °C) for up to 7 days.
-Once the pre-filled syringe/pre-filled pen has been removed from the refrigerator and has reached room temperature (20 °C – 25 °C), it must either be used within 7 days or discarded.
+If needed, Saphnelo pre-filled syringe/pre-filled pen may be stored at room temperature (20 °C –
+25 °C) for a maximum of 7 days protected from light.
+Once Saphnelo pre-filled syringe/pre-filled pen has reached room temperature, do not return to the refrigerator.
+Discard if not used within 7 days at room temperature storage.

@@ -41,7 +41,7 @@ In Trial 1 the primary endpoint was SLE Responder Index (SRI-4) response, define
 - Reduction from baseline of ≥4 points in the SLEDAI-2K;
 - No new organ system affected as defined by 1 or more BILAG A or 2 or more BILAG B items compared to baseline;
 - No worsening from baseline in the lupus disease activity defined by an increase ≥0.30 points on a 3-point PGA visual analogue scale (VAS);
-- No use of restricted medication beyond the protocol-allowed thresholds;
+- No use of restricted medicinal products beyond the protocol-allowed thresholds;
 - No discontinuation of treatment.
 
 In Trial 2 the primary endpoint was British Isles Lupus Assessment Group based Composite Lupus Assessment (BICLA) response at Week 52, defined as improvement in all organ domains with moderate or severe activity at baseline:
@@ -49,7 +49,7 @@ In Trial 2 the primary endpoint was British Isles Lupus Assessment Group based C
 - Reduction of all baseline BILAG A to B/C/D and baseline BILAG B to C/D, and no BILAG worsening in other organ systems, as defined by ≥1 new BILAG A or ≥2 new BILAG B;
 - No worsening from baseline in SLEDAI-2K, where worsening is defined as an increase from baseline of >0 points;
 - No worsening from baseline in lupus disease activity, where worsening is defined by an increase ≥0.30 points on a 3-point PGA VAS;
-- No use of restricted medication beyond the protocol-allowed thresholds;
+- No use of restricted medicinal products beyond the protocol-allowed thresholds;
 - No discontinuation of treatment.
 
 The secondary efficacy endpoints included in both studies included maintenance of OCS reduction and annual flare rate.
@@ -62,8 +62,7 @@ The most commonly affected organ systems (BILAG A or B at baseline) were the muc
 
 In Trials 1 and 2, 90% of patients (both trials) were seropositive for anti-nuclear antibodies (ANA), and 45% and 44% for anti-double-stranded DNA (anti-dsDNA) antibodies; 34% and 40% of patients had low C3, and 21% and 26% had low C4.
 
-Baseline concomitant standard therapy medications included oral corticosteroids (Trial 1: 83%,
-Trial 2: 81%), antimalarials (Trial 1: 73%, Trial 2: 70%) and immunosuppressants (Trial 1: 47%, Trial 2: 48%; including azathioprine, methotrexate, mycophenolate and mizoribine).
+Baseline concomitant standard therapy included oral corticosteroids (Trial 1: 83%, Trial 2: 81%), antimalarials (Trial 1: 73%, Trial 2: 70%) and immunosuppressants (Trial 1: 47%, Trial 2: 48%; including azathioprine, methotrexate, mycophenolate and mizoribine).
 For those patients taking OCS (prednisone or equivalent) at baseline, the mean daily dose was 12.3 mg in Trial 1 and 10.7 mg in Trial 2.
 During Weeks 8-40, patients with a baseline OCS ≥10 mg/day were required to taper their OCS dose to ≤7.5 mg/day, unless there was worsening of disease activity.
 
@@ -87,9 +86,9 @@ No worsening of SLEDAI-2K, n 121 (67.2) 104 (56.5) 122 (67.8) 94 (51.6)
 No worsening of PGA, n (%) † 117 (65.0) 105 (57.1) 122 (67.8) 95 (52.2)
 No discontinuation of treatment, n 145 (80.6) 146 (79.3) 153 (85.0) 130 (71.4)
 (%)
-No use of restricted medication 140 (77.8) 128 (69.6) 144 (80.0) 123 (67.6)
-beyond protocol allowed threshold,
-n (%)
+No use of restricted medicinal 140 (77.8) 128 (69.6) 144 (80.0) 123 (67.6)
+products beyond protocol allowed
+threshold, n (%)
 SRI-4 response at Week 52*
 Responder rate, % (n/N) † 49.0 43.0 55.5 37.3
 (88/180) (79/184) (100/180) (68/182)
@@ -107,8 +106,8 @@ Difference % (95% CI) 6.0 (-4.2, 16.2) 18.2 (8.1, 28.3)
 
 BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BILAG: British Isles Lupus Assessment Group, PGA: Physician’s Global Assessment; SLEDAI-2K: Systemic Lupus Erythematosus Disease Activity Index 2000; SRI-4: SLE Responder Index.
 All patients received standard therapy.
-* BICLA and SRI-4 are based on the composite estimand where treatment discontinuation or restricted medication use are part of the response criteria.
-† Patients who discontinued treatment or used restricted medications beyond protocol allowed threshold are considered non-responders.
+* BICLA and SRI-4 are based on the composite estimand where treatment discontinuation or restricted medicinal product use are part of the response criteria.
+† Patients who discontinued treatment or used restricted medicinal products beyond protocol allowed threshold are considered non-responders.
 ‡ Subgroup of patients with OCS ≥10 mg/day at baseline.
 Responders were defined as patients with OCS reduction to ≤7.5 mg/day at Week 40, maintained through Week 52.
 
@@ -128,8 +127,8 @@ The European Medicines Agency has deferred the obligation to submit the results 
 [Saphnelo 120 mg solution for injection in pre-filled syringe]
 
 In adult patients with SLE, administration of anifrolumab ≥300 mg intravenous every 4 weeks and 120 mg subcutaneous once weekly, demonstrated consistent neutralisation (≥80%) of a 21 gene type I interferon pharmacodynamic (PD) signature in blood.
-Anifrolumab 150 mg (intravenous) showed <20% suppression of the gene signature at early timepoints, that reached a maximum of <60% by the end of the treatment period.
 
+Anifrolumab 150 mg (intravenous) showed <20% suppression of the gene signature at early timepoints, that reached a maximum of <60% by the end of the treatment period.
 In SLE patients with positive anti-dsDNA antibodies at baseline, intravenous treatment with anifrolumab 300 mg led to numerical reductions in anti-dsDNA antibodies over time through
 Week 52.
 
@@ -137,7 +136,19 @@ In patients with low complement levels (C3 and C4), increases in complement leve
 
 Intravenous administration
 
-* BICLA and SRI(4) are based on the composite estimand where treatment discontinuation or restricted medication use are part of the response criteria.
+Sustained OCS reduction ‡
+Responder rate, % (n/N) † 49.7 33.1 51.5 30.2
+(51/103) (34/102) (45/87) (25/83)
+Difference % (95% CI) 16.6 (3.4, 29.8) 21.2 (6.8, 35.7)
+
+|  | Trial 1 |  | Trial 2 |  |
+| --- | --- | --- | --- | --- |
+|  | Anifrolumab 300 mg | Placebo | Anifrolumab 300 mg | Placebo |
+| Flare rate |  |  |  |  |
+| Annualised flare rate estimate, (95% CI) | 0.57 (0.43, 0.76) | 0.68 (0.52, 0.90) | 0.43 (0.31, 0.59) | 0.64 (0.47, 0.86) |
+| Rate ratio estimate (95% CI) | 0.83 (0.61, 1.15) |  | 0.67 (0.48, 0.94) |  |
+
+* BICLA and SRI(4) are based on the composite estimand where treatment discontinuation or restricted medicinal product use are part of the response criteria.
 
 Long-term extension: Patients who completed Trials 1 and 2 (feeder trials) through Week 52 were eligible to continue on treatment in a randomised, double-blind, placebo-controlled, 3-year LTE.
 
@@ -172,5 +183,5 @@ Table 3 BICLA response rate at Week 52
 | Components of BICLA responseǂ BILAG improvement, n (%) No worsening of SLEDAI-2K, n (%) No worsening of PGA, n (%) | 65 (59.5) 81 (74.3) 81 (74.4) | 49 (44.1) 80 (71.6) 82 (73.7) |
 
 BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BILAG: British Isles Lupus Assessment Group, PGA: Physician’s Global Assessment; SLEDAI-2K: Systemic Lupus Erythematosus Disease Activity Index 2000
-* Patients who discontinued treatment or used restricted medications, beyond protocol allowed thresholds, or died are considered non-responders.
+* Patients who discontinued treatment or used restricted medicinal products, beyond protocol allowed thresholds, or died are considered non-responders.
 ǂ Missing data were imputed using multiple imputation.

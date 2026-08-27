@@ -15,4 +15,4 @@ Immune response to non-live seasonal influenza vaccine was assessed in a small n
 Humoral antibody responses induced by seasonal influenza virus vaccination were numerically comparable between patients receiving anifrolumab in addition to standard of care and those receiving standard of care alone.
 
 Live vaccines
-The concurrent use of anifrolumab with live and live-attenuated vaccines has not been studied (see section 4.4).
+The concurrent use of anifrolumab with live and live attenuated vaccines has not been studied (see section 4.4).

@@ -32,7 +32,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 This medicinal product is for single-use only.
 
-Remove carton from the refrigerator and allow the solution for injection to come to room temperature for 60 minutes.
+Remove Saphnelo pre-filled syringe/pre-filled pen from the refrigerator and allow the solution for injection to come to room temperature for 60 minutes.
 
 Visually inspect the solution for injection for particulate matter and discolouration prior to administration.
 Discard the pre-filled syringe or pre-filled pen if the solution is cloudy, discoloured or visible particles are observed.

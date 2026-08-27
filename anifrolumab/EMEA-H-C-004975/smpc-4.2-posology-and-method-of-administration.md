@@ -11,12 +11,12 @@ In patients with a history of infusion-related reactions, premedication (e.g., a
 Missed dose
 If a planned infusion is missed, treatment should be administered as soon as possible.
 A minimum interval of 14 days should be maintained between doses.
+
 Special populations
 
 Elderly
 No dose adjustment is required.
 There is limited information in subjects aged ≥65 years (n=33); no data are available in patients over 75 years of age (see section 5.2).
-
 Renal impairment
 No dose adjustment is required.
 There is no experience in patients with severe renal impairment or end-stage renal disease (see section 5.2).
