@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab doses resulting in 100 to 150 times greater systemic exposure than the recommended human dose had no impact on cardiovascular physiology, male or female fertility, or produced specific target organ toxicity.
-
 Standard tests to investigate the genotoxicity potential of denosumab have not been evaluated, since such tests are not relevant for this molecule.
 However, due to its character it is unlikely that denosumab has any potential for genotoxicity.
 

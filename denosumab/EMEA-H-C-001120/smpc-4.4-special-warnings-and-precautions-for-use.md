@@ -59,7 +59,8 @@ Atypical fractures of the femur
 Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8).
 Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur.
 Specific radiographic findings characterise these events.
-Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors).
+Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products
+(e.g. bisphosphonates, glucocorticoids, proton pump inhibitors).
 These events have also occurred without antiresorptive therapy.
 Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture.
 Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment.
@@ -86,3 +87,6 @@ This medicine contains 47 mg sorbitol in each mL of solution.
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially ‘sodium-free’.
+
+This medicinal product contains 0.1 mg of polysorbate 20 in each mL of solution.
+Polysorbates may cause allergic reactions.

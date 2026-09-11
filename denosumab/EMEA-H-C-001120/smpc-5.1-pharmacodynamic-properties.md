@@ -18,13 +18,13 @@ Upon re-initiation, reductions in CTX by denosumab were similar to those observe
 Immunogenicity
 
 In clinical studies, neutralising antibodies have not been observed for denosumab.
-Using a sensitive immunoassay < 1% of patients treated with denosumab for up to 5 years tested positive for non neutralising binding antibodies with no evidence of altered pharmacokinetics, toxicity, or clinical response.
-
+Using a sensitive immunoassay < 1% of patients treated with denosumab for up to 5 years tested positive for non-neutralising binding antibodies with no evidence of altered pharmacokinetics, toxicity, or clinical response.
 Clinical efficacy and safety in postmenopausal women with osteoporosis
 
 Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between –2.5 and –4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture.
 Women with other diseases or on therapies that may affect bone were excluded from this study.
 Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+
 Effect on vertebral fractures
 Prolia significantly reduced the risk of new vertebral fractures at 1, 2 and 3 years (p < 0.0001) (see table 2).
 
@@ -67,7 +67,6 @@ The effect of Prolia on the risk of clinical fractures over 3 years
 2 Excludes those of the vertebrae, skull, facial, mandible, metacarpus, and finger and toe phalanges.
 3 Includes pelvis, distal femur, proximal tibia, ribs, proximal humerus, forearm, and hip.
 4 Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
-
 In women with baseline femoral neck BMD ≤ -2.5, Prolia reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p < 0.001, exploratory analysis).
 
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by Prolia over 3 years were consistent regardless of the 10-year baseline fracture risk.
@@ -90,7 +89,7 @@ The mean lumbar spine BMD T-score at the end of the study was
 −1.3 in patients treated for 10 years.
 
 Fracture incidence was evaluated as a safety endpoint but efficacy in fracture prevention cannot be estimated due to high number of discontinuations and open-label design.
-The cumulative incidence of new vertebral and non-vertebral fractures were approximately 6.8% and 13.1% respectively, in patients who remained on denosumab treatment for 10 years (n = 1,278).
+The cumulative incidence of new vertebral and non-vertebral fractures were approximately 6.8% and 13.1% respectively, in patients who remained on denosumab treatment for 10 years (n = 1 278).
 Patients who did not complete the study for any reason had higher on-treatment fracture rates.
 
 Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated cases of atypical fractures of the femur occurred during the extension study.
@@ -105,11 +104,10 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 Prolia significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p < 0.05).
 Prolia increased lumbar spine BMD from baseline in 94.7% of men at 1 year.
 Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p < 0.0001).
-
 Bone histology in postmenopausal women and men with osteoporosis
 
 Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with Prolia.
-Fifty nine women participated in the bone biopsy sub-study at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis.
+Fifty-nine women participated in the bone biopsy sub-study at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis.
 Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with Prolia.
 Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis.
 Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of Prolia, as measured by activation frequency and bone formation rates, were maintained over time.
@@ -126,7 +124,8 @@ Prolia demonstrated a significant relative risk reduction of new vertebral fract
 
 Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
-Efficacy and safety of Prolia once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck.
+Efficacy and safety of Prolia once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between
+−1.0 to −2.5 at the lumbar spine, total hip or femoral neck.
 All women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated.
@@ -139,8 +138,7 @@ Efficacy and safety of Prolia were investigated in 795 patients (70% women and 3
 Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for < 3 months prior to study enrolment; n = 290).
 Patients were randomised (1:1) to receive either Prolia 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years.
 Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
-
-Effect on Bone Mineral Density (BMD)
+Effect on bone mineral density (BMD)
 In the glucocorticoid-continuing subpopulation, Prolia demonstrated a greater increase in lumbar spine BMD compared to risedronate at 1 year (Prolia 3.6%, risedronate 2.0%; p < 0.001) and 2 years (Prolia 4.5%, risedronate 2.2%; p < 0.001).
 In the glucocorticoid-initiating subpopulation, Prolia demonstrated a greater increase in lumbar spine BMD compared to risedronate at 1 year (Prolia 3.1%, risedronate 0.8%; p < 0.001) and 2 years (Prolia 4.6%, risedronate 1.5%; p < 0.001).
 
@@ -151,9 +149,10 @@ At 1 year, the subject incidence of new radiological vertebral fracture was 2.7%
 The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate).
 At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures.
 Most of the fractures occurred in the GC-C subpopulation.
+
 Paediatric population
 
-A single-arm phase 3 study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian.
+A single-arm phase III study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian.
 A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months.
 Sixty subjects transitioned to every 3 months dosing.
 
@@ -166,6 +165,8 @@ Serious adverse events of hypercalcaemia (13.3%) were reported during every 3 mo
 In an extension study (N = 75), serious adverse events of hypercalcaemia (18.5%) were observed during every 3 months dosing.
 
 The studies were terminated early due to the occurrence of life-threatening events and hospitalisations due to hypercalcaemia (see section 4.2).
+
+In one multicentre, randomised, double-blind, placebo-controlled, parallel-group study conducted in 24 paediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score, safety and effectiveness were not established hence Prolia should not be used for this indication.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Prolia in all subsets of the paediatric population in the treatment of bone loss associated with sex hormone ablative therapy, and in subsets of the paediatric population below the age of 2 in the treatment of osteoporosis.
 See section 4.2 for information on paediatric use.

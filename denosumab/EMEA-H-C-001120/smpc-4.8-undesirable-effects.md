@@ -23,9 +23,11 @@ Adverse reactions reported in patients with osteoporosis and breast or prostate 
 | Gastrointestinal disorders | Common Common | Constipation Abdominal discomfort |
 | Skin and subcutaneous tissue disorders | Common Common Common Uncommon Very rare | Rash Eczema Alopecia Lichenoid drug eruptions1 Hypersensitivity vasculitis |
 | Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare Not Known | Pain in extremity Musculoskeletal pain1 Osteonecrosis of the jaw1 Atypical femoral fractures1 Osteonecrosis of the external auditory canal2 |
+| General disorders and administration site conditions | Uncommon | Injection site reactions3 |
 
 1 See section Description of selected adverse reactions.
 2 See section 4.4.
+3 including injection site pain
 
 In a pooled analysis of data from all phase II and phase III placebo-controlled studies, influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7% for placebo.
 Although this imbalance was identified via a pooled analysis, it was not identified via a stratified analysis.
@@ -33,7 +35,7 @@ Although this imbalance was identified via a pooled analysis, it was not identif
 Description of selected adverse reactions
 
 Hypocalcaemia
-In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following Prolia administration.
+In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4 050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following Prolia administration.
 Declines of serum calcium levels (less than 1.88 mmol/L) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
 In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported, predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy.
@@ -42,19 +44,19 @@ Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias o
 
 Skin infections
 In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%,
-50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%,
+50 out of 4 041] versus Prolia [1.5%, 59 out of 4 050]); in men with osteoporosis (placebo [0.8%,
 1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
-Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving Prolia.
+Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4 041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4 050) of women receiving Prolia.
 These cases were predominantly cellulitis.
 Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the Prolia (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 Osteonecrosis of the jaw
-ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4).
+ONJ has been reported rarely, in 18 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23 552 patients (see section 4.4).
 Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years.
 Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment.
 The risk of ONJ increased with duration of exposure to denosumab.
 
-The risk of ONJ has also been assessed in a retrospective cohort study among 76,192 postmenopausal women newly initiating treatment with Prolia.
+The risk of ONJ has also been assessed in a retrospective cohort study among 76 192 postmenopausal women newly initiating treatment with Prolia.
 The incidence of ONJ was 0.32% (95% confidence interval [CI]: 0.26, 0.39) among patients using denosumab up to 3 years and 0.51% (95% CI: 0.39, 0.65) among patients using denosumab up to 5 years of follow-up.
 
 Atypical fractures of the femur
@@ -74,7 +76,6 @@ Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
 Lichenoid drug eruptions
 Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported in patients in the post-marketing setting.
-
 Other special populations
 
 Paediatric population
@@ -85,8 +86,9 @@ Some clinical trial cases were complicated by acute renal injury.
 Renal impairment
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.
 Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
-It allows continued monitoring of the benefit-risk balance of the medicinal product.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
