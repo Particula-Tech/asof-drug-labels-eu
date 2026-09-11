@@ -1,7 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Amdipharm Limited
-3 Burlington Road,
-Dublin 4,
-D04 RD68,
+Unit 17, Northwood House,
+Northwood Crescent, Northwood,
+Dublin 9, D09 V504,
 Ireland
