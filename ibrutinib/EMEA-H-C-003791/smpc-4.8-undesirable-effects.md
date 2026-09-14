@@ -32,6 +32,8 @@ Uncommon Cryptococcal infections* <1 0
 Pneumocystis infections* # <1 <1
 Aspergillus infections* <1 <1
 Hepatitis B reactivation@ # <1 <1
+Rare Progressive multifocal <1 <1
+leukoencephalopathy#
 Neoplasms Common Non-melanoma skin cancer* 5 1
 benign, malignant Basal cell carcinoma 3 <1
 and unspecified Squamous cell carcinoma 1 <1
@@ -55,6 +57,7 @@ Transient ischaemic attack <1 <1
 Ischaemic stroke# <1 <1
 Eye disorders Common Vision blurred 6 0
 Uncommon Eye haemorrhage‡ <1 0
+Uveitis* <1 0
 Cardiac disorders Common Cardiac failure*, # 2 1
 Atrial fibrillation 8 4
 Uncommon Ventricular tachyarrhythmia*,# 1 <1
@@ -65,6 +68,10 @@ Hypertension* 18 8
 Common Epistaxis 9 <1
 Petechiae 7 0
 Uncommon Subdural haematoma# 1 <1
+Respiratory, Very Cough* 24 <1
+thoracic and common
+mediastinal
+disorders
 Gastrointestinal Very Diarrhoea 47 4
 disorders common Vomiting 15 1
 Stomatitis* 17 1
@@ -117,11 +124,11 @@ Table 3: Adverse reactions reported in the IMBRUVICA arm of the TRIANGLE Study�
 |  |  | Urinary tract infection | 6 | <1 |
 |  |  | Sinusitis* | 6 | 1 |
 |  | Uncommon | Aspergillus infections* | 1 | <1 |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common | Non-Melanoma skin cancer* | 1 | <1 |
-|  |  | Basal cell carcinoma | 1 | <1 |
-|  | Very common | Thrombocytopenia* | 69 | 61 |
+|  | Common | Non-Melanoma skin cancer* | 1 | <1 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Basal cell carcinoma | 1 | <1 |
+| Blood and lymphatic system disorders | Very common | Thrombocytopenia* | 69 | 61 |
 |  |  | Neutropenia* | 63 | 60 |
-| Blood and lymphatic system disorders |  | Febrile neutropenia | 14 | 14 |
+|  |  | Febrile neutropenia | 14 | 14 |
 |  | Common | Leukocytosis | 3 | 1 |
 | Immune system disorders | Common | Interstitial lung disease* | 5 | 1 |
 | Metabolism and nutrition disorders | Common | Hyperuricaemia | 8 | 3 |
@@ -169,6 +176,7 @@ Adverse reactions leading to dose reduction occurred in approximately 8% of pati
 In the phase 3 TRIANGLE study involving 265 patients with previously untreated MCL who were eligible for ASCT treatment discontinuation due to adverse reactions was observed in 13% in the IMBRUVICA arm.
 These included neutropenia, pneumonia, atrial fibrillation, acute kidney injury, diarrhoea, rash, and interstitial lung disease.
 Adverse reactions leading to dose reduction occurred in approximately 12% in the IMBRUVICA arm.
+
 Elderly
 Of the 1 981 patients treated with IMBRUVICA, 50% were 65 years of age or older.
 Grade 3 or higher pneumonia (11% of patients age ≥65 versus 4% of patients <65 years) and thrombocytopenia (11% of patients age ≥65 years versus 5% of patients <65 years) occurred more frequently among elderly patients treated with IMBRUVICA.
@@ -182,7 +190,7 @@ The overall known safety profile of IMBRUVICA-exposed patients remained consiste
 The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1-2), 9% (year 2-3), 9% (year 3-4), and 9% (year 4-5); the overall incidence for the 5-year period was 11%.
 
 Paediatric population
-The safety assessment is based on data from a Phase 3 study of IMBRUVICA in combination with either a rituximab, ifosfamide, carboplatin, etoposide, and dexamethasone (RICE) regimen, or a rituximab, vincristine, ifosfamide, carboplatin, idarubicin, and dexamethasone (RVICI) regimen, as background therapy or background therapy alone in paediatric and young adult patients (aged 3 to 19 years) with relapsed or refractory mature B-cell non-Hodgkin lymphoma (see section 5.1).
+The safety assessment is based on data from a phase 3 study of IMBRUVICA in combination with either a rituximab, ifosfamide, carboplatin, etoposide, and dexamethasone (RICE) regimen, or a rituximab, vincristine, ifosfamide, carboplatin, idarubicin, and dexamethasone (RVICI) regimen, as background therapy or background therapy alone in paediatric and young adult patients (aged 3 to 19 years) with relapsed or refractory mature B-cell non-Hodgkin lymphoma (see section 5.1).
 No new adverse reactions were observed in this study.
 
 Reporting of suspected adverse reactions
@@ -208,6 +216,8 @@ Nervous system Very common Dizziness 12 <1
 disorders Headache 19 1
 Vascular disorders Very common Haemorrhage*# 35 1
 Bruising* 27 <1
+Respiratory, thoracic Very common Cough* 24 <1
+and mediastinal
 Gastrointestinal Very common Diarrhoea 47 4
 disorders Vomiting 15 1
 Hepatobiliary disorders Uncommon Hepatic failure*,# <1 <1
@@ -272,4 +282,5 @@ Investigations Very common Blood creatinine increased 10 <1
 | General disorders and administration site conditions | Very common | Pyrexia | 22 | 2 |
 |  | Common | Oedema peripheral | 5 | 0 |
 | Investigations | Very common | Blood creatinine increased | 16 | 1 |
-| † Frequencies are rounded to the nearest integer. * Terms required grouping. # Includes events with fatal outcome. |  |  |  |  |
+
+* Terms required grouping.

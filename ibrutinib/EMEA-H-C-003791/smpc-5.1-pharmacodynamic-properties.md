@@ -50,7 +50,7 @@ The FAS population included patients that have either provided explicit permissi
 The results presented are from the IMBRUVICA (N=265) arm and the ASCT (N=268) arm, only.
 
 Induction with R-CHOP (rituximab 375 mg/m2 on Day 0 or 1, cyclophosphamide 750 mg/m2 on
-Day 1, doxorubicin 50 mg/m2 on Day 1, vincristine 1.4 mg/m2 up to maximum of 2 mg on Day 1, and prednisone 100 mg on days 1-5) alternating with R-DHAP (rituximab 375 mg/m2 on Day 0 or 1, dexamethasone 40 mg on days 1-4, Ara-C 2x 2 g/m2 every 12 hours on Day 2, cisplatin 100 mg/m2 (alternatively oxaliplatin 130 mg/m²) on Day 1, and G-CSF 5 µg/kg on Day 6) was the same in all 3 treatment arms.
+Day 1, doxorubicin 50 mg/m2 on Day 1, vincristine 1.4 mg/m2 up to maximum of 2 mg on Day 1, and prednisone 100 mg on days 1-5) alternating with R-DHAP (rituximab 375 mg/m2 on Day 0 or 1, dexamethasone 40 mg on days 1-4, Ara-C 2x 2 g/m2 every 12 hours on Day 2, cisplatin 100 mg/m2 (alternatively oxaliplatin 130 mg/m²) on Day 1, and G-CSF 5 µg/kg from Day 6 until recovery of WBC) was the same in all 3 treatment arms.
 Rituximab maintenance therapy was allowed in all treatment groups (59.7% in the IMBRUVICA arm; 62.5% in the ASCT arm) according to national treatment guidelines.
 
 The median age was 57 years (range: 27 to 65 years), 78% were male and 99% were Caucasian.
