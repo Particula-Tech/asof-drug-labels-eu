@@ -29,7 +29,6 @@ In all cases, patients in remission should not receive live organism vaccines un
 The interval between discontinuation of chemotherapy and restoration of the patient's ability to respond to the vaccine depends on the intensity and type of immunosuppression-causing medications used, the underlying disease, and other factors.
 
 The dosage of mercaptopurine may need to be reduced when this agent is combined with other medicinal products whose primary or secondary toxicity is myelosuppression (see Section 4.5).
-
 Hepatotoxicity
 Xaluprine is hepatotoxic and liver function tests should be monitored weekly during treatment.
 More frequent monitoring may be advisable in those with pre-existing liver disease or receiving other potentially hepatotoxic therapy.
@@ -66,7 +65,6 @@ Physicians should be attentive to symptoms of infection such as EBV and cytomega
 Infections
 Patients treated with mercaptopurine alone or in combination with other immunosuppressive agents, including corticosteroids, have shown increased susceptibility to viral, fungal and bacterial infections, including severe or atypical infection, and viral reactivation.
 The infectious disease and complications may be more severe in these patients than in non-treated patients.
-
 Prior exposure to or infection with varicella zoster virus should be taken into consideration prior to starting treatment.
 Local guidelines may be considered, including prophylactic therapy if necessary.
 Serologic testing prior to starting treatment should be considered with respect to hepatitis B. Local guidelines may be considered, including prophylactic therapy for cases which have been confirmed positive by serologic testing.

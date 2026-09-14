@@ -5,7 +5,6 @@ Summary of the safety profile
 The main adverse reaction of treatment with mercaptopurine is bone marrow suppression leading to leucopenia and thrombocytopenia.
 
 For mercaptopurine there is a lack of modern clinical documentation which can serve as support for accurately determining the frequency of adverse reactions.
-
 Tabulated list of adverse reactions
 
 The following events have been identified as adverse reactions.
@@ -40,13 +39,13 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 * In patients with inflammatory bowel disease (IBD), an unlicensed indication.
 † In the paediatric population.
-
 Description of selected adverse reactions
 
 Mercaptopurine is hepatotoxic in animals and man.
 The histological findings in man have shown hepatic necrosis and biliary stasis.
 
 The incidence of hepatotoxicity varies considerably and can occur with any dose but more frequently when the recommended dose is exceeded.
+
 Monitoring of liver function tests may allow early detection of hepatotoxicity.
 This is usually reversible if mercaptopurine therapy is stopped soon enough but fatal liver damage has occurred.
 

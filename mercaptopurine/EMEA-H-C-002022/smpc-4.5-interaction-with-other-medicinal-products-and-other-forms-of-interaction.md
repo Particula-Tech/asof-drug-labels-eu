@@ -4,10 +4,10 @@ Effects of food on mercaptopurine
 The administration of mercaptopurine with food may decrease systemic exposure slightly but this is unlikely to be of clinical significance.
 Therefore, Xaluprine may be taken with food or on an empty stomach, but patients should standardise the method of administration.
 The dose should not be taken with milk or dairy products since they contain xanthine oxidase, an enzyme which metabolises mercaptopurine and might therefore lead to reduced plasma concentrations of mercaptopurine.
-
 Effects of mercaptopurine on other medicinal products
 Vaccines
 Concomitant administration of yellow fever vaccine is contraindicated, due to the risk of fatal disease in immunocompromised patients (see section 4.3).
+
 Vaccinations with other live organism vaccines are not recommended in immunocompromised individuals (see section 4.4).
 
 Anticoagulants

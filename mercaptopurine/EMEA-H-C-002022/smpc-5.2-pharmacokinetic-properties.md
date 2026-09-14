@@ -3,9 +3,9 @@
 Absorption
 The bioavailability of oral mercaptopurine shows considerable inter-individual variability, which probably results from its first-pass metabolism.
 When administered orally at a dosage of 75 mg/m2 to 7 paediatric patients, the bioavailability averaged 16% of the administered dose, with a range of 5 to 37%.
-
 In a comparative bioavailability study in healthy adult volunteers (n=60), 50mg of Xaluprine oral suspension was demonstrated to be bioequivalent to the reference 50mg tablet for AUC, but not Cmax.
 The mean (90% CI) Cmax with the oral suspension was 39% (22% - 58%) higher than the tablet although there was less between-subject variability (%C.V) with the oral suspension (46%) than the tablet (69%).
+
 Biotransformation
 The intracellular anabolism of mercaptopurine is catalysed by several enzymes to eventually form thioguanine nucleotides (TGNs), but a variety of intermediary TGNs are formed en route to the TGNs.
 The first step is catalysed by hypoxanthine-guanine phosphoribosyl transferase yielding thioinosine monophosphate (TIMP).
