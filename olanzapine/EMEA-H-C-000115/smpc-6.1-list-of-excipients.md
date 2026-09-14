@@ -14,7 +14,6 @@ ZYPREXA 2.5 mg , 5 mg, 7.5 mg and 10 mg coated tablets
 Hypromellose
 Colour mixture white (hypromellose, titanium dioxide E171, macrogol, polysorbate 80)
 Carnauba wax
-Edible blue ink (shellac, ethanol anhydrous, isopropyl alcohol, butyl alcohol, propylene glycol, ammonium hydroxide, indigo carmine E132)
 
 ZYPREXA 15 mg coated tablets
 Hypromellose

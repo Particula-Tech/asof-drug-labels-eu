@@ -21,7 +21,6 @@ The use of olanzapine in the treatment of dopamine agonist associated psychosis 
 In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see section 4.8), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms.
 In these trials, patients were initially required to be stable on the lowest effective dose of anti-Parkinsonian medicinal products (dopamine agonist) and to remain on the same anti-Parkinsonian medicinal products and dosages throughout the study.
 Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
-
 Neuroleptic Malignant Syndrome (NMS)
 NMS is a potentially life-threatening condition associated with antipsychotic medicinal products.
 Rare cases reported as NMS have also been received in association with olanzapine.
@@ -54,9 +53,9 @@ In cases where hepatitis (including hepatocellular, cholestatic or mixed liver i
 Neutropenia
 Caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients receiving medicines known to cause neutropenia, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
 Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
+
 Discontinuation of treatment
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01 % and < 0.1 %) when olanzapine is stopped abruptly.
-
 QT interval
 In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction
 [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline
@@ -94,6 +93,7 @@ In the study, the risk of olanzapine was comparable to the risk of atypical anti
 Paediatric population
 Olanzapine is not indicated for use in the treatment of children and adolescents.
 Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels (see sections 4.8 and 5.1).
+
 Lactose
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 

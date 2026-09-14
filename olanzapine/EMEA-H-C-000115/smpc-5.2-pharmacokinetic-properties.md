@@ -29,7 +29,7 @@ In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy s
 A mass balance study showed that approximately 57 % of radiolabelled olanzapine appeared in urine, principally as metabolites.
 
 Hepatic impairment
-A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 – 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to subjects with no hepatic dysfunction (n = 3).
+A small study of the effect of impaired liver function in 6 subjects with clinically significant (Child-Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 – 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to subjects with no hepatic dysfunction (n = 3).
 There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
 Smoking
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
