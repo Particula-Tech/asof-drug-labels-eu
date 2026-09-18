@@ -13,7 +13,7 @@ Tabulated list of adverse reactions
 
 The safety data described below include all adverse reactions from the eight phase III studies in the indications wet AMD, CRVO, BRVO, DME and myopic CNV with a reasonable possibility of causality to the injection procedure or medicinal product.
 
-The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), not known (cannot be estimated from the available data).
+The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
@@ -25,8 +25,8 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 | Eye disorders | Very common | Visual acuity reduced, Retinal haemorrhage, Conjunctival haemorrhage, Eye pain |
 |  | Common | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia |
 |  | Uncommon | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema |
-|  | Rare | Blindness, Cataract traumatic, Vitritis, Hypopyon |
-|  | Not known | Scleritis**** |
+|  | Rare | Blindness, Cataract traumatic, Vitritis, Hypopyon, Retinal vasculitis |
+|  | Not known | Scleritis****, Retinal occlusive vasculitis**** |
 
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.
@@ -46,10 +46,10 @@ A low incidence rate of arterial thromboembolic events was observed in the Eylea
 Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
 
 As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
-
 Paediatric population
 The safety of Eylea for the treatment of ROP was evaluated in a 6-month phase III study, which included 75 preterm infants treated with aflibercept 0.4 mg at baseline.
 The long-term safety profile in preterm infants has not been established.
+
 Adverse reactions reported in more than one patient treated with aflibercept 0.4 mg were retinal detachment, retinal haemorrhage, conjunctival haemorrhage, injection site haemorrhage, intraocular pressure increased and eyelid oedema.
 
 Adverse reactions established for adult indications are considered applicable to preterm infants with ROP, though not all were observed in the phase III study.
@@ -77,7 +77,7 @@ A total of 1 808 patients treated with Eylea 114.3 mg/ml up to 96 weeks constitu
 The safety data described below include all adverse reactions with a reasonable possibility of causality to the injection procedure or medicinal product reported.
 
 The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare
-(≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
+(≥1/10 000 to <1/1 000), not known (frequency cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Table 1: All treatment-emergent adverse reactions reported in patients with nAMD, DME or RVO treated with Eylea 114.3 mg/ml in phase II/III studies or during post-marketing surveillance
 
@@ -86,8 +86,8 @@ Table 1: All treatment-emergent adverse reactions reported in patients with nAMD
 | Immune system disorders | Common | Hypersensitivity* |
 | Eye disorders | Common | Cataract, Intraocular pressure increased, Vitreous floaters, Vitreous detachment, Vitreous haemorrhage, Retinal haemorrhage, Visual acuity reduced, Eye pain, Conjunctival haemorrhage, Punctate keratitis, Corneal abrasion |
 |  | Uncommon | Retinal detachment, Retinal tear, Retinal pigment epithelial tear, Detachment of the retinal pigment epithelium, Uveitis, Iritis, Iridocyclitis, Vitritis, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Vision blurred, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Injection site haemorrhage, Conjunctival hyperaemia, Lenticular opacities, Eyelid oedema, Ocular hyperaemia, Injection site irritation, Retinal degeneration, Corneal oedema |
-|  | Rare | Blindness, Endophthalmitis, Eyelid irritation |
-|  | Not known | Scleritis** |
+|  | Rare | Blindness, Endophthalmitis, Eyelid irritation, Retinal vasculitis |
+|  | Not known | Scleritis**, Retinal occlusive vasculitis** |
 
 * Reports of hypersensitivity included rash, pruritus, urticaria.
 ** From post-marketing reporting.

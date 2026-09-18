@@ -185,7 +185,7 @@ Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Se
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
+|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | ConGt) rol (N = 68) |
 | Proportion of patients with ≥15 letters gain from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVAC) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
@@ -247,21 +247,16 @@ Proportion of patients 52.7% 26.7% 57.1% 41.1%
 with ≥15 letters gain
 from Baseline (%)
 Weighted Difference 26.6% 16.2%
-A,B) (%)
-(2.0, 30.5)
-(95% CI) (13.0, 40.1)
-p=0.0296
+A,B) (%) (2.0, 30.5)
+(95% CI) (13.0, 40.1) p=0.0296
 p-value p=0.0003
 Mean change in BCVA 17.0 6.9 17.1 12.2 (11.9)
-as measured by ETDRS
-(12.9) (13.1)
+as measured by ETDRS (12.9) (13.1)
 letter score from (11.9)
 Baseline (SD)
 Difference in LS mean 10.5 5.2
-A,C)
-(7.1, 14.0) (1.7, 8.7)
-(95% CI)
-p<0.0001 p=0.0035F)
+A,C) (7.1, 14.0) (1.7, 8.7)
+(95% CI) p<0.0001 p=0.0035F)
 p-value
 
 A) Difference is Eylea 2 mg Q4 weeks minus Laser Control
@@ -459,7 +454,7 @@ Ocular and systemic safety profiles were similar to the safety observed in the p
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
+|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | ConGt) rol (N = 68) |
 | Proportion of patients with≥15 letters gain from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVA C) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
@@ -468,11 +463,9 @@ Ocular and systemic safety profiles were similar to the safety observed in the p
 B) Difference and confidence interval (CI) are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (>20/200 and ≤20/200)
 D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (>20/200 and ≤20/200)
 
-(laser) (laser)/Eylea
-(N = 91) (N = 91)D)
-2mgE)
+(N = 91) (laser) (N = 91)D) (laser)/Eylea
+(N = 90) 2mgE)
 (N = 90)
-(95% CI) p<0.0001 p=0.0035F)
 
 C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
@@ -853,9 +846,7 @@ Figure 7: Last intended treatment interval at week 96
 
 44.3%
 
-17.5% Q20 72.4%
-
-≥Q16
+17.5% Q20 72.4% ≥Q16
 
 92.9%
 
@@ -1033,6 +1024,7 @@ Figure 9: Last intended treatment interval at week 64
 40.5% Q20
 
 64.3%
+≥Q16
 
 86.2%
 95.9% ≥Q12
