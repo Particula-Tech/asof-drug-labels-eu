@@ -7,8 +7,8 @@ These trials included rheumatoid arthritis patients with short term and long sta
 The pivotal controlled studies involved 6,089 patients receiving Humira and 3,801 patients receiving placebo or active comparator during the controlled period.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 5.9% for patients taking Humira and 5.4% for control treated patients.
-
 The most commonly reported adverse reactions are infections (such as nasopharyngitis, upper respiratory tract infection and sinusitis), injection site reactions (erythema, itching, haemorrhage, pain or swelling), headache and musculoskeletal pain.
+
 Serious adverse reactions have been reported for Humira.
 TNF-antagonists, such as Humira affect the immune system and their use may affect the body’s defence against infection and cancer.
 Fatal and life-threatening infections (including sepsis, opportunistic infections and TB), HBV reactivation and various malignancies (including leukaemia, lymphoma and HSTCL) have also been reported with use of Humira.
@@ -112,10 +112,10 @@ In the pivotal controlled trials in adults and children, 12.9% of patients treat
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
 
 Infections
-
 In the pivotal controlled trials in adults and children, the rate of infection was 1.51 per patient year in the Humira treated patients and 1.46 per patient year in the placebo and active control-treated patients.
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis.
 Most patients continued on Humira after the infection resolved.
+
 The incidence of serious infections was 0.04 per patient year in Humira treated patients and 0.03 per patient year in placebo and active control − treated patients.
 
 In controlled and open label adult and paediatric studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated or extrapulmonary histoplasmosis, blastomycosis, coccidioidomycosis, pneumocystis, candidiasis, aspergillosis and listeriosis).
@@ -138,8 +138,8 @@ The observed rate of non-melanoma skin cancers is approximately 9.6 per 1,000 pa
 
 In post-marketing experience from January 2003 to December 2010, predominantly in patients with rheumatoid arthritis, the spontaneously reported rate of malignancies is approximately 2.7 per 1,000 patient treatment years.
 The spontaneously reported rates for non-melanoma skin cancers and lymphomas are approximately 0.2 and 0.3 per 1,000 patient treatment years, respectively (see section 4.4).
-
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with adalimumab (see section 4.4).
+
 Autoantibodies
 
 Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis studies I − V. In these trials, 11.9% of patients treated with Humira and 8.1% of placebo and active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at Week 24.
@@ -178,73 +178,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Humira 40 mg/0.8 ml solution for injection]
+[Humira 40 mg solution for injection in pre-filled syringe]
 
 The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 7 below: very common
-(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to< 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
-Table 7
 
-| System Organ Class | Frequency | Adverse Reaction |
-| --- | --- | --- |
-| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
-|  | Uncommon | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
-|  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | Leukaemia1) |
-|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1), Kaposi’s sarcoma |
-| Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
-|  | Common | Leucocytosis, thrombocytopenia |
-|  | Uncommon | Idiopathic thrombocytopenic purpura |
-|  | Rare | Pancytopenia |
-| Immune system disorders* | Common | Hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | Sarcoidosis1), vasculitis |
-|  | Rare | Anaphylaxis1) |
-| Metabolism and nutrition disorders | Very common | Lipids increased |
-|  | Common | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
-| Psychiatric disorders | Common | Mood alterations (including depression), anxiety, insomnia |
-| Nervous system disorders* | Very common | Headache |
-|  | Common | Paraesthesias (including hypoesthesia), migraine, nerve root compression |
-|  | Uncommon | Cerebrovascular accident1), tremor, neuropathy |
-|  | Rare | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
-| Eye disorders | Common | Visual impairment, conjunctivitis, blepharitis, eye swelling |
-|  | Uncommon | Diplopia |
-| Ear and labyrinth disorders | Common | Vertigo |
-|  | Uncommon | Deafness, tinnitus |
-| Cardiac disorders* | Common | Tachycardia |
-|  | Uncommon | Myocardial infarction1), arrhythmia, congestive heart failure |
-|  | Rare | Cardiac arrest |
-| Vascular disorders | Common | Hypertension, flushing, haematoma |
-|  | Uncommon | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | Asthma, dyspnoea, cough |
-|  | Uncommon | Pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
-|  | Rare | Pulmonary fibrosis1) |
-| Gastrointestinal disorders | Very common | Abdominal pain, nausea and vomiting |
-|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
-|  | Uncommon | Pancreatitis, dysphagia, face oedema |
-|  | Rare | Intestinal perforation1) |
-| Hepato-biliary disorders* | Very Common | Elevated liver enzymes |
-|  | Uncommon | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
-|  | Rare | Hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
-|  | Not known | Liver failure1) |
-| Skin and subcutaneous tissue disorders | Very Common | Rash (including exfoliative rash) |
-|  | Common | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
-|  | Uncommon | Night sweats, scar |
-|  | Rare | Erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) lichenoid skin reaction1) |
-|  | Not known | Worsening of symptoms of dermatomyositis1) |
-| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain |
-|  | Common | Muscle spasms (including blood creatine phosphokinase increased) |
-|  | Uncommon | Rhabdomyolysis, systemic lupus erythematosus |
-|  | Rare | Lupus-like syndrome1) |
-| Renal and urinary disorders | Common | Renal impairment, haematuria |
-|  | Uncommon | Nocturia |
-| Reproductive system and breast disorders | Uncommon | Erectile dysfunction |
-| General disorders and administration site conditions* | Very Common | Injection site reaction (including injection site erythema) |
-|  | Common | Chest pain, oedema, pyrexia1) |
-|  | Uncommon | Inflammation |
-| Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-|  | Not known | Weight increased2) |
-| Injury, poisoning and procedural complications | Common | Impaired healing |
+Table 7
 
 Hidradenitis suppurativa
 
@@ -258,8 +196,6 @@ ulcerative colitis. No malignancies were observed in 60 paediatric patients with
 
 patient years during a Humira trial in paediatric patients with uveitis.
 
-No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to <4 years.
-
 In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in patients with hidradenitis suppurativa with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of Humira-treated patients and 0.6% of control-treated patients.
 
 In the controlled Phase 3 trial of Humira in patients with paediatric ulcerative colitis (N=93) which
@@ -269,76 +205,6 @@ weight adjusted induction dosing of 2.4 mg/kg (maximum of 160 mg) at Week 0 and 
 mg/kg (maximum of 80 mg) at Week 2 (N=63), or an induction dose of 2.4 mg/kg (maximum of 160 mg)
 at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2 (N=30), ALT elevations ≥
 3 X ULN occurred in 1.1% (1/93) of patients.
-
-[Humira 40 mg solution for injection in pre-filled syringe]
-
-| System Organ Class | Frequency | Adverse Reaction |
-| --- | --- | --- |
-| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
-|  | Common | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
-|  | Uncommon | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis1) |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
-|  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
-|  | Rare | Leukaemia1) |
-|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1), Kaposi’s sarcoma |
-| Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
-|  | Common | Leucocytosis, thrombocytopenia |
-|  | Uncommon | Idiopathic thrombocytopenic purpura |
-|  | Rare | Pancytopenia |
-| Immune system disorders* | Common | Hypersensitivity, allergies (including seasonal allergy) |
-|  | Uncommon | Sarcoidosis1), vasculitis |
-|  | Rare | Anaphylaxis1) |
-| Metabolism and nutrition disorders | Very common | Lipids increased |
-|  | Common | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphatemia, dehydration |
-| Psychiatric disorders | Common | Mood alterations (including depression), anxiety, insomnia |
-| Nervous system disorders* | Very common | Headache |
-|  | Common | Paraesthesias (including hypoesthesia), migraine, nerve root compression |
-|  | Uncommon | Cerebrovascular accident1), tremor, neuropathy |
-|  | Rare | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1) |
-| Eye disorders | Common | Visual impairment, conjunctivitis, blepharitis, eye swelling |
-|  | Uncommon | Diplopia |
-| Ear and labyrinth disorders | Common | Vertigo |
-|  | Uncommon | Deafness, tinnitus |
-| Cardiac disorders* | Common | Tachycardia |
-|  | Uncommon | Myocardial infarction1), arrhythmia, congestive heart failure |
-|  | Rare | Cardiac arrest |
-| Vascular disorders | Common | Hypertension, flushing, haematoma |
-|  | Uncommon | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis |
-| Respiratory, thoracic and mediastinal disorders* | Common | Asthma, dyspnoea, cough |
-|  | Uncommon | Pulmonary embolism1), interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis, pleural effusion1) |
-|  | Rare | Pulmonary fibrosis1) |
-| Gastrointestinal disorders | Very common | Abdominal pain, nausea and vomiting |
-|  | Common | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome |
-|  | Uncommon | Pancreatitis, dysphagia, face oedema |
-|  | Rare | Intestinal perforation1) |
-| Hepato-biliary disorders* | Very Common | Elevated liver enzymes |
-|  | Uncommon | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased |
-|  | Rare | Hepatitis reactivation of hepatitis B1) autoimmune hepatitis1) |
-|  | Not known | Liver failure1) |
-| Skin and subcutaneous tissue disorders | Very Common | Rash (including exfoliative rash) |
-|  | Common | Worsening or new onset of psoriasis(including palmoplantar pustular psoriasis)1), urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia1), pruritus |
-|  | Uncommon | Night sweats, scar |
-|  | Rare | Erythema multiforme1), Stevens-Johnson syndrome1), angioedema1), cutaneous vasculitis1) lichenoid skin reaction1) |
-|  | Not known | Worsening of symptoms of dermatomyositis1) |
-| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain |
-|  | Common | Muscle spasms (including blood creatine phosphokinase increased) |
-|  | Uncommon | Rhabdomyolysis, systemic lupus erythematosus |
-|  | Rare | Lupus-like syndrome1) |
-| Renal and urinary disorders | Common | Renal impairment, haematuria |
-|  | Uncommon | Nocturia |
-| Reproductive system and breast disorders | Uncommon | Erectile dysfunction |
-| General disorders and administration site conditions* | Very Common | Injection site reaction (including injection site erythema) |
-|  | Common | Chest pain, oedema, pyrexia1) |
-|  | Uncommon | Inflammation |
-| Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-|  | Not known | Weight increased2) |
-| Injury, poisoning and procedural complications | Common | Impaired healing |
-
-No ALT elevations ≥3 X ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
-
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
-
-No malignancies were observed in 93 paediatric patients with an exposure of 65.3 patient years during a Humira trial in paediatric patients with ulcerative colitis.
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 

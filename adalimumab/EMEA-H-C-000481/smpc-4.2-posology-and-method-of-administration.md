@@ -34,9 +34,9 @@ There is no relevant use of Humira in patients aged less than 2 years for this i
 Humira may be available in other strengths and/or presentations depending on the individual treatment needs.
 
 Enthesitis-related arthritis
-
 The recommended dose of Humira for patients with enthesitis-related arthritis from 6 years of age is based on body weight (Table 2).
 Humira is administered every other week via subcutaneous injection.
+
 Table 2.
 Humira Dose for Patients with Enthesitis-Related Arthritis
 
@@ -138,59 +138,13 @@ Full instructions for use are provided in the package leaflet.
 
 Humira is available in other strengths and presentations.
 
-[Humira 40 mg/0.8 ml solution for injection]
-
-Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 kg)
-
-There are no clinical trials with Humira in adolescent patients with HS.
-
-The posology of Humira in these patients has been determined from pharmacokinetic modelling and simulation (see section 5.2).
-
-The recommended Humira dose is 80 mg at Week 0 followed by 40 mg every other week starting at Week 1 via subcutaneous injection.
-
-In adolescent patients with inadequate response to Humira 40 mg every other week, an increase in dosage to 40 mg every week or 80 mg every other week may be considered.
-
-Antibiotics may be continued during treatment with Humira if necessary.
-It is recommended that the patient should use a topical antiseptic wash on their HS lesions on a daily basis during treatment with Humira.
-
-Continued therapy beyond 12 weeks should be carefully reconsidered in a patient with no improvement within this time period.
-
-Should treatment be interrupted, Humira may be re-introduced as appropriate.
-
-The benefit and risk of continued long-term treatment should be periodically evaluated (see adult data in section 5.1).
-
-There is no relevant use of Humira in children aged less than 12 years in this indication.
-
-Paediatric ulcerative colitis
-
-The recommended dose of Humira for patients from 6 to 17 years of age with ulcerative colitis is based on body weight (Table 5).
-
-Humira Dose for Paediatric Patients with Ulcerative Colitis
-
-| Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
-| --- | --- | --- |
-| < 40 kg | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection) | • 40 mg every other week |
-| ≥ 40 kg | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week |
-
-* Paediatric patients who turn 18 years of age while on Humira should continue their prescribed maintenance dose.
-Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
-
-There is no relevant use of Humira in children aged less than 6 years in this indication.
-
-Humira may be available in different strengths and/or presentations depending on the individual treatment needs.
-
-The recommended dose of Humira for paediatric patients with uveitis from 2 years of age is based on body weight (Table 6).
-
-Table 6.
-
-When Humira therapy is initiated, a loading dose of 40 mg for patients < 30 kg or 80 mg for patients ≥ 30 kg may be administered one week prior to the start of maintenance therapy.
-
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Rheumatoid arthritis
 
 The recommended dose of Humira for adult patients with rheumatoid arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 Methotrexate should be continued during treatment with Humira.
+
 Glucocorticoids, salicylates, non-steroidal anti-inflammatory drugs, or analgesics can be continued during treatment with Humira.
 Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
 
@@ -223,6 +177,10 @@ Hidradenitis suppurativa
 
 The recommended Humira dose regimen for adult patients with hidradenitis suppurativa (HS) is 160 mg initially at Day 1 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days), followed by 80 mg two weeks later at Day 15 (given as two 40 mg injections in one day).
 Two weeks later (Day 29) continue with a dose of 40 mg every week or 80 mg every other week (given as two 40 mg injections in one day).
+Antibiotics may be continued during treatment with Humira if necessary.
+It is recommended that the patient should use a topical antiseptic wash on their HS lesions on a daily basis during treatment with Humira.
+
+Continued therapy beyond 12 weeks should be carefully reconsidered in a patient with no improvement within this time period.
 
 Should treatment be interrupted, Humira 40 mg every week or 80 mg every other week may be re-introduced (see section 5.1).
 
@@ -247,6 +205,8 @@ Ulcerative colitis
 
 The recommended Humira induction dose regimen for adult patients with moderate to severe ulcerative colitis is 160 mg at Week 0 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days) and 80 mg at Week 2 (given as two 40 mg injections in one day).
 
+Some patients who experience decrease in their response to 40 mg every other week may benefit from an increase in dosage to 40 mg Humira every week or 80 mg every other week.
+
 Available data suggest that clinical response is usually achieved within 2-8 weeks of treatment.
 Humira therapy should not be continued in patients failing to respond within this time period.
 
@@ -267,6 +227,27 @@ Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
 
 There is no relevant use of Humira in the paediatric population for the indications of ankylosing spondylitis and psoriatic arthritis.
 
+Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 kg)
+
+There are no clinical trials with Humira in adolescent patients with HS.
+The posology of Humira in these patients has been determined from pharmacokinetic modelling and simulation (see section 5.2).
+
+The recommended Humira dose is 80 mg at Week 0 followed by 40 mg every other week starting at Week 1 via subcutaneous injection.
+
+In adolescent patients with inadequate response to Humira 40 mg every other week, an increase in dosage to 40 mg every week or 80 mg every other week may be considered.
+
+Should treatment be interrupted, Humira may be re-introduced as appropriate.
+
+The benefit and risk of continued long-term treatment should be periodically evaluated (see adult data in section 5.1)
+
+There is no relevant use of Humira in children aged less than 12 years in this indication.
+
+Paediatric ulcerative colitis
+
+The recommended dose of Humira for patients from 6 to 17 years of age with ulcerative colitis is based on body weight (Table 5).
+
+Humira Dose for Paediatric Patients with Ulcerative Colitis
+
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
 | --- | --- | --- |
 | < 40 kg | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection) | • 40 mg every other week |
@@ -278,9 +259,17 @@ two consecutive days) and
 - 80 mg at Week 2 (given as two 40
 mg injections in one day)
 
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
+* Paediatric patients who turn 18 years of age while on Humira should continue their prescribed maintenance dose.
 
-Some patients who experience decrease in their response to 40 mg every other week may benefit from an increase in dosage to 40 mg Humira every week or 80 mg every other week.
+Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
+
+There is no relevant use of Humira in children aged less than 6 years in this indication.
+
+Humira may be available in different strengths and/or presentations depending on the individual treatment needs.
+
+The recommended dose of Humira for paediatric patients with uveitis from 2 years of age is based on body weight (Table 6).
+
+Table 6.
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 

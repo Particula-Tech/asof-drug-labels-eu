@@ -6,17 +6,9 @@ Active tuberculosis or other severe infections such as sepsis and opportunistic 
 
 Moderate to severe heart failure (NYHA class III/IV) (see section 4.4).
 
-[Humira 40 mg/0.8 ml solution for injection]
-
-Active tuberculosis or other severe infections such as sepsis, and opportunistic infections (see section 4.4).
-
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-(all sentences already above)
-
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
-
-(all sentences already above)
+Active tuberculosis or other severe infections such as sepsis, and opportunistic infections (see section 4.4).
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 

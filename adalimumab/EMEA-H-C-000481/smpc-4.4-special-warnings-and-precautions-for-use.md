@@ -181,24 +181,19 @@ Paediatric population
 
 See Vaccinations above.
 
-[Humira 40 mg/0.8 ml solution for injection]
+Excipients with known effect
+
+This medicinal product contains 0.2 mg of polysorbate 80 in each 20 mg dose.
+Polysorbates may cause allergic reactions.
+
+[Humira 40 mg solution for injection in pre-filled syringe]
 
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
 
-Excipients with known effects
-
-This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, i.e. essentially ‘sodium-free’.
-
-[Humira 40 mg solution for injection in pre-filled syringe]
-
-(all sentences already above)
-
-[Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
-
-(all sentences already above)
+This medicinal product contains 0.4 mg of polysorbate 80 in each 40 mg dose.
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
-(all sentences already above)
+This medicinal product contains 0.8 mg of polysorbate 80 in each 80 mg dose.
