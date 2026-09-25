@@ -54,18 +54,23 @@ The patient should be instructed to self-administer broad spectrum antimicrobial
 Before the injection, the periocular skin, eyelid and ocular surface should be disinfected (using for example drops of povidone iodine 5% solution on the conjunctiva as it was done in the clinical trials for the approval of OZURDEX) and adequate local anaesthesia should be administered.
 Remove the foil pouch from the carton and examine for damage (see section 6.6).
 Then, in a sterile field, open the foil pouch and gently place the applicator on a sterile tray.
-Carefully remove the cap from the applicator.
 Once the foil pouch is opened the applicator should be used immediately.
+
+Perform a detailed visual inspection of the applicator, including ensuring that the actuator button has not been depressed, and the safety tab is in place.
+Carefully remove the plastic safety cap taking care to avoid contacting the needle tip.
+Inspect the needle tip for damage prior to use; the implant retention plug may be visible in the bevel and should not be removed.
 Hold the applicator in one hand and pull the safety tab straight off the applicator.
 Do not twist or flex the tab.
-With the bevel of the needle up away from the sclera, advance the needle about 1 mm into the sclera then redirect toward the centre of the eye into the vitreous cavity until the silicone sleeve is against the conjunctiva.
-Slowly press the actuator button until an audible click is noted.
+
+With the bevel of the needle up away from the sclera, advance the needle about 1 mm into the sclera then redirect toward the centre of the eye into the vitreous cavity until the sleeve is against the conjunctiva.
+Slowly press the actuator button until an audible and/or palpable click is noted.
 Before withdrawing the applicator from the eye, make sure that the actuator button is fully pressed and has locked flush with the applicator surface.
 Remove the needle in the same direction as used to enter the vitreous.
 
 For instructions on the administration of the intravitreal implant, see section 6.6
+
 Immediately after injecting OZURDEX, use indirect ophthalmoscopy in the quadrant of injection to confirm successful implantation.
 Visualisation is possible in the large majority of cases.
 In cases in which the implant cannot be visualised, take a sterile cotton bud and lightly depress over the injection site to bring the implant into view.
 
-Following the intravitreal injection patients should continue to be treated with a broad spectrum antimicrobial.
+Following the intravitreal injection patients should continue to be treated with broad spectrum antimicrobial drops.

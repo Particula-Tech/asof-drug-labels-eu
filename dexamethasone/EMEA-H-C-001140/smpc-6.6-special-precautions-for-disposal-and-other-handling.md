@@ -17,7 +17,7 @@ This will create a shelved scleral path.
 Advance the needle until you enter the vitreous cavity.
 Do not advance the needle past the point where the sleeve of the applicator touches the conjunctiva.
 
-4) Depress the actuator button slowly until you hear a click.
+4) Depress the actuator button slowly until you hear and/or feel a click.
 Before withdrawing the applicator from the eye, make sure that the actuator button is fully depressed and has locked flush with the applicator surface.
 
 5) Withdraw the applicator in the same direction that you used to enter the vitreous.

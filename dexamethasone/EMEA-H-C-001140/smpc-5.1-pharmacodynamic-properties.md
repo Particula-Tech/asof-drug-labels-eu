@@ -11,7 +11,6 @@ Additionally, corticosteroids prevent the release of prostaglandins, some of whi
 Clinical efficacy and safety
 
 Diabetic Macular Oedema
-
 The efficacy of OZURDEX was assessed in two 3 year, multicentre, double-masked, randomised, sham-controlled, parallel studies of identical design which together comprised 1 048 patients
 (studies 206207-010 and 206207-011).
 A total of 351 were randomised to OZURDEX, 347 to dexamethasone 350 µg and 350 patients to sham.
@@ -74,8 +73,7 @@ A treatment effect was seen at the first observation time point of day 30.
 The maximum treatment effect was observed at day 60 and the difference in the incidence of responders was statistically significant favouring OZURDEX compared with sham at all time points to day 90 following injection.
 There continued to be a numerically greater proportion of responders for a ≥ 15 letter improvement from baseline in BCVA in patients treated with OZURDEX compared with sham at day 180.
 
-Table 5 Proportion of patients with ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye
-(pooled, ITT population)
+Table 5 Proportion of patients with ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye (pooled, ITT population)
 
 | Visit | OZURDEX Sham N = 427 N = 426 |
 | --- | --- |

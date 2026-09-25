@@ -7,7 +7,8 @@ Long-term systemic treatment with glucocorticoids during pregnancy increases the
 Therefore, although the systemic exposure of dexamethasone would be expected to be very low after local, intraocular treatment, OZURDEX is not recommended during pregnancy unless the potential benefit justifies the potential risk to the foetus.
 
 Breast-feeding
-Dexamethasone is excreted in breast milk No effects on the child are anticipated due to the route of administration and the resulting systemic levels.
+Dexamethasone is excreted in breast milk.
+No effects on the child are anticipated due to the route of administration and the resulting systemic levels.
 However OZURDEX is not recommended during breast-feeding unless clearly necessary.
 
 Fertility

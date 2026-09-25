@@ -8,8 +8,7 @@ Monitoring may consist of a check for perfusion of the optic nerve head immediat
 Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay, e.g. eye pain, blurred vision etc. (see section 4.8).
 
 All patients with posterior capsule tear, such as those with a posterior lens (e.g. due to cataract surgery), and/or those who have an iris opening to the vitreous cavity (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber.
-Implant migration to the anterior chamber may lead to corneal oedema.
-Persistent severe corneal oedema could progress to the need for corneal transplantation.
+Implant migration to the anterior chamber may lead to corneal oedema and/or corneal decompensation, which, if persistent, could progress to the need for corneal transplantation.
 Other than those patients contraindicated (see section 4.3) where OZURDEX should not be used, OZURDEX should be used with caution and only following a careful risk benefit assessment.
 These patients should be closely monitored to allow for early diagnosis and management of device migration.
 

@@ -19,9 +19,9 @@ Table 1 Adverse reactions
 | Nervous system disorders | Common | Headache |
 |  | Uncommon | Migraine |
 | Eye disorders | Very common | Intraocular pressure increased**, cataract**, conjunctival haemorrhage* |
-|  | Common | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/ disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
-|  | Uncommon | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/ flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia* |
-| General disorders and administration site conditions | Uncommon | Device dislocation* (migration of implant) with or without corneal oedema (see also section 4.4), complication of device insertion resulting in ocular tissue injury* (implant misplacement) |
+|  | Common | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
+|  | Uncommon | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia* |
+| General disorders and administration site conditions | Uncommon | Device dislocation* (migration of implant) with or without corneal oedema/corneal decompensation (see also section 4.4), complication of device insertion resulting in ocular tissue injury* (implant misplacement) |
 
 * indicates adverse reactions considered to be related to the intravitreal injection procedure (the frequency of these adverse reactions is proportional to the number of treatments given).
 ** in a 24-month real world observational study in the treatment of macular oedema following RVO and non-infectious uveitis affecting the posterior segment of the eye these adverse events were reported more frequently among patients who received >2 injections vs patients who received ≤2 injections; cataract formation (24.7% vs 17.7%), cataract progression (32.0% vs 13.1%), vitreous haemorrhage (6.0% vs 2.0%), and increased IOP (24.0% vs 16.6%).
@@ -29,7 +29,6 @@ Table 1 Adverse reactions
 Description of selected adverse reactions
 
 Diabetic Macular Oedema
-
 The clinical safety of OZURDEX in patients with diabetic macular oedema was assessed in two phase 3 randomized, double-masked, sham-controlled studies.
 In both studies, a total of 347 patients were randomized and received OZURDEX and 350 patients received sham.
 
