@@ -107,7 +107,7 @@ Gradual approach to quitting smoking
 CHAMPIX was evaluated in a 52-week double-blind placebo-controlled study of 1,510 subjects who were not able or willing to quit smoking within four weeks, but were willing to gradually reduce their smoking over a 12 week period before quitting.
 Subjects were randomised to either CHAMPIX 1 mg twice daily (n=760) or placebo (n=750) for 24 weeks and followed up post-treatment through week 52.
 Subjects were instructed to reduce the number of cigarettes smoked by at least 50 percent by the end of the first four weeks of treatment, followed by a further 50 percent reduction from week four to week eight of treatment, with the goal of reaching complete abstinence by 12 weeks.
-After the initial 12-week reduction phase, subjects continued treatment for another 12 weeks.
+After the initial 12week reduction phase, subjects continued treatment for another 12 weeks.
 Subjects treated with CHAMPIX had a significantly higher Continuous Abstinence Rate compared with placebo; the key results are summarised in the following table:
 
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
