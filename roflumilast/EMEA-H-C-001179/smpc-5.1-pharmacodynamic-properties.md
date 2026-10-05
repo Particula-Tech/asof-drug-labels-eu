@@ -52,10 +52,10 @@ Both studies included moderate to severe patients with a non-reversible airway o
 Roflumilast or placebo treatment was added to continuous treatment with a long-acting bronchodilator, in particular salmeterol in Study M2-127 or tiotropium in Study M2-128.
 In the two six-month studies, pre-bronchodilator FEV1 was significantly improved by 49 ml (primary endpoint, p<0.0001) beyond the bronchodilator effect of concomitant treatment with salmeterol in Study M2-127 and by 80 ml (primary endpoint, p<0.0001) incremental to concomitant treatment with tiotropium in Study M2-128.
 
-Study RO-2455-404-RD was a one-year study in COPD patients with a baseline (pre-bronchodilator)
-FEV1 <50% of predicted normal and a history of frequent exacerbations. The study assessed the effect
-of roflumilast on COPD exacerbation rate in patients treated with fixed combinations of LABA and
-inhaled corticosteroids, compared to placebo. A total of 1935 patients were randomised to double-
+Study RO-2455-404-RD was a one-year study in COPD patients with a baseline (pre-bronchodilator) FEV1 <50% of predicted normal and a history of frequent exacerbations.
+The study assessed the effect of roflumilast on COPD exacerbation rate in patients treated with fixed combinations of LABA and inhaled corticosteroids, compared to placebo.
+A total of 1935 patients were randomised to double-
+
 blind medication and approximately 70% were also using a long-acting muscarinic antagonist
 (LAMA) through the course of the trial. The primary endpoint was reduction in rate of moderate or
 severe COPD exacerbations per patient per year. The rate of severe COPD exacerbations and changes
@@ -93,12 +93,10 @@ The rate of severe exacerbations was reduced in the overall patient group (rate 
 treated with placebo. A similar reduction was achieved in the subgroup of patients concomitantly
 treated with LAMA (rate ratio: 0.77; 95% CI: 0.60 to 0.99) and in the subgroup not treated with
 LAMA (rate ratio: 0.71; 95% CI: 0.42 to 1.20).
-
-| Roflumilast improved lung function after 4 weeks (sustained over 52 weeks). Post-bronchodilator | r |
-| --- | --- |
-| FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo |  |
-| group by 4 mL (95% CI: -16, 9 mL). Post-bronchodilator FEV1 showed a clinically significant |  |
-| improvement in favour of roflumilast by 56 mL over placebo (95% CI: 38, 73 mL). |  |
+Roflumilast improved lung function after 4 weeks (sustained over 52 weeks). Post-bronchodilator
+FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo
+group by 4 mL (95% CI: -16, 9 mL). Post-bronchodilator FEV1 showed a clinically significant
+improvement in favour of roflumilast by 56 mL over placebo (95% CI: 38, 73 mL).
 
 Seventeen (1.8%) patients in the roflumilast group and 18 (1.9%) patients in the placebo group died during the double-blind treatment period due to any reason and 7 (0.7%) patients in each group due to a COPD exacerbation.
 The proportion of patients who experienced at least 1 adverse event during the double-blind treatment period were 648 (66.9%) patients and 572 (59.2%) patients in the roflumilast and placebo groups, respectively.
