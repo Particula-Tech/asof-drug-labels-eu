@@ -7,7 +7,6 @@ In 2-year carcinogenicity studies in rats and mice, semaglutide caused thyroid C
 No other treatment-related tumours were observed.
 The rodent C-cell tumours are caused by a non-genotoxic, specific GLP-1 receptor mediated mechanism to which rodents are particularly sensitive.
 The relevance for humans is considered to be low, but cannot be completely excluded.
-
 In fertility studies in rats, semaglutide did not affect mating performance or male fertility.
 In female rats, an increase in oestrous cycle length and a small reduction in corpora lutea (ovulations) were observed at doses associated with maternal body weight loss.
 

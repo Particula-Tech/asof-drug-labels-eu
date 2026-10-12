@@ -1,5 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
+Pre-filled pen
+
 Ozempic 0.25 mg solution for injection
 
 One ml of solution contains 1.34 mg of semaglutide*.
@@ -35,6 +37,22 @@ Ozempic 2 mg solution for injection
 One ml of solution contains 2.68 mg of semaglutide*.
 One pre-filled pen contains 8 mg semaglutide* in 3 ml solution.
 Each dose contains 2 mg of semaglutide in 0.74 ml solution.
+
+Pre-filled syringe
+
+Ozempic 0.25 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 0.25 mg semaglutide* in 0.5 ml solution.
+One ml of solution contains 0.5 mg of semaglutide*.
+
+Ozempic 0.5 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 0.5 mg semaglutide* in 0.5 ml solution.
+One ml of solution contains 1 mg of semaglutide*.
+Ozempic 1 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 1 mg semaglutide* in 0.5 ml solution.
+One ml of solution contains 2 mg of semaglutide*.
 
 *Human glucagon-like peptide-1 (GLP-1) analogue produced in Saccharomyces cerevisiae cells by recombinant DNA technology.
 

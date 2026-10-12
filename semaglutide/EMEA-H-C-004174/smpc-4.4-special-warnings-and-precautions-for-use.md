@@ -3,10 +3,9 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
 General
 
-Semaglutide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
+Semaglutide should not be used for the treatment of diabetic ketoacidosis.
 Semaglutide is not a substitute for insulin.
 Diabetic ketoacidosis has been reported in insulin-dependent patients whom had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
 
@@ -16,10 +15,12 @@ Aspiration in association with general anaesthesia or deep sedation
 
 Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation.
 Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
-Gastrointestinal effects
+
+Gastrointestinal effects and dehydration
 
 Use of GLP-1 receptor agonists may be associated with gastrointestinal adverse reactions.
-This should be considered when treating patients, with impaired renal function as nausea, vomiting, and diarrhoea may cause dehydration which could cause a deterioration of renal function (see section 4.8).
+This should be considered when treating patients, with impaired renal function as nausea, vomiting, and diarrhoea may cause dehydration, which in rare cases can lead to a deterioration of renal function (see section 4.8).
+Patients treated with semaglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
 
 Acute pancreatitis
 
@@ -40,6 +41,17 @@ Caution should be exercised when using semaglutide in patients with diabetic ret
 These patients should be monitored closely and treated according to clinical guidelines.
 Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy, but other mechanisms cannot be excluded.
 There is no experience with semaglutide 2 mg in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy and semaglutide 2 mg is therefore not recommended in these patients.
+
+Non-arteritic anterior ischaemic optic neuropathy (NAION)
+
+Data from epidemiological studies indicates an increased risk for non-arteritic anterior ischaemic optic neuropathy (NAION) during treatment with semaglutide.
+There is no identified time interval for when NAION may develop following treatment start.
+A sudden loss of vision should lead to ophthalmological examination and treatment with semaglutide should be discontinued if NAION is confirmed (see section 4.8).
+
+Patients with gastroparesis
+
+Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse events.
+Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
 
 Sodium content
 

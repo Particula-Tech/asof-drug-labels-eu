@@ -22,6 +22,7 @@ Biotransformation
 
 Prior to excretion, semaglutide is extensively metabolised through proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid sidechain.
 The enzyme neutral endopeptidase (NEP) is expected to be involved in the metabolism of semaglutide.
+
 Elimination
 
 In a trial with a single subcutaneous dose of radiolabelled semaglutide, it was found that the primary excretion routes of semaglutide-related material were via urine and faeces; approximately 2/3 of semaglutide-related material were excreted in urine and approximately 1/3 in faeces.

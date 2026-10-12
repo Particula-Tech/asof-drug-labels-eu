@@ -30,7 +30,6 @@ Semaglutide did not change the overall exposure or Cmax of digoxin following a s
 Metformin
 
 Semaglutide did not change the overall exposure or Cmax of metformin following dosing of 500 mg twice daily over 3.5 days.
-
 Warfarin and other coumarin derivatives
 
 Semaglutide did not change the overall exposure or Cmax of R- and S-warfarin following a single dose of warfarin (25 mg), and the pharmacodynamic effects of warfarin as measured by the international normalised ratio (INR) were not affected in a clinically relevant manner.

@@ -13,9 +13,9 @@ The glucose and appetite effects are specifically mediated via GLP-1 receptors i
 Semaglutide reduces blood glucose in a glucose dependent manner by stimulating insulin secretion and lowering glucagon secretion when blood glucose is high.
 The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase.
 During hypoglycaemia, semaglutide diminishes insulin secretion and does not impair glucagon secretion.
+
 Semaglutide reduces body weight and body fat mass through lowered energy intake, involving an overall reduced appetite.
 In addition, semaglutide reduces the preference for high fat foods.
-
 GLP-1 receptors are also expressed in the heart, vasculature, immune system and kidneys.
 The mechanism of action of semaglutide is likely multifactorial.
 Indirect effects are indicated by the beneficial effect of semaglutide on plasma lipids, lowered systolic blood pressure and reduced inflammation in clinical studies but direct effects are likely also involved.
@@ -70,6 +70,8 @@ The efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly were evaluate
 Five trials (SUSTAIN 1–5) had the glycaemic efficacy assessment as the primary objective, while one trial (SUSTAIN 6) had cardiovascular outcome as the primary objective.
 
 The efficacy and safety of semaglutide 2 mg once weekly was evaluated in a phase 3b trial (SUSTAIN FORTE) including 961 patients.
+
+A phase 3b trial (SUSTAIN OPTIMIZE) including 573 patients was conducted to investigate the efficacy and safety of once-weekly semaglutide subcutaneous 2 mg as add-on to dose reduced insulin glargine versus dose-titrated insulin glargine alone.
 
 In addition, a phase 3b trial (SUSTAIN 7) including 1 201 patients was conducted to compare the efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly to dulaglutide 0.75 mg and 1.5 mg once weekly, respectively.
 A phase 3b trial (SUSTAIN 9), was conducted to investigate the efficacy and safety of semaglutide as add-on to SGLT2 inhibitor treatment.
@@ -281,10 +283,37 @@ Table 8 SUSTAIN FORTE: Results at week 40
 
 ap<0.001 (2-sided) for superiority bp<0.05 (2-sided) for superiority
 
+SUSTAIN OPTIMIZE – Semaglutide 2 mg as add-on to dose-reduced insulin glargine vs. dose-titrated insulin glargine
+In a 40-week, open-label comparator trial, 573 patients with type 2 diabetes and overweight or obesity (BMI ≥ 25 kg/m²) and a basal insulin dose ≤ 40 U/day were randomised to receive once-weekly semaglutide subcutaneous 2 mg as add-on to dose-reduced insulin glargine or dose-titrated insulin glargine alone.
+The insulin glargine dose was reduced by 10 U at initiation of semaglutide and each subsequent escalation step, with titration during the whole duration of the study.
+
+Treatment with semaglutide 2 mg as add-on to dose-reduced insulin glargine, resulted in a statistically superior reduction in HbA1c, body weight and daily basal insulin dose after 40 weeks of treatment compared to dose-titrated insulin glargine alone.
+
+Table 9 SUSTAIN OPTIMIZE: Results at week 40
+
+|  | Semaglutide 2 mg as add-on to dose-reduced insulin glargine | Insulin Glargine (dose-titrated) |
+| --- | --- | --- |
+| Intent-to-Treat (ITT) Population (N) | 288 | 285 |
+| HbA1c (%) |  |  |
+| Baseline (mean) | 7.9 | 7.9 |
+| Change from baseline at week 40 | -1.4 | -0.6 |
+| Difference from insulin glargine [95% CI] | -0.74 [-0.90, -0.59]a | - |
+| Body weight (kg) |  |  |
+| Baseline (mean) | 93 | 95 |
+| Change from baseline at week 40 | -8 | 0.5 |
+| Difference from insulin glargine [95% CI] | -8.5 [-9.52, -7.39]a | - |
+| Daily insulin dose (U) |  |  |
+| Baseline (mean) | 26 | 26.5 |
+| Relative change from baseline at week 40 (%) | -17.8 | 104.1 |
+| Difference from insulin glargine [95% CI] | -121.9 [-143.1, -100.6]a | - |
+| Patients (%) achieving insulin dose 0U at week 40 | 12.91 | 0.1 |
+| Patients (%) achieving insulin dose reduction from baseline by at least 50% at week 40 | 35.62 | 0.71 |
+
+ap <0.0001 (2-sided) for superiority
 SUSTAIN 9 – Semaglutide vs. placebo as add-on to SGLT2 inhibitor ± metformin or sulfonylurea
 In a 30-week double-blind placebo-controlled trial, 302 patients inadequately controlled with SGLT2 inhibitor with or without metformin or sulfonylurea were randomised to semaglutide 1 mg once weekly or placebo.
 
-Table 9 SUSTAIN 9: Results at week 30
+Table 10 SUSTAIN 9: Results at week 30
 
 |  | Semaglutide 1 mg | Placebo |
 | --- | --- | --- |
@@ -354,7 +383,6 @@ Time from randomisation (week)
 Semaglutide Placebo
 
 Figure 3 Kaplan-Meier plot of time to first occurrence of the composite outcome: cardiovascular death, non-fatal myocardial infarction or non-fatal stroke (SUSTAIN 6)
-
 Hazard Ratio Semaglutide Placebo
 
 (95% CI) N (%) N (%)
@@ -388,8 +416,9 @@ The mean age of the study population was 67 years, and 75.4% of patients were ma
 Mean BMI was 29.6 kg/m2 and mean diabetes duration was 13.3 years.
 
 In STRIDE, treatment with semaglutide 1 mg once-weekly resulted in a statistically significant improvement in the functional capacity outcomes (maximum walking distance, pain-free walking distance) and patient reported symptoms and impacts of intermittent claudication (VascuQoL-6 total score) at week 52 compared to placebo.
-The 13% relative improvement represents a median change in maximum walking distance of 26 meters on constant load treadmill [12 – 41] 95% CI (Table 10).
-Table 10: Functional capacity outcomes and VascuQoL-6 total score from STRIDE
+The 13% relative improvement represents a median change in maximum walking distance of 26 meters on constant load treadmill [12 – 41] 95% CI (Table 11).
+
+Table 11: Functional capacity outcomes and VascuQoL-6 total score from STRIDE
 
 | Intention-to-treata | Ozempic N = 396 | Placebo N = 396 |
 | --- | --- | --- |
@@ -434,7 +463,6 @@ Semaglutide was superior to placebo, in addition to standard-of-care, in prevent
 The individual components of the primary composite contributed to the treatment effect but there were few kidney deaths (see Figure 6).
 Semaglutide showed superiority over placebo, in addition to standard-of-care, in reducing the yearly rate of change in eGFR with an estimated treatment difference of 1.16 (ml/min/1.73m2/year) [0.86; 1.47]95% CI.
 Treatment with semaglutide improved overall survival with a significant reduction in all-cause mortality (see Figure 6).
-
 HR: 0.76
 95% CI [0.66 - 0.88]
 
@@ -471,8 +499,8 @@ Figure 6 Forest plot: analyses of time to first occurrence of the primary compos
 
 Body weight
 After one year of treatment, a weight loss of ≥5% and ≥10% was achieved for more subjects with semaglutide 0.5 mg (46% and 13%) and 1 mg (52–62% and 21–24%) compared with the active comparators sitagliptin (18% and 3%) and exenatide ER (17% and 4%).
-In the 40-week trial versus dulaglutide a weight loss of ≥5% and ≥10% was achieved for more subjects with semaglutide 0.5 mg (44% and 14%) compared with dulaglutide 0.75 mg (23% and 3%) and semaglutide 1 mg (up to 63% and 27%) compared with dulaglutide 1.5 mg (30% and 8%).
 
+In the 40-week trial versus dulaglutide a weight loss of ≥5% and ≥10% was achieved for more subjects with semaglutide 0.5 mg (44% and 14%) compared with dulaglutide 0.75 mg (23% and 3%) and semaglutide 1 mg (up to 63% and 27%) compared with dulaglutide 1.5 mg (30% and 8%).
 A significant and sustained reduction in body weight from baseline to week 104 was observed with semaglutide 0.5 mg and 1 mg vs placebo 0.5 mg and 1 mg, in addition to standard-of-care (-3.6 kg and -4.9 kg vs -0.7 kg and -0.5 kg , respectively) in SUSTAIN 6.
 
 In the kidney outcomes trial FLOW, treatment with semaglutide 1 mg resulted in a sustained reduction in body weight at week 104 vs placebo, in addition to standard-of-care (-5.6 kg for semaglutide and -1.4 kg for placebo).

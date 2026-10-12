@@ -13,7 +13,6 @@ Weekly doses higher than 2 mg are not recommended.
 When Ozempic is added to existing metformin and/or thiazolidinedione therapy or to a sodium-glucose cotransporter 2 (SGLT2) inhibitor, the current dose of metformin and/or thiazolidinedione or SGLT2 inhibitor can be continued unchanged.
 
 When Ozempic is added to existing therapy of sulfonylurea or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see sections 4.4 and 4.8).
-
 Self-monitoring of blood glucose is not needed in order to adjust the dose of Ozempic.
 Blood glucose self-monitoring is necessary to adjust the dose of sulfonylurea and insulin, particularly when Ozempic is started and insulin is reduced.
 A stepwise approach to insulin reduction is recommended.
@@ -31,6 +30,7 @@ Special populations
 
 Elderly
 No dose adjustment is required based on age.
+
 Renal impairment
 No dose adjustment is required for patients with mild, moderate or severe renal impairment.
 Experience with the use of semaglutide in patients with end-stage kidney disease is limited.
