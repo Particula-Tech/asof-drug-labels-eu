@@ -18,23 +18,23 @@ Treatment with ocrelizumab leads to rapid depletion of CD19+ B cells in blood by
 This was sustained throughout the treatment period.
 For the B-cell counts, CD19 is used, as the presence of ocrelizumab interferes with the recognition of CD20 by the assay.
 
-In the Phase III studies, between each dose of ocrelizumab, up to 5% of patients showed B-cell repletion (>LLN or baseline) at least at one time point.
+In the Phase III adult studies, between each dose of ocrelizumab, up to 5% of patients showed B-cell repletion (>LLN or baseline) at least at one time point.
 The extent and duration of B-cell depletion was consistent in the PPMS and RMS trials.
 
 The longest follow up time after the last infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 – 175 weeks).
 90% of all patients had their B-cells repleted to LLN or baseline by approximately two and a half years after the last infusion.
 
-Clinical efficacy and safety
+Clinical efficacy and safety in adults
 
 Relapsing forms of multiple sclerosis (RMS)
 
 Efficacy and safety of ocrelizumab were evaluated in two randomised, double-blind, double-dummy, active comparator-controlled clinical trials (WA21092 and WA21093), with identical design, in patients with relapsing forms of MS (in accordance with McDonald criteria 2010) and evidence of disease activity (as defined by clinical or imaging features) within the previous two years.
-Study design and baseline characteristics of the study population are summarised in Table 3.
+Study design and baseline characteristics of the study population are summarised in Table 5.
 
 Demographic and baseline characteristics were well balanced across the two treatment groups.
-Patients receiving ocrelizumab (Group A) were given 600 mg every 6 months (Dose 1 as 2 x 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
+Patients receiving ocrelizumab (Group A) were given 600 mg every 6 months (Dose 1 as 2 × 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
 Patients in Group B were administered Interferon beta-1a 44 mcg via subcutaneous injection 3 times per week.
-Table 3 Study design, demographic and baseline characteristics
+Table 5 Study design, demographic and baseline characteristics
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -55,23 +55,23 @@ Table 3 Study design, demographic and baseline characteristics
 | Mean EDSS* | 2.82 | 2.71 | 2.73 | 2.79 |
 
 * Expanded Disability Status Scale
-** Patients who had not been treated with a disease-modifying therapy (DMT) in the 2 years prior to randomisation.
+**Patients who had not been treated with a disease-modifying therapy (DMT) in the 2 years prior to randomisation.
 
-Key clinical and MRI efficacy results are presented in Table 4 and Figure 1.
+Key clinical and MRI efficacy results are presented in Table 6 and Figure 1.
 
 The results of these studies show that ocrelizumab significantly suppressed relapses, sub-clinical disease activity measured by MRI, and disease progression compared with interferon beta-1a 44 mcg subcutaneous.
-Table 4 Key clinical and MRI endpoints from Studies WA21092 and WA21093 (RMS)
+Table 6 Key clinical and MRI endpoints from Studies WA21092 and WA21093 (RMS)
 
 | Endpoints | Study 1: WA21092 (OPERA I) |  | Study 2: WA21093 (OPERA II) |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Ocrelizumab 600 mg (n=410) | IFN 44 mcg (n=411) | Ocrelizumab 600 mg (n=417) |  | IFN 44 mcg (n=418) |
 | Clinical Endpoints |  |  |  |  |  |
 | Annualised Relapse Rate (ARR) (primary endpoint)8 Relative Reduction | 0.156 | 0.292 | 0.155 |  | 0.290 |
-|  | 46 % (p<0.0001) |  | 47 % (p<0.0001) |  |  |
+|  | 46% (p<0.0001) |  | 47% (p<0.0001) |  |  |
 | Proportion of patients with 12 week Confirmed Disability Progression3 Risk Reduction (Pooled Analysis1) Risk Reduction (Individual Studies2) | 9.8% Ocrelizumab vs 15.2% IFN 40% (p=0.0006)7 |  |  |  |  |
-|  | 43 % (p=0.0139)7 |  | 37 % (p=0.0169)7 |  |  |
+|  | 43% (p=0.0139)7 |  | 37% (p=0.0169)7 |  |  |
 | Proportion of patients with 24 week Confirmed Disability Progression (CDP)3 Risk Reduction (Pooled Analysis1) Risk Reduction (Individual Studies2) | 7.6% Ocrelizumab vs 12.0% IFN 40% (p=0.0025)7 |  |  |  |  |
-|  | 43 % (p=0.0278)7 |  | 37 % (p=0.0370)7 |  |  |
+|  | 43% (p=0.0278)7 |  | 37% (p=0.0370)7 |  |  |
 | Proportion of patients with at least 12 weeks Confirmed Disability Improvement4 Relative Increase (Pooled Analysis1) Relative Increase (Individual Studies2) | 20.7% Ocrelizumab vs 15.6% IFN |  |  |  |  |
 |  | 33% (p=0.0194) |  |  |  |  |
 |  | 61% (p=0.0106) |  |  | 14% (p=0.4019) |  |
@@ -98,7 +98,7 @@ Exploratory result based on complete ITT population.
 6 Non-confirmatory p-value; hierarchical testing procedure terminated before reaching endpoint.
 7 Log-rank test
 8 Confirmed relapses (accompanied by a clinically relevant change in EDSS).
-Figure 1: Kaplan-Meier Plot of Time to Onset of Confirmed Disability Progression Sustained for at Least 12 Weeks with the Initial Event of Neurological Worsening Occurring during the Double-blind Treatment Period (Pooled WA21092 and WA21093 ITT Population)*
+Figure 1 Kaplan-Meier plot of time to onset of confirmed disability progression sustained for at least 12 weeks with the initial event of neurological worsening occurring during the double-blind treatment period (pooled WA21092 and WA21093 ITT population)*
 
 40% reduction in risk of CDP
 HR (95% CI): 0.60 (0.45, 0.81)
@@ -118,17 +118,16 @@ Efficacy and safety of ocrelizumab were also evaluated in a randomised, double-b
 With regard to disease activity, features characteristic of inflammatory activity, even in progressive MS, can be imaging-related, (i.e. T1 Gd-enhancing lesions and/or active [new or enlarging] T2 lesions).
 MRI evidence should be used to confirm inflammatory activity in all patients.
 Patients over 55 years of age were not studied.
-Study design and baseline characteristics of the study population are presented in Table 5.
+Study design and baseline characteristics of the study population are presented in Table 7.
 
 Demographic and baseline characteristics were well balanced across the two treatment groups.
 Cranial MRI showed imaging features characteristic of inflammatory activity either by T1 Gd enhancing lesions or T2 lesions.
-
 During the Phase III PPMS study, patients received 600 mg ocrelizumab every 6 months as two 300 mg infusions, given two weeks apart, throughout the treatment period.
-The 600 mg infusions in RMS and the 2 x 300 mg infusions in PPMS demonstrated consistent PK/PD profiles.
-IRR profiles per infusion were also similar, independent of whether the 600 mg dose was administered as a single 600 mg infusion or as two 300 mg infusions separated by two weeks (see sections 4.8 and 5.2), but due to overall more infusions with the 2 x 300 mg regimen, the total number of IRRs were higher.
+The 600 mg infusions in RMS and the 2 × 300 mg infusions in PPMS demonstrated consistent PK/PD profiles.
+IRR profiles per infusion were also similar, independent of whether the 600 mg dose was administered as a single 600 mg infusion or as two 300 mg infusions separated by two weeks (see sections 4.8 and 5.2), but due to overall more infusions with the 2 × 300 mg regimen, the total number of IRRs were higher.
 Therefore, after Dose 1 it is recommended to administer ocrelizumab in a 600 mg single infusion (see section 4.2) to reduce the total number of infusions (with concurrent exposure to prophylactic methylprednisolone and an antihistamine) and the related infusion reactions.
 
-Table 5 Study design, demographics and baseline characteristics for Study WA25046
+Table 7 Study design, demographics and baseline characteristics for Study WA25046
 
 Study name Study WA25046 ORATORIO (n=732)
 Study design
@@ -136,7 +135,7 @@ Study population Patients with primary progressive form of MS
 Study duration Event-driven (Minimum 120 weeks and 253 confirmed
 disability progression events)
 (Median follow-up time: Ocrelizumab 3.0 years, Placebo
-2.8 years
+2.8 years)
 Disease history at screening Age 18-55 years, EDSS of 3.0 to 6.5
 Treatment groups Group A: Ocrelizumab 600 mg
 Group B: Placebo, in 2:1 randomisation
@@ -149,10 +148,10 @@ Mean/Median disease duration 2.9/1.6 2.8/1.3
 since PPMS diagnosis (years)
 Mean EDSS 4.7 4.7
 
-Key clinical and MRI efficacy results are presented in Table 6 and Figure 2.
+Key clinical and MRI efficacy results are presented in Table 8 and Figure 2.
 
 The results of this study show that ocrelizumab significantly delays disease progression and reduces deterioration in walking speed compared with placebo.
-Table 6 Key clinical and MRI endpoints from Study WA25046 (PPMS)
+Table 8 Key clinical and MRI endpoints from Study WA25046 (PPMS)
 
 |  | Study 3 |  |
 | --- | --- | --- |
@@ -172,7 +171,7 @@ Table 6 Key clinical and MRI endpoints from Study WA25046 (PPMS)
 |  | 17.5% (p=0.0206) |  |
 
 1 Defined as an increase of ≥ 1.0 point from the baseline EDSS score for patients with baseline score of 5.5 or less, or ≥ 0.5 when the baseline score is > 5.5, Kaplan-Meier estimates at Week 120.
-Figure 2: Kaplan-Meier Plot of Time to Onset of Confirmed Disability Progression Sustained for at Least 12 Weeks with the Initial Event of Neurological Worsening Occurring during the Double-blind Treatment Period (WA25046 ITT Population)*
+Figure 2 Kaplan-Meier plot of time to onset of confirmed disability progression sustained for at least 12 weeks with the initial event of neurological worsening occurring during the double-blind treatment period (WA25046 ITT population)*
 
 24% reduction in risk of CDP HR (95% CI): 0.76 (0.59, 0.98); p=0.0321
 
@@ -207,12 +206,13 @@ Immunogenicity
 
 Patients in MS trials (WA21092, WA21093 and WA25046) were tested at multiple time points (baseline and every 6 months post treatment for the duration of the trial) for anti-drug antibodies (ADAs).
 Out of 1311 patients treated with ocrelizumab, 12 (~1%) tested positive for treatment-emergent ADAs, of which 2 patients tested positive for neutralising antibodies.
+Two out of 90 paediatric patients in WN42086 (2.2%) had treatment-emergent ADAs.
 The impact of treatment-emergent ADAs on safety and efficacy cannot be assessed given the low incidence of ADA associated with ocrelizumab.
 
 Immunisations
 
 In a randomised open-label study in RMS patients (N=102), the percentage of patients with a positive response to tetanus vaccine at 8 weeks after vaccination was 23.9% in the ocrelizumab group compared to 54.5% in the control group (no disease-modifying therapy except interferon-beta).
-Geometric mean anti-tetanus toxoid specific antibody titres at 8 weeks were 3.74 and 9.81 IU/ml, respectively.
+Geometric mean anti-tetanus toxoid specific antibody titres at 8 weeks were 3.74 and 9.81 IU/mL, respectively.
 Positive response to ≥5 serotypes in 23-PPV at 4 weeks after vaccination was 71.6% in the ocrelizumab group and 100% in the control group.
 In patients treated with ocrelizumab a booster vaccine (13-PCV) given 4 weeks after 23-PPV did not markedly enhance the response to 12 serotypes in common with 23-PPV.
 The percentage of patients with seroprotective titres against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with ocrelizumab and 75.0−97.0% in the control group, respectively.
@@ -220,8 +220,54 @@ See sections 4.4 and 4.5.
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Ocrevus in one or more subsets of the paediatric population in the treatment of multiple sclerosis.
-See section 4.2 for information on paediatric use.
+The efficacy and safety of ocrelizumab were evaluated in a randomised, double-blind, double-dummy, active comparator-controlled clinical trial (WN42086) in paediatric patients aged 10 years and older with relapsing-remitting multiple sclerosis (in accordance with McDonald criteria 2017) and evidence of disease activity (as defined by clinical or imaging features) within the previous two years.
+Study design and baseline characteristics of the study population are summarised in Table 9.
+
+Demographic and baseline characteristics were well balanced across the two treatment groups.
+Patients receiving ocrelizumab were given 600 mg every 6 months (Dose 1 as 2 × 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
+Patients receiving fingolimod were given a 0.5 mg daily oral dose.
+Table 9 Study design, demographic and baseline characteristics
+
+| Study name | Study WN42086 (Operetta 2) |  |
+| --- | --- | --- |
+| Study design |  |  |
+| Study population | Paediatric patients aged ≥10 to <18 years with relapsing-remitting multiple sclerosis (RRMS) |  |
+| Disease history at screening | At least two relapses within the prior two years, or one relapse within the prior year or evidence of at least one Gd-enhancing lesion on MRI within 6 months prior to randomization (including screening MRI); EDSS1 between 0 and 5.5, inclusive |  |
+| Study duration | Flexible duration, until the last patient enrolled has completed at least 24 weeks on treatment 2 |  |
+| Treatment groups | Group A: Ocrelizumab 600 mg Group B: Fingolimod 0.5 mg |  |
+| Baseline characteristics | Ocrelizumab 600 mg (n=93) | Fingolimod 0.5 mg (n=94) |
+| Mean age (years) | 15.0 | 15.0 |
+| Age range (years) at inclusion | 11.0-17.0 | 12.0-17.0 |
+| Gender distribution (% male/% female) | 28.0/72.0 | 34.0/66.0 |
+| Median weight, kg (range) | 63.1 (50.0-154.2) | 63.5 (42.3-123.0) |
+| Mean/median disease duration since RRMS diagnosis (years) | 0.6/0.4 | 0.7/0.5 |
+| Mean number of relapses in the last year | 1.4 | 1.5 |
+| Proportion of patients with Gd-enhancing T1 Lesions | 47.3% | 46.8% |
+| Mean T2 lesion count | 57.4 | 57.4 |
+
+1 Expanded Disability Status Scale
+2 The median treatment duration in weeks (range) was 76.7 (32.1-159.7) for patients receiving ocrelizumab and 73.9 (11.0-145.0) for patients receiving fingolimod.
+
+Key clinical and MRI efficacy results are presented in Table 10.
+
+The results of this study show that ocrelizumab demonstrated non-inferiority in reducing the annualised relapse rate and superiority in reducing the annualised rate of new/enlarging T2 lesions over the double-blind period and in reducing the number of Gd-enhancing T1 lesions at Week 12 compared with fingolimod.
+Table 10 Key clinical and MRI endpoints from Study WN42086 (RRMS)
+
+| Endpoints | Study WN42086 (Operetta 2) |  |
+| --- | --- | --- |
+|  | Ocrevus 600 mg (n=93) | Fingolimod 0.5 mg (n=94) |
+| Clinical endpoints |  |  |
+| Annualised relapse rate (primary endpoint)1 Relative reduction Rate ratio | 0.070 | 0.135 |
+|  | 48.3% |  |
+|  | 0.517 (95% Cl: 0.193-1.329) 2 |  |
+| MRI endpoints |  |  |
+| Annualised rate of new and/or enlarging T2 hyperintense lesions per MRI scan 1 Relative reduction | 3.827 | 7.275 |
+|  | 47.8% |  |
+| Mean number of T1 Gd-enhancing lesions at week 12 Relative reduction | 0.054 | 0.375 |
+|  | 87.2% |  |
+
+1 During the double-blind treatment period
+2 The upper bound of the 95% CI was below the predefined non-inferiority margin of 3.
 
 [Ocrevus 920 mg solution for injection]
 
@@ -233,11 +279,12 @@ In the Phase III studies, between each dose of intravenous ocrelizumab, up to 5%
 
 The longest follow up time after the last intravenous infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 - 175 weeks).
 
+Clinical efficacy and safety
+
 Subcutaneous formulation
 
 OCARINA II
-
-Study CN42097 (OCARINA II) was a multi-center, randomised, open-label, parallel arm trial conducted to evaluate the pharmacokinetics, pharmacodynamics, safety, immunogenicity, radiological and clinical effects of subcutaneous ocrelizumab compared with intravenous ocrelizumab in patients with either RMS or PPMS.
+Study CN42097 (OCARINA II) was a multicenter, randomised, open-label, parallel arm trial conducted to evaluate the pharmacokinetics, pharmacodynamics, safety, immunogenicity, radiological and clinical effects of subcutaneous ocrelizumab compared with intravenous ocrelizumab in patients with either RMS or PPMS.
 OCARINA II was designed to demonstrate non-inferiority of treatment with subcutaneous ocrelizumab versus intravenous ocrelizumab based on the primary PK endpoint of area under the concentration time curve (AUC) up to week 12 post-injection/infusion (AUCw1-12).
 
 A total of 236 patients with RMS or PPMS (213 patients with RMS, 23 patients with PPMS) were randomised in a 1:1 ratio to the subcutaneous arm or intravenous arm.
@@ -257,7 +304,10 @@ Intravenous formulation
 
 Study design and baseline characteristics of the study population are summarised in Table 2.
 
+Patients receiving ocrelizumab (Group A) were given 600 mg every 6 months (Dose 1 as 2 x 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
 Table 2 Study design, demographic and baseline characteristics
+
+** Patients who had not been treated with a disease-modifying therapy (DMT) in the 2 years prior to randomisation.
 
 Key clinical and MRI efficacy results are presented in Table 3 and Figure 1.
 
@@ -274,13 +324,16 @@ Analysis of
 
 Study design and baseline characteristics of the study population are presented in Table 4.
 
+The 600 mg infusions in RMS and the 2 x 300 mg infusions in PPMS demonstrated consistent PK/PD profiles.
+IRR profiles per infusion were also similar, independent of whether the 600 mg dose was administered as a single 600 mg infusion or as two 300 mg infusions separated by two weeks (see sections 4.8 and 5.2), but due to overall more infusions with the 2 x 300 mg regimen, the total number of IRRs were higher.
+
 Table 4 Study design, demographics and baseline characteristics for Study WA25046
 
 | Study name | Study WA25046 ORATORIO (n=732) |  |
 | --- | --- | --- |
 | Study design |  |  |
 | Study population | Patients with primary progressive form of MS |  |
-| Study duration | Event-driven (Minimum 120 weeks and 253 confirmed disability progression events) (Median follow-up time: Ocrelizumab 3.0 years, Placebo 2.8 years |  |
+| Study duration | Event-driven (Minimum 120 weeks and 253 confirmed disability progression events) (Median follow-up time: Ocrelizumab 3.0 years, Placebo 2.8 years) |  |
 | Disease history at screening | Age 18-55 years, EDSS of 3.0 to 6.5 |  |
 | Treatment groups | Group A: Ocrelizumab 600 mg Group B: Placebo, in 2:1 randomisation |  |
 | Baseline characteristics | Ocrelizumab 600 mg (n=488) | Placebo (n=244) |
@@ -306,3 +359,6 @@ In a randomised open-label study in RMS patients (N=102), the percentage of pati
 Positive response to ≥5 serotypes in 23-PPV at 4 weeks after vaccination was 71.6% in the intravenous ocrelizumab group and 100% in the control group.
 In patients treated with intravenous ocrelizumab a booster vaccine (13-PCV) given 4 weeks after 23-PPV did not markedly enhance the response to 12 serotypes in common with 23-PPV.
 The percentage of patients with seroprotective titres against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with intravenous ocrelizumab and 75.0−97.0% in the control group, respectively.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Ocrevus in one or more subsets of the paediatric population in the treatment of multiple sclerosis.
+See section 4.2 for information on paediatric use.

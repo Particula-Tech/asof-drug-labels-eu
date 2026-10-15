@@ -28,7 +28,6 @@ Premedication
 Patients must receive premedication to reduce the frequency and severity of IRRs (see section 4.2).
 
 During the infusion
-
 The following measures need to be taken for patients who experience severe pulmonary symptoms, such as bronchospasm or asthma exacerbation:
 
 - their infusion must be interrupted immediately and permanently;
@@ -39,7 +38,6 @@ Hypersensitivity may be clinically indistinguishable from an IRR in terms of sym
 If a hypersensitivity reaction is suspected during infusion, the infusion must be stopped immediately and permanently (see ‘Hypersensitivity reactions’ below).
 
 After the infusion
-
 Patients should be observed for at least one hour after the completion of the infusion for any symptom of IRR.
 
 Physicians should alert patients that an IRR can occur within 24 hours of infusion.
@@ -53,7 +51,7 @@ Type 1 acute hypersensitivity reactions (IgE-mediated) may be clinically indisti
 
 A hypersensitivity reaction may present during any administration, although typically would not present during the first administration.
 For subsequent administrations, more severe symptoms than previously experienced, or new severe symptoms, should prompt consideration of a potential hypersensitivity reaction.
-Patients with known Ig-E mediated hypersensitivity to ocrelizumab or any of the excipients must not be treated (see section 4.3).
+Patients with known IgE-mediated hypersensitivity to ocrelizumab or any of the excipients must not be treated (see section 4.3).
 
 Infection
 
@@ -64,7 +62,6 @@ It is recommended to verify the patient’s immune status before dosing since se
 The overall proportion of patients experiencing a serious infection (SI) was similar to comparators (see section 4.8).
 The frequency of grade 4 (life-threatening) and grade 5 (fatal) infections was low in all treatment groups, but in PPMS it was higher with ocrelizumab compared with placebo for life-threatening (1.6% vs 0.4%) and fatal (0.6% vs 0%) infections.
 All life-threatening infections resolved without discontinuing ocrelizumab.
-
 In PPMS, patients with swallowing difficulties are at a higher risk of aspiration pneumonia.
 Treatment with ocrelizumab may further increase the risk of severe pneumonia in these patients.
 Physicians should take prompt action for patients presenting with pneumonia.
@@ -95,16 +92,16 @@ In patients with signs and symptoms of infection, measurement of blood neutrophi
 
 Malignancies
 
-An increased number of malignancies (including breast cancers) have been observed in the controlled period of the pivotal clinical trials in patients treated with ocrelizumab, compared to control groups.
+An increased number of malignancies (including breast cancers) have been observed in the controlled period of the pivotal clinical trials in adult patients treated with ocrelizumab, compared to control groups.
 The incidence was within the background rate expected for an MS population.
 After approximately 10 years of continuous ocrelizumab treatment over the controlled period and Open-Label Extension (OLE) phase of the pivotal clinical trials, the incidence of malignancies remained within the background rate expected for an MS population.
 Patients with a known active malignancy should not be treated with ocrelizumab (see section 4.3).
 Individual benefit risk should be considered in patients with known risk factors for malignancies and in patients who are being actively monitored for recurrence of malignancy.
 Patients should follow standard breast cancer screening per local guidelines.
+
 Treatment of severely immunocompromised patients
 
 Patients in a severely immunocompromised state must not be treated until the condition resolves (see section 4.3).
-
 In other auto-immune conditions, use of ocrelizumab concomitantly with immunosuppressants (e.g., chronic corticosteroids, non-biologic and biologic disease-modifying antirheumatic drugs [DMARDS], mycophenolate mofetil, cyclophosphamide, azathioprine) resulted in an increase of SIs, including opportunistic infections.
 Infections included and were not limited to atypical pneumonia and pneumocystis jirovecii pneumonia, varicella pneumonia, tuberculosis, histoplasmosis.
 In rare cases, some of these infections were fatal.
@@ -112,7 +109,7 @@ An exploratory analysis identified the following factors associated with risk of
 
 It is not recommended to use other immunosuppressives concomitantly with ocrelizumab except corticosteroids for symptomatic treatment of relapses.
 Knowledge is limited as to whether concomitant steroid use for symptomatic treatment of relapses is associated with an increased risk of infections in clinical practice.
-In the ocrelizumab MS pivotal studies, the administration of corticosteroids for the treatment of relapse was not associated with an increased risk of SI.
+In the ocrelizumab MS pivotal studies in adult patients, the administration of corticosteroids for the treatment of relapse was not associated with an increased risk of SI.
 
 When initiating ocrelizumab after an immunosuppressive therapy or initiating an immunosuppressive therapy after ocrelizumab, the potential for overlapping pharmacodynamic effects should be taken into consideration (see section 5.1).
 Caution should be exercised when prescribing ocrelizumab taking into consideration the pharmacodynamics of other disease modifying MS therapies.
@@ -120,9 +117,9 @@ Caution should be exercised when prescribing ocrelizumab taking into considerati
 Vaccinations
 
 The safety of immunisation with live or live-attenuated vaccines, following ocrelizumab therapy has not been studied and vaccination with live-attenuated or live vaccines is not recommended during treatment and not until B-cell repletion.
-In clinical trials, the median time for B-cell repletion was 72 weeks (see section 5.1).
+In clinical trials in adult patients, the median time for B-cell repletion was 72 weeks (see section 5.1).
 
-In a randomised open-label study, RMS patients were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines (see section 4.5 and 5.1).
+In a randomised open-label study, adult RMS patients were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines (see section 4.5 and 5.1).
 
 It is recommended to vaccinate patients treated with ocrelizumab with seasonal influenza vaccines that are inactivated.
 
@@ -131,14 +128,32 @@ Patients who require vaccination should complete their immunisation at least 6 w
 
 Exposure in utero to ocrelizumab and vaccination of neonates and infants with live or live attenuated vaccines
 
-Due to the potential depletion of B cells in infants of mothers who have been exposed to ocrelizumab during pregnancy, it is recommended that vaccination with live or live-attenuated vaccines should be delayed until B-cell levels have recovered; therefore, measuring CD19-positive B-cell levels in neonates and infants prior to vaccination is recommended.
+Due to the potential depletion of B-cells in infants of mothers who have been exposed to ocrelizumab during pregnancy, it is recommended that vaccination with live or live-attenuated vaccines should be delayed until B-cell levels have recovered; therefore, measuring CD19-positive B-cell levels in neonates and infants prior to vaccination is recommended.
 
 It is recommended that all vaccinations other than live or live-attenuated should follow the local immunisation schedule and measurement of vaccine-induced response titres should be considered to check whether individuals have mounted a protective immune response because the efficacy of the vaccination may be decreased.
+
 The safety and timing of vaccination should be discussed with the infant’s physician (see section 4.6).
+Drug-induced liver injury
+
+Drug-induced liver injury, including severe and life-threatening cases, has been observed in the post-marketing setting in patients treated with ocrelizumab.
+Signs of liver injury, including markedly elevated serum hepatic enzymes with elevated total bilirubin, have occurred from days to months after administration of the first dose.
+
+Liver function tests should be performed before initiation of treatment with ocrelizumab and prior to the second initial infusion.
+Patients should be monitored for signs and symptoms of any hepatic injury during treatment.
+Liver function tests should be performed in patients who report symptoms that may indicate liver injury, including new or worsening fatigue, anorexia, nausea, vomiting, right upper abdominal discomfort, dark urine, or jaundice.
+
+If liver injury is confirmed, ocrelizumab should be discontinued.
+Treatment should not be resumed unless a plausible alternative aetiology for the signs and symptoms of liver injury can be established.
+
+Excipients with known effect
 
 Sodium
-
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
+Medicinal product will be prepared for administration with sodium-containing solution and this should be considered in relation to the total sodium intake of the patient from all sources per day.
+
+Polysorbate 20
+This medicinal product contains 2 mg of polysorbate 20 in each vial, which is equivalent to 0.2 mg/mL.
+Polysorbates may cause allergic reactions.
 
 [Ocrevus 920 mg solution for injection]
 
@@ -170,8 +185,6 @@ If a hypersensitivity reaction is suspected, the injection must be stopped immed
 
 Type 1 acute hypersensitivity reactions (IgE-mediated) may be clinically indistinguishable from IR symptoms.
 
-Patients with known IgE-mediated hypersensitivity to ocrelizumab or any of the excipients must not be treated (see section 4.3).
-
 The overall proportion of patients experiencing a serious infection (SI) was similar to comparators (see section 4.8) in studies with intravenous ocrelizumab.
 The frequency of grade 4 (life-threatening) and grade 5 (fatal) infections was low in all treatment groups, but in PPMS it was higher with intravenous ocrelizumab compared with placebo for life-threatening (1.6% vs 0.4%) and fatal (0.6% vs 0%) infections.
 
@@ -181,6 +194,14 @@ An increased number of malignancies (including breast cancers) have been observe
 
 In the intravenous ocrelizumab MS pivotal studies, the administration of corticosteroids for the treatment of relapse was not associated with an increased risk of SI.
 
+In clinical trials, the median time for B-cell repletion was 72 weeks (see section 5.1).
+
 In a randomised open-label study, RMS patients treated with intravenous ocrelizumab were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines (see section 4.5 and 5.1).
 
 Patients who require vaccination should complete their immunisation at least 6 weeks prior to initiation of ocrelizumab treatment.
+
+Due to the potential depletion of B cells in infants of mothers who have been exposed to ocrelizumab during pregnancy, it is recommended that vaccination with live or live-attenuated vaccines should be delayed until B-cell levels have recovered; therefore, measuring CD19-positive B-cell levels in neonates and infants prior to vaccination is recommended.
+
+Liver function tests should be performed before initiation of treatment with ocrelizumab.
+
+This medicinal product contains 13.8 mg of polysorbate 20 in each vial, which is equivalent to 0.6 mg/mL.

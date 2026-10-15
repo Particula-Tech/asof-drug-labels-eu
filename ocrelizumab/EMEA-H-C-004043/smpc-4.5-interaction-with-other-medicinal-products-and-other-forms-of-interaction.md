@@ -7,9 +7,9 @@ Vaccinations
 
 The safety of immunisation with live or live-attenuated vaccines, following ocrelizumab therapy has not been studied.
 
-Data are available on the effects of tetanus toxoid, 23-valent pneumococcal polysaccharide, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines in patients receiving ocrelizumab (see section 4.4 and 5.1).
+Data are available on the effects of tetanus toxoid, 23-valent pneumococcal polysaccharide, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines in patients receiving ocrelizumab (see sections 4.4 and 5.1).
 
-After treatment over 2 years, the proportion of patients with positive antibody titres against S. pneumoniae, mumps, rubella and varicella were generally similar to the proportions at baseline.
+After treatment over 2 years, the proportion of adult patients with positive antibody titres against S. pneumoniae, mumps, rubella and varicella were generally similar to the proportions at baseline.
 
 Immunosuppressants
 
@@ -19,6 +19,6 @@ It is not recommended to use other immunosuppressive therapies concomitantly wit
 
 No interaction studies have been performed, as no interactions are expected via cytochrome P450 enzymes, other metabolising enzymes or transporters.
 
-Data are available on the effects of tetanus toxoid, 23-valent pneumococcal polysaccharide, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines in patients receiving intravenous ocrelizumab (see section 4.4 and 5.1).
+Data are available on the effects of tetanus toxoid, 23-valent pneumococcal polysaccharide, keyhole limpet haemocyanin neoantigen, and seasonal influenza vaccines in patients receiving intravenous ocrelizumab (see sections 4.4 and 5.1).
 
 After treatment over 2 years with intravenous ocrelizumab, the proportion of patients with positive antibody titres against S. pneumoniae, mumps, rubella and varicella were generally similar to the proportions at baseline.

@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 300 mg of ocrelizumab in 10 mL at a concentration of 30 mg/mL. The final
-medicinal product concentration after dilution is approximately 1.2 mg/mL.
+Each vial contains 300 mg of ocrelizumab in 10 mL at a concentration of 30 mg/mL.
+The final medicinal product concentration after dilution is approximately 0.6 mg/mL or 1.2 mg/mL (see section 6.6).
 
 Ocrelizumab is a humanised monoclonal antibody produced in Chinese Hamster Ovary cells by recombinant DNA technology.
 

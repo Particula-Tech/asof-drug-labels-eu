@@ -10,4 +10,4 @@ Water for injections
 
 Recombinant human hyaluronidase (rHuPH20)
 Glacial acetic acid α,α-trehalose dihydrate
-L-methionine
+Polysorbate 20 (E 432) methionine

@@ -11,13 +11,23 @@ The product is intended for single use only.
 Do not use the concentrate if discoloured or if the concentrate contains foreign particulate matter (see section 3).
 
 Medicinal product must be diluted before administration.
-Solutions for intravenous administration are prepared by dilution of the concentrate into an infusion bag containing isotonic sodium chloride 9 mg/mL (0.9%) solution for infusion (300 mg / 250 mL or 600 mg / 500 mL), to a final ocrelizumab concentration of approximately 1.2 mg/mL.
+Solutions for intravenous administration are prepared by dilution of the concentrate into an infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for infusion , according to Table 11.
+
+Discard any unused portion left in the vial.
 
 No incompatibilities between this medicinal product and polyvinyl chloride (PVC) or polyolefin (PO) bags and intravenous administration sets have been observed.
 
 The diluted infusion solution must be administered using an infusion set with a 0.2 or 0.22 micron in-line filter.
 
 Prior to the start of the intravenous infusion, the content of the infusion bag should be at room temperature.
+
+Table 11 Dilution of Ocrevus
+
+| Dose of Ocrevus | Volume of Ocrevus | Volume of 0.9% sodium chloride | Final concentration |
+| --- | --- | --- | --- |
+| 150 mg | 5 mL | 250 mL | 0.6 mg/mL |
+| 300 mg | 10 mL | 250 mL | 1.2 mg/mL |
+| 600 mg | 20 mL | 500 mL | 1.2 mg/mL |
 
 Disposal
 
@@ -49,4 +59,4 @@ Storage of the syringe
 - If the dose is not to be administered immediately, use aseptic technique to withdraw the entire contents of Ocrevus solution for injection from the vial into the syringe to account for the dose volume (23 mL) and priming volume for the subcutaneous infusion set.
   Replace the transfer needle with a syringe closing cap.
   Do not attach a subcutaneous infusion set for storage.
-- If the syringe was stored in a refrigerator, allow the syringe to reach room temperature prior to adminsitration.
+- If the syringe was stored in a refrigerator, allow the syringe to reach room temperature prior to administration.
