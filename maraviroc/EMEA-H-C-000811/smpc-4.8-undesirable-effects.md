@@ -9,7 +9,6 @@ The most frequently reported adverse reactions occurring in the Phase 2b/3 studi
 These adverse reactions were common (≥ 1/100 to < 1/10).
 
 Tabulated list of adverse reactions
-
 The adverse reactions are listed by system organ class (SOC) and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1,000) , not known (cannot be estimated from the available data).
@@ -38,9 +37,7 @@ Table 3: Adverse reactions observed in clinical trials or post-marketing
 | Musculoskeletal and connective tissue disorders | Myositis, blood creatine phosphokinase increased | uncommon |
 |  | Muscle atrophy | rare |
 | Renal and urinary disorders | Renal failure, proteinuria | uncommon |
-
-General disorders and Asthenia common
-administration site conditions
+| General disorders and administration site conditions | Asthenia | common |
 
 Description of selected adverse reactions
 
@@ -77,8 +74,8 @@ ULN: Upper Limit of Normal
 OBT: Optimised Background Therapy
 * Percentages based on total patients evaluated for each laboratory parameter
 
-The MOTIVATE studies were extended beyond 96 weeks, with an observational phase extended to 5 years in order to assess the long term safety of maraviroc.
-The Long Term Safety/Selected Endpoints (LTS/SE) included death, AIDS-defining events, hepatic failure, Myocardial infarction/cardiac ischaemia, malignancies, rhabdomyolysis and other serious infectious events with maraviroc treatment.
+The MOTIVATE studies were extended beyond 96 weeks, with an observational phase extended to 5 years in order to assess the long-term safety of maraviroc.
+The Long-Term Safety/Selected Endpoints (LTS/SE) included death, AIDS-defining events, hepatic failure, Myocardial infarction/cardiac ischaemia, malignancies, rhabdomyolysis and other serious infectious events with maraviroc treatment.
 The incidence of these selected endpoints for subjects on maraviroc in this observational phase was consistent with the incidence seen at earlier timepoints in the studies.
 
 In treatment-naïve patients, the incidence of grade 3 and 4 laboratory abnormalities using ACTG criteria was similar among the maraviroc and efavirenz treatment groups.
@@ -87,7 +84,6 @@ Paediatric population
 
 The adverse reaction profile in paediatric patients is based on 48 Week safety data from study A4001031 in which 103 HIV-1 infected, treatment-experienced patients aged 2 to <18 years received maraviroc twice-daily with optimised background therapy (OBT).
 Overall, the safety profile in paediatric patients was similar to that observed in adult clinical studies.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -99,26 +95,3 @@ listed in Appendix V.
 [CELSENTRI 20 mg/mL oral solution]
 
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1000) , or not known (cannot be estimated from the available data).
-
-| System Organ Class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Infections and infestations | Pneumonia, oesophageal candidiasis | uncommon |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Bile duct cancer, diffuse large B-cell lymphoma, Hodgkin’s disease, metastases to bone, metastases to liver, metastases to peritoneum, nasopharyngeal cancer, oesophageal carcinoma | rare |
-| Blood and lymphatic system disorders | Anaemia | common |
-|  | Pancytopenia, granulocytopenia | rare |
-| Metabolism and nutrition disorders | Anorexia | common |
-| Psychiatric disorders | Depression, insomnia | common |
-| Nervous system disorders | Seizures and seizure disorders | uncommon |
-| Cardiac disorders | Angina pectoris | rare |
-| Vascular disorders | Postural hypotension (see section 4.4) | uncommon |
-| Gastrointestinal disorders | Abdominal pain, flatulence, nausea | common |
-| Hepatobiliary disorders | Alanine aminotransferase increased, aspartate aminotransferase increased | common |
-|  | Hyperbilirubinaemia, gamma-glutamyltransferase increased | uncommon |
-|  | Hepatitis toxic, hepatic failure, hepatic cirrhosis, blood alkaline phosphatase increased | rare |
-|  | Hepatic failure with allergic features | very rare |
-| Skin and subcutaneous tissue disorders | Rash | common |
-|  | Stevens-Johnson syndrome / Toxic epidermal necrolysis | rare / not known |
-| Musculoskeletal and connective tissue disorders | Myositis, blood creatine phosphokinase increased | uncommon |
-|  | Muscle atrophy | rare |
-| Renal and urinary disorders | Renal failure, proteinuria | uncommon |
-| General disorders and administration site conditions | Asthenia | common |

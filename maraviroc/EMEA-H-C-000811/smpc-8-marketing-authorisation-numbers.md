@@ -1,11 +1,5 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-CELSENTRI 25 mg film-coated tablets
-EU/1/07/418/011
-
-CELSENTRI 75 mg film-coated tablets
-EU/1/07/418/012
-
 CELSENTRI 150 mg film-coated tablets
 EU/1/07/418/001 (60 tablets)
 

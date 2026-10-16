@@ -12,10 +12,9 @@ In mice, no statistically significant increase in the incidence of tumours was r
 In rats, administration of maraviroc at a systemic exposure 21-times the expected human exposure produced thyroid adenomas associated with adaptive liver changes.
 These findings are considered of low human relevance.
 In addition, cholangiocarcinomas (2/60 males at 900 mg/kg) and cholangioma (1/60 females at 500 mg/kg) were reported in the rat study at a systemic exposure at least 15-times the expected free human exposure.
-
 Maraviroc was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation, chromosome aberrations in human lymphocytes and mouse bone marrow micronucleus.
 
-Maraviroc did not impair mating or fertility of male or female rats, and did not affect sperm of treated male rats up to 1000 mg/kg.
+Maraviroc did not impair mating or fertility of male or female rats and did not affect sperm of treated male rats up to 1000 mg/kg.
 The exposure at this dose level corresponded to 39-fold the estimated free clinical AUC for a 300 mg twice daily dose.
 
 Embryofoetal development studies were conducted in rats and rabbits at doses up to 39- and 34-fold the estimated free clinical AUC for a 300 mg twice daily dose.
@@ -24,3 +23,7 @@ In rabbit, 7 foetuses had external anomalies at maternally toxic doses and 1 foe
 Pre- and post-natal developmental studies were performed in rats at doses up to 27-fold the estimated free clinical AUC for a 300 mg twice daily dose.
 A slight increase in motor activity in high-dose male rats at both weaning and as adults was noted, while no effects were seen in females.
 Other developmental parameters of these offspring, including fertility and reproductive performance, were not affected by the maternal administration of maraviroc.
+
+[CELSENTRI 20 mg/mL oral solution]
+
+Maraviroc did not impair mating or fertility of male or female rats, and did not affect sperm of treated male rats up to 1000 mg/kg.

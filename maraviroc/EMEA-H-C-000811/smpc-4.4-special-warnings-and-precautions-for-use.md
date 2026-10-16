@@ -3,7 +3,6 @@
 Hepatic disease
 
 The safety and efficacy of maraviroc have not been specifically studied in patients with significant underlying liver disorders.
-
 Cases of hepatotoxicity and hepatic failure with allergic features have been reported in association with maraviroc.
 In addition, an increase in hepatic adverse reactions with maraviroc was observed during studies of treatment-experienced subjects with HIV infection, although there was no overall increase in ACTG Grade 3/4 liver function test abnormalities (see section 4.8).
 Hepatobiliary disorders reported in treatment-naïve patients were uncommon and balanced between treatment groups (see section 4.8).
@@ -19,7 +18,7 @@ There is limited experience in patients with reduced hepatic function, therefore
 
 Severe skin and hypersensitivity reactions
 
-Hypersensitivity reactions including severe and potentially life threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions.
+Hypersensitivity reactions including severe and potentially life-threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions.
 These reactions included rash, fever, and sometimes organ dysfunction and hepatic failure.
 Discontinue maraviroc and other suspect agents immediately if signs or symptoms of severe skin or hypersensitivity reactions develop.
 Clinical status and relevant blood chemistry should be monitored and appropriate symptomatic therapy initiated.
@@ -57,9 +56,10 @@ The Monogram Trofile assay was used in the clinical studies of maraviroc.
 The viral tropism cannot be predicted by treatment history or assessment of stored samples.
 
 Changes in viral tropism occur over time in HIV-1 infected patients.
-Therefore there is a need to start therapy shortly after a tropism test.
+Therefore, there is a need to start therapy shortly after a tropism test.
 
 Background resistance to other classes of antiretrovirals have been shown to be similar in previously undetected CXCR4-tropic virus of the minor viral population, as that found in CCR5-tropic virus.
+
 Maraviroc is not recommended to be used in treatment-naïve patients based on the results of a clinical study in this population (see section 5.1).
 
 Dose adjustment
@@ -77,7 +77,6 @@ Potential effect on immunity
 CCR5 antagonists could potentially impair the immune response to certain infections.
 This should be taken into consideration when treating infections such as active tuberculosis and invasive fungal infections.
 The incidence of AIDS-defining infections was similar between maraviroc and placebo arms in the pivotal studies.
-
 Excipients
 
 CELSENTRI contains soya lecithin.
@@ -86,6 +85,8 @@ If a patient is hypersensitive to peanut or soya, CELSENTRI should not be used.
 CELSENTRI contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium free’.
 
 [CELSENTRI 20 mg/mL oral solution]
+
+Therefore there is a need to start therapy shortly after a tropism test.
 
 CELSENTRI contains 1 mg sodium benzoate (E211) in each mL.
 

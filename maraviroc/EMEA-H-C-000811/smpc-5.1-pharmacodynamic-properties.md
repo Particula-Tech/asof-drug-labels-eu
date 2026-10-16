@@ -13,7 +13,6 @@ Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4
 The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 – 10.7) ng/mL without significant changes between different subtypes tested.
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
 For details please refer to the pharmacology section of the CELSENTRI European Public Assessment Report (EPAR) on the European Medicines Agency (EMA) website.
-
 When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs, NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
 
 Virologic Escape
@@ -67,9 +66,11 @@ In patients failing therapy with CCR5-tropic virus only, maraviroc might be cons
 Residual activity in vivo for viruses with MPI-values <95% has not been determined.
 
 Genotypic resistance
+
 A relatively small number of individuals receiving maraviroc-containing therapy have failed with phenotypic resistance (i.e. the ability to use drug-bound CCR5 with MPI <95%).
 To date, no signature mutation(s) have been identified.
 The gp120 amino acid substitutions identified so far are context dependent and inherently unpredictable with regards to maraviroc susceptibility.
+
 Treatment-Experienced Paediatric Patients
 
 In the Week 48 analysis (N=103), non-CCR5 tropic-virus was detected in 5/23 (22%) subjects at virologic failure.
@@ -86,7 +87,6 @@ The clinical efficacy of maraviroc (in combination with other antiretroviral med
 Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 NRTIs, ≥1 NNRTIs, ≥2 PIs, and/or enfurvirtide] or documented resistance to at least one member of each class.
 Patients were randomised in a 2:2:1 ratio to maraviroc 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir).
 The OBT was selected on the basis of the subject’s prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
-
 Table 5: Demographic and baseline characteristics of patients (pooled studies MOTIVATE 1 and MOTIVATE 2)
 
 | Demographic and Baseline Characteristics | Maraviroc 300 mg twice daily + OBT | Placebo + OBT |
@@ -102,6 +102,7 @@ Table 5: Demographic and baseline characteristics of patients (pooled studies MO
 | Number (Percentage) of patients with GSS score1: 0 1 2 ≥3 | 102 (23.9%) 138 (32.4%) 80 (18.8%) 104 (24.4%) | 51 (24.4%) 53 (25.4%) 41 (19.6%) 59 (28.2%) |
 
 1Based on GeneSeq resistance assay.
+
 Limited numbers of patients from ethnicities other than Caucasian were included in the pivotal clinical studies, therefore very limited data are available in these patient populations.
 
 The mean increase in CD4+ cell count from baseline in patients who failed with a change in tropism result to dual/mixed tropic or CXCR4, in the maraviroc 300 mg twice daily + OBT
@@ -134,12 +135,7 @@ Table 7: Proportion of patients achieving <50 copies/mL at Week 48 by subgroup (
 |  | Maraviroc 300 mg twice daily + OBT N=426 | Placebo + OBT N=209 |
 | Screening HIV-1 RNA (copies /mL): <100,000 ≥100,000 | 58.4% 34.7% | 26.0% 9.5% |
 | Baseline CD4+ (cells/µL): <50 50-100 101-200 201-350 ≥ 350 | 16.5% 36.4% 56.7% 57.8% 72.9% | 2.6% 12.0% 21.8% 21.0% 38.5% |
-
-Number of active ARVs in OBT1:
-0 32.7% 2.0%
-1 44.5% 7.4%
-2 58.2% 31.7%
-≥3 62% 38.6%
+| Number of active ARVs in OBT1: 0 1 2 ≥3 | 32.7% 44.5% 58.2% 62% | 2.0% 7.4% 31.7% 38.6% |
 
 1Based on GSS.
 

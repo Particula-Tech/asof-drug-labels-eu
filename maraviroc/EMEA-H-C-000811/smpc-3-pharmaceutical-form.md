@@ -2,14 +2,6 @@
 
 Film-coated tablet.
 
-CELSENTRI 25 mg film-coated tablets
-
-Blue, biconvex, oval film-coated tablets, approximate dimensions 4.6 mm x 8.0 mm and debossed with “MVC 25”.
-
-CELSENTRI 75 mg film-coated tablets
-
-Blue, biconvex, oval film-coated tablets, approximate dimensions 6.74 mm x 12.2 mm and debossed with “MVC 75”.
-
 CELSENTRI 150 mg film-coated tablets
 
 Blue, biconvex, oval film-coated tablets, approximate dimensions 8.56 mm x 15.5 mm and debossed with “MVC 150”.

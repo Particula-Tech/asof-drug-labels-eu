@@ -1,15 +1,6 @@
 # 6.5 Nature and contents of container
 
-CELSENTRI 25 mg film-coated tablets
-
-High density polyethylene bottles (HDPE) with polypropylene child resistant (CR) closures and an aluminium foil/polyethylene heat induction seal containing 120 film-coated tablets.
-
-CELSENTRI 75 mg film-coated tablets
-
-High density polyethylene bottles (HDPE) with polypropylene child resistant (CR) closures and an aluminium foil/polyethylene heat induction seal containing 120 film-coated tablets.
-
 CELSENTRI 150 mg film-coated tablets
-
 High density polyethylene bottles (HDPE) with polypropylene child resistant (CR) closures and an aluminium foil/polyethylene heat induction seal containing 60 film-coated tablets.
 
 Polyvinyl chloride (PVC) blisters with child-resistant (CR) aluminium/polyethylene terephthalate (PET) lidding foil in a carton containing 30, 60, 90 film-coated tablets and multipacks containing 180 (2 packs of 90) film-coated tablets.

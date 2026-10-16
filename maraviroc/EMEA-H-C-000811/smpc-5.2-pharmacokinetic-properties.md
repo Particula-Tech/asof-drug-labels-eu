@@ -13,11 +13,10 @@ Studies with the tablets demonstrated a reduced food-effect at higher doses.
 
 There were no food restrictions in the adult studies (using tablet formulations) or in the paediatric study (using both tablet and oral solution formulations).
 The results did not indicate any relevant efficacy or safety concern related to either fed or fasted dosing conditions.
-Therefore, maraviroc tablets and oral solution can be taken with or without food at the recommended doses in adults, adolescents and children aged 2 years and older and weighing at least 10 kg (see section 4.2).
-
+Therefore, maraviroc tablets and oral solution can be taken with or without food at the recommended doses in adults adolescents and children (see section 4.2).
 Distribution
 
-Maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
+Maraviroc is bound (approximately 76%) to human plasma proteins and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 The volume of distribution of maraviroc is approximately 194 L.
 
 Biotransformation
@@ -53,7 +52,6 @@ The impact of potent CYP3A inhibitors and/or inducers on maraviroc pharmacokinet
 BSA (m2)-based bands have been modified to weight (kg)-based bands to simplify dosing and reduce dosing errors (see section 4.2).
 Use of weight (kg)-based doses in treatment-experienced HIV-1-infected children and adolescents results in maraviroc exposures similar to those observed in treatment-experienced adults receiving recommended doses with concomitant medications.
 The pharmacokinetics of maraviroc in paediatric patients below 2 years of age have not been established (see section 4.2).
-
 Elderly
 
 Population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) has been conducted and no effect of age have been observed (see section 4.2).
@@ -89,7 +87,6 @@ Race
 
 No relevant difference between Caucasian, Asian and Black subjects has been observed.
 The pharmacokinetics in other races has not been evaluated.
-
 Gender
 
 No relevant differences in pharmacokinetics have been observed.
@@ -102,10 +99,15 @@ The CYP3A5 allelic frequency depends on ethnicity: the majority of Caucasians (~
 
 In a Phase 1 study conducted in healthy subjects, Blacks with a CYP3A5 genotype conferring extensive maraviroc metabolism (2 CYP3A5*1 alleles; n=12) had a 37% and 26% lower AUC when dosed with maraviroc 300 mg twice daily compared with Black (n=11) and Caucasian (n=12) subjects with CYP3A5 genotype conferring poor maraviroc metabolism (no CYP3A5*1 allele), respectively.
 The difference in maraviroc exposure between CYP3A5 extensive and poor metabolisers was reduced when maraviroc was administered together with a strong CYP3A inhibitor: extensive CYP3A5 metabolisers (n=12) had a 17% lower maraviroc AUC compared with poor CYP3A5 metabolisers (n=11) when dosed with maraviroc 150 mg once daily in the presence of darunavir/cobicistat (800/150 mg).
+
 All subjects in the Phase 1 study achieved the Cavg concentrations that have been shown to be associated with near maximal virologic efficacy with maraviroc (75 ng/mL) in the Phase 3 study in treatment-naïve adult patients (MERIT).
 Therefore, despite differences in CYP3A5 genotype prevalence by race, the effect of CYP3A5 genotype on maraviroc exposure is not considered clinically significant and no maraviroc dose adjustment according to CYP3A5 genotype, race or ethnicity is needed.
 
 [CELSENTRI 20 mg/mL oral solution]
+
+Therefore, maraviroc tablets and oral solution can be taken with or without food at the recommended doses in adults, adolescents and children aged 2 years and older and weighing at least 10 kg (see section 4.2).
+
+Maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 
 Use of weight (kg)-based doses in treatment-experienced HIV-1-infected paediatrics results in maraviroc exposures similar to those observed in treatment-experienced adults receiving recommended doses with concomitant medications.
 
