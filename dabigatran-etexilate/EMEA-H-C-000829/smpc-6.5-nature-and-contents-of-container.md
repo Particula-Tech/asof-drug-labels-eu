@@ -20,7 +20,3 @@ Each individual pack of the multipack contains 5 perforated aluminium unit dose 
 [Pradaxa 150 mg hard capsules]
 
 (all sentences already above)
-
-[Pradaxa 20 mg coated granules]
-
-Aluminium bag containing 60 silver-coloured PET/Alu/LDPE sachets with the coated granules and one desiccant (labelled “DO NOT EAT” including pictogram and “SILICA GEL”).

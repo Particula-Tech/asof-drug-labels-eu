@@ -13,8 +13,8 @@ Table 7: Transporter interactions
 | P-gp inhibitors |  |
 | --- | --- |
 | Concomitant use contraindicated (see section 4.3) |  |
-| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |
-| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |
+| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |
+| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞ and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |
 | Itraconazole, cyclosporine | Based on in vitro results a similar effect as with ketoconazole may be expected. |
 | Glecaprevir / pibrentasvir | The concomitant use of dabigatran etexilate with the fixed-dose combination of the P-gp inhibitors glecaprevir/pibrentasvir has been shown to increase exposure of dabigatran and may increase the risk of bleeding. |
 | Concomitant use not recommended |  |
@@ -81,8 +81,8 @@ Table 9: Transporter interactions
 | P-gp inhibitors |  |
 | --- | --- |
 | Concomitant use contraindicated (see section 4.3) |  |
-| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |
-| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |
+| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |
+| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞ and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |
 | Itraconazole, cyclosporine | Based on in vitro results a similar effect as with ketoconazole may be expected. |
 | Glecaprevir / pibrentasvir | The concomitant use of dabigatran etexilate with the fixed-dose combination of the P-gp inhibitors glecaprevir/pibrentasvir has been shown to increase exposure of dabigatran and may increase the risk of bleeding. |
 | Concomitant use not recommended |  |
@@ -132,8 +132,8 @@ Table 8: Transporter interactions
 | P-gp inhibitors |  |  |
 | --- | --- | --- |
 | Concomitant use contraindicated (see section 4.3) |  |  |
-| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |  |
-| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |  |
+| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞ and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |  |
+| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞ and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |  |
 | Itraconazole, cyclosporine | Based on in vitro results a similar effect as with ketoconazole may be expected. |  |
 | Glecaprevir / pibrentasvir | The concomitant use of dabigatran etexilate with the fixed-dose combination of the P-gp inhibitors glecaprevir/pibrentasvir has been shown to increase exposure of dabigatran and may increase the risk of bleeding. |  |
 | Concomitant use not recommended |  |  |
@@ -161,46 +161,3 @@ Table 8: Transporter interactions
 Table 9: Interactions with anticoagulants and antiplatelet aggregation medicinal products
 
 Table 10: Other interactions
-
-[Pradaxa 20 mg coated granules]
-
-Concomitant administration of P-gp inhibitors (see table 5) is expected to result in increased dabigatran plasma concentrations.
-
-See also sections 4.3, 4.4 and 5.1).
-Table 5: Transporter interactions
-
-| P-gp inhibitors |  |  |
-| --- | --- | --- |
-| Concomitant use contraindicated (see section 4.3) |  |  |
-| Ketoconazole | Ketoconazole increased total dabigatran AUC0-∞and Cmax values by 2.38-fold and 2.35-fold, respectively, after a single oral dose of 400 mg, and by 2.53-fold and 2.49-fold, respectively, after multiple oral dosing of 400 mg ketoconazole once daily. |  |
-| Dronedarone | When dabigatran etexilate and dronedarone were given at the same time total dabigatran AUC0-∞and Cmax values increased by about 2.4-fold and 2.3-fold, respectively, after multiple dosing of 400 mg dronedarone bid, and about 2.1-fold and 1.9-fold, respectively, after a single dose of 400 mg. |  |
-| Itraconazole, cyclosporine | Based on in vitro results a similar effect as with ketoconazole may be expected. |  |
-| Glecaprevir / pibrentasvir | The concomitant use of dabigatran etexilate with the fixed-dose combination of the P-gp inhibitors glecaprevir/pibrentasvir has been shown to increase exposure of dabigatran and may increase the risk of bleeding. |  |
-| Concomitant use not recommended |  |  |
-| Tacrolimus | Tacrolimus has been found in vitro to have a similar level of inhibitory effect on P-gp as that seen with itraconazole and cyclosporine. Dabigatran etexilate has not been clinically studied together with tacrolimus. However, limited clinical data with another P-gp substrate (everolimus) suggest that the inhibition of P-gp with tacrolimus is weaker than that observed with strong P-gp inhibitors. |  |
-| Cautions to be exercised in case concomitant use (see section 4.4) |  |  |
-| Verapamil |  | When dabigatran etexilate (150 mg) was co-administered with oral verapamil, the Cmax and AUC of dabigatran were increased but the magnitude of this change differs depending on timing of administration and formulation of verapamil (see section 4.4). The greatest elevation of dabigatran exposure was observed with the first dose of an immediate release formulation of verapamil administered one hour prior to the dabigatran etexilate intake (increase of Cmax by about 2.8-fold and AUC by about 2.5-fold). The effect was progressively decreased with administration of an extended release formulation (increase of Cmax by about 1.9-fold and AUC by about 1.7-fold) or administration of multiple doses of verapamil (increase of Cmax by about 1.6-fold and AUC by about 1.5-fold). There was no meaningful interaction observed when verapamil was given 2 hours after dabigatran etexilate (increase of Cmax by about 1.1-fold and AUC by about 1.2-fold). This is explained by completed dabigatran absorption after 2 hours. |
-| Amiodarone |  | When dabigatran etexilate was co-administered with a single oral dose of 600 mg amiodarone, the extent and rate of absorption of amiodarone and its active metabolite DEA were essentially unchanged. The dabigatran AUC and Cmax were increased by about 1.6-fold and 1.5-fold, respectively. In view of the long half-life of amiodarone the potential for an interaction may exist for weeks after discontinuation of amiodarone (see section 4.4). |
-| Quinidine |  | Quinidine was given as 200 mg dose every 2nd hour up to a total dose of 1 000 mg. Dabigatran etexilate was given twice daily over 3 consecutive days, on the 3rd day either with or without quinidine. Dabigatran AUCτ,ss and Cmax,ss were |
-
-|  | increased on average by 1.53-fold and 1.56-fold, respectively with concomitant quinidine (see section 4.4). |
-| --- | --- |
-| Clarithromycin | When clarithromycin (500 mg twice daily) was administered together with dabigatran etexilate in healthy volunteers, increase of AUC by about 1.19-fold and Cmax by about 1.15-fold was observed. |
-| Ticagrelor | When a single dose of 75 mg dabigatran etexilate was coadministered simultaneously with a loading dose of 180 mg ticagrelor, the dabigatran AUC and Cmax were increased by 1.73-fold and 1.95-fold, respectively. After multiple doses of ticagrelor 90 mg b.i.d. the increase of dabigatran exposure is 1.56-fold and 1.46-fold for Cmax and AUC, respectively. Concomitant administration of a loading dose of 180 mg ticagrelor and 110 mg dabigatran etexilate (in steady state) increased the dabigatran AUCτ,ss and Cmax,ss by 1.49-fold and 1.65-fold, respectively, compared with dabigatran etexilate given alone. When a loading dose of 180 mg ticagrelor was given 2 hours after 110 mg dabigatran etexilate (in steady state), the increase of dabigatran AUCτ,ss and Cmax,ss was reduced to 1.27-fold and 1.23-fold, respectively, compared with dabigatran etexilate given alone. This staggered intake is the recommended administration for start of ticagrelor with a loading dose. Concomitant administration of 90 mg ticagrelor b.i.d. (maintenance dose) with 110 mg dabigatran etexilate increased the adjusted dabigatran AUCτ,ss and Cmax,ss 1.26-fold and 1.29-fold, respectively, compared with dabigatran etexilate given alone. |
-| Posaconazole | Posaconazole also inhibits P-gp to some extent but has not been clinically studied. Caution should be exercised when dabigatran etexilate is co-administered with posaconazole. |
-| P-gp inducers |  |
-| Concomitant use should be avoided. |  |
-| e.g. rifampicin, St. John´s wort (Hypericum perforatum), carbamazepine, or phenytoin | Concomitant administration is expected to result in decreased dabigatran concentrations. Pre-dosing of the probe inducer rifampicin at a dose of 600 mg once daily for 7 days decreased total dabigatran peak and total exposure by 65.5 % and 67 %, respectively. The inducing effect was diminished resulting in dabigatran exposure close to the reference by day 7 after cessation of rifampicin treatment. No further increase in bioavailability was observed after another 7 days. |
-| Protease inhibitors such as ritonavir |  |
-| Concomitant use not recommended |  |
-| e.g. ritonavir and its combinations with other protease inhibitors | These affect P-gp (either as inhibitor or as inducer). They have not been studied and are therefore not recommended for concomitant treatment with dabigatran etexilate. |
-| P-gp substrate |  |
-| Digoxin | In a study performed with 24 healthy subjects, when dabigatran etexilate was co-administered with digoxin, no changes on digoxin and no clinically relevant |
-
-changes on dabigatran exposure have been observed.
-
-UFH can be administered at doses necessary to maintain a patent central venous or arterial catheter (see section 4.3).
-
-Table 6: Interactions with anticoagulants and antiplatelet aggregation medicinal products
-
-Table 7: Other interactions

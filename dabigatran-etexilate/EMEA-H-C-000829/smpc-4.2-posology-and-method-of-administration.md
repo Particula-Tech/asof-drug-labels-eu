@@ -3,10 +3,6 @@
 Posology
 
 Pradaxa capsules can be used in adults and paediatric patients aged 8 years or older who are able to swallow the capsules whole.
-Pradaxa coated granules can be used in children aged less than 12 years as soon as the child is able to swallow soft food.
-
-When changing between the formulations, the prescribed dose may need to be altered.
-The dose stated in the relevant dosing table of a formulation should be prescribed based on the weight and age of the child.
 
 Primary prevention of VTE in orthopaedic surgery
 
@@ -128,7 +124,7 @@ Prior to the initiation of treatment, the estimated glomerular filtration rate (
 
 Treatment with dabigatran etexilate in paediatric patients with eGFR < 50 mL/min/1.73 m2 is contraindicated (see section 4.3).
 
-Patients with an eGFR ≥50 mL/min/1.73 m2 should be treated with the dose according to table 2.
+Patients with an eGFR ≥ 50 mL/min/1.73 m2 should be treated with the dose according to table 2.
 
 While on treatment, renal function should be assessed in certain clinical situations when it is suspected that the renal function could decline or deteriorate (such as hypovolemia, dehydration, and with certain co-medications, etc).
 
@@ -192,7 +188,7 @@ Table 2: Dose recommendations for SPAF, DVT and PE
 | Prevention of stroke and systemic embolism in adult patients with NVAF with one or more risk factors (SPAF) | 300 mg dabigatran etexilate taken as one 150 mg capsule twice daily |
 | Treatment of DVT and PE and prevention of recurrent DVT and PE in adults (DVT/PE) | 300 mg dabigatran etexilate taken as one 150 mg capsule twice daily following treatment with a parenteral anticoagulant for at least 5 days |
 | Dose reduction recommended |  |
-| Patients aged ≥80 years | daily dose of 220 mg dabigatran etexilate taken as one 110 mg capsule twice daily |
+| Patients aged ≥ 80 years | daily dose of 220 mg dabigatran etexilate taken as one 110 mg capsule twice daily |
 | Patients who receive concomitant verapamil |  |
 | Dose reduction for consideration |  |
 | Patients between 75-80 years | daily dose of dabigatran etexilate of 300 mg or 220 mg should be selected based on an individual assessment of the thromboembolic risk and the risk of bleeding |
@@ -221,8 +217,8 @@ From 6 hours prior to the next scheduled dose on, the missed dose should be omit
 
 The starting time of the VKA should be adjusted based on CrCL as follows:
 
-- CrCL ≥50 mL/min, VKA should be started 3 days before discontinuing dabigatran etexilate
-- CrCL ≥30-< 50 mL/min, VKA should be started 2 days before discontinuing dabigatran etexilate
+- CrCL ≥ 50 mL/min, VKA should be started 3 days before discontinuing dabigatran etexilate
+- CrCL ≥ 30-< 50 mL/min, VKA should be started 2 days before discontinuing dabigatran etexilate
 
 Cardioversion (SPAF)
 
@@ -247,7 +243,7 @@ When clinically relevant bleeding occurs, treatment should be interrupted.
 
 For subjects with gastritis, esophagitis, or gastroesophageal reflux, a dose reduction may be considered due to the elevated risk of major gastro-intestinal bleeding (see table 2 above and section 4.4).
 
-No dose adjustment is necessary in patients with mild renal impairment (CrCL 50- ≤80 mL/min).
+No dose adjustment is necessary in patients with mild renal impairment (CrCL 50- ≤ 80 mL/min).
 For patients with moderate renal impairment (CrCL 30-50 mL/min) the recommended dose of dabigatran etexilate is also 300 mg taken as one 150 mg capsule twice daily.
 However, for patients with high risk of bleeding, a dose reduction of dabigatran etexilate to 220 mg taken as one 110 mg capsule twice daily should be considered (see sections 4.4 and 5.2).
 Close clinical surveillance is recommended in patients with renal impairment.
@@ -265,7 +261,7 @@ The recommended dose of dabigatran etexilate capsules is based on the patient’
 
 Table 4: Single and total daily dabigatran etexilate doses in milligrams (mg) by weight in kilograms (kg) and age in years of the patient
 
-Patients with an eGFR ≥50 mL/min/1.73 m2 should be treated with the dose according to table 4.
+Patients with an eGFR ≥ 50 mL/min/1.73 m2 should be treated with the dose according to table 4.
 
 [Pradaxa 150 mg hard capsules]
 
@@ -290,96 +286,4 @@ The recommended dose of dabigatran etexilate capsules is based on the patient’
 
 Table 3: Single and total daily dabigatran etexilate doses in milligrams (mg) by weight in kilograms (kg) and age in years of the patient
 
-Patients with an eGFR ≥50 mL/min/1.73 m2 should be treated with the dose according to table 3.
-
-[Pradaxa 20 mg coated granules]
-
-Dabigatran etexilate coated granules should be taken twice daily, one dose in the morning and one dose in the evening, at approximately the same time every day.
-The recommended dose of dabigatran etexilate coated granules is based on the patient’s weight and age as shown in tables 1 and 2.
-
-For weight and age combinations not listed in the dosing tables no dosing recommendation can be provided.
-
-Table 1: Single and total daily dabigatran etexilate doses in milligrams (mg) for patients aged less than 12 months.
-The doses depend on weight in kilograms (kg) and age in months of the patient.
-
-| Weight / age combinations |  | Single dose in mg | Total daily dose in mg |
-| --- | --- | --- | --- |
-| Weight in kg | Age in MONTHS |  |  |
-| 2.5 to < 3 | 4 to < 5 | 20 | 40 |
-| 3 to < 4 | 3 to < 6 | 20 | 40 |
-| 4 to < 5 | 1 to < 3 | 20 | 40 |
-|  | 3 to < 8 | 30 | 60 |
-|  | 8 to < 10 | 40 | 80 |
-| 5 to < 7 | 0 to < 1 | 20 | 40 |
-|  | 1 to < 5 | 30 | 60 |
-|  | 5 to < 8 | 40 | 80 |
-|  | 8 to < 12 | 50 | 100 |
-| 7 to < 9 | 3 to < 4 | 40 | 80 |
-|  | 4 to < 9 | 50 | 100 |
-|  | 9 to < 12 | 60 | 120 |
-| 9 to < 11 | 5 to < 6 | 50 | 100 |
-|  | 6 to < 11 | 60 | 120 |
-|  | 11 to < 12 | 70 | 140 |
-| 11 to < 13 | 8 to < 10 | 70 | 140 |
-|  | 10 to < 12 | 80 | 160 |
-| 13 to < 16 | 10 to < 11 | 80 | 160 |
-|  | 11 to < 12 | 100 | 200 |
-
-Convenient sachet combinations to achieve the single doses recommended in the dosing table are provided below.
-Other combinations are possible.
-
-20 mg: One 20 mg sachet 60 mg: Two 30 mg sachets
-30 mg: One 30 mg sachet 70 mg: One 30 mg plus one 40 mg sachet
-40 mg: One 40 mg sachet 80 mg: Two 40 mg sachets
-50 mg: One 50 mg sachet 100 mg: Two 50 mg sachets
-
-Table 2: Single and total daily dabigatran etexilate doses in milligrams (mg) for patients aged 1 year to less than 12 years.
-The doses depend on weight in kilograms (kg) and age in years of the patient.
-
-| Weight / age combinations |  | Single dose in mg | Total daily dose in mg |
-| --- | --- | --- | --- |
-| Weight in kg | Age in YEARS |  |  |
-| 5 to < 7 | 1 to < 2 | 50 | 100 |
-| 7 to < 9 | 1 to < 2 | 60 | 120 |
-|  | 2 to < 4 | 70 | 140 |
-| 9 to < 11 | 1 to < 1.5 | 70 | 140 |
-|  | 1.5 to < 7 | 80 | 160 |
-| 11 to < 13 | 1 to < 1.5 | 80 | 160 |
-|  | 1.5 to < 2.5 | 100 | 200 |
-|  | 2.5 to < 9 | 110 | 220 |
-| 13 to < 16 | 1 to < 1.5 | 100 | 200 |
-|  | 1.5 to < 2 | 110 | 220 |
-|  | 2 to < 12 | 140 | 280 |
-| 16 to < 21 | 1 to < 2 | 110 | 220 |
-|  | 2 to < 12 | 140 | 280 |
-| 21 to < 26 | 1.5 to < 2 | 140 | 280 |
-|  | 2 to < 12 | 180 | 360 |
-| 26 to < 31 | 2.5 to < 12 | 180 | 360 |
-| 31 to < 41 | 2.5 to < 12 | 220 | 440 |
-| 41 to < 51 | 4 to < 12 | 260 | 520 |
-| 51 to < 61 | 5 to < 12 | 300 | 600 |
-| 61 to < 71 | 6 to < 12 | 300 | 600 |
-| 71 to < 81 | 7 to < 12 | 300 | 600 |
-| > 81 | 10 to < 12 | 300 | 600 |
-
-50 mg: One 50 mg sachet 140 mg: One 30 mg plus one 110 mg sachet
-60 mg: Two 30 mg sachets 180 mg: One 30 mg plus one 150 mg sachet
-70 mg: One 30 mg plus one 40 mg sachet 220 mg: Two 110 mg sachets
-80 mg: Two 40 mg sachets 260 mg: One 110 mg plus one 150 mg sachet
-100 mg: Two 50 mg sachets 300 mg: Two 150 mg sachets
-
-110 mg: One 110 mg sachet
-
-Patients with an eGFR ≥50 mL/min/1.73 m2 should be treated with the dose according to tables 1 and 2.
-
-If a dose has only been taken partially, there should be no attempt to administer a second dose at that time-point, and the next dose should be taken as scheduled approximately 12 hours later.
-
-Caregivers should be instructed to contact the treating physician if their treated child develops gastrointestinal symptoms such as dyspepsia (see section 4.8).
-
-The coated granules should be mixed with food prior to intake and only be used with apple juice or the soft foods mentioned in the instructions for administration.
-After mixing with food or apple juice, the medicinal product has to be administered within 30 minutes.
-The coated granules are not compatible with milk or milk products.
-
-This medicinal product is not compatible with feeding tubes.
-
-Detailed instructions for the use of this medicinal product are provided in ‘Instructions for administration’ in the package leaflet.
+Patients with an eGFR ≥ 50 mL/min/1.73 m2 should be treated with the dose according to table 3.

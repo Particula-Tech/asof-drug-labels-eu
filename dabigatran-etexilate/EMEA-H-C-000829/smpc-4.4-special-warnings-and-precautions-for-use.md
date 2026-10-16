@@ -21,7 +21,7 @@ Table 3: Factors which may increase the haemorrhagic risk.
 
 |  | Risk factor |
 | --- | --- |
-| Pharmacodynamic and kinetic factors | Age ≥75 years |
+| Pharmacodynamic and kinetic factors | Age ≥ 75 years |
 | Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment in adult patients (30-50 mL/min CrCL) • Strong P-gp inhibitors (see section 4.3 and 4.5) • Mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, verapamil, quinidine and ticagrelor; see section 4.5) Minor: • Low body weight (< 50 kg) in adult patients |
 | Pharmacodynamic interactions (see section 4.5) | • ASA and other platelet aggregation inhibitors such as clopidogrel • NSAIDs • SSRIs or SNRIs • Other medicinal products which may impair haemostasis |
 | Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
@@ -120,9 +120,9 @@ Table 5: Discontinuation rules before invasive or surgical procedures for adult 
 | Renal function (CrCL in mL/min) | Estimated half-life (hours) | Dabigatran etexilate should be stopped before elective surgery |  |
 | --- | --- | --- | --- |
 |  |  | High risk of bleeding or major surgery | Standard risk |
-| ≥80 | ~ 13 | 2 days before | 24 hours before |
-| ≥50-< 80 | ~ 15 | 2-3 days before | 1-2 days before |
-| ≥30-< 50 | ~ 18 | 4 days before | 2-3 days before (> 48 hours) |
+| ≥ 80 | ~ 13 | 2 days before | 24 hours before |
+| ≥ 50-< 80 | ~ 15 | 2-3 days before | 1-2 days before |
+| ≥ 30-< 50 | ~ 18 | 4 days before | 2-3 days before (> 48 hours) |
 
 Discontinuation rules before invasive or surgical procedures for paediatric patients are summarised in table 6.
 
@@ -183,7 +183,7 @@ For some very specific paediatric patients, e.g. patients with small bowel disea
 [Pradaxa 110 mg hard capsules]
 
 In clinical trials, dabigatran etexilate was associated with higher rates of major gastrointestinal (GI) bleeding.
-An increased risk was seen in the elderly (≥75 years) for the 150 mg twice daily dose regimen.
+An increased risk was seen in the elderly (≥ 75 years) for the 150 mg twice daily dose regimen.
 Further risk factors (see also table 5) comprise co-medication with platelet aggregation inhibitors such as clopidogrel and acetylsalicylic acid (ASA) or non steroidal antiinflammatory drugs (NSAID), as well as the presence of esophagitis, gastritis or gastroesophageal reflux.
 
 Table 5 summarises factors which may increase the haemorrhagic risk.
@@ -223,7 +223,7 @@ Patients at risk for bleeding or patients at risk of overexposure, notably patie
 Myocardial Infarction (MI)
 
 In the phase III study RE-LY (SPAF, see section 5.1) the overall rate of MI was 0.82, 0.81, and 0.64 % / year for dabigatran etexilate 110 mg twice daily, dabigatran etexilate 150 mg twice daily and warfarin, respectively, an increase in relative risk for dabigatran of 29 % and 27 % compared to warfarin.
-Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
+Irrespective of therapy, the highest absolute risk of MI was seen in the following subgroups, with similar relative risk: patients with previous MI, patients ≥ 65 years with either diabetes or coronary artery disease, patients with left ventricular ejection fraction < 40 %, and patients with moderate renal dysfunction.
 Furthermore a higher risk of MI was seen in patients concomitantly taking ASA plus clopidogrel or clopidogrel alone.
 
 In the three active controlled DVT/PE phase III studies, a higher rate of MI was reported in patients who received dabigatran etexilate than in those who received warfarin: 0.4 % vs. 0.2 % in the short-term RE-COVER and RE-COVER II studies; and 0.8 % vs. 0.1 % in the long-term RE-MEDY trial.
@@ -277,32 +277,3 @@ Table 7: Discontinuation rules before invasive or surgical procedures for paedia
 Dabigatran etexilate treatment should be resumed / startedafter the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with reduced renal function (see also table 4), should be treated with caution (see sections 4.4 and 5.1).
-
-[Pradaxa 20 mg coated granules]
-
-The efficacy and safety of the specific reversal agent idarucizumab used for adult patients in situations of life-threatening or uncontrolled bleeding, when rapid reversal of the anticoagulation effect of dabigatran is required, have not been established in paediatric patients.
-
-Table 3: Risk factors which may increase the haemorrhagic risk.
-
-|  | Risk factor |
-| --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Strong P-gp inhibitors (see section 4.3 and 4.5) • Mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, verapamil, quinidine and ticagrelor; see section 4.5) |
-| Pharmacodynamic interactions (see section 4.5) | • ASA and other platelet aggregation inhibitors such as clopidogrel • NSAIDs • SSRIs or SNRIs • Other medicinal products which may impair haemostasis |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis or gastroesophageal reflux |
-
-Patients who develop acute renal failure must discontinue dabigatran etexilate.
-
-When severe bleedings occur, treatment must be discontinued and the source of bleeding investigated.
-The efficacy and safety of the specific reversal agent (idarucizumab) to dabigatran have not been established in paediatric patients.
-
-Coagulation test thresholds at trough for paediatric patients that may be associated with an increased risk of bleeding are not known.
-
-Discontinuation rules before invasive or surgical procedures for paediatric patients are summarised in table 4.
-
-Table 4: Discontinuation rules before invasive or surgical procedures for paediatric patients
-
-Patients at risk for bleeding or patients at risk of overexposure (see table 3) should be treated with caution (see sections 4.4 and 5.1).
-
-Active cancer patients
-
-Very specific paediatric population

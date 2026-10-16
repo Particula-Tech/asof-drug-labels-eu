@@ -33,7 +33,3 @@ Dabigatran etexilate doses beyond those recommended expose the patient to increa
 [Pradaxa 150 mg hard capsules]
 
 (all sentences already above)
-
-[Pradaxa 20 mg coated granules]
-
-Coagulation tests may become unreliable following adminstration of suggested coagulation factor concentrates.

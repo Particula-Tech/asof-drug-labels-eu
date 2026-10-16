@@ -14,9 +14,3 @@ The cap is imprinted with the Boehringer Ingelheim company symbol, the body with
 
 Capsules with light blue, opaque cap and white, opaque body of size 0 (approx. 22 × 8 mm) filled with yellowish pellets.
 The cap is imprinted with the Boehringer Ingelheim company symbol, the body with “R150”.
-
-[Pradaxa 20 mg coated granules]
-
-Coated granules.
-
-Yellowish coated granules.

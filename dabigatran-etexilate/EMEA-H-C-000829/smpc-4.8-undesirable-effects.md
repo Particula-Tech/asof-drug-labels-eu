@@ -11,7 +11,7 @@ The most commonly reported events are bleedings occurring in approximately 14 % 
 Although rare in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 Tabulated list of adverse reactions
 
-Table 10 shows the adverse reactions ranked under headings of System Organ Classes (SOC) and frequency using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1 000 to < 1/100), rare (≥1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
+Table 10 shows the adverse reactions ranked under headings of System Organ Classes (SOC) and frequency using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 Table 10: Adverse reactions
 
@@ -127,7 +127,7 @@ In total, 26 % of paediatric patients treated with dabigatran etexilate for VTE 
 Tabulated list of adverse reactions
 
 Table 12 shows the adverse reactions identified from the studies in the treatment of VTE and prevention of recurrent VTE in paediatric patients.
-They are ranked under headings of System Organ Class (SOC) and frequency using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1 000 to < 1/100), rare (≥1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
+They are ranked under headings of System Organ Class (SOC) and frequency using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 Table 12: Adverse reactions
 
@@ -315,7 +315,7 @@ Subjects randomised to dabigatran etexilate 110 mg twice daily or 150 mg twice d
 Both dose strengths of dabigatran etexilate had also a statistically significant lower total bleed rate.
 Subjects randomised to 110 mg dabigatran etexilate twice daily had a significantly lower risk for major bleeds compared with warfarin (hazard ratio 0.81 [p = 0.0027]).
 Subjects randomised to 150 mg dabigatran etexilate twice daily had a significantly higher risk for major GI bleeds compared with warfarin (hazard ratio 1.48 [p = 0.0005].
-This effect was seen primarily in patients ≥75 years.
+This effect was seen primarily in patients ≥ 75 years.
 The clinical benefit of dabigatran with regard to stroke and systemic embolism prevention and decreased risk of ICH compared to warfarin is preserved across individual subgroups, e.g. renal impairment, age, concomitant medicinal product use such as anti-platelets or P-gp inhibitors.
 While certain patient subgroups are at an increased risk of major bleeding when treated with an anticoagulant, the excess bleeding risk for dabigatran is due to GI bleeding, typically seen within the first 3-6 months following initiation of dabigatran etexilate therapy.
 Treatment of DVT and PE, and prevention of recurrent DVT and PE in adults (DVT/PE treatment)
@@ -388,8 +388,8 @@ The most commonly reported events are bleedings occurring in approximately 16.6 
 Since the patient populations treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and are provided in tables 12-15 below.
 
 Table 11 shows the adverse reactions identified studies and post-marketing data in the indications prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, DVT/PE treatment and DVT/PE prevention.
-They are ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥1/10), common (≥1/100 to
-< 1/10), uncommon (≥1/1 000 to < 1/100), rare (≥1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
+They are ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥ 1/10), common (≥ 1/100 to
+< 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 Table 11: Adverse reactions
 
@@ -474,11 +474,3 @@ Table 15: Bleeding events in study RE-SONATE testing prevention of DVT and PE
 Table 16 shows the adverse reactions identified from the studies in the treatment of VTE and prevention of recurrent VTE in paediatric patients.
 
 Table 16: Adverse reactions
-
-[Pradaxa 20 mg coated granules]
-
-In total, 328 paediatric patients had been treated with dabigatran etexilate.
-
-Table 8 shows the adverse reactions identified from the studies in the treatment of VTE and prevention of recurrent VTE in paediatric patients.
-
-Table 8: Adverse reactions

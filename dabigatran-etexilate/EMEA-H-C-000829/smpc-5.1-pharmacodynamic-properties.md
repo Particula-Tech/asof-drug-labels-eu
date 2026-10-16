@@ -313,17 +313,17 @@ Table 25: Hazard Ratio and 95 % CI for stroke/systemic embolism by subgroups
 | --- | --- | --- |
 | Age (years) |  |  |
 | < 65 | 1.10 (0.64, 1.87) | 0.51 (0.26, 0.98) |
-| 65 ≤and < 75 | 0.86 (0.62, 1.19) | 0.67 (0.47, 0.95) |
-| ≥75 | 0.88 (0.66, 1.17) | 0.68 (0.50, 0.92) |
-| ≥80 | 0.68 (0.44, 1.05) | 0.67 (0.44, 1.02) |
+| 65 ≤ and < 75 | 0.86 (0.62, 1.19) | 0.67 (0.47, 0.95) |
+| ≥ 75 | 0.88 (0.66, 1.17) | 0.68 (0.50, 0.92) |
+| ≥ 80 | 0.68 (0.44, 1.05) | 0.67 (0.44, 1.02) |
 | CrCL(mL/min) |  |  |
-| 30 ≤and < 50 | 0.89 (0.61, 1.31) | 0.48 (0.31, 0.76) |
-| 50 ≤and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
-| ≥80 | 0.81 (0.51, 1.28) | 0.69 (0.43, 1.12) |
+| 30 ≤ and < 50 | 0.89 (0.61, 1.31) | 0.48 (0.31, 0.76) |
+| 50 ≤ and < 80 | 0.91 (0.68, 1.20) | 0.65 (0.47, 0.88) |
+| ≥ 80 | 0.81 (0.51, 1.28) | 0.69 (0.43, 1.12) |
 
 For the primary safety endpoint of major bleeding there was an interaction of treatment effect and age.
 The relative risk of bleeding with dabigatran compared to warfarin increased with age.
-Relative risk was highest in patients ≥75 years.
+Relative risk was highest in patients ≥ 75 years.
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran etexilate and warfarin.
 There was no significant interaction of treatment effects with the subgroups of renal function and CHADS2 score.
 
@@ -333,13 +333,13 @@ Table 26: Hazard Ratio and 95 % CI for major bleeds by subgroups
 | --- | --- | --- |
 | Age (years) |  |  |
 | < 65 | 0.32 (0.18, 0.57) | 0.35 (0.20, 0.61) |
-| 65 ≤and < 75 | 0.71 (0.56, 0.89) | 0.82 (0.66, 1.03) |
-| ≥75 | 1.01 (0.84, 1.23) | 1.19 (0.99, 1.43) |
-| ≥80 | 1.14 (0.86, 1.51) | 1.35 (1.03, 1.76) |
+| 65 ≤ and < 75 | 0.71 (0.56, 0.89) | 0.82 (0.66, 1.03) |
+| ≥ 75 | 1.01 (0.84, 1.23) | 1.19 (0.99, 1.43) |
+| ≥ 80 | 1.14 (0.86, 1.51) | 1.35 (1.03, 1.76) |
 | CrCL(mL/min) |  |  |
-| 30 ≤and < 50 | 1.02 (0.79, 1.32) | 0.94 (0.73, 1.22) |
-| 50 ≤and < 80 | 0.75 (0.61, 0.92) | 0.90 (0.74, 1.09) |
-| ≥80 | 0.59 (0.43, 0.82) | 0.87 (0.65, 1.17) |
+| 30 ≤ and < 50 | 1.02 (0.79, 1.32) | 0.94 (0.73, 1.22) |
+| 50 ≤ and < 80 | 0.75 (0.61, 0.92) | 0.90 (0.74, 1.09) |
+| ≥ 80 | 0.59 (0.43, 0.82) | 0.87 (0.65, 1.17) |
 | ASA use | 0.84 (0.69, 1.03) | 0.97 (0.79, 1.18) |
 | Clopidogrel use | 0.89 (0.55, 1.45) | 0.92 (0.57, 1.48) |
 
@@ -375,7 +375,7 @@ Patients who underwent percutaneous coronary intervention (PCI) with stenting
 
 A prospective, randomised, open-label, blinded endpoint (PROBE) study (Phase IIIb) to evaluate dual-therapy with dabigatran etexilate (110 mg or 150 mg bid) plus clopidogrel or ticagrelor (P2Y12 antagonist) vs. triple-therapy with warfarin (adjusted to a INR 2.0 – 3.0) plus clopidogrel or ticagrelor and ASA was conducted in 2 725 patients with non valvular atrial fibrillation who underwent a PCI with stenting (RE-DUAL PCI).
 Patients were randomised to dabigatran etexilate 110 mg bid dual-therapy, dabigatran etexilate 150 mg bid dual-therapy or warfarin triple-therapy.
-Elderly patients outside of the United States (≥80 years of age for all countries, ≥70 years of age for Japan) were randomly assigned to the dabigatran etexilate 110 mg dual-therapy group or the warfarin triple-therapy group.
+Elderly patients outside of the United States (≥ 80 years of age for all countries, ≥ 70 years of age for Japan) were randomly assigned to the dabigatran etexilate 110 mg dual-therapy group or the warfarin triple-therapy group.
 The primary endpoint was a combined endpoint of major bleeds based on ISTH definition or clinically relevant non-major bleeding event.
 
 The incidence of the primary endpoint was 15.4 % (151 patients) in the dabigatran etexilate 110 mg dual-therapy group as compared with 26.9 % (264 patients) in the warfarin triple-therapy group (HR 0.52; 95 % CI 0.42, 0.63; P< 0.0001 for non-inferiority and P< 0.0001 for superiority) and 20.2 % (154 patients) in the dabigatran etexilate 150 mg dual-therapy group as compared with 25.7 %
@@ -540,7 +540,3 @@ RE-SONATE demonstrated dabigatran etexilate was superior to placebo for the prev
 Table 24: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the RE-SONATE study.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population for the indication of prevention of stroke and systemic embolism in patients with NVAF (see section 4.2 for information on paediatric use).
-
-[Pradaxa 20 mg coated granules]
-
-In general, it can be assumed that these measures of anti-coagulant activity may reflect dabigatran levels and can provide guidance for the assessment of bleeding risk.

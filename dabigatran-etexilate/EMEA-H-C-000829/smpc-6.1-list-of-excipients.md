@@ -26,7 +26,3 @@ Indigo carmine
 [Pradaxa 150 mg hard capsules]
 
 (all sentences already above)
-
-[Pradaxa 20 mg coated granules]
-
-(all sentences already above)
