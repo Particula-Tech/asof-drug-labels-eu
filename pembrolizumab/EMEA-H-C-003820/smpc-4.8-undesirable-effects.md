@@ -170,7 +170,7 @@ Adverse reactions were generally similar to those observed in patients receiving
 The incidence of rash maculo-papular was 36% all Grades (10% Grades 3-4), which is higher than observed in pembrolizumab monotherapy.
 Generally, adverse event frequencies were higher in patients ≥ 65 years of age compared to < 65 years of age, particularly for serious adverse events (56.3% and 35.3%, respectively) and ≥ Grade 3 events (80.3% and 64.2%, respectively), similar to observations with the chemotherapy comparator.
 
-The safety of pembrolizumab in combination with enfortumab vedotin has been evaluated among 167 patients with MIBC receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment.
+The safety of pembrolizumab in combination with enfortumab vedotin has been evaluated among 570 patients with MIBC receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment.
 Overall, the incidence of adverse reactions for pembrolizumab in combination with enfortumab vedotin was observed to be higher than for pembrolizumab monotherapy reflecting the contribution of enfortumab vedotin.
 Adverse reactions were generally similar to those occurring in patients with unresectable or metastatic urothelial carcinoma treated with pembrolizumab in combination with enfortumab vedotin.
 
@@ -318,6 +318,7 @@ The safety of intravenous pembrolizumab as monotherapy has been evaluated in 7 6
 The safety of intravenous pembrolizumab in combination with chemotherapy, RT or CRT has been evaluated in 7 015 patients across tumour types receiving 200 mg, 2 mg/kg bw or 10 mg/kg bw pembrolizumab every 3 weeks or 400 mg pembrolizumab every 6 weeks, in clinical studies.
 
 The safety of intravenous pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1 456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate.
+
 Adverse reactions observed in clinical studies of intravenous pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 
 | MedDRA SOC and frequency category | Monotherapy | In combination with chemotherapy, radiation therapy or chemoradiotherapy | In combination with axitinib or lenvatinib |
@@ -403,14 +404,14 @@ The frequency is based on exposure to KEYTRUDA solution for injection in MK-3475
 ⁎ The following terms represent a group of related events that describe a medical condition rather than a single event:
 
 The safety of intravenous pembrolizumab in combination with enfortumab vedotin has been evaluated among 564 patients with unresectable or metastatic urothelial carcinoma receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
-
-The safety of intravenous pembrolizumab in combination with enfortumab vedotin has been evaluated among 167 patients with MIBC receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment.
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin has been evaluated among 570 patients with MIBC receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment.
 
 Data for the following immune-mediated adverse reactions are based on patients who received intravenous pembrolizumab across four doses (2 mg/kg bw every 3 weeks, 10 mg/kg bw every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
 
 In a clinical study in patients treated with subcutaneous administration of KEYTRUDA solution for injection 790 mg every 6 weeks or intravenous administration of pembrolizumab 400 mg every 6 weeks, with a median duration of treatment on subcutaneous pembrolizumab exceeding 6 months (range: 1 day to 12.5 months), 1.4% (3/211) of patients developed treatment-emergent anti-pembrolizumab antibodies and 0.5% (1/211) developed neutralising antibodies.
 In the intravenous pembrolizumab arm, 0.9% (1/114) of patients developed treatment-emergent anti-pembrolizumab antibodies and 0% (0/114) developed neutralising antibodies.
 The pembrolizumab immunogenicity profile of subcutaneous pembrolizumab was consistent with the known immunogenicity profile of intravenous pembrolizumab.
+
 The incidence of treatment-emergent anti-recombinant berahyaluronidase alfa antibodies was 1.5% (3/194) with low titer values reported for all three subjects and no detectable systemic concentration of recombinant berahyaluronidase alfa.
 The clinical relevance of the development of anti-recombinant berahyaluronidase alfa antibodies after treatment with subcutaneous pembrolizumab is unknown.
 

@@ -30,7 +30,7 @@ KEYTRUDA as monotherapy is indicated for the treatment of adult and paediatric p
 
 Urothelial carcinoma
 
-KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC).
 
 KEYTRUDA, in combination with enfortumab vedotin, is indicated for the first-line treatment of unresectable or metastatic urothelial carcinoma in adults.
 

@@ -29,6 +29,8 @@ For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be admini
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
+For the neoadjuvant and adjuvant treatment of cisplatin-eligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 4 doses of 200 mg every 3 weeks or for 2 doses of 400 mg every 6 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
 For the neoadjuvant and adjuvant treatment of cisplatin-ineligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 3 doses of 200 mg every 3 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 14 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
 For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 200 mg every 3 weeks or 1 dose of 400 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 200 mg every 3 weeks or 6 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
@@ -39,6 +41,7 @@ Patients who experience disease progression that precludes definitive surgery or
 
 For locally advanced cervical cancer, patients should be treated with KEYTRUDA concurrent with chemoradiotherapy, followed by KEYTRUDA as monotherapy.
 KEYTRUDA can be administered as either 200 mg every 3 weeks or 400 mg every 6 weeks until disease progression, unacceptable toxicity or up to 24 months.
+
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
 KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
@@ -57,8 +60,8 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
 |  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
-| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
+| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
+| liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
 |  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
 | Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
@@ -139,12 +142,45 @@ The recommended dose of KEYTRUDA solution for injection in adults and in adolesc
 
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
+For the neoadjuvant and adjuvant treatment of cisplatin-eligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 4 doses of 395 mg every 3 weeks or for 2 doses of 790 mg every 6 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 13 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
 For the neoadjuvant and adjuvant treatment of cisplatin-ineligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 3 doses of 395 mg every 3 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 14 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
 For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 395 mg every 3 weeks or 1 dose of 790 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 395 mg every 3 weeks or 6 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 395 mg every 3 weeks or 4 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 395 mg every 3 weeks or 5 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 
 KEYTRUDA can be administered as either 395 mg every 3 weeks or 790 mg every 6 weeks until disease progression, unacceptable toxicity or up to 24 months.
+
+| Immune-mediated adverse reactions | Severity | Treatment modification |
+| --- | --- | --- |
+| Pneumonitis | Grade 2 | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grades 3 or 4, or recurrent Grade 2 | Permanently discontinue |
+| Colitis | Grades 2 or 3 | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
+| Nephritis | Grade 2 with creatinine > 1.5 to ≤ 3 times upper limit of normal (ULN) | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grade ≥ 3 with creatinine > 3 times ULN | Permanently discontinue |
+| Endocrinopathies | Grade 2 adrenal insufficiency and hypophysitis | Withhold treatment until controlled by hormone replacement |
+
+| Immune-mediated adverse reactions | Severity | Treatment modification |
+| --- | --- | --- |
+|  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
+|  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
+| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
+|  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
+| Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
+| Other immune-mediated adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome | Permanently discontinue |
+|  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
+| Myocarditis-myositis-myasthenia gravis overlap syndrome† | Grade 2 | Withhold until adverse reactions recover to Grades 0-1* |
+|  | Grades 3 or 4 | Permanently discontinue |
+| Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
+
+Immune-mediated adverse Severity Treatment modification
+reactions
 
 The safety and efficacy of KEYTRUDA solution for injection have not been established in paediatric patients except for adolescents aged 12 years and older with melanoma or cHL.
 A recommended dose for adolescents aged 12 years and older who weigh 40 kg or less has not been established (see sections 4.8, 5.1 and 5.2).
