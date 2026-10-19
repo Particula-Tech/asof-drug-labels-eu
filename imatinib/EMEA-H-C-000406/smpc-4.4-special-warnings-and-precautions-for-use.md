@@ -2,9 +2,9 @@
 
 When Glivec is co-administered with other medicinal products, there is a potential for drug interactions.
 Caution should be used when taking Glivec with protease inhibitors, azole antifungals, certain macrolides (see section 4.5), CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel, quinidine) or warfarin and other coumarin derivatives (see section 4.5).
+
 Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
-
 Hypothyroidism
 
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Glivec (see section 4.5).

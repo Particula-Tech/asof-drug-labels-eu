@@ -59,10 +59,10 @@ The recommended dose of Glivec is 400 mg/day for adult patients with MDS/MPD.
 
 Treatment duration: In the only clinical trial performed up to now, treatment with Glivec was continued until disease progression (see section 5.1).
 At the time of analysis, the treatment duration was a median of 47 months (24 days - 60 months).
+
 Posology for HES/CEL
 
 The recommended dose of Glivec is 100 mg/day for adult patients with HES/CEL.
-
 Dose increase from 100 mg to 400 mg may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
 Treatment should be continued as long as the patient continues to benefit.
@@ -83,7 +83,9 @@ Length of treatment in the clinical trial supporting this indication was 36 mont
 
 Posology for DFSP
 
-The recommended dose of Glivec is 800 mg/day for adult patients with DFSP.
+The recommended dose of Glivec is 400 mg/day for adult patients with DFSP.
+
+Dose increase from 400 mg up to 800 mg/day may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
 Dose adjustment for adverse reactions
 
@@ -102,11 +104,10 @@ Dose adjustments for neutropenia and thrombocytopenia:
 
 | HES/CEL (starting dose 100 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). |
 | --- | --- | --- |
-| Chronic phase CML, MDS/MPD and GIST (starting dose 400 mg) HES/CEL (at dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
+| Chronic phase CML, MDS/MPD, GIST and DFSP (starting dose 400 mg) HES/CEL (at dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
 | Paediatric chronic phase CML (at dose 340 mg/m2) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x109/l, repeat step 1 and resume Glivec at reduced dose of 260 mg/m2. |
 | Accelerated phase CML and blast crisis and Ph+ ALL (starting dose 600 mg) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 400 mg. 3. If cytopenia persists for 2 weeks, reduce further to 300 mg. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 300 mg. |
 | Paediatric accelerated phase CML and blast crisis (starting dose 340 mg/m2) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 260 mg/m2. 3. If cytopenia persists for 2 weeks, reduce further to 200 mg/m2. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 200 mg/m2. |
-| DFSP (at dose 800 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at 600 mg. 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 400 mg. |
 | ANC = absolute neutrophil count a occurring after at least 1 month of treatment |  |  |
 
 Special populations
@@ -114,7 +115,6 @@ Special populations
 Paediatric population
 There is no experience in children with CML below 2 years of age and with Ph+ALL below 1 year of age (see section 5.1).
 There is very limited experience in children with MDS/MPD, DFSP, GIST and HES/CEL.
-
 The safety and efficacy of imatinib in children with MDS/MPD, DFSP, GIST and HES/CEL aged less than 18 years of age have not been established in clinical trials.
 Currently available published data are summarised in section 5.1 but no recommendation on a posology can be made.
 

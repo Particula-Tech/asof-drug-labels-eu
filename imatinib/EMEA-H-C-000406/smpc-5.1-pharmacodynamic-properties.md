@@ -428,6 +428,7 @@ In addition, thirty-six (36) months of Glivec treatment significantly prolonged 
 Longer duration of the treatment (> 36 months) may delay the onset of further recurrences; however the impact of this finding on the overall survival remains unknown.
 
 The total number of deaths were 25 for the 12-month treatment arm and 12 for the 36-month treatment arm.
+
 Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
 In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
 No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
@@ -499,6 +500,8 @@ The adult patients reported in the published literature were treated with either
 Five (5) patients responded, 3 completely and 2 partially.
 The median duration of therapy in the published literature ranged between 4 weeks and more than 20 months.
 The translocation t(17:22)[(q22:q13)], or its gene product, was present in nearly all responders to Glivec treatment.
+Clinical data from published literature indicate that imatinib is active in DFSP at doses ranging from 400 mg to 800 mg daily.
+The overall evidence does not suggest a clinically relevant advantage of higher starting doses.
 
 There are no controlled trials in paediatric patients with DFSP.
 Five (5) patients with DFSP and PDGFR gene re-arrangements were reported in 3 publications.
