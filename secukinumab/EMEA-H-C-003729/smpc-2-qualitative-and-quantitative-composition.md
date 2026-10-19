@@ -4,6 +4,10 @@ Each pre-filled syringe contains 75 mg secukinumab in 0.5 ml.
 
 Secukinumab is a recombinant fully human monoclonal antibody produced in Chinese Hamster Ovary (CHO) cells.
 
+Excipient with known effect
+
+This medicinal product contains 0.20 mg of polysorbate 80 in each ml of solution.
+
 For the full list of excipients, see section 6.1.
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
@@ -28,3 +32,5 @@ Each pre-filled pen contains 300 mg secukinumab in 2 ml.
 
 Each vial of powder contains 150 mg secukinumab.
 After reconstitution, 1 ml of solution contains 150 mg secukinumab.
+
+This medicinal product contains 0.60 mg of polysorbate 80 in each ml of reconstituted solution.

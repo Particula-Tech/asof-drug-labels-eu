@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-Most pharmacokinetics properties observed in patients with plaque psoriasis, psoriatic arthritis and ankylosing spondylitis were similar.
+Most pharmacokinetics properties observed in patients with plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and polymyalgia rheumatica were similar.
 
 Paediatric population
 
@@ -31,8 +31,8 @@ Population pharmacokinetic analysis showed that secukinumab was absorbed with an
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
 
 The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
-
 Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.
+
 Distribution
 The mean volume of distribution during the terminal phase (Vz) following single intravenous administration ranged from 7.10 to 8.60 litres in plaque psoriasis patients, suggesting that secukinumab undergoes limited distribution to peripheral compartments.
 

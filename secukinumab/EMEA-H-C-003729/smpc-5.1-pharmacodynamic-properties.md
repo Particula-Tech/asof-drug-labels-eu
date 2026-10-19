@@ -15,7 +15,6 @@ IL-17A plays a key role in the pathogenesis of plaque psoriasis, psoriatic arthr
 The frequency of IL-17-producing cells was also significantly higher in the subchondral bone marrow of facet joints from patients with ankylosing spondylitis.
 Increased numbers of IL-17A producing lymphocytes have also been found in patients with non-radiographic axial spondyloarthritis.
 Inhibition of IL-17A was shown to be effective in the treatment of ankylosing spondylitis, thus establishing the key role of this cytokine in axial spondyloarthritis.
-
 Pharmacodynamic effects
 
 Serum levels of total IL-17A (free and secukinumab-bound IL-17A) are initially increased in patients receiving secukinumab.
@@ -51,9 +50,9 @@ Patients were also randomised to receive placebo at weeks 0, 1, 2, 3 and 4, foll
 Psoriasis study 5 (SCULPTURE) evaluated 966 patients.
 All patients received secukinumab 150 mg or 300 mg doses at weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
-
 The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at week 12 (see Tables 4 and 5).
 The 300 mg dose provided improved skin clearance particularly for “clear” or “almost clear” skin across the efficacy endpoints of PASI 90, PASI 100, and IGA mod 2011 0 or 1 response across all studies with peak effects seen at week 16, therefore this dose is recommended.
+
 Table 4 Summary of PASI 50/75/90/100 & IGA⃰ mod 2011 “clear” or “almost clear” clinical response in psoriasis studies 1, 3 and 4 (ERASURE, FEATURE and JUNCTURE)
 
 Week 12 Week 16 Week 52
@@ -257,7 +256,6 @@ The co-primary endpoints were the proportion of patients who achieved a PASI 75 
 
 During the 12 week placebo-controlled period, the efficacy of both the low and the high dose of secukinumab was comparable for the co-primary endpoints.
 The odds ratio estimates in favour of both secukinumab doses were statistically significant for both the PASI 75 and IGA mod 2011 0 or 1 responses.
-
 All patients were followed for efficacy and safety during the 52 weeks following the first dose.
 The proportion of patients achieving PASI 75 and IGA mod 2011 ‘clear’ or ‘almost clear’ (0 or 1) responses showed separation between secukinumab treatment groups and placebo at the first post-baseline visit at week 4, the difference becoming more prominent at week 12.
 The response was maintained throughout the 52 week time period (see Table 8).
@@ -304,8 +302,8 @@ Over time up to and including week 52 both secukinumab dose groups were numerica
 
 Moderate to severe plaque psoriasis
 Secukinumab was predicted to be effective for the treatment of paediatric patients with moderate plaque psoriasis based on the demonstrated efficacy and exposure response relationship in adult patients with moderate to severe plaque psoriasis, and the similarity of the disease course, pathophysiology, and drug effect in adult and paediatric patients at the same exposure levels.
-
 Moreover, the safety and efficacy of secukinumab was assessed in an open-label, two-arm, parallel-group, multicentre phase III study in paediatric patients from 6 to <18 years of age with moderate to severe plaque psoriasis, as defined by a PASI score ≥12, an IGA mod 2011 score of ≥3, and BSA involvement of ≥10%, who were candidates for systemic therapy.
+
 The paediatric psoriasis study 2 evaluated 84 patients who were randomised to receive low dose secukinumab (75 mg for body weight <50 kg or 150 mg for body weight ≥50 kg) or high dose secukinumab (75 mg for body weight <25 kg, 150 mg for body weight between ≥25 kg and <50 kg, or 300 mg for body weight ≥50 kg) at weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks.
 Patient distribution by weight and age at randomisation is described in Table 9.
 
@@ -343,9 +341,9 @@ Table 10 Summary of clinical response in moderate to severe paediatric psoriasis
 | * non-responder imputation was used to handle missing values |  |  |  |  |
 
 These outcomes in the paediatric moderate to severe plaque psoriasis population confirmed the predictive assumptions based on the efficacy and exposure response relationship in adult patients, mentioned above.
-
 In the low dose group, 50% and 70.7% of patients achieved a CDLQI 0 or 1 score at weeks 12 and 52, respectively.
 In the high dose group, 61.9% and 70.3% achieved a CDLQI 0 or 1 score at weeks 12 and 52, respectively.
+
 Juvenile idiopathic arthritis (JIA)
 
 Enthesitis-related arthritis (ERA) and juvenile psoriatic arthritis (JPsA)
@@ -409,13 +407,14 @@ Time (weeks)
 *non-responder imputation was used to handle missing values
 
 The data in the 2 to <6 age group were inconclusive due to the low number of patients below 6 years of age enrolled in the study.
-
 The European Medicines Agency has waived the obligation to submit the results of studies with Cosentyx in plaque psoriasis in paediatric patients aged from birth to less than 6 years and in chronic idiopathic arthritis for paediatric patients aged from birth to less than 2 years (see section 4.2 for information on paediatric use).
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-IL-17A plays a key role in the pathogenesis of plaque psoriasis, hidradenitis suppurativa, psoriatic arthritis and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and is up-regulated in lesional skin in contrast to non-lesional skin of plaque psoriasis patients and in synovial tissue of psoriatic arthritis patients.
+IL-17A plays a key role in the pathogenesis of plaque psoriasis, hidradenitis suppurativa, psoriatic arthritis, polymyalgia rheumatica and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and is up-regulated in lesional skin in contrast to non-lesional skin of plaque psoriasis patients and in synovial tissue of psoriatic arthritis patients.
 IL-17A is also upregulated in hidradenitis suppurativa lesions and increased IL-17A serum levels have been observed in affected patients.
+Patients with polymyalgia rheumatica can present with elevated levels of IL-17A-producing cells and/or increased serum IL-17A levels.
+Increased numbers of IL-17A-producing lymphocytes have also been found in patients with non-radiographic axial spondyloarthritis.
 
 PASI 100 response n (%) 0 (0.0%) 10 16 - - - -
 
@@ -443,7 +442,6 @@ Table 7 Summary of clinical response in the plaque psoriasis dose flexibility st
 In the PASI 90 non-responders at week 16 who were up-titrated to secukinumab 300 mg Q2W, the PASI 90 response rates improved compared to those who remained on the secukinumab 300 mg Q4W dosing regimen, while the IGA mod 2011 0/1 response rates remained stable over time in both treatment groups.
 
 The safety profiles of the two dosing regimens, Cosentyx 300 mg administered every 4 weeks and Cosentyx 300 mg administered every 2 weeks, in patients weighing ≥90 kg were comparable and consistent with the safety profile reported in psoriasis patients.
-
 Hidradenitis suppurativa
 The safety and efficacy of secukinumab were assessed in 1 084 patients in two randomised, double-blind, placebo-controlled phase III studies in adult patients with moderate to severe hidradenitis suppurativa (HS) who were candidates for systemic biologic therapy.
 Patients were required to have at least five inflammatory lesions affecting at least two anatomical areas at baseline.
@@ -666,7 +664,6 @@ Patients enrolled had active disease, defined as a Bath Ankylosing Spondylitis D
 Patients in this study had a diagnosis of axSpA for a mean of 2.1 to 3.0 years and 54% of the study participants were female.
 
 In the PREVENT study, 9.7% of patients were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
-
 In the PREVENT study, 9.9% and 14.8% of patients used concomitant MTX or sulfasalazine, respectively.
 In the double-blind period, patients received either placebo or secukinumab for 52 weeks.
 Patients randomised to secukinumab received 150 mg subcutaneously at weeks 0, 1, 2, 3 and 4 followed by the same dose every month, or a once monthly injection of secukinumab 150 mg.
@@ -710,35 +707,85 @@ Inhibition of inflammation in magnetic resonance imaging (MRI):
 Signs of inflammation were assessed by MRI at baseline and week 16 and expressed as change from baseline in Berlin SI-joint oedema score for sacroiliac joints and ASspiMRI-a score and Berlin spine score for the spine.
 Inhibition of inflammatory signs in both sacroiliac joints and the spine was observed in patients treated with secukinumab.
 Mean change from baseline in Berlin SI-joint oedema score was -1.68 for patients treated with secukinumab 150 mg (n=180) versus -0.39 for the placebo-treated patients (n=174) (p<0.05).
+Polymyalgia rheumatica
+The safety and efficacy of secukinumab were assessed in a randomised, double-blind, placebo-controlled phase III study in adult patients with PMR.
+The study excluded patients with evidence or history of giant cell arteritis (GCA).
+Patients (N=381) who had at least one episode of PMR relapse while attempting to taper glucocorticoids were randomised in a 1:1:1 ratio to one of the three treatment groups to receive either secukinumab 150 mg, 300 mg or placebo for 52 weeks.
+Each group followed a 24-week protocol-specified prednisone taper regimen (starting dose of 15 mg/day or 10 mg/day based on the pre-baseline glucocorticoid dose and investigator-assessed disease activity).
+Patients experiencing worsening of PMR signs or symptoms or new diagnosis of GCA could receive escape or rescue treatment.
+Escape treatment was defined as an increase in glucocorticoid dose beyond the protocol-specified taper or reinitiation of glucocorticoids after taper completion.
+Rescue treatment was defined as initiation of alternative medicinal products in addition to glucocorticoids.
+Patients randomised to secukinumab received 150 mg or 300 mg subcutaneously at weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 
-Secukinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis (see Tables 15 and 17).
+The primary efficacy endpoint was the proportion of patients achieving sustained remission at week 52.
+Sustained remission was defined as the achievement of remission no later than week 12, absence of PMR signs or symptoms that required escape or rescue treatment from week 12 through week 52, and no new diagnosis of GCA that required escape or rescue treatment from week 12 through week 52.
+A key secondary endpoint was the proportion of patients achieving complete sustained remission at week 52 defined as the achievement of sustained remission at week 52 without elevation in erythrocyte sedimentation rate to ≥40 mm/hr or CRP to ≥10 mg/l.
 
-Patient distribution by weight and age at randomisation is described in Table 14.
+Treatment with secukinumab (150 mg or 300 mg) with a 24-week prednisone taper showed superiority in achieving glucocorticoid-free sustained remission at week 52 compared to placebo with a 24-week prednisone taper (see Table 14).
+Table 14 Clinical response in the REPLENISH study
 
-Table 14 Patient distribution by weight and age for paediatric psoriasis study 1
+|  | Secukinumab 150 mg (N=126) | Secukinumab 300 mg (N=126) | Placebo (N=127) |
+| --- | --- | --- | --- |
+| Sustained remission at week 52 |  |  |  |
+| Responders, n (%) | 51 (40.5) | 52 (41.3) | 26 (20.5) |
+| Difference in proportions vs. placebo (95% CI) | 20.2 (9.4, 31.0) p=0.0003 | 20.8 (10.0, 31.7) p=0.0002 | N/A |
+| Components of sustained remission at week 52 |  |  |  |
+| Remission at week 12a, n (%) | 108 (85.7) | 112 (88.9) | 99 (78.0) |
+| Absence of PMR signs or symptomsb and no new diagnosis of GCAb,c from week 12 through week 52, n (%) | 54 (42.9) | 54 (42.9) | 31 (24.4) |
+| Complete sustained remission at week 52 |  |  |  |
+| Responders, n (%) | 31 (24.6) | 35 (27.8) | 6 (4.7) |
+| Difference in proportions vs. placebo (95% CI) | 19.8 (11.5, 28.1) p=0.0003 | 23.5 (14.9, 32.1) p=0.0002 | N/A |
+| Components of complete sustained remission at week 52 |  |  |  |
+| Sustained remission at week 52, n (%) | 51 (40.5) | 52 (41.3) | 26 (20.5) |
+| ESR <40 mm/hrd from week 12 through week 52, n (%) | 85 (67.5) | 82 (65.1) | 64 (50.4) |
+| Normal CRPe from week 12 through week 52, n (%) | 83 (65.9) | 86 (68.3) | 58 (45.7) |
+| a Absence of PMR signs or symptoms or new diagnosis of GCA requiring escape or rescue treatment. b Requiring escape or rescue treatment. c Only 1 patient in the placebo group had new diagnosis of GCA. d ESR <40 mm/hr without two consecutive elevations to ≥40 mm/hr. e CRP <10 mg/l without two consecutive elevations to ≥10 mg/l. One patient in each secukinumab group was randomised but not treated. Difference in proportions with 95% CI based on a logistic regression model. P-values are adjusted for multiplicity with overall alpha=0.05 (two-sided). Patients who discontinued study treatment or used protocol-specified concomitant medicinal products that could confound efficacy were classified as non-responders. CRP: C-reactive protein; ESR: erythrocyte sedimentation rate; GCA: giant cell arteritis; N/A: not applicable; PMR: polymyalgia rheumatica. |  |  |  |
 
-The response was maintained throughout the 52 week time period (see Table 15).
+The time to initiate escape or rescue treatment for PMR signs or symptoms was longer in the two secukinumab groups compared to placebo.
+A total of 75.6% of patients in the placebo group required escape or rescue treatment for PMR compared with 51.6% and 50.8% of patients in the secukinumab 150 mg and 300 mg groups, respectively.
+The rate of requiring escape or rescue treatment for PMR was significantly reduced by 50% in patients who received secukinumab 150 mg (Hazard Ratio [HR]=0.51, 95% CI: 0.37 to 0.70) and 300 mg (HR=0.51, 95% CI: 0.37 to 0.70) compared with placebo (Figure 4).
+Figure 4 Kaplan-Meier estimates of the time to initiate escape or rescue treatment for PMR signs or symptoms: REPLENISH study
 
-In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 15).
+Proportion of patients without escape or rescue treatment (%)
 
-Table 15 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
+Secukinumab 150 mg Secukinumab 300 mg - - - - - Placebo + Censored
+Secukinumab 150 mg 126 124 119 114 104 96 75 65 61 59 57 53 53 51
+Secukinumab 300 mg 126 125 124 117 107 92 76 64 61 61 57 56 56 54
+Placebo 127 123 119 109 96 74 56 41 37 35 33 31 30 28
 
-Patient distribution by weight and age at randomisation is described in Table 16.
-Table 16 Patient distribution by weight and age for paediatric psoriasis study 2
+Cumulative glucocorticoid dose
+The cumulative glucocorticoid dose through week 52 (i.e. glucocorticoids taken for any reason) was significantly lower in the two secukinumab groups compared to placebo.
+The mean cumulative glucocorticoid dose through week 52 was 1 501.2 mg, 1 473.1 mg and 1 875.5 mg in the secukinumab 150 mg, 300 mg and placebo groups, respectively.
 
-Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 17).
+Secukinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis (see Tables 16 and 18).
 
-Table 17 Summary of clinical response in moderate to severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 2)*
+Patient distribution by weight and age at randomisation is described in Table 15.
+Table 15 Patient distribution by weight and age for paediatric psoriasis study 1
 
-The risk of flare was reduced by 72% for patients on secukinumab compared with patients on placebo in Part 2 (Hazard ratio=0.28, 95% CI: 0.13 to 0.63, p<0.001) (Figure 4 and Table 18).
+The response was maintained throughout the 52 week time period (see Table 16).
 
-Figure 4 Kaplan-Meier estimates of the time to disease flare in Part 2
+In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 16).
 
-Table 18 Survival analysis of time to disease flare – Part 2
+Table 16 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
 
-At week 12, 83.7%, 67.4%, and 38.4% of children were JIA ACR 50, 70 and 90 responders, respectively (Figure 5).
+Patient distribution by weight and age at randomisation is described in Table 17.
+Table 17 Patient distribution by weight and age for paediatric psoriasis study 2
 
-Figure 5 JIA ACR 30/50/70/90 response for subjects up to week 12 in Part 1*
+Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 18).
+
+Table 18 Summary of clinical response in moderate to severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 2)*
+
+The risk of flare was reduced by 72% for patients on secukinumab compared with patients on placebo in Part 2 (Hazard ratio=0.28, 95% CI: 0.13 to 0.63, p<0.001) (Figure 5 and Table 19).
+
+Figure 5 Kaplan-Meier estimates of the time to disease flare in Part 2
+
+Table 19 Survival analysis of time to disease flare – Part 2
+
+At week 12, 83.7%, 67.4%, and 38.4% of children were JIA ACR 50, 70 and 90 responders, respectively (Figure 6).
+
+Figure 6 JIA ACR 30/50/70/90 response for subjects up to week 12 in Part 1*
+
+The European Medicines Agency has waived the obligation to conduct studies with Cosentyx in all subsets of the paediatric population in polymyalgia rheumatica (see section 4.2 for information on paediatric use).
 
 [Cosentyx 150 mg powder for solution for injection]
 

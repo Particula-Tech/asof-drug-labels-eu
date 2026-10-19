@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Cosentyx is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of conditions for which Cosentyx is indicated.
-
 Posology
 
 Paediatric plaque psoriasis (adolescents and children from the age of 6 years)
@@ -9,6 +8,7 @@ The recommended dose is based on body weight (Table 1) and administered by subcu
 Each 75 mg dose is given as one subcutaneous injection of 75 mg.
 Each 150 mg dose is given as one subcutaneous injection of 150 mg.
 Each 300 mg dose is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
+
 Table 1 Recommended dose for paediatric plaque psoriasis
 
 | Body weight at time of dosing | Recommended dose |
@@ -20,7 +20,6 @@ Table 1 Recommended dose for paediatric plaque psoriasis
 *Some patients may derive additional benefit from the higher dose.
 
 Juvenile idiopathic arthritis (JIA)
-
 Enthesitis-related arthritis (ERA) and juvenile psoriatic arthritis (JPsA)
 The recommended dose is based on body weight (Table 2) and administered by subcutaneous injection at weeks 0, 1, 2, 3, and 4, followed by monthly maintenance dosing.
 Each 75 mg dose is given as one subcutaneous injection of 75 mg.
@@ -55,7 +54,6 @@ Method of administration
 Cosentyx is to be administered by subcutaneous injection.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.
 The syringe must not be shaken.
-
 After proper training in subcutaneous injection technique, patients may self-inject Cosentyx or be injected by a caregiver if a physician determines that this is appropriate.
 However, the physician should ensure appropriate follow-up of patients.
 Patients or caregivers should be instructed to inject the full amount of Cosentyx according to the instructions provided in the package leaflet.
@@ -87,10 +85,19 @@ The recommended dose is 150 mg by subcutaneous injection with initial dosing at 
 
 Non-radiographic axial spondyloarthritis (nr-axSpA)
 
+Polymyalgia rheumatica (PMR)
+The recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing, in combination with a tapering course of glucocorticoids, after which secukinumab can be continued as monotherapy.
+Based on clinical response, the maintenance dose can be increased to 300 mg.
+
+Data are available in patients that were treated for up to 1 year.
+Therefore, treatment beyond 52 weeks should be guided by disease activity, physician discretion and patient choice.
+
 Elderly patients (aged 65 years and over)
 No dose adjustment is required (see section 5.2).
 
 Paediatric population
+
+There is no relevant use of Cosentyx in the paediatric population for the indication of polymyalgia rheumatica.
 
 The syringe or the pen must not be shaken.
 

@@ -31,7 +31,6 @@ Inflammatory bowel disease (including Crohn’s disease and ulcerative colitis)
 Cases of new or exacerbations of inflammatory bowel disease have been reported with secukinumab (see section 4.8).
 Secukinumab is not recommended in patients with inflammatory bowel disease.
 If a patient develops signs and symptoms of inflammatory bowel disease or experiences an exacerbation of pre-existing inflammatory bowel disease, secukinumab should be discontinued and appropriate medical management should be initiated.
-
 Hypersensitivity reactions
 
 Rare cases of anaphylactic reactions and angioedema have been observed in patients receiving secukinumab.
@@ -66,6 +65,12 @@ In accordance with clinical guidelines for immunosuppressants, testing patients 
 Patients with evidence of positive HBV serology should be monitored for clinical and laboratory signs of HBV reactivation during secukinumab treatment.
 If reactivation of HBV occurs while on secukinumab, discontinuation of the treatment should be considered, and patients should be treated according to clinical guidelines.
 
+Excipient with known effect
+
+Polysorbate 80
+This medicinal product contains 0.20 mg of polysorbate 80 in each ml of solution.
+Polysorbates may cause allergic reactions.
+
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 Latex-sensitive individuals – Cosentyx 150 mg solution for injection in pre-filled syringe and 150 mg solution for injection in pre-filled pen only
@@ -73,8 +78,6 @@ Latex-sensitive individuals – Cosentyx 150 mg solution for injection in pre-fi
 The removable needle cap of Cosentyx 150 mg solution for injection in pre-filled syringe and Cosentyx 150 mg solution for injection in pre-filled pen contains a derivative of natural rubber latex.
 Nevertheless, the use of Cosentyx 150 mg solution for injection in pre-filled syringe and Cosentyx 150 mg solution for injection in pre-filled pen in latex-sensitive individuals has not been studied and there is therefore a potential risk of hypersensitivity reactions which cannot be completely ruled out.
 
-In accordance with clinical guidelines for immunosuppresants, testing patients for HBV infection is to be considered before initiating treatment with secukinumab.
-
 [Cosentyx 150 mg powder for solution for injection]
 
-(all sentences already above)
+This medicinal product contains 0.60 mg of polysorbate 80 in each ml of reconstituted solution.

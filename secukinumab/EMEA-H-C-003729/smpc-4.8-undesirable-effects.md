@@ -2,23 +2,23 @@
 
 Summary of the safety profile
 
-The most frequently reported adverse reactions are upper respiratory tract infections (17.1%) (most frequently nasopharyngitis, rhinitis).
-
+The most frequently reported adverse reactions are upper respiratory tract infections (17.8%) (most frequently nasopharyngitis, rhinitis).
 Tabulated list of adverse reactions
 
 Adverse reactions from clinical studies and post-marketing reports (Table 3) are listed by MedDRA system organ class.
 Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first.
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000); and not known (cannot be estimated from the available data).
 
-Over 20 000 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, hidradenitis suppurativa [HS] and other autoimmune conditions), representing 34 908 patient years of exposure.
+Over 20 000 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, hidradenitis suppurativa [HS], polymyalgia rheumatica and other autoimmune conditions), representing 34 908 patient years of exposure.
 Of these, over 14 000 patients were exposed to secukinumab for at least one year.
 The safety profile of secukinumab is consistent across all indications.
+
 Table 3 List of adverse reactions in clinical studies1) and post-marketing experience
 
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
 | Infections and infestations | Very common | Upper respiratory tract infections |
+|  |  | Urinary tract infections2) |
 |  | Common | Oral herpes |
 |  | Uncommon | Oral candidiasis |
 |  |  | Otitis externa |
@@ -30,18 +30,18 @@ Table 3 List of adverse reactions in clinical studies1) and post-marketing exper
 |  |  | Angioedema |
 | Nervous system disorders | Common | Headache |
 | Eye disorders | Uncommon | Conjunctivitis |
-| Respiratory, thoracic and mediastinal disorders | Common | Rhinorrhoea |
+| Respiratory, thoracic and mediastinal disorders | Uncommon | Rhinorrhoea |
 | Gastrointestinal disorders | Common | Diarrhoea |
 |  |  | Nausea |
 |  | Uncommon | Inflammatory bowel disease |
 | Skin and subcutaneous tissue disorders | Common | Eczema |
-|  | Uncommon | Urticaria |
-|  |  | Dyshidrotic eczema |
-|  | Rare | Exfoliative dermatitis2) |
+|  |  | Urticaria |
+|  | Uncommon | Dyshidrotic eczema |
+|  | Rare | Exfoliative dermatitis3) |
 |  |  | Hypersensitivity vasculitis |
 |  | Not known | Pyoderma gangrenosum |
 | General disorders and administration site conditions | Common | Fatigue |
-| 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA, AS, nr-axSpA and HS patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis) or 16 weeks (PsA, AS, nr-axSpA and HS) treatment duration 2) Cases were reported in patients with psoriasis diagnosis |  |  |
+| 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA, AS, nr-axSpA, HS and PMR patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis), 16 weeks (PsA, AS, nr-axSpA and HS) or 52 weeks (PMR) treatment duration 2) Identified as an adverse reaction in PMR study (phase III). Frequency based on PMR patients only 3) Cases were reported in patients with psoriasis diagnosis |  |  |
 
 Description of selected adverse reactions
 
@@ -53,12 +53,18 @@ Serious infections occurred in 0.14% of patients treated with secukinumab and in
 
 Over the entire treatment period (a total of 3 430 patients treated with secukinumab for up to 52 weeks for the majority of patients), infections were reported in 47.5% of patients treated with secukinumab (0.9 per patient-year of follow-up).
 Serious infections were reported in 1.2% of patients treated with secukinumab (0.015 per patient-year of follow-up).
+
 Infection rates observed in psoriatic arthritis and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) clinical studies were similar to those observed in the psoriasis studies.
 
 Patients with hidradenitis suppurativa are more susceptible to infections.
-In the placebo-controlled period of clinical studies in hidradenitis suppurativa (a total of 721 patients treated with secukinumab and 363 patients treated with placebo for up to 16 weeks), infections were numerically higher compared to those observed in the psoriasis studies (30.7% of patients treated with secukinumab compared with 31.7% in patients treated with placebo).
+In the placebo-controlled period of clinical studies in hidradenitis suppurativa (a total of 721 patients treated with secukinumab and 363 patients treated with placebo for up to 16 weeks), infections were numerically higher compared to those observed in the psoriasis studies (30.7% of HS patients treated with secukinumab compared with 31.7% of patients treated with placebo).
 Most of these were non-serious, mild or moderate in severity and did not require treatment discontinuation or interruption.
 
+Patients with polymyalgia rheumatica are more susceptible to infections.
+In the placebo-controlled period of a clinical study, secukinumab was studied in adults with polymyalgia rheumatica (a total of 126 patients treated with secukinumab 150 mg, 126 patients treated with secukinumab 300 mg and 127 patients treated with placebo for up to 52 weeks) in combination with a 24-week glucocorticoid taper.
+Infections were numerically higher compared to those observed in the psoriasis studies (61.1% and 57.9% of PMR patients treated with secukinumab 150 mg and 300 mg, respectively, compared with 53.5% of patients treated with placebo).
+Most of these were non-serious, mild or moderate in severity and did not require treatment discontinuation or interruption.
+Serious infections occurred in 2.4% and 3.2% of PMR patients treated with secukinumab 150 mg and 300 mg and in 3.1% of patients treated with placebo.
 Neutropenia
 In psoriasis phase III clinical studies, neutropenia was more frequently observed with secukinumab than with placebo, but most cases were mild, transient and reversible.
 Neutropenia <1.0-0.5x109/l (CTCAE grade 3) was reported in 18 out of 3 430 (0.5%) patients on secukinumab, with no dose dependence and no temporal relationship to infections in 15 out of 18 cases.
@@ -66,12 +72,14 @@ There were no reported cases of more severe neutropenia.
 Non-serious infections with usual response to standard care and not requiring discontinuation of secukinumab were reported in the remaining 3 cases.
 
 The frequency of neutropenia in psoriatic arthritis, axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and hidradenitis suppurativa was similar to psoriasis.
+In polymyalgia rheumatica, neutropenia was reported in 1 patient on secukinumab and in 1 patient on placebo.
 
 Rare cases of neutropenia <0.5x109/l (CTCAE grade 4) were reported.
 
 Immunogenicity
-In psoriasis, psoriatic arthritis, axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and hidradenitis suppurativa clinical studies, less than 1% of patients treated with secukinumab developed antibodies to secukinumab up to 52 weeks of treatment.
-About half of the treatment-emergent anti-drug antibodies were neutralising, but this was not associated with loss of efficacy or pharmacokinetic abnormalities.
+In psoriasis, psoriatic arthritis, axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and hidradenitis suppurativa clinical studies, less than 1% of patients treated with secukinumab developed antibodies to secukinumab (referred as anti-drug antibodies [ADA]) up to 52 weeks of treatment.
+About half of the treatment-emergent anti-drug antibodies in these clinical studies were neutralising, but this was not associated with loss of efficacy or pharmacokinetic abnormalities.
+In adult patients with PMR, the incidence of treatment-emergent ADA formation was 1.2% and no neutralising antibodies developed.
 
 Paediatric population
 
@@ -84,7 +92,6 @@ The safety profile reported in these two studies was consistent with the safety 
 Undesirable effects in paediatric patients with JIA
 The safety of secukinumab was also assessed in a phase III study in 86 juvenile idiopathic arthritis patients with ERA and JPsA from 2 to less than 18 years of age.
 The safety profile reported in this study was consistent with the safety profile reported in adult patients.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -93,7 +100,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-Over 20 000 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, hidradenitis suppurativa and other autoimmune conditions), representing 34 908 patient years of exposure.
+Over 20 000 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, hidradenitis suppurativa, polymyalgia rheumatica and other autoimmune conditions), representing 34 908 patient years of exposure.
 
 [Cosentyx 150 mg powder for solution for injection]
 
