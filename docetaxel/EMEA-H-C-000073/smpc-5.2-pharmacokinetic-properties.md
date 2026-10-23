@@ -9,7 +9,7 @@ The late phase is due, in part, to a relatively slow efflux of docetaxel from th
 
 Distribution
 
-Following the administration of a 100 mg/m2 dose given as a one-hour infusion a mean peak plasma level of 3.7 µg/ml was obtained with a corresponding AUC of 4.6 h.µg/ml.
+Following the administration of a 100 mg/m2 dose given as a one-hour infusion a mean peak plasma level of 3.7 µg/mL was obtained with a corresponding AUC of 4.6 h.µg/mL.
 Mean values for total body clearance and steady-state volume of distribution were 21 l/h/m2 and 113 l, respectively.
 Inter individual variation in total body clearance was approximately 50%.
 Docetaxel is more than 95% bound to plasma proteins.
@@ -28,8 +28,8 @@ Pharmacokinetic parameters estimated by the model were very close to those estim
 The pharmacokinetics of docetaxel were not altered by the age or sex of the patient.
 
 Hepatic impairment
-In a small number of patients (n = 23) with clinical chemistry data suggestive of mild to moderate liver function impairment (ALT, AST ≥ 1.5 times the ULN associated with alkaline phosphatase ≥
-2.5 times the ULN), total clearance was lowered by 27% on average (see section 4.2).
+In a small number of patients (n = 23) with clinical chemistry data suggestive of mild to moderate liver function impairment (ALT, AST ≥ 1.5 times the ULN associated with alkaline phosphatase
+≥ 2.5 times the ULN), total clearance was lowered by 27% on average (see section 4.2).
 
 Fluid retention
 Docetaxel clearance was not modified in patients with mild to moderate fluid retention and there are no data available in patients with severe fluid retention.
@@ -56,18 +56,18 @@ The effect of prednisone on the pharmacokinetics of docetaxel administered with 
 Prednisone
 No effect of prednisone on the pharmacokinetics of docetaxel was observed.
 
-[TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
-
-CisplatinClearance of docetaxel in combination therapy with cisplatin was similar to that observed following monotherapy.
-
-[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
-
-The pharmacokinetics of docetaxel, doxorubicin and cyclophosphamide were not influenced by their co-administration.
-
-[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+[TAXOTERE 80 mg/2 mL concentrate and solvent for solution for infusion]
 
 (all sentences already above)
 
-[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+[TAXOTERE 20 mg/1 mL concentrate for solution for infusion]
+
+The pharmacokinetics of docetaxel, doxorubicin and cyclophosphamide were not influenced by their co-administration.
+
+[TAXOTERE 80 mg/4 mL concentrate for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 160 mg/8 mL concentrate for solution for infusion.]
 
 (all sentences already above)

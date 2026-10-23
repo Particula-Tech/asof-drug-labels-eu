@@ -6,6 +6,7 @@ Women of childbearing potential and men receiving docetaxel should be advised to
 
 Due to the genotoxic risk of docetaxel (see section 5.3), women of childbearing potential must use effective method of contraception during treatment and for 2 months after cessation of treatment with docetaxel.
 Men must use effective method of contraception during treatment and for 4 months after cessation of treatment with docetaxel.
+
 Pregnancy
 
 There is no information on the use of docetaxel in pregnant women.

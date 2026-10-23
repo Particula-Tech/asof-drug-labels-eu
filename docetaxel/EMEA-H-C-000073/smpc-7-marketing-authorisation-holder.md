@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie
-82 Avenue Raspail
-94250 Gentilly
-France
+Boryung Europe Kft.
+Vaci Ut 33
+1134 Budapest XIII
+Hungary

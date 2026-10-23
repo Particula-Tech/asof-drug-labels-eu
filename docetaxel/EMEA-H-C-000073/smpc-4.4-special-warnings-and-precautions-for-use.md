@@ -8,7 +8,7 @@ Haematology
 Neutropenia is the most frequent adverse reaction of docetaxel.
 Neutrophil nadirs occurred at a median of 7 days but this interval may be shorter in heavily pre-treated patients.
 Frequent monitoring of complete blood counts should be conducted on all patients receiving docetaxel.
-Patients should be retreated with docetaxel when neutrophils recover to a level ≥ 1,500 cells/mm3 (see section 4.2).
+Patients should be retreated with docetaxel when neutrophils recover to a level ≥ 1 500 cells/mm3 (see section 4.2).
 
 In the case of severe neutropenia (< 500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see section 4.2).
 
@@ -53,6 +53,7 @@ Respiratory disorders
 
 Acute respiratory distress syndrome, interstitial pneumonia/pneumonitis, interstitial lung disease, pulmonary fibrosis and respiratory failure have been reported and may be associated with fatal outcome.
 Cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
+
 If new or worsening pulmonary symptoms develop, patients should be closely monitored, promptly investigated, and appropriately treated.
 Interruption of docetaxel therapy is recommended until diagnosis is available.
 Early use of supportive care measures may help improve the condition.
@@ -62,13 +63,15 @@ Patients with liver impairment
 
 In patients treated with docetaxel at 100 mg/m2 as single agent who have serum transaminase levels (ALT and/or AST) greater than 1.5 times the ULN concurrent with serum alkaline phosphatase levels greater than 2.5 times the ULN, there is a higher risk of developing severe adverse reactions such as toxic deaths including sepsis and gastrointestinal haemorrhage which can be fatal, febrile neutropenia, infections, thrombocytopenia, stomatitis and asthenia.
 Therefore, the recommended dose of docetaxel in those patients with elevated liver function test (LFTs) is 75 mg/m2 and LFTs should be measured at baseline and before each cycle (see section 4.2).
+
 For patients with serum bilirubin levels > ULN and/or ALT and AST > 3.5 times the ULN concurrent with serum alkaline phosphatase levels > 6 times the ULN, no dose-reduction can be recommended and docetaxel should not be used unless strictly indicated.
+
 In combination with cisplatin and 5-fluorouracil for the treatment of patients with gastric adenocarcinoma, the pivotal clinical study excluded patients with ALT and/or AST > 1.5 × ULN associated with alkaline phosphatase > 2.5 × ULN, and bilirubin > 1 x ULN; for these patients, no dose-reductions can be recommended and docetaxel should not be used unless strictly indicated.
 No data are available in patients with hepatic impairment treated by docetaxel in combination in the other indications.
-
 Patients with renal impairment
 
 There are no data available in patients with severely impaired renal function treated with docetaxel.
+
 Nervous system
 
 The development of severe peripheral neurotoxicity requires a reduction of dose (see section 4.2).
@@ -137,9 +140,9 @@ The incidence of related fever, diarrhoea, anorexia, and peripheral oedema occur
 
 Cautions for use in hormone-sensitive prostate cancer
 Of the 545 patients treated with docetaxel every 3 weeks in a hormone-sensitive prostate cancer study (STAMPEDE), 296 patients were 65 years of age or older, and 48 patients were 75 years of age or older.
-More patients aged ≥65 years in the docetaxel arm reported hypersensitivity reaction, neutropenia, anaemia, fluid retention, dyspnea, and nail changes when compared to the patients aged less than 65 years.
+More patients aged ≥65 years in the docetaxel arm reported hypersensitivity reaction, neutropenia, anaemia, fluid retention, dyspnoea, and nail changes when compared to the patients aged less than 65 years.
 None of these increases in frequency reached 10% difference with the control arm.
-In patients who were 75 years of age or older, when compared to younger patients, neutropenia, anaemia, diarrhea, dyspnea and upper respiratory tract infection were reported with a greater incidence (at least 10% higher).
+In patients who were 75 years of age or older, when compared to younger patients, neutropenia, anaemia, diarrhoea, dyspnoea and upper respiratory tract infection were reported with a greater incidence (at least 10% higher).
 
 Cautions for use in gastric adenocarcinoma cancer
 Among the 300 (221 patients in the phase III part of the study and 79 patients in the phase II part) patients treated with docetaxel in combination with cisplatin and 5-fluorouracil in the gastric cancer study, 74 were 65 years of age or older and 4 patients were 75 years of age or older.
@@ -149,27 +152,50 @@ The incidence of the following adverse events (all grades): lethargy, stomatitis
 Older people treated with TCF should be closely monitored.
 Excipients
 
-This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 252 mg ethanol 95% v/v per solvent vial, equivalent to 6 ml of beer or 2.6 ml wine.
+This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 252 mg ethanol 95% v/v per solvent vial, equivalent to 6 mL of beer or 2.6 mL wine.
 Harmful for those suffering from alcoholism.
+
 To be taken into account in pregnant or breast-feeding women, in children and in high-risk groups such as patients with liver disease, or epilepsy.
 
 Consideration should be given to possible effects on the central nervous system.
 
-[TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
+Polysorbate-80 (E433)
 
-This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 932 mg ethanol 95% v/v per solvent vial, equivalent to 23 ml of beer or 9.5 ml wine.
+This medicine contains 520 mg of polysorbate 80 (E433) in each vial which is equivalent to 1.04 g/1 mL.
+Polysorbates may cause allergic reactions.
 
-[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+Polysorbates can have cardiovascular effect (hypotension/ cardiac depression).
+To minimize the risk of cardiovascular effects consider lowering the rate of infusion.
+
+Potential of polysorbate for QT prolongation and torsades de pointes must be considered when used concomitantly with the medicines that prolong the QT/QTc interval or for patients with congenital syndrome.
+
+Polysorbates may have an effect on the liver.
+Case reports in adults indicate an onset of signs of hepatotoxicity (elevated liver enzymes) at a cumulative daily dose of 35-40 mg/kg.
+
+[TAXOTERE 80 mg/2 mL concentrate and solvent for solution for infusion]
+
+This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 932 mg ethanol 95% v/v per solvent vial, equivalent to 23 mL of beer or 9.5 mL wine.
+
+This medicine contains 2 080 mg of polysorbate 80 (E433) in each vial which is equivalent to 1.04 g/1 mL.
+
+[TAXOTERE 20 mg/1 mL concentrate for solution for infusion]
 
 Of the 333 patients treated with docetaxel every three weeks in a prostate cancer study(TAX 327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 
-This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 395 mg ethanol anhydrous per vial, equivalent to 10 ml of beer or 4 ml wine.
+This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 395 mg ethanol anhydrous per vial, equivalent to 10 mL of beer or 4 mL wine.
+
 To be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease, or epilepsy.
 
-[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+This medicine contains 540 mg of polysorbate 80 (E433) in each vial which is equivalent to 0.54 g/1 mL.
 
-This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 1.58 g ethanol anhydrous per vial, equivalent to 40 ml of beer or 17 ml wine.
+[TAXOTERE 80 mg/4 mL concentrate for solution for infusion]
 
-[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 1.58 g ethanol anhydrous per vial, equivalent to 40 mL of beer or 17 mL wine.
 
-This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 3.16 g ethanol anhydrous per vial, equivalent to 80 ml of beer or 33 ml wine.
+This medicine contains 2 160 mg of polysorbate 80 (E433) in each vial which is equivalent to 0.54 g/1 mL.
+
+[TAXOTERE 160 mg/8 mL concentrate for solution for infusion.]
+
+This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 3.16 g ethanol anhydrous per vial, equivalent to 80 mL of beer or 33 mL wine.
+
+This medicine contains 4 320 mg of polysorbate 80 (E433) in each vial which is equivalent to 0.54 g/1 mL.

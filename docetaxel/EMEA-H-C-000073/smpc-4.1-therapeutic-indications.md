@@ -8,6 +8,7 @@ TAXOTERE in combination with doxorubicin and cyclophosphamide is indicated for t
 - operable node-negative breast cancer
 
 For patients with operable node-negative breast cancer, adjuvant treatment should be restricted to patients eligible to receive chemotherapy according to internationally established criteria for primary therapy of early breast cancer (see section 5.1).
+
 TAXOTERE in combination with doxorubicin is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have not previously received cytotoxic therapy for this condition.
 
 TAXOTERE monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic therapy.
@@ -26,6 +27,7 @@ TAXOTERE in combination with cisplatin is indicated for the treatment of patient
 Prostate cancer
 
 TAXOTERE in combination with prednisone or prednisolone is indicated for the treatment of patients with metastatic castration-resistant prostate cancer.
+
 TAXOTERE in combination with androgen-deprivation therapy (ADT), with or without prednisone or prednisolone, is indicated for the treatment of patients with metastatic hormone-sensitive prostate cancer.
 
 Gastric adenocarcinoma
