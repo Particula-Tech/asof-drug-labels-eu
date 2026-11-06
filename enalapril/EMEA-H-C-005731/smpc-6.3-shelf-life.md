@@ -7,5 +7,5 @@ After first opening, use within 100 days.
 
 AQUMELDI 1 mg orodispersible tablets
 
-18 months.
+2 years.
 After first opening, use within 100 days.
