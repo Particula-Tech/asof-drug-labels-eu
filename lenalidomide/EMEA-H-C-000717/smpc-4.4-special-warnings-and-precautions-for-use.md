@@ -62,8 +62,8 @@ The efficacy of contraceptive steroids may be reduced during co-treatment with d
 
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
-Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
 
+Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
 Pregnancy testing
 According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 mIU/mL must be performed for women of childbearing potential as outlined below.
 This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
@@ -98,6 +98,7 @@ Other special warnings and precautions for use
 Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors and within the first 12 months when used in combination with dexamethasone.
 Patients with known risk factors – including prior thrombosis – should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
+
 Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism).
 The risk of venous thromboembolism was seen to a lesser extent with lenalidomide in combination with melphalan and prednisone.
@@ -132,11 +133,11 @@ A complete blood cell count, including white blood cell count with differential 
 In mantle cell lymphoma patients, the monitoring scheme should be every 2 weeks in cycles 3 and 4, and then at the start of each cycle.
 In follicular lymphoma, the monitoring scheme should be weekly for the first 3 weeks of cycle 1 (28 days), every 2 weeks during cycles 2 through 4, and then at the start of each cycle thereafter.
 A dose interruption and/or a dose reduction may be required (see section 4.2).
-
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
 Patients should be advised to promptly report febrile episodes.
 
 Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxis, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8, Haemorrhagic disorders).
+
 Co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
 
 - Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
@@ -156,8 +157,7 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 - Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with bortezomib and dexamethasone
 
 Grade 4 neutropenia was observed at a lower frequency in the lenalidomide in combination with bortezomib and dexamethasone (RVd) arm compared to the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study.
-Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm and Rd arm
-(0.0% vs 0.4%).
+Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm and Rd arm (0.0% vs 0.4%).
 Patients should be advised to promptly report febrile episodes; a treatment interruption and/or dose reduction may be required (see section 4.2).
 
 Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the RVd arm compared to the Rd comparator arm (17.2% vs 9.4%).
@@ -200,7 +200,6 @@ Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported.
 Optimal control of co-morbid conditions influencing thyroid function is recommended before start of treatment.
 Baseline and ongoing monitoring of thyroid function is recommended.
-
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 There was no increase in peripheral neuropathy observed with lenalidomide in combination with dexamethasone or melphalan and prednisone or lenalidomide monotherapy or with long term use of lenalidomide for the treatment of newly diagnosed multiple myeloma.
@@ -249,8 +248,7 @@ Adverse events
 In study MCL-002, during treatment cycle 1, 11/81 (14%) patients with high tumour burden were withdrawn from therapy in the lenalidomide arm vs. 1/28 (4%) in the control group.
 The main reason for treatment withdrawal for patients with high tumour burden during treatment cycle 1 in the lenalidomide arm was adverse events, 7/11 (64%).
 
-Patients with high tumour burden should therefore be closely monitored for adverse reactions (see
-Section 4.8) including signs of tumour flare reaction (TFR).
+Patients with high tumour burden should therefore be closely monitored for adverse reactions (see Section 4.8) including signs of tumour flare reaction (TFR).
 Please refer to section 4.2 for dose adjustments for TFR.
 
 High tumour burden was defined as at least one lesion ≥ 5 cm in diameter or 3 lesions ≥ 3 cm.
@@ -281,7 +279,6 @@ In patients receiving lenalidomide in combination with dexamethasone until progr
 A 1.3-fold increase in incidence rate of solid tumour SPM has been observed in patients receiving lenalidomide in combination with dexamethasone until progression or for 18 months (1.58 per 100 person-years) compared to thalidomide in combination with melphalan and prednisone (1.19 per 100 person-years).
 
 In newly diagnosed multiple myeloma patients receiving lenalidomide in combination with bortezomib and dexamethasone, the hematologic SPM incidence rate was 0.00 – 0.16 per 100 person-years and the incidence rate of solid tumour SPM was 0.21 – 1.04 per 100 person-years.
-
 The increased risk of secondary primary malignancies associated with lenalidomide is relevant also in the context of NDMM after stem cell transplantation.
 Though this risk is not yet fully characterized, it should be kept in mind when considering and using Revlimid in this setting.
 
@@ -290,6 +287,7 @@ The incidence rate of solid tumour SPMs was 1.36 per 100 person-years for the le
 
 The risk of occurrence of hematologic SPM must be taken into account before initiating treatment with lenalidomide either in combination with melphalan or immediately following high-dose melphalan and ASCT.
 Physicians should carefully evaluate patients before and during treatment using standard cancer screening for occurrence of SPM and institute treatment as indicated.
+
 Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 
 - Karyotype
@@ -314,7 +312,6 @@ Hematologic SPM of AML occurred in 0.29 per 100 person-years in the lenalidomide
 The incidence rate of hematologic plus solid tumour SPMs (excluding non-melanoma skin cancers) was 0.87 per 100 person-years in the lenalidomide/rituximab arm, compared to 1.17 per 100 person-years in patients receiving placebo/rituximab with a median follow-up of 30.59 months (range 0.6 to 50.9 months).
 
 Non-melanoma skin cancers are identified risks and comprise squamous cell carcinomas of skin or basal cell carcinomas.
-
 Physicians should monitor patients for the development of SPMs.
 Both the potential benefit of lenalidomide and the risk of SPMs should be considered when considering treatment with lenalidomide.
 
@@ -328,6 +325,7 @@ Once parameters have returned to baseline, treatment at a lower dose may be cons
 Lenalidomide is excreted by the kidneys.
 It is important to dose adjust patients with renal impairment in order to avoid plasma levels which may increase the risk for higher haematological adverse reactions or hepatotoxicity.
 Monitoring of liver function is recommended, particularly when there is a history of or concurrent viral liver infection or when lenalidomide is combined with medicinal products known to be associated with liver dysfunction.
+
 Infection with or without neutropenia
 Patients with multiple myeloma are prone to develop infections including pneumonia.
 A higher rate of infections was observed with lenalidomide in combination with dexamethasone than with MPT in patients with NDMM who are not eligible for transplant, and with lenalidomide maintenance compared to placebo in patients with NDMM who had undergone ASCT.
@@ -350,7 +348,7 @@ Caution should be exercised when lenalidomide is used in patients previously inf
 These patients should be closely monitored for signs and symptoms of active HBV infection throughout therapy.
 
 Progressive multifocal leukoencephalopathy
-Cases of progressive multifocal leukoencephalopathy (PML), including fatal cases, have been reported with lenalidomide.
+Cases of progressive multifocal leukoencephalopathy (PML), including fatal cases, have been reported with lenalidomide (see section 4.8).
 PML was reported several months to several years after starting the treatment with lenalidomide.
 Cases have generally been reported in patients taking concomitant dexamethasone or prior treatment with other immunosuppressive chemotherapy.
 Physicians should monitor patients at regular intervals and should consider PML in the differential diagnosis in patients with new or worsening neurological symptoms, cognitive or behavioural signs or symptoms.
@@ -363,9 +361,16 @@ Additional follow-up and evaluation may be warranted if no alternative diagnosis
 If PML is suspected, further dosing must be suspended until PML has been excluded.
 If PML is confirmed, lenalidomide must be permanently discontinued.
 
+Haemophagocytic lymphohistiocytosis
+Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, has been reported in patients receiving lenalidomide.
+HLH is a life-threatening syndrome characterised by fever, skin rash, lymphadenopathy, hepato- and/or splenomegaly and cytopenias.
+Patients should be monitored for clinical signs and symptoms of HLH.
+For suspected HLH, lenalidomide must be interrupted for diagnostic workup and treatment for HLH initiated.
+
 Newly diagnosed multiple myeloma patients
 There was a higher rate of intolerance (Grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age > 75 years, ISS stage III, ECOG PS ≥ 2 or CLcr < 60 mL/min when lenalidomide is given in combination.
-Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS ≥ 2 or CLcr < 60 mL/min (see sections 4.2 and 4.8).
+Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS ≥ 2 or
+CLcr < 60 mL/min (see sections 4.2 and 4.8).
 
 Cataract
 Cataract has been reported with a higher frequency in patients receiving lenalidomide in combination with dexamethasone particularly when used for a prolonged time.

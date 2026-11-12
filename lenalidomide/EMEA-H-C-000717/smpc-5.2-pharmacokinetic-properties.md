@@ -3,18 +3,18 @@
 Lenalidomide has an asymmetric carbon atom and can therefore exist as the optically active forms S(-) and R(+).
 Lenalidomide is produced as a racemic mixture.
 Lenalidomide is generally more soluble in organic solvents but exhibits the greatest solubility in 0.1N HCl buffer.
+
 Absorption
 Lenalidomide is rapidly absorbed following oral administration in healthy volunteers, under fasting conditions, with maximum plasma concentrations occurring between 0.5 and 2 hours post-dose.
 In patients, as well as in healthy volunteers, the maximum concentration (Cmax) and area-under-the-concentration time curve (AUC) increase proportionally with increases in dose.
 Multiple dosing does not cause marked medicinal product accumulation.
-In plasma, the relative exposures of the S- and R- enantiomers of lenalidomide are approximately 56% and 44%, respectively.
+In plasma, the relative exposures of the S- and R-enantiomers of lenalidomide are approximately 56% and 44%, respectively.
 
 Co-administration with a high-fat and high-calorie meal in healthy volunteers reduces the extent of absorption, resulting in an approximately 20% decrease in area under the concentration versus time curve (AUC) and 50% decrease in Cmax in plasma.
 However, in the main multiple myeloma and myelodysplastic syndromes registration trials where the efficacy and safety were established for lenalidomide, the medicinal product was administered without regard to food intake.
 Thus, lenalidomide can be administered with or without food.
 
 Population pharmacokinetic analyses indicate that the oral absorption rate of lenalidomide is similar among MM, MDS and MCL patients.
-
 Distribution
 In vitro (14C)-lenalidomide binding to plasma proteins was low with mean plasma protein binding at 23% and 29% in multiple myeloma patients and healthy volunteers, respectively.
 
