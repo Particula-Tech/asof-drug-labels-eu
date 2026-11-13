@@ -30,11 +30,11 @@ Potential for ivacaftor to interact with transporters
 In vitro studies showed that ivacaftor is not a substrate for OATP1B1 or OATP1B3.
 Ivacaftor and its metabolites are substrates of BCRP in vitro.
 Due to its high intrinsic permeability and low likelihood of being excreted intact, co-administration of BCRP inhibitors is not expected to alter exposure of ivacaftor and M1-IVA, while any potential changes in M6-IVA exposures are not expected to be clinically relevant.
-
 Ciprofloxacin
 
 Co-administration of ciprofloxacin with ivacaftor did not affect the exposure of ivacaftor.
 No dose adjustment is required when ivacaftor is co-administered with ciprofloxacin.
+
 Medicinal products affected by ivacaftor
 
 Administration of ivacaftor may increase systemic exposure of medicinal products that are sensitive substrates of CYP2C9, and/or P-gp, and/or CYP3A which may increase or prolong their therapeutic effect and adverse reactions.

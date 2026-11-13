@@ -66,7 +66,6 @@ Table 4: Adverse reactions
 * Adverse reaction and frequency reported from clinical studies with ivacaftor in combination with tezacaftor/ivacaftor.
 † Adverse reaction and frequency reported from clinical studies with ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor.
 ^ Liver injury (ALT and AST and total bilirubin increase) reported from post-marketing data with ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor.
-This also included liver failure leading to transplantation in a patient with pre-existing cirrhosis and portal hypertension.
 Frequency cannot be estimated from the available data.
 
 Description of selected adverse reactions

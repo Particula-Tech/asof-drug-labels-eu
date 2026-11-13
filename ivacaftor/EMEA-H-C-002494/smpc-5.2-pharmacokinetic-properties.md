@@ -92,7 +92,7 @@ Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase
 
 Table 10: Mean (SD) ivacaftor exposure by age group
 
-| Age group | Dose | Cmin, ss (µg/mL) | AUC0-12h, (µg∙hss/ mL) |
+| Age group | Dose | Cmin, ss (µg/mL) | AUC0 -12h, (µg∙hss/mL) |
 | --- | --- | --- | --- |
 | 1 month to less than 2 months (≥ 3 kg)⁎ | 13.4 mg q24h | 0.300 (0.221)† | 5.84 (2.98)† |
 | 2 months to less than 4 months (≥ 3 kg)⁎ | 13.4 mg q12h | 0.406 (0.266)† | 6.45 (3.43)† |
@@ -100,6 +100,7 @@ Table 10: Mean (SD) ivacaftor exposure by age group
 | 6 months to less than 12 months (≥5 kg to < 7 kg)‡ | 25 mg q12h | 0.336 | 5.41 |
 | 6 months to less than 12 months (7 kg to < 14 kg) | 50 mg q12h | 0.508 (0.252) | 9.14 (4.20) |
 | 12 months to less than 24 months (7 kg to < 14 kg) | 50 mg q12h | 0.440 (0.212) | 9.05 (3.05) |
+| Age group | Dose | Cmin, ss (µg/mL) | AUC0-12h, (µg∙hss/ mL) |
 | 12 months to less than 24 months (≥ 14 kg to < 25 kg) | 75 mg q12h | 0.451 (0.125) | 9.60 (1.80) |
 | 2- to 5-year-olds (< 14 kg) | 50 mg q12h | 0.577 (0.317) | 10.50 (4.26) |
 | 2- to 5-year-olds (≥ 14 kg to < 25 kg) | 75 mg q12h | 0.629 (0.296) | 11.30 (3.82) |

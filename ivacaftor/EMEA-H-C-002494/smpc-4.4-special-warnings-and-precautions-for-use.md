@@ -14,16 +14,20 @@ Less evidence of a positive effect of ivacaftor has been shown for patients with
 Ivacaftor in a combination regimen with tezacaftor/ivacaftor should not be prescribed in patients with CF who are heterozygous for the F508del mutation and have a second CFTR mutation not listed in section 4.1.
 Elevated transaminases and hepatic injury
 
-In a patient with cirrhosis and portal hypertension, liver failure leading to transplantation has been reported while receiving ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
-This medicinal product should be used with caution in patients with pre-existing advanced liver disease (e.g., cirrhosis, portal hypertension) and only if the benefits are expected to outweigh the risks.
-If used in these patients, they should be closely monitored after the initiation of treatment (see sections 4.2, 4.8, and 5.2).
+Cases of liver failure leading to transplantation have been reported within the first 6 months of treatment in patients with and without pre-existing advanced liver disease while receiving ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
+Elevated transaminases are common in patients with CF and have been observed in some patients treated with ivacaftor as monotherapy and in combination regimens with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor.
+In patients taking ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor, these elevations have sometimes been associated with concomitant elevations in total serum bilirubin.
+Assessments of transaminases (ALT and AST) and total bilirubin are recommended for all patients prior to initiating treatment, every 3 months during the first year of treatment and annually thereafter.
 
-Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor as monotherapy and in combination regimens with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor.
-In patients taking ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor, these elevations have sometimes been associated with concomitant elevations in total bilirubin.
-Therefore, assessments of transaminases (ALT and AST) and total bilirubin are recommended for all patients prior to initiating ivacaftor, every 3 months during the first year of treatment and annually thereafter.
-For all patients with a history of liver disease or transaminase elevations, more frequent monitoring of liver function tests should be considered.
-In the event of significant elevations of transaminases (e.g., patients with ALT or AST > 5 × the upper limit of normal (ULN), or ALT or AST > 3 × ULN with bilirubin > 2 × ULN), dosing should be interrupted, and laboratory tests closely followed until the abnormalities resolve.
-Following resolution of transaminase elevations, the benefits and risks of resuming treatment should be considered (see sections 4.2, 4.8, and 5.2).
+For patients with a history of liver disease or transaminase elevations, more frequent monitoring should be considered.
+
+Interrupt treatment and promptly measure serum transaminases and total bilirubin if a patient develops clinical signs or symptoms of liver injury.
+Interrupt dosing, in the event of ALT or AST > 5 × the upper limit of normal (ULN), or ALT or AST > 3 × ULN with total bilirubin > 2 × ULN.
+Closely monitor the laboratory tests until the abnormalities resolve.
+Following resolution, consider the benefits and risks of resuming treatment (see section 4.8).
+Patients who resume treatment after interruption should be monitored closely.
+
+In patients with pre-existing advanced liver disease, ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor should be used with caution and only if the benefits are expected to outweigh the risks (see sections 4.2, 4.8, and 5.2).
 
 Hepatic impairment
 
@@ -43,10 +47,10 @@ Patients (and caregivers) should be alerted about the need to monitor for depres
 Renal impairment
 
 Caution is recommended while using ivacaftor in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
-
 Mutations unlikely to respond to modulator therapy
 
 Patients with a genotype consisting of two CFTR mutations that are known not to produce CFTR protein (i.e., two Class I mutations) are not expected to respond to CFTR modulator therapy.
+
 Clinical studies comparing ivacaftor/tezacaftor/elexacaftor to tezacaftor/ivacaftor or ivacaftor
 
 No clinical study has been conducted to directly compare ivacaftor/tezacaftor/elexacaftor to tezacaftor/ivacaftor or ivacaftor in patients not harbouring F508del variants.
@@ -83,11 +87,11 @@ Although other risk factors were present in some cases (such as corticosteroid u
 Baseline and follow-up ophthalmological examinations are recommended in paediatric patients initiating ivacaftor treatment (see section 5.3).
 
 Excipients with known effect
-
 Lactose
 
 This medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
 Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
@@ -95,8 +99,6 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 [Kalydeco 13.4 mg granules in sachet]
 
 Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R gating (Class III) or G970R mutation in at least one allele of the CFTR gene were included in studies 770-102, 770-103, 770-111 and 770-108 (see section 5.1).
-
-Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor as monotherapy and in combination regimens with ivacaftor/tezacaftor/elexacaftor.
 
 Use of ivacaftor as monotherapy is not recommended in patients aged 1 month to less than 6 months of age with any level of hepatic impairment.
 Use of ivacaftor as monotherapy is not recommended in patients aged 6 months and older weighing less than 25 kg with severe hepatic impairment unless the benefits are expected to outweigh the risks.
